@@ -1,1 +1,45 @@
 # yasmine-la-belle-gosses
+
+Un petit site d'une seule page (`index.html`) : un terminal qui « compile des sentiments »,
+un rapport de bugs, un diagnostic en JavaScript, puis **la** question… avec un bouton « Non »
+qui s'enfuit (et finit quand même par se laisser cliquer, pour proposer un verre à la place).
+
+Aucune dépendance, aucun serveur : c'est un fichier HTML statique.
+
+## Personnaliser
+
+En bas de `index.html`, modifie le bloc `CONFIG` :
+
+```js
+const CONFIG = {
+  prenom: "Yasmine",
+  signature: "ton informaticien préféré",   // ou ton prénom
+  lienReponse: "",                           // ex. "https://wa.me/33612345678" (vide = bouton caché)
+};
+```
+
+Les textes (bugs, code, etc.) sont directement dans le HTML : n'hésite pas à y glisser
+une anecdote à vous, c'est ce qui fera la différence.
+
+Pour tester : ouvre simplement `index.html` dans ton navigateur (idéalement sur ton téléphone).
+
+## Mettre en ligne gratuitement (sans domaine, sans serveur)
+
+### Option A : Netlify Drop (le plus simple, le repo reste privé)
+
+1. Va sur <https://app.netlify.com/drop> et crée un compte gratuit (sinon le lien expire).
+2. Glisse-dépose le dossier du projet (ou juste `index.html`).
+3. Tu obtiens un lien du type `https://quelque-chose.netlify.app`.
+4. *Site configuration → Change site name* pour un joli lien, par ex. `https://pour-yasmine.netlify.app`.
+
+### Option B : GitHub Pages
+
+GitHub Pages est gratuit pour un repo **public** (pour un repo privé, il faut GitHub Pro).
+
+1. *Settings → General → Danger Zone → Change visibility → Public*.
+2. *Settings → Pages → Build and deployment* : Source = **Deploy from a branch**,
+   branche = `main` (ou `claude/awesome-volta-xbtxy5`), dossier = `/ (root)` → **Save**.
+3. Après une minute, le site est en ligne sur
+   <https://asmaray42.github.io/yasmine-la-belle-gosses/>
+
+Ensuite, envoie-lui le lien en DM. L'aperçu affichera « Un petit programme pour toi ♥ ».
