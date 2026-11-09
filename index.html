@@ -4,20 +4,20 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Pardon, Yasmine</title>
-<meta name="description" content="Je te dois la vérité.">
+<meta name="description" content="Je te dois des excuses.">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Pardon.">
-<meta property="og:description" content="Je te dois la vérité.">
+<meta property="og:description" content="Je te dois des excuses. Des vraies.">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Pardon.">
-<meta name="twitter:description" content="Je te dois la vérité.">
+<meta name="twitter:description" content="Je te dois des excuses. Des vraies.">
 <meta name="theme-color" content="#eef1f3" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#11151a" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>
-  /* Layout : une seule colonne de lettre, lue de haut en bas ; la vérité mise à part dans un bloc encadré */
+  /* Layout : une lettre lue page par page, une barre de navigation calme en bas ; tout peut aussi se lire d'un coup */
   :root{
     --bg:#eef1f3;
     --paper:#f8f9fa;
@@ -27,155 +27,356 @@
     --accent:#30507f;
     --serif:"Newsreader", Georgia, "Times New Roman", serif;
     --label:"Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+    --ease:cubic-bezier(.2,.75,.25,1);
     color-scheme:light;
   }
   @media (prefers-color-scheme: dark){
     :root:not([data-theme="light"]){
-      --bg:#11151a;
-      --paper:#181d24;
-      --ink:#e4e8ed;
-      --muted:#98a2ad;
-      --line:#2a313a;
-      --accent:#a9c0e8;
+      --bg:#11151a; --paper:#181d24; --ink:#e4e8ed; --muted:#98a2ad; --line:#2a313a; --accent:#a9c0e8;
       color-scheme:dark;
     }
   }
   :root[data-theme="dark"]{
-    --bg:#11151a;
-    --paper:#181d24;
-    --ink:#e4e8ed;
-    --muted:#98a2ad;
-    --line:#2a313a;
-    --accent:#a9c0e8;
+    --bg:#11151a; --paper:#181d24; --ink:#e4e8ed; --muted:#98a2ad; --line:#2a313a; --accent:#a9c0e8;
     color-scheme:dark;
   }
 
   *{box-sizing:border-box;margin:0;padding:0}
+  [hidden]{display:none !important}
   html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   body{
     background:var(--bg);color:var(--ink);
-    font-family:var(--serif);font-size:20px;line-height:1.7;
-    font-optical-sizing:auto;
+    font-family:var(--serif);font-size:20px;line-height:1.65;
     -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
   }
   ::selection{background:var(--accent);color:var(--bg)}
+  button{font:inherit;color:inherit}
 
-  .letter{
-    max-width:34em;margin:0 auto;
-    padding-block:calc(env(safe-area-inset-top, 0px) + 72px) calc(env(safe-area-inset-bottom, 0px) + 80px);
+  /* ---------- pages ---------- */
+  .step{
+    min-height:100vh;min-height:100svh;
+    display:flex;flex-direction:column;justify-content:center;
+    padding-block:calc(env(safe-area-inset-top, 0px) + 56px) calc(env(safe-area-inset-bottom, 0px) + 112px);
     padding-left:max(22px, env(safe-area-inset-left, 0px));
     padding-right:max(22px, env(safe-area-inset-right, 0px));
-    display:flex;flex-direction:column;gap:40px;
+    outline:none;
   }
+  .wrap{width:100%;max-width:32em;margin:0 auto;display:flex;flex-direction:column;gap:24px}
+  .step:not([hidden]) .wrap > *{animation:in .7s var(--ease) both;animation-delay:calc(var(--i,0) * 110ms)}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
 
-  .meta,.label,.note{
+  body.all .step{min-height:auto;padding-block:56px}
+  body.all .step + .step{border-top:1px solid var(--line)}
+  body.all .step .wrap > *{animation:none}
+  body.all .nav,body.all .only-steps{display:none !important}
+
+  .meta,.label{
     font-family:var(--label);font-size:13px;line-height:1.5;
     letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
   }
-  .note{text-transform:none;letter-spacing:.01em;font-size:15px}
+  h1{font-weight:400;font-size:clamp(56px,15vw,96px);line-height:1;letter-spacing:-.02em}
+  h2{font-weight:400;font-size:clamp(34px,8.5vw,50px);line-height:1.1;letter-spacing:-.015em;text-wrap:balance}
+  p{text-wrap:pretty}
+  .soft{color:var(--muted)}
+  .strong{font-weight:500}
+  .sorry{font-style:italic;font-size:clamp(46px,12vw,76px);line-height:1.05;color:var(--accent);letter-spacing:-.02em;text-wrap:balance}
+  .sign{font-size:20px;color:var(--muted)}
+  .hint{font-family:var(--label);font-size:15px;color:var(--muted)}
 
-  h1{
-    font-weight:400;font-size:clamp(40px,9vw,62px);line-height:1.08;
-    letter-spacing:-.015em;text-wrap:balance;
+  /* ---------- buttons ---------- */
+  .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+  .btn{
+    appearance:none;-webkit-appearance:none;cursor:pointer;
+    font-family:var(--label);font-size:16px;font-weight:700;letter-spacing:.01em;
+    padding:14px 22px;border-radius:999px;border:1px solid var(--ink);
+    background:var(--ink);color:var(--bg);
+    transition:transform .2s var(--ease),background .2s,color .2s,border-color .2s;
+    -webkit-tap-highlight-color:transparent;touch-action:manipulation;
   }
+  .btn:active{transform:scale(.97)}
+  .btn:focus-visible,.card:focus-visible,.choice:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+  .btn.ghost{background:transparent;color:var(--ink);border-color:var(--line)}
 
-  .body{display:flex;flex-direction:column;gap:1.1em}
-  .body p{max-width:32em;text-wrap:pretty}
-
-  .truth{
-    background:var(--paper);border:1px solid var(--line);border-radius:4px;
-    padding:26px 24px 28px;display:flex;flex-direction:column;gap:14px;
+  /* ---------- cartes ---------- */
+  .cards{display:grid;gap:10px}
+  .card{
+    appearance:none;-webkit-appearance:none;border:0;background:none;cursor:pointer;text-align:left;
+    perspective:1200px;-webkit-tap-highlight-color:transparent;touch-action:manipulation;border-radius:8px;
   }
-  .truth ul{list-style:none;display:flex;flex-direction:column;gap:8px}
-  .truth li{font-size:24px;line-height:1.4;text-wrap:pretty}
-
-  .sorry{
-    font-style:italic;font-size:clamp(28px,6.5vw,38px);line-height:1.25;color:var(--accent);
-    text-wrap:balance;
+  .card-inner{display:grid;transition:transform .7s var(--ease);transform-style:preserve-3d}
+  .card.flipped .card-inner{transform:rotateY(180deg)}
+  .face{
+    grid-area:1/1;backface-visibility:hidden;-webkit-backface-visibility:hidden;
+    border:1px solid var(--line);border-radius:8px;padding:16px 20px;min-height:92px;
+    display:flex;flex-direction:column;justify-content:center;gap:6px;
   }
-  .end{display:flex;flex-direction:column;gap:10px}
-  .sign{font-size:22px}
-  .rule{border:0;border-top:1px solid var(--line)}
+  .front{background:var(--paper)}
+  .back{background:var(--ink);color:var(--bg);border-color:var(--ink);transform:rotateY(180deg)}
+  .back .label{color:inherit;opacity:.65}
+  .face .big{font-size:23px;line-height:1.35}
+  .after{scroll-margin-bottom:calc(120px + env(safe-area-inset-bottom, 0px));font-size:22px;color:var(--accent);opacity:0;transform:translateY(6px);transition:opacity .6s var(--ease),transform .6s var(--ease)}
+  .after.show{opacity:1;transform:none}
+  body.all .after{opacity:1;transform:none}
 
-  /* une seule entrée douce au chargement */
-  .in{animation:in .7s ease-out both;animation-delay:calc(var(--i,0) * 90ms)}
-  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
-  @media (prefers-reduced-motion:reduce){.in{animation:none}}
+  /* ---------- choix ---------- */
+  .choices{display:grid;gap:10px}
+  .choice{
+    appearance:none;-webkit-appearance:none;cursor:pointer;text-align:left;
+    font-family:var(--serif);font-size:21px;line-height:1.3;
+    padding:16px 20px;border-radius:8px;border:1px solid var(--line);background:var(--paper);color:var(--ink);
+    transition:background .2s,color .2s,border-color .2s;
+    -webkit-tap-highlight-color:transparent;touch-action:manipulation;
+  }
+  .choice[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+  .reply{
+    border-left:2px solid var(--accent);padding:4px 0 4px 18px;font-size:21px;
+    min-height:1px;
+  }
+  .reply:empty{display:none}
+  .reply.fresh{animation:in .6s var(--ease) both}
+  .note{font-family:var(--label);font-size:14.5px;line-height:1.55;color:var(--muted)}
+
+  /* ---------- navigation ---------- */
+  .nav{
+    position:fixed;left:0;right:0;bottom:0;z-index:5;
+    background:var(--bg);border-top:1px solid var(--line);
+    padding:12px max(16px, env(safe-area-inset-right, 0px)) calc(12px + env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
+  }
+  .nav-in{max-width:32em;margin:0 auto;display:flex;align-items:center;gap:14px}
+  .nav .btn{padding:11px 18px;font-size:15px}
+  .count{flex:1;display:flex;flex-direction:column;gap:6px;align-items:center;font-family:var(--label);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+  .track{width:100%;max-width:160px;height:3px;border-radius:3px;background:var(--line);overflow:hidden}
+  .track i{display:block;height:100%;width:0;background:var(--accent);transition:width .6s var(--ease)}
+  .nav .spacer{width:96px}
 
   @media (max-width:420px){
     body{font-size:18.5px}
-    .letter{gap:34px;padding-block:calc(env(safe-area-inset-top, 0px) + 52px) calc(env(safe-area-inset-bottom, 0px) + 64px)}
-    .truth li{font-size:22px}
+    .face .big{font-size:21px}
+    .choice{font-size:19.5px}
+    .reply{font-size:19.5px}
+  }
+  @media (prefers-reduced-motion:reduce){
+    .step:not([hidden]) .wrap > *,.reply.fresh{animation:none}
+    .card-inner,.after,.track i{transition:none}
   }
 </style>
 </head>
 <body>
-<main class="letter">
 
-  <p class="meta in" style="--i:0">À <span data-name>Yasmine</span> · le 9 novembre 2026</p>
+<main id="letter">
 
-  <h1 class="in" style="--i:1">Je te dois la vérité.</h1>
-
-  <div class="body in" style="--i:2">
-    <p><span data-name>Yasmine</span>,</p>
-    <p>Je vais faire simple, parce que pour une fois tu mérites que je sois clair.</p>
-    <p>Depuis le début, je t'ai menti. Sur mon âge, et sur qui j'étais. La personne que tu croyais connaître sur Twitter, ce n'était pas vraiment moi.</p>
-    <p>Je n'ai pas d'excuse. J'avais peur que tu ne me parles pas si je te disais la vérité, alors j'ai joué quelqu'un d'autre. Et plus ça durait, plus c'était dur d'arrêter. Ça explique, mais ça n'excuse rien.</p>
-    <p>Tu m'as fait confiance. Tu as pris du temps pour me parler en pensant savoir à qui tu parlais. Tu avais le droit de savoir, et je t'ai enlevé ce choix. Je m'en veux.</p>
-  </div>
-
-  <section class="truth in" style="--i:3" aria-labelledby="truthLabel">
-    <h2 class="label" id="truthLabel">La vérité</h2>
-    <ul id="truthList">
-      <li>Mon vrai nom, mon vrai âge, tout ce que tu veux savoir&nbsp;: demande-moi, et je te répondrai sans mentir.</li>
-    </ul>
+  <!-- 1 -->
+  <section class="step" aria-label="Pardon">
+    <div class="wrap">
+      <p class="meta">À <span data-name>Yasmine</span> · le 9 novembre 2026</p>
+      <h1>Pardon.</h1>
+      <p>Je t'ai dit la vérité. Maintenant je te dois des excuses, des vraies. Pas de blague cette fois, et rien à te demander.</p>
+      <p class="soft">Lis à ton rythme.</p>
+      <div class="row only-steps">
+        <button class="btn" data-next>Commencer</button>
+        <button class="btn ghost" id="readAll">Tout lire d'un coup</button>
+      </div>
+    </div>
   </section>
 
-  <div class="body in" style="--i:4">
-    <p id="oldSite">Le site que je t'avais fait, avec la demande en mariage, reposait sur ce mensonge. Je l'ai retiré. Je ne voulais pas que la dernière chose que je t'envoie soit encore fausse.</p>
-    <p>Ce que je t'ai écrit de gentil, je le pensais. Mais ça ne rattrape pas le reste, et je ne te demande pas de l'oublier.</p>
-    <p>Tu ne me dois rien. Ni réponse, ni pardon. Si tu ne veux plus me parler, je le comprendrai et je te laisserai tranquille. Si tu as des questions, je répondrai à toutes, honnêtement.</p>
-  </div>
+  <!-- 2 -->
+  <section class="step" aria-label="Je t'ai menti" hidden>
+    <div class="wrap">
+      <h2>Je t'ai menti.</h2>
+      <p>Depuis le début. Sur mon âge, et sur qui j'étais.</p>
+      <p>Tu as parlé à quelqu'un qui n'existait pas vraiment. Et c'est moi qui l'avais inventé.</p>
+    </div>
+  </section>
 
-  <div class="end in" style="--i:5">
-    <p class="sorry">Pardon, <span data-name>Yasmine</span>. Sincèrement.</p>
-    <p class="sign">— <span id="sign">Moi</span></p>
-  </div>
+  <!-- 3 -->
+  <section class="step" aria-label="Tu méritais mieux" hidden>
+    <div class="wrap">
+      <h2>Tu méritais mieux.</h2>
+      <p class="hint only-steps">Touche chaque carte.</p>
+      <div class="cards" id="cards">
+        <button class="card" aria-pressed="false">
+          <span class="card-inner">
+            <span class="face front"><span class="label">Tu méritais</span><span class="big">…</span></span>
+            <span class="face back" aria-hidden="true"><span class="label">Tu méritais</span><span class="big">la vérité, dès le premier message.</span></span>
+          </span>
+        </button>
+        <button class="card" aria-pressed="false">
+          <span class="card-inner">
+            <span class="face front"><span class="label">Tu méritais</span><span class="big">…</span></span>
+            <span class="face back" aria-hidden="true"><span class="label">Tu méritais</span><span class="big">de savoir à qui tu parlais vraiment.</span></span>
+          </span>
+        </button>
+        <button class="card" aria-pressed="false">
+          <span class="card-inner">
+            <span class="face front"><span class="label">Tu méritais</span><span class="big">…</span></span>
+            <span class="face back" aria-hidden="true"><span class="label">Tu méritais</span><span class="big">de choisir, en connaissant tout.</span></span>
+          </span>
+        </button>
+      </div>
+      <p class="after" id="after" aria-live="polite">Je ne t'ai rien donné de tout ça. Je m'en veux.</p>
+    </div>
+  </section>
 
-  <hr class="rule in" style="--i:6">
+  <!-- 4 -->
+  <section class="step" aria-label="Pourquoi" hidden>
+    <div class="wrap">
+      <h2>Pourquoi&nbsp;?</h2>
+      <p>Je n'ai pas d'excuse. J'avais peur que tu ne me parles pas si je te disais la vérité, alors j'ai joué quelqu'un d'autre. Et plus ça durait, plus c'était dur d'arrêter.</p>
+      <p class="strong">Ça explique. Ça n'excuse rien.</p>
+    </div>
+  </section>
 
-  <p class="note in" style="--i:6">Tu peux me répondre en DM. Ou pas. Les deux sont ok.</p>
+  <!-- 5 -->
+  <section class="step" aria-label="Ce que je t'ai pris" hidden>
+    <div class="wrap">
+      <h2>Ce que je t'ai pris.</h2>
+      <p>Ta confiance. Ton temps. Et le droit de décider, en connaissant tout, si tu voulais me parler.</p>
+      <p id="oldSite">Même la demande en mariage reposait sur ce mensonge. Je l'ai retirée&nbsp;: je ne voulais pas que la dernière chose que je t'envoie soit encore fausse.</p>
+      <p>Ce que je t'ai écrit de gentil, je le pensais. Mais ça ne rattrape pas le reste, et je ne te demande pas de l'oublier.</p>
+    </div>
+  </section>
+
+  <!-- 6 -->
+  <section class="step" aria-label="Pardon, sincèrement" hidden>
+    <div class="wrap">
+      <p class="sorry">Pardon, <span data-name>Yasmine</span>.</p>
+      <p>Sincèrement. Tu ne me dois rien&nbsp;: ni réponse, ni pardon.</p>
+      <p class="sign">— <span data-sign>Celui qui aurait dû te dire la vérité dès le début</span></p>
+    </div>
+  </section>
+
+  <!-- 7 -->
+  <section class="step" aria-label="C'est toi qui décides" hidden>
+    <div class="wrap">
+      <h2>Et maintenant, c'est toi qui décides.</h2>
+      <div class="choices" role="group" aria-label="Ta réponse">
+        <button class="choice" data-reply="talk" aria-pressed="false">On peut en parler</button>
+        <button class="choice" data-reply="time" aria-pressed="false">J'ai besoin de temps</button>
+        <button class="choice" data-reply="stop" aria-pressed="false">Je ne veux plus te parler</button>
+      </div>
+      <p class="reply" id="reply" aria-live="polite"></p>
+      <p class="note">Ce que tu choisis ici, je ne le saurai pas&nbsp;: rien ne m'est envoyé. Si tu veux me le dire, dis-le-moi en DM.</p>
+      <p class="note" id="allButtons">Cette fois, tous les boutons marchent du premier coup.</p>
+    </div>
+  </section>
 
 </main>
 
+<nav class="nav" aria-label="Navigation" hidden>
+  <div class="nav-in">
+    <button class="btn ghost" id="prev">← Retour</button>
+    <div class="count" aria-live="polite"><span id="count">1 / 7</span><span class="track"><i id="bar"></i></span></div>
+    <button class="btn" id="next">Continuer →</button>
+    <span class="spacer" id="spacer" hidden></span>
+  </div>
+</nav>
+
 <script>
 /* ================================================================
-   À REMPLIR · la vérité, rien que la vérité
+   PERSONNALISATION
    ================================================================ */
 const CONFIG = {
   prenom: "Yasmine",
-  vraiPrenom: "",          // ton vrai prénom, ex. "Karim"
-  vraiAge: "",             // ton vrai âge, ex. "27"
-  autresVerites: [],       // ex. ["Je ne suis pas rifain.", "Je ne bosse pas dans l'informatique."]
+  signature: "",              // vide = « Celui qui aurait dû te dire la vérité dès le début »
   mentionnerAncienSite: true, // false si elle n'a jamais vu le site de la demande en mariage
 };
 /* ================================================================ */
 
 (() => {
+  const $ = (s, r = document) => r.querySelector(s);
+  const $$ = (s, r = document) => [...r.querySelectorAll(s)];
   const clean = v => String(v ?? "").trim();
-  document.querySelectorAll("[data-name]").forEach(el => (el.textContent = clean(CONFIG.prenom) || "toi"));
 
-  const truths = [];
-  if (clean(CONFIG.vraiPrenom)) truths.push(`Je m'appelle ${clean(CONFIG.vraiPrenom)}.`);
-  if (clean(CONFIG.vraiAge)) truths.push(`J'ai ${clean(CONFIG.vraiAge)} ans.`);
-  (CONFIG.autresVerites || []).map(clean).filter(Boolean).forEach(t => truths.push(t));
-  if (truths.length) {
-    const list = document.getElementById("truthList");
-    list.replaceChildren(...truths.map(t => Object.assign(document.createElement("li"), { textContent: t })));
+  $$("[data-name]").forEach(el => (el.textContent = clean(CONFIG.prenom) || "toi"));
+  if (clean(CONFIG.signature)) $$("[data-sign]").forEach(el => (el.textContent = clean(CONFIG.signature)));
+  if (!CONFIG.mentionnerAncienSite) { $("#oldSite").remove(); $("#allButtons").remove(); }
+
+  /* ---------- pages ---------- */
+  const steps = $$(".step");
+  const nav = $(".nav");
+  const prev = $("#prev"), next = $("#next"), spacer = $("#spacer");
+  let i = 0;
+  steps.forEach(s => $$(".wrap > *", s).forEach((el, k) => el.style.setProperty("--i", k)));
+
+  function show(n, focus = true) {
+    i = Math.max(0, Math.min(steps.length - 1, n));
+    steps.forEach((s, k) => (s.hidden = k !== i));
+    nav.hidden = i === 0;
+    prev.hidden = i === 0;
+    const last = i === steps.length - 1;
+    next.hidden = last;
+    spacer.hidden = !last;
+    $("#count").textContent = `${i + 1} / ${steps.length}`;
+    $("#bar").style.width = ((i + 1) / steps.length) * 100 + "%";
+    window.scrollTo(0, 0);
+    if (focus) {
+      steps[i].setAttribute("tabindex", "-1");
+      steps[i].focus({ preventScroll: true });
+    }
   }
+  $$("[data-next]").forEach(b => b.addEventListener("click", () => show(i + 1)));
+  next.addEventListener("click", () => show(i + 1));
+  prev.addEventListener("click", () => show(i - 1));
 
-  if (clean(CONFIG.vraiPrenom)) document.getElementById("sign").textContent = clean(CONFIG.vraiPrenom);
-  if (!CONFIG.mentionnerAncienSite) document.getElementById("oldSite").remove();
+  $("#readAll").addEventListener("click", () => {
+    document.body.classList.add("all");
+    steps.forEach(s => (s.hidden = false));
+    nav.hidden = true;
+    steps[1].scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+
+  const inAll = () => document.body.classList.contains("all");
+  document.addEventListener("keydown", e => {
+    if (inAll() || e.altKey || e.ctrlKey || e.metaKey) return;
+    if (e.key === "ArrowRight") show(i + 1);
+    if (e.key === "ArrowLeft") show(i - 1);
+  });
+
+  // glisser à gauche / à droite pour tourner les pages
+  let sx = 0, sy = 0, st = 0;
+  document.addEventListener("touchstart", e => {
+    const t = e.touches[0]; sx = t.clientX; sy = t.clientY; st = Date.now();
+  }, { passive: true });
+  document.addEventListener("touchend", e => {
+    if (inAll()) return;
+    const t = e.changedTouches[0];
+    const dx = t.clientX - sx, dy = t.clientY - sy;
+    if (Date.now() - st < 600 && Math.abs(dx) > 70 && Math.abs(dy) < 50) show(i + (dx < 0 ? 1 : -1));
+  }, { passive: true });
+
+  /* ---------- cartes ---------- */
+  const cards = $$(".card");
+  const after = $("#after");
+  cards.forEach(card => card.addEventListener("click", () => {
+    const on = !card.classList.contains("flipped");
+    card.classList.toggle("flipped", on);
+    card.setAttribute("aria-pressed", String(on));
+    $(".front", card).setAttribute("aria-hidden", String(on));
+    $(".back", card).setAttribute("aria-hidden", String(!on));
+    if (cards.every(c => c.classList.contains("flipped")) && !after.classList.contains("show")) {
+      after.classList.add("show");
+      const smooth = !matchMedia("(prefers-reduced-motion: reduce)").matches;
+      setTimeout(() => after.scrollIntoView({ block: "nearest", behavior: smooth ? "smooth" : "auto" }), 350);
+    }
+  }));
+
+  /* ---------- son choix ---------- */
+  const REPLIES = {
+    talk: "Merci. Écris-moi quand tu veux, et pose-moi toutes les questions que tu as. Je répondrai à toutes, honnêtement.",
+    time: "Prends tout le temps qu'il te faut. Je ne te relancerai pas. Si tu reviens, ce sera parce que tu en as envie.",
+    stop: "Je comprends, et je le respecte. Tu n'as même pas besoin de me répondre : je ne t'écrirai plus. Merci d'avoir lu jusqu'au bout. Prends soin de toi.",
+  };
+  const reply = $("#reply");
+  $$(".choice").forEach(b => b.addEventListener("click", () => {
+    $$(".choice").forEach(c => c.setAttribute("aria-pressed", String(c === b)));
+    reply.textContent = REPLIES[b.dataset.reply];
+    reply.classList.remove("fresh");
+    void reply.offsetWidth;
+    reply.classList.add("fresh");
+  }));
+
+  show(0, false);
 })();
 </script>
 </body>

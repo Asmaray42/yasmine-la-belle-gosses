@@ -1,26 +1,23 @@
 # yasmine-la-belle-gosses
 
-Une lettre d'excuses d'une seule page (`index.html`) : je lui avoue que je lui ai menti
-sur mon âge et sur qui j'étais, sans excuse et sans rien lui demander en retour.
+Une lettre d'excuses interactive d'une seule page (`index.html`). Elle se lit page par page
+(boutons, flèches du clavier ou glisser du doigt), ou d'un coup. Il y a trois cartes à retourner
+(« Tu méritais… »), et à la fin elle choisit librement : en parler, prendre du temps, ou ne plus
+se parler. Chaque choix a une réponse respectueuse, et rien n'est envoyé nulle part.
 
 **En ligne :** <https://asmaray42.github.io/yasmine-la-belle-gosses/>
 
-## À remplir
+## Personnaliser
 
 En bas de `index.html`, le bloc `CONFIG` :
 
 ```js
 const CONFIG = {
   prenom: "Yasmine",
-  vraiPrenom: "",             // ton vrai prénom
-  vraiAge: "",                // ton vrai âge
-  autresVerites: [],          // autres choses vraies à lui dire
+  signature: "",              // vide = « Celui qui aurait dû te dire la vérité dès le début »
   mentionnerAncienSite: true, // false si elle n'a jamais vu le site de la demande en mariage
 };
 ```
-
-Tant que `vraiPrenom` et `vraiAge` sont vides, l'encadré « La vérité » lui propose de
-tout lui dire si elle le demande. Rempli, il les affiche, et la lettre est signée de ton vrai prénom.
 
 ## Mise en ligne (GitHub Pages)
 
