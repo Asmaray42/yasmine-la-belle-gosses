@@ -9,8 +9,7 @@ Elle répond en DM sur X : le site lui demande d'envoyer une capture du certific
 
 Aucune dépendance, aucun serveur : c'est un fichier HTML statique.
 
-**En ligne :** <https://claude.ai/artifact/TzTfYHMcZ1iEfbQqEaocEF>
-(à partager via le menu *Share* de la page, en accès « toute personne ayant le lien »).
+**En ligne :** <https://asmaray42.github.io/yasmine-la-belle-gosses/>
 
 ## Personnaliser
 
@@ -27,23 +26,11 @@ Les textes (bugs, code, etc.) sont directement dans le HTML.
 
 Pour tester : ouvre simplement `index.html` dans ton navigateur (idéalement sur ton téléphone).
 
-## Mettre en ligne gratuitement (sans domaine, sans serveur)
+## Mise en ligne (GitHub Pages)
 
-### Option A : Netlify Drop (le plus simple, le repo reste privé)
+Le site est servi par GitHub Pages depuis la branche `main`, dossier racine.
+À activer une seule fois : *Settings → Pages → Build and deployment* :
+Source = **Deploy from a branch**, branche = `main`, dossier = `/ (root)` → **Save**.
+Une minute plus tard, le site est en ligne sur <https://asmaray42.github.io/yasmine-la-belle-gosses/>.
 
-1. Va sur <https://app.netlify.com/drop> et crée un compte gratuit (sinon le lien expire).
-2. Glisse-dépose le dossier du projet (ou juste `index.html`).
-3. Tu obtiens un lien du type `https://quelque-chose.netlify.app`.
-4. *Site configuration → Change site name* pour un joli lien, par ex. `https://pour-yasmine.netlify.app`.
-
-### Option B : GitHub Pages
-
-GitHub Pages est gratuit pour un repo **public** (pour un repo privé, il faut GitHub Pro).
-
-1. *Settings → General → Danger Zone → Change visibility → Public*.
-2. *Settings → Pages → Build and deployment* : Source = **Deploy from a branch**,
-   branche = `main` (ou `claude/awesome-volta-xbtxy5`), dossier = `/ (root)` → **Save**.
-3. Après une minute, le site est en ligne sur
-   <https://asmaray42.github.io/yasmine-la-belle-gosses/>
-
-Ensuite, envoie-lui le lien en DM. L'aperçu affichera « Un petit programme pour toi ♥ ».
+Chaque push sur `main` met le site à jour automatiquement.
