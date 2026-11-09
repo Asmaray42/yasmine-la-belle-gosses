@@ -9,6 +9,9 @@ Elle répond en DM sur X : le site lui demande d'envoyer une capture du certific
 
 Aucune dépendance, aucun serveur : c'est un fichier HTML statique.
 
+**En ligne :** <https://claude.ai/artifact/TzTfYHMcZ1iEfbQqEaocEF>
+(à partager via le menu *Share* de la page, en accès « toute personne ayant le lien »).
+
 ## Personnaliser
 
 En bas de `index.html`, le bloc `CONFIG` :
