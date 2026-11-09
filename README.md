@@ -1,30 +1,26 @@
 # yasmine-la-belle-gosses
 
-Un petit site d'une seule page (`index.html`), signé Yassine : un terminal `yassine@rif`
-qui « compile » une tête dure et une fierté rifaine, un rapport de bugs, un diagnostic en
-JavaScript, puis **la** question… avec un bouton « Non » qui a la tête dure, lui aussi
-(il finit quand même par se laisser cliquer, et propose un thé à la menthe à la place).
-
-Elle répond en DM sur X : le site lui demande d'envoyer une capture du certificat.
-
-Aucune dépendance, aucun serveur : c'est un fichier HTML statique.
+Une lettre d'excuses d'une seule page (`index.html`) : je lui avoue que je lui ai menti
+sur mon âge et sur qui j'étais, sans excuse et sans rien lui demander en retour.
 
 **En ligne :** <https://asmaray42.github.io/yasmine-la-belle-gosses/>
 
-## Personnaliser
+## À remplir
 
 En bas de `index.html`, le bloc `CONFIG` :
 
 ```js
 const CONFIG = {
   prenom: "Yasmine",
-  signature: "Yassine",
+  vraiPrenom: "",             // ton vrai prénom
+  vraiAge: "",                // ton vrai âge
+  autresVerites: [],          // autres choses vraies à lui dire
+  mentionnerAncienSite: true, // false si elle n'a jamais vu le site de la demande en mariage
 };
 ```
 
-Les textes (bugs, code, etc.) sont directement dans le HTML.
-
-Pour tester : ouvre simplement `index.html` dans ton navigateur (idéalement sur ton téléphone).
+Tant que `vraiPrenom` et `vraiAge` sont vides, l'encadré « La vérité » lui propose de
+tout lui dire si elle le demande. Rempli, il les affiche, et la lettre est signée de ton vrai prénom.
 
 ## Mise en ligne (GitHub Pages)
 

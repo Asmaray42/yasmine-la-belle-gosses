@@ -1,714 +1,181 @@
 <!doctype html>
-<!--
-  Si tu lis ce code source : t'es encore plus geek que moi.
-  Ça mérite une deuxième demande en mariage. — Yassine
--->
 <html lang="fr">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Pour toi ♥</title>
-<meta name="description" content="Un petit programme écrit rien que pour toi. Lance-le.">
+<title>Pardon, Yasmine</title>
+<meta name="description" content="Je te dois la vérité.">
 <meta property="og:type" content="website">
-<meta property="og:title" content="Un petit programme pour toi ♥">
-<meta property="og:description" content="Je t'avais dit que je bossais dans l'informatique. Lance-le.">
+<meta property="og:title" content="Pardon.">
+<meta property="og:description" content="Je te dois la vérité.">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Un petit programme pour toi ♥">
-<meta name="twitter:description" content="Je t'avais dit que je bossais dans l'informatique. Lance-le.">
-<meta name="theme-color" content="#0e0a0b">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23ff3d55' d='M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z'/%3E%3C/svg%3E">
+<meta name="twitter:title" content="Pardon.">
+<meta name="twitter:description" content="Je te dois la vérité.">
+<meta name="theme-color" content="#eef1f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#11151a" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Anton&family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..700&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300..600;1,6..72,300..600&family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
 <style>
+  /* Layout : une seule colonne de lettre, lue de haut en bas ; la vérité mise à part dans un bloc encadré */
   :root{
-    --ink:#0e0a0b;
-    --panel:#0a0708;
-    --line:rgba(245,237,230,.13);
-    --cream:#f5ede6;
-    --muted:rgba(245,237,230,.66);
-    --faint:rgba(245,237,230,.4);
-    --red:#ff3d55;
-    --red-deep:#d7142f;
-    --gold:#f2c14e;
-    --green:#5fd38d;
-    --blue:#5aa9ff;
-    --hard:"Anton", Impact, "Arial Narrow Bold", sans-serif;
-    --serif:"Fraunces", Georgia, "Times New Roman", serif;
-    --mono:"JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-    --ease:cubic-bezier(.2,.8,.2,1);
+    --bg:#eef1f3;
+    --paper:#f8f9fa;
+    --ink:#1c2430;
+    --muted:#5a6573;
+    --line:#d3d9df;
+    --accent:#30507f;
+    --serif:"Newsreader", Georgia, "Times New Roman", serif;
+    --label:"Atkinson Hyperlegible", system-ui, -apple-system, "Segoe UI", sans-serif;
+    color-scheme:light;
   }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#11151a;
+      --paper:#181d24;
+      --ink:#e4e8ed;
+      --muted:#98a2ad;
+      --line:#2a313a;
+      --accent:#a9c0e8;
+      color-scheme:dark;
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#11151a;
+    --paper:#181d24;
+    --ink:#e4e8ed;
+    --muted:#98a2ad;
+    --line:#2a313a;
+    --accent:#a9c0e8;
+    color-scheme:dark;
+  }
+
   *{box-sizing:border-box;margin:0;padding:0}
-  [hidden]{display:none !important}
   html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
   body{
-    min-height:100vh;min-height:100svh;
-    background:var(--ink);
-    color:var(--cream);
-    font-family:var(--serif);
-    font-size:18px;line-height:1.55;
-    overflow-x:hidden;
+    background:var(--bg);color:var(--ink);
+    font-family:var(--serif);font-size:20px;line-height:1.7;
+    font-optical-sizing:auto;
     -webkit-font-smoothing:antialiased;
   }
-  body::before{
-    content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
-    background:
-      radial-gradient(120% 65% at 50% -18%, rgba(200,16,46,.42) 0%, rgba(200,16,46,0) 62%),
-      radial-gradient(70% 50% at 110% 108%, rgba(255,61,85,.18) 0%, rgba(255,61,85,0) 60%),
-      radial-gradient(60% 40% at -15% 85%, rgba(242,193,78,.07) 0%, rgba(242,193,78,0) 60%);
-  }
-  /* grain : un peu de rugosité */
-  body::after{
-    content:"";position:fixed;inset:0;z-index:40;pointer-events:none;opacity:.08;mix-blend-mode:overlay;
-    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  }
-  ::selection{background:var(--red);color:var(--ink)}
+  ::selection{background:var(--accent);color:var(--bg)}
 
-  /* ---------- floating hearts ---------- */
-  .sky{position:fixed;inset:0;pointer-events:none;overflow:hidden;z-index:0}
-  .f{
-    position:absolute;bottom:-40px;left:var(--x);
-    width:var(--s);height:var(--s);color:var(--red);opacity:var(--o);
-    animation:float var(--d) linear infinite;animation-delay:var(--dl);
-  }
-  .f svg{display:block;width:100%;height:100%}
-  @keyframes float{
-    from{transform:translate3d(0,0,0) rotate(0deg)}
-    to{transform:translate3d(var(--drift),calc(-100vh - 80px),0) rotate(var(--r))}
-  }
-  #fx{position:fixed;inset:0;width:100%;height:100%;pointer-events:none;z-index:30}
-
-  /* ---------- progress ---------- */
-  .progress{position:fixed;top:0;left:0;right:0;height:3px;z-index:10;background:rgba(255,255,255,.05)}
-  .progress i{
-    display:block;height:100%;width:0;
-    background:linear-gradient(90deg,var(--red-deep),var(--red),var(--gold));
-    box-shadow:0 0 14px rgba(255,61,85,.7);
-    transition:width .9s var(--ease);
+  .letter{
+    max-width:34em;margin:0 auto;
+    padding-block:calc(env(safe-area-inset-top, 0px) + 72px) calc(env(safe-area-inset-bottom, 0px) + 80px);
+    padding-left:max(22px, env(safe-area-inset-left, 0px));
+    padding-right:max(22px, env(safe-area-inset-right, 0px));
+    display:flex;flex-direction:column;gap:40px;
   }
 
-  /* ---------- scenes ---------- */
-  main{position:relative;z-index:1}
-  .scene{
-    display:none;
-    min-height:100vh;min-height:100svh;
-    padding:calc(env(safe-area-inset-top) + 56px) 20px calc(env(safe-area-inset-bottom) + 56px);
-    outline:none;
+  .meta,.label,.note{
+    font-family:var(--label);font-size:13px;line-height:1.5;
+    letter-spacing:.1em;text-transform:uppercase;color:var(--muted);
   }
-  .scene.active{display:flex;flex-direction:column;justify-content:center}
-  .wrap{width:100%;max-width:580px;margin:0 auto}
+  .note{text-transform:none;letter-spacing:.01em;font-size:15px}
 
-  .reveal{animation:rise .8s var(--ease) both;animation-delay:calc(var(--i,0) * 100ms + 60ms)}
-  @keyframes rise{
-    from{opacity:0;transform:translateY(22px);filter:blur(5px)}
-    to{opacity:1;transform:none;filter:none}
+  h1{
+    font-weight:400;font-size:clamp(40px,9vw,62px);line-height:1.08;
+    letter-spacing:-.015em;text-wrap:balance;
   }
 
-  .tag{
-    font-family:var(--mono);font-size:13px;letter-spacing:.02em;
-    color:var(--red);margin-bottom:18px;
-  }
-  .tag.ok{color:var(--green)}
+  .body{display:flex;flex-direction:column;gap:1.1em}
+  .body p{max-width:32em;text-wrap:pretty}
 
-  /* titres : dur dehors (Anton), tendre dedans (Fraunces italique) */
-  h1,h2{font-weight:400}
-  .hard{
-    display:block;font-family:var(--hard);font-weight:400;text-transform:uppercase;
-    letter-spacing:.005em;line-height:1.2;color:var(--cream);
+  .truth{
+    background:var(--paper);border:1px solid var(--line);border-radius:4px;
+    padding:26px 24px 28px;display:flex;flex-direction:column;gap:14px;
   }
-  h1 .hard{font-size:clamp(62px,18vw,116px)}
-  h2 .hard{font-size:clamp(40px,11.5vw,66px)}
-  h1 em,h2 em{
-    display:block;font-family:var(--serif);font-style:italic;font-weight:400;color:var(--red);
-    line-height:1.04;letter-spacing:-.02em;margin-top:.12em;font-variation-settings:"opsz" 144;
-  }
-  h1 em{font-size:clamp(42px,11.5vw,74px)}
-  h2 em{font-size:clamp(30px,8.4vw,46px)}
-  p em{font-style:italic;color:var(--red)}
+  .truth ul{list-style:none;display:flex;flex-direction:column;gap:8px}
+  .truth li{font-size:24px;line-height:1.4;text-wrap:pretty}
 
-  .lead{font-size:19px;color:var(--muted);margin-top:24px;max-width:32em}
-  .lead + .lead{margin-top:12px}
-  .lead strong{color:var(--cream);font-weight:600}
-  .small{font-family:var(--mono);font-size:12.5px;color:var(--faint);margin-top:24px;line-height:1.6}
+  .sorry{
+    font-style:italic;font-size:clamp(28px,6.5vw,38px);line-height:1.25;color:var(--accent);
+    text-wrap:balance;
+  }
+  .end{display:flex;flex-direction:column;gap:10px}
+  .sign{font-size:22px}
+  .rule{border:0;border-top:1px solid var(--line)}
 
-  /* ---------- buttons ---------- */
-  .actions{margin-top:36px;display:flex;gap:12px;flex-wrap:wrap;align-items:center}
-  .btn{
-    appearance:none;-webkit-appearance:none;border:0;cursor:pointer;text-decoration:none;
-    font-family:var(--mono);font-size:14px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;
-    padding:17px 22px;border-radius:6px;
-    background:var(--cream);color:var(--ink);
-    display:inline-flex;align-items:center;gap:10px;white-space:nowrap;
-    transition:transform .25s var(--ease),box-shadow .25s var(--ease),background .25s,opacity .3s;
-    -webkit-tap-highlight-color:transparent;touch-action:manipulation;user-select:none;-webkit-user-select:none;
-  }
-  .btn:hover{box-shadow:0 14px 34px -14px rgba(255,61,85,.8)}
-  .btn:active{transform:scale(.96)}
-  .btn:focus-visible{outline:2px solid var(--red);outline-offset:3px}
-  .btn.ghost{background:transparent;color:var(--cream);box-shadow:inset 0 0 0 1px var(--line)}
-  .btn.ghost:hover{box-shadow:inset 0 0 0 1px rgba(245,237,230,.35)}
-  .btn .arr{transition:transform .25s var(--ease)}
-  .btn:hover .arr{transform:translateX(3px)}
+  /* une seule entrée douce au chargement */
+  .in{animation:in .7s ease-out both;animation-delay:calc(var(--i,0) * 90ms)}
+  @keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.in{animation:none}}
 
-  /* ---------- terminal ---------- */
-  .term{
-    background:var(--panel);border:1px solid var(--line);border-radius:8px;overflow:hidden;
-    box-shadow:0 40px 90px -40px rgba(0,0,0,.95),0 0 90px -30px rgba(215,20,47,.45);
-  }
-  .term-bar{
-    display:flex;align-items:center;gap:7px;padding:12px 14px;
-    border-bottom:1px solid var(--line);
-    font-family:var(--mono);font-size:12px;color:var(--faint);
-  }
-  .term-bar .d{width:11px;height:11px;border-radius:50%;flex:none}
-  .term-bar .d:nth-child(1){background:var(--red)}
-  .term-bar .d:nth-child(2){background:var(--gold)}
-  .term-bar .d:nth-child(3){background:var(--green)}
-  .term-bar .t{flex:1;text-align:center;margin-right:40px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .term-body{
-    padding:18px 16px 22px;font-family:var(--mono);font-size:13.5px;line-height:1.8;
-    min-height:250px;cursor:default;
-  }
-  .tl{min-height:1.8em}
-  .tl.task{display:flex;align-items:baseline;gap:8px}
-  .tl.task .tx{flex:0 1 auto}
-  .tl .dots{flex:1 1 auto;min-width:14px;border-bottom:1px dotted rgba(245,237,230,.22);transform:translateY(-5px)}
-  .tl .st{flex:none;font-weight:700}
-  .tl.say{color:var(--cream);margin-top:6px}
-  .c-ok{color:var(--green)}
-  .c-gold{color:var(--gold)}
-  .c-warn{color:var(--red)}
-  .c-prompt{color:var(--red)}
-  .c-path{color:var(--gold)}
-  .cursor{
-    display:inline-block;width:.6em;height:1.15em;margin-left:2px;
-    background:var(--cream);vertical-align:-.2em;animation:blink 1.05s steps(1) infinite;
-  }
-  @keyframes blink{50%{opacity:0}}
-  #runWrap{opacity:0;transform:translateY(10px);transition:opacity .6s var(--ease),transform .6s var(--ease);pointer-events:none}
-  #runWrap.show{opacity:1;transform:none;pointer-events:auto}
-
-  /* ---------- bugs ---------- */
-  .bugs{list-style:none;margin-top:28px;display:grid;gap:10px}
-  .bug{
-    background:rgba(255,255,255,.03);border:1px solid var(--line);border-left:3px solid var(--red);
-    border-radius:6px;padding:16px 18px 17px;
-  }
-  .bug-head{
-    display:flex;justify-content:space-between;align-items:center;gap:10px;
-    font-family:var(--mono);font-size:11.5px;color:var(--faint);margin-bottom:8px;
-  }
-  .bug-id{color:var(--red);letter-spacing:.06em;font-weight:700}
-  .pill{padding:3px 8px;border-radius:3px;border:1px solid currentColor;white-space:nowrap;text-transform:uppercase;letter-spacing:.06em;font-size:10.5px}
-  .pill.red{color:var(--red);background:rgba(255,61,85,.08)}
-  .pill.gold{color:var(--gold)}
-  .pill.green{color:var(--green)}
-  .bug p{font-size:17.5px;line-height:1.45}
-
-  /* ---------- code ---------- */
-  .code{
-    margin-top:28px;background:var(--panel);border:1px solid var(--line);border-radius:8px;
-    padding:18px 18px 20px;font-family:var(--mono);font-size:13.5px;line-height:1.75;
-    white-space:pre;overflow-x:auto;color:var(--cream);
-    box-shadow:0 30px 70px -40px rgba(0,0,0,.95);
-  }
-  .code .ln{display:inline-block;width:2.4em;color:rgba(245,237,230,.2);user-select:none;-webkit-user-select:none}
-  .k{color:var(--blue)} .s{color:var(--gold)} .n{color:var(--green)} .cm{color:var(--faint);font-style:italic} .p{color:var(--red)}
-
-  /* ---------- ask ---------- */
-  .ask-actions{margin-top:44px;display:flex;gap:14px;align-items:center;flex-wrap:wrap;min-height:64px}
-  .btn.yes{
-    background:var(--red-deep);color:var(--cream);font-size:17px;padding:19px 30px;
-    transform-origin:left center;
-    box-shadow:0 16px 44px -14px rgba(255,61,85,.95);
-  }
-  .btn.yes:hover{background:#ea1c3a}
-  .btn.no.loose{
-    position:fixed;z-index:20;margin:0;
-    transition:left .38s cubic-bezier(.3,1.35,.5,1),top .38s cubic-bezier(.3,1.35,.5,1),transform .25s var(--ease);
-    background:rgba(14,10,11,.88);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);
-  }
-  .btn.no.away{display:none}
-  .hint{font-family:var(--mono);font-size:12.5px;color:var(--faint);margin-top:20px;min-height:1.6em}
-
-  /* ---------- certificate ---------- */
-  .cert{
-    position:relative;margin-top:30px;border-radius:8px;padding:30px 22px 26px;text-align:center;
-    background:linear-gradient(160deg,#241216 0%,#150c0e 60%,#1a0d10 100%);
-    border:1px solid rgba(242,193,78,.4);
-    box-shadow:0 40px 90px -40px rgba(0,0,0,.95),0 0 60px -30px rgba(242,193,78,.4);
-  }
-  .cert::before{
-    content:"";position:absolute;inset:6px;border:1px dashed rgba(242,193,78,.25);border-radius:5px;pointer-events:none;
-  }
-  .cert-k{font-family:var(--mono);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold)}
-  .cert-seal{display:block;width:34px;height:46px;margin:18px auto 8px;color:var(--red);filter:drop-shadow(0 6px 16px rgba(255,61,85,.55))}
-  .cert-big{font-size:clamp(26px,7vw,34px);font-style:italic;line-height:1.15;margin:6px 0 10px;font-variation-settings:"opsz" 144}
-  .cert-meta{font-family:var(--mono);font-size:12px;color:var(--muted)}
-  .cert-sign{margin-top:20px;padding-top:16px;border-top:1px solid rgba(242,193,78,.18)}
-  .cert-sign .lbl{display:block;font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--faint);margin-bottom:2px}
-  .cert-sign .who{display:block;font-family:var(--hard);font-size:30px;text-transform:uppercase;letter-spacing:.03em;line-height:1.1}
-  .cert-sign .sub{display:block;font-family:var(--mono);font-size:11px;color:var(--red);margin-top:4px;letter-spacing:.04em}
-  .cert-ref{font-family:var(--mono);font-size:10.5px;color:var(--faint);margin-top:14px;letter-spacing:.06em}
-
-  @media (max-width:380px){
-    body{font-size:17px}
-    .term-body,.code{font-size:12.5px}
-    .lead{font-size:18px}
-  }
-  @media (prefers-reduced-motion:reduce){
-    .reveal{animation:none}
-    .progress i,#runWrap,.btn,.btn.no.loose{transition:none}
-    .cursor{animation:none}
+  @media (max-width:420px){
+    body{font-size:18.5px}
+    .letter{gap:34px;padding-block:calc(env(safe-area-inset-top, 0px) + 52px) calc(env(safe-area-inset-bottom, 0px) + 64px)}
+    .truth li{font-size:22px}
   }
 </style>
 </head>
 <body>
-<noscript>
-  <p style="padding:40px 20px;font-family:sans-serif">Active JavaScript : c'est un programme 😄</p>
-</noscript>
+<main class="letter">
 
-<div class="sky" id="sky" aria-hidden="true"></div>
-<canvas id="fx" aria-hidden="true"></canvas>
-<div class="progress" aria-hidden="true"><i id="bar"></i></div>
+  <p class="meta in" style="--i:0">À <span data-name>Yasmine</span> · le 9 novembre 2026</p>
 
-<main>
+  <h1 class="in" style="--i:1">Je te dois la vérité.</h1>
 
-  <!-- 0 · terminal -->
-  <section class="scene active" id="boot" aria-label="Démarrage">
-    <div class="wrap">
-      <p class="tag reveal">// un message t'attend</p>
-      <div class="term reveal">
-        <div class="term-bar">
-          <span class="d"></span><span class="d"></span><span class="d"></span>
-          <span class="t">pour_<span data-slug="her">yasmine</span>.sh</span>
-        </div>
-        <div class="term-body" id="termBody" aria-live="polite"></div>
-      </div>
-      <div class="actions" id="runWrap">
-        <button class="btn" data-go="hello">▸ Exécuter</button>
-      </div>
-    </div>
+  <div class="body in" style="--i:2">
+    <p><span data-name>Yasmine</span>,</p>
+    <p>Je vais faire simple, parce que pour une fois tu mérites que je sois clair.</p>
+    <p>Depuis le début, je t'ai menti. Sur mon âge, et sur qui j'étais. La personne que tu croyais connaître sur Twitter, ce n'était pas vraiment moi.</p>
+    <p>Je n'ai pas d'excuse. J'avais peur que tu ne me parles pas si je te disais la vérité, alors j'ai joué quelqu'un d'autre. Et plus ça durait, plus c'était dur d'arrêter. Ça explique, mais ça n'excuse rien.</p>
+    <p>Tu m'as fait confiance. Tu as pris du temps pour me parler en pensant savoir à qui tu parlais. Tu avais le droit de savoir, et je t'ai enlevé ce choix. Je m'en veux.</p>
+  </div>
+
+  <section class="truth in" style="--i:3" aria-labelledby="truthLabel">
+    <h2 class="label" id="truthLabel">La vérité</h2>
+    <ul id="truthList">
+      <li>Mon vrai nom, mon vrai âge, tout ce que tu veux savoir&nbsp;: demande-moi, et je te répondrai sans mentir.</li>
+    </ul>
   </section>
 
-  <!-- 1 · azul -->
-  <section class="scene" id="hello" aria-label="Bonjour">
-    <div class="wrap">
-      <p class="tag reveal">// azul = salut, en tarifit</p>
-      <h1 class="reveal"><span class="hard">Azul</span><em><span data-name>Yasmine</span>.</em></h1>
-      <p class="lead reveal">Je t'ai dit que je bossais dans l'informatique. Chez nous, on parle pas pour rien dire&nbsp;: on prouve. Alors au lieu de te sortir un CV, je t'ai codé ça. De mes mains.</p>
-      <p class="lead reveal"><strong>Tête dure, je sais.</strong> Mais le cœur, lui, il est déjà à toi.</p>
-      <div class="actions reveal">
-        <button class="btn" data-go="bugs">Continuer <span class="arr">→</span></button>
-      </div>
-    </div>
-  </section>
+  <div class="body in" style="--i:4">
+    <p id="oldSite">Le site que je t'avais fait, avec la demande en mariage, reposait sur ce mensonge. Je l'ai retiré. Je ne voulais pas que la dernière chose que je t'envoie soit encore fausse.</p>
+    <p>Ce que je t'ai écrit de gentil, je le pensais. Mais ça ne rattrape pas le reste, et je ne te demande pas de l'oublier.</p>
+    <p>Tu ne me dois rien. Ni réponse, ni pardon. Si tu ne veux plus me parler, je le comprendrai et je te laisserai tranquille. Si tu as des questions, je répondrai à toutes, honnêtement.</p>
+  </div>
 
-  <!-- 2 · bugs -->
-  <section class="scene" id="bugs" aria-label="Rapport de bugs">
-    <div class="wrap">
-      <p class="tag reveal">// rapport_de_bugs.log</p>
-      <h2 class="reveal"><span class="hard">J'ai jamais eu de faiblesse.</span><em>Puis t'es arrivée.</em></h2>
-      <ul class="bugs">
-        <li class="bug reveal">
-          <div class="bug-head"><span class="bug-id">BUG #001</span><span class="pill red">non résolu</span></div>
-          <p>J'ai la tête dure, tout le monde le sait. Toi, tu me la fais tourner.</p>
-        </li>
-        <li class="bug reveal">
-          <div class="bug-head"><span class="bug-id">BUG #002</span><span class="pill red">critique</span></div>
-          <p>Je souris tout seul devant mon téléphone. Ma réputation est en danger.</p>
-        </li>
-        <li class="bug reveal">
-          <div class="bug-head"><span class="bug-id">BUG #003</span><span class="pill green">en cours</span></div>
-          <p>Je relis tes messages plusieurs fois. Moi. Plusieurs fois.</p>
-        </li>
-        <li class="bug reveal">
-          <div class="bug-head"><span class="bug-id">BUG #004</span><span class="pill gold">ne sera pas corrigé</span></div>
-          <p>Rien ne me fait plier. Sauf toi.</p>
-        </li>
-      </ul>
-      <div class="actions reveal">
-        <button class="btn" data-go="code">Lancer le diagnostic <span class="arr">→</span></button>
-      </div>
-    </div>
-  </section>
+  <div class="end in" style="--i:5">
+    <p class="sorry">Pardon, <span data-name>Yasmine</span>. Sincèrement.</p>
+    <p class="sign">— <span id="sign">Moi</span></p>
+  </div>
 
-  <!-- 3 · diagnostic -->
-  <section class="scene" id="code" aria-label="Diagnostic">
-    <div class="wrap">
-      <p class="tag reveal">// diagnostic.js</p>
-      <h2 class="reveal"><span class="hard">Analyse terminée.</span></h2>
-<pre class="code reveal" aria-label="Extrait de code"><span class="ln">1</span><span class="k">const</span> <span data-slug="me">yassine</span> = {
-<span class="ln">2</span>  origine: <span class="s">"Rif"</span>,
-<span class="ln">3</span>  tete: <span class="s">"dure"</span>,
-<span class="ln">4</span>  fierte: <span class="n">Infinity</span>,
-<span class="ln">5</span>  coeur: <span class="n">null</span>, <span class="cm">// volé par toi</span>
-<span class="ln">6</span>};
-<span class="ln">7</span>
-<span class="ln">8</span><span class="k">while</span> (<span data-slug="her">yasmine</span>.<span class="p">mEcrit</span>()) {
-<span class="ln">9</span>  <span data-slug="me">yassine</span>.bpm++;
-<span class="ln">10</span>}</pre>
-      <p class="lead reveal">Diagnostic&nbsp;: rien à corriger. Le cœur d'un Rifain, ça se donne une seule fois. <em>Le mien, c'est toi qui l'as.</em></p>
-      <div class="actions reveal">
-        <button class="btn" data-go="ask">Il me reste une question <span class="arr">→</span></button>
-      </div>
-    </div>
-  </section>
+  <hr class="rule in" style="--i:6">
 
-  <!-- 4 · la question -->
-  <section class="scene" id="ask" aria-label="La question">
-    <div class="wrap">
-      <p class="tag reveal">// requête importante · priorité maximale</p>
-      <h1 class="reveal"><span class="hard"><span data-name>Yasmine</span>,</span><em>veux-tu m'épouser&nbsp;?</em></h1>
-      <p class="lead reveal">Chez nous, on tourne pas autour du pot.</p>
-      <div class="ask-actions reveal">
-        <button class="btn yes" id="yesBtn">Oui 💍</button>
-        <button class="btn ghost no" id="noBtn">Non</button>
-      </div>
-      <p class="hint reveal" id="hint" aria-live="polite"></p>
-    </div>
-  </section>
-
-  <!-- 5 · oui -->
-  <section class="scene" id="yes" aria-label="Réponse acceptée">
-    <div class="wrap">
-      <p class="tag ok reveal">// requête acceptée ✓</p>
-      <h1 class="reveal" id="yesTitle"></h1>
-      <p class="lead reveal" id="yesText"></p>
-      <div class="cert reveal" id="cert">
-        <div class="cert-k">Certificat officiel</div>
-        <!-- ⵣ (yaz) : l'homme libre -->
-        <svg class="cert-seal" viewBox="0 0 24 32" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round">
-          <path d="M12 2v28"/><path d="M4 3a8 6.5 0 0 0 16 0"/><path d="M4 29a8 6.5 0 0 1 16 0"/>
-        </svg>
-        <div class="cert-big" id="certBig"></div>
-        <div class="cert-meta" id="certDate"></div>
-        <div class="cert-sign">
-          <span class="lbl">Signé</span>
-          <span class="who" data-sign>Yassine</span>
-          <span class="sub">rifain · tête dure · cœur à toi</span>
-        </div>
-        <div class="cert-ref" id="certRef"></div>
-      </div>
-      <div class="actions reveal">
-        <button class="btn ghost" id="replayBtn">↺ Rejouer</button>
-      </div>
-    </div>
-  </section>
-
-  <!-- 6 · non (sortie avec respect) -->
-  <section class="scene" id="no" aria-label="Réponse refusée">
-    <div class="wrap">
-      <p class="tag reveal">// requête refusée · respect</p>
-      <h2 class="reveal"><span class="hard">Respect.</span><em>Un vrai, ça sait écouter.</em></h2>
-      <p class="lead reveal">On oublie le mariage. Pour l'instant. Mais un thé à la menthe avec moi, ça se tente, non&nbsp;?</p>
-      <div class="actions reveal">
-        <button class="btn" id="teaBtn">Ok pour un thé 🍵</button>
-        <button class="btn ghost" id="replayBtn2">↺ Rejouer</button>
-      </div>
-      <p class="small reveal">Et si c'est non aussi, dis-le moi en DM. J'ai la tête dure, je survivrai. Probablement.</p>
-    </div>
-  </section>
+  <p class="note in" style="--i:6">Tu peux me répondre en DM. Ou pas. Les deux sont ok.</p>
 
 </main>
 
 <script>
 /* ================================================================
-   PERSONNALISATION
+   À REMPLIR · la vérité, rien que la vérité
    ================================================================ */
 const CONFIG = {
   prenom: "Yasmine",
-  signature: "Yassine",
+  vraiPrenom: "",          // ton vrai prénom, ex. "Karim"
+  vraiAge: "",             // ton vrai âge, ex. "27"
+  autresVerites: [],       // ex. ["Je ne suis pas rifain.", "Je ne bosse pas dans l'informatique."]
+  mentionnerAncienSite: true, // false si elle n'a jamais vu le site de la demande en mariage
 };
 /* ================================================================ */
 
 (() => {
-  const $ = (s, r = document) => r.querySelector(s);
-  const $$ = (s, r = document) => [...r.querySelectorAll(s)];
-  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const HEART = "M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z";
+  const clean = v => String(v ?? "").trim();
+  document.querySelectorAll("[data-name]").forEach(el => (el.textContent = clean(CONFIG.prenom) || "toi"));
 
-  /* ---------- personnalisation ---------- */
-  const toSlug = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "")
-    .toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_|_$/g, "") || "toi";
-  const slugs = { her: toSlug(CONFIG.prenom), me: toSlug(CONFIG.signature) };
-  $$("[data-name]").forEach(el => (el.textContent = CONFIG.prenom));
-  $$("[data-sign]").forEach(el => (el.textContent = CONFIG.signature));
-  $$("[data-slug]").forEach(el => (el.textContent = slugs[el.dataset.slug]));
-
-  /* ---------- navigation entre scènes ---------- */
-  $$(".scene").forEach(sc => $$(".reveal", sc).forEach((el, i) => el.style.setProperty("--i", i)));
-  const progress = { boot: 0, hello: 1, bugs: 2, code: 3, ask: 4, no: 4.5, yes: 5 };
-  function go(id) {
-    $$(".scene").forEach(s => s.classList.toggle("active", s.id === id));
-    $("#bar").style.width = (progress[id] / 5) * 100 + "%";
-    // le bouton « non » vit dans <body> quand il s'enfuit : on le cache hors de la question
-    $("#noBtn").classList.toggle("away", id !== "ask");
-    window.scrollTo(0, 0);
-    const sc = $("#" + id);
-    sc.setAttribute("tabindex", "-1");
-    sc.focus({ preventScroll: true });
-  }
-  $$("[data-go]").forEach(b => b.addEventListener("click", () => go(b.dataset.go)));
-
-  /* ---------- cœurs qui flottent ---------- */
-  if (!reduce) {
-    const sky = $("#sky");
-    for (let i = 0; i < 14; i++) {
-      const f = document.createElement("span");
-      const d = 16 + Math.random() * 16;
-      f.className = "f";
-      f.style.cssText =
-        `--x:${Math.random() * 100}%;--s:${8 + Math.random() * 16}px;--o:${(0.05 + Math.random() * 0.14).toFixed(2)};` +
-        `--d:${d}s;--dl:${-Math.random() * d}s;--drift:${(Math.random() - 0.5) * 120}px;--r:${(Math.random() - 0.5) * 90}deg`;
-      f.innerHTML = `<svg viewBox="0 0 24 24"><path fill="currentColor" d="${HEART}"/></svg>`;
-      sky.appendChild(f);
-    }
+  const truths = [];
+  if (clean(CONFIG.vraiPrenom)) truths.push(`Je m'appelle ${clean(CONFIG.vraiPrenom)}.`);
+  if (clean(CONFIG.vraiAge)) truths.push(`J'ai ${clean(CONFIG.vraiAge)} ans.`);
+  (CONFIG.autresVerites || []).map(clean).filter(Boolean).forEach(t => truths.push(t));
+  if (truths.length) {
+    const list = document.getElementById("truthList");
+    list.replaceChildren(...truths.map(t => Object.assign(document.createElement("li"), { textContent: t })));
   }
 
-  /* ---------- terminal ---------- */
-  const LINES = [
-    { cmd: `./pour_${slugs.her}.sh` },
-    { task: "Tête dure", st: "100%", tone: "gold" },
-    { task: "Fierté rifaine", st: "max", tone: "gold" },
-    { task: "Timidité", st: "introuvable", tone: "warn" },
-    { task: "Ce que je ressens pour toi", st: "overflow", tone: "warn" },
-    { say: "Un Rifain fait jamais les choses à moitié." },
-  ];
-  const term = $("#termBody");
-  let skip = reduce;
-  const wait = ms => new Promise(r => setTimeout(r, skip ? 0 : ms));
-  async function type(el, text, speed) {
-    for (const ch of text) {
-      if (skip) { el.textContent = text; return; }
-      el.textContent += ch;
-      await wait(speed);
-    }
-  }
-  const cursor = document.createElement("span");
-  cursor.className = "cursor";
-  const promptHTML = () =>
-    `<span class="c-prompt">${slugs.me}@rif</span>:<span class="c-path">~</span>$ `;
-
-  async function boot() {
-    for (const l of LINES) {
-      const row = document.createElement("div");
-      row.className = "tl";
-      term.appendChild(row);
-      if (l.cmd) {
-        row.innerHTML = promptHTML();
-        const t = document.createElement("span");
-        row.append(t, cursor);
-        await wait(600);
-        await type(t, l.cmd, 55);
-        await wait(450);
-      } else if (l.task) {
-        row.classList.add("task");
-        const t = document.createElement("span");
-        t.className = "tx";
-        row.append(t, cursor);
-        await type(t, l.task, 18);
-        await wait(220);
-        const dots = document.createElement("span");
-        dots.className = "dots";
-        const st = document.createElement("span");
-        st.className = "st c-" + l.tone;
-        st.textContent = l.st;
-        cursor.remove();
-        row.append(dots, st);
-        await wait(l.tone === "warn" ? 520 : 300);
-      } else if (l.say) {
-        row.classList.add("say");
-        const t = document.createElement("span");
-        row.append(t, cursor);
-        await wait(250);
-        await type(t, l.say, 30);
-        await wait(350);
-      }
-    }
-    const end = document.createElement("div");
-    end.className = "tl";
-    end.innerHTML = promptHTML();
-    end.appendChild(cursor);
-    term.appendChild(end);
-    $("#runWrap").classList.add("show");
-  }
-  term.addEventListener("click", () => (skip = true));
-  const start = () => setTimeout(boot, reduce ? 0 : 500);
-  (document.fonts && document.fonts.ready ? document.fonts.ready : Promise.resolve()).then(start, start);
-
-  /* ---------- la question : le bouton « non » qui a la tête dure ---------- */
-  const yesBtn = $("#yesBtn");
-  const noBtn = $("#noBtn");
-  const hint = $("#hint");
-  const NO_TEXTS = ["Non", "Hein ?", "J'ai mal entendu", "Répète pour voir ?", "Tête dure, je t'ai dit", "Un Rifain lâche pas", "Allez…", "Bon, vas-y"];
-  const HINTS = {
-    3: "// le bouton « non » a la tête dure, lui aussi",
-    5: "// erreur : réponse non reconnue",
-    7: "// ok. même les durs savent écouter.",
-  };
-  const MAX = NO_TEXTS.length - 1;
-  let dodges = 0;
-
-  function overlaps(x, y, w, h, r, pad) {
-    return x < r.right + pad && x + w > r.left - pad && y < r.bottom + pad && y + h > r.top - pad;
-  }
-  function dodge() {
-    if (dodges >= MAX) return;
-    dodges++;
-    const rect = noBtn.getBoundingClientRect();
-    if (!noBtn.classList.contains("loose")) {
-      noBtn.style.left = rect.left + "px";
-      noBtn.style.top = rect.top + "px";
-      noBtn.classList.add("loose");
-      // sorti de la scène : une animation parente fausserait le position:fixed
-      document.body.appendChild(noBtn);
-      void noBtn.offsetWidth; // force le reflow pour que la transition parte du bon endroit
-    }
-    noBtn.textContent = NO_TEXTS[dodges];
-    if (HINTS[dodges]) hint.textContent = HINTS[dodges];
-    yesBtn.style.transform = `scale(${Math.min(1 + dodges * 0.07, 1.5)})`;
-
-    const w = noBtn.offsetWidth, h = noBtn.offsetHeight;
-    const vw = window.innerWidth, vh = window.innerHeight;
-    const m = 16, top = 24;
-    const yr = yesBtn.getBoundingClientRect();
-    let x, y, tries = 0;
-    do {
-      x = m + Math.random() * Math.max(0, vw - w - m * 2);
-      y = m + top + Math.random() * Math.max(0, vh - h - m * 2 - top);
-      tries++;
-    } while (
-      tries < 40 &&
-      (overlaps(x, y, w, h, yr, 24) || Math.hypot(x - rect.left, y - rect.top) < Math.min(vw, vh) * 0.25)
-    );
-    noBtn.style.left = x + "px";
-    noBtn.style.top = y + "px";
-  }
-  function resetAsk() {
-    dodges = 0;
-    noBtn.classList.remove("loose");
-    noBtn.style.left = noBtn.style.top = "";
-    $(".ask-actions").appendChild(noBtn);
-    noBtn.textContent = NO_TEXTS[0];
-    yesBtn.style.transform = "";
-    hint.textContent = "";
-  }
-
-  noBtn.addEventListener("mouseenter", () => { if (dodges < MAX) dodge(); });
-  noBtn.addEventListener("touchstart", e => {
-    if (dodges < MAX) { e.preventDefault(); dodge(); }
-  }, { passive: false });
-  noBtn.addEventListener("click", () => {
-    if (dodges < MAX) dodge();
-    else go("no");
-  });
-  window.addEventListener("resize", () => {
-    if (!noBtn.classList.contains("loose")) return;
-    const w = noBtn.offsetWidth, h = noBtn.offsetHeight;
-    noBtn.style.left = Math.min(parseFloat(noBtn.style.left), window.innerWidth - w - 16) + "px";
-    noBtn.style.top = Math.min(parseFloat(noBtn.style.top), window.innerHeight - h - 16) + "px";
-  });
-
-  /* ---------- oui ---------- */
-  function showYes(kind, origin) {
-    const tea = kind === "tea";
-    $("#yesTitle").innerHTML = tea
-      ? '<span class="hard">Parfait.</span><em>Un thé, c\'est un début.</em>'
-      : '<span class="hard">Je le</span><em>savais.</em>';
-    $("#yesText").textContent = tea
-      ? "Je m'occupe de trouver l'endroit. Le thé sera à la menthe, et bien sucré. Fais une capture de ce certificat et envoie-la moi en DM : comme ça, tu pourras pas dire que t'as rien signé."
-      : "On commence par un premier rendez-vous, avant de réserver la salle et d'appeler toute la famille. Fais une capture de ce certificat et envoie-la moi en DM : ça a valeur de contrat.";
-    $("#certBig").textContent = tea
-      ? `${CONFIG.prenom} a dit oui… à un thé.`
-      : `${CONFIG.prenom} a dit oui.`;
-    const d = new Date();
-    $("#certDate").textContent =
-      "le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long", year: "numeric" }) +
-      " à " + d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
-    $("#certRef").textContent =
-      "RÉF. #" + String(Math.floor(d.getTime() / 1000) % 100000).padStart(5, "0") + " · VALABLE POUR TOUJOURS";
-    go("yes");
-    celebrate(origin);
-  }
-  const centerOf = el => {
-    const r = el.getBoundingClientRect();
-    return { x: r.left + r.width / 2, y: r.top + r.height / 2 };
-  };
-  yesBtn.addEventListener("click", () => showYes("yes", centerOf(yesBtn)));
-  $("#teaBtn").addEventListener("click", e => showYes("tea", centerOf(e.currentTarget)));
-  const replay = () => { resetAsk(); go("hello"); };
-  $("#replayBtn").addEventListener("click", replay);
-  $("#replayBtn2").addEventListener("click", replay);
-
-  /* ---------- explosion de cœurs ---------- */
-  const cv = $("#fx");
-  const ctx = cv.getContext("2d");
-  const heartPath = new Path2D(HEART);
-  const COLORS = ["#ff3d55", "#d7142f", "#f2c14e", "#f5ede6", "#ff6b7d", "#ff3d55"];
-  let parts = [];
-  let raf = 0;
-  function size() {
-    const dpr = Math.min(window.devicePixelRatio || 1, 2);
-    cv.width = Math.round(window.innerWidth * dpr);
-    cv.height = Math.round(window.innerHeight * dpr);
-    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-  }
-  size();
-  window.addEventListener("resize", size);
-
-  function spawn(x, y, vx, vy, g, max) {
-    parts.push({
-      x, y, vx, vy, g, max, life: 0,
-      s: 10 + Math.random() * 18,
-      w: Math.random() * Math.PI * 2,
-      c: COLORS[(Math.random() * COLORS.length) | 0],
-    });
-  }
-  function kick() { if (!raf) raf = requestAnimationFrame(tick); }
-  function tick() {
-    ctx.clearRect(0, 0, window.innerWidth, window.innerHeight);
-    parts = parts.filter(p => p.life < p.max && p.y < window.innerHeight + 60);
-    for (const p of parts) {
-      p.life++;
-      p.vy += p.g;
-      p.vx *= 0.985;
-      p.vy *= 0.985;
-      p.x += p.vx;
-      p.y += p.vy;
-      p.w += 0.08;
-      const k = p.s / 24;
-      ctx.save();
-      ctx.globalAlpha = Math.max(0, Math.min(1, (p.max - p.life) / 30));
-      ctx.translate(p.x, p.y);
-      ctx.rotate(Math.sin(p.w) * 0.45);
-      ctx.scale(k, k);
-      ctx.translate(-12, -12);
-      ctx.fillStyle = p.c;
-      ctx.fill(heartPath);
-      ctx.restore();
-    }
-    raf = parts.length ? requestAnimationFrame(tick) : 0;
-  }
-  function celebrate(origin) {
-    const o = origin || { x: window.innerWidth / 2, y: window.innerHeight / 2 };
-    const n = reduce ? 24 : 90;
-    for (let i = 0; i < n; i++) {
-      const a = Math.random() * Math.PI * 2;
-      const sp = 3 + Math.random() * 10;
-      spawn(o.x, o.y, Math.cos(a) * sp, Math.sin(a) * sp - 5, 0.16, 90 + Math.random() * 70);
-    }
-    if (!reduce) {
-      const end = performance.now() + 4000;
-      (function drop() {
-        if (performance.now() > end) return;
-        spawn(Math.random() * window.innerWidth, -30, (Math.random() - 0.5) * 1.2, 1 + Math.random() * 2, 0.025, 400);
-        kick();
-        setTimeout(drop, 80);
-      })();
-    }
-    kick();
-  }
+  if (clean(CONFIG.vraiPrenom)) document.getElementById("sign").textContent = clean(CONFIG.vraiPrenom);
+  if (!CONFIG.mentionnerAncienSite) document.getElementById("oldSite").remove();
 })();
 </script>
 </body>
