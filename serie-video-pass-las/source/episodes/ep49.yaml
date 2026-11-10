@@ -43,13 +43,19 @@ scenes:
         show: "Mésoderme → paraxial (somites), intermédiaire, latéral · ectoderme → tube neural, crête, surface"
 
   - kind: figure
-    title: "La ligne primitive et les axes"
-    ref: "S2-2 p.2"
-    fig: "S2-2:2"
+    title: "La formation de la ligne primitive"
+    ref: "S2-2 p.2h"
+    fig: "S2-2:2h"
     beats:
       - say: "Des mouvements cellulaires dans l'épiblaste forment la ligne primitive."
         mark: "ligne primitive"
         show: "Mouvements dans l'*épiblaste* → *ligne primitive*"
+
+  - kind: figure
+    title: "Les axes du corps"
+    ref: "S2-2 p.2b"
+    fig: "S2-2:2b"
+    beats:
       - say: "Et la ligne primitive définit les grands axes du corps : crânio-caudal, dorso-ventral, et gauche-droite."
         mark: "grands axes"
         show: "Ligne primitive → *grands axes* du corps"

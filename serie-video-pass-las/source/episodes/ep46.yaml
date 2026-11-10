@@ -73,7 +73,7 @@ scenes:
   - kind: figure
     title: "Arrimage et réaction corticale"
     ref: "S2-1 p.16"
-    fig: "S2-1:16"
+    fig: "S2-1:16b"
     trap: "CD9 (ovocyte) – IZUMO (spermatozoïde) ; protéases → détruisent ZP3 ; peroxydases → durcissent la ZP."
     beats:
       - say: "Le spermatozoïde qui a traversé la zone pellucide entre en contact avec la surface de l'ovocyte et ses microvillosités."
@@ -92,13 +92,19 @@ scenes:
   - kind: figure
     title: "Fusion du spermatozoïde et de l'ovocyte"
     ref: "S2-1 p.17"
-    fig: "S2-1:17"
+    fig: "S2-1:17h"
     beats:
       - say: "Suite à l'arrimage, les membranes du spermatozoïde et de l'ovocyte fusionnent, via des vésicules C D 9 positives qui recouvrent le spermatozoïde, IZUMO positif."
         mark: "vésicules CD9+"
         show: "Fusion via *vésicules CD9⁺* sur le spermatozoïde (*IZUMO⁺*)"
-      - say: "La figure récapitule les étapes de la fertilisation de l'ovocyte par le spermatozoïde."
-        show: "Étapes de la fertilisation"
+
+  - kind: figure
+    title: "Les étapes de la fertilisation"
+    ref: "S2-1 p.17b"
+    fig: "S2-1:17b"
+    beats:
+      - say: "La figure récapitule les étapes de la fertilisation de l'ovocyte par le spermatozoïde : traversée de la corona radiata, réaction acrosomiale, traversée de la zone pellucide, arrimage, puis fusion."
+        show: "Corona radiata → *réaction acrosomiale* → zone pellucide → arrimage → *fusion*"
 
   - kind: figure
     title: "Ce que transfère le spermatozoïde"

@@ -107,14 +107,21 @@ scenes:
         show: "Endoderme → digestif · *pancréas* · *foie* · respiratoire · pharynx · *thyroïde*"
 
   - kind: figure
-    title: "Lame latérale et mésoderme intermédiaire"
-    ref: "S2-2 p.27"
-    fig: "S2-2:27"
+    title: "Le mésoderme de la lame latérale"
+    ref: "S2-2 p.27h"
+    fig: "S2-2:27h"
     trap: "Mésoderme intermédiaire : PAS dans la tête ; urinaire + génital."
     beats:
       - say: "Le mésoderme de la lame latérale donne : les membres, le derme, la moelle osseuse, le système cardiovasculaire, la cavité pleurale, le péricarde, le péritoine, et le revêtement et la paroi des viscères et du tube digestif."
         mark: ["moelle osseuse", "péricarde", "péritoine"]
         show: "Lame latérale → membres · derme · moelle osseuse · cardiovasculaire · *plèvre, péricarde, péritoine* · parois"
+
+  - kind: figure
+    title: "Le mésoderme intermédiaire"
+    ref: "S2-2 p.27b"
+    fig: "S2-2:27b"
+    trap: "Mésoderme intermédiaire : PAS dans la tête ; urinaire + génital."
+    beats:
       - say: "Le mésoderme *intermédiaire* : il n'est pas présent dans la tête. Sa segmentation débute en partie crâniale, au niveau du pronéphros, et donne les néphrotomes. Il est à l'origine des systèmes *urinaire* et *génital*."
         mark: ["Pas présent dans la tête", "néphrotomes"]
         show: "*Intermédiaire* : *pas dans la tête* · pronéphros → néphrotomes · *urinaire* + *génital*"

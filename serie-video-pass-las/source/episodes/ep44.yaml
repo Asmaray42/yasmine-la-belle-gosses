@@ -100,12 +100,19 @@ scenes:
   - kind: figure
     title: "Follicule de Graaf et timing"
     ref: "S2-1 p.10"
-    fig: "S2-1:10"
+    fig: "S2-1:10h"
     trap: "Primordial → Graaf : PLUSIEURS MOIS ; UN follicule de Graaf par cycle."
     beats:
       - say: "Du follicule tertiaire au *follicule de Graaf* : augmentation de taille, et vascularisation de la thèque interne, par des capillaires, et externe, par des vaisseaux."
         mark: ["Graaf", "vascularisation"]
         show: "*Graaf* : ↑ taille · thèque interne (capillaires) et externe (vaisseaux)"
+
+  - kind: figure
+    title: "Le timing de l'ovogenèse"
+    ref: "S2-1 p.10b"
+    fig: "S2-1:10b"
+    trap: "Plusieurs mois, donc plusieurs cycles ; UN follicule de Graaf mature par cycle."
+    beats:
       - say: "Le timing : la maturation du follicule primordial au follicule de Graaf prend *plusieurs mois* : elle traverse donc plusieurs cycles."
         mark: "plusieurs mois"
         show: "Primordial → Graaf : *plusieurs mois* (plusieurs cycles)"

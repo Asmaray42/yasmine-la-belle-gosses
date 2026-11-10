@@ -74,21 +74,31 @@ scenes:
   - kind: figure
     title: "Contenu des tubules séminifères"
     ref: "S2-1 p.4"
-    fig: "S2-1:4"
+    fig: "S2-1:4h"
     trap: "A dark = cellules souches ; spermatocyte I = 2n (×2) ; spermatocytes II = n (×2)."
     beats:
       - say: "De la périphérie, contre la lame basale, vers la lumière. D'abord les *spermatogonies A dark*, diploïdes : ce sont les *cellules souches*."
-        mark: ["Spermatogonies A dark (2n)", "(cellules souches)"]
+        mark: "Spermatogonie A dark (2n)"
         show: "*A dark* (2n) = *cellules souches*"
       - say: "Puis les spermatogonies A pâle et B, toujours diploïdes. La spermatogonie B donne le *spermatocyte primaire*, deux n, à ADN dupliqué."
         mark: ["Spermatogonies A pale (2n)", "Spermatocyte primaire (2n, x2)"]
         show: "A pâle (2n) → B (2n) → *spermatocyte I* (2n, ×2)"
-      - say: "Méiose un : deux *spermatocytes secondaires*, haploïdes, à chromosomes encore dupliqués. Méiose deux : des *spermatides*, haploïdes, qui subissent la spermiogenèse pour devenir des spermatozoïdes."
-        mark: ["Spermatocytes secondaires (n, x2)", "Spermatides (n)"]
-        show: "Méiose 1 → *spermatocytes II* (n, ×2) · méiose 2 → *spermatides* (n) → spermatozoïdes"
       - say: "Tout autour, les *cellules de Sertoli*, somatiques, soutiennent la lignée germinale."
         mark: "Cellule de Sertoli (somatique)"
         show: "*Sertoli* : cellule *somatique* de soutien"
+
+  - kind: figure
+    title: "De la cellule souche au spermatozoïde"
+    ref: "S2-1 p.4b"
+    fig: "S2-1:4b"
+    trap: "Méiose 1 → spermatocytes II (n, ×2) ; méiose 2 → spermatides (n)."
+    beats:
+      - say: "La lignée complète : A dark, A pâle, B, puis le spermatocyte primaire."
+        mark: ["Spermatogonies A dark (2n)", "Spermatocyte primaire (2n, x2)"]
+        show: "A dark → A pâle → B → *spermatocyte I*"
+      - say: "Méiose un : deux *spermatocytes secondaires*, haploïdes, à chromosomes encore dupliqués. Méiose deux : des *spermatides*, haploïdes, qui subissent la spermiogenèse pour devenir des spermatozoïdes."
+        mark: ["Spermatocytes secondaires (n, x2)", "Spermatides (n)"]
+        show: "Méiose 1 → *spermatocytes II* (n, ×2) · méiose 2 → *spermatides* (n)"
 
   - kind: figure
     title: "La spermiogenèse"
