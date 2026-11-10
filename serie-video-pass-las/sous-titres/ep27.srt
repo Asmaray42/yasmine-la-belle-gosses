@@ -1,0 +1,511 @@
+1
+00:00:00,300 --> 00:00:01,923
+Une spermatogonie donne quatre
+
+2
+00:00:01,923 --> 00:00:02,573
+spermatides.
+
+3
+00:00:02,713 --> 00:00:04,046
+Un ovocyte primaire ne donne
+
+4
+00:00:04,046 --> 00:00:04,855
+qu'un seul ovule.
+
+5
+00:00:04,995 --> 00:00:06,344
+Pourquoi cette différence ?
+
+6
+00:00:06,744 --> 00:00:08,243
+Au programme : la méiose chez
+
+7
+00:00:08,243 --> 00:00:09,534
+l'homme et chez la femme,
+
+8
+00:00:09,534 --> 00:00:10,723
+la diversité génétique,
+
+9
+00:00:10,723 --> 00:00:11,756
+et les aneuploïdies.
+
+10
+00:00:12,316 --> 00:00:13,196
+Dans les testicules,
+
+11
+00:00:13,196 --> 00:00:13,768
+chez l'homme.
+
+12
+00:00:14,168 --> 00:00:15,582
+La spermatogonie, cellule
+
+13
+00:00:15,582 --> 00:00:16,656
+germinale diploïde,
+
+14
+00:00:16,656 --> 00:00:18,408
+peut se reproduire par mitoses,
+
+15
+00:00:18,408 --> 00:00:19,765
+pour maintenir le stock,
+
+16
+00:00:19,765 --> 00:00:21,348
+ou s'engager dans la méiose.
+
+17
+00:00:21,748 --> 00:00:23,376
+Le spermatocyte primaire est
+
+18
+00:00:23,376 --> 00:00:25,411
+encore diploïde, mais son ADN est
+
+19
+00:00:25,411 --> 00:00:25,934
+répliqué.
+
+20
+00:00:26,334 --> 00:00:27,390
+Après la méiose 1 :
+
+21
+00:00:27,390 --> 00:00:29,026
+deux spermatocytes secondaires,
+
+22
+00:00:29,026 --> 00:00:30,663
+haploïdes, avec des chromosomes
+
+23
+00:00:30,663 --> 00:00:31,191
+dupliqués.
+
+24
+00:00:31,591 --> 00:00:32,722
+Après la méiose 2 :
+
+25
+00:00:32,722 --> 00:00:34,367
+quatre spermatides haploïdes par
+
+26
+00:00:34,367 --> 00:00:35,087
+spermatogonie.
+
+27
+00:00:35,487 --> 00:00:36,901
+Puis les spermatozoïdes :
+
+28
+00:00:36,901 --> 00:00:38,144
+leur structure change,
+
+29
+00:00:38,144 --> 00:00:39,840
+avec une compaction extrême du
+
+30
+00:00:39,840 --> 00:00:41,367
+noyau et l'acquisition d'un
+
+31
+00:00:41,367 --> 00:00:41,876
+flagelle.
+
+32
+00:00:42,016 --> 00:00:43,598
+L'homme adulte en produit 100 à
+
+33
+00:00:43,598 --> 00:00:45,031
+200 millions par jour,
+
+34
+00:00:45,031 --> 00:00:46,613
+pendant la plus grande partie de
+
+35
+00:00:46,613 --> 00:00:46,959
+sa vie.
+
+36
+00:00:47,519 --> 00:00:48,846
+Dans les ovaires, puis après
+
+37
+00:00:48,846 --> 00:00:50,126
+l'ovulation, chez la femme.
+
+38
+00:00:50,526 --> 00:00:51,684
+Pendant la vie fœtale,
+
+39
+00:00:51,684 --> 00:00:52,894
+les cellules germinales
+
+40
+00:00:52,894 --> 00:00:54,262
+s'engagent dans la méiose,
+
+41
+00:00:54,262 --> 00:00:55,525
+mais s'arrêtent au stade
+
+42
+00:00:55,525 --> 00:00:57,051
+diplotène de la prophase 1 :
+
+43
+00:00:57,051 --> 00:00:58,682
+ce sont les ovocytes primaires,
+
+44
+00:00:58,682 --> 00:01:00,155
+encore diploïdes, avec leurs
+
+45
+00:01:00,155 --> 00:01:00,629
+chiasmas.
+
+46
+00:01:01,029 --> 00:01:02,790
+Après la puberté, à chaque cycle
+
+47
+00:01:02,790 --> 00:01:04,441
+menstruel, un ovocyte primaire
+
+48
+00:01:04,441 --> 00:01:05,927
+poursuit la méiose jusqu'en
+
+49
+00:01:05,927 --> 00:01:06,753
+métaphase 2.
+
+50
+00:01:06,893 --> 00:01:08,611
+Il produit un ovocyte secondaire
+
+51
+00:01:08,611 --> 00:01:09,793
+et un globule polaire,
+
+52
+00:01:09,793 --> 00:01:11,135
+par une division inégale,
+
+53
+00:01:11,135 --> 00:01:12,209
+tous deux haploïdes.
+
+54
+00:01:12,349 --> 00:01:13,832
+L'ovocyte secondaire est libéré
+
+55
+00:01:13,832 --> 00:01:15,363
+de l'ovaire : c'est l'ovulation.
+
+56
+00:01:15,763 --> 00:01:17,277
+Juste après la fécondation,
+
+57
+00:01:17,277 --> 00:01:19,015
+l'ovocyte secondaire termine la
+
+58
+00:01:19,015 --> 00:01:21,033
+méiose 2 : il produit un ovule et
+
+59
+00:01:21,033 --> 00:01:22,603
+un deuxième globule polaire.
+
+60
+00:01:22,743 --> 00:01:24,096
+Parfois, le premier globule
+
+61
+00:01:24,096 --> 00:01:25,449
+polaire subit lui aussi une
+
+62
+00:01:25,449 --> 00:01:26,351
+deuxième division.
+
+63
+00:01:26,911 --> 00:01:28,601
+La méiose génère une diversité
+
+64
+00:01:28,601 --> 00:01:29,897
+infinie de combinaisons
+
+65
+00:01:29,897 --> 00:01:31,700
+chromosomiques : chaque ovule de
+
+66
+00:01:31,700 --> 00:01:33,447
+la mère et chaque spermatozoïde
+
+67
+00:01:33,447 --> 00:01:35,306
+du père est génétiquement unique.
+
+68
+00:01:35,446 --> 00:01:36,604
+C'est ce qui explique les
+
+69
+00:01:36,604 --> 00:01:37,947
+différences entre enfants des
+
+70
+00:01:37,947 --> 00:01:38,595
+mêmes parents.
+
+71
+00:01:39,155 --> 00:01:40,934
+La méiose peut mal se dérouler :
+
+72
+00:01:40,934 --> 00:01:42,657
+par exemple, la non-disjonction
+
+73
+00:01:42,657 --> 00:01:44,269
+d'un chromosome en méiose 1.
+
+74
+00:01:44,409 --> 00:01:45,818
+Il en résulte des gamètes au
+
+75
+00:01:45,818 --> 00:01:47,378
+nombre anormal de chromosomes :
+
+76
+00:01:47,378 --> 00:01:48,485
+c'est l' aneuploïdie .
+
+77
+00:01:48,885 --> 00:01:50,531
+Chez l'homme, c'est la principale
+
+78
+00:01:50,531 --> 00:01:51,977
+cause d'avortement spontané :
+
+79
+00:01:51,977 --> 00:01:53,175
+l'embryon ne survit pas.
+
+80
+00:01:53,575 --> 00:01:55,043
+Certaines aneuploïdies sont
+
+81
+00:01:55,043 --> 00:01:56,947
+viables : la trisomie 21 ,
+
+82
+00:01:56,947 --> 00:01:58,687
+à l'origine du syndrome de Down,
+
+83
+00:01:58,687 --> 00:02:00,428
+appelé mongolisme dans le cours.
+
+84
+00:02:00,568 --> 00:02:02,131
+Fréquence : un enfant sur huit
+
+85
+00:02:02,131 --> 00:02:03,850
+cents, en augmentation avec l'âge
+
+86
+00:02:03,850 --> 00:02:04,423
+de la mère.
+
+87
+00:02:04,983 --> 00:02:06,747
+Deux autres aneuploïdies viables,
+
+88
+00:02:06,747 --> 00:02:08,244
+sur les chromosomes sexuels.
+
+89
+00:02:08,644 --> 00:02:10,062
+Caryotype : X X Y pour
+
+90
+00:02:10,062 --> 00:02:12,189
+Klinefelter ; X zéro pour Turner.
+
+91
+00:02:12,589 --> 00:02:14,474
+Sexe : masculin pour Klinefelter
+
+92
+00:02:14,474 --> 00:02:15,770
+; féminin pour Turner.
+
+93
+00:02:15,910 --> 00:02:17,276
+Et le plus souvent stérile dans
+
+94
+00:02:17,276 --> 00:02:17,849
+les deux cas.
+
+95
+00:02:18,249 --> 00:02:20,155
+Signes illustrés pour Klinefelter
+
+96
+00:02:20,155 --> 00:02:21,714
+: pilosité faciale absente,
+
+97
+00:02:21,714 --> 00:02:23,331
+gynécomastie, testicules peu
+
+98
+00:02:23,331 --> 00:02:24,890
+développés, jambes longues.
+
+99
+00:02:25,030 --> 00:02:26,505
+Pour Turner : taille réduite,
+
+100
+00:02:26,505 --> 00:02:27,981
+cou épais palmé, poitrine peu
+
+101
+00:02:27,981 --> 00:02:28,948
+développée, ovaires
+
+102
+00:02:28,948 --> 00:02:30,271
+rudimentaires, bras longs.
+
+103
+00:02:30,831 --> 00:02:31,667
+Trois pièges.
+
+104
+00:02:32,067 --> 00:02:32,962
+“L'ovule est libéré à
+
+105
+00:02:32,962 --> 00:02:33,813
+l'ovulation” : faux.
+
+106
+00:02:33,953 --> 00:02:35,347
+C'est l'ovocyte secondaire,
+
+107
+00:02:35,347 --> 00:02:36,690
+bloqué en métaphase 2 ;
+
+108
+00:02:36,690 --> 00:02:38,240
+l'ovule n'apparaît qu'après la
+
+109
+00:02:38,240 --> 00:02:38,860
+fécondation.
+
+110
+00:02:39,260 --> 00:02:41,191
+“Le syndrome de Turner touche des
+
+111
+00:02:41,191 --> 00:02:42,398
+hommes X X Y” : faux.
+
+112
+00:02:42,538 --> 00:02:43,682
+Turner, c'est X zéro,
+
+113
+00:02:43,682 --> 00:02:44,227
+une femme.
+
+114
+00:02:44,367 --> 00:02:46,056
+X X Y, c'est Klinefelter,
+
+115
+00:02:46,056 --> 00:02:46,665
+un homme.
+
+116
+00:02:47,065 --> 00:02:49,166
+“La fréquence de la trisomie 21
+
+117
+00:02:49,166 --> 00:02:50,729
+augmente avec l'âge du père” :
+
+118
+00:02:50,729 --> 00:02:52,614
+le cours dit avec l'âge de la mère.
+
+119
+00:02:53,174 --> 00:02:54,901
+Quiz : combien de spermatides par
+
+120
+00:02:54,901 --> 00:02:55,685
+spermatogonie ?
+
+121
+00:03:00,085 --> 00:03:00,689
+Quatre.
+
+122
+00:03:00,829 --> 00:03:02,354
+Deux, ce sont les spermatocytes
+
+123
+00:03:02,354 --> 00:03:03,929
+secondaires, après la méiose 1.
+
+124
+00:03:04,489 --> 00:03:05,903
+On passe au chapitre huit,
+
+125
+00:03:05,903 --> 00:03:07,101
+du gène à la protéine.
+
+126
+00:03:07,241 --> 00:03:08,191
+Prochain épisode :
+
+127
+00:03:08,191 --> 00:03:09,564
+pourquoi le code génétique
+
+128
+00:03:09,564 --> 00:03:11,200
+utilise soixante-quatre codons.

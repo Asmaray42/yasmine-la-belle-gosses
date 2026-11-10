@@ -1,0 +1,96 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avant de quitter le noyau,
+Dialogue: 0,0:00:01.62,0:00:03.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ARN prémessager se fait
+Dialogue: 0,0:00:03.05,0:00:04.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}découper : certains morceaux,
+Dialogue: 0,0:00:04.52,0:00:05.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les introns, sont jetés.
+Dialogue: 0,0:00:05.88,0:00:07.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pourtant, c'est indispensable.
+Dialogue: 0,0:00:07.87,0:00:09.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : la transcription,
+Dialogue: 0,0:00:09.56,0:00:11.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis la maturation de l'ARN.
+Dialogue: 0,0:00:11.77,0:00:13.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La transcription commence par le
+Dialogue: 0,0:00:13.52,0:00:15.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}recrutement d'une {\c&H66D1FF&}ARN{\c&HFFFFFF&} {\c&H66D1FF&}polymérase{\c&HFFFFFF&}
+Dialogue: 0,0:00:15.39,0:00:17.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur l'ADN, au début du gène.
+Dialogue: 0,0:00:17.49,0:00:18.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les deux brins se séparent,
+Dialogue: 0,0:00:18.91,0:00:20.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et des nucléotides d'ARN
+Dialogue: 0,0:00:20.33,0:00:21.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'assemblent au fur et à mesure
+Dialogue: 0,0:00:21.96,0:00:23.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}que leur base s'apparie avec le
+Dialogue: 0,0:00:23.59,0:00:25.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brin d'ADN qui sert de matrice,
+Dialogue: 0,0:00:25.38,0:00:26.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}brin{\c&HFFFFFF&} {\c&H66D1FF&}moins{\c&HFFFFFF&} .
+Dialogue: 0,0:00:26.31,0:00:27.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'élongation de l'ARN se fait
+Dialogue: 0,0:00:27.91,0:00:29.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le sens 5 prime vers 3 prime.
+Dialogue: 0,0:00:30.37,0:00:32.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ARN est donc complémentaire du
+Dialogue: 0,0:00:32.22,0:00:33.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brin moins, et identique,
+Dialogue: 0,0:00:33.55,0:00:34.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sauf U à la place de T,
+Dialogue: 0,0:00:34.77,0:00:36.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'autre brin, le {\c&H66D1FF&}brin{\c&HFFFFFF&} {\c&H66D1FF&}plus{\c&HFFFFFF&} .
+Dialogue: 0,0:00:36.92,0:00:38.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour les gènes qui codent des
+Dialogue: 0,0:00:38.54,0:00:40.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, l'ARN produit,
+Dialogue: 0,0:00:40.10,0:00:41.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ARN {\c&H66D1FF&}prémessager{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:41.33,0:00:42.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}subit plusieurs étapes de
+Dialogue: 0,0:00:42.72,0:00:44.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maturation avant de devenir l'ARN
+Dialogue: 0,0:00:44.73,0:00:45.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager final.
+Dialogue: 0,0:00:45.97,0:00:47.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}épissage{\c&HFFFFFF&} : certains segments,
+Dialogue: 0,0:00:47.56,0:00:48.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}introns{\c&HFFFFFF&} , sont éliminés,
+Dialogue: 0,0:00:48.95,0:00:50.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les segments restants,
+Dialogue: 0,0:00:50.19,0:00:51.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}exons{\c&HFFFFFF&} , sont recollés.
+Dialogue: 0,0:00:51.89,0:00:53.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}coiffe{\c&HFFFFFF&} : un G T P modifié
+Dialogue: 0,0:00:53.63,0:00:55.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ajouté à l'extrémité 5 prime.
+Dialogue: 0,0:00:55.75,0:00:57.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}queue{\c&HFFFFFF&} {\c&H66D1FF&}poly-A{\c&HFFFFFF&} : une série
+Dialogue: 0,0:00:57.15,0:00:58.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'adénines ajoutée à l'extrémité
+Dialogue: 0,0:00:58.81,0:00:59.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}3 prime.
+Dialogue: 0,0:00:59.83,0:01:01.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces trois étapes se font quasi
+Dialogue: 0,0:01:01.39,0:01:02.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}simultanément, dans le noyau.
+Dialogue: 0,0:01:03.04,0:01:04.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La coiffe et la queue poly-A
+Dialogue: 0,0:01:04.60,0:01:06.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}augmentent la stabilité de l'ARN
+Dialogue: 0,0:01:06.55,0:01:08.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager et facilitent son
+Dialogue: 0,0:01:08.00,0:01:09.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport vers le cytoplasme,
+Dialogue: 0,0:01:09.62,0:01:10.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lieu de la traduction.
+Dialogue: 0,0:01:11.41,0:01:13.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Seule une portion de l'ARN
+Dialogue: 0,0:01:13.00,0:01:14.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager, entre le codon START et
+Dialogue: 0,0:01:14.81,0:01:16.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le codon STOP, sera traduite :
+Dialogue: 0,0:01:16.46,0:01:17.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}région{\c&HFFFFFF&} {\c&H66D1FF&}codante{\c&HFFFFFF&} .
+Dialogue: 0,0:01:17.97,0:01:19.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ARN messager présente donc des
+Dialogue: 0,0:01:19.89,0:01:21.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}régions{\c&HFFFFFF&} {\c&H66D1FF&}non{\c&HFFFFFF&} {\c&H66D1FF&}traduites{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:21.14,0:01:23.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux extrémités 5 prime et 3 prime.
+Dialogue: 0,0:01:23.79,0:01:24.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le prémessager,
+Dialogue: 0,0:01:24.82,0:01:26.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la région codante est souvent
+Dialogue: 0,0:01:26.31,0:01:27.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interrompue par les introns.
+Dialogue: 0,0:01:27.90,0:01:29.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'épissage la réunit en
+Dialogue: 0,0:01:29.15,0:01:30.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}restaurant le {\c&H66D1FF&}cadre{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}lecture{\c&HFFFFFF&} :
+Dialogue: 0,0:01:30.88,0:01:32.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la succession correcte de codons,
+Dialogue: 0,0:01:32.68,0:01:34.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}depuis l'AUG jusqu'au STOP.
+Dialogue: 0,0:01:34.70,0:01:35.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:01:35.94,0:01:37.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'ARN a la même séquence que le
+Dialogue: 0,0:01:37.49,0:01:38.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brin matrice” : faux.
+Dialogue: 0,0:01:38.55,0:01:40.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est complémentaire du brin
+Dialogue: 0,0:01:40.04,0:01:40.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moins, la matrice,
+Dialogue: 0,0:01:40.96,0:01:42.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et identique au brin plus.
+Dialogue: 0,0:01:42.70,0:01:44.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La coiffe est ajoutée en 3
+Dialogue: 0,0:01:44.16,0:01:45.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prime” : faux, en 5 prime.
+Dialogue: 0,0:01:45.66,0:01:47.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La queue poly-A est en 3 prime.
+Dialogue: 0,0:01:47.66,0:01:49.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Tout l'ARN messager est traduit”
+Dialogue: 0,0:01:49.11,0:01:49.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux.
+Dialogue: 0,0:01:49.55,0:01:50.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Seule la région codante,
+Dialogue: 0,0:01:50.77,0:01:52.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre START et STOP, l'est.
+Dialogue: 0,0:01:52.70,0:01:54.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : que fait l'épissage ?
+Dialogue: 0,0:01:58.44,0:02:00.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il élimine les introns et recolle
+Dialogue: 0,0:02:00.25,0:02:00.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les exons.
+Dialogue: 0,0:02:00.94,0:02:02.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La coiffe et la queue poly-A sont
+Dialogue: 0,0:02:02.51,0:02:03.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les deux autres étapes de la
+Dialogue: 0,0:02:03.84,0:02:04.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maturation.
+Dialogue: 0,0:02:04.93,0:02:05.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:05.94,0:02:06.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la traduction.
+Dialogue: 0,0:02:06.87,0:02:08.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les ARN de transfert,
+Dialogue: 0,0:02:08.18,0:02:09.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les ribosomes, et comment la
+Dialogue: 0,0:02:09.78,0:02:11.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaîne d'acides aminés grandit,
+Dialogue: 0,0:02:11.54,0:02:12.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codon après codon.

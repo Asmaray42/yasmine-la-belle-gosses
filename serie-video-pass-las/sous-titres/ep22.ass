@@ -1,0 +1,138 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Imagine 46 spaghettis emmêlés
+Dialogue: 0,0:00:02.19,0:00:03.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans une assiette.
+Dialogue: 0,0:00:03.20,0:00:04.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il faut les copier,
+Dialogue: 0,0:00:04.17,0:00:05.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis donner une copie exacte de
+Dialogue: 0,0:00:05.76,0:00:06.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacun à deux assiettes.
+Dialogue: 0,0:00:07.12,0:00:08.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le défi de la cellule
+Dialogue: 0,0:00:08.44,0:00:08.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}eucaryote.
+Dialogue: 0,0:00:09.33,0:00:10.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux astuces : la condensation,
+Dialogue: 0,0:00:10.88,0:00:11.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les cohésines.
+Dialogue: 0,0:00:12.30,0:00:13.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez les eucaryotes,
+Dialogue: 0,0:00:13.34,0:00:15.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le matériel génétique est fait de
+Dialogue: 0,0:00:15.07,0:00:16.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs molécules d'ADN,
+Dialogue: 0,0:00:16.58,0:00:18.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les chromosomes, entremêlées dans
+Dialogue: 0,0:00:18.31,0:00:19.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le noyau comme des spaghettis
+Dialogue: 0,0:00:19.82,0:00:20.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans une assiette :
+Dialogue: 0,0:00:20.82,0:00:21.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la chromatine.
+Dialogue: 0,0:00:22.26,0:00:23.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comment identifier et séparer les
+Dialogue: 0,0:00:23.91,0:00:25.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes répliqués,
+Dialogue: 0,0:00:25.01,0:00:26.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour donner une copie de chacun
+Dialogue: 0,0:00:26.56,0:00:27.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux deux cellules-filles ?
+Dialogue: 0,0:00:27.99,0:00:29.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme : 46 chromosomes,
+Dialogue: 0,0:00:29.99,0:00:31.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}23 de chaque parent,
+Dialogue: 0,0:00:31.44,0:00:32.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à répliquer puis distribuer
+Dialogue: 0,0:00:32.79,0:00:33.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}correctement.
+Dialogue: 0,0:00:34.00,0:00:35.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En préparation à la division,
+Dialogue: 0,0:00:35.65,0:00:37.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les chromosomes se condensent,
+Dialogue: 0,0:00:37.35,0:00:38.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce qui facilitera leur
+Dialogue: 0,0:00:38.60,0:00:39.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparation.
+Dialogue: 0,0:00:39.37,0:00:41.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le noyau, l'ADN est associé
+Dialogue: 0,0:00:41.16,0:00:42.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à des protéines, principalement
+Dialogue: 0,0:00:42.74,0:00:43.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}histones{\c&HFFFFFF&} .
+Dialogue: 0,0:00:43.85,0:00:45.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tous les deux cents paires de
+Dialogue: 0,0:00:45.29,0:00:46.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bases environ, l'ADN s'enroule
+Dialogue: 0,0:00:46.91,0:00:48.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autour d'un complexe d'histones :
+Dialogue: 0,0:00:48.54,0:00:49.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est une succession de
+Dialogue: 0,0:00:49.67,0:00:50.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}nucléosomes{\c&HFFFFFF&} .
+Dialogue: 0,0:00:50.72,0:00:51.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les queues des histones
+Dialogue: 0,0:00:51.96,0:00:53.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interagissent avec d'autres
+Dialogue: 0,0:00:53.42,0:00:55.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}histones, ce qui rapproche les
+Dialogue: 0,0:00:55.04,0:00:56.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléosomes en une structure plus
+Dialogue: 0,0:00:56.83,0:00:57.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compacte.
+Dialogue: 0,0:00:57.46,0:00:58.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avant la division,
+Dialogue: 0,0:00:58.42,0:01:00.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ces structures se replient encore
+Dialogue: 0,0:01:00.17,0:01:01.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et s'attachent à une armature de
+Dialogue: 0,0:01:01.88,0:01:03.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines : c'est le chromosome
+Dialogue: 0,0:01:03.53,0:01:03.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compact.
+Dialogue: 0,0:01:04.52,0:01:05.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la réplication,
+Dialogue: 0,0:01:05.60,0:01:06.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les deux molécules d'ADN
+Dialogue: 0,0:01:06.98,0:01:08.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques restent attachées
+Dialogue: 0,0:01:08.42,0:01:10.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'une à l'autre par un complexe
+Dialogue: 0,0:01:10.01,0:01:11.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de protéines, les {\c&H66D1FF&}cohésines{\c&HFFFFFF&} .
+Dialogue: 0,0:01:11.64,0:01:12.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On les appelle alors les
+Dialogue: 0,0:01:12.72,0:01:13.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}chromatides{\c&HFFFFFF&} {\c&H66D1FF&}sœurs{\c&HFFFFFF&} .
+Dialogue: 0,0:01:14.13,0:01:15.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au microscope, dans les cellules
+Dialogue: 0,0:01:15.82,0:01:17.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en division, les chromosomes
+Dialogue: 0,0:01:17.29,0:01:18.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}condensés présentent des régions
+Dialogue: 0,0:01:18.97,0:01:19.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}distinctes.
+Dialogue: 0,0:01:19.69,0:01:20.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}centromère{\c&HFFFFFF&} : là où les
+Dialogue: 0,0:01:20.91,0:01:22.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs sont attachées
+Dialogue: 0,0:01:22.48,0:01:23.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grâce aux cohésines.
+Dialogue: 0,0:01:23.85,0:01:25.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}télomères{\c&HFFFFFF&} : les extrémités de
+Dialogue: 0,0:01:25.53,0:01:27.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacune des molécules d'ADN.
+Dialogue: 0,0:01:27.67,0:01:29.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}caryotype{\c&HFFFFFF&} : le classement des
+Dialogue: 0,0:01:29.41,0:01:30.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes, déjà répliqués,
+Dialogue: 0,0:01:30.93,0:01:32.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une cellule humaine en
+Dialogue: 0,0:01:32.24,0:01:32.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}division.
+Dialogue: 0,0:01:33.13,0:01:34.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules humaines contiennent
+Dialogue: 0,0:01:34.82,0:01:36.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}23 chromosomes différents,
+Dialogue: 0,0:01:36.60,0:01:38.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n égale 23, présents en deux
+Dialogue: 0,0:01:38.50,0:01:39.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}copies {\c&H66D1FF&}homologues{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:39.47,0:01:40.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacune reçue d'un parent.
+Dialogue: 0,0:01:41.20,0:01:43.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromosomes homologues ont 99
+Dialogue: 0,0:01:43.87,0:01:45.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}% d'identité de séquence :
+Dialogue: 0,0:01:45.61,0:01:46.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils contiennent la même
+Dialogue: 0,0:01:46.79,0:01:47.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}information génétique,
+Dialogue: 0,0:01:47.92,0:01:49.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec les quelques différences qui
+Dialogue: 0,0:01:49.62,0:01:51.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}distinguent le père de la mère.
+Dialogue: 0,0:01:51.61,0:01:53.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exception chez le mâle :
+Dialogue: 0,0:01:53.05,0:01:55.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'homologue du X est remplacé par
+Dialogue: 0,0:01:55.03,0:01:55.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le chromosome Y.
+Dialogue: 0,0:01:56.13,0:01:57.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}X et Y sont les {\c&H66D1FF&}chromosomes{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.46,0:01:58.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}sexuels{\c&HFFFFFF&} ; tous les autres sont
+Dialogue: 0,0:01:58.93,0:01:59.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}autosomes{\c&HFFFFFF&} .
+Dialogue: 0,0:02:00.23,0:02:01.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lors de la division,
+Dialogue: 0,0:02:01.22,0:02:02.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont les {\c&H66D1FF&}chromatides{\c&HFFFFFF&} {\c&H66D1FF&}sœurs{\c&HFFFFFF&} qui
+Dialogue: 0,0:02:02.85,0:02:04.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont séparées, par rupture des
+Dialogue: 0,0:02:04.32,0:02:05.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liens de cohésines,
+Dialogue: 0,0:02:05.26,0:02:06.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et réparties dans les deux
+Dialogue: 0,0:02:06.54,0:02:07.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules-filles.
+Dialogue: 0,0:02:07.73,0:02:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce partage est réalisé par des
+Dialogue: 0,0:02:09.30,0:02:10.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}microtubules{\c&HFFFFFF&} qui s'accrochent de
+Dialogue: 0,0:02:10.96,0:02:12.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}part et d'autre sur les deux
+Dialogue: 0,0:02:12.43,0:02:13.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides, au niveau de
+Dialogue: 0,0:02:13.73,0:02:15.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structures centromériques
+Dialogue: 0,0:02:15.03,0:02:16.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appelées {\c&H66D1FF&}kinétochores{\c&HFFFFFF&} .
+Dialogue: 0,0:02:16.63,0:02:18.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque cellule-fille reçoit donc
+Dialogue: 0,0:02:18.37,0:02:19.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'homologue paternel et
+Dialogue: 0,0:02:19.63,0:02:21.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'homologue maternel de chaque
+Dialogue: 0,0:02:21.26,0:02:21.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosome.
+Dialogue: 0,0:02:22.42,0:02:24.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La distinction la plus importante
+Dialogue: 0,0:02:24.31,0:02:25.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du chapitre.
+Dialogue: 0,0:02:25.40,0:02:26.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Origine : les chromatides sœurs
+Dialogue: 0,0:02:26.89,0:02:28.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}viennent de la réplication ;
+Dialogue: 0,0:02:28.24,0:02:29.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les homologues viennent chacun
+Dialogue: 0,0:02:29.68,0:02:30.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un parent.
+Dialogue: 0,0:02:30.66,0:02:32.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lien : les chromatides sœurs sont
+Dialogue: 0,0:02:32.29,0:02:33.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}attachées par les cohésines au
+Dialogue: 0,0:02:33.77,0:02:34.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}centromère.
+Dialogue: 0,0:02:34.71,0:02:36.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Identité : les chromatides sœurs
+Dialogue: 0,0:02:36.33,0:02:37.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont identiques ; les homologues
+Dialogue: 0,0:02:37.95,0:02:40.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}partagent 99 % de séquence.
+Dialogue: 0,0:02:41.08,0:02:42.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En mitose, ce sont les
+Dialogue: 0,0:02:42.16,0:02:43.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs qui sont
+Dialogue: 0,0:02:43.44,0:02:43.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparées.
+Dialogue: 0,0:02:44.45,0:02:45.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : que sépare-t-on lors de
+Dialogue: 0,0:02:45.85,0:02:46.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cette division ?
+Dialogue: 0,0:02:51.00,0:02:52.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromatides sœurs,
+Dialogue: 0,0:02:52.11,0:02:53.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par rupture des cohésines.
+Dialogue: 0,0:02:53.57,0:02:55.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque cellule-fille garde un
+Dialogue: 0,0:02:55.16,0:02:56.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologue paternel et un
+Dialogue: 0,0:02:56.47,0:02:56.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternel.
+Dialogue: 0,0:02:57.53,0:02:58.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:58.56,0:02:59.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cycle cellulaire,
+Dialogue: 0,0:02:59.70,0:03:01.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les cinq phases de la mitose,
+Dialogue: 0,0:03:01.53,0:03:03.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec le mot mnémotechnique du prof.

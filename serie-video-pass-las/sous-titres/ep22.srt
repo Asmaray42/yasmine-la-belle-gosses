@@ -1,0 +1,499 @@
+1
+00:00:00,300 --> 00:00:02,188
+Imagine 46 spaghettis emmêlés
+
+2
+00:00:02,188 --> 00:00:03,060
+dans une assiette.
+
+3
+00:00:03,200 --> 00:00:04,171
+Il faut les copier,
+
+4
+00:00:04,171 --> 00:00:05,757
+puis donner une copie exacte de
+
+5
+00:00:05,757 --> 00:00:06,984
+chacun à deux assiettes.
+
+6
+00:00:07,124 --> 00:00:08,440
+C'est le défi de la cellule
+
+7
+00:00:08,440 --> 00:00:08,928
+eucaryote.
+
+8
+00:00:09,328 --> 00:00:10,883
+Deux astuces : la condensation,
+
+9
+00:00:10,883 --> 00:00:11,736
+et les cohésines.
+
+10
+00:00:12,296 --> 00:00:13,341
+Chez les eucaryotes,
+
+11
+00:00:13,341 --> 00:00:15,066
+le matériel génétique est fait de
+
+12
+00:00:15,066 --> 00:00:16,582
+plusieurs molécules d'ADN,
+
+13
+00:00:16,582 --> 00:00:18,308
+les chromosomes, entremêlées dans
+
+14
+00:00:18,308 --> 00:00:19,824
+le noyau comme des spaghettis
+
+15
+00:00:19,824 --> 00:00:20,817
+dans une assiette :
+
+16
+00:00:20,817 --> 00:00:21,862
+c'est la chromatine.
+
+17
+00:00:22,262 --> 00:00:23,910
+Comment identifier et séparer les
+
+18
+00:00:23,910 --> 00:00:25,008
+chromosomes répliqués,
+
+19
+00:00:25,008 --> 00:00:26,556
+pour donner une copie de chacun
+
+20
+00:00:26,556 --> 00:00:27,854
+aux deux cellules-filles ?
+
+21
+00:00:27,994 --> 00:00:29,992
+Chez l'homme : 46 chromosomes,
+
+22
+00:00:29,992 --> 00:00:31,442
+23 de chaque parent,
+
+23
+00:00:31,442 --> 00:00:32,791
+à répliquer puis distribuer
+
+24
+00:00:32,791 --> 00:00:33,440
+correctement.
+
+25
+00:00:34,000 --> 00:00:35,648
+En préparation à la division,
+
+26
+00:00:35,648 --> 00:00:37,354
+les chromosomes se condensent,
+
+27
+00:00:37,354 --> 00:00:38,604
+ce qui facilitera leur
+
+28
+00:00:38,604 --> 00:00:39,229
+séparation.
+
+29
+00:00:39,369 --> 00:00:41,156
+Dans le noyau, l'ADN est associé
+
+30
+00:00:41,156 --> 00:00:42,740
+à des protéines, principalement
+
+31
+00:00:42,740 --> 00:00:43,454
+des histones .
+
+32
+00:00:43,854 --> 00:00:45,285
+Tous les deux cents paires de
+
+33
+00:00:45,285 --> 00:00:46,912
+bases environ, l'ADN s'enroule
+
+34
+00:00:46,912 --> 00:00:48,540
+autour d'un complexe d'histones :
+
+35
+00:00:48,540 --> 00:00:49,674
+c'est une succession de
+
+36
+00:00:49,674 --> 00:00:50,315
+nucléosomes .
+
+37
+00:00:50,715 --> 00:00:51,960
+Les queues des histones
+
+38
+00:00:51,960 --> 00:00:53,421
+interagissent avec d'autres
+
+39
+00:00:53,421 --> 00:00:55,044
+histones, ce qui rapproche les
+
+40
+00:00:55,044 --> 00:00:56,830
+nucléosomes en une structure plus
+
+41
+00:00:56,830 --> 00:00:57,317
+compacte.
+
+42
+00:00:57,457 --> 00:00:58,416
+Avant la division,
+
+43
+00:00:58,416 --> 00:01:00,174
+ces structures se replient encore
+
+44
+00:01:00,174 --> 00:01:01,879
+et s'attachent à une armature de
+
+45
+00:01:01,879 --> 00:01:03,531
+protéines : c'est le chromosome
+
+46
+00:01:03,531 --> 00:01:03,957
+compact.
+
+47
+00:01:04,517 --> 00:01:05,596
+Après la réplication,
+
+48
+00:01:05,596 --> 00:01:06,983
+les deux molécules d'ADN
+
+49
+00:01:06,983 --> 00:01:08,421
+identiques restent attachées
+
+50
+00:01:08,421 --> 00:01:10,014
+l'une à l'autre par un complexe
+
+51
+00:01:10,014 --> 00:01:11,503
+de protéines, les cohésines .
+
+52
+00:01:11,643 --> 00:01:12,721
+On les appelle alors les
+
+53
+00:01:12,721 --> 00:01:13,574
+chromatides sœurs .
+
+54
+00:01:14,134 --> 00:01:15,815
+Au microscope, dans les cellules
+
+55
+00:01:15,815 --> 00:01:17,286
+en division, les chromosomes
+
+56
+00:01:17,286 --> 00:01:18,967
+condensés présentent des régions
+
+57
+00:01:18,967 --> 00:01:19,545
+distinctes.
+
+58
+00:01:19,685 --> 00:01:20,909
+Le centromère : là où les
+
+59
+00:01:20,909 --> 00:01:22,475
+chromatides sœurs sont attachées
+
+60
+00:01:22,475 --> 00:01:23,454
+grâce aux cohésines.
+
+61
+00:01:23,854 --> 00:01:25,533
+Les télomères : les extrémités de
+
+62
+00:01:25,533 --> 00:01:27,110
+chacune des molécules d'ADN.
+
+63
+00:01:27,670 --> 00:01:29,411
+Le caryotype : le classement des
+
+64
+00:01:29,411 --> 00:01:30,934
+chromosomes, déjà répliqués,
+
+65
+00:01:30,934 --> 00:01:32,239
+d'une cellule humaine en
+
+66
+00:01:32,239 --> 00:01:32,728
+division.
+
+67
+00:01:33,128 --> 00:01:34,815
+Les cellules humaines contiennent
+
+68
+00:01:34,815 --> 00:01:36,604
+23 chromosomes différents,
+
+69
+00:01:36,604 --> 00:01:38,495
+n égale 23, présents en deux
+
+70
+00:01:38,495 --> 00:01:39,466
+copies homologues ,
+
+71
+00:01:39,466 --> 00:01:40,795
+chacune reçue d'un parent.
+
+72
+00:01:41,195 --> 00:01:43,865
+Les chromosomes homologues ont 99
+
+73
+00:01:43,865 --> 00:01:45,611
+% d'identité de séquence :
+
+74
+00:01:45,611 --> 00:01:46,792
+ils contiennent la même
+
+75
+00:01:46,792 --> 00:01:47,922
+information génétique,
+
+76
+00:01:47,922 --> 00:01:49,616
+avec les quelques différences qui
+
+77
+00:01:49,616 --> 00:01:51,208
+distinguent le père de la mère.
+
+78
+00:01:51,608 --> 00:01:53,047
+Exception chez le mâle :
+
+79
+00:01:53,047 --> 00:01:55,027
+l'homologue du X est remplacé par
+
+80
+00:01:55,027 --> 00:01:55,986
+le chromosome Y.
+
+81
+00:01:56,126 --> 00:01:57,456
+X et Y sont les chromosomes
+
+82
+00:01:57,456 --> 00:01:58,934
+sexuels ; tous les autres sont
+
+83
+00:01:58,934 --> 00:01:59,672
+les autosomes .
+
+84
+00:02:00,232 --> 00:02:01,218
+Lors de la division,
+
+85
+00:02:01,218 --> 00:02:02,845
+ce sont les chromatides sœurs qui
+
+86
+00:02:02,845 --> 00:02:04,323
+sont séparées, par rupture des
+
+87
+00:02:04,323 --> 00:02:05,260
+liens de cohésines,
+
+88
+00:02:05,260 --> 00:02:06,541
+et réparties dans les deux
+
+89
+00:02:06,541 --> 00:02:07,330
+cellules-filles.
+
+90
+00:02:07,730 --> 00:02:09,295
+Ce partage est réalisé par des
+
+91
+00:02:09,295 --> 00:02:10,964
+microtubules qui s'accrochent de
+
+92
+00:02:10,964 --> 00:02:12,425
+part et d'autre sur les deux
+
+93
+00:02:12,425 --> 00:02:13,729
+chromatides, au niveau de
+
+94
+00:02:13,729 --> 00:02:15,033
+structures centromériques
+
+95
+00:02:15,033 --> 00:02:16,233
+appelées kinétochores .
+
+96
+00:02:16,633 --> 00:02:18,373
+Chaque cellule-fille reçoit donc
+
+97
+00:02:18,373 --> 00:02:19,625
+l'homologue paternel et
+
+98
+00:02:19,625 --> 00:02:21,257
+l'homologue maternel de chaque
+
+99
+00:02:21,257 --> 00:02:21,855
+chromosome.
+
+100
+00:02:22,415 --> 00:02:24,309
+La distinction la plus importante
+
+101
+00:02:24,309 --> 00:02:24,998
+du chapitre.
+
+102
+00:02:25,398 --> 00:02:26,890
+Origine : les chromatides sœurs
+
+103
+00:02:26,890 --> 00:02:28,238
+viennent de la réplication ;
+
+104
+00:02:28,238 --> 00:02:29,682
+les homologues viennent chacun
+
+105
+00:02:29,682 --> 00:02:30,259
+d'un parent.
+
+106
+00:02:30,659 --> 00:02:32,287
+Lien : les chromatides sœurs sont
+
+107
+00:02:32,287 --> 00:02:33,767
+attachées par les cohésines au
+
+108
+00:02:33,767 --> 00:02:34,310
+centromère.
+
+109
+00:02:34,710 --> 00:02:36,329
+Identité : les chromatides sœurs
+
+110
+00:02:36,329 --> 00:02:37,947
+sont identiques ; les homologues
+
+111
+00:02:37,947 --> 00:02:40,679
+partagent 99 % de séquence.
+
+112
+00:02:41,079 --> 00:02:42,162
+En mitose, ce sont les
+
+113
+00:02:42,162 --> 00:02:43,442
+chromatides sœurs qui sont
+
+114
+00:02:43,442 --> 00:02:43,885
+séparées.
+
+115
+00:02:44,445 --> 00:02:45,852
+Quiz : que sépare-t-on lors de
+
+116
+00:02:45,852 --> 00:02:46,602
+cette division ?
+
+117
+00:02:51,002 --> 00:02:52,114
+Les chromatides sœurs,
+
+118
+00:02:52,114 --> 00:02:53,427
+par rupture des cohésines.
+
+119
+00:02:53,567 --> 00:02:55,157
+Chaque cellule-fille garde un
+
+120
+00:02:55,157 --> 00:02:56,473
+homologue paternel et un
+
+121
+00:02:56,473 --> 00:02:56,966
+maternel.
+
+122
+00:02:57,526 --> 00:02:58,557
+Prochain épisode :
+
+123
+00:02:58,557 --> 00:02:59,702
+le cycle cellulaire,
+
+124
+00:02:59,702 --> 00:03:01,534
+et les cinq phases de la mitose,
+
+125
+00:03:01,534 --> 00:03:03,538
+avec le mot mnémotechnique du prof.

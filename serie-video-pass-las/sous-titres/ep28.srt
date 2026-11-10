@@ -1,0 +1,491 @@
+1
+00:00:00,300 --> 00:00:01,986
+L'ADN est comparé à un livre
+
+2
+00:00:01,986 --> 00:00:03,456
+écrit avec quatre lettres :
+
+3
+00:00:03,456 --> 00:00:04,054
+A, C, G, T.
+
+4
+00:00:04,194 --> 00:00:05,678
+Mais les protéines sont écrites
+
+5
+00:00:05,678 --> 00:00:06,588
+avec vingt lettres.
+
+6
+00:00:06,728 --> 00:00:07,813
+Comment traduire l'un dans
+
+7
+00:00:07,813 --> 00:00:08,189
+l'autre ?
+
+8
+00:00:08,589 --> 00:00:09,862
+Au programme : le gène,
+
+9
+00:00:09,862 --> 00:00:11,688
+les étapes du gène à la protéine,
+
+10
+00:00:11,688 --> 00:00:12,850
+et le code génétique.
+
+11
+00:00:13,410 --> 00:00:14,827
+Chapitre huit, du gène à la
+
+12
+00:00:14,827 --> 00:00:16,087
+protéine, en dix points.
+
+13
+00:00:16,487 --> 00:00:17,681
+Définition du gène ;
+
+14
+00:00:17,681 --> 00:00:18,815
+le code génétique ;
+
+15
+00:00:18,815 --> 00:00:20,784
+la synthèse des ARN messagers ;
+
+16
+00:00:20,784 --> 00:00:22,395
+la synthèse des protéines ;
+
+17
+00:00:22,395 --> 00:00:23,827
+le trafic des protéines.
+
+18
+00:00:24,227 --> 00:00:25,872
+Le contrôle de l'expression des
+
+19
+00:00:25,872 --> 00:00:27,464
+gènes ; chez les procaryotes ;
+
+20
+00:00:27,464 --> 00:00:29,163
+chez les virus ; gènes et génome
+
+21
+00:00:29,163 --> 00:00:30,702
+; mutations et polymorphisme.
+
+22
+00:00:31,262 --> 00:00:32,456
+L'ADN contient toute
+
+23
+00:00:32,456 --> 00:00:33,858
+l'information nécessaire au
+
+24
+00:00:33,858 --> 00:00:35,416
+fonctionnement de l'organisme.
+
+25
+00:00:35,556 --> 00:00:37,517
+Un gène est un segment d'ADN,
+
+26
+00:00:37,517 --> 00:00:38,926
+de séquence déterminée,
+
+27
+00:00:38,926 --> 00:00:40,520
+qui contient l'information
+
+28
+00:00:40,520 --> 00:00:42,419
+nécessaire à la production d'un
+
+29
+00:00:42,419 --> 00:00:44,258
+ARN de transfert, d'un ARN
+
+30
+00:00:44,258 --> 00:00:46,280
+ribosomal, ou d'un ARN messager
+
+31
+00:00:46,280 --> 00:00:48,241
+qui sera traduit en polypeptide.
+
+32
+00:00:48,641 --> 00:00:50,449
+Il détermine ainsi une fonction
+
+33
+00:00:50,449 --> 00:00:51,558
+cellulaire précise,
+
+34
+00:00:51,558 --> 00:00:53,424
+et il a une localisation précise
+
+35
+00:00:53,424 --> 00:00:54,532
+sur un chromosome :
+
+36
+00:00:54,532 --> 00:00:55,116
+le locus .
+
+37
+00:00:55,516 --> 00:00:57,143
+Chez l'homme : environ vingt
+
+38
+00:00:57,143 --> 00:00:58,829
+mille gènes donnent des ARN
+
+39
+00:00:58,829 --> 00:01:00,690
+messagers, et environ cinq cents
+
+40
+00:01:00,690 --> 00:01:03,829
+donnent des ARNt et des ARNr.
+
+41
+00:01:04,389 --> 00:01:06,444
+Exemple : le gène de l'insuline,
+
+42
+00:01:06,444 --> 00:01:08,564
+I N S, localisé sur le chromosome
+
+43
+00:01:08,564 --> 00:01:11,068
+onze, d'après le Map viewer du NCBI.
+
+44
+00:01:11,628 --> 00:01:12,495
+Trois étapes.
+
+45
+00:01:12,895 --> 00:01:14,729
+La transcription, dans le noyau :
+
+46
+00:01:14,729 --> 00:01:16,395
+l'ADN est recopié en ARN.
+
+47
+00:01:16,795 --> 00:01:18,433
+La maturation, dans le noyau,
+
+48
+00:01:18,433 --> 00:01:20,410
+pour les ARN messagers uniquement
+
+49
+00:01:20,410 --> 00:01:22,217
+: on élimine certaines portions,
+
+50
+00:01:22,217 --> 00:01:23,968
+c'est l'épissage, et on modifie
+
+51
+00:01:23,968 --> 00:01:24,815
+les extrémités.
+
+52
+00:01:25,215 --> 00:01:26,472
+La traduction, dans le
+
+53
+00:01:26,472 --> 00:01:27,958
+cytoplasme, pour les ARN
+
+54
+00:01:27,958 --> 00:01:29,215
+messagers uniquement :
+
+55
+00:01:29,215 --> 00:01:30,530
+synthèse d'une séquence
+
+56
+00:01:30,530 --> 00:01:31,901
+peptidique selon le code
+
+57
+00:01:31,901 --> 00:01:32,473
+génétique.
+
+58
+00:01:32,613 --> 00:01:35,748
+Les ARNr et ARNt ne sont pas
+
+59
+00:01:35,748 --> 00:01:37,582
+traduits : ils participent à la
+
+60
+00:01:37,582 --> 00:01:38,233
+traduction.
+
+61
+00:01:38,793 --> 00:01:40,640
+Il faut traduire un ARN à quatre
+
+62
+00:01:40,640 --> 00:01:42,269
+lettres en polypeptide à vingt
+
+63
+00:01:42,269 --> 00:01:42,704
+lettres.
+
+64
+00:01:42,844 --> 00:01:44,424
+Avec un nucléotide par acide
+
+65
+00:01:44,424 --> 00:01:45,778
+aminé : seulement quatre
+
+66
+00:01:45,778 --> 00:01:46,512
+possibilités.
+
+67
+00:01:46,652 --> 00:01:47,738
+Avec deux : seize.
+
+68
+00:01:47,878 --> 00:01:49,365
+Avec trois : soixante-quatre.
+
+69
+00:01:49,505 --> 00:01:51,150
+C'est l'option du code génétique.
+
+70
+00:01:51,550 --> 00:01:53,126
+Le code est lu par groupes de
+
+71
+00:01:53,126 --> 00:01:54,159
+trois nucléotides :
+
+72
+00:01:54,159 --> 00:01:56,062
+un triplet dans l'ADN correspond
+
+73
+00:01:56,062 --> 00:01:57,420
+à un codon dans l'ARN,
+
+74
+00:01:57,420 --> 00:01:59,595
+et un codon correspond à un acide aminé.
+
+75
+00:02:00,155 --> 00:02:01,350
+Le code est dégénéré :
+
+76
+00:02:01,350 --> 00:02:02,871
+pour certains acides aminés,
+
+77
+00:02:02,871 --> 00:02:04,338
+il existe plusieurs codons.
+
+78
+00:02:04,478 --> 00:02:06,429
+Par exemple, la valine en a quatre.
+
+79
+00:02:06,829 --> 00:02:08,350
+Mais il est sans ambiguïté :
+
+80
+00:02:08,350 --> 00:02:10,035
+un codon donné ne code que pour
+
+81
+00:02:10,035 --> 00:02:11,121
+un seul acide aminé.
+
+82
+00:02:11,681 --> 00:02:13,427
+Un codon START pour démarrer la
+
+83
+00:02:13,427 --> 00:02:14,497
+traduction : A U G,
+
+84
+00:02:14,497 --> 00:02:15,735
+qui code aussi pour la
+
+85
+00:02:15,735 --> 00:02:16,355
+méthionine.
+
+86
+00:02:16,495 --> 00:02:17,886
+La synthèse d'une protéine
+
+87
+00:02:17,886 --> 00:02:19,491
+commence donc toujours par une
+
+88
+00:02:19,491 --> 00:02:20,079
+méthionine.
+
+89
+00:02:20,479 --> 00:02:22,105
+Et trois codons STOP possibles
+
+90
+00:02:22,105 --> 00:02:23,298
+pour signaler la fin :
+
+91
+00:02:23,298 --> 00:02:24,545
+U G A, U A G, ou U A A.
+
+92
+00:02:25,105 --> 00:02:26,769
+Le cours donne le tableau complet
+
+93
+00:02:26,769 --> 00:02:28,081
+: pour chaque acide aminé,
+
+94
+00:02:28,081 --> 00:02:29,191
+son code à une lettre,
+
+95
+00:02:29,191 --> 00:02:31,158
+à trois lettres, son nom et ses codons.
+
+96
+00:02:31,298 --> 00:02:32,821
+Par exemple : la leucine,
+
+97
+00:02:32,821 --> 00:02:34,648
+l'arginine et la sérine en ont
+
+98
+00:02:34,648 --> 00:02:36,354
+six ; l'alanine, la glycine,
+
+99
+00:02:36,354 --> 00:02:38,181
+la proline, la thréonine et la
+
+100
+00:02:38,181 --> 00:02:40,192
+valine, quatre ; la méthionine et
+
+101
+00:02:40,192 --> 00:02:41,653
+le tryptophane, un seul,
+
+102
+00:02:41,653 --> 00:02:42,567
+A U G et U G G.
+
+103
+00:02:42,707 --> 00:02:43,828
+Et la dernière ligne :
+
+104
+00:02:43,828 --> 00:02:44,592
+les trois STOP.
+
+105
+00:02:45,152 --> 00:02:46,495
+Les trois STOP commencent tous
+
+106
+00:02:46,495 --> 00:02:46,763
+par U.
+
+107
+00:02:46,903 --> 00:02:48,222
+U A A : U Arrête Aussitôt.
+
+108
+00:02:48,362 --> 00:02:49,919
+U A G : U Arrête Gentiment.
+
+109
+00:02:50,059 --> 00:02:51,291
+U G A : U Gros Arrêt.
+
+110
+00:02:51,691 --> 00:02:52,935
+Et le départ, A U G :
+
+111
+00:02:52,935 --> 00:02:54,239
+“AUGmenter”, on démarre,
+
+112
+00:02:54,239 --> 00:02:55,424
+avec une méthionine.
+
+113
+00:02:55,984 --> 00:02:57,364
+Quiz : laquelle est exacte ?
+
+114
+00:03:01,764 --> 00:03:02,578
+Réponse B.
+
+115
+00:03:02,718 --> 00:03:04,396
+Le code est dégénéré mais sans
+
+116
+00:03:04,396 --> 00:03:06,185
+ambiguïté, la traduction se fait
+
+117
+00:03:06,185 --> 00:03:07,248
+dans le cytoplasme,
+
+118
+00:03:07,248 --> 00:03:08,814
+et il y a trois codons STOP.
+
+119
+00:03:09,374 --> 00:03:10,421
+Prochain épisode :
+
+120
+00:03:10,421 --> 00:03:11,876
+la transcription, le brin
+
+121
+00:03:11,876 --> 00:03:13,505
+matrice, et la maturation de
+
+122
+00:03:13,505 --> 00:03:14,785
+l'ARN, avec coiffe,
+
+123
+00:03:14,785 --> 00:03:16,239
+queue poly-A et épissage.

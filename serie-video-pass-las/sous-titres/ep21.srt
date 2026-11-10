@@ -1,0 +1,427 @@
+1
+00:00:00,300 --> 00:00:01,809
+Pendant que tu regardes cette
+
+2
+00:00:01,809 --> 00:00:03,266
+vidéo, ton corps réalise des
+
+3
+00:00:03,266 --> 00:00:04,984
+milliers de divisions cellulaires
+
+4
+00:00:04,984 --> 00:00:06,545
+: quelques milliards par jour,
+
+5
+00:00:06,545 --> 00:00:08,159
+dans la peau, le tube digestif,
+
+6
+00:00:08,159 --> 00:00:08,575
+le sang.
+
+7
+00:00:08,975 --> 00:00:10,618
+Au programme : les rôles de la
+
+8
+00:00:10,618 --> 00:00:11,933
+division, sa check-list,
+
+9
+00:00:11,933 --> 00:00:13,576
+et la réplication de l'ADN.
+
+10
+00:00:14,136 --> 00:00:15,628
+Chapitre six : la division
+
+11
+00:00:15,628 --> 00:00:16,259
+cellulaire.
+
+12
+00:00:16,659 --> 00:00:18,482
+Aperçu général ; la réplication
+
+13
+00:00:18,482 --> 00:00:20,482
+de l'ADN ; la division chez les
+
+14
+00:00:20,482 --> 00:00:21,188
+procaryotes.
+
+15
+00:00:21,588 --> 00:00:23,074
+Les chromosomes eucaryotes ;
+
+16
+00:00:23,074 --> 00:00:24,188
+le cycle cellulaire ;
+
+17
+00:00:24,188 --> 00:00:25,887
+la mitose ; le contrôle du cycle
+
+18
+00:00:25,887 --> 00:00:26,471
+cellulaire.
+
+19
+00:00:27,031 --> 00:00:28,215
+La division cellulaire,
+
+20
+00:00:28,215 --> 00:00:29,915
+c'est le processus par lequel une
+
+21
+00:00:29,915 --> 00:00:31,614
+cellule initiale, la cellule-mère
+
+22
+00:00:31,614 --> 00:00:32,850
+, donne naissance à deux
+
+23
+00:00:32,850 --> 00:00:33,828
+nouvelles cellules,
+
+24
+00:00:33,828 --> 00:00:34,909
+les cellules-filles .
+
+25
+00:00:35,309 --> 00:00:36,268
+Chez les organismes
+
+26
+00:00:36,268 --> 00:00:37,630
+unicellulaires, elle assure
+
+27
+00:00:37,630 --> 00:00:39,295
+l'accroissement de la population.
+
+28
+00:00:39,695 --> 00:00:41,104
+Chez les pluricellulaires,
+
+29
+00:00:41,104 --> 00:00:42,513
+à partir de l'œuf fécondé,
+
+30
+00:00:42,513 --> 00:00:43,488
+une seule cellule,
+
+31
+00:00:43,488 --> 00:00:45,168
+elle assure le développement et
+
+32
+00:00:45,168 --> 00:00:46,740
+la croissance de l'organisme,
+
+33
+00:00:46,740 --> 00:00:48,040
+et le remplacement et la
+
+34
+00:00:48,040 --> 00:00:49,611
+réparation des tissus usés ou
+
+35
+00:00:49,611 --> 00:00:50,207
+endommagés.
+
+36
+00:00:50,767 --> 00:00:51,674
+Chez l'homme adulte :
+
+37
+00:00:51,674 --> 00:00:53,357
+entre 10 000 et 100 000 milliards
+
+38
+00:00:53,357 --> 00:00:53,875
+de cellules.
+
+39
+00:00:54,015 --> 00:00:55,331
+Et quelques milliards de
+
+40
+00:00:55,331 --> 00:00:56,922
+divisions de remplacement par
+
+41
+00:00:56,922 --> 00:00:57,964
+jour, dans la peau,
+
+42
+00:00:57,964 --> 00:00:59,609
+le tube digestif et le système
+
+43
+00:00:59,609 --> 00:01:00,486
+hématopoïétique.
+
+44
+00:01:01,046 --> 00:01:02,693
+Pour se diviser, une cellule doit
+
+45
+00:01:02,693 --> 00:01:03,692
+cocher quatre cases.
+
+46
+00:01:04,092 --> 00:01:05,301
+Augmenter son contenu
+
+47
+00:01:05,301 --> 00:01:06,856
+cytoplasmique, organites et
+
+48
+00:01:06,856 --> 00:01:07,432
+protéines.
+
+49
+00:01:07,832 --> 00:01:09,601
+Dupliquer l'information génétique
+
+50
+00:01:09,601 --> 00:01:11,478
+: c'est la réplication de l'ADN.
+
+51
+00:01:11,878 --> 00:01:13,613
+Répartir l'ensemble du matériel
+
+52
+00:01:13,613 --> 00:01:14,788
+en deux parts égales.
+
+53
+00:01:15,188 --> 00:01:16,480
+Et séparer les deux nouvelles
+
+54
+00:01:16,480 --> 00:01:16,881
+cellules.
+
+55
+00:01:17,441 --> 00:01:19,283
+La réplication, en deux étapes et
+
+56
+00:01:19,283 --> 00:01:19,786
+un bilan.
+
+57
+00:01:20,186 --> 00:01:21,778
+Étape un : séparation des deux
+
+58
+00:01:21,778 --> 00:01:22,946
+brins complémentaires,
+
+59
+00:01:22,946 --> 00:01:24,219
+par rupture des liaisons
+
+60
+00:01:24,219 --> 00:01:24,750
+hydrogène.
+
+61
+00:01:25,150 --> 00:01:26,878
+Étape deux : l' ADN polymérase
+
+62
+00:01:26,878 --> 00:01:28,497
+synthétise de nouveaux brins à
+
+63
+00:01:28,497 --> 00:01:30,063
+partir de nucléotides libres,
+
+64
+00:01:30,063 --> 00:01:31,682
+en utilisant les anciens brins
+
+65
+00:01:31,682 --> 00:01:32,492
+comme matrice .
+
+66
+00:01:32,632 --> 00:01:34,395
+La polymérisation évolue toujours
+
+67
+00:01:34,395 --> 00:01:36,852
+dans la direction 5 prime vers 3 prime.
+
+68
+00:01:37,252 --> 00:01:38,737
+Bilan : les deux nouvelles
+
+69
+00:01:38,737 --> 00:01:40,223
+molécules ont une séquence
+
+70
+00:01:40,223 --> 00:01:41,880
+identique à l'ADN initial,
+
+71
+00:01:41,880 --> 00:01:43,537
+et chacune conserve un ancien
+
+72
+00:01:43,537 --> 00:01:45,080
+brin : c'est la réplication
+
+73
+00:01:45,080 --> 00:01:46,166
+semi-conservative .
+
+74
+00:01:46,726 --> 00:01:48,346
+Chez la plupart des bactéries,
+
+75
+00:01:48,346 --> 00:01:49,912
+le matériel génétique est une
+
+76
+00:01:49,912 --> 00:01:51,856
+seule molécule d'ADN circulaire .
+
+77
+00:01:52,256 --> 00:01:53,452
+Cet ADN est répliqué,
+
+78
+00:01:53,452 --> 00:01:54,804
+et les deux molécules sont
+
+79
+00:01:54,804 --> 00:01:56,417
+réparties de part et d'autre de
+
+80
+00:01:56,417 --> 00:01:56,989
+la cellule.
+
+81
+00:01:57,129 --> 00:01:58,200
+Après un allongement,
+
+82
+00:01:58,200 --> 00:01:59,730
+la cellule se cloisonne en son
+
+83
+00:01:59,730 --> 00:02:01,260
+centre, jusqu'à la scission en
+
+84
+00:02:01,260 --> 00:02:02,332
+deux cellules-filles.
+
+85
+00:02:02,892 --> 00:02:03,751
+Deux pièges.
+
+86
+00:02:04,151 --> 00:02:05,600
+“La polymérisation du nouveau
+
+87
+00:02:05,600 --> 00:02:07,515
+brin se fait de 3 prime vers 5
+
+88
+00:02:07,515 --> 00:02:09,224
+prime” : faux, toujours 5 prime
+
+89
+00:02:09,224 --> 00:02:10,103
+vers 3 prime.
+
+90
+00:02:10,503 --> 00:02:11,758
+“Une des deux molécules filles
+
+91
+00:02:11,758 --> 00:02:13,315
+garde les deux anciens brins” : faux.
+
+92
+00:02:13,455 --> 00:02:15,230
+Chacune garde un ancien brin :
+
+93
+00:02:15,230 --> 00:02:16,294
+semi-conservative.
+
+94
+00:02:16,854 --> 00:02:18,234
+Quiz : laquelle est exacte ?
+
+95
+00:02:22,634 --> 00:02:23,428
+Réponse A.
+
+96
+00:02:23,568 --> 00:02:25,071
+Les bactéries ont une seule
+
+97
+00:02:25,071 --> 00:02:26,685
+molécule d'ADN circulaire,
+
+98
+00:02:26,685 --> 00:02:28,244
+il y a quelques milliards de
+
+99
+00:02:28,244 --> 00:02:29,302
+divisions par jour,
+
+100
+00:02:29,302 --> 00:02:31,306
+et la synthèse va de 5 prime vers
+
+101
+00:02:31,306 --> 00:02:31,974
+3 prime.
+
+102
+00:02:32,534 --> 00:02:33,460
+Prochain épisode :
+
+103
+00:02:33,460 --> 00:02:35,466
+comment ranger et partager 46
+
+104
+00:02:35,466 --> 00:02:36,958
+chromosomes emmêlés comme des
+
+105
+00:02:36,958 --> 00:02:37,523
+spaghettis.
+
+106
+00:02:37,663 --> 00:02:39,366
+Deux astuces : la condensation et
+
+107
+00:02:39,366 --> 00:02:40,088
+les cohésines.

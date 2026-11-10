@@ -1,0 +1,120 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour lire les codons,
+Dialogue: 0,0:00:01.46,0:00:03.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule utilise quarante-huit
+Dialogue: 0,0:00:03.23,0:00:04.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ARN de transfert différents,
+Dialogue: 0,0:00:04.89,0:00:05.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en forme de trèfle,
+Dialogue: 0,0:00:05.94,0:00:07.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui apportent chacun un acide aminé.
+Dialogue: 0,0:00:08.34,0:00:10.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les ARNt,
+Dialogue: 0,0:00:10.49,0:00:12.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les ribosomes, et la traduction
+Dialogue: 0,0:00:12.24,0:00:12.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas à pas.
+Dialogue: 0,0:00:13.37,0:00:15.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les ARNt font le lien entre la
+Dialogue: 0,0:00:15.88,0:00:18.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séquence d'ARN et les acides aminés.
+Dialogue: 0,0:00:18.24,0:00:19.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y en a quarante-huit
+Dialogue: 0,0:00:19.42,0:00:20.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents chez l'homme,
+Dialogue: 0,0:00:20.65,0:00:21.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'environ quatre-vingts
+Dialogue: 0,0:00:21.82,0:00:23.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, avec une structure
+Dialogue: 0,0:00:23.41,0:00:23.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en trèfle.
+Dialogue: 0,0:00:24.32,0:00:26.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chacun possède un site de liaison
+Dialogue: 0,0:00:26.19,0:00:27.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour un acide aminé spécifique,
+Dialogue: 0,0:00:27.94,0:00:29.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un {\c&H66D1FF&}anticodon{\c&HFFFFFF&} de trois
+Dialogue: 0,0:00:29.30,0:00:31.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, qui reconnaît un ou
+Dialogue: 0,0:00:31.11,0:00:32.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs codons de l'ARN
+Dialogue: 0,0:00:32.70,0:00:34.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager par appariement de bases.
+Dialogue: 0,0:00:35.18,0:00:36.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les acides aminés sont chargés
+Dialogue: 0,0:00:36.93,0:00:38.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur les ARNt par des
+Dialogue: 0,0:00:38.91,0:00:41.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}aminoacyl-ARNt{\c&HFFFFFF&} {\c&H66D1FF&}synthétases{\c&HFFFFFF&} :
+Dialogue: 0,0:00:41.25,0:00:43.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au moins une pour chaque acide aminé.
+Dialogue: 0,0:00:43.80,0:00:45.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chacune a un domaine de
+Dialogue: 0,0:00:45.09,0:00:46.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reconnaissance pour un ou
+Dialogue: 0,0:00:46.48,0:00:49.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs ARNt, selon la séquence
+Dialogue: 0,0:00:49.10,0:00:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'anticodon.
+Dialogue: 0,0:00:50.07,0:00:52.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ensemble, elles lient chaque ARNt
+Dialogue: 0,0:00:52.45,0:00:53.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'acide aminé qui lui
+Dialogue: 0,0:00:53.62,0:00:54.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}correspond.
+Dialogue: 0,0:00:54.74,0:00:56.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les ribosomes catalysent la
+Dialogue: 0,0:00:56.21,0:00:57.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synthèse des polypeptides.
+Dialogue: 0,0:00:57.76,0:00:58.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux sous-unités :
+Dialogue: 0,0:00:58.89,0:01:00.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une petite, {\c&H66D1FF&}40S{\c&HFFFFFF&} , et une grande,
+Dialogue: 0,0:01:00.89,0:01:02.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}60S{\c&HFFFFFF&} , chacune faite de protéines
+Dialogue: 0,0:01:02.89,0:01:04.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et d'ARN ribosomaux.
+Dialogue: 0,0:01:04.46,0:01:05.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles sont produites au niveau du
+Dialogue: 0,0:01:05.95,0:01:06.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléole.
+Dialogue: 0,0:01:06.75,0:01:08.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La petite sous-unité atterrit sur
+Dialogue: 0,0:01:08.54,0:01:10.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extrémité 5 prime de l'ARN
+Dialogue: 0,0:01:10.38,0:01:12.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager et glisse vers 3 prime.
+Dialogue: 0,0:01:12.47,0:01:13.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quand elle rencontre l'AUG,
+Dialogue: 0,0:01:13.94,0:01:15.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le START, la grande sous-unité
+Dialogue: 0,0:01:15.58,0:01:17.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'assemble : la traduction peut
+Dialogue: 0,0:01:17.27,0:01:17.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}commencer.
+Dialogue: 0,0:01:18.37,0:01:19.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Suivons le ribosome.
+Dialogue: 0,0:01:19.99,0:01:21.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le ribosome est en place sur le
+Dialogue: 0,0:01:21.80,0:01:22.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codon START, A U G.
+Dialogue: 0,0:01:23.05,0:01:25.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ARNt dont l'anticodon
+Dialogue: 0,0:01:25.22,0:01:26.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}correspond à AUG, chargé d'une
+Dialogue: 0,0:01:26.93,0:01:28.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méthionine, se positionne par
+Dialogue: 0,0:01:28.59,0:01:29.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appariement.
+Dialogue: 0,0:01:29.68,0:01:32.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un deuxième ARNt, correspondant
+Dialogue: 0,0:01:32.47,0:01:34.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au codon suivant, ici G C G,
+Dialogue: 0,0:01:34.20,0:01:35.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre avec son acide aminé :
+Dialogue: 0,0:01:35.93,0:01:36.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'alanine.
+Dialogue: 0,0:01:36.95,0:01:38.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La grosse sous-unité catalyse le
+Dialogue: 0,0:01:38.76,0:01:40.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transfert du lien entre la
+Dialogue: 0,0:01:40.24,0:01:42.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méthionine et son ARNt vers
+Dialogue: 0,0:01:42.56,0:01:44.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'alanine : c'est la première
+Dialogue: 0,0:01:44.20,0:01:45.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison peptidique.
+Dialogue: 0,0:01:45.67,0:01:47.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le ribosome glisse vers
+Dialogue: 0,0:01:47.02,0:01:48.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extrémité 3 prime,
+Dialogue: 0,0:01:48.42,0:01:50.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le premier ARNt est libéré.
+Dialogue: 0,0:01:51.13,0:01:53.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un nouvel ARNt chargé prend
+Dialogue: 0,0:01:53.41,0:01:55.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}place, un nouveau lien se crée,
+Dialogue: 0,0:01:55.13,0:01:56.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le cycle se répète.
+Dialogue: 0,0:01:56.76,0:01:58.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Arrivé au codon STOP,
+Dialogue: 0,0:01:58.02,0:01:59.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ici U A A, celui-ci est reconnu
+Dialogue: 0,0:01:59.88,0:02:01.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par un {\c&H66D1FF&}facteur{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}terminaison{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:01.74,0:02:03.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui n'est pas un ARNt.
+Dialogue: 0,0:02:04.04,0:02:05.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il rompt le lien entre le dernier
+Dialogue: 0,0:02:05.98,0:02:08.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acide aminé et son ARNt.
+Dialogue: 0,0:02:08.61,0:02:10.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le ribosome se dissocie et se
+Dialogue: 0,0:02:10.36,0:02:12.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}détache de l'ARN messager :
+Dialogue: 0,0:02:12.18,0:02:13.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le polypeptide est achevé,
+Dialogue: 0,0:02:13.75,0:02:15.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec son extrémité C-terminale.
+Dialogue: 0,0:02:16.19,0:02:17.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Souvent, plusieurs ribosomes se
+Dialogue: 0,0:02:17.96,0:02:19.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}succèdent sur un même ARN
+Dialogue: 0,0:02:19.50,0:02:21.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager, ce qui accélère la
+Dialogue: 0,0:02:21.10,0:02:22.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synthèse de protéines.
+Dialogue: 0,0:02:22.49,0:02:23.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette structure s'appelle les
+Dialogue: 0,0:02:23.89,0:02:24.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}polyribosomes{\c&HFFFFFF&} .
+Dialogue: 0,0:02:25.18,0:02:26.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:26.42,0:02:28.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le codon STOP est reconnu par un
+Dialogue: 0,0:02:28.29,0:02:30.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ARNt de terminaison” :
+Dialogue: 0,0:02:30.34,0:02:31.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, par un facteur de
+Dialogue: 0,0:02:31.68,0:02:34.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}terminaison, qui n'est pas un ARNt.
+Dialogue: 0,0:02:34.95,0:02:36.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La petite sous-unité catalyse la
+Dialogue: 0,0:02:36.61,0:02:37.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison peptidique” :
+Dialogue: 0,0:02:37.65,0:02:38.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est la grande.
+Dialogue: 0,0:02:39.19,0:02:40.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le ribosome glisse vers
+Dialogue: 0,0:02:40.46,0:02:41.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extrémité 5 prime” :
+Dialogue: 0,0:02:41.79,0:02:43.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, vers 3 prime.
+Dialogue: 0,0:02:43.62,0:02:45.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:49.40,0:02:50.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse C.
+Dialogue: 0,0:02:50.35,0:02:53.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y a 48 ARNt, la petite
+Dialogue: 0,0:02:53.37,0:02:54.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous-unité est la 40S,
+Dialogue: 0,0:02:54.70,0:02:56.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la traduction commence
+Dialogue: 0,0:02:56.21,0:02:57.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toujours par une méthionine.
+Dialogue: 0,0:02:58.46,0:02:59.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:59.41,0:02:59.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un atelier.
+Dialogue: 0,0:03:00.13,0:03:01.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On lit ensemble la séquence du
+Dialogue: 0,0:03:01.86,0:03:02.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gène de l'insuline,
+Dialogue: 0,0:03:02.95,0:03:04.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exon par exon, jusqu'au codon STOP.

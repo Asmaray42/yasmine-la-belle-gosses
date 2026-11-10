@@ -1,0 +1,479 @@
+1
+00:00:00,300 --> 00:00:01,839
+Deux enfants des mêmes parents ne
+
+2
+00:00:01,839 --> 00:00:02,912
+sont jamais identiques,
+
+3
+00:00:02,912 --> 00:00:03,985
+sauf les vrais jumeaux.
+
+4
+00:00:04,125 --> 00:00:05,521
+La raison : la reproduction
+
+5
+00:00:05,521 --> 00:00:06,555
+sexuée et la méiose,
+
+6
+00:00:06,555 --> 00:00:07,848
+qui brassent les génomes.
+
+7
+00:00:08,248 --> 00:00:09,996
+Au programme : asexuée contre
+
+8
+00:00:09,996 --> 00:00:11,745
+sexuée, le cycle 2n et n,
+
+9
+00:00:11,745 --> 00:00:13,674
+et le duel mitose contre méiose.
+
+10
+00:00:14,234 --> 00:00:15,759
+Chapitre neuf, en sept points.
+
+11
+00:00:16,159 --> 00:00:18,045
+Reproduction asexuée et sexuée ;
+
+12
+00:00:18,045 --> 00:00:19,753
+cycles sexués ; méiose versus
+
+13
+00:00:19,753 --> 00:00:21,639
+mitose ; mécanisme de la méiose.
+
+14
+00:00:22,039 --> 00:00:23,169
+Étapes de la méiose ;
+
+15
+00:00:23,169 --> 00:00:24,838
+méiose et diversité génétique ;
+
+16
+00:00:24,838 --> 00:00:26,561
+défaut de méiose et aneuploïdie.
+
+17
+00:00:27,121 --> 00:00:27,834
+Comparons.
+
+18
+00:00:28,234 --> 00:00:29,874
+Parents : un seul pour l'asexuée
+
+19
+00:00:29,874 --> 00:00:31,001
+; deux pour la sexuée,
+
+20
+00:00:31,001 --> 00:00:32,641
+avec un mélange de deux génomes.
+
+21
+00:00:33,041 --> 00:00:34,333
+Descendants : génétiquement
+
+22
+00:00:34,333 --> 00:00:35,912
+identiques entre eux et au parent
+
+23
+00:00:35,912 --> 00:00:37,348
+; ou génétiquement différents.
+
+24
+00:00:37,748 --> 00:00:39,044
+Avantage : plus simple,
+
+25
+00:00:39,044 --> 00:00:40,622
+par mitose, et plus rapide ;
+
+26
+00:00:40,622 --> 00:00:41,861
+ou brassage génétique,
+
+27
+00:00:41,861 --> 00:00:43,101
+moteur de l'évolution.
+
+28
+00:00:43,661 --> 00:00:45,240
+La reproduction asexuée est
+
+29
+00:00:45,240 --> 00:00:46,995
+pratiquée par les procaryotes,
+
+30
+00:00:46,995 --> 00:00:48,632
+les protistes, les végétaux,
+
+31
+00:00:48,632 --> 00:00:49,919
+avec la multiplication
+
+32
+00:00:49,919 --> 00:00:51,439
+végétative, et les animaux
+
+33
+00:00:51,439 --> 00:00:52,960
+inférieurs, comme l'hydre,
+
+34
+00:00:52,960 --> 00:00:54,363
+qui forme des bourgeons.
+
+35
+00:00:54,923 --> 00:00:56,607
+Chacun des parents est diploïde :
+
+36
+00:00:56,607 --> 00:00:57,576
+2n chromosomes.
+
+37
+00:00:57,716 --> 00:00:59,092
+Leurs cellules germinales,
+
+38
+00:00:59,092 --> 00:01:00,839
+ou gamètes, subissent au cours de
+
+39
+00:01:00,839 --> 00:01:02,586
+la méiose une réduction de moitié
+
+40
+00:01:02,586 --> 00:01:03,804
+du matériel génétique :
+
+41
+00:01:03,804 --> 00:01:04,969
+elles sont haploïdes ,
+
+42
+00:01:04,969 --> 00:01:05,710
+n chromosomes.
+
+43
+00:01:06,110 --> 00:01:07,701
+À la fécondation, les gamètes
+
+44
+00:01:07,701 --> 00:01:08,853
+fusionnent en un œuf,
+
+45
+00:01:08,853 --> 00:01:10,609
+le zygote , de nouveau diploïde.
+
+46
+00:01:10,749 --> 00:01:12,470
+Puis, par mitoses successives,
+
+47
+00:01:12,470 --> 00:01:14,651
+un nouvel organisme diploïde se forme.
+
+48
+00:01:15,211 --> 00:01:15,926
+Le duel.
+
+49
+00:01:16,326 --> 00:01:18,238
+Résultat : une cellule 2n donne
+
+50
+00:01:18,238 --> 00:01:19,986
+deux cellules 2n en mitose ;
+
+51
+00:01:19,986 --> 00:01:21,516
+quatre cellules n en méiose.
+
+52
+00:01:21,916 --> 00:01:22,953
+Point commun : les deux
+
+53
+00:01:22,953 --> 00:01:24,891
+commencent par une réplication de l'ADN.
+
+54
+00:01:25,291 --> 00:01:27,110
+Séparation : la mitose sépare les
+
+55
+00:01:27,110 --> 00:01:28,103
+chromatides sœurs.
+
+56
+00:01:28,243 --> 00:01:29,894
+La méiose se fait en deux temps :
+
+57
+00:01:29,894 --> 00:01:31,045
+d'abord les chromosomes
+
+58
+00:01:31,045 --> 00:01:32,296
+homologues, en méiose 1,
+
+59
+00:01:32,296 --> 00:01:33,647
+puis les chromatides sœurs,
+
+60
+00:01:33,647 --> 00:01:34,397
+en méiose 2.
+
+61
+00:01:34,957 --> 00:01:36,273
+Le défi de la méiose 1 :
+
+62
+00:01:36,273 --> 00:01:37,432
+répartir justement les
+
+63
+00:01:37,432 --> 00:01:38,643
+chromosomes homologues,
+
+64
+00:01:38,643 --> 00:01:40,064
+pour retrouver une copie de
+
+65
+00:01:40,064 --> 00:01:42,275
+chacun des 23 chromosomes de part
+
+66
+00:01:42,275 --> 00:01:42,855
+et d'autre.
+
+67
+00:01:43,255 --> 00:01:44,451
+L'astuce : les chromosomes
+
+68
+00:01:44,451 --> 00:01:45,509
+homologues s'attachent,
+
+69
+00:01:45,509 --> 00:01:46,797
+s'apparient, l'un à l'autre,
+
+70
+00:01:46,797 --> 00:01:47,625
+via des chiasmas .
+
+71
+00:01:47,765 --> 00:01:49,566
+Des microtubules se lient ensuite
+
+72
+00:01:49,566 --> 00:01:50,875
+à chacun des homologues,
+
+73
+00:01:50,875 --> 00:01:52,620
+avec un seul kinétochore attaché
+
+74
+00:01:52,620 --> 00:01:54,420
+par chromosome, puis les séparent
+
+75
+00:01:54,420 --> 00:01:55,948
+et les entraînent de part et
+
+76
+00:01:55,948 --> 00:01:56,384
+d'autre.
+
+77
+00:01:56,944 --> 00:01:58,553
+En méiose 2, les chromatides
+
+78
+00:01:58,553 --> 00:01:59,902
+sœurs sont séparées par un
+
+79
+00:01:59,902 --> 00:02:01,614
+processus comparable à une mitose
+
+80
+00:02:01,614 --> 00:02:03,326
+: des microtubules s'attachent de
+
+81
+00:02:03,326 --> 00:02:05,038
+part et d'autre au kinétochore de
+
+82
+00:02:05,038 --> 00:02:06,232
+chaque chromatide sœur,
+
+83
+00:02:06,232 --> 00:02:07,684
+puis les entraînent vers les
+
+84
+00:02:07,684 --> 00:02:08,411
+pôles opposés.
+
+85
+00:02:08,811 --> 00:02:10,331
+Les étapes : une interphase,
+
+86
+00:02:10,331 --> 00:02:12,068
+avec la réplication de l'ADN.
+
+87
+00:02:12,208 --> 00:02:13,276
+Puis la méiose 1 :
+
+88
+00:02:13,276 --> 00:02:14,736
+prophase 1, métaphase 1,
+
+89
+00:02:14,736 --> 00:02:16,310
+anaphase 1, télophase 1 et
+
+90
+00:02:16,310 --> 00:02:16,928
+cytocinèse.
+
+91
+00:02:17,068 --> 00:02:18,183
+Puis la méiose 2 :
+
+92
+00:02:18,183 --> 00:02:19,777
+prophase 2, métaphase 2,
+
+93
+00:02:19,777 --> 00:02:21,478
+anaphase 2, télophase 2 et
+
+94
+00:02:21,478 --> 00:02:22,062
+cytocinèse.
+
+95
+00:02:22,622 --> 00:02:24,259
+Le piège central de la méiose.
+
+96
+00:02:24,659 --> 00:02:25,729
+“La méiose 1 sépare les
+
+97
+00:02:25,729 --> 00:02:26,891
+chromatides sœurs” : faux.
+
+98
+00:02:27,031 --> 00:02:28,219
+La méiose 1 sépare les
+
+99
+00:02:28,219 --> 00:02:29,768
+homologues, la méiose 2 les
+
+100
+00:02:29,768 --> 00:02:30,698
+chromatides sœurs.
+
+101
+00:02:31,098 --> 00:02:32,478
+“La méiose donne deux cellules
+
+102
+00:02:32,478 --> 00:02:33,287
+haploïdes” : faux,
+
+103
+00:02:33,287 --> 00:02:34,525
+quatre cellules haploïdes.
+
+104
+00:02:34,925 --> 00:02:36,450
+“La méiose ne commence pas par
+
+105
+00:02:36,450 --> 00:02:37,344
+une réplication” :
+
+106
+00:02:37,344 --> 00:02:39,079
+faux, mitose et méiose commencent
+
+107
+00:02:39,079 --> 00:02:40,289
+toutes les deux par une
+
+108
+00:02:40,289 --> 00:02:40,920
+réplication.
+
+109
+00:02:41,480 --> 00:02:42,860
+Quiz : laquelle est exacte ?
+
+110
+00:02:47,260 --> 00:02:48,074
+Réponse B.
+
+111
+00:02:48,214 --> 00:02:49,480
+Le zygote est diploïde,
+
+112
+00:02:49,480 --> 00:02:50,856
+la méiose 2 sépare les
+
+113
+00:02:50,856 --> 00:02:51,847
+chromatides sœurs,
+
+114
+00:02:51,847 --> 00:02:53,112
+et l'hydre bourgeonne :
+
+115
+00:02:53,112 --> 00:02:54,268
+reproduction asexuée.
+
+116
+00:02:54,828 --> 00:02:55,818
+Prochain épisode :
+
+117
+00:02:55,818 --> 00:02:57,524
+la prophase 1, ses cinq stades
+
+118
+00:02:57,524 --> 00:02:58,679
+aux noms grecs, et le
+
+119
+00:02:58,679 --> 00:03:00,495
+crossing-over découvert à l'UCL
+
+120
+00:03:00,495 --> 00:03:01,815
+en 1909.

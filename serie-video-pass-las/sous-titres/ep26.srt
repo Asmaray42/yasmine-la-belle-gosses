@@ -1,0 +1,519 @@
+1
+00:00:00,300 --> 00:00:01,236
+Pendant la méiose,
+
+2
+00:00:01,236 --> 00:00:02,692
+tes chromosomes paternels et
+
+3
+00:00:02,692 --> 00:00:03,992
+maternels s'échangent des
+
+4
+00:00:03,992 --> 00:00:05,656
+morceaux, environ cinquante fois
+
+5
+00:00:05,656 --> 00:00:06,957
+par cellule chez l'homme.
+
+6
+00:00:07,097 --> 00:00:08,276
+Ces structures ont été
+
+7
+00:00:08,276 --> 00:00:10,207
+découvertes en 1909,
+
+8
+00:00:10,207 --> 00:00:10,743
+à l'UCL.
+
+9
+00:00:11,143 --> 00:00:12,837
+Au programme : les cinq stades de
+
+10
+00:00:12,837 --> 00:00:14,531
+la prophase 1, le crossing-over,
+
+11
+00:00:14,531 --> 00:00:15,455
+et la méiose 2.
+
+12
+00:00:16,015 --> 00:00:17,711
+Après la réplication de l'ADN,
+
+13
+00:00:17,711 --> 00:00:19,407
+la prophase 1 voit apparaître et
+
+14
+00:00:19,407 --> 00:00:20,744
+s'apparier les chromosomes
+
+15
+00:00:20,744 --> 00:00:22,234
+homologues, qui échangent des
+
+16
+00:00:22,234 --> 00:00:23,827
+segments d'ADN au niveau des
+
+17
+00:00:23,827 --> 00:00:24,290
+chiasmas.
+
+18
+00:00:24,430 --> 00:00:25,661
+Elle compte cinq étapes.
+
+19
+00:00:26,061 --> 00:00:27,042
+Un, le leptotène :
+
+20
+00:00:27,042 --> 00:00:28,458
+la chromatine se condense,
+
+21
+00:00:28,458 --> 00:00:29,874
+les chromosomes deviennent
+
+22
+00:00:29,874 --> 00:00:30,364
+visibles.
+
+23
+00:00:30,764 --> 00:00:31,788
+Deux, le zygotène :
+
+24
+00:00:31,788 --> 00:00:33,243
+les homologues s'apparient,
+
+25
+00:00:33,243 --> 00:00:34,914
+grâce aux protéines du complexe
+
+26
+00:00:34,914 --> 00:00:35,615
+synaptonémal.
+
+27
+00:00:36,015 --> 00:00:37,022
+Trois, le pachytène :
+
+28
+00:00:37,022 --> 00:00:38,605
+le crossing-over, ou enjambement.
+
+29
+00:00:39,005 --> 00:00:40,205
+Quatre, le diplotène :
+
+30
+00:00:40,205 --> 00:00:41,514
+le complexe synaptonémal
+
+31
+00:00:41,514 --> 00:00:42,932
+disparaît, les chromatides
+
+32
+00:00:42,932 --> 00:00:44,568
+restent attachées aux sites de
+
+33
+00:00:44,568 --> 00:00:46,095
+crossing-over, les chiasmas.
+
+34
+00:00:46,235 --> 00:00:47,589
+C'est à ce stade qu'a lieu la
+
+35
+00:00:47,589 --> 00:00:48,523
+pause chez la femme.
+
+36
+00:00:48,923 --> 00:00:50,115
+Cinq, la diacinèse :
+
+37
+00:00:50,115 --> 00:00:51,427
+dernière condensation,
+
+38
+00:00:51,427 --> 00:00:52,858
+disparition du nucléole,
+
+39
+00:00:52,858 --> 00:00:54,348
+dispersion de l'enveloppe
+
+40
+00:00:54,348 --> 00:00:56,197
+nucléaire, formation du fuseau.
+
+41
+00:00:56,757 --> 00:00:58,624
+“Léon Zoo Passe Dimanche Dîner” :
+
+42
+00:00:58,624 --> 00:00:59,829
+leptotène, zygotène,
+
+43
+00:00:59,829 --> 00:01:01,758
+pachytène, diplotène, diacinèse.
+
+44
+00:01:01,898 --> 00:01:02,921
+Et pour les deux D :
+
+45
+00:01:02,921 --> 00:01:03,944
+diplo, comme double,
+
+46
+00:01:03,944 --> 00:01:05,531
+les homologues encore accrochés
+
+47
+00:01:05,531 --> 00:01:06,452
+par les chiasmas ;
+
+48
+00:01:06,452 --> 00:01:07,322
+puis dia, la fin.
+
+49
+00:01:07,722 --> 00:01:08,617
+Et le sens : zygo,
+
+50
+00:01:08,617 --> 00:01:09,862
+comme zygote, on s'unit :
+
+51
+00:01:09,862 --> 00:01:10,459
+appariement.
+
+52
+00:01:10,599 --> 00:01:12,091
+Pachy, épais : les chromosomes
+
+53
+00:01:12,091 --> 00:01:13,136
+appariés se croisent,
+
+54
+00:01:13,136 --> 00:01:13,833
+crossing-over.
+
+55
+00:01:14,393 --> 00:01:16,075
+L'appariement des homologues est
+
+56
+00:01:16,075 --> 00:01:17,231
+initié par le complexe
+
+57
+00:01:17,231 --> 00:01:18,913
+synaptonémal , ou synaptonémique
+
+58
+00:01:18,913 --> 00:01:20,647
+: un réseau complexe de protéines
+
+59
+00:01:20,647 --> 00:01:22,066
+qui collent les chromatides
+
+60
+00:01:22,066 --> 00:01:23,485
+homologues l'une à l'autre.
+
+61
+00:01:23,885 --> 00:01:25,338
+C'est probablement la grande
+
+62
+00:01:25,338 --> 00:01:26,688
+similitude de séquence des
+
+63
+00:01:26,688 --> 00:01:29,646
+homologues, 99,9 %,
+
+64
+00:01:29,646 --> 00:01:30,736
+qui leur permet de se
+
+65
+00:01:30,736 --> 00:01:31,359
+reconnaître.
+
+66
+00:01:31,759 --> 00:01:33,574
+Dans une cellule germinale mâle,
+
+67
+00:01:33,574 --> 00:01:34,992
+le Y s'apparie avec le X,
+
+68
+00:01:34,992 --> 00:01:36,467
+car ils ont des régions de
+
+69
+00:01:36,467 --> 00:01:37,602
+séquence semblable :
+
+70
+00:01:37,602 --> 00:01:39,361
+les régions pseudoautosomales .
+
+71
+00:01:39,921 --> 00:01:41,597
+Les crossing-over se forment par
+
+72
+00:01:41,597 --> 00:01:43,326
+coupure et recollage de l'ADN,
+
+73
+00:01:43,326 --> 00:01:44,689
+qui réunit des chromatides
+
+74
+00:01:44,689 --> 00:01:45,265
+homologues.
+
+75
+00:01:45,405 --> 00:01:46,598
+Chez l'homme, on en compte
+
+76
+00:01:46,598 --> 00:01:47,974
+environ cinquante par cellule.
+
+77
+00:01:48,114 --> 00:01:49,521
+Cette recombinaison permet
+
+78
+00:01:49,521 --> 00:01:51,198
+l'échange de matériel génétique
+
+79
+00:01:51,198 --> 00:01:52,118
+entre homologues.
+
+80
+00:01:52,518 --> 00:01:54,216
+Après la disparition du complexe
+
+81
+00:01:54,216 --> 00:01:55,595
+synaptonémal, des chiasmas
+
+82
+00:01:55,595 --> 00:01:56,816
+subsistent aux sites de
+
+83
+00:01:56,816 --> 00:01:58,407
+crossing-over : les homologues
+
+84
+00:01:58,407 --> 00:02:00,052
+restent attachés et forment des
+
+85
+00:02:00,052 --> 00:02:00,583
+tétrades .
+
+86
+00:02:00,723 --> 00:02:02,314
+Ici, au microscope électronique,
+
+87
+00:02:02,314 --> 00:02:03,060
+trois chiasmas.
+
+88
+00:02:03,460 --> 00:02:04,686
+Ces structures ont été
+
+89
+00:02:04,686 --> 00:02:07,193
+découvertes en 1909 par Frans
+
+90
+00:02:07,193 --> 00:02:09,310
+Alfons Janssens, professeur à l'UCL.
+
+91
+00:02:09,870 --> 00:02:11,079
+La suite de la méiose.
+
+92
+00:02:11,479 --> 00:02:12,754
+Les tétrades de chromosomes
+
+93
+00:02:12,754 --> 00:02:13,274
+s'alignent.
+
+94
+00:02:13,674 --> 00:02:15,097
+Les chromosomes homologues se
+
+95
+00:02:15,097 --> 00:02:16,521
+séparent, avec leurs segments
+
+96
+00:02:16,521 --> 00:02:16,963
+échangés.
+
+97
+00:02:17,103 --> 00:02:18,517
+Une membrane nucléaire se
+
+98
+00:02:18,517 --> 00:02:20,101
+reforme, puis la cytocinèse.
+
+99
+00:02:20,501 --> 00:02:22,127
+Méiose 2 : un nouveau fuseau,
+
+100
+00:02:22,127 --> 00:02:23,549
+perpendiculaire au premier ;
+
+101
+00:02:23,549 --> 00:02:24,921
+les chromosomes s'alignent,
+
+102
+00:02:24,921 --> 00:02:26,395
+puis les chromatides sœurs se
+
+103
+00:02:26,395 --> 00:02:26,852
+séparent.
+
+104
+00:02:27,252 --> 00:02:28,956
+Enfin, la membrane nucléaire se
+
+105
+00:02:28,956 --> 00:02:30,110
+reforme, cytocinèse :
+
+106
+00:02:30,110 --> 00:02:31,100
+quatre cellules n,
+
+107
+00:02:31,100 --> 00:02:32,364
+aux génomes différents.
+
+108
+00:02:32,924 --> 00:02:34,689
+La fixation des microtubules aux
+
+109
+00:02:34,689 --> 00:02:35,848
+kinétochores diffère.
+
+110
+00:02:36,248 --> 00:02:37,868
+En méiose 1, les kinétochores des
+
+111
+00:02:37,868 --> 00:02:39,298
+chromatides sœurs fonctionnent
+
+112
+00:02:39,298 --> 00:02:40,347
+comme une seule unité.
+
+113
+00:02:40,487 --> 00:02:42,175
+En méiose 2, ils restent séparés.
+
+114
+00:02:42,575 --> 00:02:43,614
+D'où : en méiose 1,
+
+115
+00:02:43,614 --> 00:02:45,328
+les microtubules ne se fixent que
+
+116
+00:02:45,328 --> 00:02:46,991
+d'un côté de chaque centromère ;
+
+117
+00:02:46,991 --> 00:02:48,705
+en méiose 2, ils se fixent sur
+
+118
+00:02:48,705 --> 00:02:49,484
+les deux faces.
+
+119
+00:02:50,044 --> 00:02:51,421
+Quiz : à quel stade a lieu le
+
+120
+00:02:51,421 --> 00:02:52,133
+crossing-over ?
+
+121
+00:02:56,533 --> 00:02:57,420
+Au pachytène.
+
+122
+00:02:57,560 --> 00:02:58,781
+Au diplotène, on voit les
+
+123
+00:02:58,781 --> 00:02:59,806
+chiasmas qui restent,
+
+124
+00:02:59,806 --> 00:03:01,222
+et c'est le stade de la pause
+
+125
+00:03:01,222 --> 00:03:01,906
+chez la femme.
+
+126
+00:03:02,466 --> 00:03:03,538
+Prochain épisode :
+
+127
+00:03:03,538 --> 00:03:04,610
+la spermatogenèse,
+
+128
+00:03:04,610 --> 00:03:06,099
+l'ovogenèse, la diversité
+
+129
+00:03:06,099 --> 00:03:08,064
+génétique, et ce qui arrive quand
+
+130
+00:03:08,064 --> 00:03:09,434
+la méiose se passe mal.

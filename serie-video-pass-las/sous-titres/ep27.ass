@@ -1,0 +1,141 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une spermatogonie donne quatre
+Dialogue: 0,0:00:01.92,0:00:02.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatides.
+Dialogue: 0,0:00:02.71,0:00:04.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un ovocyte primaire ne donne
+Dialogue: 0,0:00:04.05,0:00:04.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qu'un seul ovule.
+Dialogue: 0,0:00:05.00,0:00:06.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pourquoi cette différence ?
+Dialogue: 0,0:00:06.74,0:00:08.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : la méiose chez
+Dialogue: 0,0:00:08.24,0:00:09.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'homme et chez la femme,
+Dialogue: 0,0:00:09.53,0:00:10.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la diversité génétique,
+Dialogue: 0,0:00:10.72,0:00:11.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les aneuploïdies.
+Dialogue: 0,0:00:12.32,0:00:13.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans les testicules,
+Dialogue: 0,0:00:13.20,0:00:13.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chez l'homme.
+Dialogue: 0,0:00:14.17,0:00:15.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La spermatogonie, cellule
+Dialogue: 0,0:00:15.58,0:00:16.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}germinale diploïde,
+Dialogue: 0,0:00:16.66,0:00:18.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut se reproduire par mitoses,
+Dialogue: 0,0:00:18.41,0:00:19.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour maintenir le stock,
+Dialogue: 0,0:00:19.77,0:00:21.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou s'engager dans la méiose.
+Dialogue: 0,0:00:21.75,0:00:23.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le spermatocyte primaire est
+Dialogue: 0,0:00:23.38,0:00:25.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encore diploïde, mais son ADN est
+Dialogue: 0,0:00:25.41,0:00:25.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}répliqué.
+Dialogue: 0,0:00:26.33,0:00:27.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la méiose 1 :
+Dialogue: 0,0:00:27.39,0:00:29.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux spermatocytes secondaires,
+Dialogue: 0,0:00:29.03,0:00:30.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}haploïdes, avec des chromosomes
+Dialogue: 0,0:00:30.66,0:00:31.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dupliqués.
+Dialogue: 0,0:00:31.59,0:00:32.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la méiose 2 :
+Dialogue: 0,0:00:32.72,0:00:34.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre spermatides haploïdes par
+Dialogue: 0,0:00:34.37,0:00:35.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatogonie.
+Dialogue: 0,0:00:35.49,0:00:36.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis les spermatozoïdes :
+Dialogue: 0,0:00:36.90,0:00:38.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur structure change,
+Dialogue: 0,0:00:38.14,0:00:39.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec une compaction extrême du
+Dialogue: 0,0:00:39.84,0:00:41.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}noyau et l'acquisition d'un
+Dialogue: 0,0:00:41.37,0:00:41.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}flagelle.
+Dialogue: 0,0:00:42.02,0:00:43.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'homme adulte en produit 100 à
+Dialogue: 0,0:00:43.60,0:00:45.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}200 millions par jour,
+Dialogue: 0,0:00:45.03,0:00:46.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pendant la plus grande partie de
+Dialogue: 0,0:00:46.61,0:00:46.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sa vie.
+Dialogue: 0,0:00:47.52,0:00:48.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans les ovaires, puis après
+Dialogue: 0,0:00:48.85,0:00:50.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovulation, chez la femme.
+Dialogue: 0,0:00:50.53,0:00:51.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant la vie fœtale,
+Dialogue: 0,0:00:51.68,0:00:52.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules germinales
+Dialogue: 0,0:00:52.89,0:00:54.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'engagent dans la méiose,
+Dialogue: 0,0:00:54.26,0:00:55.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais s'arrêtent au stade
+Dialogue: 0,0:00:55.53,0:00:57.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diplotène de la prophase 1 :
+Dialogue: 0,0:00:57.05,0:00:58.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont les ovocytes primaires,
+Dialogue: 0,0:00:58.68,0:01:00.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encore diploïdes, avec leurs
+Dialogue: 0,0:01:00.16,0:01:00.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chiasmas.
+Dialogue: 0,0:01:01.03,0:01:02.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la puberté, à chaque cycle
+Dialogue: 0,0:01:02.79,0:01:04.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}menstruel, un ovocyte primaire
+Dialogue: 0,0:01:04.44,0:01:05.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}poursuit la méiose jusqu'en
+Dialogue: 0,0:01:05.93,0:01:06.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métaphase 2.
+Dialogue: 0,0:01:06.89,0:01:08.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il produit un ovocyte secondaire
+Dialogue: 0,0:01:08.61,0:01:09.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un globule polaire,
+Dialogue: 0,0:01:09.79,0:01:11.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par une division inégale,
+Dialogue: 0,0:01:11.14,0:01:12.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tous deux haploïdes.
+Dialogue: 0,0:01:12.35,0:01:13.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ovocyte secondaire est libéré
+Dialogue: 0,0:01:13.83,0:01:15.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'ovaire : c'est l'ovulation.
+Dialogue: 0,0:01:15.76,0:01:17.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Juste après la fécondation,
+Dialogue: 0,0:01:17.28,0:01:19.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovocyte secondaire termine la
+Dialogue: 0,0:01:19.02,0:01:21.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méiose 2 : il produit un ovule et
+Dialogue: 0,0:01:21.03,0:01:22.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un deuxième globule polaire.
+Dialogue: 0,0:01:22.74,0:01:24.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Parfois, le premier globule
+Dialogue: 0,0:01:24.10,0:01:25.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaire subit lui aussi une
+Dialogue: 0,0:01:25.45,0:01:26.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deuxième division.
+Dialogue: 0,0:01:26.91,0:01:28.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose génère une diversité
+Dialogue: 0,0:01:28.60,0:01:29.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}infinie de combinaisons
+Dialogue: 0,0:01:29.90,0:01:31.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomiques : chaque ovule de
+Dialogue: 0,0:01:31.70,0:01:33.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la mère et chaque spermatozoïde
+Dialogue: 0,0:01:33.45,0:01:35.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du père est génétiquement unique.
+Dialogue: 0,0:01:35.45,0:01:36.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est ce qui explique les
+Dialogue: 0,0:01:36.60,0:01:37.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différences entre enfants des
+Dialogue: 0,0:01:37.95,0:01:38.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mêmes parents.
+Dialogue: 0,0:01:39.16,0:01:40.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose peut mal se dérouler :
+Dialogue: 0,0:01:40.93,0:01:42.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par exemple, la non-disjonction
+Dialogue: 0,0:01:42.66,0:01:44.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un chromosome en méiose 1.
+Dialogue: 0,0:01:44.41,0:01:45.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il en résulte des gamètes au
+Dialogue: 0,0:01:45.82,0:01:47.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nombre anormal de chromosomes :
+Dialogue: 0,0:01:47.38,0:01:48.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l' {\c&H66D1FF&}aneuploïdie{\c&HFFFFFF&} .
+Dialogue: 0,0:01:48.89,0:01:50.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme, c'est la principale
+Dialogue: 0,0:01:50.53,0:01:51.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cause d'avortement spontané :
+Dialogue: 0,0:01:51.98,0:01:53.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon ne survit pas.
+Dialogue: 0,0:01:53.58,0:01:55.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certaines aneuploïdies sont
+Dialogue: 0,0:01:55.04,0:01:56.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}viables : la {\c&H66D1FF&}trisomie{\c&HFFFFFF&} {\c&H66D1FF&}21{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:56.95,0:01:58.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'origine du syndrome de Down,
+Dialogue: 0,0:01:58.69,0:02:00.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appelé mongolisme dans le cours.
+Dialogue: 0,0:02:00.57,0:02:02.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fréquence : un enfant sur huit
+Dialogue: 0,0:02:02.13,0:02:03.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cents, en augmentation avec l'âge
+Dialogue: 0,0:02:03.85,0:02:04.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la mère.
+Dialogue: 0,0:02:04.98,0:02:06.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux autres aneuploïdies viables,
+Dialogue: 0,0:02:06.75,0:02:08.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur les chromosomes sexuels.
+Dialogue: 0,0:02:08.64,0:02:10.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Caryotype : X X Y pour
+Dialogue: 0,0:02:10.06,0:02:12.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Klinefelter ; X zéro pour Turner.
+Dialogue: 0,0:02:12.59,0:02:14.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sexe : masculin pour Klinefelter
+Dialogue: 0,0:02:14.47,0:02:15.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; féminin pour Turner.
+Dialogue: 0,0:02:15.91,0:02:17.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le plus souvent stérile dans
+Dialogue: 0,0:02:17.28,0:02:17.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les deux cas.
+Dialogue: 0,0:02:18.25,0:02:20.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Signes illustrés pour Klinefelter
+Dialogue: 0,0:02:20.16,0:02:21.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: pilosité faciale absente,
+Dialogue: 0,0:02:21.71,0:02:23.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gynécomastie, testicules peu
+Dialogue: 0,0:02:23.33,0:02:24.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développés, jambes longues.
+Dialogue: 0,0:02:25.03,0:02:26.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour Turner : taille réduite,
+Dialogue: 0,0:02:26.51,0:02:27.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cou épais palmé, poitrine peu
+Dialogue: 0,0:02:27.98,0:02:28.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développée, ovaires
+Dialogue: 0,0:02:28.95,0:02:30.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rudimentaires, bras longs.
+Dialogue: 0,0:02:30.83,0:02:31.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:32.07,0:02:32.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'ovule est libéré à
+Dialogue: 0,0:02:32.96,0:02:33.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovulation” : faux.
+Dialogue: 0,0:02:33.95,0:02:35.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est l'ovocyte secondaire,
+Dialogue: 0,0:02:35.35,0:02:36.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bloqué en métaphase 2 ;
+Dialogue: 0,0:02:36.69,0:02:38.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovule n'apparaît qu'après la
+Dialogue: 0,0:02:38.24,0:02:38.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fécondation.
+Dialogue: 0,0:02:39.26,0:02:41.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le syndrome de Turner touche des
+Dialogue: 0,0:02:41.19,0:02:42.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hommes X X Y” : faux.
+Dialogue: 0,0:02:42.54,0:02:43.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Turner, c'est X zéro,
+Dialogue: 0,0:02:43.68,0:02:44.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une femme.
+Dialogue: 0,0:02:44.37,0:02:46.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}X X Y, c'est Klinefelter,
+Dialogue: 0,0:02:46.06,0:02:46.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un homme.
+Dialogue: 0,0:02:47.07,0:02:49.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La fréquence de la trisomie 21
+Dialogue: 0,0:02:49.17,0:02:50.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}augmente avec l'âge du père” :
+Dialogue: 0,0:02:50.73,0:02:52.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cours dit avec l'âge de la mère.
+Dialogue: 0,0:02:53.17,0:02:54.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : combien de spermatides par
+Dialogue: 0,0:02:54.90,0:02:55.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatogonie ?
+Dialogue: 0,0:03:00.09,0:03:00.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre.
+Dialogue: 0,0:03:00.83,0:03:02.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, ce sont les spermatocytes
+Dialogue: 0,0:03:02.35,0:03:03.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}secondaires, après la méiose 1.
+Dialogue: 0,0:03:04.49,0:03:05.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On passe au chapitre huit,
+Dialogue: 0,0:03:05.90,0:03:07.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du gène à la protéine.
+Dialogue: 0,0:03:07.24,0:03:08.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:08.19,0:03:09.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pourquoi le code génétique
+Dialogue: 0,0:03:09.56,0:03:11.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utilise soixante-quatre codons.

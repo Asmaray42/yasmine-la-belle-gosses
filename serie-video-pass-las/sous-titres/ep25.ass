@@ -1,0 +1,133 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux enfants des mêmes parents ne
+Dialogue: 0,0:00:01.84,0:00:02.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont jamais identiques,
+Dialogue: 0,0:00:02.91,0:00:03.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sauf les vrais jumeaux.
+Dialogue: 0,0:00:04.13,0:00:05.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La raison : la reproduction
+Dialogue: 0,0:00:05.52,0:00:06.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sexuée et la méiose,
+Dialogue: 0,0:00:06.56,0:00:07.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui brassent les génomes.
+Dialogue: 0,0:00:08.25,0:00:10.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : asexuée contre
+Dialogue: 0,0:00:10.00,0:00:11.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sexuée, le cycle 2n et n,
+Dialogue: 0,0:00:11.75,0:00:13.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le duel mitose contre méiose.
+Dialogue: 0,0:00:14.23,0:00:15.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre neuf, en sept points.
+Dialogue: 0,0:00:16.16,0:00:18.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Reproduction asexuée et sexuée ;
+Dialogue: 0,0:00:18.05,0:00:19.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cycles sexués ; méiose versus
+Dialogue: 0,0:00:19.75,0:00:21.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitose ; mécanisme de la méiose.
+Dialogue: 0,0:00:22.04,0:00:23.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Étapes de la méiose ;
+Dialogue: 0,0:00:23.17,0:00:24.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méiose et diversité génétique ;
+Dialogue: 0,0:00:24.84,0:00:26.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}défaut de méiose et aneuploïdie.
+Dialogue: 0,0:00:27.12,0:00:27.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comparons.
+Dialogue: 0,0:00:28.23,0:00:29.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Parents : un seul pour l'asexuée
+Dialogue: 0,0:00:29.87,0:00:31.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; deux pour la sexuée,
+Dialogue: 0,0:00:31.00,0:00:32.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un mélange de deux génomes.
+Dialogue: 0,0:00:33.04,0:00:34.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Descendants : génétiquement
+Dialogue: 0,0:00:34.33,0:00:35.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques entre eux et au parent
+Dialogue: 0,0:00:35.91,0:00:37.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; ou génétiquement différents.
+Dialogue: 0,0:00:37.75,0:00:39.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avantage : plus simple,
+Dialogue: 0,0:00:39.04,0:00:40.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par mitose, et plus rapide ;
+Dialogue: 0,0:00:40.62,0:00:41.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou brassage génétique,
+Dialogue: 0,0:00:41.86,0:00:43.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moteur de l'évolution.
+Dialogue: 0,0:00:43.66,0:00:45.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La reproduction asexuée est
+Dialogue: 0,0:00:45.24,0:00:47.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pratiquée par les procaryotes,
+Dialogue: 0,0:00:47.00,0:00:48.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protistes, les végétaux,
+Dialogue: 0,0:00:48.63,0:00:49.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la multiplication
+Dialogue: 0,0:00:49.92,0:00:51.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}végétative, et les animaux
+Dialogue: 0,0:00:51.44,0:00:52.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inférieurs, comme l'hydre,
+Dialogue: 0,0:00:52.96,0:00:54.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui forme des bourgeons.
+Dialogue: 0,0:00:54.92,0:00:56.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chacun des parents est {\c&H66D1FF&}diploïde{\c&HFFFFFF&} :
+Dialogue: 0,0:00:56.61,0:00:57.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}2n chromosomes.
+Dialogue: 0,0:00:57.72,0:00:59.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leurs cellules germinales,
+Dialogue: 0,0:00:59.09,0:01:00.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou gamètes, subissent au cours de
+Dialogue: 0,0:01:00.84,0:01:02.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la méiose une réduction de moitié
+Dialogue: 0,0:01:02.59,0:01:03.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du matériel génétique :
+Dialogue: 0,0:01:03.80,0:01:04.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles sont {\c&H66D1FF&}haploïdes{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:04.97,0:01:05.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n chromosomes.
+Dialogue: 0,0:01:06.11,0:01:07.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À la fécondation, les gamètes
+Dialogue: 0,0:01:07.70,0:01:08.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fusionnent en un œuf,
+Dialogue: 0,0:01:08.85,0:01:10.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}zygote{\c&HFFFFFF&} , de nouveau diploïde.
+Dialogue: 0,0:01:10.75,0:01:12.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis, par mitoses successives,
+Dialogue: 0,0:01:12.47,0:01:14.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un nouvel organisme diploïde se forme.
+Dialogue: 0,0:01:15.21,0:01:15.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le duel.
+Dialogue: 0,0:01:16.33,0:01:18.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : une cellule 2n donne
+Dialogue: 0,0:01:18.24,0:01:19.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux cellules 2n en mitose ;
+Dialogue: 0,0:01:19.99,0:01:21.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre cellules n en méiose.
+Dialogue: 0,0:01:21.92,0:01:22.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Point commun : les deux
+Dialogue: 0,0:01:22.95,0:01:24.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}commencent par une réplication de l'ADN.
+Dialogue: 0,0:01:25.29,0:01:27.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Séparation : la mitose sépare les
+Dialogue: 0,0:01:27.11,0:01:28.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs.
+Dialogue: 0,0:01:28.24,0:01:29.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose se fait en deux temps :
+Dialogue: 0,0:01:29.89,0:01:31.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'abord les chromosomes
+Dialogue: 0,0:01:31.05,0:01:32.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues, en méiose 1,
+Dialogue: 0,0:01:32.30,0:01:33.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis les chromatides sœurs,
+Dialogue: 0,0:01:33.65,0:01:34.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en méiose 2.
+Dialogue: 0,0:01:34.96,0:01:36.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le défi de la méiose 1 :
+Dialogue: 0,0:01:36.27,0:01:37.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}répartir justement les
+Dialogue: 0,0:01:37.43,0:01:38.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes homologues,
+Dialogue: 0,0:01:38.64,0:01:40.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour retrouver une copie de
+Dialogue: 0,0:01:40.06,0:01:42.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacun des 23 chromosomes de part
+Dialogue: 0,0:01:42.28,0:01:42.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et d'autre.
+Dialogue: 0,0:01:43.26,0:01:44.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'astuce : les chromosomes
+Dialogue: 0,0:01:44.45,0:01:45.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues s'attachent,
+Dialogue: 0,0:01:45.51,0:01:46.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'apparient, l'un à l'autre,
+Dialogue: 0,0:01:46.80,0:01:47.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}via des {\c&H66D1FF&}chiasmas{\c&HFFFFFF&} .
+Dialogue: 0,0:01:47.77,0:01:49.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des microtubules se lient ensuite
+Dialogue: 0,0:01:49.57,0:01:50.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à chacun des homologues,
+Dialogue: 0,0:01:50.88,0:01:52.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un seul kinétochore attaché
+Dialogue: 0,0:01:52.62,0:01:54.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par chromosome, puis les séparent
+Dialogue: 0,0:01:54.42,0:01:55.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les entraînent de part et
+Dialogue: 0,0:01:55.95,0:01:56.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'autre.
+Dialogue: 0,0:01:56.94,0:01:58.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En méiose 2, les chromatides
+Dialogue: 0,0:01:58.55,0:01:59.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sœurs sont séparées par un
+Dialogue: 0,0:01:59.90,0:02:01.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}processus comparable à une mitose
+Dialogue: 0,0:02:01.61,0:02:03.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: des microtubules s'attachent de
+Dialogue: 0,0:02:03.33,0:02:05.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}part et d'autre au kinétochore de
+Dialogue: 0,0:02:05.04,0:02:06.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaque chromatide sœur,
+Dialogue: 0,0:02:06.23,0:02:07.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis les entraînent vers les
+Dialogue: 0,0:02:07.68,0:02:08.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pôles opposés.
+Dialogue: 0,0:02:08.81,0:02:10.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les étapes : une interphase,
+Dialogue: 0,0:02:10.33,0:02:12.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la réplication de l'ADN.
+Dialogue: 0,0:02:12.21,0:02:13.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis la méiose 1 :
+Dialogue: 0,0:02:13.28,0:02:14.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prophase 1, métaphase 1,
+Dialogue: 0,0:02:14.74,0:02:16.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}anaphase 1, télophase 1 et
+Dialogue: 0,0:02:16.31,0:02:16.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytocinèse.
+Dialogue: 0,0:02:17.07,0:02:18.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis la méiose 2 :
+Dialogue: 0,0:02:18.18,0:02:19.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prophase 2, métaphase 2,
+Dialogue: 0,0:02:19.78,0:02:21.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}anaphase 2, télophase 2 et
+Dialogue: 0,0:02:21.48,0:02:22.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytocinèse.
+Dialogue: 0,0:02:22.62,0:02:24.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège central de la méiose.
+Dialogue: 0,0:02:24.66,0:02:25.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La méiose 1 sépare les
+Dialogue: 0,0:02:25.73,0:02:26.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs” : faux.
+Dialogue: 0,0:02:27.03,0:02:28.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose 1 sépare les
+Dialogue: 0,0:02:28.22,0:02:29.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues, la méiose 2 les
+Dialogue: 0,0:02:29.77,0:02:30.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs.
+Dialogue: 0,0:02:31.10,0:02:32.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La méiose donne deux cellules
+Dialogue: 0,0:02:32.48,0:02:33.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}haploïdes” : faux,
+Dialogue: 0,0:02:33.29,0:02:34.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre cellules haploïdes.
+Dialogue: 0,0:02:34.93,0:02:36.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La méiose ne commence pas par
+Dialogue: 0,0:02:36.45,0:02:37.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une réplication” :
+Dialogue: 0,0:02:37.34,0:02:39.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, mitose et méiose commencent
+Dialogue: 0,0:02:39.08,0:02:40.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toutes les deux par une
+Dialogue: 0,0:02:40.29,0:02:40.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réplication.
+Dialogue: 0,0:02:41.48,0:02:42.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:47.26,0:02:48.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:02:48.21,0:02:49.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le zygote est diploïde,
+Dialogue: 0,0:02:49.48,0:02:50.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la méiose 2 sépare les
+Dialogue: 0,0:02:50.86,0:02:51.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs,
+Dialogue: 0,0:02:51.85,0:02:53.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'hydre bourgeonne :
+Dialogue: 0,0:02:53.11,0:02:54.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reproduction asexuée.
+Dialogue: 0,0:02:54.83,0:02:55.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:55.82,0:02:57.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la prophase 1, ses cinq stades
+Dialogue: 0,0:02:57.52,0:02:58.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux noms grecs, et le
+Dialogue: 0,0:02:58.68,0:03:00.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crossing-over découvert à l'UCL
+Dialogue: 0,0:03:00.50,0:03:01.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en 1909.

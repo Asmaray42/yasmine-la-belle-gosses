@@ -1,0 +1,90 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cycle cellulaire a trois
+Dialogue: 0,0:00:01.64,0:00:02.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}points de contrôle,
+Dialogue: 0,0:00:02.58,0:00:03.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme trois péages.
+Dialogue: 0,0:00:03.66,0:00:04.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quand ils lâchent,
+Dialogue: 0,0:00:04.55,0:00:05.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules se divisent sans
+Dialogue: 0,0:00:05.98,0:00:07.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autorisation : c'est le cancer.
+Dialogue: 0,0:00:07.91,0:00:09.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et un médicament tiré d'une fleur
+Dialogue: 0,0:00:09.57,0:00:10.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bloque la mitose.
+Dialogue: 0,0:00:10.99,0:00:12.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois points de contrôle peuvent
+Dialogue: 0,0:00:12.59,0:00:13.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}retarder ou arrêter la
+Dialogue: 0,0:00:13.69,0:00:14.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progression du cycle.
+Dialogue: 0,0:00:14.87,0:00:16.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils font intervenir des protéines
+Dialogue: 0,0:00:16.82,0:00:18.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sensibles à des paramètres
+Dialogue: 0,0:00:18.35,0:00:19.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}internes et externes.
+Dialogue: 0,0:00:19.72,0:00:21.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rôles : succession harmonieuse
+Dialogue: 0,0:00:21.39,0:00:22.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des étapes, identification
+Dialogue: 0,0:00:22.83,0:00:24.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'erreurs, réponse aux signaux
+Dialogue: 0,0:00:24.49,0:00:25.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extérieurs.
+Dialogue: 0,0:00:25.50,0:00:26.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le point {\c&H66D1FF&}G1/S{\c&HFFFFFF&} vérifie :
+Dialogue: 0,0:00:26.88,0:00:28.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}y a-t-il des facteurs de
+Dialogue: 0,0:00:28.21,0:00:28.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}croissance ?
+Dialogue: 0,0:00:29.01,0:00:30.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quel est l'état nutritionnel de
+Dialogue: 0,0:00:30.49,0:00:31.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule ?
+Dialogue: 0,0:00:31.46,0:00:32.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le point {\c&H66D1FF&}G2/M{\c&HFFFFFF&} vérifie :
+Dialogue: 0,0:00:32.95,0:00:34.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la réplication est-elle terminée ?
+Dialogue: 0,0:00:34.96,0:00:36.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le génome est-il intègre ?
+Dialogue: 0,0:00:36.73,0:00:38.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le point {\c&H66D1FF&}fusorial{\c&HFFFFFF&} vérifie :
+Dialogue: 0,0:00:38.22,0:00:39.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les chromosomes sont-ils fixés à
+Dialogue: 0,0:00:39.97,0:00:41.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la plaque métaphasique ?
+Dialogue: 0,0:00:41.85,0:00:43.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois questions dans l'ordre.
+Dialogue: 0,0:00:43.28,0:00:44.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G1/S : j'ai de quoi grandir ?
+Dialogue: 0,0:00:44.96,0:00:46.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Facteurs de croissance,
+Dialogue: 0,0:00:46.19,0:00:46.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nutrition.
+Dialogue: 0,0:00:46.87,0:00:48.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G2/M : j'ai fini de copier,
+Dialogue: 0,0:00:48.57,0:00:49.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sans erreur ?
+Dialogue: 0,0:00:49.43,0:00:50.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fusorial : tout le monde est
+Dialogue: 0,0:00:50.69,0:00:51.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}accroché au fuseau ?
+Dialogue: 0,0:00:52.15,0:00:53.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cancers sont des maladies
+Dialogue: 0,0:00:53.65,0:00:55.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liées à la croissance incontrôlée
+Dialogue: 0,0:00:55.35,0:00:56.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de cellules, par défaut des
+Dialogue: 0,0:00:56.74,0:00:58.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}points de contrôle du cycle.
+Dialogue: 0,0:00:58.59,0:01:00.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Conséquences : des divisions même
+Dialogue: 0,0:01:00.29,0:01:01.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en absence de facteurs de
+Dialogue: 0,0:01:01.58,0:01:02.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}croissance ; l'accumulation
+Dialogue: 0,0:01:02.97,0:01:04.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'erreurs dans la séquence d'ADN,
+Dialogue: 0,0:01:04.82,0:01:06.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les mutations ; et des défauts de
+Dialogue: 0,0:01:06.52,0:01:07.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ségrégation des chromosomes,
+Dialogue: 0,0:01:07.96,0:01:08.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l' {\c&H66D1FF&}aneuploïdie{\c&HFFFFFF&} .
+Dialogue: 0,0:01:09.19,0:01:10.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le caryotype d'une cellule
+Dialogue: 0,0:01:10.72,0:01:11.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cancéreuse du cours :
+Dialogue: 0,0:01:11.76,0:01:13.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des chromosomes surnuméraires,
+Dialogue: 0,0:01:13.25,0:01:14.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les 2, 3, 5,
+Dialogue: 0,0:01:14.63,0:01:16.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}7 ; des pertes, comme les 8,
+Dialogue: 0,0:01:16.32,0:01:18.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}18, 21 ; et des remaniements,
+Dialogue: 0,0:01:18.50,0:01:20.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les 2, 5, 6, 20.
+Dialogue: 0,0:01:20.69,0:01:22.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La vincristine est tirée de la
+Dialogue: 0,0:01:22.41,0:01:23.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pervenche de Madagascar.
+Dialogue: 0,0:01:24.19,0:01:25.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mode d'action : elle s'associe
+Dialogue: 0,0:01:25.85,0:01:27.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux dimères de tubulines alpha
+Dialogue: 0,0:01:27.51,0:01:29.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bêta, inhibe la polymérisation
+Dialogue: 0,0:01:29.18,0:01:30.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des microtubules, et bloque donc
+Dialogue: 0,0:01:30.95,0:01:31.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la mitose.
+Dialogue: 0,0:01:31.65,0:01:33.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Usage clinique : le traitement de
+Dialogue: 0,0:01:33.30,0:01:34.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents types de cancers.
+Dialogue: 0,0:01:35.27,0:01:36.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quel point de contrôle
+Dialogue: 0,0:01:36.78,0:01:38.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vérifie l'intégrité du génome ?
+Dialogue: 0,0:01:42.80,0:01:44.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G2/M, avec la fin de la
+Dialogue: 0,0:01:44.50,0:01:45.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réplication.
+Dialogue: 0,0:01:45.40,0:01:47.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G1/S vérifie les facteurs de
+Dialogue: 0,0:01:47.09,0:01:48.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}croissance et la nutrition ;
+Dialogue: 0,0:01:48.67,0:01:50.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le fusorial, l'attachement à la
+Dialogue: 0,0:01:50.42,0:01:51.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plaque métaphasique.
+Dialogue: 0,0:01:52.10,0:01:53.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:01:53.12,0:01:54.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la reproduction sexuée et la
+Dialogue: 0,0:01:54.71,0:01:56.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méiose, qui transforme une
+Dialogue: 0,0:01:56.18,0:01:57.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule diploïde en quatre
+Dialogue: 0,0:01:57.65,0:01:58.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules haploïdes.

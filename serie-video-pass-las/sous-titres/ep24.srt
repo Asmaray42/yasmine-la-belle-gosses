@@ -1,0 +1,307 @@
+1
+00:00:00,300 --> 00:00:01,635
+Le cycle cellulaire a trois
+
+2
+00:00:01,635 --> 00:00:02,575
+points de contrôle,
+
+3
+00:00:02,575 --> 00:00:03,515
+comme trois péages.
+
+4
+00:00:03,655 --> 00:00:04,545
+Quand ils lâchent,
+
+5
+00:00:04,545 --> 00:00:05,979
+les cellules se divisent sans
+
+6
+00:00:05,979 --> 00:00:07,512
+autorisation : c'est le cancer.
+
+7
+00:00:07,912 --> 00:00:09,573
+Et un médicament tiré d'une fleur
+
+8
+00:00:09,573 --> 00:00:10,428
+bloque la mitose.
+
+9
+00:00:10,988 --> 00:00:12,586
+Trois points de contrôle peuvent
+
+10
+00:00:12,586 --> 00:00:13,685
+retarder ou arrêter la
+
+11
+00:00:13,685 --> 00:00:14,733
+progression du cycle.
+
+12
+00:00:14,873 --> 00:00:16,817
+Ils font intervenir des protéines
+
+13
+00:00:16,817 --> 00:00:18,348
+sensibles à des paramètres
+
+14
+00:00:18,348 --> 00:00:19,584
+internes et externes.
+
+15
+00:00:19,724 --> 00:00:21,386
+Rôles : succession harmonieuse
+
+16
+00:00:21,386 --> 00:00:22,826
+des étapes, identification
+
+17
+00:00:22,826 --> 00:00:24,487
+d'erreurs, réponse aux signaux
+
+18
+00:00:24,487 --> 00:00:25,096
+extérieurs.
+
+19
+00:00:25,496 --> 00:00:26,879
+Le point G1/S vérifie :
+
+20
+00:00:26,879 --> 00:00:28,206
+y a-t-il des facteurs de
+
+21
+00:00:28,206 --> 00:00:28,870
+croissance ?
+
+22
+00:00:29,010 --> 00:00:30,486
+Quel est l'état nutritionnel de
+
+23
+00:00:30,486 --> 00:00:31,058
+la cellule ?
+
+24
+00:00:31,458 --> 00:00:32,948
+Le point G2/M vérifie :
+
+25
+00:00:32,948 --> 00:00:34,824
+la réplication est-elle terminée ?
+
+26
+00:00:34,964 --> 00:00:36,333
+Le génome est-il intègre ?
+
+27
+00:00:36,733 --> 00:00:38,215
+Le point fusorial vérifie :
+
+28
+00:00:38,215 --> 00:00:39,971
+les chromosomes sont-ils fixés à
+
+29
+00:00:39,971 --> 00:00:41,289
+la plaque métaphasique ?
+
+30
+00:00:41,849 --> 00:00:43,137
+Trois questions dans l'ordre.
+
+31
+00:00:43,277 --> 00:00:44,818
+G1/S : j'ai de quoi grandir ?
+
+32
+00:00:44,958 --> 00:00:46,189
+Facteurs de croissance,
+
+33
+00:00:46,189 --> 00:00:46,725
+nutrition.
+
+34
+00:00:46,865 --> 00:00:48,572
+G2/M : j'ai fini de copier,
+
+35
+00:00:48,572 --> 00:00:49,289
+sans erreur ?
+
+36
+00:00:49,429 --> 00:00:50,690
+Fusorial : tout le monde est
+
+37
+00:00:50,690 --> 00:00:51,590
+accroché au fuseau ?
+
+38
+00:00:52,150 --> 00:00:53,647
+Les cancers sont des maladies
+
+39
+00:00:53,647 --> 00:00:55,350
+liées à la croissance incontrôlée
+
+40
+00:00:55,350 --> 00:00:56,744
+de cellules, par défaut des
+
+41
+00:00:56,744 --> 00:00:58,189
+points de contrôle du cycle.
+
+42
+00:00:58,589 --> 00:01:00,289
+Conséquences : des divisions même
+
+43
+00:01:00,289 --> 00:01:01,577
+en absence de facteurs de
+
+44
+00:01:01,577 --> 00:01:02,968
+croissance ; l'accumulation
+
+45
+00:01:02,968 --> 00:01:04,822
+d'erreurs dans la séquence d'ADN,
+
+46
+00:01:04,822 --> 00:01:06,522
+les mutations ; et des défauts de
+
+47
+00:01:06,522 --> 00:01:07,964
+ségrégation des chromosomes,
+
+48
+00:01:07,964 --> 00:01:08,789
+l' aneuploïdie .
+
+49
+00:01:09,189 --> 00:01:10,723
+Dans le caryotype d'une cellule
+
+50
+00:01:10,723 --> 00:01:11,763
+cancéreuse du cours :
+
+51
+00:01:11,763 --> 00:01:13,248
+des chromosomes surnuméraires,
+
+52
+00:01:13,248 --> 00:01:14,634
+comme les 2, 3, 5,
+
+53
+00:01:14,634 --> 00:01:16,317
+7 ; des pertes, comme les 8,
+
+54
+00:01:16,317 --> 00:01:18,495
+18, 21 ; et des remaniements,
+
+55
+00:01:18,495 --> 00:01:20,128
+comme les 2, 5, 6, 20.
+
+56
+00:01:20,688 --> 00:01:22,410
+La vincristine est tirée de la
+
+57
+00:01:22,410 --> 00:01:23,788
+pervenche de Madagascar.
+
+58
+00:01:24,188 --> 00:01:25,851
+Mode d'action : elle s'associe
+
+59
+00:01:25,851 --> 00:01:27,514
+aux dimères de tubulines alpha
+
+60
+00:01:27,514 --> 00:01:29,177
+bêta, inhibe la polymérisation
+
+61
+00:01:29,177 --> 00:01:30,951
+des microtubules, et bloque donc
+
+62
+00:01:30,951 --> 00:01:31,506
+la mitose.
+
+63
+00:01:31,646 --> 00:01:33,302
+Usage clinique : le traitement de
+
+64
+00:01:33,302 --> 00:01:34,707
+différents types de cancers.
+
+65
+00:01:35,267 --> 00:01:36,781
+Quiz : quel point de contrôle
+
+66
+00:01:36,781 --> 00:01:38,399
+vérifie l'intégrité du génome ?
+
+67
+00:01:42,799 --> 00:01:44,504
+G2/M, avec la fin de la
+
+68
+00:01:44,504 --> 00:01:45,262
+réplication.
+
+69
+00:01:45,402 --> 00:01:47,092
+G1/S vérifie les facteurs de
+
+70
+00:01:47,092 --> 00:01:48,670
+croissance et la nutrition ;
+
+71
+00:01:48,670 --> 00:01:50,417
+le fusorial, l'attachement à la
+
+72
+00:01:50,417 --> 00:01:51,544
+plaque métaphasique.
+
+73
+00:01:52,104 --> 00:01:53,123
+Prochain épisode :
+
+74
+00:01:53,123 --> 00:01:54,709
+la reproduction sexuée et la
+
+75
+00:01:54,709 --> 00:01:56,182
+méiose, qui transforme une
+
+76
+00:01:56,182 --> 00:01:57,654
+cellule diploïde en quatre
+
+77
+00:01:57,654 --> 00:01:58,730
+cellules haploïdes.

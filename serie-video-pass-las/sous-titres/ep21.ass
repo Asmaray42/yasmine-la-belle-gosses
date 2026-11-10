@@ -1,0 +1,120 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant que tu regardes cette
+Dialogue: 0,0:00:01.81,0:00:03.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vidéo, ton corps réalise des
+Dialogue: 0,0:00:03.27,0:00:04.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}milliers de divisions cellulaires
+Dialogue: 0,0:00:04.98,0:00:06.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: quelques milliards par jour,
+Dialogue: 0,0:00:06.55,0:00:08.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la peau, le tube digestif,
+Dialogue: 0,0:00:08.16,0:00:08.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le sang.
+Dialogue: 0,0:00:08.98,0:00:10.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les rôles de la
+Dialogue: 0,0:00:10.62,0:00:11.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}division, sa check-list,
+Dialogue: 0,0:00:11.93,0:00:13.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la réplication de l'ADN.
+Dialogue: 0,0:00:14.14,0:00:15.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre six : la division
+Dialogue: 0,0:00:15.63,0:00:16.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire.
+Dialogue: 0,0:00:16.66,0:00:18.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Aperçu général ; la réplication
+Dialogue: 0,0:00:18.48,0:00:20.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'ADN ; la division chez les
+Dialogue: 0,0:00:20.48,0:00:21.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}procaryotes.
+Dialogue: 0,0:00:21.59,0:00:23.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromosomes eucaryotes ;
+Dialogue: 0,0:00:23.07,0:00:24.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cycle cellulaire ;
+Dialogue: 0,0:00:24.19,0:00:25.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la mitose ; le contrôle du cycle
+Dialogue: 0,0:00:25.89,0:00:26.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire.
+Dialogue: 0,0:00:27.03,0:00:28.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La division cellulaire,
+Dialogue: 0,0:00:28.22,0:00:29.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le processus par lequel une
+Dialogue: 0,0:00:29.92,0:00:31.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule initiale, la {\c&H66D1FF&}cellule-mère{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.61,0:00:32.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, donne naissance à deux
+Dialogue: 0,0:00:32.85,0:00:33.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nouvelles cellules,
+Dialogue: 0,0:00:33.83,0:00:34.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}cellules-filles{\c&HFFFFFF&} .
+Dialogue: 0,0:00:35.31,0:00:36.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez les organismes
+Dialogue: 0,0:00:36.27,0:00:37.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}unicellulaires, elle assure
+Dialogue: 0,0:00:37.63,0:00:39.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'accroissement de la population.
+Dialogue: 0,0:00:39.70,0:00:41.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez les pluricellulaires,
+Dialogue: 0,0:00:41.10,0:00:42.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à partir de l'œuf fécondé,
+Dialogue: 0,0:00:42.51,0:00:43.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une seule cellule,
+Dialogue: 0,0:00:43.49,0:00:45.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle assure le développement et
+Dialogue: 0,0:00:45.17,0:00:46.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la croissance de l'organisme,
+Dialogue: 0,0:00:46.74,0:00:48.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le remplacement et la
+Dialogue: 0,0:00:48.04,0:00:49.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réparation des tissus usés ou
+Dialogue: 0,0:00:49.61,0:00:50.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endommagés.
+Dialogue: 0,0:00:50.77,0:00:51.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme adulte :
+Dialogue: 0,0:00:51.67,0:00:53.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre 10 000 et 100 000 milliards
+Dialogue: 0,0:00:53.36,0:00:53.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de cellules.
+Dialogue: 0,0:00:54.02,0:00:55.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et quelques milliards de
+Dialogue: 0,0:00:55.33,0:00:56.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}divisions de remplacement par
+Dialogue: 0,0:00:56.92,0:00:57.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jour, dans la peau,
+Dialogue: 0,0:00:57.96,0:00:59.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le tube digestif et le système
+Dialogue: 0,0:00:59.61,0:01:00.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hématopoïétique.
+Dialogue: 0,0:01:01.05,0:01:02.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour se diviser, une cellule doit
+Dialogue: 0,0:01:02.69,0:01:03.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cocher quatre cases.
+Dialogue: 0,0:01:04.09,0:01:05.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Augmenter son contenu
+Dialogue: 0,0:01:05.30,0:01:06.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytoplasmique, organites et
+Dialogue: 0,0:01:06.86,0:01:07.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines.
+Dialogue: 0,0:01:07.83,0:01:09.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dupliquer l'information génétique
+Dialogue: 0,0:01:09.60,0:01:11.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: c'est la réplication de l'ADN.
+Dialogue: 0,0:01:11.88,0:01:13.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Répartir l'ensemble du matériel
+Dialogue: 0,0:01:13.61,0:01:14.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en deux parts égales.
+Dialogue: 0,0:01:15.19,0:01:16.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et séparer les deux nouvelles
+Dialogue: 0,0:01:16.48,0:01:16.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules.
+Dialogue: 0,0:01:17.44,0:01:19.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La réplication, en deux étapes et
+Dialogue: 0,0:01:19.28,0:01:19.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un bilan.
+Dialogue: 0,0:01:20.19,0:01:21.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Étape un : séparation des deux
+Dialogue: 0,0:01:21.78,0:01:22.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brins complémentaires,
+Dialogue: 0,0:01:22.95,0:01:24.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par rupture des liaisons
+Dialogue: 0,0:01:24.22,0:01:24.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrogène.
+Dialogue: 0,0:01:25.15,0:01:26.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Étape deux : l' {\c&H66D1FF&}ADN{\c&HFFFFFF&} {\c&H66D1FF&}polymérase{\c&HFFFFFF&}
+Dialogue: 0,0:01:26.88,0:01:28.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synthétise de nouveaux brins à
+Dialogue: 0,0:01:28.50,0:01:30.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}partir de nucléotides libres,
+Dialogue: 0,0:01:30.06,0:01:31.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en utilisant les anciens brins
+Dialogue: 0,0:01:31.68,0:01:32.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme {\c&H66D1FF&}matrice{\c&HFFFFFF&} .
+Dialogue: 0,0:01:32.63,0:01:34.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La polymérisation évolue {\c&H66D1FF&}toujours{\c&HFFFFFF&}
+Dialogue: 0,0:01:34.40,0:01:36.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la direction 5 prime vers 3 prime.
+Dialogue: 0,0:01:37.25,0:01:38.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bilan : les deux nouvelles
+Dialogue: 0,0:01:38.74,0:01:40.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules ont une séquence
+Dialogue: 0,0:01:40.22,0:01:41.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identique à l'ADN initial,
+Dialogue: 0,0:01:41.88,0:01:43.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et chacune conserve un ancien
+Dialogue: 0,0:01:43.54,0:01:45.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brin : c'est la réplication
+Dialogue: 0,0:01:45.08,0:01:46.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}semi-conservative{\c&HFFFFFF&} .
+Dialogue: 0,0:01:46.73,0:01:48.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez la plupart des bactéries,
+Dialogue: 0,0:01:48.35,0:01:49.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le matériel génétique est une
+Dialogue: 0,0:01:49.91,0:01:51.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}seule molécule d'ADN {\c&H66D1FF&}circulaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:52.26,0:01:53.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cet ADN est répliqué,
+Dialogue: 0,0:01:53.45,0:01:54.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les deux molécules sont
+Dialogue: 0,0:01:54.80,0:01:56.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réparties de part et d'autre de
+Dialogue: 0,0:01:56.42,0:01:56.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule.
+Dialogue: 0,0:01:57.13,0:01:58.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après un allongement,
+Dialogue: 0,0:01:58.20,0:01:59.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule se cloisonne en son
+Dialogue: 0,0:01:59.73,0:02:01.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}centre, jusqu'à la scission en
+Dialogue: 0,0:02:01.26,0:02:02.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux cellules-filles.
+Dialogue: 0,0:02:02.89,0:02:03.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux pièges.
+Dialogue: 0,0:02:04.15,0:02:05.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La polymérisation du nouveau
+Dialogue: 0,0:02:05.60,0:02:07.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brin se fait de 3 prime vers 5
+Dialogue: 0,0:02:07.52,0:02:09.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prime” : faux, toujours 5 prime
+Dialogue: 0,0:02:09.22,0:02:10.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vers 3 prime.
+Dialogue: 0,0:02:10.50,0:02:11.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Une des deux molécules filles
+Dialogue: 0,0:02:11.76,0:02:13.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}garde les deux anciens brins” : faux.
+Dialogue: 0,0:02:13.46,0:02:15.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chacune garde un ancien brin :
+Dialogue: 0,0:02:15.23,0:02:16.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}semi-conservative.
+Dialogue: 0,0:02:16.85,0:02:18.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:22.63,0:02:23.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A.
+Dialogue: 0,0:02:23.57,0:02:25.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les bactéries ont une seule
+Dialogue: 0,0:02:25.07,0:02:26.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécule d'ADN circulaire,
+Dialogue: 0,0:02:26.69,0:02:28.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y a quelques milliards de
+Dialogue: 0,0:02:28.24,0:02:29.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}divisions par jour,
+Dialogue: 0,0:02:29.30,0:02:31.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la synthèse va de 5 prime vers
+Dialogue: 0,0:02:31.31,0:02:31.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}3 prime.
+Dialogue: 0,0:02:32.53,0:02:33.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:33.46,0:02:35.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comment ranger et partager 46
+Dialogue: 0,0:02:35.47,0:02:36.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes emmêlés comme des
+Dialogue: 0,0:02:36.96,0:02:37.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spaghettis.
+Dialogue: 0,0:02:37.66,0:02:39.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux astuces : la condensation et
+Dialogue: 0,0:02:39.37,0:02:40.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cohésines.

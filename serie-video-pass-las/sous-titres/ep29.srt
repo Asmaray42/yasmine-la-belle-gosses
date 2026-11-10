@@ -1,0 +1,331 @@
+1
+00:00:00,300 --> 00:00:01,622
+Avant de quitter le noyau,
+
+2
+00:00:01,622 --> 00:00:03,046
+l'ARN prémessager se fait
+
+3
+00:00:03,046 --> 00:00:04,520
+découper : certains morceaux,
+
+4
+00:00:04,520 --> 00:00:05,741
+les introns, sont jetés.
+
+5
+00:00:05,881 --> 00:00:07,470
+Et pourtant, c'est indispensable.
+
+6
+00:00:07,870 --> 00:00:09,564
+Au programme : la transcription,
+
+7
+00:00:09,564 --> 00:00:11,205
+puis la maturation de l'ARN.
+
+8
+00:00:11,765 --> 00:00:13,520
+La transcription commence par le
+
+9
+00:00:13,520 --> 00:00:15,385
+recrutement d'une ARN polymérase
+
+10
+00:00:15,385 --> 00:00:17,085
+sur l'ADN, au début du gène.
+
+11
+00:00:17,485 --> 00:00:18,906
+Les deux brins se séparent,
+
+12
+00:00:18,906 --> 00:00:20,327
+et des nucléotides d'ARN
+
+13
+00:00:20,327 --> 00:00:21,959
+s'assemblent au fur et à mesure
+
+14
+00:00:21,959 --> 00:00:23,590
+que leur base s'apparie avec le
+
+15
+00:00:23,590 --> 00:00:25,380
+brin d'ADN qui sert de matrice,
+
+16
+00:00:25,380 --> 00:00:26,169
+le brin moins .
+
+17
+00:00:26,309 --> 00:00:27,912
+L'élongation de l'ARN se fait
+
+18
+00:00:27,912 --> 00:00:29,965
+dans le sens 5 prime vers 3 prime.
+
+19
+00:00:30,365 --> 00:00:32,223
+L'ARN est donc complémentaire du
+
+20
+00:00:32,223 --> 00:00:33,550
+brin moins, et identique,
+
+21
+00:00:33,550 --> 00:00:34,771
+sauf U à la place de T,
+
+22
+00:00:34,771 --> 00:00:36,364
+à l'autre brin, le brin plus .
+
+23
+00:00:36,924 --> 00:00:38,541
+Pour les gènes qui codent des
+
+24
+00:00:38,541 --> 00:00:40,102
+protéines, l'ARN produit,
+
+25
+00:00:40,102 --> 00:00:41,328
+l'ARN prémessager ,
+
+26
+00:00:41,328 --> 00:00:42,722
+subit plusieurs étapes de
+
+27
+00:00:42,722 --> 00:00:44,729
+maturation avant de devenir l'ARN
+
+28
+00:00:44,729 --> 00:00:45,565
+messager final.
+
+29
+00:00:45,965 --> 00:00:47,557
+L' épissage : certains segments,
+
+30
+00:00:47,557 --> 00:00:48,950
+les introns , sont éliminés,
+
+31
+00:00:48,950 --> 00:00:50,194
+et les segments restants,
+
+32
+00:00:50,194 --> 00:00:51,487
+les exons , sont recollés.
+
+33
+00:00:51,887 --> 00:00:53,626
+La coiffe : un G T P modifié
+
+34
+00:00:53,626 --> 00:00:55,612
+ajouté à l'extrémité 5 prime.
+
+35
+00:00:55,752 --> 00:00:57,150
+La queue poly-A : une série
+
+36
+00:00:57,150 --> 00:00:58,806
+d'adénines ajoutée à l'extrémité
+
+37
+00:00:58,806 --> 00:00:59,427
+3 prime.
+
+38
+00:00:59,827 --> 00:01:01,390
+Ces trois étapes se font quasi
+
+39
+00:01:01,390 --> 00:01:02,901
+simultanément, dans le noyau.
+
+40
+00:01:03,041 --> 00:01:04,602
+La coiffe et la queue poly-A
+
+41
+00:01:04,602 --> 00:01:06,553
+augmentent la stabilité de l'ARN
+
+42
+00:01:06,553 --> 00:01:08,002
+messager et facilitent son
+
+43
+00:01:08,002 --> 00:01:09,619
+transport vers le cytoplasme,
+
+44
+00:01:09,619 --> 00:01:10,845
+lieu de la traduction.
+
+45
+00:01:11,405 --> 00:01:12,999
+Seule une portion de l'ARN
+
+46
+00:01:12,999 --> 00:01:14,812
+messager, entre le codon START et
+
+47
+00:01:14,812 --> 00:01:16,461
+le codon STOP, sera traduite :
+
+48
+00:01:16,461 --> 00:01:17,834
+c'est la région codante .
+
+49
+00:01:17,974 --> 00:01:19,887
+L'ARN messager présente donc des
+
+50
+00:01:19,887 --> 00:01:21,144
+régions non traduites ,
+
+51
+00:01:21,144 --> 00:01:23,385
+aux extrémités 5 prime et 3 prime.
+
+52
+00:01:23,785 --> 00:01:24,817
+Dans le prémessager,
+
+53
+00:01:24,817 --> 00:01:26,313
+la région codante est souvent
+
+54
+00:01:26,313 --> 00:01:27,758
+interrompue par les introns.
+
+55
+00:01:27,898 --> 00:01:29,147
+L'épissage la réunit en
+
+56
+00:01:29,147 --> 00:01:30,884
+restaurant le cadre de lecture :
+
+57
+00:01:30,884 --> 00:01:32,676
+la succession correcte de codons,
+
+58
+00:01:32,676 --> 00:01:34,142
+depuis l'AUG jusqu'au STOP.
+
+59
+00:01:34,702 --> 00:01:35,538
+Trois pièges.
+
+60
+00:01:35,938 --> 00:01:37,492
+“L'ARN a la même séquence que le
+
+61
+00:01:37,492 --> 00:01:38,406
+brin matrice” : faux.
+
+62
+00:01:38,546 --> 00:01:40,037
+Il est complémentaire du brin
+
+63
+00:01:40,037 --> 00:01:40,962
+moins, la matrice,
+
+64
+00:01:40,962 --> 00:01:42,298
+et identique au brin plus.
+
+65
+00:01:42,698 --> 00:01:44,156
+“La coiffe est ajoutée en 3
+
+66
+00:01:44,156 --> 00:01:45,517
+prime” : faux, en 5 prime.
+
+67
+00:01:45,657 --> 00:01:47,257
+La queue poly-A est en 3 prime.
+
+68
+00:01:47,657 --> 00:01:49,108
+“Tout l'ARN messager est traduit”
+
+69
+00:01:49,108 --> 00:01:49,407
+: faux.
+
+70
+00:01:49,547 --> 00:01:50,768
+Seule la région codante,
+
+71
+00:01:50,768 --> 00:01:52,142
+entre START et STOP, l'est.
+
+72
+00:01:52,702 --> 00:01:54,037
+Quiz : que fait l'épissage ?
+
+73
+00:01:58,437 --> 00:02:00,251
+Il élimine les introns et recolle
+
+74
+00:02:00,251 --> 00:02:00,801
+les exons.
+
+75
+00:02:00,941 --> 00:02:02,510
+La coiffe et la queue poly-A sont
+
+76
+00:02:02,510 --> 00:02:03,842
+les deux autres étapes de la
+
+77
+00:02:03,842 --> 00:02:04,365
+maturation.
+
+78
+00:02:04,925 --> 00:02:05,938
+Prochain épisode :
+
+79
+00:02:05,938 --> 00:02:06,726
+la traduction.
+
+80
+00:02:06,866 --> 00:02:08,178
+Les ARN de transfert,
+
+81
+00:02:08,178 --> 00:02:09,775
+les ribosomes, et comment la
+
+82
+00:02:09,775 --> 00:02:11,543
+chaîne d'acides aminés grandit,
+
+83
+00:02:11,543 --> 00:02:12,570
+codon après codon.

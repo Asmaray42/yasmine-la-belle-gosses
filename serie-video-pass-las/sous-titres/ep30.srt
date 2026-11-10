@@ -1,0 +1,427 @@
+1
+00:00:00,300 --> 00:00:01,462
+Pour lire les codons,
+
+2
+00:00:01,462 --> 00:00:03,232
+la cellule utilise quarante-huit
+
+3
+00:00:03,232 --> 00:00:04,892
+ARN de transfert différents,
+
+4
+00:00:04,892 --> 00:00:05,944
+en forme de trèfle,
+
+5
+00:00:05,944 --> 00:00:07,936
+qui apportent chacun un acide aminé.
+
+6
+00:00:08,336 --> 00:00:10,488
+Au programme : les ARNt,
+
+7
+00:00:10,488 --> 00:00:12,244
+les ribosomes, et la traduction
+
+8
+00:00:12,244 --> 00:00:12,810
+pas à pas.
+
+9
+00:00:13,370 --> 00:00:15,879
+Les ARNt font le lien entre la
+
+10
+00:00:15,879 --> 00:00:18,103
+séquence d'ARN et les acides aminés.
+
+11
+00:00:18,243 --> 00:00:19,419
+Il y en a quarante-huit
+
+12
+00:00:19,419 --> 00:00:20,646
+différents chez l'homme,
+
+13
+00:00:20,646 --> 00:00:21,821
+d'environ quatre-vingts
+
+14
+00:00:21,821 --> 00:00:23,406
+nucléotides, avec une structure
+
+15
+00:00:23,406 --> 00:00:23,917
+en trèfle.
+
+16
+00:00:24,317 --> 00:00:26,185
+Chacun possède un site de liaison
+
+17
+00:00:26,185 --> 00:00:27,940
+pour un acide aminé spécifique,
+
+18
+00:00:27,940 --> 00:00:29,299
+et un anticodon de trois
+
+19
+00:00:29,299 --> 00:00:31,111
+nucléotides, qui reconnaît un ou
+
+20
+00:00:31,111 --> 00:00:32,696
+plusieurs codons de l'ARN
+
+21
+00:00:32,696 --> 00:00:34,620
+messager par appariement de bases.
+
+22
+00:00:35,180 --> 00:00:36,930
+Les acides aminés sont chargés
+
+23
+00:00:36,930 --> 00:00:38,913
+sur les ARNt par des
+
+24
+00:00:38,913 --> 00:00:41,246
+aminoacyl-ARNt synthétases :
+
+25
+00:00:41,246 --> 00:00:43,404
+au moins une pour chaque acide aminé.
+
+26
+00:00:43,804 --> 00:00:45,085
+Chacune a un domaine de
+
+27
+00:00:45,085 --> 00:00:46,478
+reconnaissance pour un ou
+
+28
+00:00:46,478 --> 00:00:49,096
+plusieurs ARNt, selon la séquence
+
+29
+00:00:49,096 --> 00:00:49,931
+de l'anticodon.
+
+30
+00:00:50,071 --> 00:00:52,454
+Ensemble, elles lient chaque ARNt
+
+31
+00:00:52,454 --> 00:00:53,620
+à l'acide aminé qui lui
+
+32
+00:00:53,620 --> 00:00:54,178
+correspond.
+
+33
+00:00:54,738 --> 00:00:56,206
+Les ribosomes catalysent la
+
+34
+00:00:56,206 --> 00:00:57,620
+synthèse des polypeptides.
+
+35
+00:00:57,760 --> 00:00:58,885
+Deux sous-unités :
+
+36
+00:00:58,885 --> 00:01:00,886
+une petite, 40S , et une grande,
+
+37
+00:01:00,886 --> 00:01:02,887
+60S , chacune faite de protéines
+
+38
+00:01:02,887 --> 00:01:04,324
+et d'ARN ribosomaux.
+
+39
+00:01:04,464 --> 00:01:05,947
+Elles sont produites au niveau du
+
+40
+00:01:05,947 --> 00:01:06,351
+nucléole.
+
+41
+00:01:06,751 --> 00:01:08,540
+La petite sous-unité atterrit sur
+
+42
+00:01:08,540 --> 00:01:10,382
+l'extrémité 5 prime de l'ARN
+
+43
+00:01:10,382 --> 00:01:12,333
+messager et glisse vers 3 prime.
+
+44
+00:01:12,473 --> 00:01:13,943
+Quand elle rencontre l'AUG,
+
+45
+00:01:13,943 --> 00:01:15,577
+le START, la grande sous-unité
+
+46
+00:01:15,577 --> 00:01:17,265
+s'assemble : la traduction peut
+
+47
+00:01:17,265 --> 00:01:17,810
+commencer.
+
+48
+00:01:18,370 --> 00:01:19,589
+Suivons le ribosome.
+
+49
+00:01:19,989 --> 00:01:21,797
+Le ribosome est en place sur le
+
+50
+00:01:21,797 --> 00:01:22,905
+codon START, A U G.
+
+51
+00:01:23,045 --> 00:01:25,218
+L'ARNt dont l'anticodon
+
+52
+00:01:25,218 --> 00:01:26,934
+correspond à AUG, chargé d'une
+
+53
+00:01:26,934 --> 00:01:28,592
+méthionine, se positionne par
+
+54
+00:01:28,592 --> 00:01:29,279
+appariement.
+
+55
+00:01:29,679 --> 00:01:32,465
+Un deuxième ARNt, correspondant
+
+56
+00:01:32,465 --> 00:01:34,199
+au codon suivant, ici G C G,
+
+57
+00:01:34,199 --> 00:01:35,933
+entre avec son acide aminé :
+
+58
+00:01:35,933 --> 00:01:36,552
+l'alanine.
+
+59
+00:01:36,952 --> 00:01:38,763
+La grosse sous-unité catalyse le
+
+60
+00:01:38,763 --> 00:01:40,235
+transfert du lien entre la
+
+61
+00:01:40,235 --> 00:01:42,555
+méthionine et son ARNt vers
+
+62
+00:01:42,555 --> 00:01:44,197
+l'alanine : c'est la première
+
+63
+00:01:44,197 --> 00:01:45,272
+liaison peptidique.
+
+64
+00:01:45,672 --> 00:01:47,016
+Le ribosome glisse vers
+
+65
+00:01:47,016 --> 00:01:48,418
+l'extrémité 3 prime,
+
+66
+00:01:48,418 --> 00:01:50,987
+et le premier ARNt est libéré.
+
+67
+00:01:51,127 --> 00:01:53,408
+Un nouvel ARNt chargé prend
+
+68
+00:01:53,408 --> 00:01:55,133
+place, un nouveau lien se crée,
+
+69
+00:01:55,133 --> 00:01:56,357
+et le cycle se répète.
+
+70
+00:01:56,757 --> 00:01:58,017
+Arrivé au codon STOP,
+
+71
+00:01:58,017 --> 00:01:59,878
+ici U A A, celui-ci est reconnu
+
+72
+00:01:59,878 --> 00:02:01,739
+par un facteur de terminaison ,
+
+73
+00:02:01,739 --> 00:02:03,900
+qui n'est pas un ARNt.
+
+74
+00:02:04,040 --> 00:02:05,977
+Il rompt le lien entre le dernier
+
+75
+00:02:05,977 --> 00:02:08,206
+acide aminé et son ARNt.
+
+76
+00:02:08,606 --> 00:02:10,363
+Le ribosome se dissocie et se
+
+77
+00:02:10,363 --> 00:02:12,179
+détache de l'ARN messager :
+
+78
+00:02:12,179 --> 00:02:13,754
+le polypeptide est achevé,
+
+79
+00:02:13,754 --> 00:02:15,631
+avec son extrémité C-terminale.
+
+80
+00:02:16,191 --> 00:02:17,959
+Souvent, plusieurs ribosomes se
+
+81
+00:02:17,959 --> 00:02:19,498
+succèdent sur un même ARN
+
+82
+00:02:19,498 --> 00:02:21,095
+messager, ce qui accélère la
+
+83
+00:02:21,095 --> 00:02:22,350
+synthèse de protéines.
+
+84
+00:02:22,490 --> 00:02:23,893
+Cette structure s'appelle les
+
+85
+00:02:23,893 --> 00:02:24,619
+polyribosomes .
+
+86
+00:02:25,179 --> 00:02:26,015
+Trois pièges.
+
+87
+00:02:26,415 --> 00:02:28,287
+“Le codon STOP est reconnu par un
+
+88
+00:02:28,287 --> 00:02:30,335
+ARNt de terminaison” :
+
+89
+00:02:30,335 --> 00:02:31,681
+faux, par un facteur de
+
+90
+00:02:31,681 --> 00:02:34,547
+terminaison, qui n'est pas un ARNt.
+
+91
+00:02:34,947 --> 00:02:36,608
+“La petite sous-unité catalyse la
+
+92
+00:02:36,608 --> 00:02:37,646
+liaison peptidique” :
+
+93
+00:02:37,646 --> 00:02:38,788
+faux, c'est la grande.
+
+94
+00:02:39,188 --> 00:02:40,461
+“Le ribosome glisse vers
+
+95
+00:02:40,461 --> 00:02:41,789
+l'extrémité 5 prime” :
+
+96
+00:02:41,789 --> 00:02:43,062
+faux, vers 3 prime.
+
+97
+00:02:43,622 --> 00:02:45,002
+Quiz : laquelle est exacte ?
+
+98
+00:02:49,402 --> 00:02:50,214
+Réponse C.
+
+99
+00:02:50,354 --> 00:02:53,371
+Il y a 48 ARNt, la petite
+
+100
+00:02:53,371 --> 00:02:54,699
+sous-unité est la 40S,
+
+101
+00:02:54,699 --> 00:02:56,207
+et la traduction commence
+
+102
+00:02:56,207 --> 00:02:57,896
+toujours par une méthionine.
+
+103
+00:02:58,456 --> 00:02:59,410
+Prochain épisode :
+
+104
+00:02:59,410 --> 00:02:59,993
+un atelier.
+
+105
+00:03:00,133 --> 00:03:01,859
+On lit ensemble la séquence du
+
+106
+00:03:01,859 --> 00:03:02,952
+gène de l'insuline,
+
+107
+00:03:02,952 --> 00:03:04,966
+exon par exon, jusqu'au codon STOP.

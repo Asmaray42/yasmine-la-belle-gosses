@@ -1,0 +1,143 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant la méiose,
+Dialogue: 0,0:00:01.24,0:00:02.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tes chromosomes paternels et
+Dialogue: 0,0:00:02.69,0:00:03.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternels s'échangent des
+Dialogue: 0,0:00:03.99,0:00:05.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}morceaux, environ cinquante fois
+Dialogue: 0,0:00:05.66,0:00:06.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par cellule chez l'homme.
+Dialogue: 0,0:00:07.10,0:00:08.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces structures ont été
+Dialogue: 0,0:00:08.28,0:00:10.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}découvertes en 1909,
+Dialogue: 0,0:00:10.21,0:00:10.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'UCL.
+Dialogue: 0,0:00:11.14,0:00:12.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les cinq stades de
+Dialogue: 0,0:00:12.84,0:00:14.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la prophase 1, le crossing-over,
+Dialogue: 0,0:00:14.53,0:00:15.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la méiose 2.
+Dialogue: 0,0:00:16.02,0:00:17.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la réplication de l'ADN,
+Dialogue: 0,0:00:17.71,0:00:19.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la prophase 1 voit apparaître et
+Dialogue: 0,0:00:19.41,0:00:20.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'apparier les chromosomes
+Dialogue: 0,0:00:20.74,0:00:22.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues, qui échangent des
+Dialogue: 0,0:00:22.23,0:00:23.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}segments d'ADN au niveau des
+Dialogue: 0,0:00:23.83,0:00:24.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chiasmas.
+Dialogue: 0,0:00:24.43,0:00:25.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle compte cinq étapes.
+Dialogue: 0,0:00:26.06,0:00:27.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, le {\c&H66D1FF&}leptotène{\c&HFFFFFF&} :
+Dialogue: 0,0:00:27.04,0:00:28.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la chromatine se condense,
+Dialogue: 0,0:00:28.46,0:00:29.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les chromosomes deviennent
+Dialogue: 0,0:00:29.87,0:00:30.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}visibles.
+Dialogue: 0,0:00:30.76,0:00:31.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, le {\c&H66D1FF&}zygotène{\c&HFFFFFF&} :
+Dialogue: 0,0:00:31.79,0:00:33.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les homologues s'apparient,
+Dialogue: 0,0:00:33.24,0:00:34.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grâce aux protéines du complexe
+Dialogue: 0,0:00:34.91,0:00:35.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synaptonémal.
+Dialogue: 0,0:00:36.02,0:00:37.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, le {\c&H66D1FF&}pachytène{\c&HFFFFFF&} :
+Dialogue: 0,0:00:37.02,0:00:38.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le crossing-over, ou enjambement.
+Dialogue: 0,0:00:39.01,0:00:40.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre, le {\c&H66D1FF&}diplotène{\c&HFFFFFF&} :
+Dialogue: 0,0:00:40.21,0:00:41.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le complexe synaptonémal
+Dialogue: 0,0:00:41.51,0:00:42.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disparaît, les chromatides
+Dialogue: 0,0:00:42.93,0:00:44.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}restent attachées aux sites de
+Dialogue: 0,0:00:44.57,0:00:46.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crossing-over, les chiasmas.
+Dialogue: 0,0:00:46.24,0:00:47.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est à ce stade qu'a lieu la
+Dialogue: 0,0:00:47.59,0:00:48.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pause chez la femme.
+Dialogue: 0,0:00:48.92,0:00:50.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq, la {\c&H66D1FF&}diacinèse{\c&HFFFFFF&} :
+Dialogue: 0,0:00:50.12,0:00:51.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dernière condensation,
+Dialogue: 0,0:00:51.43,0:00:52.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disparition du nucléole,
+Dialogue: 0,0:00:52.86,0:00:54.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dispersion de l'enveloppe
+Dialogue: 0,0:00:54.35,0:00:56.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaire, formation du fuseau.
+Dialogue: 0,0:00:56.76,0:00:58.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Léon Zoo Passe Dimanche Dîner” :
+Dialogue: 0,0:00:58.62,0:00:59.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leptotène, zygotène,
+Dialogue: 0,0:00:59.83,0:01:01.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pachytène, diplotène, diacinèse.
+Dialogue: 0,0:01:01.90,0:01:02.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pour les deux D :
+Dialogue: 0,0:01:02.92,0:01:03.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diplo, comme double,
+Dialogue: 0,0:01:03.94,0:01:05.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les homologues encore accrochés
+Dialogue: 0,0:01:05.53,0:01:06.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par les chiasmas ;
+Dialogue: 0,0:01:06.45,0:01:07.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis dia, la fin.
+Dialogue: 0,0:01:07.72,0:01:08.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le sens : zygo,
+Dialogue: 0,0:01:08.62,0:01:09.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme zygote, on s'unit :
+Dialogue: 0,0:01:09.86,0:01:10.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appariement.
+Dialogue: 0,0:01:10.60,0:01:12.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pachy, épais : les chromosomes
+Dialogue: 0,0:01:12.09,0:01:13.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appariés se croisent,
+Dialogue: 0,0:01:13.14,0:01:13.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crossing-over.
+Dialogue: 0,0:01:14.39,0:01:16.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'appariement des homologues est
+Dialogue: 0,0:01:16.08,0:01:17.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}initié par le {\c&H66D1FF&}complexe{\c&HFFFFFF&}
+Dialogue: 0,0:01:17.23,0:01:18.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}synaptonémal{\c&HFFFFFF&} , ou synaptonémique
+Dialogue: 0,0:01:18.91,0:01:20.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: un réseau complexe de protéines
+Dialogue: 0,0:01:20.65,0:01:22.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui collent les chromatides
+Dialogue: 0,0:01:22.07,0:01:23.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues l'une à l'autre.
+Dialogue: 0,0:01:23.89,0:01:25.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est probablement la grande
+Dialogue: 0,0:01:25.34,0:01:26.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}similitude de séquence des
+Dialogue: 0,0:01:26.69,0:01:29.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues, 99,9 %,
+Dialogue: 0,0:01:29.65,0:01:30.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui leur permet de se
+Dialogue: 0,0:01:30.74,0:01:31.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reconnaître.
+Dialogue: 0,0:01:31.76,0:01:33.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans une cellule germinale mâle,
+Dialogue: 0,0:01:33.57,0:01:34.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le Y s'apparie avec le X,
+Dialogue: 0,0:01:34.99,0:01:36.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}car ils ont des régions de
+Dialogue: 0,0:01:36.47,0:01:37.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séquence semblable :
+Dialogue: 0,0:01:37.60,0:01:39.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les régions {\c&H66D1FF&}pseudoautosomales{\c&HFFFFFF&} .
+Dialogue: 0,0:01:39.92,0:01:41.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les crossing-over se forment par
+Dialogue: 0,0:01:41.60,0:01:43.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}coupure et recollage de l'ADN,
+Dialogue: 0,0:01:43.33,0:01:44.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui réunit des chromatides
+Dialogue: 0,0:01:44.69,0:01:45.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues.
+Dialogue: 0,0:01:45.41,0:01:46.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme, on en compte
+Dialogue: 0,0:01:46.60,0:01:47.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ cinquante par cellule.
+Dialogue: 0,0:01:48.11,0:01:49.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette {\c&H66D1FF&}recombinaison{\c&HFFFFFF&} permet
+Dialogue: 0,0:01:49.52,0:01:51.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'échange de matériel génétique
+Dialogue: 0,0:01:51.20,0:01:52.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre homologues.
+Dialogue: 0,0:01:52.52,0:01:54.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la disparition du complexe
+Dialogue: 0,0:01:54.22,0:01:55.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synaptonémal, des chiasmas
+Dialogue: 0,0:01:55.60,0:01:56.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}subsistent aux sites de
+Dialogue: 0,0:01:56.82,0:01:58.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crossing-over : les homologues
+Dialogue: 0,0:01:58.41,0:02:00.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}restent attachés et forment des
+Dialogue: 0,0:02:00.05,0:02:00.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}tétrades{\c&HFFFFFF&} .
+Dialogue: 0,0:02:00.72,0:02:02.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ici, au microscope électronique,
+Dialogue: 0,0:02:02.31,0:02:03.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois chiasmas.
+Dialogue: 0,0:02:03.46,0:02:04.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces structures ont été
+Dialogue: 0,0:02:04.69,0:02:07.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}découvertes en 1909 par Frans
+Dialogue: 0,0:02:07.19,0:02:09.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Alfons Janssens, professeur à l'UCL.
+Dialogue: 0,0:02:09.87,0:02:11.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La suite de la méiose.
+Dialogue: 0,0:02:11.48,0:02:12.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les tétrades de chromosomes
+Dialogue: 0,0:02:12.75,0:02:13.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'alignent.
+Dialogue: 0,0:02:13.67,0:02:15.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromosomes homologues se
+Dialogue: 0,0:02:15.10,0:02:16.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparent, avec leurs segments
+Dialogue: 0,0:02:16.52,0:02:16.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}échangés.
+Dialogue: 0,0:02:17.10,0:02:18.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une membrane nucléaire se
+Dialogue: 0,0:02:18.52,0:02:20.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reforme, puis la cytocinèse.
+Dialogue: 0,0:02:20.50,0:02:22.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Méiose 2 : un nouveau fuseau,
+Dialogue: 0,0:02:22.13,0:02:23.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}perpendiculaire au premier ;
+Dialogue: 0,0:02:23.55,0:02:24.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les chromosomes s'alignent,
+Dialogue: 0,0:02:24.92,0:02:26.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis les chromatides sœurs se
+Dialogue: 0,0:02:26.40,0:02:26.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparent.
+Dialogue: 0,0:02:27.25,0:02:28.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Enfin, la membrane nucléaire se
+Dialogue: 0,0:02:28.96,0:02:30.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reforme, cytocinèse :
+Dialogue: 0,0:02:30.11,0:02:31.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre cellules n,
+Dialogue: 0,0:02:31.10,0:02:32.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux génomes différents.
+Dialogue: 0,0:02:32.92,0:02:34.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La fixation des microtubules aux
+Dialogue: 0,0:02:34.69,0:02:35.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}kinétochores diffère.
+Dialogue: 0,0:02:36.25,0:02:37.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En méiose 1, les kinétochores des
+Dialogue: 0,0:02:37.87,0:02:39.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs fonctionnent
+Dialogue: 0,0:02:39.30,0:02:40.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme une seule unité.
+Dialogue: 0,0:02:40.49,0:02:42.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En méiose 2, ils restent séparés.
+Dialogue: 0,0:02:42.58,0:02:43.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'où : en méiose 1,
+Dialogue: 0,0:02:43.61,0:02:45.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les microtubules ne se fixent que
+Dialogue: 0,0:02:45.33,0:02:46.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un côté de chaque centromère ;
+Dialogue: 0,0:02:46.99,0:02:48.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en méiose 2, ils se fixent sur
+Dialogue: 0,0:02:48.71,0:02:49.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les deux faces.
+Dialogue: 0,0:02:50.04,0:02:51.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : à quel stade a lieu le
+Dialogue: 0,0:02:51.42,0:02:52.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crossing-over ?
+Dialogue: 0,0:02:56.53,0:02:57.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au pachytène.
+Dialogue: 0,0:02:57.56,0:02:58.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au diplotène, on voit les
+Dialogue: 0,0:02:58.78,0:02:59.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chiasmas qui restent,
+Dialogue: 0,0:02:59.81,0:03:01.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et c'est le stade de la pause
+Dialogue: 0,0:03:01.22,0:03:01.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chez la femme.
+Dialogue: 0,0:03:02.47,0:03:03.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:03.54,0:03:04.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la spermatogenèse,
+Dialogue: 0,0:03:04.61,0:03:06.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovogenèse, la diversité
+Dialogue: 0,0:03:06.10,0:03:08.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génétique, et ce qui arrive quand
+Dialogue: 0,0:03:08.06,0:03:09.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la méiose se passe mal.

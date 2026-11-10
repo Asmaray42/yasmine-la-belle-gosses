@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une cellule embryonnaire peut
+Dialogue: 0,0:00:01.78,0:00:03.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}boucler son cycle en environ
+Dialogue: 0,0:00:03.21,0:00:04.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt minutes, une cellule adulte
+Dialogue: 0,0:00:04.89,0:00:06.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en environ vingt-quatre heures.
+Dialogue: 0,0:00:06.61,0:00:08.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pour retenir les cinq phases
+Dialogue: 0,0:00:08.23,0:00:09.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la mitose, le prof donne un
+Dialogue: 0,0:00:09.79,0:00:10.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mot : promettante.
+Dialogue: 0,0:00:11.13,0:00:12.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le cycle
+Dialogue: 0,0:00:12.35,0:00:13.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire, puis la mitose,
+Dialogue: 0,0:00:13.79,0:00:14.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phase par phase.
+Dialogue: 0,0:00:15.20,0:00:16.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellule qui se divise passe
+Dialogue: 0,0:00:16.76,0:00:17.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par plusieurs phases,
+Dialogue: 0,0:00:17.86,0:00:19.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}celles du cycle cellulaire.
+Dialogue: 0,0:00:19.41,0:00:20.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa durée varie : environ vingt
+Dialogue: 0,0:00:20.94,0:00:22.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}minutes pour des cellules
+Dialogue: 0,0:00:22.21,0:00:23.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryonnaires, environ
+Dialogue: 0,0:00:23.33,0:00:24.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt-quatre heures pour des
+Dialogue: 0,0:00:24.76,0:00:25.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules adultes.
+Dialogue: 0,0:00:26.02,0:00:27.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G1 : croissance cellulaire,
+Dialogue: 0,0:00:27.57,0:00:28.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synthèse protéique,
+Dialogue: 0,0:00:28.59,0:00:29.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}production d'organites.
+Dialogue: 0,0:00:29.95,0:00:31.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S : réplication de l'ADN.
+Dialogue: 0,0:00:31.91,0:00:33.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G2 : croissance, contrôle de
+Dialogue: 0,0:00:33.74,0:00:35.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intégrité de l'ADN répliqué,
+Dialogue: 0,0:00:35.63,0:00:37.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}préparation à la mitose.
+Dialogue: 0,0:00:37.15,0:00:38.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La mitose : ségrégation des
+Dialogue: 0,0:00:38.63,0:00:39.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatides sœurs.
+Dialogue: 0,0:00:39.76,0:00:41.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cytocinèse : scission de la
+Dialogue: 0,0:00:41.32,0:00:41.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule.
+Dialogue: 0,0:00:42.29,0:00:44.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le graphique montre la quantité
+Dialogue: 0,0:00:44.01,0:00:45.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}relative d'ADN par cellule.
+Dialogue: 0,0:00:45.82,0:00:46.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En G1, elle vaut un.
+Dialogue: 0,0:00:47.09,0:00:48.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant S, elle monte
+Dialogue: 0,0:00:48.11,0:00:49.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progressivement jusqu'à deux.
+Dialogue: 0,0:00:49.65,0:00:51.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle reste à deux en G2 et
+Dialogue: 0,0:00:51.38,0:00:52.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pendant la mitose,
+Dialogue: 0,0:00:52.41,0:00:53.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis retombe à un à la
+Dialogue: 0,0:00:53.67,0:00:54.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytocinèse.
+Dialogue: 0,0:00:54.87,0:00:56.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La mitose est classiquement
+Dialogue: 0,0:00:56.42,0:00:57.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparée en cinq phases :
+Dialogue: 0,0:00:57.80,0:00:59.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prophase, prométaphase,
+Dialogue: 0,0:00:59.12,0:01:00.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métaphase, anaphase, télophase.
+Dialogue: 0,0:01:01.04,0:01:02.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis vient la cytocinèse.
+Dialogue: 0,0:01:02.83,0:01:04.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour retenir, le cours propose :
+Dialogue: 0,0:01:04.49,0:01:05.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}promettante.
+Dialogue: 0,0:01:05.25,0:01:06.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}PRO, PROMÉ, MÉTA, ANA,
+Dialogue: 0,0:01:06.29,0:01:07.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}TÉLO, qui s'enchaînent dans le mot.
+Dialogue: 0,0:01:08.49,0:01:10.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En G2, l'ADN est déjà répliqué,
+Dialogue: 0,0:01:10.64,0:01:12.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais encore sous forme de
+Dialogue: 0,0:01:12.05,0:01:13.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromatine diffuse.
+Dialogue: 0,0:01:13.52,0:01:15.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les deux centrioles du centrosome
+Dialogue: 0,0:01:15.11,0:01:16.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont répliqués : il y a
+Dialogue: 0,0:01:16.21,0:01:17.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maintenant deux centrosomes.
+Dialogue: 0,0:01:17.70,0:01:19.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des microtubules s'allongent à
+Dialogue: 0,0:01:19.24,0:01:20.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}partir de chacun et forment deux
+Dialogue: 0,0:01:20.89,0:01:21.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structures étoilées,
+Dialogue: 0,0:01:21.92,0:01:22.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}asters{\c&HFFFFFF&} .
+Dialogue: 0,0:01:23.10,0:01:24.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Suivons la mitose.
+Dialogue: 0,0:01:24.60,0:01:26.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prophase : les chromosomes se
+Dialogue: 0,0:01:26.01,0:01:27.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}condensent et deviennent
+Dialogue: 0,0:01:27.18,0:01:28.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}visibles, le ou les nucléoles
+Dialogue: 0,0:01:28.60,0:01:29.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disparaissent.
+Dialogue: 0,0:01:29.43,0:01:30.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les centrosomes s'éloignent,
+Dialogue: 0,0:01:30.91,0:01:32.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les microtubules s'allongent :
+Dialogue: 0,0:01:32.50,0:01:33.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}début du fuseau mitotique.
+Dialogue: 0,0:01:34.01,0:01:35.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cytosquelette se désorganise,
+Dialogue: 0,0:01:35.89,0:01:37.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule s'arrondit,
+Dialogue: 0,0:01:37.18,0:01:39.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le RE et le Golgi se dispersent,
+Dialogue: 0,0:01:39.11,0:01:41.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'enveloppe nucléaire {\c&H66D1FF&}commence{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.04,0:01:41.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à disparaître.
+Dialogue: 0,0:01:42.26,0:01:43.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prométaphase : l'enveloppe
+Dialogue: 0,0:01:43.62,0:01:45.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaire a {\c&H66D1FF&}complètement{\c&HFFFFFF&} disparu.
+Dialogue: 0,0:01:45.48,0:01:47.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les centrosomes sont aux deux pôles.
+Dialogue: 0,0:01:47.24,0:01:48.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les microtubules de kinétochore
+Dialogue: 0,0:01:48.87,0:01:50.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'accrochent aux chromosomes,
+Dialogue: 0,0:01:50.39,0:01:52.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaque chromatide sœur reliée à
+Dialogue: 0,0:01:52.03,0:01:53.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un pôle ; les microtubules
+Dialogue: 0,0:01:53.39,0:01:54.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires, non attachés,
+Dialogue: 0,0:01:54.60,0:01:56.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interagissent avec ceux du pôle
+Dialogue: 0,0:01:56.23,0:01:57.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}opposé et maintiennent le fuseau.
+Dialogue: 0,0:01:58.37,0:02:00.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Métaphase : tous les chromosomes
+Dialogue: 0,0:02:00.09,0:02:01.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont attachés et alignés à
+Dialogue: 0,0:02:01.49,0:02:02.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'équateur, sur la plaque
+Dialogue: 0,0:02:02.84,0:02:03.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métaphasique.
+Dialogue: 0,0:02:03.68,0:02:05.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromatides sœurs font face à
+Dialogue: 0,0:02:05.18,0:02:06.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des pôles différents.
+Dialogue: 0,0:02:06.54,0:02:07.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Anaphase : les cohésines sont
+Dialogue: 0,0:02:07.95,0:02:08.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rapidement dégradées.
+Dialogue: 0,0:02:09.11,0:02:10.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromatides libérées,
+Dialogue: 0,0:02:10.30,0:02:11.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appelées maintenant chromosomes,
+Dialogue: 0,0:02:11.83,0:02:13.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont tirées vers les pôles.
+Dialogue: 0,0:02:13.25,0:02:14.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Poussés par les microtubules
+Dialogue: 0,0:02:14.63,0:02:16.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires, les pôles s'écartent et
+Dialogue: 0,0:02:16.25,0:02:17.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule s'allonge.
+Dialogue: 0,0:02:17.69,0:02:19.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Télophase : les chromosomes se
+Dialogue: 0,0:02:19.42,0:02:21.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}décondensent, des enveloppes
+Dialogue: 0,0:02:21.03,0:02:22.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaires se reforment,
+Dialogue: 0,0:02:22.42,0:02:24.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les nucléoles réapparaissent,
+Dialogue: 0,0:02:24.09,0:02:25.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le Golgi et le RE se reforment,
+Dialogue: 0,0:02:25.93,0:02:27.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le fuseau se désorganise par
+Dialogue: 0,0:02:27.72,0:02:28.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dépolymérisation des
+Dialogue: 0,0:02:28.88,0:02:29.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubules.
+Dialogue: 0,0:02:30.03,0:02:31.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cytocinèse : une ceinture de
+Dialogue: 0,0:02:31.52,0:02:33.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}filaments d'actine se forme au
+Dialogue: 0,0:02:33.13,0:02:34.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}centre et se resserre en un
+Dialogue: 0,0:02:34.57,0:02:35.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sillon de clivage,
+Dialogue: 0,0:02:35.53,0:02:37.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui coupe la cellule en deux.
+Dialogue: 0,0:02:37.64,0:02:38.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:38.88,0:02:40.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“En prophase, l'enveloppe
+Dialogue: 0,0:02:40.15,0:02:41.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaire a complètement disparu”
+Dialogue: 0,0:02:41.86,0:02:43.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux, elle commence à
+Dialogue: 0,0:02:43.08,0:02:43.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disparaître.
+Dialogue: 0,0:02:43.86,0:02:45.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est en prométaphase qu'elle a
+Dialogue: 0,0:02:45.46,0:02:46.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complètement disparu.
+Dialogue: 0,0:02:46.94,0:02:48.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les asters apparaissent en
+Dialogue: 0,0:02:48.23,0:02:49.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métaphase” : faux,
+Dialogue: 0,0:02:49.07,0:02:49.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dès G2.
+Dialogue: 0,0:02:50.01,0:02:51.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La cytocinèse est réalisée par
+Dialogue: 0,0:02:51.57,0:02:52.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des microtubules” :
+Dialogue: 0,0:02:52.51,0:02:54.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, par une ceinture d'actine.
+Dialogue: 0,0:02:54.74,0:02:55.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : à quelle phase les
+Dialogue: 0,0:02:55.85,0:02:57.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cohésines sont-elles dégradées ?
+Dialogue: 0,0:03:01.66,0:03:03.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En anaphase : les chromatides
+Dialogue: 0,0:03:03.08,0:03:04.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}libérées sont tirées vers les pôles.
+Dialogue: 0,0:03:05.40,0:03:06.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:06.39,0:03:08.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les trois points de contrôle du
+Dialogue: 0,0:03:08.09,0:03:09.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cycle, ce qui se passe quand ils
+Dialogue: 0,0:03:09.85,0:03:11.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lâchent, et un médicament issu de
+Dialogue: 0,0:03:11.66,0:03:13.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la pervenche de Madagascar.
