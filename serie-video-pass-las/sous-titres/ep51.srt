@@ -1,0 +1,579 @@
+1
+00:00:00,300 --> 00:00:01,216
+Au troisième jour,
+
+2
+00:00:01,216 --> 00:00:02,845
+on peut retirer une cellule à un
+
+3
+00:00:02,845 --> 00:00:04,067
+embryon pour l'analyser.
+
+4
+00:00:04,207 --> 00:00:05,523
+Et l'embryon continue à se
+
+5
+00:00:05,523 --> 00:00:06,688
+développer normalement.
+
+6
+00:00:06,828 --> 00:00:07,465
+Pourquoi ?
+
+7
+00:00:07,605 --> 00:00:08,875
+Parce que ses cellules sont
+
+8
+00:00:08,875 --> 00:00:09,486
+totipotentes.
+
+9
+00:00:09,886 --> 00:00:11,318
+Au programme : totipotence,
+
+10
+00:00:11,318 --> 00:00:12,908
+pluripotence, cellules souches
+
+11
+00:00:12,908 --> 00:00:14,393
+embryonnaires, et programmes
+
+12
+00:00:14,393 --> 00:00:15,082
+d'expression.
+
+13
+00:00:15,642 --> 00:00:17,205
+Chapitre quatre : différenciation
+
+14
+00:00:17,205 --> 00:00:18,436
+et mouvements cellulaires.
+
+15
+00:00:18,576 --> 00:00:20,207
+Cinq points : la différenciation
+
+16
+00:00:20,207 --> 00:00:21,634
+cellulaire, les morphogènes,
+
+17
+00:00:21,634 --> 00:00:23,163
+la reprogrammation cellulaire,
+
+18
+00:00:23,163 --> 00:00:24,642
+les cellules souches adultes,
+
+19
+00:00:24,642 --> 00:00:26,171
+et les mouvements cellulaires.
+
+20
+00:00:26,731 --> 00:00:28,171
+Le développement de l'embryon
+
+21
+00:00:28,171 --> 00:00:29,263
+implique deux choses :
+
+22
+00:00:29,263 --> 00:00:30,603
+des divisions cellulaires ,
+
+23
+00:00:30,603 --> 00:00:32,142
+qui produisent des milliards de
+
+24
+00:00:32,142 --> 00:00:33,482
+cellules à partir du zygote
+
+25
+00:00:33,482 --> 00:00:34,872
+initial ; et un programme de
+
+26
+00:00:34,872 --> 00:00:36,262
+différenciation cellulaire ,
+
+27
+00:00:36,262 --> 00:00:37,801
+qui génère les différents types
+
+28
+00:00:37,801 --> 00:00:39,142
+cellulaires de l'organisme.
+
+29
+00:00:39,702 --> 00:00:41,270
+Le zygote et les blastomères de
+
+30
+00:00:41,270 --> 00:00:42,890
+la segmentation sont totipotents
+
+31
+00:00:42,890 --> 00:00:44,509
+: ils peuvent générer toutes les
+
+32
+00:00:44,509 --> 00:00:45,623
+cellules de l'embryon,
+
+33
+00:00:45,623 --> 00:00:47,141
+y compris celles du placenta .
+
+34
+00:00:47,541 --> 00:00:48,709
+Dans le blastocyste,
+
+35
+00:00:48,709 --> 00:00:50,111
+il y a déjà une étape de
+
+36
+00:00:50,111 --> 00:00:52,039
+différenciation : les cellules du
+
+37
+00:00:52,039 --> 00:00:53,733
+trophoblaste contribueront au
+
+38
+00:00:53,733 --> 00:00:54,258
+placenta.
+
+39
+00:00:54,658 --> 00:00:55,825
+Les cellules de la masse
+
+40
+00:00:55,825 --> 00:00:57,235
+cellulaire interne produiront
+
+41
+00:00:57,235 --> 00:00:58,304
+l'embryon : elles sont
+
+42
+00:00:58,304 --> 00:00:59,909
+pluripotentes , car elles peuvent
+
+43
+00:00:59,909 --> 00:01:00,978
+générer tous les types
+
+44
+00:01:00,978 --> 00:01:02,193
+cellulaires de l'embryon,
+
+45
+00:01:02,193 --> 00:01:03,263
+mais pas le placenta .
+
+46
+00:01:03,823 --> 00:01:05,517
+La totipotence des blastomères
+
+47
+00:01:05,517 --> 00:01:06,647
+permet le diagnostic
+
+48
+00:01:06,647 --> 00:01:07,720
+pré-implantatoire .
+
+49
+00:01:08,120 --> 00:01:09,302
+Fécondation in vitro,
+
+50
+00:01:09,302 --> 00:01:11,104
+obtention de plusieurs embryons,
+
+51
+00:01:11,104 --> 00:01:12,849
+prélèvement d' un blastomère au
+
+52
+00:01:12,849 --> 00:01:14,594
+jour trois , analyse génétique.
+
+53
+00:01:14,994 --> 00:01:16,150
+Les blastomères restants
+
+54
+00:01:16,150 --> 00:01:17,258
+reprennent néanmoins un
+
+55
+00:01:17,258 --> 00:01:18,270
+développement normal.
+
+56
+00:01:18,410 --> 00:01:20,061
+On sélectionne un embryon sain,
+
+57
+00:01:20,061 --> 00:01:21,925
+transféré dans l'utérus de la mère.
+
+58
+00:01:22,485 --> 00:01:24,113
+Les vrais jumeaux démontrent la
+
+59
+00:01:24,113 --> 00:01:25,740
+pluripotence des cellules de la
+
+60
+00:01:25,740 --> 00:01:27,105
+masse cellulaire interne :
+
+61
+00:01:27,105 --> 00:01:28,312
+ils dérivent du clivage
+
+62
+00:01:28,312 --> 00:01:29,677
+accidentel de cette masse.
+
+63
+00:01:30,077 --> 00:01:31,530
+Les deux groupes formés sont
+
+64
+00:01:31,530 --> 00:01:32,983
+capables de former des fœtus
+
+65
+00:01:32,983 --> 00:01:33,450
+complets.
+
+66
+00:01:33,590 --> 00:01:35,137
+Les jumeaux sont génétiquement
+
+67
+00:01:35,137 --> 00:01:36,478
+identiques, et on parle de
+
+68
+00:01:36,478 --> 00:01:37,562
+jumeaux monozygotes ,
+
+69
+00:01:37,562 --> 00:01:39,367
+car ils proviennent du même zygote.
+
+70
+00:01:39,927 --> 00:01:41,395
+On peut mettre en culture les
+
+71
+00:01:41,395 --> 00:01:42,913
+cellules de la masse interne :
+
+72
+00:01:42,913 --> 00:01:44,330
+ce sont les cellules souches
+
+73
+00:01:44,330 --> 00:01:46,000
+embryonnaires , les cellules E S.
+
+74
+00:01:46,400 --> 00:01:47,525
+Elles conservent leur
+
+75
+00:01:47,525 --> 00:01:49,184
+pluripotence ; en manipulant le
+
+76
+00:01:49,184 --> 00:01:50,148
+milieu de culture,
+
+77
+00:01:50,148 --> 00:01:51,219
+on peut induire leur
+
+78
+00:01:51,219 --> 00:01:52,825
+différenciation vers des types
+
+79
+00:01:52,825 --> 00:01:54,110
+cellulaires spécifiques.
+
+80
+00:01:54,250 --> 00:01:55,650
+Utilisation envisagée en
+
+81
+00:01:55,650 --> 00:01:57,458
+transplantation, pour restaurer
+
+82
+00:01:57,458 --> 00:01:58,741
+des tissus déficients.
+
+83
+00:01:59,301 --> 00:02:01,085
+Thérapie de remplacement pour les
+
+84
+00:02:01,085 --> 00:02:02,437
+traumatismes de la moelle
+
+85
+00:02:02,437 --> 00:02:04,384
+épinière : l'essai clinique OPC1
+
+86
+00:02:04,384 --> 00:02:05,735
+, en cours en Californie,
+
+87
+00:02:05,735 --> 00:02:06,547
+aux États-Unis.
+
+88
+00:02:06,947 --> 00:02:08,063
+Des cellules E S sont
+
+89
+00:02:08,063 --> 00:02:09,606
+différenciées en progéniteurs
+
+90
+00:02:09,606 --> 00:02:10,669
+d'oligodendrocytes ,
+
+91
+00:02:10,669 --> 00:02:12,424
+les cellules qui forment la gaine
+
+92
+00:02:12,424 --> 00:02:13,913
+autour des fibres nerveuses,
+
+93
+00:02:13,913 --> 00:02:15,456
+puis injectées dans la moelle
+
+94
+00:02:15,456 --> 00:02:16,998
+épinière de patients atteints
+
+95
+00:02:16,998 --> 00:02:18,008
+d'une grave lésion.
+
+96
+00:02:18,568 --> 00:02:20,007
+Chaque type cellulaire est
+
+97
+00:02:20,007 --> 00:02:21,556
+caractérisé par un programme
+
+98
+00:02:21,556 --> 00:02:23,382
+d'expression génique spécifique :
+
+99
+00:02:23,382 --> 00:02:25,097
+un ensemble spécifique de gènes
+
+100
+00:02:25,097 --> 00:02:25,595
+exprimés.
+
+101
+00:02:25,995 --> 00:02:27,313
+Au total, environ vingt mille
+
+102
+00:02:27,313 --> 00:02:27,631
+gènes .
+
+103
+00:02:27,771 --> 00:02:29,412
+Une cellule musculaire et une
+
+104
+00:02:29,412 --> 00:02:31,165
+cellule du pancréas ont le même
+
+105
+00:02:31,165 --> 00:02:32,918
+ADN, mais n'expriment pas les
+
+106
+00:02:32,918 --> 00:02:34,163
+mêmes gènes : A R N m,
+
+107
+00:02:34,163 --> 00:02:35,860
+protéine, fonction cellulaire.
+
+108
+00:02:36,420 --> 00:02:37,841
+Dans l'embryon, des cellules
+
+109
+00:02:37,841 --> 00:02:39,110
+inductrices sécrètent des
+
+110
+00:02:39,110 --> 00:02:40,632
+morphogènes : des protéines ou
+
+111
+00:02:40,632 --> 00:02:42,257
+des lipides à action paracrine .
+
+112
+00:02:42,657 --> 00:02:44,286
+Ils se lient à des récepteurs sur
+
+113
+00:02:44,286 --> 00:02:45,569
+les cellules répondeuses ,
+
+114
+00:02:45,569 --> 00:02:47,001
+et y activent des facteurs de
+
+115
+00:02:47,001 --> 00:02:47,741
+transcription .
+
+116
+00:02:48,141 --> 00:02:49,808
+Ceux-ci modifient le programme
+
+117
+00:02:49,808 --> 00:02:51,641
+d'expression génique des cellules
+
+118
+00:02:51,641 --> 00:02:53,363
+répondeuses, ce qui mène à leur
+
+119
+00:02:53,363 --> 00:02:54,251
+différenciation.
+
+120
+00:02:54,811 --> 00:02:55,648
+Trois pièges.
+
+121
+00:02:56,048 --> 00:02:57,306
+“Les cellules de la masse
+
+122
+00:02:57,306 --> 00:02:58,512
+cellulaire interne sont
+
+123
+00:02:58,512 --> 00:02:59,560
+totipotentes” : faux,
+
+124
+00:02:59,560 --> 00:03:00,294
+pluripotentes.
+
+125
+00:03:00,434 --> 00:03:01,949
+Elles ne forment pas le placenta.
+
+126
+00:03:02,349 --> 00:03:04,047
+“Les jumeaux monozygotes prouvent
+
+127
+00:03:04,047 --> 00:03:05,745
+la totipotence” : selon le cours,
+
+128
+00:03:05,745 --> 00:03:07,496
+ils démontrent la pluripotence de
+
+129
+00:03:07,496 --> 00:03:08,982
+la masse cellulaire interne.
+
+130
+00:03:09,382 --> 00:03:10,765
+“Les morphogènes agissent de
+
+131
+00:03:10,765 --> 00:03:11,635
+façon endocrine” :
+
+132
+00:03:11,635 --> 00:03:12,455
+faux, paracrine.
+
+133
+00:03:13,015 --> 00:03:14,039
+Toti, comme “total” :
+
+134
+00:03:14,039 --> 00:03:15,279
+tout, placenta compris.
+
+135
+00:03:15,419 --> 00:03:16,514
+Pluri, comme “plusieurs” :
+
+136
+00:03:16,514 --> 00:03:17,609
+beaucoup, mais pas tout,
+
+137
+00:03:17,609 --> 00:03:18,339
+pas le placenta.
+
+138
+00:03:18,899 --> 00:03:20,191
+Quiz : quelles cellules sont
+
+139
+00:03:20,191 --> 00:03:20,836
+totipotentes ?
+
+140
+00:03:25,236 --> 00:03:26,927
+Le zygote et les blastomères de
+
+141
+00:03:26,927 --> 00:03:27,799
+la segmentation.
+
+142
+00:03:28,359 --> 00:03:29,412
+Prochain épisode :
+
+143
+00:03:29,412 --> 00:03:30,934
+l'organisateur de Spemann,
+
+144
+00:03:30,934 --> 00:03:32,631
+les gradients de morphogènes,
+
+145
+00:03:32,631 --> 00:03:34,562
+le clonage et les cellules i P S.

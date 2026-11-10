@@ -1,0 +1,643 @@
+1
+00:00:00,300 --> 00:00:01,511
+À la quatrième semaine,
+
+2
+00:00:01,511 --> 00:00:03,091
+l'embryon est une crêpe plate.
+
+3
+00:00:03,231 --> 00:00:04,156
+En quelques jours,
+
+4
+00:00:04,156 --> 00:00:05,595
+il se replie sur lui-même et
+
+5
+00:00:05,595 --> 00:00:06,417
+devient un tube.
+
+6
+00:00:06,817 --> 00:00:08,591
+Au programme : les replis latéral
+
+7
+00:00:08,591 --> 00:00:10,364
+et crânio-caudal, puis le devenir
+
+8
+00:00:10,364 --> 00:00:12,030
+de l'endoderme et du mésoderme.
+
+9
+00:00:12,590 --> 00:00:13,943
+Chapitre cinq : l'étape de
+
+10
+00:00:13,943 --> 00:00:15,243
+soulèvement de l'embryon.
+
+11
+00:00:15,383 --> 00:00:17,084
+Quatre points : le soulèvement,
+
+12
+00:00:17,084 --> 00:00:18,894
+les devenirs de l'endoderme et du
+
+13
+00:00:18,894 --> 00:00:20,101
+mésoderme, la symétrie
+
+14
+00:00:20,101 --> 00:00:21,911
+gauche-droite, et la formation du
+
+15
+00:00:21,911 --> 00:00:22,844
+cordon ombilical.
+
+16
+00:00:23,244 --> 00:00:24,202
+Quatrième semaine :
+
+17
+00:00:24,202 --> 00:00:25,614
+les feuillets sont en place,
+
+18
+00:00:25,614 --> 00:00:26,825
+l'organogenèse commence.
+
+19
+00:00:26,965 --> 00:00:28,216
+L'embryon se soulève :
+
+20
+00:00:28,216 --> 00:00:29,240
+transversalement ,
+
+21
+00:00:29,240 --> 00:00:30,775
+le disque devient un tube ;
+
+22
+00:00:30,775 --> 00:00:31,856
+longitudinalement ,
+
+23
+00:00:31,856 --> 00:00:33,277
+les extrémités du tube se
+
+24
+00:00:33,277 --> 00:00:34,699
+replient vers le ventral.
+
+25
+00:00:35,099 --> 00:00:36,365
+C'est dû à la croissance
+
+26
+00:00:36,365 --> 00:00:37,736
+différentielle : le disque
+
+27
+00:00:37,736 --> 00:00:39,002
+embryonnaire et l'amnios
+
+28
+00:00:39,002 --> 00:00:40,162
+continuent de grandir,
+
+29
+00:00:40,162 --> 00:00:41,849
+alors que la vésicule ombilicale
+
+30
+00:00:41,849 --> 00:00:43,009
+n'évolue presque plus.
+
+31
+00:00:43,569 --> 00:00:44,934
+Les extrémités latérales,
+
+32
+00:00:44,934 --> 00:00:46,572
+gauche et droite, du disque se
+
+33
+00:00:46,572 --> 00:00:48,101
+replient vers le bas pour se
+
+34
+00:00:48,101 --> 00:00:49,630
+rejoindre sur ce qui devient
+
+35
+00:00:49,630 --> 00:00:50,394
+l'axe ventral.
+
+36
+00:00:50,794 --> 00:00:52,600
+Le mésoderme de la lame latérale
+
+37
+00:00:52,600 --> 00:00:53,954
+se sépare en deux lames,
+
+38
+00:00:53,954 --> 00:00:55,140
+la somatopleure et la
+
+39
+00:00:55,140 --> 00:00:56,946
+splanchnopleure , qui délimitent
+
+40
+00:00:56,946 --> 00:00:58,131
+une nouvelle cavité :
+
+41
+00:00:58,131 --> 00:00:59,824
+le cœlome intra-embryonnaire .
+
+42
+00:00:59,964 --> 00:01:01,202
+Coupes aux jours vingt-deux et
+
+43
+00:01:01,202 --> 00:01:01,656
+vingt-sept.
+
+44
+00:01:02,216 --> 00:01:03,438
+Dans la partie centrale,
+
+45
+00:01:03,438 --> 00:01:05,016
+coupe A, le repliement resserre
+
+46
+00:01:05,016 --> 00:01:06,187
+la vésicule vitelline :
+
+47
+00:01:06,187 --> 00:01:07,562
+c'est le conduit vitellin .
+
+48
+00:01:07,962 --> 00:01:09,714
+Ailleurs, l'ectoderme de surface
+
+49
+00:01:09,714 --> 00:01:11,466
+se rejoint et se soude sur l'axe
+
+50
+00:01:11,466 --> 00:01:11,905
+ventral.
+
+51
+00:01:12,045 --> 00:01:13,433
+Et l'endoderme se rejoint
+
+52
+00:01:13,433 --> 00:01:15,210
+ventralement pour former un tube
+
+53
+00:01:15,210 --> 00:01:16,988
+, qui préfigure le tube digestif
+
+54
+00:01:16,988 --> 00:01:17,543
+: coupe B.
+
+55
+00:01:17,683 --> 00:01:19,516
+On y voit aussi le mésentère dorsal.
+
+56
+00:01:20,076 --> 00:01:21,424
+Les extrémités latérales
+
+57
+00:01:21,424 --> 00:01:23,221
+fusionnent, sauf au niveau de la
+
+58
+00:01:23,221 --> 00:01:24,344
+vésicule ombilicale.
+
+59
+00:01:24,744 --> 00:01:26,274
+L'ectoderme donne l'épiderme
+
+60
+00:01:26,274 --> 00:01:26,712
+ventral.
+
+61
+00:01:26,852 --> 00:01:28,313
+L'endoderme donne le tube
+
+62
+00:01:28,313 --> 00:01:30,066
+digestif ; il reste un conduit
+
+63
+00:01:30,066 --> 00:01:31,761
+vitellin, qui sera intégré au
+
+64
+00:01:31,761 --> 00:01:32,755
+cordon ombilical.
+
+65
+00:01:32,895 --> 00:01:34,762
+Le mésoderme des lames latérales
+
+66
+00:01:34,762 --> 00:01:35,579
+crée le cœlome
+
+67
+00:01:35,579 --> 00:01:36,687
+intra-embryonnaire,
+
+68
+00:01:36,687 --> 00:01:37,912
+la cavité corporelle.
+
+69
+00:01:38,472 --> 00:01:40,164
+Un repliement s'opère aussi sur
+
+70
+00:01:40,164 --> 00:01:41,311
+l'axe crânio-caudal :
+
+71
+00:01:41,311 --> 00:01:42,675
+des deux côtés, la cavité
+
+72
+00:01:42,675 --> 00:01:44,695
+amniotique s'agrandit vers le centre.
+
+73
+00:01:45,095 --> 00:01:46,619
+Côté crânial, l'ectoderme de
+
+74
+00:01:46,619 --> 00:01:48,416
+surface et le tube neural suivent
+
+75
+00:01:48,416 --> 00:01:49,396
+: la face se forme
+
+76
+00:01:49,396 --> 00:01:51,029
+progressivement, et l' ébauche
+
+77
+00:01:51,029 --> 00:01:52,717
+cardiaque est repoussée dans la
+
+78
+00:01:52,717 --> 00:01:53,697
+région thoracique.
+
+79
+00:01:54,097 --> 00:01:55,755
+Elle est séparée de la région
+
+80
+00:01:55,755 --> 00:01:57,298
+abdominale par une membrane
+
+81
+00:01:57,298 --> 00:01:58,613
+mésodermique, le septum
+
+82
+00:01:58,613 --> 00:02:00,328
+transversum , qui deviendra le
+
+83
+00:02:00,328 --> 00:02:01,014
+diaphragme .
+
+84
+00:02:01,574 --> 00:02:03,046
+Le repliement crânio-caudal
+
+85
+00:02:03,046 --> 00:02:04,682
+participe au rétrécissement du
+
+86
+00:02:04,682 --> 00:02:05,609
+conduit vitellin.
+
+87
+00:02:05,749 --> 00:02:07,210
+Côté caudal, le pédicule de
+
+88
+00:02:07,210 --> 00:02:08,941
+connexion est repoussé contre le
+
+89
+00:02:08,941 --> 00:02:09,861
+conduit vitellin.
+
+90
+00:02:10,261 --> 00:02:11,687
+Une extension de l'endoderme
+
+91
+00:02:11,687 --> 00:02:13,164
+s'enfonce dans le pédicule de
+
+92
+00:02:13,164 --> 00:02:14,845
+connexion : c'est l' allantoïde .
+
+93
+00:02:14,985 --> 00:02:16,351
+Elle disparaîtra à terme ;
+
+94
+00:02:16,351 --> 00:02:17,769
+une partie contribuera à la
+
+95
+00:02:17,769 --> 00:02:18,190
+vessie .
+
+96
+00:02:18,750 --> 00:02:20,483
+L'endoderme donne le tractus
+
+97
+00:02:20,483 --> 00:02:21,845
+digestif, le pancréas,
+
+98
+00:02:21,845 --> 00:02:23,889
+le foie, le tractus respiratoire,
+
+99
+00:02:23,889 --> 00:02:25,498
+le pharynx et la thyroïde.
+
+100
+00:02:25,638 --> 00:02:26,886
+Liste non exhaustive.
+
+101
+00:02:27,446 --> 00:02:29,374
+Le mésoderme de la lame latérale
+
+102
+00:02:29,374 --> 00:02:30,579
+donne : les membres,
+
+103
+00:02:30,579 --> 00:02:32,267
+le derme, la moelle osseuse,
+
+104
+00:02:32,267 --> 00:02:33,954
+le système cardiovasculaire,
+
+105
+00:02:33,954 --> 00:02:35,099
+la cavité pleurale,
+
+106
+00:02:35,099 --> 00:02:36,726
+le péricarde, le péritoine,
+
+107
+00:02:36,726 --> 00:02:38,654
+et le revêtement et la paroi des
+
+108
+00:02:38,654 --> 00:02:40,402
+viscères et du tube digestif.
+
+109
+00:02:40,962 --> 00:02:42,362
+Le mésoderme intermédiaire :
+
+110
+00:02:42,362 --> 00:02:44,063
+il n'est pas présent dans la tête.
+
+111
+00:02:44,203 --> 00:02:45,894
+Sa segmentation débute en partie
+
+112
+00:02:45,894 --> 00:02:47,057
+crâniale, au niveau du
+
+113
+00:02:47,057 --> 00:02:48,326
+pronéphros, et donne les
+
+114
+00:02:48,326 --> 00:02:48,960
+néphrotomes.
+
+115
+00:02:49,100 --> 00:02:50,657
+Il est à l'origine des systèmes
+
+116
+00:02:50,657 --> 00:02:51,712
+urinaire et génital .
+
+117
+00:02:52,272 --> 00:02:53,319
+Mésoderme paraxial,
+
+118
+00:02:53,319 --> 00:02:54,917
+par les somites : les muscles
+
+119
+00:02:54,917 --> 00:02:56,404
+striés, le squelette axial,
+
+120
+00:02:56,404 --> 00:02:57,892
+et les muscles des membres.
+
+121
+00:02:58,292 --> 00:02:59,622
+Mésoderme intermédiaire :
+
+122
+00:02:59,622 --> 00:03:00,899
+reins, système urinaire,
+
+123
+00:03:00,899 --> 00:03:01,804
+organes génitaux.
+
+124
+00:03:02,204 --> 00:03:03,652
+Lame latérale : les os et
+
+125
+00:03:03,652 --> 00:03:05,158
+articulations des membres,
+
+126
+00:03:05,158 --> 00:03:06,549
+le système circulatoire,
+
+127
+00:03:06,549 --> 00:03:07,939
+les séreuses des cavités
+
+128
+00:03:07,939 --> 00:03:09,619
+corporelles et les parois des
+
+129
+00:03:09,619 --> 00:03:10,141
+viscères.
+
+130
+00:03:10,541 --> 00:03:12,349
+Et le processus notochordal donne
+
+131
+00:03:12,349 --> 00:03:13,664
+la notochorde, source de
+
+132
+00:03:13,664 --> 00:03:15,144
+morphogènes, qui disparaît,
+
+133
+00:03:15,144 --> 00:03:16,624
+complètement chez l'enfant.
+
+134
+00:03:16,764 --> 00:03:18,012
+Liste non exhaustive.
+
+135
+00:03:18,572 --> 00:03:19,408
+Trois pièges.
+
+136
+00:03:19,808 --> 00:03:21,283
+“Les muscles des membres viennent
+
+137
+00:03:21,283 --> 00:03:22,251
+de la lame latérale” :
+
+138
+00:03:22,251 --> 00:03:23,081
+faux, des somites.
+
+139
+00:03:23,221 --> 00:03:24,917
+La lame latérale donne les os et
+
+140
+00:03:24,917 --> 00:03:26,507
+les articulations des membres.
+
+141
+00:03:26,907 --> 00:03:28,763
+“Le septum transversum devient le
+
+142
+00:03:28,763 --> 00:03:29,749
+péricarde” : faux,
+
+143
+00:03:29,749 --> 00:03:31,199
+il devient le diaphragme.
+
+144
+00:03:31,599 --> 00:03:33,084
+“Le mésoderme intermédiaire est
+
+145
+00:03:33,084 --> 00:03:34,469
+présent dans la tête” : faux.
+
+146
+00:03:35,029 --> 00:03:36,042
+Somatopleure, “soma”,
+
+147
+00:03:36,042 --> 00:03:37,108
+le corps, la paroi ;
+
+148
+00:03:37,108 --> 00:03:38,547
+splanchnopleure, “splanchna”,
+
+149
+00:03:38,547 --> 00:03:39,240
+les viscères.
+
+150
+00:03:39,380 --> 00:03:40,611
+Entre les deux : le cœlome.
+
+151
+00:03:41,011 --> 00:03:41,907
+Pour les membres :
+
+152
+00:03:41,907 --> 00:03:43,102
+les somites font bouger,
+
+153
+00:03:43,102 --> 00:03:44,497
+la lame latérale fait tenir.
+
+154
+00:03:45,057 --> 00:03:46,567
+Quiz : que devient le septum
+
+155
+00:03:46,567 --> 00:03:47,268
+transversum ?
+
+156
+00:03:51,668 --> 00:03:52,605
+Le diaphragme.
+
+157
+00:03:53,165 --> 00:03:54,084
+Prochain épisode :
+
+158
+00:03:54,084 --> 00:03:55,668
+pourquoi ton cœur est à gauche.
+
+159
+00:03:55,808 --> 00:03:57,241
+L'asymétrie gauche-droite,
+
+160
+00:03:57,241 --> 00:03:58,728
+le flux nodal, et le cordon
+
+161
+00:03:58,728 --> 00:03:59,279
+ombilical.

@@ -1,0 +1,519 @@
+1
+00:00:00,300 --> 00:00:01,539
+Pour construire un organe,
+
+2
+00:00:01,539 --> 00:00:03,018
+les cellules ne font pas que se
+
+3
+00:00:03,018 --> 00:00:04,257
+diviser : elles se plient,
+
+4
+00:00:04,257 --> 00:00:05,354
+s'enroulent, s'étalent,
+
+5
+00:00:05,354 --> 00:00:06,642
+s'intercalent, s'échappent.
+
+6
+00:00:07,042 --> 00:00:08,727
+Au programme : cinq mouvements
+
+7
+00:00:08,727 --> 00:00:10,301
+cellulaires, chacun avec son
+
+8
+00:00:10,301 --> 00:00:11,818
+exemple, puis la transition
+
+9
+00:00:11,818 --> 00:00:13,279
+épithélio-mésenchymateuse.
+
+10
+00:00:13,839 --> 00:00:15,236
+Les mouvements cellulaires
+
+11
+00:00:15,236 --> 00:00:16,579
+servent à positionner les
+
+12
+00:00:16,579 --> 00:00:17,814
+cellules inductrices et
+
+13
+00:00:17,814 --> 00:00:19,265
+répondeuses, et à former la
+
+14
+00:00:19,265 --> 00:00:20,930
+structure tridimensionnelle des
+
+15
+00:00:20,930 --> 00:00:21,360
+organes.
+
+16
+00:00:21,500 --> 00:00:23,012
+Il en existe plusieurs types.
+
+17
+00:00:23,572 --> 00:00:24,535
+L' invagination .
+
+18
+00:00:24,675 --> 00:00:26,127
+Exemple : la formation de la
+
+19
+00:00:26,127 --> 00:00:27,112
+gouttière neurale .
+
+20
+00:00:27,512 --> 00:00:28,736
+Des cellules cuboïdales
+
+21
+00:00:28,736 --> 00:00:30,493
+s'allongent grâce à l'allongement
+
+22
+00:00:30,493 --> 00:00:32,197
+des microtubules, et l'actine se
+
+23
+00:00:32,197 --> 00:00:33,528
+resserre du côté apical :
+
+24
+00:00:33,528 --> 00:00:34,592
+la couche se creuse.
+
+25
+00:00:35,152 --> 00:00:35,977
+L' involution .
+
+26
+00:00:36,117 --> 00:00:37,628
+Exemple : la formation du
+
+27
+00:00:37,628 --> 00:00:39,018
+processus notochordal ,
+
+28
+00:00:39,018 --> 00:00:40,649
+à travers le nœud primitif.
+
+29
+00:00:41,209 --> 00:00:42,868
+L' épibolie et l' intercalation .
+
+30
+00:00:43,008 --> 00:00:44,387
+Exemple : l'agrandissement,
+
+31
+00:00:44,387 --> 00:00:45,358
+dans tous les sens,
+
+32
+00:00:45,358 --> 00:00:46,533
+du disque embryonnaire.
+
+33
+00:00:46,933 --> 00:00:47,931
+Elles impliquent des
+
+34
+00:00:47,931 --> 00:00:49,579
+modifications du cytosquelette et
+
+35
+00:00:49,579 --> 00:00:50,877
+de l'adhérence cellulaire.
+
+36
+00:00:51,437 --> 00:00:52,892
+L' extension convergente .
+
+37
+00:00:53,032 --> 00:00:54,457
+Exemple : l'allongement de
+
+38
+00:00:54,457 --> 00:00:56,265
+l'embryon sur l'axe crânio-caudal
+
+39
+00:00:56,265 --> 00:00:58,073
+, à partir des régions latérales,
+
+40
+00:00:58,073 --> 00:00:59,279
+après la gastrulation.
+
+41
+00:00:59,679 --> 00:01:00,861
+Elle implique aussi des
+
+42
+00:01:00,861 --> 00:01:02,558
+modifications du cytosquelette et
+
+43
+00:01:02,558 --> 00:01:03,895
+de l'adhérence cellulaire.
+
+44
+00:01:04,455 --> 00:01:05,258
+L' ingression .
+
+45
+00:01:05,398 --> 00:01:07,027
+Exemple : la mobilisation des
+
+46
+00:01:07,027 --> 00:01:08,880
+cellules de l'épiblaste à travers
+
+47
+00:01:08,880 --> 00:01:10,003
+la ligne primitive ,
+
+48
+00:01:10,003 --> 00:01:11,632
+pour former l'endoderme et le
+
+49
+00:01:11,632 --> 00:01:12,193
+mésoderme.
+
+50
+00:01:12,593 --> 00:01:14,083
+Elle implique la transition
+
+51
+00:01:14,083 --> 00:01:15,573
+épithélio-mésenchymateuse .
+
+52
+00:01:16,133 --> 00:01:17,384
+Les cinq associations à
+
+53
+00:01:17,384 --> 00:01:17,928
+connaître.
+
+54
+00:01:18,328 --> 00:01:20,125
+Invagination : gouttière neurale.
+
+55
+00:01:20,525 --> 00:01:21,882
+Involution : processus
+
+56
+00:01:21,882 --> 00:01:22,623
+notochordal.
+
+57
+00:01:23,023 --> 00:01:24,497
+Épibolie et intercalation :
+
+58
+00:01:24,497 --> 00:01:25,861
+agrandissement du disque.
+
+59
+00:01:26,261 --> 00:01:27,530
+Extension convergente :
+
+60
+00:01:27,530 --> 00:01:28,963
+allongement crânio-caudal.
+
+61
+00:01:29,363 --> 00:01:30,775
+Ingression : ligne primitive.
+
+62
+00:01:31,335 --> 00:01:32,597
+Deux grands groupes cellulaires.
+
+63
+00:01:32,737 --> 00:01:34,235
+Les cellules épithéliales :
+
+64
+00:01:34,235 --> 00:01:35,456
+polarité apico-basale,
+
+65
+00:01:35,456 --> 00:01:36,953
+elles reposent sur une lame
+
+66
+00:01:36,953 --> 00:01:38,229
+basale, sont cohésives,
+
+67
+00:01:38,229 --> 00:01:39,228
+avec une adhérence
+
+68
+00:01:39,228 --> 00:01:41,003
+intercellulaire latérale par des
+
+69
+00:01:41,003 --> 00:01:42,168
+jonctions adhérentes,
+
+70
+00:01:42,168 --> 00:01:43,555
+serrées et communicantes.
+
+71
+00:01:43,955 --> 00:01:45,688
+Les cellules mésenchymateuses :
+
+72
+00:01:45,688 --> 00:01:47,532
+pas de polarité, pas de jonctions
+
+73
+00:01:47,532 --> 00:01:48,929
+intercellulaires, lâches,
+
+74
+00:01:48,929 --> 00:01:50,382
+et productrices de matrice
+
+75
+00:01:50,382 --> 00:01:51,276
+extracellulaire.
+
+76
+00:01:51,416 --> 00:01:52,735
+Exemple sur la figure :
+
+77
+00:01:52,735 --> 00:01:54,340
+les villosités intestinales.
+
+78
+00:01:54,900 --> 00:01:56,459
+Les cellules épithéliales de
+
+79
+00:01:56,459 --> 00:01:57,907
+l'épiblaste, dans la ligne
+
+80
+00:01:57,907 --> 00:01:59,244
+primitive, deviennent du
+
+81
+00:01:59,244 --> 00:02:00,803
+mésoderme, en quatre étapes.
+
+82
+00:02:01,203 --> 00:02:02,247
+Perte des contacts
+
+83
+00:02:02,247 --> 00:02:03,291
+intercellulaires ;
+
+84
+00:02:03,291 --> 00:02:05,089
+modifications morphologiques et
+
+85
+00:02:05,089 --> 00:02:07,004
+perte de la polarité apico-basale
+
+86
+00:02:07,004 --> 00:02:08,628
+; dégradation de la membrane
+
+87
+00:02:08,628 --> 00:02:09,904
+basale ; et migration.
+
+88
+00:02:10,464 --> 00:02:11,442
+Trois mécanismes.
+
+89
+00:02:11,582 --> 00:02:13,244
+Un : dégradation des protéines
+
+90
+00:02:13,244 --> 00:02:14,518
+des jonctions, serrées,
+
+91
+00:02:14,518 --> 00:02:16,181
+du côté apical, et adhérentes,
+
+92
+00:02:16,181 --> 00:02:17,566
+avec la E-cadhérine et la
+
+93
+00:02:17,566 --> 00:02:18,120
+caténine .
+
+94
+00:02:18,520 --> 00:02:19,619
+Deux : remodelage du
+
+95
+00:02:19,619 --> 00:02:21,158
+cytosquelette : constriction
+
+96
+00:02:21,158 --> 00:02:22,806
+apicale , pour le détachement,
+
+97
+00:02:22,806 --> 00:02:24,235
+et pseudopodes côté basal,
+
+98
+00:02:24,235 --> 00:02:25,224
+pour la migration.
+
+99
+00:02:25,624 --> 00:02:27,381
+Trois : synthèse de protéinases ,
+
+100
+00:02:27,381 --> 00:02:29,084
+qui dégradent la membrane basale
+
+101
+00:02:29,084 --> 00:02:30,681
+et la matrice extracellulaire.
+
+102
+00:02:31,241 --> 00:02:32,078
+Trois pièges.
+
+103
+00:02:32,478 --> 00:02:33,922
+“L'involution forme la gouttière
+
+104
+00:02:33,922 --> 00:02:34,621
+neurale” : faux.
+
+105
+00:02:34,761 --> 00:02:36,245
+Invagination, gouttière ;
+
+106
+00:02:36,245 --> 00:02:37,491
+involution, processus
+
+107
+00:02:37,491 --> 00:02:38,203
+notochordal.
+
+108
+00:02:38,603 --> 00:02:40,212
+“L'extension convergente agrandit
+
+109
+00:02:40,212 --> 00:02:41,721
+le disque dans tous les sens” :
+
+110
+00:02:41,721 --> 00:02:42,877
+faux, c'est l'épibolie.
+
+111
+00:02:43,017 --> 00:02:44,747
+L'extension convergente allonge
+
+112
+00:02:44,747 --> 00:02:45,862
+l'axe crânio-caudal.
+
+113
+00:02:46,262 --> 00:02:47,915
+“Les cellules mésenchymateuses
+
+114
+00:02:47,915 --> 00:02:49,681
+ont une polarité apico-basale” :
+
+115
+00:02:49,681 --> 00:02:51,447
+faux, ce sont les épithéliales.
+
+116
+00:02:52,007 --> 00:02:53,564
+In-va-gination, comme “va dans la
+
+117
+00:02:53,564 --> 00:02:54,051
+gouttière”.
+
+118
+00:02:54,191 --> 00:02:55,453
+In-volution, comme “s'enroule
+
+119
+00:02:55,453 --> 00:02:56,040
+sous le nœud”.
+
+120
+00:02:56,180 --> 00:02:57,963
+Ingression, comme “ingérée par la ligne”.
+
+121
+00:02:58,363 --> 00:02:59,722
+Et “extension convergente” :
+
+122
+00:02:59,722 --> 00:03:01,134
+on converge vers le milieu,
+
+123
+00:03:01,134 --> 00:03:03,226
+donc on s'allonge de la tête à la queue.
+
+124
+00:03:03,786 --> 00:03:05,488
+Quiz : quel mouvement implique la
+
+125
+00:03:05,488 --> 00:03:07,087
+T E M dans la ligne primitive ?
+
+126
+00:03:11,487 --> 00:03:12,290
+L'ingression.
+
+127
+00:03:12,850 --> 00:03:13,786
+Prochain épisode :
+
+128
+00:03:13,786 --> 00:03:15,243
+les replis de l'embryon à la
+
+129
+00:03:15,243 --> 00:03:16,179
+quatrième semaine,
+
+130
+00:03:16,179 --> 00:03:17,636
+et le devenir des feuillets.

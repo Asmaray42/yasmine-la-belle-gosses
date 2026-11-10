@@ -1,0 +1,647 @@
+1
+00:00:00,300 --> 00:00:01,767
+Une cellule de peau adulte,
+
+2
+00:00:01,767 --> 00:00:03,561
+quatre facteurs de transcription,
+
+3
+00:00:03,561 --> 00:00:05,138
+et elle redevient une cellule
+
+4
+00:00:05,138 --> 00:00:06,225
+souche pluripotente.
+
+5
+00:00:06,625 --> 00:00:08,475
+Au programme : l'organisateur de
+
+6
+00:00:08,475 --> 00:00:09,921
+Spemann, les gradients de
+
+7
+00:00:09,921 --> 00:00:11,367
+morphogènes, l'engagement
+
+8
+00:00:11,367 --> 00:00:12,639
+définitif, le clonage,
+
+9
+00:00:12,639 --> 00:00:14,548
+les i P S et les cellules souches
+
+10
+00:00:14,548 --> 00:00:15,010
+adultes.
+
+11
+00:00:15,570 --> 00:00:17,328
+Expérience de Spemann et Mangold,
+
+12
+00:00:17,328 --> 00:00:19,991
+en 1924 , sur des embryons
+
+13
+00:00:19,991 --> 00:00:20,683
+d'amphibiens.
+
+14
+00:00:21,083 --> 00:00:22,677
+On greffe la lèvre dorsale du
+
+15
+00:00:22,677 --> 00:00:24,490
+blastopore , l'équivalent du nœud
+
+16
+00:00:24,490 --> 00:00:26,303
+primitif, dans la partie ventrale
+
+17
+00:00:26,303 --> 00:00:27,347
+d'un autre embryon.
+
+18
+00:00:27,487 --> 00:00:29,019
+Résultat : un axe corporel
+
+19
+00:00:29,019 --> 00:00:30,198
+secondaire se forme,
+
+20
+00:00:30,198 --> 00:00:32,142
+mélange de cellules du donneur et
+
+21
+00:00:32,142 --> 00:00:32,732
+de l'hôte.
+
+22
+00:00:33,132 --> 00:00:35,005
+L'organisateur de Spemann-Mangold
+
+23
+00:00:35,005 --> 00:00:36,310
+est donc un inducteur .
+
+24
+00:00:36,870 --> 00:00:38,018
+Pendant le développement,
+
+25
+00:00:38,018 --> 00:00:39,441
+des gradients de morphogènes se
+
+26
+00:00:39,441 --> 00:00:40,221
+mettent en place.
+
+27
+00:00:40,361 --> 00:00:42,002
+Chaque position dans l'embryon
+
+28
+00:00:42,002 --> 00:00:43,697
+correspond à une combinaison et
+
+29
+00:00:43,697 --> 00:00:45,393
+une concentration particulières
+
+30
+00:00:45,393 --> 00:00:46,213
+de morphogènes.
+
+31
+00:00:46,613 --> 00:00:48,151
+Ainsi, les gradients spécifient
+
+32
+00:00:48,151 --> 00:00:49,590
+le devenir de chaque cellule,
+
+33
+00:00:49,590 --> 00:00:51,128
+en fonction de sa position dans
+
+34
+00:00:51,128 --> 00:00:51,624
+l'embryon.
+
+35
+00:00:52,184 --> 00:00:53,218
+Chez la drosophile,
+
+36
+00:00:53,218 --> 00:00:54,958
+le morphogène Bicoid est produit
+
+37
+00:00:54,958 --> 00:00:56,699
+en gradient, de l'antérieur vers
+
+38
+00:00:56,699 --> 00:00:57,460
+le postérieur.
+
+39
+00:00:57,860 --> 00:00:59,016
+Ce gradient influence
+
+40
+00:00:59,016 --> 00:01:00,832
+l'expression du gène Buttonhead ,
+
+41
+00:01:00,832 --> 00:01:02,593
+exprimé seulement dans une bande
+
+42
+00:01:02,593 --> 00:01:04,299
+de cellules où la concentration
+
+43
+00:01:04,299 --> 00:01:05,564
+de Bicoid est moyenne .
+
+44
+00:01:06,124 --> 00:01:07,902
+En réalité, il s'agit d'un réseau
+
+45
+00:01:07,902 --> 00:01:09,087
+complexe : de nombreux
+
+46
+00:01:09,087 --> 00:01:10,702
+morphogènes interagissent pour
+
+47
+00:01:10,702 --> 00:01:12,103
+définir chaque territoire.
+
+48
+00:01:12,663 --> 00:01:14,056
+Les cellules subissent des
+
+49
+00:01:14,056 --> 00:01:15,343
+changements progressifs,
+
+50
+00:01:15,343 --> 00:01:16,897
+des stades de détermination ,
+
+51
+00:01:16,897 --> 00:01:18,720
+avant leur différenciation finale.
+
+52
+00:01:19,120 --> 00:01:20,738
+Chaque étape est un engagement
+
+53
+00:01:20,738 --> 00:01:22,519
+définitif : impossible de revenir
+
+54
+00:01:22,519 --> 00:01:23,113
+en arrière.
+
+55
+00:01:23,253 --> 00:01:24,727
+Cette irréversibilité est en
+
+56
+00:01:24,727 --> 00:01:25,990
+grande partie liée à des
+
+57
+00:01:25,990 --> 00:01:27,675
+modifications de la chromatine ,
+
+58
+00:01:27,675 --> 00:01:29,359
+qui verrouillent l'état actif ou
+
+59
+00:01:29,359 --> 00:01:30,359
+inactif des gènes :
+
+60
+00:01:30,359 --> 00:01:31,833
+c'est la mémoire nucléaire .
+
+61
+00:01:32,233 --> 00:01:33,706
+L'illustration : une bille qui
+
+62
+00:01:33,706 --> 00:01:35,276
+descend une pente peut emprunter
+
+63
+00:01:35,276 --> 00:01:36,160
+différentes voies,
+
+64
+00:01:36,160 --> 00:01:37,436
+mais ne peut pas remonter.
+
+65
+00:01:37,996 --> 00:01:39,666
+Le noyau d'une cellule adulte,
+
+66
+00:01:39,666 --> 00:01:41,503
+le donneur, peut être reprogrammé
+
+67
+00:01:41,503 --> 00:01:42,894
+si on l'introduit dans le
+
+68
+00:01:42,894 --> 00:01:44,731
+cytoplasme d'un ovocyte énucléé :
+
+69
+00:01:44,731 --> 00:01:46,401
+c'est le transfert nucléaire .
+
+70
+00:01:46,801 --> 00:01:48,189
+Si un embryon se développe,
+
+71
+00:01:48,189 --> 00:01:49,885
+il est génétiquement identique au
+
+72
+00:01:49,885 --> 00:01:50,758
+donneur du noyau.
+
+73
+00:01:51,158 --> 00:01:52,856
+L'embryon peut être implanté dans
+
+74
+00:01:52,856 --> 00:01:54,141
+l'utérus d'une porteuse :
+
+75
+00:01:54,141 --> 00:01:55,376
+c'est le clonage animal,
+
+76
+00:01:55,376 --> 00:01:56,559
+interdit chez l'homme .
+
+77
+00:01:56,699 --> 00:01:58,448
+Ou bien on l'utilise pour établir
+
+78
+00:01:58,448 --> 00:01:59,508
+des cellules souches
+
+79
+00:01:59,508 --> 00:02:01,204
+pluripotentes, pour une thérapie
+
+80
+00:02:01,204 --> 00:02:02,953
+de remplacement chez le donneur :
+
+81
+00:02:02,953 --> 00:02:04,013
+thérapie autologue .
+
+82
+00:02:04,573 --> 00:02:05,464
+Samuel H.
+
+83
+00:02:05,604 --> 00:02:07,221
+Wood, de la société Stemagen,
+
+84
+00:02:07,221 --> 00:02:09,061
+à San Diego : première production
+
+85
+00:02:09,061 --> 00:02:10,845
+d'embryons humains par transfert
+
+86
+00:02:10,845 --> 00:02:12,574
+nucléaire, en 2008 .
+
+87
+00:02:12,974 --> 00:02:14,508
+Il utilise ses propres cellules
+
+88
+00:02:14,508 --> 00:02:15,795
+de peau, des fibroblastes,
+
+89
+00:02:15,795 --> 00:02:17,033
+comme donneuses de noyau.
+
+90
+00:02:17,173 --> 00:02:18,853
+Cinq blastocystes sont obtenus,
+
+91
+00:02:18,853 --> 00:02:20,371
+et détruits après six jours.
+
+92
+00:02:20,771 --> 00:02:23,575
+En 2013 et 2014, deux autres
+
+93
+00:02:23,575 --> 00:02:25,177
+équipes répètent l'expérience et
+
+94
+00:02:25,177 --> 00:02:26,729
+produisent des cellules souches
+
+95
+00:02:26,729 --> 00:02:27,430
+pluripotentes.
+
+96
+00:02:27,990 --> 00:02:29,885
+On peut reprogrammer une cellule
+
+97
+00:02:29,885 --> 00:02:31,661
+différenciée en y introduisant
+
+98
+00:02:31,661 --> 00:02:33,556
+quatre facteurs de transcription
+
+99
+00:02:33,556 --> 00:02:34,740
+de la pluripotence :
+
+100
+00:02:34,740 --> 00:02:37,405
+OCT4, SOX2, KLF4 et MYC .
+
+101
+00:02:37,805 --> 00:02:39,515
+Après sélection, on obtient des
+
+102
+00:02:39,515 --> 00:02:41,004
+cellules dé-différenciées :
+
+103
+00:02:41,004 --> 00:02:42,107
+les cellules souches
+
+104
+00:02:42,107 --> 00:02:43,430
+pluripotentes induites ,
+
+105
+00:02:43,430 --> 00:02:43,982
+les i P S.
+
+106
+00:02:44,382 --> 00:02:45,360
+Elles ont toutes les
+
+107
+00:02:45,360 --> 00:02:46,779
+caractéristiques des cellules
+
+108
+00:02:46,779 --> 00:02:47,855
+souches embryonnaires,
+
+109
+00:02:47,855 --> 00:02:49,372
+et peuvent être redirigées vers
+
+110
+00:02:49,372 --> 00:02:50,840
+différents types cellulaires :
+
+111
+00:02:50,840 --> 00:02:52,112
+thérapies de remplacement.
+
+112
+00:02:52,672 --> 00:02:53,951
+Chez l'adulte, des cellules
+
+113
+00:02:53,951 --> 00:02:55,135
+souches non différenciées
+
+114
+00:02:55,135 --> 00:02:55,656
+persistent.
+
+115
+00:02:55,796 --> 00:02:57,008
+Plusieurs types ont été
+
+116
+00:02:57,008 --> 00:02:57,587
+identifiés.
+
+117
+00:02:57,987 --> 00:02:59,546
+Elles ne se différencient qu'en
+
+118
+00:02:59,546 --> 00:03:00,954
+une variété limitée de types
+
+119
+00:03:00,954 --> 00:03:02,161
+cellulaires : elles sont
+
+120
+00:03:02,161 --> 00:03:03,268
+multipotentes , et non
+
+121
+00:03:03,268 --> 00:03:03,972
+pluripotentes.
+
+122
+00:03:04,372 --> 00:03:05,921
+Elles peuvent se renouveler par
+
+123
+00:03:05,921 --> 00:03:07,270
+division, pour maintenir le
+
+124
+00:03:07,270 --> 00:03:08,568
+stock, ou se différencier.
+
+125
+00:03:08,708 --> 00:03:10,001
+Elles remplacent les cellules
+
+126
+00:03:10,001 --> 00:03:11,248
+trop vieilles ou détruites :
+
+127
+00:03:11,248 --> 00:03:12,629
+c'est l'homéostasie tissulaire.
+
+128
+00:03:13,189 --> 00:03:14,580
+L'échelle des potentialités.
+
+129
+00:03:14,980 --> 00:03:16,294
+Totipotentes : zygote et
+
+130
+00:03:16,294 --> 00:03:17,334
+blastomères ; tout,
+
+131
+00:03:17,334 --> 00:03:18,264
+placenta compris.
+
+132
+00:03:18,664 --> 00:03:20,454
+Pluripotentes : masse cellulaire
+
+133
+00:03:20,454 --> 00:03:22,244
+interne, cellules E S et i P S ;
+
+134
+00:03:22,244 --> 00:03:24,089
+tout l'embryon, sans le placenta.
+
+135
+00:03:24,489 --> 00:03:26,111
+Multipotentes : cellules souches
+
+136
+00:03:26,111 --> 00:03:27,632
+adultes ; une variété limitée.
+
+137
+00:03:28,192 --> 00:03:29,028
+Trois pièges.
+
+138
+00:03:29,428 --> 00:03:30,874
+“Les cellules souches adultes
+
+139
+00:03:30,874 --> 00:03:31,906
+sont pluripotentes” :
+
+140
+00:03:31,906 --> 00:03:32,939
+faux, multipotentes.
+
+141
+00:03:33,339 --> 00:03:34,801
+“Buttonhead est exprimé là où
+
+142
+00:03:34,801 --> 00:03:35,845
+Bicoid est maximal” :
+
+143
+00:03:35,845 --> 00:03:37,150
+faux, là où il est moyen.
+
+144
+00:03:37,550 --> 00:03:39,073
+“Les i P S sont obtenues par
+
+145
+00:03:39,073 --> 00:03:40,257
+transfert nucléaire” :
+
+146
+00:03:40,257 --> 00:03:42,062
+faux, par introduction de quatre
+
+147
+00:03:42,062 --> 00:03:43,754
+facteurs de transcription dans
+
+148
+00:03:43,754 --> 00:03:44,826
+une cellule adulte.
+
+149
+00:03:45,386 --> 00:03:47,729
+Les quatre facteurs des i P S :
+
+150
+00:03:47,729 --> 00:03:49,014
+“OSKM”, comme Oct4,
+
+151
+00:03:49,014 --> 00:03:50,224
+Sox2, Klf4, Myc.
+
+152
+00:03:50,364 --> 00:03:51,521
+Trois portent un chiffre,
+
+153
+00:03:51,521 --> 00:03:52,539
+quatre, deux, quatre ;
+
+154
+00:03:52,539 --> 00:03:53,048
+Myc, aucun.
+
+155
+00:03:53,608 --> 00:03:54,979
+Quiz : comment qualifie-t-on les
+
+156
+00:03:54,979 --> 00:03:56,093
+cellules souches adultes ?
+
+157
+00:04:00,493 --> 00:04:01,871
+Multipotentes : une variété
+
+158
+00:04:01,871 --> 00:04:03,352
+limitée de types cellulaires.
+
+159
+00:04:03,912 --> 00:04:04,890
+Prochain épisode :
+
+160
+00:04:04,890 --> 00:04:06,628
+les mouvements cellulaires et la
+
+161
+00:04:06,628 --> 00:04:07,171
+transition
+
+162
+00:04:07,171 --> 00:04:08,584
+épithélio-mésenchymateuse.

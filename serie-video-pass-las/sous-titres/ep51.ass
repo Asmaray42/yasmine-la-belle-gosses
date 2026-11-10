@@ -1,0 +1,158 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au troisième jour,
+Dialogue: 0,0:00:01.22,0:00:02.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on peut retirer une cellule à un
+Dialogue: 0,0:00:02.85,0:00:04.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryon pour l'analyser.
+Dialogue: 0,0:00:04.21,0:00:05.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et l'embryon continue à se
+Dialogue: 0,0:00:05.52,0:00:06.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développer normalement.
+Dialogue: 0,0:00:06.83,0:00:07.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pourquoi ?
+Dialogue: 0,0:00:07.61,0:00:08.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Parce que ses cellules sont
+Dialogue: 0,0:00:08.88,0:00:09.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}totipotentes.
+Dialogue: 0,0:00:09.89,0:00:11.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : totipotence,
+Dialogue: 0,0:00:11.32,0:00:12.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluripotence, cellules souches
+Dialogue: 0,0:00:12.91,0:00:14.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryonnaires, et programmes
+Dialogue: 0,0:00:14.39,0:00:15.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'expression.
+Dialogue: 0,0:00:15.64,0:00:17.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre quatre : différenciation
+Dialogue: 0,0:00:17.21,0:00:18.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et mouvements cellulaires.
+Dialogue: 0,0:00:18.58,0:00:20.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq points : la différenciation
+Dialogue: 0,0:00:20.21,0:00:21.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire, les morphogènes,
+Dialogue: 0,0:00:21.63,0:00:23.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la reprogrammation cellulaire,
+Dialogue: 0,0:00:23.16,0:00:24.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules souches adultes,
+Dialogue: 0,0:00:24.64,0:00:26.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les mouvements cellulaires.
+Dialogue: 0,0:00:26.73,0:00:28.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le développement de l'embryon
+Dialogue: 0,0:00:28.17,0:00:29.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}implique deux choses :
+Dialogue: 0,0:00:29.26,0:00:30.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}divisions{\c&HFFFFFF&} {\c&H66D1FF&}cellulaires{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:30.60,0:00:32.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui produisent des milliards de
+Dialogue: 0,0:00:32.14,0:00:33.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules à partir du zygote
+Dialogue: 0,0:00:33.48,0:00:34.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}initial ; et un {\c&H66D1FF&}programme{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.87,0:00:36.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}différenciation{\c&HFFFFFF&} {\c&H66D1FF&}cellulaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:36.26,0:00:37.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui génère les différents types
+Dialogue: 0,0:00:37.80,0:00:39.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires de l'organisme.
+Dialogue: 0,0:00:39.70,0:00:41.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le zygote et les blastomères de
+Dialogue: 0,0:00:41.27,0:00:42.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la segmentation sont {\c&H66D1FF&}totipotents{\c&HFFFFFF&}
+Dialogue: 0,0:00:42.89,0:00:44.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: ils peuvent générer toutes les
+Dialogue: 0,0:00:44.51,0:00:45.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules de l'embryon,
+Dialogue: 0,0:00:45.62,0:00:47.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}y{\c&HFFFFFF&} {\c&H66D1FF&}compris{\c&HFFFFFF&} {\c&H66D1FF&}celles{\c&HFFFFFF&} {\c&H66D1FF&}du{\c&HFFFFFF&} {\c&H66D1FF&}placenta{\c&HFFFFFF&} .
+Dialogue: 0,0:00:47.54,0:00:48.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le blastocyste,
+Dialogue: 0,0:00:48.71,0:00:50.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y a déjà une étape de
+Dialogue: 0,0:00:50.11,0:00:52.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciation : les cellules du
+Dialogue: 0,0:00:52.04,0:00:53.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trophoblaste contribueront au
+Dialogue: 0,0:00:53.73,0:00:54.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta.
+Dialogue: 0,0:00:54.66,0:00:55.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules de la masse
+Dialogue: 0,0:00:55.83,0:00:57.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire interne produiront
+Dialogue: 0,0:00:57.24,0:00:58.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon : elles sont
+Dialogue: 0,0:00:58.30,0:00:59.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pluripotentes{\c&HFFFFFF&} , car elles peuvent
+Dialogue: 0,0:00:59.91,0:01:00.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}générer tous les types
+Dialogue: 0,0:01:00.98,0:01:02.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires de l'embryon,
+Dialogue: 0,0:01:02.19,0:01:03.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}mais{\c&HFFFFFF&} {\c&H66D1FF&}pas{\c&HFFFFFF&} {\c&H66D1FF&}le{\c&HFFFFFF&} {\c&H66D1FF&}placenta{\c&HFFFFFF&} .
+Dialogue: 0,0:01:03.82,0:01:05.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La totipotence des blastomères
+Dialogue: 0,0:01:05.52,0:01:06.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}permet le {\c&H66D1FF&}diagnostic{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.65,0:01:07.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pré-implantatoire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:08.12,0:01:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fécondation in vitro,
+Dialogue: 0,0:01:09.30,0:01:11.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}obtention de plusieurs embryons,
+Dialogue: 0,0:01:11.10,0:01:12.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prélèvement d' {\c&H66D1FF&}un{\c&HFFFFFF&} {\c&H66D1FF&}blastomère{\c&HFFFFFF&} {\c&H66D1FF&}au{\c&HFFFFFF&}
+Dialogue: 0,0:01:12.85,0:01:14.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}jour{\c&HFFFFFF&} {\c&H66D1FF&}trois{\c&HFFFFFF&} , analyse génétique.
+Dialogue: 0,0:01:14.99,0:01:16.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les blastomères restants
+Dialogue: 0,0:01:16.15,0:01:17.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reprennent néanmoins un
+Dialogue: 0,0:01:17.26,0:01:18.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement normal.
+Dialogue: 0,0:01:18.41,0:01:20.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On sélectionne un embryon sain,
+Dialogue: 0,0:01:20.06,0:01:21.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transféré dans l'utérus de la mère.
+Dialogue: 0,0:01:22.49,0:01:24.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les vrais jumeaux démontrent la
+Dialogue: 0,0:01:24.11,0:01:25.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pluripotence{\c&HFFFFFF&} des cellules de la
+Dialogue: 0,0:01:25.74,0:01:27.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}masse cellulaire interne :
+Dialogue: 0,0:01:27.11,0:01:28.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils dérivent du {\c&H66D1FF&}clivage{\c&HFFFFFF&}
+Dialogue: 0,0:01:28.31,0:01:29.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}accidentel{\c&HFFFFFF&} de cette masse.
+Dialogue: 0,0:01:30.08,0:01:31.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les deux groupes formés sont
+Dialogue: 0,0:01:31.53,0:01:32.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}capables de former des fœtus
+Dialogue: 0,0:01:32.98,0:01:33.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complets.
+Dialogue: 0,0:01:33.59,0:01:35.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les jumeaux sont génétiquement
+Dialogue: 0,0:01:35.14,0:01:36.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques, et on parle de
+Dialogue: 0,0:01:36.48,0:01:37.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jumeaux {\c&H66D1FF&}monozygotes{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:37.56,0:01:39.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}car ils proviennent du même zygote.
+Dialogue: 0,0:01:39.93,0:01:41.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On peut mettre en culture les
+Dialogue: 0,0:01:41.40,0:01:42.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules de la masse interne :
+Dialogue: 0,0:01:42.91,0:01:44.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont les {\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}souches{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.33,0:01:46.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}embryonnaires{\c&HFFFFFF&} , les cellules E S.
+Dialogue: 0,0:01:46.40,0:01:47.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles conservent leur
+Dialogue: 0,0:01:47.53,0:01:49.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluripotence ; en manipulant le
+Dialogue: 0,0:01:49.18,0:01:50.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}milieu de culture,
+Dialogue: 0,0:01:50.15,0:01:51.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on peut induire leur
+Dialogue: 0,0:01:51.22,0:01:52.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciation vers des types
+Dialogue: 0,0:01:52.83,0:01:54.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires spécifiques.
+Dialogue: 0,0:01:54.25,0:01:55.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Utilisation envisagée en
+Dialogue: 0,0:01:55.65,0:01:57.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transplantation, pour restaurer
+Dialogue: 0,0:01:57.46,0:01:58.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des tissus déficients.
+Dialogue: 0,0:01:59.30,0:02:01.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Thérapie de remplacement pour les
+Dialogue: 0,0:02:01.09,0:02:02.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}traumatismes de la moelle
+Dialogue: 0,0:02:02.44,0:02:04.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épinière : l'essai clinique {\c&H66D1FF&}OPC1{\c&HFFFFFF&}
+Dialogue: 0,0:02:04.38,0:02:05.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, en cours en Californie,
+Dialogue: 0,0:02:05.74,0:02:06.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux États-Unis.
+Dialogue: 0,0:02:06.95,0:02:08.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des cellules E S sont
+Dialogue: 0,0:02:08.06,0:02:09.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciées en {\c&H66D1FF&}progéniteurs{\c&HFFFFFF&}
+Dialogue: 0,0:02:09.61,0:02:10.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}d'oligodendrocytes{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:10.67,0:02:12.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules qui forment la gaine
+Dialogue: 0,0:02:12.42,0:02:13.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autour des fibres nerveuses,
+Dialogue: 0,0:02:13.91,0:02:15.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis injectées dans la moelle
+Dialogue: 0,0:02:15.46,0:02:17.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épinière de patients atteints
+Dialogue: 0,0:02:17.00,0:02:18.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une grave lésion.
+Dialogue: 0,0:02:18.57,0:02:20.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque type cellulaire est
+Dialogue: 0,0:02:20.01,0:02:21.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractérisé par un {\c&H66D1FF&}programme{\c&HFFFFFF&}
+Dialogue: 0,0:02:21.56,0:02:23.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}d'expression{\c&HFFFFFF&} {\c&H66D1FF&}génique{\c&HFFFFFF&} spécifique :
+Dialogue: 0,0:02:23.38,0:02:25.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un ensemble spécifique de gènes
+Dialogue: 0,0:02:25.10,0:02:25.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exprimés.
+Dialogue: 0,0:02:26.00,0:02:27.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au total, environ {\c&H66D1FF&}vingt{\c&HFFFFFF&} {\c&H66D1FF&}mille{\c&HFFFFFF&}
+Dialogue: 0,0:02:27.31,0:02:27.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}gènes{\c&HFFFFFF&} .
+Dialogue: 0,0:02:27.77,0:02:29.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une cellule musculaire et une
+Dialogue: 0,0:02:29.41,0:02:31.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule du pancréas ont le même
+Dialogue: 0,0:02:31.17,0:02:32.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ADN, mais n'expriment pas les
+Dialogue: 0,0:02:32.92,0:02:34.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mêmes gènes : A R N m,
+Dialogue: 0,0:02:34.16,0:02:35.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine, fonction cellulaire.
+Dialogue: 0,0:02:36.42,0:02:37.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'embryon, des {\c&H66D1FF&}cellules{\c&HFFFFFF&}
+Dialogue: 0,0:02:37.84,0:02:39.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}inductrices{\c&HFFFFFF&} sécrètent des
+Dialogue: 0,0:02:39.11,0:02:40.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}morphogènes{\c&HFFFFFF&} : des protéines ou
+Dialogue: 0,0:02:40.63,0:02:42.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des lipides à action {\c&H66D1FF&}paracrine{\c&HFFFFFF&} .
+Dialogue: 0,0:02:42.66,0:02:44.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils se lient à des récepteurs sur
+Dialogue: 0,0:02:44.29,0:02:45.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}répondeuses{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:45.57,0:02:47.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et y activent des {\c&H66D1FF&}facteurs{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:02:47.00,0:02:47.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}transcription{\c&HFFFFFF&} .
+Dialogue: 0,0:02:48.14,0:02:49.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ceux-ci modifient le programme
+Dialogue: 0,0:02:49.81,0:02:51.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'expression génique des cellules
+Dialogue: 0,0:02:51.64,0:02:53.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}répondeuses, ce qui mène à leur
+Dialogue: 0,0:02:53.36,0:02:54.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciation.
+Dialogue: 0,0:02:54.81,0:02:55.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:56.05,0:02:57.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les cellules de la masse
+Dialogue: 0,0:02:57.31,0:02:58.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire interne sont
+Dialogue: 0,0:02:58.51,0:02:59.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}totipotentes” : faux,
+Dialogue: 0,0:02:59.56,0:03:00.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluripotentes.
+Dialogue: 0,0:03:00.43,0:03:01.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles ne forment pas le placenta.
+Dialogue: 0,0:03:02.35,0:03:04.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les jumeaux monozygotes prouvent
+Dialogue: 0,0:03:04.05,0:03:05.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la totipotence” : selon le cours,
+Dialogue: 0,0:03:05.75,0:03:07.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils démontrent la pluripotence de
+Dialogue: 0,0:03:07.50,0:03:08.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la masse cellulaire interne.
+Dialogue: 0,0:03:09.38,0:03:10.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les morphogènes agissent de
+Dialogue: 0,0:03:10.77,0:03:11.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}façon endocrine” :
+Dialogue: 0,0:03:11.64,0:03:12.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, paracrine.
+Dialogue: 0,0:03:13.02,0:03:14.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Toti, comme “total” :
+Dialogue: 0,0:03:14.04,0:03:15.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tout, placenta compris.
+Dialogue: 0,0:03:15.42,0:03:16.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pluri, comme “plusieurs” :
+Dialogue: 0,0:03:16.51,0:03:17.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}beaucoup, mais pas tout,
+Dialogue: 0,0:03:17.61,0:03:18.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas le placenta.
+Dialogue: 0,0:03:18.90,0:03:20.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quelles cellules sont
+Dialogue: 0,0:03:20.19,0:03:20.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}totipotentes ?
+Dialogue: 0,0:03:25.24,0:03:26.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le zygote et les blastomères de
+Dialogue: 0,0:03:26.93,0:03:27.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la segmentation.
+Dialogue: 0,0:03:28.36,0:03:29.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:29.41,0:03:30.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organisateur de Spemann,
+Dialogue: 0,0:03:30.93,0:03:32.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les gradients de morphogènes,
+Dialogue: 0,0:03:32.63,0:03:34.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le clonage et les cellules i P S.

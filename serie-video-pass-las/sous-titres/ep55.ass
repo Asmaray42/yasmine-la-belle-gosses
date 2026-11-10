@@ -1,0 +1,127 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ton cœur est à gauche parce que,
+Dialogue: 0,0:00:01.91,0:00:03.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'embryon, de minuscules
+Dialogue: 0,0:00:03.37,0:00:04.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cils ont fait tourbillonner un
+Dialogue: 0,0:00:04.88,0:00:06.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liquide vers la gauche.
+Dialogue: 0,0:00:06.44,0:00:08.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les signaux du
+Dialogue: 0,0:00:08.16,0:00:09.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nœud primitif, la souris situs
+Dialogue: 0,0:00:09.94,0:00:11.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inversus, le syndrome de
+Dialogue: 0,0:00:11.36,0:00:12.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Kartagener, le flux nodal,
+Dialogue: 0,0:00:12.91,0:00:14.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le cordon ombilical.
+Dialogue: 0,0:00:14.83,0:00:16.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plusieurs structures anatomiques
+Dialogue: 0,0:00:16.56,0:00:17.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}présentent une asymétrie
+Dialogue: 0,0:00:17.87,0:00:19.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gauche-droite : le cœur,
+Dialogue: 0,0:00:19.17,0:00:20.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les poumons, le foie,
+Dialogue: 0,0:00:20.30,0:00:21.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le pancréas, l'estomac,
+Dialogue: 0,0:00:21.55,0:00:22.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intestin.
+Dialogue: 0,0:00:22.71,0:00:24.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'asymétrie est induite {\c&H66D1FF&}dès{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.34,0:00:25.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}gastrulation{\c&HFFFFFF&} , par des signaux
+Dialogue: 0,0:00:25.97,0:00:27.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}asymétriques provenant du {\c&H66D1FF&}nœud{\c&HFFFFFF&}
+Dialogue: 0,0:00:27.61,0:00:28.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}primitif{\c&HFFFFFF&} .
+Dialogue: 0,0:00:28.55,0:00:30.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Selon le cours, le facteur
+Dialogue: 0,0:00:30.00,0:00:32.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrété {\c&H66D1FF&}Shh{\c&HFFFFFF&} , Sonic hedgehog,
+Dialogue: 0,0:00:32.23,0:00:33.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est plus concentré à gauche.
+Dialogue: 0,0:00:33.93,0:00:36.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Shh induit {\c&H66D1FF&}Nodal{\c&HFFFFFF&} dans la partie
+Dialogue: 0,0:00:36.11,0:00:36.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gauche du nœud.
+Dialogue: 0,0:00:37.28,0:00:38.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Nodal induit Nodal,
+Dialogue: 0,0:00:38.30,0:00:39.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par une boucle de rétroaction,
+Dialogue: 0,0:00:39.90,0:00:42.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et {\c&H66D1FF&}Lefty2{\c&HFFFFFF&} , dans le mésoderme gauche.
+Dialogue: 0,0:00:42.22,0:00:44.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Enfin, Nodal et Lefty2 induisent
+Dialogue: 0,0:00:44.15,0:00:45.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Pitx2{\c&HFFFFFF&} , un facteur de
+Dialogue: 0,0:00:45.50,0:00:46.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription.
+Dialogue: 0,0:00:46.81,0:00:47.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comment les facteurs se
+Dialogue: 0,0:00:47.89,0:00:49.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}répartissent-ils asymétriquement
+Dialogue: 0,0:00:49.40,0:00:50.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le nœud ?
+Dialogue: 0,0:00:50.20,0:00:51.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un modèle de souris avec {\c&H66D1FF&}situs{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.97,0:00:53.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}inversus{\c&HFFFFFF&} , organes inversés,
+Dialogue: 0,0:00:53.63,0:00:55.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porte une mutation dans le gène
+Dialogue: 0,0:00:55.45,0:00:55.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Lrd{\c&HFFFFFF&} .
+Dialogue: 0,0:00:56.27,0:00:57.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lrd est apparenté aux {\c&H66D1FF&}dynéines{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:57.98,0:00:59.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines motrices impliquées
+Dialogue: 0,0:00:59.64,0:01:01.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans les mouvements ciliaires.
+Dialogue: 0,0:01:01.71,0:01:03.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme, le {\c&H66D1FF&}syndrome{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:01:03.34,0:01:04.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Kartagener{\c&HFFFFFF&} associe un situs
+Dialogue: 0,0:01:04.91,0:01:06.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inversus, des pathologies
+Dialogue: 0,0:01:06.37,0:01:07.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiratoires dues à une
+Dialogue: 0,0:01:07.76,0:01:08.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dyskinésie ciliaire,
+Dialogue: 0,0:01:08.93,0:01:10.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une motilité réduite des
+Dialogue: 0,0:01:10.50,0:01:11.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes.
+Dialogue: 0,0:01:11.77,0:01:13.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est une maladie génétique à
+Dialogue: 0,0:01:13.31,0:01:14.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmission {\c&H66D1FF&}récessive{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:14.58,0:01:16.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}due à des mutations dans des
+Dialogue: 0,0:01:16.07,0:01:17.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gènes de dynéines.
+Dialogue: 0,0:01:17.58,0:01:18.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le nœud primitif,
+Dialogue: 0,0:01:18.73,0:01:20.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}monocils{\c&HFFFFFF&} sont présents à la
+Dialogue: 0,0:01:20.35,0:01:21.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}surface des cellules.
+Dialogue: 0,0:01:21.85,0:01:23.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Seules les cellules {\c&H66D1FF&}centrales{\c&HFFFFFF&}
+Dialogue: 0,0:01:23.35,0:01:25.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}expriment Lrd, qui actionne un
+Dialogue: 0,0:01:25.00,0:01:26.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mouvement {\c&H66D1FF&}circulaire{\c&HFFFFFF&} des cils,
+Dialogue: 0,0:01:26.55,0:01:28.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entraînant un {\c&H66D1FF&}flux{\c&HFFFFFF&} {\c&H66D1FF&}vers{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}gauche{\c&HFFFFFF&} .
+Dialogue: 0,0:01:28.50,0:01:29.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la {\c&H66D1FF&}théorie{\c&HFFFFFF&} {\c&H66D1FF&}du{\c&HFFFFFF&} {\c&H66D1FF&}flux{\c&HFFFFFF&} {\c&H66D1FF&}nodal{\c&HFFFFFF&} .
+Dialogue: 0,0:01:30.51,0:01:32.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les monocils actifs au centre du
+Dialogue: 0,0:01:32.27,0:01:33.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nœud créent un flux de
+Dialogue: 0,0:01:33.48,0:01:35.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}morphogènes, {\c&H66D1FF&}Shh{\c&HFFFFFF&} et {\c&H66D1FF&}acide{\c&HFFFFFF&}
+Dialogue: 0,0:01:35.46,0:01:37.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}rétinoïque{\c&HFFFFFF&} , vers la gauche.
+Dialogue: 0,0:01:37.56,0:01:38.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chaîne complète.
+Dialogue: 0,0:01:39.06,0:01:40.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lrd, une dynéine, fait tourner
+Dialogue: 0,0:01:40.82,0:01:42.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les monocils centraux.
+Dialogue: 0,0:01:42.43,0:01:44.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le flux nodal pousse Shh et
+Dialogue: 0,0:01:44.35,0:01:46.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acide rétinoïque vers la gauche.
+Dialogue: 0,0:01:46.47,0:01:48.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Shh induit Nodal à gauche,
+Dialogue: 0,0:01:48.36,0:01:49.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis Nodal et Lefty2.
+Dialogue: 0,0:01:50.04,0:01:51.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et Pitx2, facteur de
+Dialogue: 0,0:01:51.31,0:01:53.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription, programme le côté gauche.
+Dialogue: 0,0:01:53.99,0:01:55.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À terme, la cavité amniotique
+Dialogue: 0,0:01:55.57,0:01:57.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entourera complètement l'embryon.
+Dialogue: 0,0:01:57.51,0:01:58.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le conduit vitellin et le
+Dialogue: 0,0:01:58.81,0:02:00.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pédicule de connexion s'allongent
+Dialogue: 0,0:02:00.53,0:02:02.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et sont entièrement recouverts
+Dialogue: 0,0:02:02.10,0:02:03.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par l'amnios, qui forme une gaine.
+Dialogue: 0,0:02:04.27,0:02:05.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'amnios, le conduit vitellin,
+Dialogue: 0,0:02:05.83,0:02:07.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le pédicule de connexion,
+Dialogue: 0,0:02:07.30,0:02:08.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec ses vaisseaux sanguins,
+Dialogue: 0,0:02:08.76,0:02:10.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}forment le {\c&H66D1FF&}cordon{\c&HFFFFFF&} {\c&H66D1FF&}ombilical{\c&HFFFFFF&} .
+Dialogue: 0,0:02:10.42,0:02:11.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Figure à la dixième semaine.
+Dialogue: 0,0:02:12.40,0:02:13.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après quatre semaines,
+Dialogue: 0,0:02:13.58,0:02:15.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon prend une forme qui
+Dialogue: 0,0:02:15.15,0:02:16.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}laisse présager l'apparence de
+Dialogue: 0,0:02:16.76,0:02:17.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'individu à venir.
+Dialogue: 0,0:02:17.93,0:02:19.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À ce stade, il ne mesure {\c&H66D1FF&}pas{\c&HFFFFFF&} {\c&H66D1FF&}plus{\c&HFFFFFF&}
+Dialogue: 0,0:02:19.52,0:02:20.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}cinq{\c&HFFFFFF&} {\c&H66D1FF&}millimètres{\c&HFFFFFF&} .
+Dialogue: 0,0:02:20.93,0:02:22.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur cette image de microscopie
+Dialogue: 0,0:02:22.75,0:02:24.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}électronique à balayage,
+Dialogue: 0,0:02:24.20,0:02:25.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cavité amniotique a été
+Dialogue: 0,0:02:25.78,0:02:27.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enlevée, mais la vésicule
+Dialogue: 0,0:02:27.29,0:02:28.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vitelline a été préservée.
+Dialogue: 0,0:02:29.43,0:02:30.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:30.66,0:02:32.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Pitx2 est un morphogène sécrété”
+Dialogue: 0,0:02:32.55,0:02:34.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux, c'est un facteur de
+Dialogue: 0,0:02:34.00,0:02:34.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription.
+Dialogue: 0,0:02:35.16,0:02:36.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Toutes les cellules du nœud
+Dialogue: 0,0:02:36.49,0:02:37.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}expriment Lrd” : faux,
+Dialogue: 0,0:02:37.62,0:02:39.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}seulement les cellules centrales.
+Dialogue: 0,0:02:39.65,0:02:41.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le syndrome de Kartagener est
+Dialogue: 0,0:02:41.17,0:02:42.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dominant” : faux, récessif.
+Dialogue: 0,0:02:43.08,0:02:44.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cascade gauche en quatre mots
+Dialogue: 0,0:02:44.75,0:02:46.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: “Sonic Nage Lentement à
+Dialogue: 0,0:02:46.00,0:02:46.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Gauche”.
+Dialogue: 0,0:02:46.50,0:02:48.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Shh, Nodal, Lefty2,
+Dialogue: 0,0:02:48.23,0:02:49.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pitx2… et le tout à gauche.
+Dialogue: 0,0:02:50.38,0:02:51.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : dans quel sens va le flux
+Dialogue: 0,0:02:51.96,0:02:52.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nodal ?
+Dialogue: 0,0:02:56.71,0:02:57.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vers la gauche.
+Dialogue: 0,0:02:58.16,0:02:59.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:59.07,0:03:00.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les principes de l'organogenèse,
+Dialogue: 0,0:03:00.69,0:03:02.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le développement des poumons.

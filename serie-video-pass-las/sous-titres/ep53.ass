@@ -1,0 +1,143 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour construire un organe,
+Dialogue: 0,0:00:01.54,0:00:03.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules ne font pas que se
+Dialogue: 0,0:00:03.02,0:00:04.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diviser : elles se plient,
+Dialogue: 0,0:00:04.26,0:00:05.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'enroulent, s'étalent,
+Dialogue: 0,0:00:05.35,0:00:06.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'intercalent, s'échappent.
+Dialogue: 0,0:00:07.04,0:00:08.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : cinq mouvements
+Dialogue: 0,0:00:08.73,0:00:10.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires, chacun avec son
+Dialogue: 0,0:00:10.30,0:00:11.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exemple, puis la transition
+Dialogue: 0,0:00:11.82,0:00:13.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épithélio-mésenchymateuse.
+Dialogue: 0,0:00:13.84,0:00:15.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mouvements cellulaires
+Dialogue: 0,0:00:15.24,0:00:16.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}servent à positionner les
+Dialogue: 0,0:00:16.58,0:00:17.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules inductrices et
+Dialogue: 0,0:00:17.81,0:00:19.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}répondeuses, et à former la
+Dialogue: 0,0:00:19.27,0:00:20.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure tridimensionnelle des
+Dialogue: 0,0:00:20.93,0:00:21.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organes.
+Dialogue: 0,0:00:21.50,0:00:23.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il en existe plusieurs types.
+Dialogue: 0,0:00:23.57,0:00:24.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}invagination{\c&HFFFFFF&} .
+Dialogue: 0,0:00:24.68,0:00:26.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la formation de la
+Dialogue: 0,0:00:26.13,0:00:27.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}gouttière{\c&HFFFFFF&} {\c&H66D1FF&}neurale{\c&HFFFFFF&} .
+Dialogue: 0,0:00:27.51,0:00:28.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des cellules cuboïdales
+Dialogue: 0,0:00:28.74,0:00:30.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'allongent grâce à l'allongement
+Dialogue: 0,0:00:30.49,0:00:32.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des microtubules, et l'actine se
+Dialogue: 0,0:00:32.20,0:00:33.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}resserre du côté apical :
+Dialogue: 0,0:00:33.53,0:00:34.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la couche se creuse.
+Dialogue: 0,0:00:35.15,0:00:35.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}involution{\c&HFFFFFF&} .
+Dialogue: 0,0:00:36.12,0:00:37.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la formation du
+Dialogue: 0,0:00:37.63,0:00:39.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}processus{\c&HFFFFFF&} {\c&H66D1FF&}notochordal{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:39.02,0:00:40.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à travers le nœud primitif.
+Dialogue: 0,0:00:41.21,0:00:42.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}épibolie{\c&HFFFFFF&} et l' {\c&H66D1FF&}intercalation{\c&HFFFFFF&} .
+Dialogue: 0,0:00:43.01,0:00:44.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'agrandissement,
+Dialogue: 0,0:00:44.39,0:00:45.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans tous les sens,
+Dialogue: 0,0:00:45.36,0:00:46.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du disque embryonnaire.
+Dialogue: 0,0:00:46.93,0:00:47.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles impliquent des
+Dialogue: 0,0:00:47.93,0:00:49.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modifications du cytosquelette et
+Dialogue: 0,0:00:49.58,0:00:50.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'adhérence cellulaire.
+Dialogue: 0,0:00:51.44,0:00:52.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}extension{\c&HFFFFFF&} {\c&H66D1FF&}convergente{\c&HFFFFFF&} .
+Dialogue: 0,0:00:53.03,0:00:54.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'allongement de
+Dialogue: 0,0:00:54.46,0:00:56.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon sur l'axe {\c&H66D1FF&}crânio-caudal{\c&HFFFFFF&}
+Dialogue: 0,0:00:56.27,0:00:58.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, à partir des régions latérales,
+Dialogue: 0,0:00:58.07,0:00:59.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}après la gastrulation.
+Dialogue: 0,0:00:59.68,0:01:00.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle implique aussi des
+Dialogue: 0,0:01:00.86,0:01:02.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modifications du cytosquelette et
+Dialogue: 0,0:01:02.56,0:01:03.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'adhérence cellulaire.
+Dialogue: 0,0:01:04.46,0:01:05.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}ingression{\c&HFFFFFF&} .
+Dialogue: 0,0:01:05.40,0:01:07.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la mobilisation des
+Dialogue: 0,0:01:07.03,0:01:08.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules de l'épiblaste à travers
+Dialogue: 0,0:01:08.88,0:01:10.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}ligne{\c&HFFFFFF&} {\c&H66D1FF&}primitive{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:10.00,0:01:11.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour former l'endoderme et le
+Dialogue: 0,0:01:11.63,0:01:12.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme.
+Dialogue: 0,0:01:12.59,0:01:14.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle implique la {\c&H66D1FF&}transition{\c&HFFFFFF&}
+Dialogue: 0,0:01:14.08,0:01:15.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}épithélio-mésenchymateuse{\c&HFFFFFF&} .
+Dialogue: 0,0:01:16.13,0:01:17.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cinq associations à
+Dialogue: 0,0:01:17.38,0:01:17.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}connaître.
+Dialogue: 0,0:01:18.33,0:01:20.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Invagination : gouttière neurale.
+Dialogue: 0,0:01:20.53,0:01:21.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Involution : processus
+Dialogue: 0,0:01:21.88,0:01:22.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}notochordal.
+Dialogue: 0,0:01:23.02,0:01:24.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Épibolie et intercalation :
+Dialogue: 0,0:01:24.50,0:01:25.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}agrandissement du disque.
+Dialogue: 0,0:01:26.26,0:01:27.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Extension convergente :
+Dialogue: 0,0:01:27.53,0:01:28.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}allongement crânio-caudal.
+Dialogue: 0,0:01:29.36,0:01:30.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ingression : ligne primitive.
+Dialogue: 0,0:01:31.34,0:01:32.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux grands groupes cellulaires.
+Dialogue: 0,0:01:32.74,0:01:34.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules {\c&H66D1FF&}épithéliales{\c&HFFFFFF&} :
+Dialogue: 0,0:01:34.24,0:01:35.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polarité apico-basale,
+Dialogue: 0,0:01:35.46,0:01:36.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles reposent sur une lame
+Dialogue: 0,0:01:36.95,0:01:38.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}basale, sont cohésives,
+Dialogue: 0,0:01:38.23,0:01:39.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec une adhérence
+Dialogue: 0,0:01:39.23,0:01:41.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intercellulaire latérale par des
+Dialogue: 0,0:01:41.00,0:01:42.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jonctions adhérentes,
+Dialogue: 0,0:01:42.17,0:01:43.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}serrées et communicantes.
+Dialogue: 0,0:01:43.96,0:01:45.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules {\c&H66D1FF&}mésenchymateuses{\c&HFFFFFF&} :
+Dialogue: 0,0:01:45.69,0:01:47.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas de polarité, pas de jonctions
+Dialogue: 0,0:01:47.53,0:01:48.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intercellulaires, lâches,
+Dialogue: 0,0:01:48.93,0:01:50.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et productrices de matrice
+Dialogue: 0,0:01:50.38,0:01:51.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire.
+Dialogue: 0,0:01:51.42,0:01:52.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple sur la figure :
+Dialogue: 0,0:01:52.74,0:01:54.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les villosités intestinales.
+Dialogue: 0,0:01:54.90,0:01:56.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules épithéliales de
+Dialogue: 0,0:01:56.46,0:01:57.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épiblaste, dans la ligne
+Dialogue: 0,0:01:57.91,0:01:59.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitive, deviennent du
+Dialogue: 0,0:01:59.24,0:02:00.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme, en quatre étapes.
+Dialogue: 0,0:02:01.20,0:02:02.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Perte des contacts
+Dialogue: 0,0:02:02.25,0:02:03.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intercellulaires ;
+Dialogue: 0,0:02:03.29,0:02:05.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modifications morphologiques et
+Dialogue: 0,0:02:05.09,0:02:07.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}perte de la polarité apico-basale
+Dialogue: 0,0:02:07.00,0:02:08.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; dégradation de la membrane
+Dialogue: 0,0:02:08.63,0:02:09.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}basale ; et migration.
+Dialogue: 0,0:02:10.46,0:02:11.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois mécanismes.
+Dialogue: 0,0:02:11.58,0:02:13.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : dégradation des protéines
+Dialogue: 0,0:02:13.24,0:02:14.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des jonctions, serrées,
+Dialogue: 0,0:02:14.52,0:02:16.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du côté apical, et adhérentes,
+Dialogue: 0,0:02:16.18,0:02:17.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la {\c&H66D1FF&}E-cadhérine{\c&HFFFFFF&} et la
+Dialogue: 0,0:02:17.57,0:02:18.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}caténine{\c&HFFFFFF&} .
+Dialogue: 0,0:02:18.52,0:02:19.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : remodelage du
+Dialogue: 0,0:02:19.62,0:02:21.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosquelette : {\c&H66D1FF&}constriction{\c&HFFFFFF&}
+Dialogue: 0,0:02:21.16,0:02:22.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}apicale{\c&HFFFFFF&} , pour le détachement,
+Dialogue: 0,0:02:22.81,0:02:24.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et {\c&H66D1FF&}pseudopodes{\c&HFFFFFF&} côté basal,
+Dialogue: 0,0:02:24.24,0:02:25.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la migration.
+Dialogue: 0,0:02:25.62,0:02:27.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : synthèse de {\c&H66D1FF&}protéinases{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:27.38,0:02:29.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui dégradent la membrane basale
+Dialogue: 0,0:02:29.08,0:02:30.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la matrice extracellulaire.
+Dialogue: 0,0:02:31.24,0:02:32.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:32.48,0:02:33.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'involution forme la gouttière
+Dialogue: 0,0:02:33.92,0:02:34.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}neurale” : faux.
+Dialogue: 0,0:02:34.76,0:02:36.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Invagination, gouttière ;
+Dialogue: 0,0:02:36.25,0:02:37.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}involution, processus
+Dialogue: 0,0:02:37.49,0:02:38.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}notochordal.
+Dialogue: 0,0:02:38.60,0:02:40.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'extension convergente agrandit
+Dialogue: 0,0:02:40.21,0:02:41.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le disque dans tous les sens” :
+Dialogue: 0,0:02:41.72,0:02:42.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est l'épibolie.
+Dialogue: 0,0:02:43.02,0:02:44.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'extension convergente allonge
+Dialogue: 0,0:02:44.75,0:02:45.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'axe crânio-caudal.
+Dialogue: 0,0:02:46.26,0:02:47.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les cellules mésenchymateuses
+Dialogue: 0,0:02:47.92,0:02:49.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ont une polarité apico-basale” :
+Dialogue: 0,0:02:49.68,0:02:51.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, ce sont les épithéliales.
+Dialogue: 0,0:02:52.01,0:02:53.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}In-va-gination, comme “va dans la
+Dialogue: 0,0:02:53.56,0:02:54.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gouttière”.
+Dialogue: 0,0:02:54.19,0:02:55.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}In-volution, comme “s'enroule
+Dialogue: 0,0:02:55.45,0:02:56.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous le nœud”.
+Dialogue: 0,0:02:56.18,0:02:57.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ingression, comme “ingérée par la ligne”.
+Dialogue: 0,0:02:58.36,0:02:59.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et “extension convergente” :
+Dialogue: 0,0:02:59.72,0:03:01.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on converge vers le milieu,
+Dialogue: 0,0:03:01.13,0:03:03.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc on s'allonge de la tête à la queue.
+Dialogue: 0,0:03:03.79,0:03:05.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quel mouvement implique la
+Dialogue: 0,0:03:05.49,0:03:07.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}T E M dans la ligne primitive ?
+Dialogue: 0,0:03:11.49,0:03:12.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ingression.
+Dialogue: 0,0:03:12.85,0:03:13.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:13.79,0:03:15.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les replis de l'embryon à la
+Dialogue: 0,0:03:15.24,0:03:16.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatrième semaine,
+Dialogue: 0,0:03:16.18,0:03:17.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le devenir des feuillets.

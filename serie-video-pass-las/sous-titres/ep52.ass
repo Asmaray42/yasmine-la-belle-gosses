@@ -1,0 +1,175 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une cellule de peau adulte,
+Dialogue: 0,0:00:01.77,0:00:03.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre facteurs de transcription,
+Dialogue: 0,0:00:03.56,0:00:05.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et elle redevient une cellule
+Dialogue: 0,0:00:05.14,0:00:06.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}souche pluripotente.
+Dialogue: 0,0:00:06.63,0:00:08.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : l'organisateur de
+Dialogue: 0,0:00:08.48,0:00:09.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Spemann, les gradients de
+Dialogue: 0,0:00:09.92,0:00:11.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}morphogènes, l'engagement
+Dialogue: 0,0:00:11.37,0:00:12.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}définitif, le clonage,
+Dialogue: 0,0:00:12.64,0:00:14.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les i P S et les cellules souches
+Dialogue: 0,0:00:14.55,0:00:15.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}adultes.
+Dialogue: 0,0:00:15.57,0:00:17.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Expérience de Spemann et Mangold,
+Dialogue: 0,0:00:17.33,0:00:19.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en {\c&H66D1FF&}1924{\c&HFFFFFF&} , sur des embryons
+Dialogue: 0,0:00:19.99,0:00:20.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'amphibiens.
+Dialogue: 0,0:00:21.08,0:00:22.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On greffe la {\c&H66D1FF&}lèvre{\c&HFFFFFF&} {\c&H66D1FF&}dorsale{\c&HFFFFFF&} {\c&H66D1FF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.68,0:00:24.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}blastopore{\c&HFFFFFF&} , l'équivalent du nœud
+Dialogue: 0,0:00:24.49,0:00:26.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitif, dans la partie ventrale
+Dialogue: 0,0:00:26.30,0:00:27.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un autre embryon.
+Dialogue: 0,0:00:27.49,0:00:29.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : un {\c&H66D1FF&}axe{\c&HFFFFFF&} {\c&H66D1FF&}corporel{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.02,0:00:30.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}secondaire{\c&HFFFFFF&} se forme,
+Dialogue: 0,0:00:30.20,0:00:32.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mélange de cellules du donneur et
+Dialogue: 0,0:00:32.14,0:00:32.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'hôte.
+Dialogue: 0,0:00:33.13,0:00:35.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'organisateur de Spemann-Mangold
+Dialogue: 0,0:00:35.01,0:00:36.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est donc un {\c&H66D1FF&}inducteur{\c&HFFFFFF&} .
+Dialogue: 0,0:00:36.87,0:00:38.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant le développement,
+Dialogue: 0,0:00:38.02,0:00:39.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}gradients{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}morphogènes{\c&HFFFFFF&} se
+Dialogue: 0,0:00:39.44,0:00:40.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mettent en place.
+Dialogue: 0,0:00:40.36,0:00:42.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque position dans l'embryon
+Dialogue: 0,0:00:42.00,0:00:43.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}correspond à une combinaison et
+Dialogue: 0,0:00:43.70,0:00:45.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une concentration particulières
+Dialogue: 0,0:00:45.39,0:00:46.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de morphogènes.
+Dialogue: 0,0:00:46.61,0:00:48.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ainsi, les gradients spécifient
+Dialogue: 0,0:00:48.15,0:00:49.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le devenir de chaque cellule,
+Dialogue: 0,0:00:49.59,0:00:51.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en fonction de sa position dans
+Dialogue: 0,0:00:51.13,0:00:51.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon.
+Dialogue: 0,0:00:52.18,0:00:53.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez la drosophile,
+Dialogue: 0,0:00:53.22,0:00:54.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le morphogène {\c&H66D1FF&}Bicoid{\c&HFFFFFF&} est produit
+Dialogue: 0,0:00:54.96,0:00:56.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en gradient, de l'antérieur vers
+Dialogue: 0,0:00:56.70,0:00:57.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le postérieur.
+Dialogue: 0,0:00:57.86,0:00:59.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce gradient influence
+Dialogue: 0,0:00:59.02,0:01:00.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'expression du gène {\c&H66D1FF&}Buttonhead{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:00.83,0:01:02.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exprimé seulement dans une bande
+Dialogue: 0,0:01:02.59,0:01:04.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de cellules où la concentration
+Dialogue: 0,0:01:04.30,0:01:05.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de Bicoid est {\c&H66D1FF&}moyenne{\c&HFFFFFF&} .
+Dialogue: 0,0:01:06.12,0:01:07.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En réalité, il s'agit d'un réseau
+Dialogue: 0,0:01:07.90,0:01:09.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complexe : de nombreux
+Dialogue: 0,0:01:09.09,0:01:10.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}morphogènes interagissent pour
+Dialogue: 0,0:01:10.70,0:01:12.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}définir chaque territoire.
+Dialogue: 0,0:01:12.66,0:01:14.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules subissent des
+Dialogue: 0,0:01:14.06,0:01:15.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}changements progressifs,
+Dialogue: 0,0:01:15.34,0:01:16.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}stades{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}détermination{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:16.90,0:01:18.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avant leur différenciation finale.
+Dialogue: 0,0:01:19.12,0:01:20.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque étape est un {\c&H66D1FF&}engagement{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.74,0:01:22.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}définitif{\c&HFFFFFF&} : impossible de revenir
+Dialogue: 0,0:01:22.52,0:01:23.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en arrière.
+Dialogue: 0,0:01:23.25,0:01:24.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette irréversibilité est en
+Dialogue: 0,0:01:24.73,0:01:25.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grande partie liée à des
+Dialogue: 0,0:01:25.99,0:01:27.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modifications de la {\c&H66D1FF&}chromatine{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:27.68,0:01:29.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui verrouillent l'état actif ou
+Dialogue: 0,0:01:29.36,0:01:30.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inactif des gènes :
+Dialogue: 0,0:01:30.36,0:01:31.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}mémoire{\c&HFFFFFF&} {\c&H66D1FF&}nucléaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:32.23,0:01:33.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'illustration : une bille qui
+Dialogue: 0,0:01:33.71,0:01:35.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}descend une pente peut emprunter
+Dialogue: 0,0:01:35.28,0:01:36.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes voies,
+Dialogue: 0,0:01:36.16,0:01:37.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais ne peut pas remonter.
+Dialogue: 0,0:01:38.00,0:01:39.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le noyau d'une cellule adulte,
+Dialogue: 0,0:01:39.67,0:01:41.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le donneur, peut être {\c&H66D1FF&}reprogrammé{\c&HFFFFFF&}
+Dialogue: 0,0:01:41.50,0:01:42.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}si on l'introduit dans le
+Dialogue: 0,0:01:42.89,0:01:44.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytoplasme d'un ovocyte énucléé :
+Dialogue: 0,0:01:44.73,0:01:46.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le {\c&H66D1FF&}transfert{\c&HFFFFFF&} {\c&H66D1FF&}nucléaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:46.80,0:01:48.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si un embryon se développe,
+Dialogue: 0,0:01:48.19,0:01:49.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il est génétiquement identique au
+Dialogue: 0,0:01:49.89,0:01:50.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donneur du noyau.
+Dialogue: 0,0:01:51.16,0:01:52.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'embryon peut être implanté dans
+Dialogue: 0,0:01:52.86,0:01:54.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'utérus d'une porteuse :
+Dialogue: 0,0:01:54.14,0:01:55.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le {\c&H66D1FF&}clonage{\c&HFFFFFF&} animal,
+Dialogue: 0,0:01:55.38,0:01:56.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}interdit{\c&HFFFFFF&} {\c&H66D1FF&}chez{\c&HFFFFFF&} {\c&H66D1FF&}l'homme{\c&HFFFFFF&} .
+Dialogue: 0,0:01:56.70,0:01:58.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ou bien on l'utilise pour établir
+Dialogue: 0,0:01:58.45,0:01:59.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des cellules souches
+Dialogue: 0,0:01:59.51,0:02:01.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluripotentes, pour une thérapie
+Dialogue: 0,0:02:01.20,0:02:02.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de remplacement chez le donneur :
+Dialogue: 0,0:02:02.95,0:02:04.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}thérapie {\c&H66D1FF&}autologue{\c&HFFFFFF&} .
+Dialogue: 0,0:02:04.57,0:02:05.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Samuel H.
+Dialogue: 0,0:02:05.60,0:02:07.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Wood, de la société Stemagen,
+Dialogue: 0,0:02:07.22,0:02:09.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à San Diego : première production
+Dialogue: 0,0:02:09.06,0:02:10.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'embryons humains par transfert
+Dialogue: 0,0:02:10.85,0:02:12.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaire, en {\c&H66D1FF&}2008{\c&HFFFFFF&} .
+Dialogue: 0,0:02:12.97,0:02:14.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il utilise ses propres cellules
+Dialogue: 0,0:02:14.51,0:02:15.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de peau, des fibroblastes,
+Dialogue: 0,0:02:15.80,0:02:17.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme donneuses de noyau.
+Dialogue: 0,0:02:17.17,0:02:18.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq blastocystes sont obtenus,
+Dialogue: 0,0:02:18.85,0:02:20.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et détruits après six jours.
+Dialogue: 0,0:02:20.77,0:02:23.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En 2013 et 2014, deux autres
+Dialogue: 0,0:02:23.58,0:02:25.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}équipes répètent l'expérience et
+Dialogue: 0,0:02:25.18,0:02:26.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produisent des cellules souches
+Dialogue: 0,0:02:26.73,0:02:27.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluripotentes.
+Dialogue: 0,0:02:27.99,0:02:29.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On peut reprogrammer une cellule
+Dialogue: 0,0:02:29.89,0:02:31.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciée en y introduisant
+Dialogue: 0,0:02:31.66,0:02:33.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}quatre{\c&HFFFFFF&} {\c&H66D1FF&}facteurs{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}transcription{\c&HFFFFFF&}
+Dialogue: 0,0:02:33.56,0:02:34.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la pluripotence :
+Dialogue: 0,0:02:34.74,0:02:37.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}OCT4,{\c&HFFFFFF&} {\c&H66D1FF&}SOX2,{\c&HFFFFFF&} {\c&H66D1FF&}KLF4{\c&HFFFFFF&} {\c&H66D1FF&}et{\c&HFFFFFF&} {\c&H66D1FF&}MYC{\c&HFFFFFF&} .
+Dialogue: 0,0:02:37.81,0:02:39.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après sélection, on obtient des
+Dialogue: 0,0:02:39.52,0:02:41.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules dé-différenciées :
+Dialogue: 0,0:02:41.00,0:02:42.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}souches{\c&HFFFFFF&}
+Dialogue: 0,0:02:42.11,0:02:43.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pluripotentes{\c&HFFFFFF&} {\c&H66D1FF&}induites{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:43.43,0:02:43.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les i P S.
+Dialogue: 0,0:02:44.38,0:02:45.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles ont toutes les
+Dialogue: 0,0:02:45.36,0:02:46.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristiques des cellules
+Dialogue: 0,0:02:46.78,0:02:47.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}souches embryonnaires,
+Dialogue: 0,0:02:47.86,0:02:49.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et peuvent être redirigées vers
+Dialogue: 0,0:02:49.37,0:02:50.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents types cellulaires :
+Dialogue: 0,0:02:50.84,0:02:52.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}thérapies de remplacement.
+Dialogue: 0,0:02:52.67,0:02:53.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'adulte, des cellules
+Dialogue: 0,0:02:53.95,0:02:55.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}souches non différenciées
+Dialogue: 0,0:02:55.14,0:02:55.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}persistent.
+Dialogue: 0,0:02:55.80,0:02:57.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plusieurs types ont été
+Dialogue: 0,0:02:57.01,0:02:57.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identifiés.
+Dialogue: 0,0:02:57.99,0:02:59.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles ne se différencient qu'en
+Dialogue: 0,0:02:59.55,0:03:00.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une variété {\c&H66D1FF&}limitée{\c&HFFFFFF&} de types
+Dialogue: 0,0:03:00.95,0:03:02.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires : elles sont
+Dialogue: 0,0:03:02.16,0:03:03.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}multipotentes{\c&HFFFFFF&} , et non
+Dialogue: 0,0:03:03.27,0:03:03.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluripotentes.
+Dialogue: 0,0:03:04.37,0:03:05.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles peuvent se renouveler par
+Dialogue: 0,0:03:05.92,0:03:07.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}division, pour maintenir le
+Dialogue: 0,0:03:07.27,0:03:08.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stock, ou se différencier.
+Dialogue: 0,0:03:08.71,0:03:10.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles remplacent les cellules
+Dialogue: 0,0:03:10.00,0:03:11.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trop vieilles ou détruites :
+Dialogue: 0,0:03:11.25,0:03:12.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'homéostasie tissulaire.
+Dialogue: 0,0:03:13.19,0:03:14.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'échelle des potentialités.
+Dialogue: 0,0:03:14.98,0:03:16.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Totipotentes : zygote et
+Dialogue: 0,0:03:16.29,0:03:17.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}blastomères ; tout,
+Dialogue: 0,0:03:17.33,0:03:18.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta compris.
+Dialogue: 0,0:03:18.66,0:03:20.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pluripotentes : masse cellulaire
+Dialogue: 0,0:03:20.45,0:03:22.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interne, cellules E S et i P S ;
+Dialogue: 0,0:03:22.24,0:03:24.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tout l'embryon, sans le placenta.
+Dialogue: 0,0:03:24.49,0:03:26.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Multipotentes : cellules souches
+Dialogue: 0,0:03:26.11,0:03:27.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}adultes ; une variété limitée.
+Dialogue: 0,0:03:28.19,0:03:29.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:29.43,0:03:30.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les cellules souches adultes
+Dialogue: 0,0:03:30.87,0:03:31.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont pluripotentes” :
+Dialogue: 0,0:03:31.91,0:03:32.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, multipotentes.
+Dialogue: 0,0:03:33.34,0:03:34.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Buttonhead est exprimé là où
+Dialogue: 0,0:03:34.80,0:03:35.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bicoid est maximal” :
+Dialogue: 0,0:03:35.85,0:03:37.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, là où il est moyen.
+Dialogue: 0,0:03:37.55,0:03:39.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les i P S sont obtenues par
+Dialogue: 0,0:03:39.07,0:03:40.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transfert nucléaire” :
+Dialogue: 0,0:03:40.26,0:03:42.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, par introduction de quatre
+Dialogue: 0,0:03:42.06,0:03:43.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteurs de transcription dans
+Dialogue: 0,0:03:43.75,0:03:44.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une cellule adulte.
+Dialogue: 0,0:03:45.39,0:03:47.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les quatre facteurs des i P S :
+Dialogue: 0,0:03:47.73,0:03:49.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“OSKM”, comme Oct4,
+Dialogue: 0,0:03:49.01,0:03:50.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sox2, Klf4, Myc.
+Dialogue: 0,0:03:50.36,0:03:51.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois portent un chiffre,
+Dialogue: 0,0:03:51.52,0:03:52.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre, deux, quatre ;
+Dialogue: 0,0:03:52.54,0:03:53.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Myc, aucun.
+Dialogue: 0,0:03:53.61,0:03:54.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : comment qualifie-t-on les
+Dialogue: 0,0:03:54.98,0:03:56.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules souches adultes ?
+Dialogue: 0,0:04:00.49,0:04:01.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Multipotentes : une variété
+Dialogue: 0,0:04:01.87,0:04:03.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}limitée de types cellulaires.
+Dialogue: 0,0:04:03.91,0:04:04.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:04.89,0:04:06.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les mouvements cellulaires et la
+Dialogue: 0,0:04:06.63,0:04:07.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transition
+Dialogue: 0,0:04:07.17,0:04:08.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épithélio-mésenchymateuse.

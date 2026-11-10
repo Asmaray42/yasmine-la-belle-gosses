@@ -1,0 +1,455 @@
+1
+00:00:00,300 --> 00:00:01,910
+Ton cœur est à gauche parce que,
+
+2
+00:00:01,910 --> 00:00:03,369
+dans l'embryon, de minuscules
+
+3
+00:00:03,369 --> 00:00:04,879
+cils ont fait tourbillonner un
+
+4
+00:00:04,879 --> 00:00:06,037
+liquide vers la gauche.
+
+5
+00:00:06,437 --> 00:00:08,158
+Au programme : les signaux du
+
+6
+00:00:08,158 --> 00:00:09,938
+nœud primitif, la souris situs
+
+7
+00:00:09,938 --> 00:00:11,362
+inversus, le syndrome de
+
+8
+00:00:11,362 --> 00:00:12,905
+Kartagener, le flux nodal,
+
+9
+00:00:12,905 --> 00:00:14,270
+et le cordon ombilical.
+
+10
+00:00:14,830 --> 00:00:16,564
+Plusieurs structures anatomiques
+
+11
+00:00:16,564 --> 00:00:17,865
+présentent une asymétrie
+
+12
+00:00:17,865 --> 00:00:19,166
+gauche-droite : le cœur,
+
+13
+00:00:19,166 --> 00:00:20,304
+les poumons, le foie,
+
+14
+00:00:20,304 --> 00:00:21,551
+le pancréas, l'estomac,
+
+15
+00:00:21,551 --> 00:00:22,147
+l'intestin.
+
+16
+00:00:22,707 --> 00:00:24,340
+L'asymétrie est induite dès la
+
+17
+00:00:24,340 --> 00:00:25,974
+gastrulation , par des signaux
+
+18
+00:00:25,974 --> 00:00:27,607
+asymétriques provenant du nœud
+
+19
+00:00:27,607 --> 00:00:28,151
+primitif .
+
+20
+00:00:28,551 --> 00:00:30,001
+Selon le cours, le facteur
+
+21
+00:00:30,001 --> 00:00:32,232
+sécrété Shh , Sonic hedgehog,
+
+22
+00:00:32,232 --> 00:00:33,793
+est plus concentré à gauche.
+
+23
+00:00:33,933 --> 00:00:36,108
+Shh induit Nodal dans la partie
+
+24
+00:00:36,108 --> 00:00:36,884
+gauche du nœud.
+
+25
+00:00:37,284 --> 00:00:38,297
+Nodal induit Nodal,
+
+26
+00:00:38,297 --> 00:00:39,895
+par une boucle de rétroaction,
+
+27
+00:00:39,895 --> 00:00:42,079
+et Lefty2 , dans le mésoderme gauche.
+
+28
+00:00:42,219 --> 00:00:44,154
+Enfin, Nodal et Lefty2 induisent
+
+29
+00:00:44,154 --> 00:00:45,498
+Pitx2 , un facteur de
+
+30
+00:00:45,498 --> 00:00:46,250
+transcription.
+
+31
+00:00:46,810 --> 00:00:47,894
+Comment les facteurs se
+
+32
+00:00:47,894 --> 00:00:49,402
+répartissent-ils asymétriquement
+
+33
+00:00:49,402 --> 00:00:50,062
+dans le nœud ?
+
+34
+00:00:50,202 --> 00:00:51,972
+Un modèle de souris avec situs
+
+35
+00:00:51,972 --> 00:00:53,625
+inversus , organes inversés,
+
+36
+00:00:53,625 --> 00:00:55,454
+porte une mutation dans le gène
+
+37
+00:00:55,454 --> 00:00:55,867
+Lrd .
+
+38
+00:00:56,267 --> 00:00:57,980
+Lrd est apparenté aux dynéines ,
+
+39
+00:00:57,980 --> 00:00:59,642
+des protéines motrices impliquées
+
+40
+00:00:59,642 --> 00:01:01,153
+dans les mouvements ciliaires.
+
+41
+00:01:01,713 --> 00:01:03,342
+Chez l'homme, le syndrome de
+
+42
+00:01:03,342 --> 00:01:04,912
+Kartagener associe un situs
+
+43
+00:01:04,912 --> 00:01:06,366
+inversus, des pathologies
+
+44
+00:01:06,366 --> 00:01:07,762
+respiratoires dues à une
+
+45
+00:01:07,762 --> 00:01:08,925
+dyskinésie ciliaire,
+
+46
+00:01:08,925 --> 00:01:10,495
+et une motilité réduite des
+
+47
+00:01:10,495 --> 00:01:11,367
+spermatozoïdes.
+
+48
+00:01:11,767 --> 00:01:13,306
+C'est une maladie génétique à
+
+49
+00:01:13,306 --> 00:01:14,579
+transmission récessive ,
+
+50
+00:01:14,579 --> 00:01:16,065
+due à des mutations dans des
+
+51
+00:01:16,065 --> 00:01:17,020
+gènes de dynéines.
+
+52
+00:01:17,580 --> 00:01:18,730
+Dans le nœud primitif,
+
+53
+00:01:18,730 --> 00:01:20,351
+des monocils sont présents à la
+
+54
+00:01:20,351 --> 00:01:21,449
+surface des cellules.
+
+55
+00:01:21,849 --> 00:01:23,348
+Seules les cellules centrales
+
+56
+00:01:23,348 --> 00:01:25,003
+expriment Lrd, qui actionne un
+
+57
+00:01:25,003 --> 00:01:26,554
+mouvement circulaire des cils,
+
+58
+00:01:26,554 --> 00:01:28,363
+entraînant un flux vers la gauche .
+
+59
+00:01:28,503 --> 00:01:29,947
+C'est la théorie du flux nodal .
+
+60
+00:01:30,507 --> 00:01:32,269
+Les monocils actifs au centre du
+
+61
+00:01:32,269 --> 00:01:33,479
+nœud créent un flux de
+
+62
+00:01:33,479 --> 00:01:35,461
+morphogènes, Shh et acide
+
+63
+00:01:35,461 --> 00:01:37,002
+rétinoïque , vers la gauche.
+
+64
+00:01:37,562 --> 00:01:38,664
+La chaîne complète.
+
+65
+00:01:39,064 --> 00:01:40,823
+Lrd, une dynéine, fait tourner
+
+66
+00:01:40,823 --> 00:01:42,032
+les monocils centraux.
+
+67
+00:01:42,432 --> 00:01:44,353
+Le flux nodal pousse Shh et
+
+68
+00:01:44,353 --> 00:01:46,072
+l'acide rétinoïque vers la gauche.
+
+69
+00:01:46,472 --> 00:01:48,364
+Shh induit Nodal à gauche,
+
+70
+00:01:48,364 --> 00:01:49,642
+puis Nodal et Lefty2.
+
+71
+00:01:50,042 --> 00:01:51,313
+Et Pitx2, facteur de
+
+72
+00:01:51,313 --> 00:01:53,431
+transcription, programme le côté gauche.
+
+73
+00:01:53,991 --> 00:01:55,572
+À terme, la cavité amniotique
+
+74
+00:01:55,572 --> 00:01:57,371
+entourera complètement l'embryon.
+
+75
+00:01:57,511 --> 00:01:58,813
+Le conduit vitellin et le
+
+76
+00:01:58,813 --> 00:02:00,532
+pédicule de connexion s'allongent
+
+77
+00:02:00,532 --> 00:02:02,095
+et sont entièrement recouverts
+
+78
+00:02:02,095 --> 00:02:03,867
+par l'amnios, qui forme une gaine.
+
+79
+00:02:04,267 --> 00:02:05,834
+L'amnios, le conduit vitellin,
+
+80
+00:02:05,834 --> 00:02:07,298
+et le pédicule de connexion,
+
+81
+00:02:07,298 --> 00:02:08,761
+avec ses vaisseaux sanguins,
+
+82
+00:02:08,761 --> 00:02:10,277
+forment le cordon ombilical .
+
+83
+00:02:10,417 --> 00:02:11,837
+Figure à la dixième semaine.
+
+84
+00:02:12,397 --> 00:02:13,583
+Après quatre semaines,
+
+85
+00:02:13,583 --> 00:02:15,146
+l'embryon prend une forme qui
+
+86
+00:02:15,146 --> 00:02:16,764
+laisse présager l'apparence de
+
+87
+00:02:16,764 --> 00:02:17,788
+l'individu à venir.
+
+88
+00:02:17,928 --> 00:02:19,516
+À ce stade, il ne mesure pas plus
+
+89
+00:02:19,516 --> 00:02:20,526
+de cinq millimètres .
+
+90
+00:02:20,926 --> 00:02:22,745
+Sur cette image de microscopie
+
+91
+00:02:22,745 --> 00:02:24,200
+électronique à balayage,
+
+92
+00:02:24,200 --> 00:02:25,776
+la cavité amniotique a été
+
+93
+00:02:25,776 --> 00:02:27,291
+enlevée, mais la vésicule
+
+94
+00:02:27,291 --> 00:02:28,867
+vitelline a été préservée.
+
+95
+00:02:29,427 --> 00:02:30,264
+Trois pièges.
+
+96
+00:02:30,664 --> 00:02:32,549
+“Pitx2 est un morphogène sécrété”
+
+97
+00:02:32,549 --> 00:02:34,004
+: faux, c'est un facteur de
+
+98
+00:02:34,004 --> 00:02:34,758
+transcription.
+
+99
+00:02:35,158 --> 00:02:36,490
+“Toutes les cellules du nœud
+
+100
+00:02:36,490 --> 00:02:37,624
+expriment Lrd” : faux,
+
+101
+00:02:37,624 --> 00:02:39,251
+seulement les cellules centrales.
+
+102
+00:02:39,651 --> 00:02:41,165
+“Le syndrome de Kartagener est
+
+103
+00:02:41,165 --> 00:02:42,523
+dominant” : faux, récessif.
+
+104
+00:02:43,083 --> 00:02:44,747
+La cascade gauche en quatre mots
+
+105
+00:02:44,747 --> 00:02:45,995
+: “Sonic Nage Lentement à
+
+106
+00:02:45,995 --> 00:02:46,359
+Gauche”.
+
+107
+00:02:46,499 --> 00:02:48,234
+Shh, Nodal, Lefty2,
+
+108
+00:02:48,234 --> 00:02:49,815
+Pitx2… et le tout à gauche.
+
+109
+00:02:50,375 --> 00:02:51,962
+Quiz : dans quel sens va le flux
+
+110
+00:02:51,962 --> 00:02:52,309
+nodal ?
+
+111
+00:02:56,709 --> 00:02:57,595
+Vers la gauche.
+
+112
+00:02:58,155 --> 00:02:59,069
+Prochain épisode :
+
+113
+00:02:59,069 --> 00:03:00,692
+les principes de l'organogenèse,
+
+114
+00:03:00,692 --> 00:03:02,315
+et le développement des poumons.
