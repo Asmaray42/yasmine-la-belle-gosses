@@ -1,0 +1,225 @@
+title: "Ovogenèse et folliculogenèse"
+subtitle: "Ovogonies · dictyotène · primordial → primaire → secondaire → tertiaire → Graaf"
+source: "S2-1 p.7 à 10"
+chapter: "Partie II — I. Gamétogenèse — 2. Ovogenèse"
+objectives:
+  - "Décrire les phases fœtales de l'ovogenèse et leurs dates (6e, 12e, 22e, 36e semaine)."
+  - "Définir le dictyotène et la vésicule germinative."
+  - "Décrire la maturation folliculaire : primordial, primaire, secondaire, tertiaire, Graaf."
+  - "Légender la figure du follicule secondaire et du follicule tertiaire ; donner le timing de l'ovogenèse."
+
+scenes:
+  - kind: hook
+    title: "Tous formés avant la naissance"
+    ref: "S2-1 p.7h"
+    big: "Naissance"
+    beats:
+      - say: "À ta naissance, si tu es une fille, tous tes follicules primordiaux sont déjà formés. Et leurs ovocytes sont figés en pleine méiose depuis la vie fœtale."
+      - say: "Au programme : les phases fœtales de l'ovogenèse, puis la maturation des follicules, jusqu'au follicule de Graaf."
+        show: "Phases fœtales · *follicules* · Graaf"
+
+  - kind: figure
+    title: "L'ovogenèse : phases fœtales"
+    ref: "S2-1 p.7h"
+    fig: "S2-1:7h"
+    trap: "Prolifération sem. 6 à 22 ; ovocytes I dès la sem. 12 ; dictyotène = arrêt en DIPLOTÈNE."
+    beats:
+      - say: "Dans l'ovaire fœtal, les C G P deviennent des ovogonies. Phase de *prolifération des ovogonies* : semaines six à vingt-deux."
+        mark: ["semaines 6 à 22", "6 sem."]
+        show: "CGPs → *ovogonies* · prolifération : *sem. 6 à 22*"
+      - say: "Dès la *douzième semaine*, différenciation en *ovocytes primaires* : amorce de la méiose jusqu'au diplotène, puis arrêt prolongé, appelé *dictyotène*. Diplotène, deux n fois deux."
+        mark: ["12ème semaine", "dictyotène"]
+        show: "Dès la *12e sem.* : *ovocytes I* · méiose → diplotène · arrêt = *dictyotène* (2n ×2)"
+      - say: "Leur noyau est volumineux : c'est la *vésicule germinative*."
+        mark: "vésicule germinative"
+        show: "Noyau volumineux = *vésicule germinative*"
+      - say: "Les ovocytes primaires s'entourent de cellules folliculaires : formation des *follicules primordiaux*. De l'ovogonie au follicule primordial : environ *quatre semaines*. Ce processus se poursuit jusqu'à la naissance : tous les follicules primordiaux sont alors formés."
+        mark: ["follicules primordiaux", "~4 semaines", "36 sem."]
+        show: "→ *follicules primordiaux* (~*4 sem.*) · jusqu'à la *naissance*"
+
+  - kind: figure
+    title: "Primordial → primaire → secondaire"
+    ref: "S2-1 p.7b"
+    fig: "S2-1:7b"
+    trap: "5 à 12 follicules primaires survivent par cycle ; aplaties → cuboïdales."
+    beats:
+      - say: "Dès la puberté, la maturation est stimulée par les cycles menstruels, avec augmentation de F S H et de L H."
+        mark: "Dès la puberté"
+        show: "Dès la *puberté* : ↑ FSH, LH"
+      - say: "Au cours d'un cycle, un groupe de follicules primordiaux devient des *follicules primaires* : leurs cellules folliculaires passent d'*aplaties* à *cuboïdales*."
+        mark: "follicules primaires"
+        show: "Primordiaux → *primaires* : cellules *aplaties* → *cuboïdales*"
+      - say: "Les follicules primaires qui survivent, *cinq à douze par cycle*, deviennent des *follicules secondaires* : les cellules folliculaires deviennent la *granulosa*, et la zone pellucide est sécrétée."
+        mark: ["5 à 12", "granulosa"]
+        show: "*5 à 12* / cycle → *secondaires* : *granulosa* + zone pellucide"
+
+  - kind: figure
+    title: "Zone pellucide et thèque"
+    ref: "S2-1 p.8h"
+    fig: "S2-1:8h"
+    trap: "Zone pellucide sécrétée par l'ovocyte ET la granulosa ; thèque AUTOUR de la lame basale."
+    beats:
+      - say: "La *zone pellucide*, numéro deux : du matériel extracellulaire, des glycoprotéines, sécrété par l'*ovocyte et la granulosa*. Elle protège l'ovocyte."
+        mark: ["Zone pellucide (2)", "ovocyte et la granulosa"]
+        show: "*Zone pellucide* : glycoprotéines de l'*ovocyte* + *granulosa* · protection"
+      - say: "Elle est traversée par des extensions cellulaires venant de la granulosa, avec des *jonctions communicantes* : signalisation et apport métabolique."
+        mark: "jonctions communicantes"
+        show: "Extensions de la granulosa · *jonctions communicantes* → signalisation, métabolisme"
+      - say: "La *thèque*, numéro quatre : recrutement de cellules du stroma ovarien, autour de la lame basale qui entoure la granulosa. Elle sécrète des hormones."
+        mark: "Thèque (4)"
+        show: "*Thèque* : stroma ovarien · autour de la lame basale · *hormones*"
+
+  - kind: figure
+    title: "Légendes du follicule secondaire"
+    ref: "S2-1 p.8b"
+    fig: "S2-1:8b"
+    beats:
+      - say: "Les légendes. Un, le stroma de l'ovaire. Deux, un follicule primordial. Trois, un follicule primaire."
+        mark: ["1. Stroma", "2. Follicule primordial", "3. Follicule primaire"]
+        show: "1 stroma · 2 primordial · 3 primaire"
+      - say: "Puis le follicule secondaire : quatre, la thèque ; cinq, la membrane basale ; six, la granulosa, pluristratifiée ; sept, la zone pellucide ; huit, le noyau de l'ovocyte."
+        mark: ["4. thèque", "6. granulosa", "7. zone pellucide"]
+        show: "4 thèque · 5 membrane basale · 6 *granulosa* · 7 *zone pellucide* · 8 noyau"
+
+  - kind: figure
+    title: "Follicule secondaire → tertiaire"
+    ref: "S2-1 p.9b"
+    fig: "S2-1:9b"
+    trap: "Selon le cours : thèque interne → progestérone → granulosa → œstradiol."
+    beats:
+      - say: "Le follicule tertiaire : une cavité apparaît dans la granulosa, l'*antre*, numéro six. Un monticule de cellules persiste autour de l'ovocyte : le *cumulus oophorus*, numéro sept."
+        mark: ["antre (6)", "cumulus oophorus"]
+        show: "*Antre* (6) · *cumulus oophorus* (7)"
+      - say: "La thèque se divise : *interne*, numéro quatre, qui sécrète la progestérone ; et *externe*, numéro cinq, en transition avec le stroma."
+        mark: ["interne (4)", "externe (5)"]
+        show: "Thèque *interne* (4) : progestérone · *externe* (5) : transition avec le stroma"
+      - say: "Selon le cours, la progestérone passe dans la granulosa, où elle est transformée en *œstradiol*, qui stimule l'ovogenèse et l'ovulation."
+        mark: "oestradiol"
+        show: "Progestérone → granulosa → *œstradiol* (ovogenèse, ovulation)"
+
+  - kind: figure
+    title: "Follicule de Graaf et timing"
+    ref: "S2-1 p.10"
+    fig: "S2-1:10"
+    trap: "Primordial → Graaf : PLUSIEURS MOIS ; UN follicule de Graaf par cycle."
+    beats:
+      - say: "Du follicule tertiaire au *follicule de Graaf* : augmentation de taille, et vascularisation de la thèque interne, par des capillaires, et externe, par des vaisseaux."
+        mark: ["Graaf", "vascularisation"]
+        show: "*Graaf* : ↑ taille · thèque interne (capillaires) et externe (vaisseaux)"
+      - say: "Le timing : la maturation du follicule primordial au follicule de Graaf prend *plusieurs mois* : elle traverse donc plusieurs cycles."
+        mark: "plusieurs mois"
+        show: "Primordial → Graaf : *plusieurs mois* (plusieurs cycles)"
+      - say: "À chaque cycle, plusieurs follicules primordiaux s'engagent dans la maturation, mais *un seul* follicule de Graaf atteint la maturité, prêt pour l'ovulation."
+        mark: "un follicule de Graaf"
+        show: "Chaque cycle : plusieurs engagés · *1* Graaf mature"
+
+  - kind: flow
+    title: "La chaîne des follicules"
+    ref: "S2-1 p.7-10"
+    beats:
+      - say: "Résumons la chaîne."
+      - say: "Primordial : ovocyte primaire et cellules folliculaires aplaties."
+        show: "*Primordial* : cellules aplaties"
+      - say: "Primaire : cellules cuboïdales."
+        show: "*Primaire* : cuboïdales"
+      - say: "Secondaire : granulosa, zone pellucide, thèque."
+        show: "*Secondaire* : granulosa · zone pellucide · thèque"
+      - say: "Tertiaire : antre, cumulus oophorus, thèque interne et externe."
+        show: "*Tertiaire* : antre · cumulus · thèques"
+      - say: "Graaf : grande taille et thèques vascularisées."
+        show: "*Graaf* : taille · vascularisation"
+
+  - kind: trap
+    title: "Les pièges de l'ovogenèse"
+    ref: "S2-1 p.7-10"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Le dictyotène est un arrêt en métaphase” : faux. C'est un arrêt prolongé en diplotène, de la prophase un."
+        show: "✓ Dictyotène = arrêt en *diplotène*"
+      - say: "“La zone pellucide est sécrétée par la thèque” : faux. Par l'ovocyte et la granulosa."
+        show: "✓ Zone pellucide : *ovocyte* + *granulosa*"
+      - say: "“Le cumulus oophorus est une cavité” : faux. La cavité, c'est l'antre ; le cumulus est le monticule de cellules autour de l'ovocyte."
+        show: "✓ Antre = cavité · cumulus = *monticule* de cellules"
+
+  - kind: mnemo
+    title: "Mémoriser les dates"
+    ref: "S2-1 p.7h"
+    beats:
+      - say: "Six, douze, vingt-deux : à six semaines, les ovogonies prolifèrent ; à douze, elles deviennent des ovocytes primaires ; à vingt-deux, la prolifération s'arrête."
+        show: "*6* prolifération · *12* ovocytes I · *22* fin de prolifération"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-1 p.7b"
+    question: "Combien de follicules primaires survivent par cycle pour devenir secondaires ?"
+    options:
+      - "1"
+      - "5 à 12"
+      - "100 à 200"
+      - "Tous"
+    answer: [1]
+    beats:
+      - say: "Quiz : combien de follicules primaires survivent par cycle ?"
+        countdown: 4
+      - say: "Cinq à douze. Et un seul follicule de Graaf atteint la maturité."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 45 : l'ovulation"
+    ref: "S2-1 p.11"
+    big: "Pic de LH"
+    beats:
+      - say: "Prochain épisode : le pic de L H, la fin de la méiose un et l'ovulation."
+        show: "*Pic de LH* · méiose · ovulation"
+
+recap:
+  - "Phases fœtales : CGPs → ovogonies dans l'ovaire fœtal ; prolifération des ovogonies (semaines 6 à 22) ; dès la 12e semaine, différenciation en ovocytes primaires (amorce de la méiose → diplotène ; arrêt prolongé = dictyotène, diplotène 2n ×2 ; noyau volumineux = vésicule germinative) ; ovocytes primaires entourés de cellules folliculaires = follicules primordiaux ; ovogonie → follicule primordial ~4 semaines ; jusqu'à la naissance (tous les follicules primordiaux formés)."
+  - "Dès la puberté, stimulé par les cycles (↑ FSH et LH) : groupe de follicules primordiaux → primaires (cellules folliculaires aplaties → cuboïdales) ; primaires qui survivent (5 à 12 / cycle) → secondaires (cellules folliculaires → granulosa ; sécrétion de la zone pellucide)."
+  - "Zone pellucide (2) : glycoprotéines sécrétées par l'ovocyte et la granulosa ; protection ; traversée d'extensions de la granulosa (jonctions communicantes : signalisation, apport métabolique). Thèque (4) : cellules du stroma ovarien recrutées, autour de la lame basale entourant la granulosa ; sécrétion d'hormones. Légendes : 1 stroma, 2 primordial, 3 primaire, 4 thèque, 5 membrane basale, 6 granulosa (pluristratifiée), 7 zone pellucide, 8 noyau de l'ovocyte."
+  - "Follicule tertiaire : antre (6) ; cumulus oophorus (7) ; thèque interne (4, progestérone) et externe (5, transition avec le stroma) ; progestérone → granulosa → œstradiol (stimule ovogenèse et ovulation)."
+  - "Follicule de Graaf : augmentation de taille, vascularisation de la thèque interne (capillaires) et externe (vaisseaux). Timing : primordial → Graaf = plusieurs mois (plusieurs cycles) ; à chaque cycle, plusieurs primordiaux s'engagent ; un follicule de Graaf atteint la maturité."
+
+traps:
+  - ["Prolifération des ovogonies semaines 12 à 22", "Semaines 6 à 22 ; ovocytes I dès la 12e", "p.7h"]
+  - ["Dictyotène = arrêt en métaphase 2", "Arrêt prolongé en diplotène (2n ×2)", "p.7h"]
+  - ["Vésicule germinative = zone pellucide", "Noyau volumineux de l'ovocyte I", "p.7h"]
+  - ["Follicules primordiaux formés jusqu'à la puberté", "Jusqu'à la naissance", "p.7h"]
+  - ["Zone pellucide sécrétée par la thèque", "Par l'ovocyte et la granulosa", "p.8h"]
+  - ["Thèque externe sécrète la progestérone", "Thèque interne", "p.9b"]
+  - ["Plusieurs follicules de Graaf par cycle", "Un seul atteint la maturité", "p.10"]
+
+mnemonics:
+  - ["Dates", "6 – 12 – 22 : prolifération, ovocytes I, fin de prolifération", "~4 semaines ovogonie → primordial"]
+  - ["Follicules", "« Pri-Pri-Se-Ter-Graaf » : aplaties, cuboïdales, granulosa, antre, vascularisation", "5 à 12 survivent / 1 Graaf"]
+
+quiz:
+  - q: "Phases fœtales :"
+    props:
+      - ["La prolifération des ovogonies a lieu des semaines 6 à 22.", true, "p.7h."]
+      - ["Les ovocytes primaires apparaissent dès la 12e semaine.", true, "p.7h."]
+      - ["Le dictyotène est un arrêt prolongé en diplotène.", true, "p.7h."]
+      - ["La vésicule germinative est le noyau volumineux de l'ovocyte primaire.", true, "p.7h."]
+      - ["Les follicules primordiaux continuent à se former jusqu'à la ménopause.", false, "Jusqu'à la naissance."]
+  - q: "Follicules primaire et secondaire :"
+    props:
+      - ["Le passage primordial → primaire rend les cellules folliculaires cuboïdales.", true, "p.7b."]
+      - ["5 à 12 follicules primaires survivent par cycle.", true, "p.7b."]
+      - ["La zone pellucide est sécrétée uniquement par la thèque.", false, "Ovocyte et granulosa."]
+      - ["Des jonctions communicantes traversent la zone pellucide.", true, "p.8h."]
+      - ["La thèque se forme autour de la lame basale qui entoure la granulosa.", true, "p.8h."]
+  - q: "Follicule tertiaire et Graaf :"
+    props:
+      - ["L'antre est une cavité dans la granulosa.", true, "p.9b."]
+      - ["Le cumulus oophorus entoure l'ovocyte.", true, "p.9b."]
+      - ["Selon le cours, la thèque interne sécrète la progestérone.", true, "p.9b."]
+      - ["La maturation primordial → Graaf dure un seul cycle.", false, "Plusieurs mois (plusieurs cycles)."]
+      - ["Un follicule de Graaf atteint la maturité à chaque cycle.", true, "p.10."]
+
+coverage:
+  - ["S2-1", "7h", "Phases fœtales de l'ovogenèse, dictyotène", 1]
+  - ["S2-1", "7b", "Primordial → primaire → secondaire", 2]
+  - ["S2-1", "8h", "Zone pellucide et thèque", 3]
+  - ["S2-1", "8b", "Légendes 1 à 8", 4]
+  - ["S2-1", "9h", "Primordial → primaire → secondaire (répété)", 2]
+  - ["S2-1", "9b", "Follicule tertiaire", 5]
+  - ["S2-1", "10", "Graaf, timing", 6]

@@ -1,0 +1,256 @@
+title: "Morphogènes, engagement et reprogrammation"
+subtitle: "Spemann-Mangold · gradients · Bicoid/Buttonhead · mémoire nucléaire · transfert nucléaire · iPS · multipotence"
+source: "S2-2 p.14 à 18h"
+chapter: "Partie II — IV. Différenciation et mouvements cellulaires — 2 à 4"
+objectives:
+  - "Décrire l'expérience de Spemann-Mangold et la notion de centre inducteur."
+  - "Expliquer les gradients de morphogènes (exemple Bicoid / Buttonhead)."
+  - "Expliquer l'engagement définitif et la mémoire nucléaire."
+  - "Décrire le transfert nucléaire, le clonage, les iPS et les cellules souches adultes multipotentes."
+
+scenes:
+  - kind: hook
+    title: "Quatre gènes pour remonter le temps"
+    ref: "S2-2 p.17b"
+    big: "4"
+    beats:
+      - say: "Une cellule de peau adulte, quatre facteurs de transcription, et elle redevient une cellule souche pluripotente."
+      - say: "Au programme : l'organisateur de Spemann, les gradients de morphogènes, l'engagement définitif, le clonage, les i P S et les cellules souches adultes."
+        show: "Spemann · gradients · clonage · *iPS* · souches adultes"
+
+  - kind: figure
+    title: "L'organisateur de Spemann-Mangold"
+    ref: "S2-2 p.14h"
+    fig: "S2-2:14h"
+    trap: "Lèvre dorsale du blastopore = nœud primitif ; greffée en ventral → axe SECONDAIRE."
+    beats:
+      - say: "Expérience de Spemann et Mangold, en *1924*, sur des embryons d'amphibiens."
+        mark: "1924"
+        show: "Spemann / Mangold, *1924*, amphibiens"
+      - say: "On greffe la *lèvre dorsale du blastopore*, l'équivalent du nœud primitif, dans la partie ventrale d'un autre embryon. Résultat : un *axe corporel secondaire* se forme, mélange de cellules du donneur et de l'hôte."
+        mark: ["Lèvre dorsal du blastopore", "axe corporel secondaire"]
+        show: "Lèvre dorsale du blastopore (= *nœud primitif*) → ventral → *axe secondaire* (donneur + hôte)"
+      - say: "L'organisateur de Spemann-Mangold est donc un *inducteur*."
+        show: "Organisateur = *inducteur*"
+
+  - kind: figure
+    title: "Gradients de morphogènes"
+    ref: "S2-2 p.14b"
+    fig: "S2-2:14b"
+    beats:
+      - say: "Pendant le développement, des *gradients de morphogènes* se mettent en place. Chaque position dans l'embryon correspond à une combinaison et une concentration particulières de morphogènes."
+        mark: ["gradients de morphogènes", "combinaison"]
+        show: "Position = *combinaison* + *concentration* de morphogènes"
+      - say: "Ainsi, les gradients spécifient le devenir de chaque cellule, en fonction de sa position dans l'embryon."
+        mark: "spécifient le devenir"
+        show: "Gradient → *devenir* selon la *position*"
+
+  - kind: figure
+    title: "Exemple : Bicoid chez la drosophile"
+    ref: "S2-2 p.15h"
+    fig: "S2-2:15h"
+    trap: "Buttonhead exprimé là où Bicoid est MOYEN."
+    beats:
+      - say: "Chez la drosophile, le morphogène *Bicoid* est produit en gradient, de l'antérieur vers le postérieur."
+        mark: "Bicoid (Bcd)"
+        show: "*Bicoid* : gradient antérieur > postérieur"
+      - say: "Ce gradient influence l'expression du gène *Buttonhead*, exprimé seulement dans une bande de cellules où la concentration de Bicoid est *moyenne*."
+        mark: ["Buttonhead (Btd)", "moyenne"]
+        show: "*Buttonhead* : bande où Bicoid est *moyen*"
+
+  - kind: figure
+    title: "Un réseau complexe de morphogènes"
+    ref: "S2-2 p.15b"
+    fig: "S2-2:15b"
+    beats:
+      - say: "En réalité, il s'agit d'un réseau complexe : de nombreux morphogènes interagissent pour définir chaque territoire."
+        show: "Un *réseau complexe* de morphogènes"
+
+  - kind: figure
+    title: "Différenciation : un engagement définitif"
+    ref: "S2-2 p.16h"
+    fig: "S2-2:16h"
+    trap: "Irréversibilité ≈ modifications de la CHROMATINE = mémoire nucléaire."
+    beats:
+      - say: "Les cellules subissent des changements progressifs, des *stades de détermination*, avant leur différenciation finale."
+        mark: "stades de détermination"
+        show: "*Stades de détermination* → différenciation finale"
+      - say: "Chaque étape est un *engagement définitif* : impossible de revenir en arrière. Cette irréversibilité est en grande partie liée à des modifications de la *chromatine*, qui verrouillent l'état actif ou inactif des gènes : c'est la *mémoire nucléaire*."
+        mark: ["engagement définitif", "mémoire nucléaire"]
+        show: "*Engagement définitif* · chromatine verrouillée = *mémoire nucléaire*"
+      - say: "L'illustration : une bille qui descend une pente peut emprunter différentes voies, mais ne peut pas remonter."
+        mark: "la bille"
+        show: "La *bille* descend, ne remonte pas"
+
+  - kind: figure
+    title: "Reprogrammation artificielle et clonage"
+    ref: "S2-2 p.16b"
+    fig: "S2-2:16b"
+    trap: "Clonage reproductif INTERDIT chez l'homme ; thérapie AUTOLOGUE = chez le donneur."
+    beats:
+      - say: "Le noyau d'une cellule adulte, le donneur, peut être *reprogrammé* si on l'introduit dans le cytoplasme d'un ovocyte énucléé : c'est le *transfert nucléaire*."
+        mark: ["Transfert", "Enucléation"]
+        show: "Noyau adulte → ovocyte *énucléé* = *transfert nucléaire*"
+      - say: "Si un embryon se développe, il est génétiquement identique au donneur du noyau."
+        show: "Embryon = *génétiquement identique* au donneur"
+      - say: "L'embryon peut être implanté dans l'utérus d'une porteuse : c'est le *clonage* animal, *interdit chez l'homme*. Ou bien on l'utilise pour établir des cellules souches pluripotentes, pour une thérapie de remplacement chez le donneur : thérapie *autologue*."
+        mark: ["Clonage", "Thérapies de"]
+        show: "*Clonage* (interdit chez l'homme) · ou cellules pluripotentes → thérapie *autologue*"
+
+  - kind: figure
+    title: "Premier transfert nucléaire humain"
+    ref: "S2-2 p.17h"
+    fig: "S2-2:17h"
+    blur: [[0.05, 0.13, 0.23, 0.42]]
+    beats:
+      - say: "Samuel H. Wood, de la société Stemagen, à San Diego : première production d'embryons humains par transfert nucléaire, en *2008*."
+        mark: ["Samuel H. Wood", "(2008)"]
+        show: "S. H. Wood (Stemagen) · *2008*"
+      - say: "Il utilise ses propres cellules de peau, des fibroblastes, comme donneuses de noyau. Cinq blastocystes sont obtenus, et détruits après six jours."
+        mark: ["Cinq blastocystes", "6 jours"]
+        show: "Ses fibroblastes · *5 blastocystes* · détruits après *6 jours*"
+      - say: "En 2013 et 2014, deux autres équipes répètent l'expérience et produisent des cellules souches pluripotentes."
+        mark: "En 2013 et 2014"
+        show: "*2013, 2014* : cellules souches pluripotentes"
+
+  - kind: figure
+    title: "Les cellules iPS"
+    ref: "S2-2 p.17b"
+    fig: "S2-2:17b"
+    trap: "4 facteurs : OCT4, SOX2, KLF4, MYC."
+    beats:
+      - say: "On peut reprogrammer une cellule différenciée en y introduisant *quatre facteurs de transcription* de la pluripotence : *OCT4, SOX2, KLF4 et MYC*."
+        mark: ["quatre facteurs", "OCT4"]
+        show: "# *OCT4* · *SOX2* · *KLF4* · *MYC*"
+      - say: "Après sélection, on obtient des cellules dé-différenciées : les *cellules souches pluripotentes induites*, les i P S."
+        mark: "(iPS)"
+        show: "→ *iPS* (pluripotentes induites)"
+      - say: "Elles ont toutes les caractéristiques des cellules souches embryonnaires, et peuvent être redirigées vers différents types cellulaires : thérapies de remplacement."
+        mark: "toutes les"
+        show: "= caractéristiques des cellules ES · *thérapies de remplacement*"
+
+  - kind: figure
+    title: "Les cellules souches adultes"
+    ref: "S2-2 p.18h"
+    fig: "S2-2:18h"
+    trap: "Adultes = MULTIPOTENTES (et non pluripotentes)."
+    beats:
+      - say: "Chez l'adulte, des cellules souches non différenciées persistent. Plusieurs types ont été identifiés."
+        show: "*Cellules souches adultes* : plusieurs types"
+      - say: "Elles ne se différencient qu'en une variété *limitée* de types cellulaires : elles sont *multipotentes*, et non pluripotentes."
+        mark: "multipotentes"
+        show: "Variété *limitée* → *multipotentes* (≠ pluripotentes)"
+      - say: "Elles peuvent se renouveler par division, pour maintenir le stock, ou se différencier. Elles remplacent les cellules trop vieilles ou détruites : c'est l'homéostasie tissulaire."
+        mark: "homéostasie tissulaire"
+        show: "Renouvellement ou différenciation · *homéostasie tissulaire*"
+
+  - kind: table
+    title: "L'échelle des potentialités"
+    ref: "S2-2 p.10-18"
+    header: ["Potentialité", "Cellules", "Peuvent former"]
+    beats:
+      - say: "L'échelle des potentialités."
+      - say: "Totipotentes : zygote et blastomères ; tout, placenta compris."
+        show: "*Totipotent* | zygote, blastomères | embryon + placenta"
+      - say: "Pluripotentes : masse cellulaire interne, cellules E S et i P S ; tout l'embryon, sans le placenta."
+        show: "*Pluripotent* | masse interne, ES, iPS | embryon, sans placenta"
+      - say: "Multipotentes : cellules souches adultes ; une variété limitée."
+        show: "*Multipotent* | souches adultes | variété limitée"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-2 p.14-18"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les cellules souches adultes sont pluripotentes” : faux, multipotentes."
+        show: "✓ Souches adultes = *multipotentes*"
+      - say: "“Buttonhead est exprimé là où Bicoid est maximal” : faux, là où il est moyen."
+        show: "✓ Buttonhead : Bicoid *moyen*"
+      - say: "“Les i P S sont obtenues par transfert nucléaire” : faux, par introduction de quatre facteurs de transcription dans une cellule adulte."
+        show: "✓ iPS = *4 facteurs* · transfert nucléaire = *ovocyte*"
+
+  - kind: mnemo
+    title: "Mémoriser les 4 facteurs"
+    ref: "S2-2 p.17b"
+    beats:
+      - say: "Les quatre facteurs des i P S : “OSKM”, comme Oct4, Sox2, Klf4, Myc. Trois portent un chiffre, quatre, deux, quatre ; Myc, aucun."
+        show: "*O*CT4 · *S*OX2 · *K*LF4 · *M*YC = « *OSKM* »"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.18h"
+    question: "Comment qualifie-t-on les cellules souches adultes ?"
+    options:
+      - "Totipotentes"
+      - "Pluripotentes"
+      - "Multipotentes"
+      - "Unipotentes"
+    answer: [2]
+    beats:
+      - say: "Quiz : comment qualifie-t-on les cellules souches adultes ?"
+        countdown: 4
+      - say: "Multipotentes : une variété limitée de types cellulaires."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 53 : les mouvements cellulaires"
+    ref: "S2-2 p.18b"
+    big: "TEM"
+    beats:
+      - say: "Prochain épisode : les mouvements cellulaires et la transition épithélio-mésenchymateuse."
+        show: "Mouvements · *transition épithélio-mésenchymateuse*"
+
+recap:
+  - "Spemann/Mangold (1924, amphibiens) : lèvre dorsale du blastopore (= nœud primitif) greffée en ventral → axe corporel secondaire (mélange donneur/hôte) ; organisateur = inducteur."
+  - "Gradients de morphogènes : chaque position = combinaison et concentration particulières ; spécifient le devenir de chaque cellule selon sa position. Drosophile : Bicoid (Bcd) en gradient antérieur > postérieur ; Buttonhead (Btd) exprimé seulement dans une bande où Bicoid est moyen (Hannon et al., 2017) ; réseau complexe de morphogènes."
+  - "Engagement définitif : stades de détermination progressifs ; chaque étape est irréversible ; irréversibilité largement liée à des modifications de la chromatine verrouillant l'état actif/inactif des gènes (mémoire nucléaire) ; image de la bille."
+  - "Transfert nucléaire : noyau d'une cellule adulte (donneur) introduit dans un ovocyte énucléé → reprogrammé ; embryon génétiquement identique au donneur ; implantation chez une porteuse = clonage animal (interdit chez l'homme) ; ou cellules souches pluripotentes pour une thérapie de remplacement autologue. S. H. Wood (Stemagen, San Diego) : premiers embryons humains par transfert nucléaire (2008), ses fibroblastes de peau, 5 blastocystes détruits après 6 jours ; 2013 et 2014 : deux équipes, cellules souches pluripotentes."
+  - "iPS : 4 facteurs de transcription de la pluripotence (OCT4, SOX2, KLF4, MYC) ; sélection → cellules dé-différenciées ; mêmes caractéristiques que les ES ; redirigeables (thérapies de remplacement)."
+  - "Cellules souches adultes : persistent, plusieurs types ; variété limitée de types cellulaires = multipotentes (et non pluripotentes) ; renouvellement (maintien du stock) ou différenciation ; remplacent les cellules vieilles ou détruites (homéostasie tissulaire)."
+
+traps:
+  - ["Spemann-Mangold 1952", "1924, amphibiens", "p.14h"]
+  - ["Greffe de la lèvre ventrale", "Lèvre dorsale du blastopore greffée en ventral", "p.14h"]
+  - ["Buttonhead là où Bicoid est maximal", "Là où Bicoid est moyen", "p.15h"]
+  - ["Différenciation réversible spontanément", "Engagement définitif (mémoire nucléaire)", "p.16h"]
+  - ["Clonage humain autorisé", "Interdit chez l'homme", "p.16b"]
+  - ["iPS : 3 facteurs", "4 : OCT4, SOX2, KLF4, MYC", "p.17b"]
+  - ["Cellules souches adultes pluripotentes", "Multipotentes", "p.18h"]
+
+mnemonics:
+  - ["Facteurs iPS", "« OSKM » : OCT4, SOX2, KLF4, MYC", "4 facteurs"]
+  - ["Potentialités", "Toti > Pluri > Multi : total, plusieurs, quelques-uns", "Zygote > masse interne/ES/iPS > adulte"]
+
+quiz:
+  - q: "Spemann et gradients :"
+    props:
+      - ["L'expérience de Spemann-Mangold date de 1924.", true, "p.14h."]
+      - ["La lèvre dorsale du blastopore équivaut au nœud primitif.", true, "p.14h."]
+      - ["La greffe induit un axe corporel secondaire.", true, "p.14h."]
+      - ["Bicoid forme un gradient postérieur > antérieur.", false, "Antérieur > postérieur."]
+      - ["Buttonhead est exprimé là où Bicoid est moyen.", true, "p.15h."]
+  - q: "Engagement et reprogrammation :"
+    props:
+      - ["Chaque étape de la différenciation est un engagement définitif.", true, "p.16h."]
+      - ["La mémoire nucléaire est liée à des modifications de la chromatine.", true, "p.16h."]
+      - ["Le transfert nucléaire consiste à introduire un noyau adulte dans un ovocyte.", true, "p.16b."]
+      - ["Le clonage reproductif est autorisé chez l'homme.", false, "Interdit."]
+      - ["Les blastocystes de S. H. Wood ont été détruits après 6 jours.", true, "p.17h."]
+  - q: "iPS et cellules souches adultes :"
+    props:
+      - ["Les iPS sont obtenues par introduction de 4 facteurs de transcription.", true, "p.17b."]
+      - ["SOX2 fait partie des facteurs de pluripotence.", true, "p.17b."]
+      - ["Les iPS ont les caractéristiques des cellules souches embryonnaires.", true, "p.17b."]
+      - ["Les cellules souches adultes sont pluripotentes.", false, "Multipotentes."]
+      - ["Les cellules souches adultes participent à l'homéostasie tissulaire.", true, "p.18h."]
+
+coverage:
+  - ["S2-2", "14h", "Organisateur de Spemann-Mangold", 1]
+  - ["S2-2", "14b", "Gradients de morphogènes", 2]
+  - ["S2-2", "15h", "Bicoid / Buttonhead", 3]
+  - ["S2-2", "15b", "Réseau complexe de morphogènes", 4]
+  - ["S2-2", "16h", "Engagement définitif, mémoire nucléaire", 5]
+  - ["S2-2", "16b", "Transfert nucléaire, clonage", 6]
+  - ["S2-2", "17h", "S. H. Wood, 2008", 7]
+  - ["S2-2", "17b", "iPS", 8]
+  - ["S2-2", "18h", "Cellules souches adultes multipotentes", 9]

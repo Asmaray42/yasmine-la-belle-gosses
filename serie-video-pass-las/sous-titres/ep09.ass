@@ -1,0 +1,150 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Donne-moi un brin d'ADN,
+Dialogue: 0,0:00:01.71,0:00:03.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et je te donne le brin d'en face,
+Dialogue: 0,0:00:03.43,0:00:04.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sans hésiter : il n'en existe
+Dialogue: 0,0:00:04.94,0:00:05.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qu'un seul possible.
+Dialogue: 0,0:00:06.39,0:00:08.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les nucléotides,
+Dialogue: 0,0:00:08.07,0:00:09.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la liaison phosphodiester,
+Dialogue: 0,0:00:09.49,0:00:11.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ADN, l'ARN, et l'ATP.
+Dialogue: 0,0:00:11.73,0:00:13.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Septième point des macromolécules
+Dialogue: 0,0:00:13.47,0:00:14.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les acides nucléiques.
+Dialogue: 0,0:00:14.87,0:00:15.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}De longs polymères de
+Dialogue: 0,0:00:15.95,0:00:17.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, sous deux formes :
+Dialogue: 0,0:00:17.55,0:00:18.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ADN et l'ARN.
+Dialogue: 0,0:00:19.03,0:00:20.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils contiennent l'information
+Dialogue: 0,0:00:20.60,0:00:22.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la synthèse des protéines,
+Dialogue: 0,0:00:22.28,0:00:23.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ont la capacité d'être
+Dialogue: 0,0:00:23.48,0:00:24.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}retranscrits ou recopiés,
+Dialogue: 0,0:00:24.83,0:00:26.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et sont transmis au cours des
+Dialogue: 0,0:00:26.40,0:00:28.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}divisions cellulaires et dans la
+Dialogue: 0,0:00:28.14,0:00:28.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}descendance.
+Dialogue: 0,0:00:29.35,0:00:30.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un nucléotide comprend trois
+Dialogue: 0,0:00:30.93,0:00:32.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}parties : un sucre à cinq
+Dialogue: 0,0:00:32.35,0:00:34.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbones, un groupe phosphate,
+Dialogue: 0,0:00:34.06,0:00:35.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une base azotée,
+Dialogue: 0,0:00:35.14,0:00:36.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la partie variable.
+Dialogue: 0,0:00:36.61,0:00:38.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le sucre est le {\c&H66D1FF&}ribose{\c&HFFFFFF&} dans
+Dialogue: 0,0:00:38.23,0:00:40.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ARN, acide ribonucléique,
+Dialogue: 0,0:00:40.02,0:00:41.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le {\c&H66D1FF&}désoxyribose{\c&HFFFFFF&} dans l'ADN,
+Dialogue: 0,0:00:41.99,0:00:43.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acide désoxyribonucléique.
+Dialogue: 0,0:00:44.10,0:00:45.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il existe cinq bases azotées :
+Dialogue: 0,0:00:45.86,0:00:47.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'adénine A, la guanine G,
+Dialogue: 0,0:00:47.39,0:00:49.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cytosine C, la thymine T,
+Dialogue: 0,0:00:49.03,0:00:49.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'uracile U.
+Dialogue: 0,0:00:50.31,0:00:52.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'où quatre nucléotides dans
+Dialogue: 0,0:00:52.00,0:00:53.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ADN, A, C, G ou T,
+Dialogue: 0,0:00:53.38,0:00:54.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec le désoxyribose ;
+Dialogue: 0,0:00:54.70,0:00:56.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et quatre dans l'ARN,
+Dialogue: 0,0:00:56.15,0:00:57.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A, C, G ou U, avec le ribose.
+Dialogue: 0,0:00:58.45,0:00:59.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour polymériser, le groupe
+Dialogue: 0,0:00:59.97,0:01:01.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydroxyle O H lié au carbone {\c&H66D1FF&}3{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.89,0:01:03.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}prime{\c&HFFFFFF&} du sucre d'un nucléotide
+Dialogue: 0,0:01:03.58,0:01:05.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réagit avec le groupe phosphate
+Dialogue: 0,0:01:05.32,0:01:06.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lié au carbone {\c&H66D1FF&}5{\c&HFFFFFF&} {\c&H66D1FF&}prime{\c&HFFFFFF&} du
+Dialogue: 0,0:01:06.90,0:01:08.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotide suivant :
+Dialogue: 0,0:01:08.03,0:01:09.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}liaison{\c&HFFFFFF&} {\c&H66D1FF&}phosphodiester{\c&HFFFFFF&} .
+Dialogue: 0,0:01:10.28,0:01:11.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chaîne commence donc par un
+Dialogue: 0,0:01:11.91,0:01:13.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate en position 5 prime et
+Dialogue: 0,0:01:13.80,0:01:15.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se termine par un hydroxyle en
+Dialogue: 0,0:01:15.42,0:01:16.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}position 3 prime :
+Dialogue: 0,0:01:16.61,0:01:18.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'orientation 5 prime vers
+Dialogue: 0,0:01:18.50,0:01:19.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}3 prime.
+Dialogue: 0,0:01:19.71,0:01:21.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN est constitué de deux
+Dialogue: 0,0:01:21.37,0:01:22.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaînes, deux brins de
+Dialogue: 0,0:01:22.58,0:01:24.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, {\c&H66D1FF&}complémentaires{\c&HFFFFFF&} et
+Dialogue: 0,0:01:24.28,0:01:26.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}antiparallèles{\c&HFFFFFF&} : c'est le duplex
+Dialogue: 0,0:01:26.05,0:01:27.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'ADN, en double hélice.
+Dialogue: 0,0:01:27.93,0:01:29.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les deux brins sont appariés au
+Dialogue: 0,0:01:29.60,0:01:31.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}niveau de leurs bases par des
+Dialogue: 0,0:01:31.15,0:01:32.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaisons hydrogène,
+Dialogue: 0,0:01:32.17,0:01:33.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec une règle stricte :
+Dialogue: 0,0:01:33.45,0:01:34.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A avec T, C avec G.
+Dialogue: 0,0:01:34.87,0:01:36.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Conséquence : à un brin d'ADN ne
+Dialogue: 0,0:01:36.69,0:01:38.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut correspondre qu'un seul brin
+Dialogue: 0,0:01:38.41,0:01:39.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complémentaire.
+Dialogue: 0,0:01:39.33,0:01:41.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et l'unité de longueur de l'ADN,
+Dialogue: 0,0:01:41.11,0:01:42.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la paire de bases,
+Dialogue: 0,0:01:42.34,0:01:42.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}b p.
+Dialogue: 0,0:01:43.10,0:01:44.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ARN est {\c&H66D1FF&}simple{\c&HFFFFFF&} {\c&H66D1FF&}brin{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:44.38,0:01:45.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sans structure en hélice.
+Dialogue: 0,0:01:45.74,0:01:47.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est une retranscription d'une
+Dialogue: 0,0:01:47.31,0:01:49.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}portion de séquence d'un brin d'ADN.
+Dialogue: 0,0:01:49.68,0:01:51.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La transcription repose aussi sur
+Dialogue: 0,0:01:51.57,0:01:53.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la complémentarité des bases,
+Dialogue: 0,0:01:53.24,0:01:54.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sauf que U, dans l'ARN,
+Dialogue: 0,0:01:54.74,0:01:56.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}remplace T : U est complémentaire
+Dialogue: 0,0:01:56.63,0:01:56.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de A.
+Dialogue: 0,0:01:57.48,0:01:59.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le tableau comparatif du cours.
+Dialogue: 0,0:01:59.56,0:02:01.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sucre : désoxyribose pour l'ADN,
+Dialogue: 0,0:02:01.46,0:02:02.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ribose pour l'ARN.
+Dialogue: 0,0:02:03.00,0:02:03.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Brins : deux brins
+Dialogue: 0,0:02:03.84,0:02:05.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complémentaires, contre un simple brin.
+Dialogue: 0,0:02:06.05,0:02:07.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bases : A, C, G, T contre A,
+Dialogue: 0,0:02:07.62,0:02:08.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C, G, U.
+Dialogue: 0,0:02:08.47,0:02:10.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rôle : l'ADN stocke l'information
+Dialogue: 0,0:02:10.41,0:02:12.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; l'ARN est transcrit à partir de
+Dialogue: 0,0:02:12.34,0:02:14.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ADN et sert à la synthèse d'une
+Dialogue: 0,0:02:14.28,0:02:14.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine.
+Dialogue: 0,0:02:15.17,0:02:16.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Stabilité : grande pour l'ADN ;
+Dialogue: 0,0:02:16.91,0:02:17.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ARN est fragile,
+Dialogue: 0,0:02:17.99,0:02:19.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un temps de vie assez court.
+Dialogue: 0,0:02:20.08,0:02:21.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et l'ADN peut être recopié,
+Dialogue: 0,0:02:21.71,0:02:23.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une molécule donnant deux
+Dialogue: 0,0:02:23.07,0:02:24.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules identiques,
+Dialogue: 0,0:02:24.21,0:02:25.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la réplication,
+Dialogue: 0,0:02:25.35,0:02:27.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et il est transmis au cours des
+Dialogue: 0,0:02:27.03,0:02:28.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}divisions et à la descendance.
+Dialogue: 0,0:02:29.22,0:02:31.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN humain : {\c&H66D1FF&}23{\c&HFFFFFF&} molécules
+Dialogue: 0,0:02:31.21,0:02:32.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes, les chromosomes,
+Dialogue: 0,0:02:32.68,0:02:35.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de {\c&H66D1FF&}48{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}250{\c&HFFFFFF&} {\c&H66D1FF&}millions{\c&HFFFFFF&} de paires de
+Dialogue: 0,0:02:35.74,0:02:38.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bases chacun, soit au total {\c&H66D1FF&}3,2{\c&HFFFFFF&}
+Dialogue: 0,0:02:38.08,0:02:39.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}milliards{\c&HFFFFFF&} de paires de bases.
+Dialogue: 0,0:02:39.95,0:02:41.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le tout en double dans la plupart
+Dialogue: 0,0:02:41.64,0:02:43.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des cellules : une copie de
+Dialogue: 0,0:02:43.03,0:02:44.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maman, une copie de papa.
+Dialogue: 0,0:02:44.87,0:02:46.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les nucléotides ont d'autres
+Dialogue: 0,0:02:46.17,0:02:46.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctions.
+Dialogue: 0,0:02:46.78,0:02:48.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}adénosine{\c&HFFFFFF&} {\c&H66D1FF&}triphosphate{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:48.22,0:02:49.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATP : une molécule chargée
+Dialogue: 0,0:02:49.82,0:02:51.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie, la monnaie d'échange
+Dialogue: 0,0:02:51.48,0:02:52.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie de la cellule,
+Dialogue: 0,0:02:52.76,0:02:54.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui alimente les réactions
+Dialogue: 0,0:02:54.15,0:02:54.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimiques.
+Dialogue: 0,0:02:55.08,0:02:56.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La nicotinamide adénine
+Dialogue: 0,0:02:56.58,0:02:58.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dinucléotide, NAD plus,
+Dialogue: 0,0:02:58.21,0:02:59.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la flavine adénine
+Dialogue: 0,0:02:59.58,0:03:00.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dinucléotide, FAD,
+Dialogue: 0,0:03:00.88,0:03:03.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}servent au {\c&H66D1FF&}transport{\c&HFFFFFF&} {\c&H66D1FF&}d'électrons{\c&HFFFFFF&} .
+Dialogue: 0,0:03:03.65,0:03:04.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:04.89,0:03:06.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'ARN contient du désoxyribose”
+Dialogue: 0,0:03:06.73,0:03:07.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux, du ribose.
+Dialogue: 0,0:03:08.13,0:03:09.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les deux brins d'ADN sont
+Dialogue: 0,0:03:09.48,0:03:10.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}parallèles” : faux,
+Dialogue: 0,0:03:10.35,0:03:11.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}antiparallèles.
+Dialogue: 0,0:03:11.47,0:03:12.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'ARN est très stable” :
+Dialogue: 0,0:03:12.72,0:03:13.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, il est fragile,
+Dialogue: 0,0:03:13.73,0:03:15.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un temps de vie court.
+Dialogue: 0,0:03:15.17,0:03:16.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est l'ADN qui est très stable.
+Dialogue: 0,0:03:17.27,0:03:18.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:23.05,0:03:23.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A.
+Dialogue: 0,0:03:23.98,0:03:25.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chaîne finit par un hydroxyle
+Dialogue: 0,0:03:25.58,0:03:28.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en 3 prime, c'est 3,2 milliards
+Dialogue: 0,0:03:28.08,0:03:29.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de paires de bases,
+Dialogue: 0,0:03:29.03,0:03:30.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'ADN est double brin.
+Dialogue: 0,0:03:30.98,0:03:32.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On a fini les molécules.
+Dialogue: 0,0:03:32.46,0:03:33.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:33.44,0:03:34.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on entre dans la cellule,
+Dialogue: 0,0:03:34.80,0:03:35.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec Robert Hooke,
+Dialogue: 0,0:03:35.78,0:03:38.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en 1665, et un bout de liège.

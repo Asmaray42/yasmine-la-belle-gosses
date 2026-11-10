@@ -1,0 +1,188 @@
+title: "Organogenèse : principes et poumons"
+subtitle: "3 feuillets · apoptose · morphogènes · diverticule respiratoire · alvéoles sem. 28/36 · FGF/SHH/BMP"
+source: "S2-2 p.32b à 34"
+chapter: "Partie II — VI. Organogenèse — 1 et 2"
+objectives:
+  - "Énoncer les principes de l'organogenèse."
+  - "Décrire la formation du diverticule respiratoire et des bourgeons bronchiques (J25 à J38)."
+  - "Donner le calendrier des alvéoles primitives et matures, et expliquer les difficultés des prématurés."
+  - "Expliquer le mécanisme de ramification des bronches (FGF, SHH, BMP)."
+
+scenes:
+  - kind: hook
+    title: "Le poumon se ramifie tout seul"
+    ref: "S2-2 p.34b"
+    big: "FGF"
+    beats:
+      - say: "Ton arbre bronchique s'est construit avec trois signaux seulement : un qui fait pousser, un qui coupe le carburant, un qui freine. Et ça se répète, branche après branche."
+      - say: "Au programme : les principes de l'organogenèse, le développement des poumons, et le mécanisme de ramification."
+        show: "Principes · *poumons* · FGF · SHH · BMP"
+
+  - kind: figure
+    title: "Le chapitre VI"
+    ref: "S2-2 p.32b"
+    fig: "S2-2:32b"
+    beats:
+      - say: "Chapitre six : l'organogenèse. Quatre points : les principes, les bronches et alvéoles pulmonaires, les membres supérieurs, et la voie de signalisation F G F."
+        show: "1 principes · 2 poumons · 3 membres supérieurs · 4 voie FGF"
+
+  - kind: figure
+    title: "Principes de l'organogenèse"
+    ref: "S2-2 p.33h"
+    fig: "S2-2:33h"
+    trap: "Se poursuit jusqu'à la naissance, PARFOIS AU-DELÀ (poumons, cœur, cerveau, organes génitaux)."
+    beats:
+      - say: "L'organogenèse : la formation des différentes structures anatomiques à partir des *trois feuillets*, ectoderme, mésoderme, endoderme."
+        mark: "3 feuillets"
+        show: "Structures anatomiques à partir des *3 feuillets*"
+      - say: "Elle débute après la gastrulation et se poursuit jusqu'à la naissance, *parfois au-delà* : poumons, cœur, cerveau, organes génitaux."
+        mark: ["après la gastrulation", "parfois au-delà"]
+        show: "Après la gastrulation → naissance (*parfois au-delà* : poumons, cœur, cerveau, génitaux)"
+      - say: "Elle implique des étapes de différenciation, de mouvement et de mort cellulaire, l'*apoptose*. Et elle est contrôlée par des *gradients de morphogènes*."
+        mark: ["apoptose", "gradients de morphogènes"]
+        show: "Différenciation · mouvement · *apoptose* · contrôle : *gradients de morphogènes*"
+
+  - kind: figure
+    title: "Les poumons : diverticule et bourgeons"
+    ref: "S2-2 p.33b"
+    fig: "S2-2:33b"
+    trap: "Diverticule sur le tube ENDODERMIQUE ; mésoderme de la SPLANCHNOPLEURE autour."
+    beats:
+      - say: "Un *diverticule respiratoire* initial apparaît sur le *tube endodermique*."
+        mark: "Diverticule respiratoire"
+        show: "*Diverticule respiratoire* sur le tube *endodermique*"
+      - say: "Il subit une succession de ramifications, qui génèrent un réseau de bronches et de bronchioles : bourgeons bronchiques primaires, secondaires, tertiaires, des jours vingt-cinq à trente-huit."
+        mark: ["Bourgeons bronchiques", "Jour 38"]
+        show: "Bourgeons *primaires* → *secondaires* → *tertiaires* (J25 → J38)"
+      - say: "Une couche de mésoderme, dérivée de la *splanchnopleure*, entoure le diverticule et évolue avec lui pendant le bourgeonnement."
+        mark: "splanchnopleure"
+        show: "Mésoderme de la *splanchnopleure* autour"
+
+  - kind: figure
+    title: "Les alvéoles"
+    ref: "S2-2 p.34h"
+    fig: "S2-2:34h"
+    trap: "Primitives dès sem. 28 ; matures dès sem. 36 → jusqu'à 2 ans ; prématuré = avant sem. 37."
+    beats:
+      - say: "À partir de la *vingt-huitième semaine*, des *alvéoles primitives* se forment sur les bronchioles terminales."
+        mark: ["28ème semaine", "Alvéoles primitives"]
+        show: "Dès la *28e semaine* : *alvéoles primitives*"
+      - say: "À partir de la *trente-sixième semaine*, le réseau de capillaires se densifie dans le mésoderme et des *alvéoles matures* se forment : les échanges gazeux deviennent possibles."
+        mark: ["36ème semaine", "Alvéoles matures"]
+        show: "Dès la *36e semaine* : capillaires + *alvéoles matures* → échanges gazeux"
+      - say: "D'où les difficultés respiratoires des bébés *prématurés*, nés avant la semaine trente-sept. Et des alvéoles matures continuent à se former jusqu'à *deux ans* après la naissance."
+        mark: ["prématurés", "2 ans"]
+        show: "*Prématurés* (< sem. 37) : difficultés · alvéoles jusqu'à *2 ans*"
+
+  - kind: figure
+    title: "Mécanisme de ramification des bronches"
+    ref: "S2-2 p.34b"
+    fig: "S2-2:34b"
+    trap: "SHH inhibe la PRODUCTION DE FGF ; BMP inhibe la PROLIFÉRATION à l'extrémité."
+    beats:
+      - say: "Un : un gradient de *F G F*, fibroblast growth factor, un morphogène produit par les cellules mésodermiques, stimule la prolifération du bourgeon bronchique, qui s'allonge."
+        mark: "FGF (Fibroblast growth factor"
+        show: "1. *FGF* (mésoderme) → prolifération → bourgeon *s'allonge*"
+      - say: "Deux : quand il atteint une zone de plus forte concentration en F G F, l'extrémité du bourgeon produit deux autres facteurs : *SHH*, Sonic hedgehog, et *BMP*, bone morphogenetic protein."
+        mark: ["SHH (Sonic hedgehog)", "BMP (Bone"]
+        show: "2. FGF élevé → extrémité produit *SHH* + *BMP*"
+      - say: "Trois : SHH inhibe localement la *production de F G F* par le mésoderme ; BMP inhibe la *prolifération* à l'extrémité du bourgeon. Ce sont des actions paracrines."
+        mark: ["SHH inhibe", "BMP inhibe"]
+        show: "3. *SHH* ⊣ production de FGF · *BMP* ⊣ prolifération (paracrine)"
+      - say: "Sous l'influence du F G F encore produit de part et d'autre du bourgeon, deux nouveaux fronts de prolifération se développent : la branche se divise en deux."
+        mark: "deux nouveaux fronts"
+        show: "FGF latéral → *2 nouveaux fronts* → bifurcation"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-2 p.33-34"
+    beats:
+      - say: "Trois pièges."
+      - say: "“SHH inhibe la prolifération du bourgeon” : faux. SHH inhibe la production de F G F ; c'est BMP qui inhibe la prolifération."
+        show: "✓ SHH ⊣ *production de FGF* · BMP ⊣ *prolifération*"
+      - say: "“Le F G F est produit par le bourgeon endodermique” : faux, par les cellules mésodermiques."
+        show: "✓ FGF : *mésoderme*"
+      - say: "“Les alvéoles matures sont toutes formées à la naissance” : faux, elles continuent jusqu'à deux ans."
+        show: "✓ Alvéoles matures : sem. 36 → *2 ans*"
+
+  - kind: mnemo
+    title: "Mémoriser la ramification"
+    ref: "S2-2 p.34b"
+    beats:
+      - say: "F G F, l'accélérateur ; SHH, “chut”, il coupe l'arrivée du F G F ; BMP, le frein. Résultat : la pointe s'arrête, les côtés repartent, et ça bifurque."
+        show: "*FGF* accélère · *SHH* « chut » au FGF · *BMP* freine → *bifurcation*"
+      - say: "Les alvéoles : vingt-huit, primitives ; trente-six, matures ; deux ans, fin."
+        show: "*28* primitives · *36* matures · *2 ans*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.34b"
+    question: "Quel facteur inhibe la prolifération cellulaire à l'extrémité du bourgeon bronchique ?"
+    options:
+      - "FGF"
+      - "SHH"
+      - "BMP"
+      - "Nodal"
+    answer: [2]
+    beats:
+      - say: "Quiz : quel facteur inhibe la prolifération à l'extrémité du bourgeon ?"
+        countdown: 4
+      - say: "BMP. SHH, lui, inhibe la production de F G F."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 57 : les membres"
+    ref: "S2-2 p.35"
+    big: "FGF8"
+    beats:
+      - say: "Prochain épisode : le développement des membres, le F G F 8, la crête ectodermique apicale et les gènes HOXD."
+        show: "*FGF8* · CEA · ZP · *HOXD*"
+
+recap:
+  - "Chapitre VI : 1 principes, 2 bronches et alvéoles pulmonaires, 3 membres supérieurs, 4 voie de signalisation FGF."
+  - "Organogenèse : formation des structures anatomiques à partir des 3 feuillets ; débute après la gastrulation, se poursuit jusqu'à la naissance (parfois au-delà : poumons, cœur, cerveau, organes génitaux) ; différenciation, mouvement et mort cellulaire (apoptose) ; contrôlée par des gradients de morphogènes."
+  - "Poumons : diverticule respiratoire sur le tube endodermique ; ramifications successives → bronches et bronchioles (bourgeons primaires, secondaires, tertiaires ; J25 à J38 ; futurs trachée et larynx, œsophage) ; mésoderme dérivé de la splanchnopleure autour du diverticule."
+  - "Alvéoles : primitives dès la 28e semaine (bronchioles terminales) ; dès la 36e semaine, capillaires densifiés et alvéoles matures (échanges gazeux) → difficultés respiratoires des prématurés (nés avant la semaine 37) ; alvéoles matures formées jusqu'à 2 ans après la naissance."
+  - "Ramification : 1. gradient de FGF (morphogène des cellules mésodermiques) → prolifération et allongement du bourgeon ; 2. zone de FGF plus élevé → l'extrémité produit SHH et BMP ; 3. SHH inhibe localement la production de FGF ; BMP inhibe la prolifération à l'extrémité (actions paracrines) ; FGF encore produit de part et d'autre → deux nouveaux fronts de prolifération."
+
+traps:
+  - ["Organogenèse terminée à la naissance", "Parfois au-delà (poumons, cœur, cerveau, organes génitaux)", "p.33h"]
+  - ["Diverticule respiratoire sur l'ectoderme", "Sur le tube endodermique", "p.33b"]
+  - ["Mésoderme pulmonaire = somatopleure", "Dérivé de la splanchnopleure", "p.33b"]
+  - ["Alvéoles matures dès la 28e semaine", "Primitives dès 28 ; matures dès 36", "p.34h"]
+  - ["Prématuré = né avant la semaine 34", "Avant la semaine 37", "p.34h"]
+  - ["SHH inhibe la prolifération", "SHH inhibe la production de FGF ; BMP inhibe la prolifération", "p.34b"]
+
+mnemonics:
+  - ["Ramification", "FGF accélère, SHH coupe le FGF, BMP freine → bifurcation", "Actions paracrines"]
+  - ["Alvéoles", "28 primitives · 36 matures · 2 ans fin", "Prématuré < 37"]
+
+quiz:
+  - q: "Principes et poumons :"
+    props:
+      - ["L'organogenèse débute après la gastrulation.", true, "p.33h."]
+      - ["L'organogenèse implique de l'apoptose.", true, "p.33h."]
+      - ["Le diverticule respiratoire apparaît sur le tube endodermique.", true, "p.33b."]
+      - ["Le mésoderme qui entoure le diverticule dérive de la somatopleure.", false, "De la splanchnopleure."]
+      - ["Le développement des poumons peut se poursuivre après la naissance.", true, "p.33h, 34h."]
+  - q: "Alvéoles :"
+    props:
+      - ["Les alvéoles primitives se forment à partir de la 28e semaine.", true, "p.34h."]
+      - ["Les alvéoles matures se forment à partir de la 36e semaine.", true, "p.34h."]
+      - ["Un bébé prématuré est né avant la semaine 37.", true, "p.34h."]
+      - ["Toutes les alvéoles matures sont formées à la naissance.", false, "Jusqu'à 2 ans après."]
+      - ["La densification des capillaires permet les échanges gazeux.", true, "p.34h."]
+  - q: "Ramification :"
+    props:
+      - ["Le FGF est produit par les cellules mésodermiques.", true, "p.34b."]
+      - ["Le FGF stimule la prolifération du bourgeon.", true, "p.34b."]
+      - ["SHH inhibe la production de FGF.", true, "p.34b."]
+      - ["BMP stimule la prolifération à l'extrémité du bourgeon.", false, "BMP l'inhibe."]
+      - ["Deux nouveaux fronts de prolifération se forment de part et d'autre.", true, "p.34b."]
+
+coverage:
+  - ["S2-2", "32b", "Sommaire chapitre VI", 1]
+  - ["S2-2", "33h", "Principes de l'organogenèse", 2]
+  - ["S2-2", "33b", "Poumons : diverticule, bourgeons", 3]
+  - ["S2-2", "34h", "Alvéoles, prématurés", 4]
+  - ["S2-2", "34b", "Mécanisme de ramification FGF/SHH/BMP", 5]

@@ -1,0 +1,135 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La membrane plasmique n'est pas
+Dialogue: 0,0:00:02.00,0:00:03.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un simple sac : c'est une
+Dialogue: 0,0:00:03.36,0:00:04.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}frontière fluide, avec des
+Dialogue: 0,0:00:04.79,0:00:06.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}portes, des antennes et des
+Dialogue: 0,0:00:06.26,0:00:07.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}badges d'identité.
+Dialogue: 0,0:00:07.65,0:00:08.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : ses quatre
+Dialogue: 0,0:00:08.89,0:00:10.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}composants, la bicouche,
+Dialogue: 0,0:00:10.09,0:00:11.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les protéines membranaires.
+Dialogue: 0,0:00:12.14,0:00:13.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre quatre : la membrane
+Dialogue: 0,0:00:13.60,0:00:14.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasmique et ses fonctions,
+Dialogue: 0,0:00:14.96,0:00:15.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en six points.
+Dialogue: 0,0:00:16.06,0:00:17.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Structure générale ;
+Dialogue: 0,0:00:17.18,0:00:18.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}propriétés de la bicouche
+Dialogue: 0,0:00:18.57,0:00:19.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipidique ; protéines
+Dialogue: 0,0:00:19.74,0:00:20.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranaires.
+Dialogue: 0,0:00:20.87,0:00:22.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Transport passif ;
+Dialogue: 0,0:00:22.00,0:00:23.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport actif ; endocytose et
+Dialogue: 0,0:00:23.94,0:00:24.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exocytose.
+Dialogue: 0,0:00:25.13,0:00:26.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : une {\c&H66D1FF&}bicouche{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.25,0:00:27.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}phospholipides{\c&HFFFFFF&} , qui forme une
+Dialogue: 0,0:00:27.94,0:00:29.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}barrière imperméable,
+Dialogue: 0,0:00:29.12,0:00:30.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec du cholestérol dans les
+Dialogue: 0,0:00:30.69,0:00:31.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules animales.
+Dialogue: 0,0:00:32.10,0:00:33.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : des {\c&H66D1FF&}protéines{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.14,0:00:34.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}transmembranaires{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:34.14,0:00:35.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux fonctions diverses,
+Dialogue: 0,0:00:35.34,0:00:36.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport, communication.
+Dialogue: 0,0:00:37.04,0:00:38.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : un réseau de protéines
+Dialogue: 0,0:00:38.57,0:00:39.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaires, dites
+Dialogue: 0,0:00:39.73,0:00:40.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}périphériques, liées au
+Dialogue: 0,0:00:40.90,0:00:42.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosquelette, qui assurent le
+Dialogue: 0,0:00:42.43,0:00:42.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soutien.
+Dialogue: 0,0:00:43.23,0:00:44.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre : des marqueurs de
+Dialogue: 0,0:00:44.64,0:00:46.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}surface, des chaînes glucidiques
+Dialogue: 0,0:00:46.44,0:00:47.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liées à des protéines,
+Dialogue: 0,0:00:47.68,0:00:48.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les glycoprotéines,
+Dialogue: 0,0:00:48.75,0:00:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou à des lipides, les
+Dialogue: 0,0:00:49.93,0:00:50.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycolipides.
+Dialogue: 0,0:00:50.80,0:00:52.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils donnent l'identité des
+Dialogue: 0,0:00:52.17,0:00:53.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules, et forment ensemble le
+Dialogue: 0,0:00:53.86,0:00:54.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}glycocalyx{\c&HFFFFFF&} .
+Dialogue: 0,0:00:55.05,0:00:56.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le constituant principal :
+Dialogue: 0,0:00:56.45,0:00:57.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les phospholipides,
+Dialogue: 0,0:00:57.48,0:00:59.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec une tête polaire et deux
+Dialogue: 0,0:00:59.04,0:00:59.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}queues apolaires.
+Dialogue: 0,0:01:00.10,0:01:01.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils forment spontanément une
+Dialogue: 0,0:01:01.65,0:01:03.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicouche, têtes vers le fluide
+Dialogue: 0,0:01:03.30,0:01:04.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire et vers le
+Dialogue: 0,0:01:04.74,0:01:05.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosol.
+Dialogue: 0,0:01:05.59,0:01:07.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La zone interne apolaire empêche
+Dialogue: 0,0:01:07.31,0:01:08.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le passage des substances
+Dialogue: 0,0:01:08.66,0:01:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophiles.
+Dialogue: 0,0:01:09.70,0:01:11.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la membrane est {\c&H66D1FF&}fluide{\c&HFFFFFF&} :
+Dialogue: 0,0:01:11.09,0:01:12.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les phospholipides se déplacent
+Dialogue: 0,0:01:12.68,0:01:14.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les uns par rapport aux autres,
+Dialogue: 0,0:01:14.28,0:01:15.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce qui entraîne des mouvements
+Dialogue: 0,0:01:15.82,0:01:16.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la membrane et le
+Dialogue: 0,0:01:16.95,0:01:18.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déplacement des protéines
+Dialogue: 0,0:01:18.23,0:01:19.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranaires, comme le montre
+Dialogue: 0,0:01:19.72,0:01:20.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'expérience du schéma.
+Dialogue: 0,0:01:21.47,0:01:22.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six fonctions.
+Dialogue: 0,0:01:22.71,0:01:23.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les transporteurs :
+Dialogue: 0,0:01:23.73,0:01:25.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transfert sélectif de substances,
+Dialogue: 0,0:01:25.50,0:01:27.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entrée ou sortie, de deux types,
+Dialogue: 0,0:01:27.22,0:01:28.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les canaux ou les transporteurs.
+Dialogue: 0,0:01:29.34,0:01:30.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les enzymes : de nombreuses
+Dialogue: 0,0:01:30.73,0:01:32.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réactions ont lieu à la face
+Dialogue: 0,0:01:32.18,0:01:33.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interne de la membrane.
+Dialogue: 0,0:01:33.77,0:01:35.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les récepteurs de surface :
+Dialogue: 0,0:01:35.16,0:01:36.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils reconnaissent des molécules à
+Dialogue: 0,0:01:36.86,0:01:38.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extérieur et transmettent un
+Dialogue: 0,0:01:38.41,0:01:39.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}signal chimique à l'intérieur.
+Dialogue: 0,0:01:40.35,0:01:41.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les marqueurs de surface :
+Dialogue: 0,0:01:41.76,0:01:42.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le plus souvent des
+Dialogue: 0,0:01:42.79,0:01:44.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycoprotéines, qui donnent une
+Dialogue: 0,0:01:44.47,0:01:45.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identité spécifique.
+Dialogue: 0,0:01:45.96,0:01:47.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines d'adhérence :
+Dialogue: 0,0:01:47.39,0:01:49.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles font adhérer les cellules
+Dialogue: 0,0:01:49.04,0:01:50.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre elles, de façon momentanée
+Dialogue: 0,0:01:50.74,0:01:51.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou permanente.
+Dialogue: 0,0:01:51.89,0:01:53.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les protéines de fixation au
+Dialogue: 0,0:01:53.59,0:01:55.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosquelette : souvent des
+Dialogue: 0,0:01:55.07,0:01:56.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines d'adhérence,
+Dialogue: 0,0:01:56.28,0:01:57.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fixées via des protéines de
+Dialogue: 0,0:01:57.77,0:01:59.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison, dites adaptatrices.
+Dialogue: 0,0:01:59.87,0:02:01.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Tu Es Reçu, Mais Attention,
+Dialogue: 0,0:02:01.41,0:02:02.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fragile.” Transporteurs,
+Dialogue: 0,0:02:02.72,0:02:03.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzymes, récepteurs,
+Dialogue: 0,0:02:03.86,0:02:05.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}marqueurs, adhérence,
+Dialogue: 0,0:02:05.06,0:02:06.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fixation au cytosquelette.
+Dialogue: 0,0:02:07.10,0:02:08.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}protéines{\c&HFFFFFF&} {\c&H66D1FF&}transmembranaires{\c&HFFFFFF&}
+Dialogue: 0,0:02:08.69,0:02:10.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}traversent la membrane de part en part.
+Dialogue: 0,0:02:10.81,0:02:12.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles ont un ou plusieurs
+Dialogue: 0,0:02:12.08,0:02:13.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}domaines transmembranaires,
+Dialogue: 0,0:02:13.45,0:02:15.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faits d'acides aminés {\c&H66D1FF&}apolaires{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:15.12,0:02:16.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophobes, retenus dans la
+Dialogue: 0,0:02:16.54,0:02:17.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicouche.
+Dialogue: 0,0:02:17.14,0:02:18.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leurs extrémités polaires font
+Dialogue: 0,0:02:18.51,0:02:19.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saillie de part et d'autre.
+Dialogue: 0,0:02:20.15,0:02:21.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}protéines{\c&HFFFFFF&} {\c&H66D1FF&}extrinsèques{\c&HFFFFFF&} sont
+Dialogue: 0,0:02:21.87,0:02:23.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}attachées à la membrane par des
+Dialogue: 0,0:02:23.59,0:02:24.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules d'ancrage,
+Dialogue: 0,0:02:24.70,0:02:25.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui s'associent aux
+Dialogue: 0,0:02:25.76,0:02:26.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phospholipides.
+Dialogue: 0,0:02:26.73,0:02:28.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont des lipides modifiés,
+Dialogue: 0,0:02:28.33,0:02:30.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}attachés d'un côté à la protéine,
+Dialogue: 0,0:02:30.14,0:02:31.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'où le nom de lipoprotéine,
+Dialogue: 0,0:02:31.69,0:02:33.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et insérés de l'autre dans la
+Dialogue: 0,0:02:33.28,0:02:33.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane.
+Dialogue: 0,0:02:34.34,0:02:35.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:40.12,0:02:40.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:02:41.07,0:02:42.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glycocalyx réunit
+Dialogue: 0,0:02:42.28,0:02:44.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycoprotéines et glycolipides,
+Dialogue: 0,0:02:44.15,0:02:45.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les extrinsèques sont ancrées,
+Dialogue: 0,0:02:45.96,0:02:47.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la zone apolaire bloque les
+Dialogue: 0,0:02:47.77,0:02:48.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophiles.
+Dialogue: 0,0:02:49.06,0:02:50.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:50.05,0:02:51.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comment les molécules traversent
+Dialogue: 0,0:02:51.83,0:02:53.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la membrane sans énergie,
+Dialogue: 0,0:02:53.22,0:02:54.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la diffusion, l'osmose,
+Dialogue: 0,0:02:54.49,0:02:57.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le secret du 0,9 % de sel des
+Dialogue: 0,0:02:57.49,0:02:58.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}perfusions.

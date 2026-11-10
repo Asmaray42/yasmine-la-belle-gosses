@@ -1,0 +1,219 @@
+title: "L'ovulation et son contrôle hormonal"
+subtitle: "Pic de LH · ovocyte II · corona radiata · 38 h · corps jaune · hCG · contraception"
+source: "S2-1 p.11 à 14h"
+chapter: "Partie II — I. Gamétogenèse — 3. Ovulation"
+objectives:
+  - "Décrire les étapes pré-ovulatoires déclenchées par le pic de LH."
+  - "Décrire l'ovulation (38 h après le pic de LH) et légender la figure."
+  - "Expliquer le contrôle hormonal du cycle : phase folliculaire, ovulation, phase lutéale, rétrocontrôle, hCG."
+  - "Énoncer le principe de la contraception hormonale."
+
+scenes:
+  - kind: hook
+    title: "Le compte à rebours de 38 heures"
+    ref: "S2-1 p.12h"
+    big: "38 h"
+    beats:
+      - say: "Un pic d'hormone, et un compte à rebours commence : trente-huit heures plus tard, le follicule se rompt."
+      - say: "Au programme : les étapes pré-ovulatoires, l'ovulation, et le contrôle hormonal du cycle."
+        show: "Pré-ovulation · *ovulation* · contrôle hormonal"
+
+  - kind: figure
+    title: "Étapes pré-ovulatoires (1)"
+    ref: "S2-1 p.11h"
+    fig: "S2-1:11h"
+    trap: "Pic de LH à J13/14 → fin de la MÉIOSE 1 ; cytocinèse INCOMPLÈTE."
+    beats:
+      - say: "L'ovocyte termine la prophase un : du diplotène à la diacinèse."
+        mark: "diacinèse"
+        show: "Fin de prophase 1 : diplotène → *diacinèse*"
+      - say: "Le *pic de L H*, au jour treize ou quatorze du cycle, entraîne l'accomplissement de la méiose un : un *ovocyte secondaire* et le *premier globule polaire*, n fois deux. La cytocinèse est incomplète : il reste des ponts cytoplasmiques."
+        mark: ["j13/14", "1er globule polaire"]
+        show: "↑ *LH* (*J13/14*) → *ovocyte II* + *1er globule polaire* (n ×2) · ponts cytoplasmiques"
+      - say: "Les extensions cellulaires de la granulosa se rétractent. L'*espace périvitellin* se forme, entre l'ovocyte et la zone pellucide. Les cellules de la granulosa se dissocient et prolifèrent."
+        mark: "espace périvitellin"
+        show: "Rétraction des extensions · *espace périvitellin* · granulosa dissociée"
+
+  - kind: figure
+    title: "Étapes pré-ovulatoires (2)"
+    ref: "S2-1 p.11b"
+    fig: "S2-1:11b"
+    trap: "Méiose 2 bloquée en MÉTAPHASE 2 ; corona radiata autour de l'ovocyte II."
+    beats:
+      - say: "La granulosa sécrète de la *progestérone*, pour la maturation de l'ovocyte et l'attraction des spermatozoïdes ; et une matrice extracellulaire, l'*acide hyaluronique*, qui attire de l'eau dans l'antre."
+        mark: ["progestérone", "acide hyaluronique"]
+        show: "Granulosa : *progestérone* · *acide hyaluronique* (eau → antre)"
+      - say: "La dissociation de la granulosa détache l'oophorus. Dans le fluide folliculaire flottent l'ovocyte secondaire et le premier globule polaire, entourés de la zone pellucide et de la *corona radiata*."
+        mark: "corona radiata"
+        show: "Ovocyte II + 1er GP + zone pellucide + *corona radiata*"
+      - say: "L'ovocyte et le premier globule polaire entament la méiose deux, jusqu'en *métaphase deux*."
+        mark: "métaphase 2"
+        show: "Méiose 2 → *métaphase 2*"
+
+  - kind: figure
+    title: "L'ovulation"
+    ref: "S2-1 p.12h"
+    fig: "S2-1:12h"
+    trap: "38 heures après le pic de LH ; stigma = compression des vaisseaux."
+    beats:
+      - say: "L'ovulation a lieu *trente-huit heures* après le pic de L H. Le follicule mature forme une protubérance à la surface de l'ovaire, avec un *stigma* : une zone de compression des vaisseaux sanguins."
+        mark: ["38 heures", "stigma"]
+        show: "*38 h* après le pic de LH · protubérance · *stigma*"
+      - say: "La pression du fluide folliculaire augmente, et des enzymes lytiques sont produites : le follicule se rompt."
+        mark: "enzymes lytiques"
+        show: "↑ pression + *enzymes lytiques* → rupture"
+      - say: "Légendes : un, la trompe ; deux, les franges tubaires du pavillon ; trois, l'ovaire ; quatre, la protubérance, avec le follicule sous-jacent ; cinq, le stigma."
+        mark: ["1. Trompe", "5. Stigma"]
+        show: "1 trompe · 2 franges · 3 ovaire · 4 protubérance · 5 *stigma*"
+
+  - kind: figure
+    title: "Après la rupture"
+    ref: "S2-1 p.12b"
+    fig: "S2-1:12b"
+    trap: "Ce qui reste dans l'ovaire (thèque + granulosa) = CORPS JAUNE."
+    beats:
+      - say: "Les franges du pavillon de la trompe utérine s'apposent sur le stigma."
+        mark: "franges du pavillon"
+        show: "*Franges du pavillon* → stigma"
+      - say: "Dans la trompe se déversent : l'ovocyte secondaire et sa corona radiata ; une substance fibreuse et collante, l'acide hyaluronique, qui se liquéfie après quelques heures ; et de la progestérone, qui attire les spermatozoïdes."
+        mark: ["corona radiata", "substance fibreuse"]
+        show: "Ovocyte II + corona · acide hyaluronique (quelques h) · *progestérone*"
+      - say: "Les battements ciliaires font progresser l'ovocyte dans la trompe. Dans l'ovaire, la thèque et la granulosa restantes deviennent le *corps jaune*, qui sécrète la progestérone."
+        mark: ["Battement ciliaires", "corps jaune"]
+        show: "Cils → progression · thèque + granulosa → *corps jaune*"
+
+  - kind: figure
+    title: "Contrôle hormonal : le cycle menstruel"
+    ref: "S2-1 p.13h"
+    fig: "S2-1:13h"
+    trap: "FSH → maturation ; pic de LH → ovulation ; corps jaune → œstradiol + progestérone."
+    beats:
+      - say: "Phase *folliculaire* : la F S H, folliculostimuline, stimule la maturation des follicules. À chaque cycle, un seul évolue en follicule de Graaf."
+        mark: "Phase folliculaire"
+        show: "*Phase folliculaire* : FSH → maturation · *1* Graaf"
+      - say: "*Ovulation* : un pic de L H, lutéotrophine, induit la rupture du follicule de Graaf et la libération de l'ovocyte dans la trompe de Fallope."
+        mark: "Ovulation"
+        show: "*Ovulation* : pic de *LH* → rupture → trompe de Fallope"
+      - say: "Phase *lutéale* : le follicule éclaté devient le corps jaune, et sécrète œstradiol et progestérone."
+        mark: "Phase lutéale"
+        show: "*Phase lutéale* : corps jaune → *œstradiol* + *progestérone*"
+
+  - kind: figure
+    title: "Rétrocontrôle et hCG"
+    ref: "S2-1 p.13b"
+    fig: "S2-1:13b"
+    trap: "hCG produite par l'EMBRYON ; maintient le corps jaune."
+    beats:
+      - say: "L'œstradiol et la progestérone du corps jaune inhibent la synthèse de F S H et de L H, au niveau de l'hypothalamus, par la G n R H, et de l'hypophyse."
+        mark: ["hypothalamus", "hypophyse"]
+        show: "Œstradiol + progestérone ⊣ FSH, LH (*hypothalamus*, GnRH · *hypophyse*)"
+      - say: "Si fécondation, le corps jaune est maintenu grâce à la *gonadotrophine chorionique*, la h C G, produite par l'*embryon*. Donc inhibition de F S H et L H : pas de maturation folliculaire ni d'ovulation."
+        mark: ["hCG", "l’embryon"]
+        show: "Fécondation : *hCG* (*embryon*) → corps jaune maintenu → pas d'ovulation"
+      - say: "En absence de fécondation, le corps jaune dégénère, et le cycle d'ovulation peut reprendre."
+        mark: "dégénère"
+        show: "Pas de fécondation : corps jaune *dégénère* → nouveau cycle"
+
+  - kind: figure
+    title: "Contraception hormonale"
+    ref: "S2-1 p.14h"
+    fig: "S2-1:14h"
+    beats:
+      - say: "Principe de la contraception hormonale : la prise d'analogues de la progestérone et de l'œstradiol inhibe la synthèse de L H et de F S H. Donc pas de maturation folliculaire, ni d'ovulation."
+        mark: ["analogues", "ni d’ovulation"]
+        show: "Analogues progestérone + œstradiol ⊣ LH, FSH → *pas d'ovulation*"
+
+  - kind: trap
+    title: "Les pièges de l'ovulation"
+    ref: "S2-1 p.11-13"
+    beats:
+      - say: "Trois pièges."
+      - say: "“On ovule un ovule” : selon le cours, c'est un ovocyte secondaire, bloqué en métaphase deux, entouré de la corona radiata."
+        show: "✓ Ovulation : *ovocyte II* en *métaphase 2*"
+      - say: "“La h C G est produite par le corps jaune” : faux. Par l'embryon ; elle maintient le corps jaune."
+        show: "✓ *hCG* : *embryon* → maintient le corps jaune"
+      - say: "“L'ovulation a lieu au moment du pic de L H” : non, trente-huit heures après."
+        show: "✓ Ovulation : *38 h* après le pic"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-1 p.11-12"
+    beats:
+      - say: "Le pic de L H déclenche trois choses dans l'ordre : finir la méiose un, démarrer la méiose deux jusqu'en métaphase, et rompre le follicule trente-huit heures après."
+        show: "Pic LH : *M1 finie* → *M2 → métaphase 2* → rupture *+ 38 h*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-1 p.13b"
+    question: "Qui produit l'hCG qui maintient le corps jaune après fécondation ?"
+    options:
+      - "L'hypophyse"
+      - "Le corps jaune"
+      - "L'embryon"
+      - "La granulosa"
+    answer: [2]
+    beats:
+      - say: "Quiz : qui produit la h C G ?"
+        countdown: 4
+      - say: "L'embryon."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 46 : la fécondation"
+    ref: "S2-1 p.14b"
+    big: "Fécondation"
+    beats:
+      - say: "Prochain épisode : la fécondation, étape par étape, de la capacitation à la première division."
+        show: "Capacitation · réaction acrosomiale · *zygote*"
+
+recap:
+  - "Étapes pré-ovulatoires : l'ovocyte termine la prophase 1 (diplotène → diacinèse) ; ↑ LH (J13/14) → accomplissement de la méiose 1 : ovocyte secondaire + 1er globule polaire (n ×2 ; cytocinèse incomplète, ponts cytoplasmiques) ; rétraction des extensions de la granulosa ; espace périvitellin (entre ovocyte et zone pellucide) ; dissociation et prolifération de la granulosa."
+  - "La granulosa sécrète progestérone (maturation de l'ovocyte, attraction des spermatozoïdes) et matrice extracellulaire / acide hyaluronique (attire l'eau dans l'antre) ; détachement de l'oophorus ; dans le fluide folliculaire : ovocyte II + 1er globule polaire entourés de la zone pellucide et de la corona radiata ; méiose 2 jusqu'en métaphase 2."
+  - "Ovulation 38 h après le pic de LH : protubérance à la surface de l'ovaire, stigma (compression des vaisseaux) ; ↑ pression du fluide folliculaire et enzymes lytiques → rupture. Légendes : 1 trompe, 2 franges tubaires du pavillon, 3 ovaire, 4 protubérance, 5 stigma. Franges apposées au stigma ; déversement de l'ovocyte II + corona radiata, d'une substance fibreuse collante (acide hyaluronique, liquéfiée en quelques heures) et de progestérone ; battements ciliaires ; thèque + granulosa → corps jaune (progestérone)."
+  - "Cycle : phase folliculaire (FSH → maturation ; un seul follicule de Graaf) ; ovulation (pic de LH → rupture, libération dans la trompe de Fallope) ; phase lutéale (corps jaune → œstradiol et progestérone). Œstradiol + progestérone inhibent FSH et LH (hypothalamus/GnRH et hypophyse). Fécondation : hCG produite par l'embryon maintient le corps jaune → pas de maturation ni d'ovulation. Sans fécondation : corps jaune dégénère, nouveau cycle."
+  - "Contraception hormonale : analogues de la progestérone et de l'œstradiol → inhibition de LH et FSH → pas de maturation folliculaire ni d'ovulation."
+
+traps:
+  - ["Pic de LH → fin de la méiose 2", "→ fin de la méiose 1 ; méiose 2 jusqu'en métaphase 2", "p.11"]
+  - ["Cytocinèse complète entre ovocyte II et 1er GP", "Incomplète (ponts cytoplasmiques)", "p.11h"]
+  - ["Espace périvitellin entre zone pellucide et corona", "Entre ovocyte et zone pellucide", "p.11h"]
+  - ["Ovulation 24 h après le pic", "38 heures", "p.12h"]
+  - ["Corps jaune = granulosa seule", "Thèque + granulosa", "p.12b"]
+  - ["hCG produite par le corps jaune", "Par l'embryon", "p.13b"]
+  - ["Contraception : stimule LH", "Inhibe LH et FSH", "p.14h"]
+
+mnemonics:
+  - ["Pic de LH", "M1 finie → M2 jusqu'en métaphase 2 → rupture à + 38 h", "J13/14"]
+  - ["3 phases", "« Folliculaire – Ovulation – Lutéale » = FSH – pic de LH – corps jaune", "hCG de l'embryon"]
+
+quiz:
+  - q: "Étapes pré-ovulatoires :"
+    props:
+      - ["Le pic de LH survient vers J13/14 du cycle.", true, "p.11h."]
+      - ["Le pic de LH entraîne l'accomplissement de la méiose 1.", true, "p.11h."]
+      - ["La cytocinèse entre l'ovocyte II et le 1er globule polaire est complète.", false, "Incomplète, ponts cytoplasmiques."]
+      - ["La granulosa sécrète de l'acide hyaluronique.", true, "p.11b."]
+      - ["L'ovocyte entame la méiose 2 jusqu'en métaphase 2.", true, "p.11b."]
+  - q: "Ovulation :"
+    props:
+      - ["L'ovulation a lieu 38 heures après le pic de LH.", true, "p.12h."]
+      - ["Le stigma est une zone de compression des vaisseaux sanguins.", true, "p.12h."]
+      - ["L'ovocyte II est libéré avec sa corona radiata.", true, "p.12b."]
+      - ["La progestérone déversée attire les spermatozoïdes.", true, "p.12b."]
+      - ["Le corps jaune est formé par les franges du pavillon.", false, "Par la thèque et la granulosa restantes."]
+  - q: "Contrôle hormonal :"
+    props:
+      - ["La FSH stimule la maturation des follicules.", true, "p.13h."]
+      - ["Le corps jaune sécrète œstradiol et progestérone.", true, "p.13h."]
+      - ["L'hCG est produite par l'hypophyse.", false, "Par l'embryon."]
+      - ["En l'absence de fécondation, le corps jaune dégénère.", true, "p.13b."]
+      - ["La contraception hormonale inhibe la synthèse de LH et FSH.", true, "p.14h."]
+
+coverage:
+  - ["S2-1", "11h", "Étapes pré-ovulatoires (1)", 1]
+  - ["S2-1", "11b", "Étapes pré-ovulatoires (2)", 2]
+  - ["S2-1", "12h", "Ovulation, légendes", 3]
+  - ["S2-1", "12b", "Après la rupture, corps jaune", 4]
+  - ["S2-1", "13h", "Cycle menstruel : 3 phases", 5]
+  - ["S2-1", "13b", "Rétrocontrôle, hCG", 6]
+  - ["S2-1", "14h", "Contraception hormonale", 7]

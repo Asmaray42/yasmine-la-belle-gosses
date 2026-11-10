@@ -1,0 +1,487 @@
+1
+00:00:00,300 --> 00:00:01,996
+La membrane plasmique n'est pas
+
+2
+00:00:01,996 --> 00:00:03,363
+un simple sac : c'est une
+
+3
+00:00:03,363 --> 00:00:04,786
+frontière fluide, avec des
+
+4
+00:00:04,786 --> 00:00:06,263
+portes, des antennes et des
+
+5
+00:00:06,263 --> 00:00:07,248
+badges d'identité.
+
+6
+00:00:07,648 --> 00:00:08,894
+Au programme : ses quatre
+
+7
+00:00:08,894 --> 00:00:10,089
+composants, la bicouche,
+
+8
+00:00:10,089 --> 00:00:11,584
+et les protéines membranaires.
+
+9
+00:00:12,144 --> 00:00:13,602
+Chapitre quatre : la membrane
+
+10
+00:00:13,602 --> 00:00:14,960
+plasmique et ses fonctions,
+
+11
+00:00:14,960 --> 00:00:15,664
+en six points.
+
+12
+00:00:16,064 --> 00:00:17,179
+Structure générale ;
+
+13
+00:00:17,179 --> 00:00:18,573
+propriétés de la bicouche
+
+14
+00:00:18,573 --> 00:00:19,744
+lipidique ; protéines
+
+15
+00:00:19,744 --> 00:00:20,469
+membranaires.
+
+16
+00:00:20,869 --> 00:00:21,998
+Transport passif ;
+
+17
+00:00:21,998 --> 00:00:23,941
+transport actif ; endocytose et
+
+18
+00:00:23,941 --> 00:00:24,568
+exocytose.
+
+19
+00:00:25,128 --> 00:00:26,252
+Un : une bicouche de
+
+20
+00:00:26,252 --> 00:00:27,937
+phospholipides , qui forme une
+
+21
+00:00:27,937 --> 00:00:29,116
+barrière imperméable,
+
+22
+00:00:29,116 --> 00:00:30,689
+avec du cholestérol dans les
+
+23
+00:00:30,689 --> 00:00:31,700
+cellules animales.
+
+24
+00:00:32,100 --> 00:00:33,144
+Deux : des protéines
+
+25
+00:00:33,144 --> 00:00:34,136
+transmembranaires ,
+
+26
+00:00:34,136 --> 00:00:35,337
+aux fonctions diverses,
+
+27
+00:00:35,337 --> 00:00:36,643
+transport, communication.
+
+28
+00:00:37,042 --> 00:00:38,566
+Trois : un réseau de protéines
+
+29
+00:00:38,566 --> 00:00:39,734
+intracellulaires, dites
+
+30
+00:00:39,734 --> 00:00:40,902
+périphériques, liées au
+
+31
+00:00:40,902 --> 00:00:42,425
+cytosquelette, qui assurent le
+
+32
+00:00:42,425 --> 00:00:42,831
+soutien.
+
+33
+00:00:43,231 --> 00:00:44,638
+Quatre : des marqueurs de
+
+34
+00:00:44,638 --> 00:00:46,438
+surface, des chaînes glucidiques
+
+35
+00:00:46,438 --> 00:00:47,676
+liées à des protéines,
+
+36
+00:00:47,676 --> 00:00:48,745
+les glycoprotéines,
+
+37
+00:00:48,745 --> 00:00:49,926
+ou à des lipides, les
+
+38
+00:00:49,926 --> 00:00:50,657
+glycolipides.
+
+39
+00:00:50,797 --> 00:00:52,170
+Ils donnent l'identité des
+
+40
+00:00:52,170 --> 00:00:53,858
+cellules, et forment ensemble le
+
+41
+00:00:53,858 --> 00:00:54,492
+glycocalyx .
+
+42
+00:00:55,052 --> 00:00:56,453
+Le constituant principal :
+
+43
+00:00:56,453 --> 00:00:57,477
+les phospholipides,
+
+44
+00:00:57,477 --> 00:00:59,040
+avec une tête polaire et deux
+
+45
+00:00:59,040 --> 00:00:59,956
+queues apolaires.
+
+46
+00:01:00,096 --> 00:01:01,645
+Ils forment spontanément une
+
+47
+00:01:01,645 --> 00:01:03,304
+bicouche, têtes vers le fluide
+
+48
+00:01:03,304 --> 00:01:04,743
+extracellulaire et vers le
+
+49
+00:01:04,743 --> 00:01:05,185
+cytosol.
+
+50
+00:01:05,585 --> 00:01:07,309
+La zone interne apolaire empêche
+
+51
+00:01:07,309 --> 00:01:08,656
+le passage des substances
+
+52
+00:01:08,656 --> 00:01:09,302
+hydrophiles.
+
+53
+00:01:09,702 --> 00:01:11,090
+Et la membrane est fluide :
+
+54
+00:01:11,090 --> 00:01:12,683
+les phospholipides se déplacent
+
+55
+00:01:12,683 --> 00:01:14,276
+les uns par rapport aux autres,
+
+56
+00:01:14,276 --> 00:01:15,818
+ce qui entraîne des mouvements
+
+57
+00:01:15,818 --> 00:01:16,949
+dans la membrane et le
+
+58
+00:01:16,949 --> 00:01:18,234
+déplacement des protéines
+
+59
+00:01:18,234 --> 00:01:19,724
+membranaires, comme le montre
+
+60
+00:01:19,724 --> 00:01:20,906
+l'expérience du schéma.
+
+61
+00:01:21,466 --> 00:01:22,314
+Six fonctions.
+
+62
+00:01:22,714 --> 00:01:23,733
+Les transporteurs :
+
+63
+00:01:23,733 --> 00:01:25,502
+transfert sélectif de substances,
+
+64
+00:01:25,502 --> 00:01:27,218
+entrée ou sortie, de deux types,
+
+65
+00:01:27,218 --> 00:01:28,935
+les canaux ou les transporteurs.
+
+66
+00:01:29,335 --> 00:01:30,732
+Les enzymes : de nombreuses
+
+67
+00:01:30,732 --> 00:01:32,182
+réactions ont lieu à la face
+
+68
+00:01:32,182 --> 00:01:33,373
+interne de la membrane.
+
+69
+00:01:33,773 --> 00:01:35,163
+Les récepteurs de surface :
+
+70
+00:01:35,163 --> 00:01:36,861
+ils reconnaissent des molécules à
+
+71
+00:01:36,861 --> 00:01:38,405
+l'extérieur et transmettent un
+
+72
+00:01:38,405 --> 00:01:39,950
+signal chimique à l'intérieur.
+
+73
+00:01:40,350 --> 00:01:41,760
+Les marqueurs de surface :
+
+74
+00:01:41,760 --> 00:01:42,790
+le plus souvent des
+
+75
+00:01:42,790 --> 00:01:44,472
+glycoprotéines, qui donnent une
+
+76
+00:01:44,472 --> 00:01:45,557
+identité spécifique.
+
+77
+00:01:45,957 --> 00:01:47,392
+Les protéines d'adhérence :
+
+78
+00:01:47,392 --> 00:01:49,040
+elles font adhérer les cellules
+
+79
+00:01:49,040 --> 00:01:50,741
+entre elles, de façon momentanée
+
+80
+00:01:50,741 --> 00:01:51,485
+ou permanente.
+
+81
+00:01:51,885 --> 00:01:53,589
+Et les protéines de fixation au
+
+82
+00:01:53,589 --> 00:01:55,073
+cytosquelette : souvent des
+
+83
+00:01:55,073 --> 00:01:56,282
+protéines d'adhérence,
+
+84
+00:01:56,282 --> 00:01:57,767
+fixées via des protéines de
+
+85
+00:01:57,767 --> 00:01:59,306
+liaison, dites adaptatrices.
+
+86
+00:01:59,866 --> 00:02:01,407
+“Tu Es Reçu, Mais Attention,
+
+87
+00:02:01,407 --> 00:02:02,719
+Fragile.” Transporteurs,
+
+88
+00:02:02,719 --> 00:02:03,861
+enzymes, récepteurs,
+
+89
+00:02:03,861 --> 00:02:05,060
+marqueurs, adhérence,
+
+90
+00:02:05,060 --> 00:02:06,543
+fixation au cytosquelette.
+
+91
+00:02:07,103 --> 00:02:08,685
+Les protéines transmembranaires
+
+92
+00:02:08,685 --> 00:02:10,674
+traversent la membrane de part en part.
+
+93
+00:02:10,814 --> 00:02:12,081
+Elles ont un ou plusieurs
+
+94
+00:02:12,081 --> 00:02:13,448
+domaines transmembranaires,
+
+95
+00:02:13,448 --> 00:02:15,120
+faits d'acides aminés apolaires ,
+
+96
+00:02:15,120 --> 00:02:16,539
+hydrophobes, retenus dans la
+
+97
+00:02:16,539 --> 00:02:16,995
+bicouche.
+
+98
+00:02:17,135 --> 00:02:18,513
+Leurs extrémités polaires font
+
+99
+00:02:18,513 --> 00:02:19,754
+saillie de part et d'autre.
+
+100
+00:02:20,154 --> 00:02:21,874
+Les protéines extrinsèques sont
+
+101
+00:02:21,874 --> 00:02:23,593
+attachées à la membrane par des
+
+102
+00:02:23,593 --> 00:02:24,703
+molécules d'ancrage,
+
+103
+00:02:24,703 --> 00:02:25,757
+qui s'associent aux
+
+104
+00:02:25,757 --> 00:02:26,589
+phospholipides.
+
+105
+00:02:26,729 --> 00:02:28,326
+Ce sont des lipides modifiés,
+
+106
+00:02:28,326 --> 00:02:30,143
+attachés d'un côté à la protéine,
+
+107
+00:02:30,143 --> 00:02:31,685
+d'où le nom de lipoprotéine,
+
+108
+00:02:31,685 --> 00:02:33,282
+et insérés de l'autre dans la
+
+109
+00:02:33,282 --> 00:02:33,778
+membrane.
+
+110
+00:02:34,338 --> 00:02:35,717
+Quiz : laquelle est exacte ?
+
+111
+00:02:40,117 --> 00:02:40,932
+Réponse B.
+
+112
+00:02:41,072 --> 00:02:42,279
+Le glycocalyx réunit
+
+113
+00:02:42,279 --> 00:02:44,150
+glycoprotéines et glycolipides,
+
+114
+00:02:44,150 --> 00:02:45,960
+les extrinsèques sont ancrées,
+
+115
+00:02:45,960 --> 00:02:47,771
+et la zone apolaire bloque les
+
+116
+00:02:47,771 --> 00:02:48,495
+hydrophiles.
+
+117
+00:02:49,055 --> 00:02:50,054
+Prochain épisode :
+
+118
+00:02:50,054 --> 00:02:51,830
+comment les molécules traversent
+
+119
+00:02:51,830 --> 00:02:53,217
+la membrane sans énergie,
+
+120
+00:02:53,217 --> 00:02:54,493
+la diffusion, l'osmose,
+
+121
+00:02:54,493 --> 00:02:57,489
+et le secret du 0,9 % de sel des
+
+122
+00:02:57,489 --> 00:02:58,100
+perfusions.

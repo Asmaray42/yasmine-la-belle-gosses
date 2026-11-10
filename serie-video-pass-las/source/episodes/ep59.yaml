@@ -1,0 +1,247 @@
+title: "Le placenta : caduques, pathologies, barrière, rhésus"
+subtitle: "Caduques basale, réfléchie, pariétale · praevia 1/200 · accreta 1/700 · échanges · barrière · IgG · rhésus"
+source: "S2-3 p.10 à 18"
+chapter: "Partie II — VII. De l'embryon au fœtus — 3 et 4"
+objectives:
+  - "Distinguer caduques basale, réfléchie et pariétale ; faces fœtale et maternelle du placenta."
+  - "Décrire le placenta praevia et le placenta accreta, increta, percreta."
+  - "Décrire la circulation fœto-placentaire (artères et veine ombilicales, espace intervilleux)."
+  - "Décrire la barrière placentaire, son évolution, les transports, le passage des IgG et l'incompatibilité rhésus."
+
+scenes:
+  - kind: hook
+    title: "Le seul anticorps qui passe"
+    ref: "S2-3 p.17"
+    big: "IgG"
+    beats:
+      - say: "Le placenta détruit presque toutes les protéines de la mère. Sauf une classe d'anticorps, qui protégera le bébé pendant ses premiers mois."
+      - say: "Au programme : les caduques, les pathologies du placenta, les échanges, la barrière placentaire et l'incompatibilité rhésus."
+        show: "Caduques · praevia · accreta · *barrière* · *rhésus*"
+
+  - kind: figure
+    title: "La caduque basale"
+    ref: "S2-3 p.10"
+    fig: "S2-3:10"
+    trap: "Caduque BASALE = côté du pédicule suspenseur, envahie par les villosités."
+    beats:
+      - say: "L'implantation modifie l'endomètre : enrichissement en lipides et glycogène, vascularisation accrue. On l'appelle alors la *caduque*."
+        mark: ["lipides et glycogène", "caduque"]
+        show: "Endomètre modifié (lipides, glycogène, vaisseaux) = *caduque*"
+      - say: "Du côté du pédicule suspenseur, des villosités chorioniques, faites de mésoderme extraembryonnaire, de cyto et de syncytiotrophoblaste, envahissent la caduque, qui devient la *caduque basale*."
+        mark: ["pédicule suspenseur", "caduque basale"]
+        show: "Côté *pédicule* : villosités → *caduque basale*"
+
+  - kind: figure
+    title: "Caduques réfléchie et pariétale"
+    ref: "S2-3 p.11"
+    fig: "S2-3:11"
+    beats:
+      - say: "De l'autre côté de l'embryon, la caduque qui fait saillie dans la cavité utérine est la *caduque réfléchie*. Tout le reste est la *caduque pariétale*."
+        mark: ["caduque réfléchie", "caduque pariétale"]
+        show: "Saillie dans la cavité : *réfléchie* · le reste : *pariétale*"
+      - say: "À terme, quand le sac amniotique remplit toute la cavité utérine, la caduque réfléchie fusionne avec la caduque pariétale."
+        mark: "fusionnera"
+        show: "À terme : réfléchie *fusionne* avec pariétale"
+
+  - kind: figure
+    title: "Expulsion du placenta"
+    ref: "S2-3 p.12"
+    fig: "S2-3:12"
+    beats:
+      - say: "À l'accouchement, le placenta est expulsé. On distingue la *face fœtale*, recouverte par l'amnion, et la *face maternelle*."
+        mark: ["Face fœtale", "Face maternelle"]
+        show: "*Face fœtale* (amnion) · *face maternelle*"
+
+  - kind: figure
+    title: "Placenta praevia"
+    ref: "S2-3 p.13"
+    fig: "S2-3:13"
+    trap: "Praevia = implantation BASSE (1/200) ; praevius = « qui va devant »."
+    beats:
+      - say: "Le *placenta praevia* : incidence *une sur deux cents*. Une implantation *basse* du placenta, qui recouvre parfois le col de l'utérus."
+        mark: ["1/200", "Implantation basse"]
+        show: "*Praevia* : *1/200* · implantation *basse* (parfois sur le col)"
+      - say: "Le plus souvent, des saignements en fin de grossesse. S'il recouvre le col, il empêche le passage du bébé : césarienne obligatoire, avant terme si l'hémorragie est abondante et le bébé en souffrance."
+        mark: ["saignements", "césarienne"]
+        show: "Saignements en fin de grossesse · col recouvert → *césarienne*"
+      - say: "L'étymologie : praevius, en latin, “qui va devant”."
+        mark: "Praevius"
+        show: "*Praevius* (latin) : « qui va devant »"
+
+  - kind: figure
+    title: "Placenta accreta, increta, percreta"
+    ref: "S2-3 p.14"
+    fig: "S2-3:14"
+    trap: "Accreta = toute la caduque basale ; increta = myomètre ; percreta = au-delà du myomètre."
+    beats:
+      - say: "Le *placenta accreta* : incidence *une sur sept cents*, en forte augmentation ces dernières décennies. Il est favorisé par une *cicatrice* utérine, césarienne ou opération antérieure."
+        mark: ["1/700", "cicatrice"]
+        show: "*Accreta* : *1/700* (↑) · favorisé par une *cicatrice* utérine"
+      - say: "Le placenta envahit toute la caduque basale : *accreta* ; le myomètre : *increta* ; au-delà du myomètre : *percreta*."
+        mark: ["Accreta", "Increta", "Percreta"]
+        show: "*Accreta* : caduque basale · *increta* : myomètre · *percreta* : au-delà"
+      - say: "Risque d'hémorragies importantes, qui mettent en jeu la vie du bébé et de la mère. Surveillance, et césarienne planifiée avant terme, à *trente-quatre semaines*. Après la délivrance : placenta laissé en place, ou hystérectomie."
+        mark: ["34 semaines", "hystérectomie"]
+        show: "Hémorragies · césarienne à *34 semaines* · placenta laissé ou *hystérectomie*"
+
+  - kind: figure
+    title: "Les échanges fœto-maternels"
+    ref: "S2-3 p.15"
+    fig: "S2-3:15"
+    trap: "ARTÈRES ombilicales = sang fœtal VERS le placenta ; VEINE ombilicale = RETOUR au fœtus."
+    beats:
+      - say: "Les échanges se font au niveau des villosités chorioniques, qui baignent dans le sang maternel des *espaces intervilleux*, dérivés des lacunes trophoblastiques."
+        mark: "Espace intervilleux"
+        show: "Villosités dans le sang maternel des *espaces intervilleux* (ex-lacunes)"
+      - say: "Côté fœtal : le sang arrive au placenta par les *artères ombilicales*, qui se ramifient dans la plaque choriale jusqu'aux capillaires fœtaux des villosités. Il retourne vers le fœtus par la *veine ombilicale*."
+        mark: ["Artères ombilicales", "Veine ombilicale"]
+        show: "*Artères* ombilicales → placenta · *veine* ombilicale → fœtus"
+      - say: "Au passage, le sang fœtal se charge en O2 et en nutriments, et décharge du CO2 et des déchets, comme l'urée."
+        mark: "Capillaire fœtal"
+        show: "Sang fœtal : + O₂, nutriments · – CO₂, déchets (urée)"
+
+  - kind: figure
+    title: "La barrière placentaire"
+    ref: "S2-3 p.16"
+    fig: "S2-3:16"
+    trap: "4e mois : cytotrophoblaste se raréfie ; 6e mois : capillaires accolés au syncytio ANUCLÉÉ."
+    beats:
+      - say: "Au départ, sang fœtal et sang maternel sont séparés par quatre couches : un, l'endothélium des capillaires fœtaux ; deux, le mésoderme extraembryonnaire ; trois, le cytotrophoblaste ; quatre, le syncytiotrophoblaste."
+        mark: ["Endothélium du", "Cytotrophoblaste"]
+        show: "1 *endothélium* · 2 *mésoderme* · 3 *cyto* · 4 *syncytio*"
+      - say: "Elle évolue : au cours du *quatrième mois*, les cellules du cytotrophoblaste se raréfient. Au cours du *sixième mois*, des capillaires fœtaux s'accolent directement au syncytiotrophoblaste, dans des zones où il est anucléé : les zones d'échange."
+        mark: ["4ème mois", "6ème mois"]
+        show: "*4e mois* : cyto se raréfie · *6e mois* : capillaires contre syncytio *anucléé*"
+
+  - kind: figure
+    title: "Transports à travers la barrière"
+    ref: "S2-3 p.17"
+    fig: "S2-3:17"
+    trap: "Protéines maternelles DÉGRADÉES, SAUF les IgG (récepteur protecteur)."
+    beats:
+      - say: "Les mécanismes classiques : *diffusion simple*, pour O2, CO2, lipides, urée ; *osmose*, pour l'eau ; *transport facilité*, pour le glucose ; *transport actif*, pour les ions et l'acide urique."
+        mark: ["diffusion simple", "transport facilité"]
+        show: "Diffusion : O₂, CO₂, lipides, urée · osmose : H₂O · facilité : *glucose* · actif : ions, acide urique"
+      - say: "Les protéines maternelles ne traversent pas : après endocytose, elles sont dégradées, et servent de source d'acides aminés. Les *immunoglobulines G* sont épargnées, grâce à un récepteur intracellulaire spécifique, protecteur."
+        mark: ["dégradées", "Immunoglobulines G"]
+        show: "Protéines *dégradées* (acides aminés) · *IgG* épargnées (récepteur *protecteur*)"
+      - say: "Les IgG fournies par la mère, surtout en fin de grossesse, assurent une *immunité passive* pendant les premiers mois après la naissance."
+        mark: "immunité passive"
+        show: "IgG maternelles → *immunité passive* (premiers mois)"
+
+  - kind: figure
+    title: "L'incompatibilité rhésus"
+    ref: "S2-3 p.18"
+    fig: "S2-3:18"
+    trap: "Mère Rh– / fœtus Rh+ ; risque faible à la 1re grossesse ; risque à la grossesse SUIVANTE."
+    beats:
+      - say: "Une incompatibilité rhésus, antigène des globules rouges, est à craindre quand une mère *Rh moins* porte un fœtus *Rh plus*."
+        mark: ["Rh-", "Rh+"]
+        show: "Mère *Rh–* · fœtus *Rh+*"
+      - say: "Le risque est faible à la première grossesse, car les globules rouges du fœtus restent invisibles pour le système immunitaire maternel. Mais à l'accouchement, du sang fœtal passe dans le sang de la mère, qui fabrique des anticorps anti Rh plus."
+        mark: ["première grossesse", "accouchement"]
+        show: "1re grossesse : risque *faible* · accouchement → anticorps *anti-Rh+*"
+      - say: "Ces anticorps persistent, et mettent en danger la *grossesse suivante* : transmis au fœtus, ce sont des IgG, ils s'attaquent à ses globules rouges s'il est Rh plus. C'est la *maladie hémolytique du nouveau-né*."
+        mark: ["Grossesse suivante", "IgG"]
+        show: "Grossesse *suivante* : IgG anti-Rh+ → *maladie hémolytique du nouveau-né*"
+
+  - kind: trap
+    title: "Les pièges du placenta"
+    ref: "S2-3 p.13-18"
+    beats:
+      - say: "Trois pièges."
+      - say: "“La veine ombilicale amène le sang fœtal au placenta” : faux. Artères vers le placenta, veine retour vers le fœtus."
+        show: "✓ *Artères* → placenta · *veine* → fœtus"
+      - say: "“Le placenta increta dépasse le myomètre” : faux, c'est le percreta. Increta, dans le myomètre."
+        show: "✓ Ac-creta (caduque) · *In*-creta (myomètre) · *Per*-creta (au-delà)"
+      - say: "“Le glucose traverse par diffusion simple” : faux, par transport facilité."
+        show: "✓ Glucose : *transport facilité*"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-3 p.14-15"
+    beats:
+      - say: "Accreta, increta, percreta : “à”, “dans”, “à travers”. On accroche, on entre, on perce."
+        show: "*Ac* accroche · *In* entre · *Per* perce"
+      - say: "Et pour le cordon, c'est l'inverse de l'adulte : les artères portent le sang pauvre vers le placenta ; la veine rapporte le sang riche au fœtus."
+        show: "Cordon : *artères* = sang pauvre → placenta · *veine* = sang riche → fœtus"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-3 p.17"
+    question: "Quelles protéines maternelles traversent la barrière placentaire sans être dégradées ?"
+    options:
+      - "L'albumine"
+      - "Les IgG"
+      - "Les IgM"
+      - "Aucune"
+    answer: [1]
+    beats:
+      - say: "Quiz : quelles protéines maternelles traversent sans être dégradées ?"
+        countdown: 4
+      - say: "Les IgG, protégées par un récepteur intracellulaire spécifique."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 60 : tératogenèse"
+    ref: "S2-3 p.19"
+    big: "Teras"
+    beats:
+      - say: "Prochain épisode : la tératogenèse, ses trois principes, et trois médicaments tératogènes."
+        show: "*Tératogenèse* · 3 principes · 3 médicaments"
+
+recap:
+  - "Caduque : endomètre modifié par l'implantation (lipides, glycogène, vascularisation accrue). Caduque basale : côté du pédicule suspenseur, envahie par les villosités chorioniques (mésoderme extraembryonnaire + cyto- et syncytiotrophoblaste). Caduque réfléchie : saillie dans la cavité utérine, de l'autre côté. Caduque pariétale : tout le reste ; à terme, réfléchie et pariétale fusionnent. Placenta expulsé à l'accouchement : face fœtale (amnion) et face maternelle."
+  - "Placenta praevia (1/200) : implantation basse, recouvrant parfois le col ; saignements en fin de grossesse ; empêche le passage du bébé ; césarienne (avant terme si hémorragie abondante et bébé en souffrance) ; praevius = qui va devant. Placenta accreta (1/700, en forte augmentation) : favorisé par une cicatrice utérine ; envahissement de toute la caduque basale (accreta), du myomètre (increta), au-delà (percreta) ; hémorragies ; surveillance, césarienne avant terme (34 semaines) ; placenta laissé en place ou hystérectomie."
+  - "Échanges : villosités chorioniques baignant dans le sang maternel des espaces intervilleux (dérivés des lacunes) ; sang fœtal → placenta par les artères ombilicales (plaque choriale, capillaires fœtaux) ; retour par la veine ombilicale ; sang fœtal chargé en O2 et nutriments, déchargé de CO2 et déchets (urée)."
+  - "Barrière placentaire : (1) endothélium des capillaires fœtaux, (2) mésoderme extraembryonnaire, (3) cytotrophoblaste, (4) syncytiotrophoblaste ; 4e mois : cytotrophoblaste raréfié ; 6e mois : capillaires accolés au syncytiotrophoblaste anucléé (zones d'échange). Transports : diffusion simple (O2, CO2, lipides, urée), osmose (H2O), transport facilité (glucose), transport actif (ions, acide urique) ; protéines maternelles endocytées et dégradées (acides aminés), sauf les IgG (récepteur intracellulaire protecteur) → immunité passive après la naissance."
+  - "Incompatibilité rhésus : mère Rh– / fœtus Rh+ ; risque faible à la 1re grossesse ; à l'accouchement, sang fœtal dans le sang maternel → anticorps anti-Rh+ persistants ; grossesse suivante : IgG anti-Rh+ transférés au fœtus → destruction de ses globules rouges (maladie hémolytique du nouveau-né)."
+
+traps:
+  - ["Caduque basale = côté opposé au pédicule", "Côté du pédicule suspenseur", "p.10"]
+  - ["Face maternelle recouverte par l'amnion", "Face fœtale recouverte par l'amnion", "p.12"]
+  - ["Placenta praevia 1/700", "Praevia 1/200 ; accreta 1/700", "p.13-14"]
+  - ["Increta au-delà du myomètre", "Increta = myomètre ; percreta = au-delà", "p.14"]
+  - ["Veine ombilicale → placenta", "Artères → placenta ; veine → fœtus", "p.15"]
+  - ["Cytotrophoblaste raréfié au 6e mois", "4e mois ; 6e mois : capillaires contre le syncytio anucléé", "p.16"]
+  - ["Glucose par diffusion simple", "Transport facilité", "p.17"]
+  - ["Rhésus : risque majeur à la 1re grossesse", "Risque faible à la 1re ; grossesse suivante à risque", "p.18"]
+
+mnemonics:
+  - ["Accreta / increta / percreta", "Ac accroche, In entre, Per perce", "Caduque basale, myomètre, au-delà"]
+  - ["Cordon", "Artères = sang pauvre → placenta ; veine = sang riche → fœtus", "Inverse de l'adulte"]
+  - ["Transports", "« DOFA » : Diffusion (gaz, lipides, urée), Osmose (eau), Facilité (glucose), Actif (ions, acide urique)", "IgG épargnées"]
+
+quiz:
+  - q: "Caduques et pathologies :"
+    props:
+      - ["La caduque basale se situe du côté du pédicule suspenseur.", true, "p.10."]
+      - ["La caduque réfléchie fusionne à terme avec la caduque pariétale.", true, "p.11."]
+      - ["Le placenta praevia a une incidence de 1/200.", true, "p.13."]
+      - ["Le placenta accreta est favorisé par une cicatrice utérine.", true, "p.14."]
+      - ["Le placenta increta dépasse le myomètre.", false, "C'est le percreta."]
+  - q: "Échanges et barrière :"
+    props:
+      - ["Le sang fœtal arrive au placenta par les artères ombilicales.", true, "p.15."]
+      - ["Les espaces intervilleux dérivent des lacunes trophoblastiques.", true, "p.15."]
+      - ["Au 4e mois, les cellules du cytotrophoblaste se raréfient.", true, "p.16."]
+      - ["Le glucose traverse par diffusion simple.", false, "Transport facilité."]
+      - ["L'acide urique traverse par transport actif.", true, "p.17."]
+  - q: "IgG et rhésus :"
+    props:
+      - ["Les protéines maternelles sont dégradées après endocytose.", true, "p.17."]
+      - ["Les IgG sont épargnées grâce à un récepteur intracellulaire protecteur.", true, "p.17."]
+      - ["Les IgG maternelles assurent une immunité passive après la naissance.", true, "p.17."]
+      - ["L'incompatibilité rhésus concerne une mère Rh+ portant un fœtus Rh–.", false, "Mère Rh– et fœtus Rh+."]
+      - ["Le risque rhésus concerne surtout la grossesse suivante.", true, "p.18."]
+
+coverage:
+  - ["S2-3", "10", "Caduque, caduque basale", 1]
+  - ["S2-3", "11", "Caduques réfléchie et pariétale", 2]
+  - ["S2-3", "12", "Faces fœtale et maternelle", 3]
+  - ["S2-3", "13", "Placenta praevia", 4]
+  - ["S2-3", "14", "Placenta accreta, increta, percreta", 5]
+  - ["S2-3", "15", "Échanges fœto-maternels", 6]
+  - ["S2-3", "16", "Barrière placentaire", 7]
+  - ["S2-3", "17", "Transports, IgG", 8]
+  - ["S2-3", "18", "Incompatibilité rhésus", 9]

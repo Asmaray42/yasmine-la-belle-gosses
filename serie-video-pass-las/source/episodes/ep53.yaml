@@ -1,0 +1,241 @@
+title: "Les mouvements cellulaires et la transition épithélio-mésenchymateuse"
+subtitle: "Invagination · involution · épibolie/intercalation · extension convergente · ingression · TEM"
+source: "S2-2 p.18b à 22"
+chapter: "Partie II — IV. Différenciation et mouvements cellulaires — 5. Mouvements cellulaires"
+objectives:
+  - "Donner le rôle des mouvements cellulaires dans l'embryon."
+  - "Associer chaque type de mouvement à l'exemple du cours."
+  - "Comparer cellules épithéliales et mésenchymateuses."
+  - "Décrire les étapes et les mécanismes cellulaires de la transition épithélio-mésenchymateuse."
+
+scenes:
+  - kind: hook
+    title: "Cinq façons de bouger"
+    ref: "S2-2 p.18b"
+    big: "5"
+    beats:
+      - say: "Pour construire un organe, les cellules ne font pas que se diviser : elles se plient, s'enroulent, s'étalent, s'intercalent, s'échappent."
+      - say: "Au programme : cinq mouvements cellulaires, chacun avec son exemple, puis la transition épithélio-mésenchymateuse."
+        show: "*5 mouvements* · 5 exemples · *TEM*"
+
+  - kind: figure
+    title: "Les mouvements cellulaires"
+    ref: "S2-2 p.18b"
+    fig: "S2-2:18b"
+    beats:
+      - say: "Les mouvements cellulaires servent à positionner les cellules inductrices et répondeuses, et à former la structure tridimensionnelle des organes. Il en existe plusieurs types."
+        mark: ["Positionnement", "tridimensionnelle"]
+        show: "Positionnement *inducteur/répondeur* · structure *3D* des organes"
+
+  - kind: figure
+    title: "L'invagination"
+    ref: "S2-2 p.19h"
+    fig: "S2-2:19h"
+    trap: "Invagination → GOUTTIÈRE NEURALE ; resserrement d'actine côté APICAL."
+    beats:
+      - say: "L'*invagination*. Exemple : la formation de la *gouttière neurale*."
+        mark: "invagination"
+        show: "*Invagination* → *gouttière neurale*"
+      - say: "Des cellules cuboïdales s'allongent grâce à l'allongement des microtubules, et l'actine se resserre du côté apical : la couche se creuse."
+        mark: ["Allongement", "Resserrement"]
+        show: "Microtubules ↑ (allongement) · *actine* resserrée côté *apical*"
+
+  - kind: figure
+    title: "L'involution"
+    ref: "S2-2 p.19b"
+    fig: "S2-2:19b"
+    beats:
+      - say: "L'*involution*. Exemple : la formation du *processus notochordal*, à travers le nœud primitif."
+        mark: "processus notochordal"
+        show: "*Involution* → *processus notochordal*"
+
+  - kind: figure
+    title: "Épibolie et intercalation"
+    ref: "S2-2 p.20h"
+    fig: "S2-2:20h"
+    beats:
+      - say: "L'*épibolie* et l'*intercalation*. Exemple : l'agrandissement, dans tous les sens, du disque embryonnaire."
+        mark: ["épibolie", "agrandissement"]
+        show: "*Épibolie / intercalation* → disque *agrandi* (tous les sens)"
+      - say: "Elles impliquent des modifications du cytosquelette et de l'adhérence cellulaire."
+        mark: "cytosquelette"
+        show: "Cytosquelette + adhérence"
+
+  - kind: figure
+    title: "L'extension convergente"
+    ref: "S2-2 p.20b"
+    fig: "S2-2:20b"
+    trap: "Extension convergente = allongement CRÂNIO-CAUDAL, après la gastrulation."
+    beats:
+      - say: "L'*extension convergente*. Exemple : l'allongement de l'embryon sur l'axe *crânio-caudal*, à partir des régions latérales, après la gastrulation."
+        mark: ["extension convergente", "crânio-caudal"]
+        show: "*Extension convergente* → allongement *crânio-caudal* (après gastrulation)"
+      - say: "Elle implique aussi des modifications du cytosquelette et de l'adhérence cellulaire."
+        show: "Cytosquelette + adhérence"
+
+  - kind: figure
+    title: "L'ingression"
+    ref: "S2-2 p.21h"
+    fig: "S2-2:21h"
+    trap: "Ingression = LIGNE PRIMITIVE ; implique la TEM."
+    beats:
+      - say: "L'*ingression*. Exemple : la mobilisation des cellules de l'épiblaste à travers la *ligne primitive*, pour former l'endoderme et le mésoderme."
+        mark: ["ingression", "ligne primitive"]
+        show: "*Ingression* → épiblaste à travers la *ligne primitive* (endoderme, mésoderme)"
+      - say: "Elle implique la *transition épithélio-mésenchymateuse*."
+        mark: "transition épithélio-mésenchymateuse"
+        show: "→ *TEM*"
+
+  - kind: table
+    title: "Un mouvement, un exemple"
+    ref: "S2-2 p.19-21"
+    header: ["Mouvement", "Exemple du cours"]
+    beats:
+      - say: "Les cinq associations à connaître."
+      - say: "Invagination : gouttière neurale."
+        show: "*Invagination* | gouttière neurale"
+      - say: "Involution : processus notochordal."
+        show: "*Involution* | processus notochordal"
+      - say: "Épibolie et intercalation : agrandissement du disque."
+        show: "*Épibolie / intercalation* | agrandissement du disque"
+      - say: "Extension convergente : allongement crânio-caudal."
+        show: "*Extension convergente* | allongement crânio-caudal"
+      - say: "Ingression : ligne primitive."
+        show: "*Ingression* | ligne primitive (TEM)"
+
+  - kind: figure
+    title: "Épithélium vs mésenchyme"
+    ref: "S2-2 p.21b"
+    fig: "S2-2:21b"
+    trap: "Mésenchymateuses : PAS de polarité, PAS de jonctions, lâches, matrice."
+    beats:
+      - say: "Deux grands groupes cellulaires. Les cellules *épithéliales* : polarité apico-basale, elles reposent sur une lame basale, sont cohésives, avec une adhérence intercellulaire latérale par des jonctions adhérentes, serrées et communicantes."
+        mark: "Cellules épithéliales"
+        show: "*Épithéliales* : polarité apico-basale · lame basale · cohésives · jonctions"
+      - say: "Les cellules *mésenchymateuses* : pas de polarité, pas de jonctions intercellulaires, lâches, et productrices de matrice extracellulaire. Exemple sur la figure : les villosités intestinales."
+        mark: ["Cellules mésenchymateuses", "Villosités intestinales"]
+        show: "*Mésenchymateuses* : *pas* de polarité · *pas* de jonctions · lâches · matrice"
+
+  - kind: figure
+    title: "La TEM dans la ligne primitive"
+    ref: "S2-2 p.22h"
+    fig: "S2-2:22h"
+    beats:
+      - say: "Les cellules épithéliales de l'épiblaste, dans la ligne primitive, deviennent du mésoderme, en quatre étapes."
+        show: "Épiblaste (ligne primitive) → *mésoderme*"
+      - say: "Perte des contacts intercellulaires ; modifications morphologiques et perte de la polarité apico-basale ; dégradation de la membrane basale ; et migration."
+        mark: ["dégradation de", "migration"]
+        show: "1 contacts perdus · 2 forme + polarité perdues · 3 *membrane basale* dégradée · 4 *migration*"
+
+  - kind: figure
+    title: "La TEM : mécanismes cellulaires"
+    ref: "S2-2 p.22b"
+    fig: "S2-2:22b"
+    trap: "Constriction APICALE (détachement) ; pseudopodes côté BASAL (migration)."
+    beats:
+      - say: "Trois mécanismes. Un : dégradation des protéines des jonctions, serrées, du côté apical, et adhérentes, avec la *E-cadhérine* et la *caténine*."
+        mark: ["E-Cad", "Caténine"]
+        show: "1. Jonctions dégradées : serrées (apical) · adhérentes (*E-cadhérine*, *caténine*)"
+      - say: "Deux : remodelage du cytosquelette : *constriction apicale*, pour le détachement, et *pseudopodes* côté basal, pour la migration."
+        mark: ["constriction apicale", "pseudopodes"]
+        show: "2. Cytosquelette : *constriction apicale* · *pseudopodes* basaux"
+      - say: "Trois : synthèse de *protéinases*, qui dégradent la membrane basale et la matrice extracellulaire."
+        mark: "protéinases"
+        show: "3. *Protéinases* : membrane basale + matrice"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-2 p.19-22"
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'involution forme la gouttière neurale” : faux. Invagination, gouttière ; involution, processus notochordal."
+        show: "✓ Invagination = gouttière · involution = processus notochordal"
+      - say: "“L'extension convergente agrandit le disque dans tous les sens” : faux, c'est l'épibolie. L'extension convergente allonge l'axe crânio-caudal."
+        show: "✓ Épibolie = tous les sens · extension convergente = *crânio-caudal*"
+      - say: "“Les cellules mésenchymateuses ont une polarité apico-basale” : faux, ce sont les épithéliales."
+        show: "✓ Mésenchyme : *pas* de polarité"
+
+  - kind: mnemo
+    title: "Mémoriser les associations"
+    ref: "S2-2 p.19-21"
+    beats:
+      - say: "In-va-gination, comme “va dans la gouttière”. In-volution, comme “s'enroule sous le nœud”. Ingression, comme “ingérée par la ligne”."
+        show: "In*va* → gouttière · In*vol* → notochorde · In*gr* → ligne primitive"
+      - say: "Et “extension convergente” : on converge vers le milieu, donc on s'allonge de la tête à la queue."
+        show: "Converger au milieu → *s'allonger* tête-queue"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.21h"
+    question: "Quel mouvement cellulaire implique la transition épithélio-mésenchymateuse dans la ligne primitive ?"
+    options:
+      - "L'invagination"
+      - "L'épibolie"
+      - "L'ingression"
+      - "L'extension convergente"
+    answer: [2]
+    beats:
+      - say: "Quiz : quel mouvement implique la T E M dans la ligne primitive ?"
+        countdown: 4
+      - say: "L'ingression."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 54 : le soulèvement de l'embryon"
+    ref: "S2-2 p.23"
+    big: "4e semaine"
+    beats:
+      - say: "Prochain épisode : les replis de l'embryon à la quatrième semaine, et le devenir des feuillets."
+        show: "Replis · *devenir des feuillets*"
+
+recap:
+  - "Mouvements cellulaires : positionnement inducteur/répondeur ; formation de la structure tridimensionnelle des organes ; plusieurs types."
+  - "Invagination : gouttière neurale (cellules cuboïdales, allongement des microtubules, resserrement d'actine apical). Involution : processus notochordal. Épibolie/intercalation : agrandissement (dans tous les sens) du disque embryonnaire ; cytosquelette et adhérence. Extension convergente : allongement crânio-caudal (depuis les régions latérales) après la gastrulation ; cytosquelette et adhérence. Ingression : cellules de l'épiblaste à travers la ligne primitive (endoderme, mésoderme) ; transition épithélio-mésenchymateuse."
+  - "Cellules épithéliales : polarité apico-basale, lame basale, cohésives, adhérence latérale (jonctions adhérentes, serrées, communicantes). Cellules mésenchymateuses : pas de polarité, pas de jonctions, lâches, production de matrice extracellulaire (figure : villosités intestinales)."
+  - "TEM dans la ligne primitive (épiblaste → mésoderme) : perte des contacts intercellulaires ; modifications morphologiques, perte de polarité apico-basale ; dégradation de la membrane basale ; migration. Mécanismes : dégradation des jonctions serrées (apical) et adhérentes (E-cadhérine, caténine) ; remodelage du cytosquelette (constriction apicale → détachement ; pseudopodes basaux → migration) ; protéinases (membrane basale et matrice)."
+
+traps:
+  - ["Involution → gouttière neurale", "Invagination → gouttière ; involution → processus notochordal", "p.19"]
+  - ["Resserrement d'actine côté basal (invagination)", "Côté apical", "p.19h"]
+  - ["Extension convergente = agrandissement dans tous les sens", "Épibolie ; extension convergente = crânio-caudal", "p.20"]
+  - ["Ingression sans TEM", "Ingression implique la TEM", "p.21h"]
+  - ["Mésenchyme avec jonctions", "Pas de polarité, pas de jonctions", "p.21b"]
+  - ["Pseudopodes côté apical", "Constriction apicale ; pseudopodes basaux", "p.22b"]
+
+mnemonics:
+  - ["Mouvements", "In-VA → gouttière ; In-VOL → notochorde ; In-GR → ligne primitive", "Épibolie = tous les sens ; extension convergente = tête-queue"]
+  - ["TEM", "« Contacts – Polarité – Membrane – Migration »", "E-cadhérine, caténine, protéinases"]
+
+quiz:
+  - q: "Mouvements cellulaires :"
+    props:
+      - ["L'invagination a pour exemple la formation de la gouttière neurale.", true, "p.19h."]
+      - ["L'involution a pour exemple la formation du processus notochordal.", true, "p.19b."]
+      - ["L'épibolie allonge l'embryon sur l'axe crânio-caudal.", false, "Extension convergente ; l'épibolie agrandit dans tous les sens."]
+      - ["L'extension convergente a lieu après la gastrulation.", true, "p.20b."]
+      - ["L'ingression implique la transition épithélio-mésenchymateuse.", true, "p.21h."]
+  - q: "Épithélium et mésenchyme :"
+    props:
+      - ["Les cellules épithéliales reposent sur une lame basale.", true, "p.21b."]
+      - ["Les cellules mésenchymateuses produisent de la matrice extracellulaire.", true, "p.21b."]
+      - ["Les cellules mésenchymateuses possèdent des jonctions serrées.", false, "Pas de jonctions."]
+      - ["Les cellules épithéliales sont cohésives.", true, "p.21b."]
+      - ["Les cellules mésenchymateuses n'ont pas de polarité.", true, "p.21b."]
+  - q: "Transition épithélio-mésenchymateuse :"
+    props:
+      - ["Elle comporte une dégradation de la membrane basale.", true, "p.22h."]
+      - ["Elle implique la dégradation de l'E-cadhérine et de la caténine.", true, "p.22b."]
+      - ["La constriction apicale permet le détachement.", true, "p.22b."]
+      - ["Les pseudopodes se forment du côté apical.", false, "Côté basal."]
+      - ["Des protéinases dégradent la matrice extracellulaire.", true, "p.22b."]
+
+coverage:
+  - ["S2-2", "18b", "Mouvements cellulaires : rôles", 1]
+  - ["S2-2", "19h", "Invagination", 2]
+  - ["S2-2", "19b", "Involution", 3]
+  - ["S2-2", "20h", "Épibolie / intercalation", 4]
+  - ["S2-2", "20b", "Extension convergente", 5]
+  - ["S2-2", "21h", "Ingression", 6]
+  - ["S2-2", "21b", "Épithélium vs mésenchyme", 8]
+  - ["S2-2", "22h", "TEM dans la ligne primitive", 9]
+  - ["S2-2", "22b", "TEM : mécanismes", 10]

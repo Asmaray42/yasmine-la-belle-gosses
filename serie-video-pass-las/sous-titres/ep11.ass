@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le noyau, c'est un coffre-fort à
+Dialogue: 0,0:00:01.85,0:00:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}double paroi, avec des portes qui
+Dialogue: 0,0:00:03.45,0:00:04.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}laissent passer librement les
+Dialogue: 0,0:00:04.86,0:00:06.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}petits et contrôlent les gros.
+Dialogue: 0,0:00:06.72,0:00:08.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : l'enveloppe
+Dialogue: 0,0:00:08.11,0:00:09.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaire, la lamina,
+Dialogue: 0,0:00:09.23,0:00:10.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les pores, la chromatine,
+Dialogue: 0,0:00:10.56,0:00:12.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le nucléole et les ribosomes.
+Dialogue: 0,0:00:12.67,0:00:14.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur cette image de cellule
+Dialogue: 0,0:00:14.23,0:00:16.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}animale, on repère le noyau et,
+Dialogue: 0,0:00:16.09,0:00:17.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autour, le réticulum
+Dialogue: 0,0:00:17.29,0:00:18.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endoplasmique.
+Dialogue: 0,0:00:18.69,0:00:20.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}enveloppe{\c&HFFFFFF&} {\c&H66D1FF&}nucléaire{\c&HFFFFFF&} :
+Dialogue: 0,0:00:20.06,0:00:21.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux membranes, donc deux
+Dialogue: 0,0:00:21.48,0:00:22.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicouches lipidiques,
+Dialogue: 0,0:00:22.68,0:00:24.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en continuité avec le réticulum
+Dialogue: 0,0:00:24.45,0:00:25.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endoplasmique.
+Dialogue: 0,0:00:25.64,0:00:26.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}lame{\c&HFFFFFF&} {\c&H66D1FF&}nucléaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:26.66,0:00:28.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou lamina : un réseau fibreux de
+Dialogue: 0,0:00:28.36,0:00:29.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}filaments intermédiaires,
+Dialogue: 0,0:00:29.70,0:00:31.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui donne sa forme au noyau.
+Dialogue: 0,0:00:31.59,0:00:32.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}pores{\c&HFFFFFF&} {\c&H66D1FF&}nucléaires{\c&HFFFFFF&} :
+Dialogue: 0,0:00:32.74,0:00:34.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils traversent les deux membranes
+Dialogue: 0,0:00:34.45,0:00:36.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et sont constitués de protéines
+Dialogue: 0,0:00:36.07,0:00:37.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disposées en cercle.
+Dialogue: 0,0:00:37.51,0:00:39.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils laissent circuler {\c&H66D1FF&}librement{\c&HFFFFFF&}
+Dialogue: 0,0:00:39.30,0:00:40.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les petites molécules,
+Dialogue: 0,0:00:40.57,0:00:41.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides et ions,
+Dialogue: 0,0:00:41.72,0:00:43.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et assurent un passage {\c&H66D1FF&}contrôlé{\c&HFFFFFF&}
+Dialogue: 0,0:00:43.51,0:00:44.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des macromolécules,
+Dialogue: 0,0:00:44.60,0:00:45.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ARN et protéines.
+Dialogue: 0,0:00:46.26,0:00:48.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}chromatine{\c&HFFFFFF&} porte l'information
+Dialogue: 0,0:00:48.01,0:00:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génétique : c'est l'ADN associé à
+Dialogue: 0,0:00:49.93,0:00:51.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines, en longs filaments
+Dialogue: 0,0:00:51.68,0:00:52.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}emmêlés, et en plusieurs
+Dialogue: 0,0:00:52.96,0:00:54.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}morceaux, les chromosomes.
+Dialogue: 0,0:00:54.74,0:00:56.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}nucléole{\c&HFFFFFF&} : une tache sombre
+Dialogue: 0,0:00:56.28,0:00:57.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le noyau, parfois plusieurs
+Dialogue: 0,0:00:57.92,0:00:58.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par noyau.
+Dialogue: 0,0:00:58.57,0:01:00.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le site d'assemblage des
+Dialogue: 0,0:01:00.25,0:01:01.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous-unités ribosomales,
+Dialogue: 0,0:01:01.58,0:01:03.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des complexes ARN-protéines.
+Dialogue: 0,0:01:03.82,0:01:05.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}ribosomes{\c&HFFFFFF&} sont des complexes
+Dialogue: 0,0:01:05.54,0:01:07.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines-ARN à deux sous-unités,
+Dialogue: 0,0:01:07.31,0:01:08.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}très nombreux dans la cellule.
+Dialogue: 0,0:01:09.07,0:01:10.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils effectuent la synthèse des
+Dialogue: 0,0:01:10.76,0:01:12.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptides, sur base des ARN
+Dialogue: 0,0:01:12.56,0:01:13.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messagers.
+Dialogue: 0,0:01:13.52,0:01:14.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le cytoplasme,
+Dialogue: 0,0:01:14.60,0:01:16.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on les trouve à l'état libre dans
+Dialogue: 0,0:01:16.47,0:01:18.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytosol, ou sur des membranes
+Dialogue: 0,0:01:18.29,0:01:19.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}internes : le réticulum
+Dialogue: 0,0:01:19.59,0:01:21.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endoplasmique et la surface
+Dialogue: 0,0:01:21.12,0:01:22.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}externe du noyau.
+Dialogue: 0,0:01:22.65,0:01:23.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:01:23.88,0:01:25.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'enveloppe nucléaire est une
+Dialogue: 0,0:01:25.25,0:01:26.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}simple membrane” :
+Dialogue: 0,0:01:26.05,0:01:27.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, deux membranes,
+Dialogue: 0,0:01:27.04,0:01:27.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux bicouches.
+Dialogue: 0,0:01:28.15,0:01:29.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les protéines traversent
+Dialogue: 0,0:01:29.34,0:01:30.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}librement les pores” :
+Dialogue: 0,0:01:30.38,0:01:31.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, leur passage est contrôlé.
+Dialogue: 0,0:01:32.10,0:01:33.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont les petites molécules qui
+Dialogue: 0,0:01:33.74,0:01:34.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}circulent librement.
+Dialogue: 0,0:01:35.14,0:01:36.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La lamina est faite de
+Dialogue: 0,0:01:36.26,0:01:37.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubules” : faux,
+Dialogue: 0,0:01:37.29,0:01:38.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de filaments intermédiaires.
+Dialogue: 0,0:01:39.28,0:01:40.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : où se fait l'assemblage
+Dialogue: 0,0:01:40.72,0:01:42.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des sous-unités ribosomales ?
+Dialogue: 0,0:01:46.52,0:01:48.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le nucléole, la tache sombre
+Dialogue: 0,0:01:48.31,0:01:48.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du noyau.
+Dialogue: 0,0:01:49.36,0:01:50.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:01:50.46,0:01:52.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le système membranaire interne,
+Dialogue: 0,0:01:52.35,0:01:54.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le réticulum, le Golgi avec sa
+Dialogue: 0,0:01:54.18,0:01:55.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}face cis et sa face trans,
+Dialogue: 0,0:01:55.77,0:01:58.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les lysosomes, découverts à l'UCL.

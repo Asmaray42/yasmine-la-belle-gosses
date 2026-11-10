@@ -1,0 +1,137 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque pompe sodium potassium
+Dialogue: 0,0:00:01.75,0:00:03.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut transporter au moins trois
+Dialogue: 0,0:00:03.30,0:00:04.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cents Na plus par seconde,
+Dialogue: 0,0:00:04.60,0:00:05.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contre leur gradient.
+Dialogue: 0,0:00:05.79,0:00:07.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À chaque cycle : trois Na plus
+Dialogue: 0,0:00:07.27,0:00:08.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sortent, deux K plus entrent.
+Dialogue: 0,0:00:09.11,0:00:10.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le transport
+Dialogue: 0,0:00:10.76,0:00:12.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}actif, la pompe en six étapes,
+Dialogue: 0,0:00:12.59,0:00:13.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le co-transporteur
+Dialogue: 0,0:00:13.88,0:00:14.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sodium-glucose.
+Dialogue: 0,0:00:15.36,0:00:17.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le transport actif fait passer
+Dialogue: 0,0:00:17.00,0:00:18.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des substances {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}l'encontre{\c&HFFFFFF&} du
+Dialogue: 0,0:00:18.63,0:00:20.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gradient de concentration,
+Dialogue: 0,0:00:20.05,0:00:21.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en entrée ou en sortie.
+Dialogue: 0,0:00:21.45,0:00:22.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il permet de créer des
+Dialogue: 0,0:00:22.77,0:00:24.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différences de concentration
+Dialogue: 0,0:00:24.45,0:00:26.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre le cytoplasme et le milieu
+Dialogue: 0,0:00:26.36,0:00:27.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire.
+Dialogue: 0,0:00:27.72,0:00:28.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Molécules concernées :
+Dialogue: 0,0:00:28.92,0:00:30.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ions, sucres, acides aminés,
+Dialogue: 0,0:00:30.45,0:00:31.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides.
+Dialogue: 0,0:00:31.25,0:00:32.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est assuré par des
+Dialogue: 0,0:00:32.46,0:00:34.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transporteurs protéiques de
+Dialogue: 0,0:00:34.03,0:00:35.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécificité variable.
+Dialogue: 0,0:00:35.64,0:00:37.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Uniport{\c&HFFFFFF&} : une seule substance.
+Dialogue: 0,0:00:37.41,0:00:39.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Symport{\c&HFFFFFF&} : deux substances dans la
+Dialogue: 0,0:00:39.04,0:00:39.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}même direction.
+Dialogue: 0,0:00:39.92,0:00:41.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Antiport{\c&HFFFFFF&} : deux substances en
+Dialogue: 0,0:00:41.39,0:00:42.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}directions opposées.
+Dialogue: 0,0:00:42.55,0:00:44.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces transporteurs requièrent de
+Dialogue: 0,0:00:44.12,0:00:46.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie, souvent sous forme d'ATP.
+Dialogue: 0,0:00:46.61,0:00:47.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Uni, comme unique :
+Dialogue: 0,0:00:47.57,0:00:48.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une substance.
+Dialogue: 0,0:00:48.41,0:00:49.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sym, comme sympathique,
+Dialogue: 0,0:00:49.61,0:00:51.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on voyage ensemble dans le même sens.
+Dialogue: 0,0:00:51.69,0:00:53.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Anti, comme antagoniste :
+Dialogue: 0,0:00:53.05,0:00:54.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacun dans un sens opposé.
+Dialogue: 0,0:00:55.08,0:00:56.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans la plupart des cellules,
+Dialogue: 0,0:00:56.63,0:00:58.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y a moins de Na plus dans le
+Dialogue: 0,0:00:58.29,0:00:59.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosol qu'à l'extérieur,
+Dialogue: 0,0:00:59.63,0:01:01.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et plus de K plus dans le cytosol
+Dialogue: 0,0:01:01.40,0:01:02.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qu'à l'extérieur.
+Dialogue: 0,0:01:02.45,0:01:03.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La pompe sodium potassium,
+Dialogue: 0,0:01:03.97,0:01:05.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un antiport qui consomme de
+Dialogue: 0,0:01:05.55,0:01:07.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATP, fait sortir le Na plus et
+Dialogue: 0,0:01:07.54,0:01:08.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entrer le K plus.
+Dialogue: 0,0:01:08.93,0:01:10.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : trois Na plus se lient à la
+Dialogue: 0,0:01:10.56,0:01:11.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pompe, côté cytosol.
+Dialogue: 0,0:01:11.98,0:01:13.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : changement de
+Dialogue: 0,0:01:13.01,0:01:14.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}conformation, et liaison d'un ATP
+Dialogue: 0,0:01:14.81,0:01:16.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui cède un phosphate à la pompe.
+Dialogue: 0,0:01:16.90,0:01:18.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : cette phosphorylation
+Dialogue: 0,0:01:18.43,0:01:19.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}induit un autre changement de
+Dialogue: 0,0:01:19.96,0:01:21.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}conformation, et les Na plus sont
+Dialogue: 0,0:01:21.70,0:01:22.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}libérés à l'extérieur.
+Dialogue: 0,0:01:23.26,0:01:25.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre : dans cette conformation,
+Dialogue: 0,0:01:25.06,0:01:26.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la pompe a une forte affinité
+Dialogue: 0,0:01:26.65,0:01:28.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour le K plus, et en fixe deux,
+Dialogue: 0,0:01:28.39,0:01:29.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}côté extérieur.
+Dialogue: 0,0:01:29.61,0:01:31.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq : nouveau changement de
+Dialogue: 0,0:01:31.09,0:01:32.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}conformation, et perte du
+Dialogue: 0,0:01:32.40,0:01:32.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate.
+Dialogue: 0,0:01:33.33,0:01:34.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six : retour à la conformation
+Dialogue: 0,0:01:34.97,0:01:36.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}initiale, perte d'affinité pour
+Dialogue: 0,0:01:36.67,0:01:38.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le K plus, libéré dans la
+Dialogue: 0,0:01:38.04,0:01:39.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule, et de nouveaux Na plus
+Dialogue: 0,0:01:39.74,0:01:40.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prennent place.
+Dialogue: 0,0:01:40.70,0:01:42.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque pompe transporterait au
+Dialogue: 0,0:01:42.20,0:01:43.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moins trois cents Na plus par
+Dialogue: 0,0:01:43.65,0:01:44.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}seconde.
+Dialogue: 0,0:01:44.61,0:01:45.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le co-transporteur
+Dialogue: 0,0:01:45.73,0:01:47.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sodium-glucose, SGLT,
+Dialogue: 0,0:01:47.23,0:01:49.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se trouve dans les cellules de
+Dialogue: 0,0:01:49.10,0:01:50.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épithélium intestinal.
+Dialogue: 0,0:01:50.74,0:01:51.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est un {\c&H66D1FF&}symport{\c&HFFFFFF&} .
+Dialogue: 0,0:01:52.14,0:01:53.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le Na plus entre par transport
+Dialogue: 0,0:01:53.82,0:01:55.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}passif{\c&HFFFFFF&} : ce flux fournit
+Dialogue: 0,0:01:55.18,0:01:57.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie pour le transport {\c&H66D1FF&}actif{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.03,0:01:57.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du glucose.
+Dialogue: 0,0:01:57.79,0:01:59.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il ne requiert donc pas d'ATP.
+Dialogue: 0,0:01:59.79,0:02:01.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre étapes : deux Na plus se
+Dialogue: 0,0:02:01.49,0:02:02.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lient au transporteur côté
+Dialogue: 0,0:02:02.92,0:02:04.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire, attirés par des
+Dialogue: 0,0:02:04.67,0:02:06.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}charges négatives de la protéine.
+Dialogue: 0,0:02:06.62,0:02:08.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Changement de conformation et
+Dialogue: 0,0:02:08.13,0:02:09.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison d'un glucose.
+Dialogue: 0,0:02:09.36,0:02:11.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le flux d'ions permet le passage
+Dialogue: 0,0:02:11.09,0:02:12.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du glucose, avec un nouveau
+Dialogue: 0,0:02:12.55,0:02:14.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}changement de conformation.
+Dialogue: 0,0:02:14.15,0:02:15.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Enfin, le glucose et les Na plus
+Dialogue: 0,0:02:15.88,0:02:17.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont libérés dans le cytosol.
+Dialogue: 0,0:02:18.02,0:02:19.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On trouve aussi des canaux et des
+Dialogue: 0,0:02:19.71,0:02:21.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transporteurs, passifs ou actifs,
+Dialogue: 0,0:02:21.41,0:02:23.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la membrane des organites :
+Dialogue: 0,0:02:23.05,0:02:24.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils contrôlent la répartition des
+Dialogue: 0,0:02:24.75,0:02:26.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}solutés dans les différents
+Dialogue: 0,0:02:26.14,0:02:26.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compartiments.
+Dialogue: 0,0:02:27.26,0:02:28.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux exemples : les canaux
+Dialogue: 0,0:02:28.75,0:02:30.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}calcium de la membrane du REL,
+Dialogue: 0,0:02:30.58,0:02:32.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passifs ; et la pompe à protons
+Dialogue: 0,0:02:32.36,0:02:34.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la membrane des lysosomes, active.
+Dialogue: 0,0:02:35.04,0:02:35.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:36.28,0:02:38.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La pompe sodium potassium est un
+Dialogue: 0,0:02:38.02,0:02:39.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}symport” : faux, c'est un
+Dialogue: 0,0:02:39.32,0:02:39.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}antiport.
+Dialogue: 0,0:02:40.21,0:02:41.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La pompe fait entrer trois Na
+Dialogue: 0,0:02:41.64,0:02:43.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus” : faux, elle fait sortir
+Dialogue: 0,0:02:43.08,0:02:44.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois Na plus et entrer deux K plus.
+Dialogue: 0,0:02:45.26,0:02:46.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“SGLT consomme directement de
+Dialogue: 0,0:02:46.98,0:02:48.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATP” : faux, c'est le flux
+Dialogue: 0,0:02:48.59,0:02:50.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passif de Na plus qui fournit
+Dialogue: 0,0:02:50.21,0:02:50.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie.
+Dialogue: 0,0:02:51.32,0:02:52.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : combien d'ions K plus la
+Dialogue: 0,0:02:52.82,0:02:54.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pompe fixe-t-elle côté extérieur
+Dialogue: 0,0:02:54.37,0:02:55.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à chaque cycle ?
+Dialogue: 0,0:02:59.54,0:02:59.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux.
+Dialogue: 0,0:03:00.13,0:03:01.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, ce sont les Na plus ;
+Dialogue: 0,0:03:01.51,0:03:03.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et trois cents, le nombre de Na
+Dialogue: 0,0:03:03.03,0:03:03.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus par seconde.
+Dialogue: 0,0:03:04.43,0:03:05.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:05.54,0:03:06.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le transport en vrac,
+Dialogue: 0,0:03:06.83,0:03:08.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endocytose et exocytose,
+Dialogue: 0,0:03:08.31,0:03:09.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'exemple complet de la
+Dialogue: 0,0:03:09.91,0:03:11.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule intestinale.

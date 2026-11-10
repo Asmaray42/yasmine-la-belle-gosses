@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans ta cellule, des vésicules
+Dialogue: 0,0:00:01.86,0:00:03.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}voyagent sur des rails,
+Dialogue: 0,0:00:03.05,0:00:04.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tirées par des moteurs.
+Dialogue: 0,0:00:04.38,0:00:06.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux moteurs, deux sens opposés.
+Dialogue: 0,0:00:06.15,0:00:07.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lequel va où ?
+Dialogue: 0,0:00:07.44,0:00:09.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les mouvements,
+Dialogue: 0,0:00:09.03,0:00:10.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les moteurs moléculaires,
+Dialogue: 0,0:00:10.36,0:00:11.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la reptation, les cils,
+Dialogue: 0,0:00:11.59,0:00:13.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis la matrice extracellulaire.
+Dialogue: 0,0:00:13.85,0:00:15.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mouvements intracellulaires
+Dialogue: 0,0:00:15.50,0:00:16.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont orchestrés par les
+Dialogue: 0,0:00:16.72,0:00:17.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microfilaments et les
+Dialogue: 0,0:00:17.84,0:00:18.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubules.
+Dialogue: 0,0:00:18.67,0:00:19.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq exemples.
+Dialogue: 0,0:00:20.09,0:00:21.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La répartition des chromosomes
+Dialogue: 0,0:00:21.68,0:00:22.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lors de la division :
+Dialogue: 0,0:00:22.80,0:00:23.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubules.
+Dialogue: 0,0:00:23.89,0:00:25.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La séparation des cellules filles
+Dialogue: 0,0:00:25.54,0:00:26.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: microfilaments.
+Dialogue: 0,0:00:26.79,0:00:28.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La contraction des cellules
+Dialogue: 0,0:00:28.18,0:00:29.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}musculaires : microfilaments,
+Dialogue: 0,0:00:29.68,0:00:30.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la myosine.
+Dialogue: 0,0:00:30.91,0:00:32.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le positionnement d'enzymes dans
+Dialogue: 0,0:00:32.45,0:00:33.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule : microfilaments.
+Dialogue: 0,0:00:34.20,0:00:35.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le mouvement des vésicules :
+Dialogue: 0,0:00:35.71,0:00:36.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubules.
+Dialogue: 0,0:00:36.91,0:00:38.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux couples de moteurs,
+Dialogue: 0,0:00:38.10,0:00:39.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui roulent sur un microtubule,
+Dialogue: 0,0:00:39.64,0:00:40.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le rail.
+Dialogue: 0,0:00:40.44,0:00:42.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La dynactine fixe les vésicules ;
+Dialogue: 0,0:00:42.41,0:00:44.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la kinectine fixe les vésicules
+Dialogue: 0,0:00:44.27,0:00:45.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du réticulum endoplasmique.
+Dialogue: 0,0:00:46.29,0:00:48.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le moteur, qui consomme de l'ATP
+Dialogue: 0,0:00:48.22,0:00:49.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: la dynéine d'un côté,
+Dialogue: 0,0:00:49.52,0:00:50.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la kinésine de l'autre.
+Dialogue: 0,0:00:51.23,0:00:52.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le sens : la dynéine va vers
+Dialogue: 0,0:00:52.99,0:00:54.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extrémité moins,
+Dialogue: 0,0:00:54.01,0:00:55.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la kinésine vers l'extrémité plus.
+Dialogue: 0,0:00:56.50,0:00:58.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La dynéine descend vers le moins
+Dialogue: 0,0:00:58.16,0:01:00.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; la kinésine continue vers le plus.
+Dialogue: 0,0:01:00.59,0:01:01.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les déplacements cellulaires.
+Dialogue: 0,0:01:02.06,0:01:03.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}reptation{\c&HFFFFFF&} implique surtout les
+Dialogue: 0,0:01:03.83,0:01:05.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microfilaments : allongement par
+Dialogue: 0,0:01:05.55,0:01:06.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polymérisation d'actine à
+Dialogue: 0,0:01:06.89,0:01:08.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'avant, et contraction à
+Dialogue: 0,0:01:08.23,0:01:08.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'arrière.
+Dialogue: 0,0:01:08.91,0:01:10.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemples : la cicatrisation,
+Dialogue: 0,0:01:10.54,0:01:12.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les métastases de tumeurs
+Dialogue: 0,0:01:12.00,0:01:12.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cancéreuses.
+Dialogue: 0,0:01:13.09,0:01:14.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}flagelles{\c&HFFFFFF&} , longs,
+Dialogue: 0,0:01:14.26,0:01:15.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les {\c&H66D1FF&}cils{\c&HFFFFFF&} , plus courts,
+Dialogue: 0,0:01:15.64,0:01:17.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont des extensions du cytoplasme
+Dialogue: 0,0:01:17.39,0:01:18.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}délimitées par la membrane
+Dialogue: 0,0:01:18.77,0:01:19.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasmique.
+Dialogue: 0,0:01:19.44,0:01:20.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils contiennent des microtubules
+Dialogue: 0,0:01:20.99,0:01:22.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: {\c&H66D1FF&}neuf{\c&HFFFFFF&} {\c&H66D1FF&}paires{\c&HFFFFFF&} en périphérie,
+Dialogue: 0,0:01:22.35,0:01:23.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus {\c&H66D1FF&}deux{\c&HFFFFFF&} au centre.
+Dialogue: 0,0:01:23.71,0:01:25.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemples : les spermatozoïdes,
+Dialogue: 0,0:01:25.34,0:01:26.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec leurs flagelles,
+Dialogue: 0,0:01:26.48,0:01:28.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les cellules de la surface
+Dialogue: 0,0:01:28.05,0:01:29.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interne de la trachée,
+Dialogue: 0,0:01:29.24,0:01:30.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec leurs cils.
+Dialogue: 0,0:01:30.67,0:01:32.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Septième point du chapitre trois
+Dialogue: 0,0:01:32.34,0:01:33.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les structures
+Dialogue: 0,0:01:33.18,0:01:34.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaires.
+Dialogue: 0,0:01:34.21,0:01:35.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un ensemble de glycoprotéines
+Dialogue: 0,0:01:35.91,0:01:37.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrétées par la cellule forme la
+Dialogue: 0,0:01:37.84,0:01:39.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}matrice{\c&HFFFFFF&} {\c&H66D1FF&}extracellulaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:39.71,0:01:41.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles se présentent sous forme de
+Dialogue: 0,0:01:41.57,0:01:42.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fibres solides, comme le
+Dialogue: 0,0:01:42.93,0:01:44.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}collagène, l'élastine,
+Dialogue: 0,0:01:44.17,0:01:45.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la fibronectine, ou en solution
+Dialogue: 0,0:01:45.92,0:01:47.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gélatineuse, les protéoglycans.
+Dialogue: 0,0:01:48.07,0:01:49.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles se fixent à la membrane
+Dialogue: 0,0:01:49.58,0:01:51.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasmique via les fibronectines,
+Dialogue: 0,0:01:51.24,0:01:52.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles-mêmes liées aux {\c&H66D1FF&}intégrines{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.90,0:01:54.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, des protéines de la membrane.
+Dialogue: 0,0:01:54.65,0:01:56.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les intégrines sont connectées
+Dialogue: 0,0:01:56.28,0:01:57.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux microfilaments :
+Dialogue: 0,0:01:57.37,0:01:59.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la matrice peut donc influencer
+Dialogue: 0,0:01:59.06,0:02:00.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le comportement de la cellule.
+Dialogue: 0,0:02:01.25,0:02:02.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre fonctions :
+Dialogue: 0,0:02:02.18,0:02:03.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cohésion des cellules dans le
+Dialogue: 0,0:02:03.83,0:02:04.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tissu ; le soutien,
+Dialogue: 0,0:02:04.81,0:02:06.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}élastique comme dans la peau,
+Dialogue: 0,0:02:06.30,0:02:07.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou rigide comme dans le
+Dialogue: 0,0:02:07.49,0:02:08.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cartilage, les tendons,
+Dialogue: 0,0:02:08.68,0:02:09.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les ligaments, les os.
+Dialogue: 0,0:02:10.21,0:02:11.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le guidage des mouvements
+Dialogue: 0,0:02:11.53,0:02:12.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires, pendant le
+Dialogue: 0,0:02:12.75,0:02:14.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement embryonnaire,
+Dialogue: 0,0:02:14.18,0:02:15.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cicatrisation, ou pour les
+Dialogue: 0,0:02:15.71,0:02:16.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules immunitaires ;
+Dialogue: 0,0:02:16.93,0:02:18.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le contrôle de l'hydratation
+Dialogue: 0,0:02:18.57,0:02:20.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et de la composition du milieu
+Dialogue: 0,0:02:20.15,0:02:21.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire.
+Dialogue: 0,0:02:21.40,0:02:22.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et un détail du quotidien :
+Dialogue: 0,0:02:22.89,0:02:24.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la diminution de la synthèse
+Dialogue: 0,0:02:24.44,0:02:26.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'élastine avec l'âge contribue à
+Dialogue: 0,0:02:26.27,0:02:27.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'apparition des rides.
+Dialogue: 0,0:02:28.10,0:02:29.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une maladie de la matrice :
+Dialogue: 0,0:02:29.67,0:02:31.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le syndrome d'Ehlers-Danlos.
+Dialogue: 0,0:02:31.45,0:02:33.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prévalence : un sur quinze mille.
+Dialogue: 0,0:02:33.25,0:02:34.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cause : un défaut de synthèse de
+Dialogue: 0,0:02:34.80,0:02:35.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}collagène{\c&HFFFFFF&} .
+Dialogue: 0,0:02:35.74,0:02:37.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Peau élastique et fragile,
+Dialogue: 0,0:02:37.27,0:02:38.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cicatrisation anormale,
+Dialogue: 0,0:02:38.63,0:02:40.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hyperlaxité des articulations,
+Dialogue: 0,0:02:40.40,0:02:41.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et dans certaines formes,
+Dialogue: 0,0:02:41.88,0:02:43.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fragilité des vaisseaux et de
+Dialogue: 0,0:02:43.59,0:02:44.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intestin.
+Dialogue: 0,0:02:44.38,0:02:45.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sévérité variable :
+Dialogue: 0,0:02:45.45,0:02:46.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}subluxations articulaires,
+Dialogue: 0,0:02:46.90,0:02:48.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}douleurs chroniques,
+Dialogue: 0,0:02:48.02,0:02:49.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hémorragies, fatigue.
+Dialogue: 0,0:02:49.34,0:02:50.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pas de traitement curatif.
+Dialogue: 0,0:02:51.30,0:02:52.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:57.08,0:02:57.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse C.
+Dialogue: 0,0:02:58.03,0:02:59.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La kinésine va vers le plus,
+Dialogue: 0,0:02:59.61,0:03:01.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les intégrines sont des protéines
+Dialogue: 0,0:03:01.47,0:03:02.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la membrane plasmique,
+Dialogue: 0,0:03:02.88,0:03:04.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et Ehlers-Danlos touche le
+Dialogue: 0,0:03:04.34,0:03:04.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}collagène.
+Dialogue: 0,0:03:05.47,0:03:06.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:06.36,0:03:07.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comment les cellules s'attachent
+Dialogue: 0,0:03:07.95,0:03:09.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre elles, avec trois types de
+Dialogue: 0,0:03:09.54,0:03:11.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jonctions, et pourquoi l'utérus
+Dialogue: 0,0:03:11.08,0:03:12.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se synchronise avant
+Dialogue: 0,0:03:12.07,0:03:12.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'accouchement.

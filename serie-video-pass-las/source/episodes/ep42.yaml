@@ -1,0 +1,246 @@
+title: "Respiration cellulaire (2) : chaîne, chimiosmose, bilan"
+subtitle: "Pompes à H+ · ATP synthase · 36 ATP théoriques · fermentation · photosynthèse"
+source: "S1-4 p.23b à 26"
+chapter: "Partie I — Chapitre VII. Métabolisme cellulaire — 4. Respiration cellulaire, fermentation, photosynthèse"
+objectives:
+  - "Décrire la chaîne de transport d'électrons et le nombre de pompes activées par NADH et FADH2."
+  - "Expliquer la chimiosmose et l'ATP synthase."
+  - "Reconstituer le bilan théorique de 36 ATP et le rendement réel de 30 à 32 ATP."
+  - "Décrire la fermentation lactique et alcoolique, le catabolisme des lipides et des protéines, et le rôle du soleil et de la photosynthèse."
+
+scenes:
+  - kind: hook
+    title: "Une turbine dans ta mitochondrie"
+    ref: "S1-4 p.24"
+    big: "36 ATP"
+    beats:
+      - say: "Dans chaque mitochondrie tourne une turbine moléculaire. C'est elle qui fabrique la majorité de ton ATP."
+      - say: "Au programme : la chaîne de transport, la chimiosmose, le bilan de la respiration, la fermentation, puis le soleil et la photosynthèse."
+        show: "Chaîne · *chimiosmose* · bilan · fermentation · *photosynthèse*"
+
+  - kind: figure
+    title: "La chaîne de transport d'électrons"
+    ref: "S1-4 p.23b"
+    fig: "S1-4:23b"
+    trap: "NADH → 3 pompes (± 3 H+) ; FADH2 → 2 pompes (± 2 H+) ; H+ concentrés dans l'espace INTERMEMBRANAIRE."
+    beats:
+      - say: "Les électrons portés par le NADH et le FADH2 sont cédés à un accepteur contenu dans un ensemble de complexes protéiques insérés dans la *membrane interne* de la mitochondrie."
+        mark: "membrane interne"
+        show: "e⁻ de NADH, FADH₂ → complexes de la *membrane interne*"
+      - say: "Par une succession de réactions d'oxydo-réduction, les électrons passent d'un accepteur à l'autre, et finalement à l'O2, qui donne H2O. À chaque étape, ils perdent un peu de leur énergie."
+        mark: ["oxydo-réduction", "H2O"]
+        show: "Oxydo-réductions successives → *O₂* (→ H₂O)"
+      - say: "L'énergie libérée actionne des pompes à H plus, qui concentrent les H plus dans l'*espace intermembranaire*."
+        mark: "espace intermembranaire"
+        show: "Pompes à H⁺ → H⁺ dans l'*espace intermembranaire*"
+      - say: "Les électrons amenés par le NADH activent *trois pompes*, soit le passage d'environ trois H plus utiles à la respiration. Ceux amenés par le FADH2 activent *deux pompes*, environ deux H plus."
+        mark: ["3 pompes", "2 pompes"]
+        show: "# NADH → *3 pompes* (± 3 H⁺) · FADH₂ → *2 pompes* (± 2 H⁺)"
+
+  - kind: figure
+    title: "La chimiosmose"
+    ref: "S1-4 p.24h"
+    fig: "S1-4:24h"
+    trap: "1 H+ = 1 ATP ; maximum théorique 32 ATP par glucose ; la MAJORITÉ de l'ATP est produite ici."
+    beats:
+      - say: "L'ATP synthase est un complexe enzymatique inséré dans la membrane interne de la mitochondrie."
+        mark: "ATP synthase"
+        show: "*ATP synthase* : membrane interne"
+      - say: "Le gradient généré par la chaîne respiratoire permet un flux de H plus, qui actionne une *rotation* dans l'ATP synthase. L'énergie de cette rotation permet la phosphorylation oxydative d'ADP en ATP."
+        mark: ["rotation", "phosphorylation oxydative"]
+        show: "Flux de H⁺ → *rotation* → ADP → ATP (*phosphorylation oxydative*)"
+      - say: "Selon le cours : à chaque passage d'un H plus, une molécule d'ATP est synthétisée."
+        mark: "chaque passage"
+        show: "# *1 H⁺* = *1 ATP*"
+      - say: "La capacité maximale de la chimiosmose est théoriquement de *32 ATP* par molécule de glucose. La majorité de l'ATP est donc produite à cette étape."
+        mark: "32 ATP"
+        show: "Maximum théorique : *32 ATP* / glucose = la *majorité*"
+
+  - kind: figure
+    title: "Bilan de la respiration cellulaire"
+    ref: "S1-4 p.24b"
+    fig: "S1-4:24b"
+    trap: "40 – 4 = 36 ATP théoriques ; 30 à 32 en réalité, selon le type cellulaire."
+    beats:
+      - say: "Le bilan, au départ d'une molécule de glucose. Côté dépenses : moins quatre ATP, deux pour l'activation de la glycolyse et deux pour le transport du NADH vers la mitochondrie."
+        mark: "4 ATP"
+        show: "Dépenses : *– 4 ATP*"
+      - say: "Côté gains : quatre ATP de la glycolyse ; les deux NADH de la glycolyse et les deux de l'oxydation du pyruvate, à trois ATP chacun ; deux ATP du cycle de Krebs ; ses six NADH, dix-huit ATP ; et ses deux FADH2, à deux ATP chacun. Total : plus quarante."
+        mark: "40 ATP"
+        show: "4 + 6 + 6 + 2 + 18 + 4 = *+ 40 ATP*"
+      - say: "Au départ d'une molécule de glucose, *36 ATP* peuvent donc théoriquement être produits."
+        show: "# 40 – 4 = *36 ATP* théoriques"
+      - say: "Des pertes de rendement sont observées : *30 à 32 ATP* en réalité. Elles varient en fonction du type cellulaire."
+        mark: ["30", "type cellulaire"]
+        show: "En réalité : *30 à 32 ATP* (selon le *type cellulaire*)"
+
+  - kind: table
+    title: "Le bilan ligne par ligne (par glucose)"
+    ref: "S1-4 p.24b"
+    header: ["Origine", "Molécules", "ATP"]
+    beats:
+      - say: "Reprenons ligne par ligne."
+      - say: "Glycolyse : moins deux, plus quatre ATP directs."
+        show: "Glycolyse | ATP directs | *– 2 / + 4*"
+      - say: "Ses deux NADH : plus six ; mais leur transport vers la mitochondrie coûte deux ATP."
+        show: "Glycolyse | 2 NADH × 3 | *+ 6* (transport : *– 2*)"
+      - say: "Oxydation du pyruvate : deux NADH, plus six."
+        show: "Oxydation du pyruvate | 2 NADH × 3 | *+ 6*"
+      - say: "Cycle de Krebs : deux ATP directs, six NADH pour dix-huit, deux FADH2 pour quatre."
+        show: "Krebs | 2 ATP · 6 NADH × 3 · 2 FADH₂ × 2 | *+ 2 · + 18 · + 4*"
+
+  - kind: flow
+    title: "La fermentation"
+    ref: "S1-4 p.25h"
+    trap: "Fermentation = SANS O2 ; but : régénérer le NAD+ pour poursuivre la glycolyse ; alcoolique : 2 éthanol (levures)."
+    beats:
+      - say: "Parfois, l'apport d'O2 se fait rare dans la cellule."
+      - say: "Par exemple, dans les cellules musculaires lors d'un effort important, la dégradation du glucose est plus rapide que l'apport d'O2."
+        show: "Effort important : dégradation du glucose *>* apport d'O₂"
+      - say: "Le catabolisme du glucose peut alors s'orienter vers une autre voie, qui n'utilise pas d'O2 : la *fermentation lactique*."
+        show: "Voie sans O₂ : *fermentation lactique*"
+      - say: "Elle permet la *régénération du NAD plus*, pour poursuivre la glycolyse."
+        show: "→ *régénère le NAD⁺* → la glycolyse continue"
+      - say: "Certains organismes utilisent la *fermentation alcoolique* : elle produit deux éthanol au lieu du lactate. Exemple : les levures utilisées pour la bière et le vin."
+        show: "*Fermentation alcoolique* : 2 éthanol (levures : bière, vin)"
+
+  - kind: figure
+    title: "Catabolisme des lipides et des protéines"
+    ref: "S1-4 p.25b"
+    fig: "S1-4:25b"
+    trap: "Lipides ET protéines entrent à DIFFÉRENTS niveaux de la respiration."
+    beats:
+      - say: "Les lipides : le glycérol et les acides gras, produits de la digestion des triglycérides, sont transformés et peuvent entrer à différents niveaux dans la respiration cellulaire."
+        mark: ["glycérol", "acides gras"]
+        show: "Lipides : *glycérol* + *acides gras* → différents niveaux"
+      - say: "Les protéines : les acides aminés peuvent être convertis, notamment via l'élimination du groupe amine, pour s'intégrer à différents niveaux dans la respiration cellulaire."
+        mark: "groupe amine"
+        show: "Protéines : acides aminés – *groupe amine* → différents niveaux"
+
+  - kind: figure
+    title: "Le soleil à l'origine des molécules énergétiques"
+    ref: "S1-4 p.26h"
+    fig: "S1-4:26h"
+    trap: "Autotrophes = synthétisent TOUTES leurs molécules organiques ; hétérotrophes = consomment d'autres organismes."
+    beats:
+      - say: "Le soleil fournit l'énergie utilisée par la majorité des organismes vivants."
+        show: "Soleil → énergie de la *majorité* des vivants"
+      - say: "Les plantes, les algues et certaines bactéries captent cette énergie et l'utilisent pour former des molécules complexes, des glucides, au départ de CO2 : c'est la *photosynthèse*. Ces organismes sont à la base de la chaîne alimentaire."
+        mark: ["photosynthèse", "chaîne alimentaire"]
+        show: "Plantes, algues, certaines bactéries : CO₂ → glucides = *photosynthèse*"
+      - say: "On distingue les *autotrophes*, capables de synthétiser l'ensemble des molécules organiques qui les composent, et les *hétérotrophes*, qui puisent leurs molécules organiques en consommant d'autres organismes."
+        mark: ["autotrophes", "hétérotrophes"]
+        show: "*Autotrophes* : synthétisent tout · *hétérotrophes* : consomment d'autres organismes"
+
+  - kind: figure
+    title: "Photosynthèse et production d'oxygène"
+    ref: "S1-4 p.26b"
+    fig: "S1-4:26b"
+    trap: "O2 produit au départ d'H2O (pas de CO2) ; cyanobactéries en premier, ± 3,8 milliards d'années."
+    beats:
+      - say: "La photosynthèse produit de l'oxygène au départ d'H2O."
+        mark: "au départ d"
+        show: "O₂ produit au départ d'*H₂O*"
+      - say: "Les organismes photosynthétiques, les *cyanobactéries* en premier, il y a environ 3,8 milliards d'années, sont responsables de la présence d'O2 sur la Terre, qui en était dépourvue à l'origine."
+        mark: ["cyanobactéries", "3,8"]
+        show: "*Cyanobactéries* en premier · ± *3,8 milliards* d'années"
+      - say: "Les organismes *aérobies*, qui utilisent l'O2 pour leur respiration, sont une adaptation à la présence d'oxygène sur la Terre."
+        mark: "aérobies"
+        show: "*Aérobies* = adaptation à l'O₂"
+
+  - kind: trap
+    title: "Les pièges de la fin du métabolisme"
+    ref: "S1-4 p.23-26"
+    trap: "36 théoriques / 30-32 réels ; 32 = maximum de la seule chimiosmose."
+    beats:
+      - say: "Trois pièges."
+      - say: "“La chimiosmose produit 36 ATP” : faux. Trente-deux au maximum pour la chimiosmose ; trente-six pour toute la respiration, en théorie."
+        show: "✓ Chimiosmose : *32* · respiration : *36* théoriques"
+      - say: "“Le FADH2 active trois pompes” : faux, deux. C'est le NADH qui en active trois."
+        show: "✓ NADH : *3* pompes · FADH₂ : *2* pompes"
+      - say: "“La fermentation alcoolique produit du lactate” : faux, deux éthanol au lieu de lactate."
+        show: "✓ Alcoolique : *2 éthanol* · lactique : lactate"
+
+  - kind: mnemo
+    title: "Mémoriser le bilan"
+    ref: "S1-4 p.24b"
+    beats:
+      - say: "Pour retrouver 36 : NADH vaut trois, FADH2 vaut deux. Dix NADH, trente ; deux FADH2, quatre ; plus six ATP directs, quarante ; moins quatre, trente-six."
+        show: "*10* NADH × 3 + *2* FADH₂ × 2 + *6* directs = 40 · – 4 = *36*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.24"
+    question: "Combien d'ATP sont théoriquement produits au départ d'une molécule de glucose ?"
+    options:
+      - "32"
+      - "36"
+      - "40"
+      - "30"
+    answer: [1]
+    beats:
+      - say: "Quiz : combien d'ATP théoriques par glucose ?"
+        countdown: 4
+      - say: "Trente-six : quarante produits, moins quatre consommés. En réalité, trente à trente-deux."
+        reveal: true
+
+  - kind: outro
+    title: "Partie II : la reproduction"
+    ref: "S2-1 p.1"
+    big: "Partie II"
+    beats:
+      - say: "Fin de la Partie I. Prochain épisode : la Partie II commence, avec la reproduction et l'embryologie."
+        show: "Partie II · *reproduction* · embryologie"
+
+recap:
+  - "Chaîne de transport d'électrons : les e– du NADH et du FADH2 sont cédés à un accepteur contenu dans des complexes protéiques insérés dans la membrane interne de la mitochondrie ; réactions d'oxydo-réduction successives jusqu'à l'O2 (→ H2O), perte d'un peu d'énergie à chaque étape ; l'énergie actionne des pompes à H+ qui concentrent les H+ dans l'espace intermembranaire ; NADH → 3 pompes (± 3 H+ utiles), FADH2 → 2 pompes (± 2 H+ utiles)."
+  - "Chimiosmose : ATP synthase = complexe enzymatique de la membrane interne ; le gradient généré par la chaîne respiratoire permet un flux de H+ qui actionne une rotation ; l'énergie de la rotation permet la phosphorylation oxydative d'ADP en ATP ; à chaque passage d'un H+, une molécule d'ATP ; capacité maximale théorique : 32 ATP par glucose (la majorité de l'ATP)."
+  - "Bilan : – 4 ATP, + 40 ATP ; 36 ATP théoriques par glucose ; pertes de rendement (30 à 32 ATP en réalité), variables selon le type cellulaire."
+  - "Fermentation : quand l'apport d'O2 se fait rare (ex. muscle lors d'un effort important : dégradation du glucose plus rapide que l'apport d'O2), voie sans O2 = fermentation lactique ; permet la régénération du NAD+ pour poursuivre la glycolyse ; fermentation alcoolique : 2 éthanol au lieu de lactate (ex. levures, bière et vin)."
+  - "Catabolisme des lipides (glycérol et acides gras, produits de digestion des triglycérides, transformés et entrant à différents niveaux) et des protéines (acides aminés convertis, notamment par élimination du groupe amine, entrant à différents niveaux)."
+  - "Soleil : énergie de la majorité des organismes ; plantes, algues et certaines bactéries forment des glucides au départ de CO2 (photosynthèse) et sont à la base de la chaîne alimentaire ; autotrophes (synthétisent l'ensemble de leurs molécules organiques) vs hétérotrophes (consomment d'autres organismes) ; la photosynthèse produit de l'O2 au départ d'H2O ; cyanobactéries en premier (± 3,8 milliards d'années) responsables de l'O2 sur Terre ; aérobies = adaptation à l'O2."
+
+traps:
+  - ["Pompes à H+ vers la matrice", "H+ concentrés dans l'espace intermembranaire", "p.23b"]
+  - ["FADH2 → 3 pompes", "NADH → 3 pompes ; FADH2 → 2 pompes", "p.23b"]
+  - ["Chimiosmose : 36 ATP", "32 ATP maximum (théorique)", "p.24h"]
+  - ["Rendement réel 36 ATP", "36 théoriques ; 30 à 32 en réalité, selon le type cellulaire", "p.24b"]
+  - ["Fermentation = voie aérobie", "Voie qui n'utilise pas d'O2 ; régénère le NAD+", "p.25h"]
+  - ["L'O2 de la photosynthèse vient du CO2", "Au départ d'H2O", "p.26b"]
+  - ["Hétérotrophes = synthétisent leurs molécules", "Autotrophes synthétisent ; hétérotrophes consomment d'autres organismes", "p.26h"]
+
+mnemonics:
+  - ["Pompes", "« NADH, trois lettres après le N… trois pompes ; FAD, deux » : NADH = 3, FADH2 = 2", "± 3 H+ et ± 2 H+"]
+  - ["36", "10 NADH × 3 + 2 FADH2 × 2 + 6 ATP directs = 40 ; – 4 = 36", "Réel : 30 à 32"]
+
+quiz:
+  - q: "Chaîne de transport et chimiosmose :"
+    props:
+      - ["Les complexes de la chaîne sont insérés dans la membrane interne de la mitochondrie.", true, "p.23b."]
+      - ["Les pompes concentrent les H+ dans la matrice.", false, "Dans l'espace intermembranaire."]
+      - ["Les e– amenés par le NADH activent 3 pompes.", true, "p.23b."]
+      - ["Selon le cours, à chaque passage d'un H+, une molécule d'ATP est synthétisée.", true, "p.24h."]
+      - ["La chimiosmose peut théoriquement produire 32 ATP par glucose.", true, "p.24h."]
+  - q: "Bilan et fermentation :"
+    props:
+      - ["36 ATP peuvent théoriquement être produits par glucose.", true, "p.24b."]
+      - ["Le rendement réel est de 30 à 32 ATP, variable selon le type cellulaire.", true, "p.24b."]
+      - ["La fermentation lactique utilise l'O2.", false, "Voie qui n'utilise pas d'O2."]
+      - ["La fermentation permet la régénération du NAD+.", true, "p.25h."]
+      - ["La fermentation alcoolique produit 2 éthanol.", true, "p.25h."]
+  - q: "Lipides, protéines, photosynthèse :"
+    props:
+      - ["Le glycérol et les acides gras peuvent entrer à différents niveaux dans la respiration.", true, "p.25b."]
+      - ["Les acides aminés sont convertis notamment par élimination du groupe amine.", true, "p.25b."]
+      - ["Les hétérotrophes synthétisent l'ensemble de leurs molécules organiques.", false, "Ce sont les autotrophes."]
+      - ["La photosynthèse produit de l'O2 au départ d'H2O.", true, "p.26b."]
+      - ["Les cyanobactéries ont été les premiers organismes photosynthétiques, il y a ± 3,8 milliards d'années.", true, "p.26b."]
+
+coverage:
+  - ["S1-4", "23b", "Chaîne de transport d'électrons, pompes à H+", 1]
+  - ["S1-4", "24h", "Chimiosmose, ATP synthase, 32 ATP", 2]
+  - ["S1-4", "24b", "Bilan : – 4 / + 40 / 36 / 30-32", 3]
+  - ["S1-4", "25h", "Fermentation lactique et alcoolique", 5]
+  - ["S1-4", "25b", "Catabolisme des lipides et des protéines", 6]
+  - ["S1-4", "26h", "Soleil, photosynthèse, autotrophes / hétérotrophes", 7]
+  - ["S1-4", "26b", "Photosynthèse et O2, cyanobactéries, aérobies", 8]

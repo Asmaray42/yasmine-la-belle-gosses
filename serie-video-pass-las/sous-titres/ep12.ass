@@ -1,0 +1,178 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une protéine fabriquée dans la
+Dialogue: 0,0:00:01.94,0:00:03.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule doit parfois sortir,
+Dialogue: 0,0:00:03.48,0:00:05.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}parfois aller dans un lysosome.
+Dialogue: 0,0:00:05.32,0:00:06.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Qui trie le courrier ?
+Dialogue: 0,0:00:06.40,0:00:07.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le Golgi, avec une face pour
+Dialogue: 0,0:00:07.95,0:00:09.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}recevoir et une face pour
+Dialogue: 0,0:00:09.33,0:00:09.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}expédier.
+Dialogue: 0,0:00:10.23,0:00:12.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : réticulum rugueux
+Dialogue: 0,0:00:12.00,0:00:13.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et lisse, Golgi, transport des
+Dialogue: 0,0:00:13.66,0:00:14.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, lysosomes.
+Dialogue: 0,0:00:15.38,0:00:17.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le système membranaire interne
+Dialogue: 0,0:00:17.22,0:00:19.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}assure une compartimentalisation
+Dialogue: 0,0:00:19.20,0:00:20.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par rapport au cytosol,
+Dialogue: 0,0:00:20.61,0:00:22.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le liquide gélatineux du
+Dialogue: 0,0:00:22.09,0:00:22.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytoplasme.
+Dialogue: 0,0:00:23.17,0:00:25.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il rassemble plusieurs organites
+Dialogue: 0,0:00:25.04,0:00:26.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}limités par une membrane :
+Dialogue: 0,0:00:26.56,0:00:28.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le réticulum endoplasmique,
+Dialogue: 0,0:00:28.14,0:00:29.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rugueux et lisse, l'appareil de
+Dialogue: 0,0:00:29.95,0:00:31.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Golgi, les lysosomes,
+Dialogue: 0,0:00:31.17,0:00:32.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les peroxysomes.
+Dialogue: 0,0:00:32.68,0:00:34.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces organites exécutent des
+Dialogue: 0,0:00:34.15,0:00:35.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réactions biochimiques
+Dialogue: 0,0:00:35.34,0:00:36.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifiques, et canalisent le
+Dialogue: 0,0:00:36.91,0:00:38.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déplacement de molécules dans la
+Dialogue: 0,0:00:38.65,0:00:39.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule.
+Dialogue: 0,0:00:39.64,0:00:41.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le RER a la forme de sacs
+Dialogue: 0,0:00:41.23,0:00:41.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aplatis.
+Dialogue: 0,0:00:41.84,0:00:43.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa membrane est rugueuse à cause
+Dialogue: 0,0:00:43.36,0:00:44.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des nombreux ribosomes.
+Dialogue: 0,0:00:44.84,0:00:46.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines synthétisées au
+Dialogue: 0,0:00:46.48,0:00:48.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}niveau du RER seront exportées
+Dialogue: 0,0:00:48.29,0:00:49.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hors de la cellule,
+Dialogue: 0,0:00:49.36,0:00:50.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}expédiées vers les lysosomes,
+Dialogue: 0,0:00:50.99,0:00:52.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou intégrées à la membrane
+Dialogue: 0,0:00:52.46,0:00:54.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasmique : c'est le trafic des
+Dialogue: 0,0:00:54.21,0:00:54.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines.
+Dialogue: 0,0:00:55.33,0:00:57.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le REL est un réseau de tubules,
+Dialogue: 0,0:00:57.50,0:00:59.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en continuité avec le RER.
+Dialogue: 0,0:00:59.42,0:01:00.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa membrane est lisse,
+Dialogue: 0,0:01:00.56,0:01:01.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faute de ribosomes.
+Dialogue: 0,0:01:01.95,0:01:03.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois rôles : la synthèse de
+Dialogue: 0,0:01:03.50,0:01:05.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides, stéroïdes comme le
+Dialogue: 0,0:01:05.00,0:01:06.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cholestérol et phospholipides ;
+Dialogue: 0,0:01:06.72,0:01:07.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le stockage du calcium,
+Dialogue: 0,0:01:07.99,0:01:09.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}impliqué dans des voies de
+Dialogue: 0,0:01:09.44,0:01:10.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}signalisation ; et la
+Dialogue: 0,0:01:10.60,0:01:12.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}détoxication, la modification de
+Dialogue: 0,0:01:12.38,0:01:13.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}substances étrangères,
+Dialogue: 0,0:01:13.60,0:01:15.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par exemple dans des cellules du foie.
+Dialogue: 0,0:01:16.11,0:01:18.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La proportion RER et REL varie
+Dialogue: 0,0:01:18.00,0:01:19.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}selon le type cellulaire :
+Dialogue: 0,0:01:19.44,0:01:21.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}beaucoup de RER dans les cellules
+Dialogue: 0,0:01:21.38,0:01:22.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui sécrètent beaucoup de
+Dialogue: 0,0:01:22.77,0:01:24.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, beaucoup de REL dans
+Dialogue: 0,0:01:24.60,0:01:26.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}celles qui produisent beaucoup de
+Dialogue: 0,0:01:26.43,0:01:26.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides.
+Dialogue: 0,0:01:27.43,0:01:28.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'appareil de Golgi :
+Dialogue: 0,0:01:28.55,0:01:30.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un ou plusieurs dizaines par
+Dialogue: 0,0:01:30.03,0:01:31.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule, formé d'un empilement de
+Dialogue: 0,0:01:31.78,0:01:32.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saccules, ou citernes.
+Dialogue: 0,0:01:33.35,0:01:34.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est un {\c&H66D1FF&}centre{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}tri{\c&HFFFFFF&} :
+Dialogue: 0,0:01:34.77,0:01:36.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il collecte, modifie et
+Dialogue: 0,0:01:36.13,0:01:37.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}redistribue les molécules
+Dialogue: 0,0:01:37.61,0:01:39.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synthétisées dans le RER,
+Dialogue: 0,0:01:39.21,0:01:41.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protéines, ou dans le REL,
+Dialogue: 0,0:01:41.10,0:01:41.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les lipides.
+Dialogue: 0,0:01:42.21,0:01:43.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La face {\c&H66D1FF&}cis{\c&HFFFFFF&} reçoit,
+Dialogue: 0,0:01:43.39,0:01:45.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par fusion de vésicules venant du
+Dialogue: 0,0:01:45.44,0:01:46.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}RER et du REL.
+Dialogue: 0,0:01:46.70,0:01:47.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La face {\c&H66D1FF&}trans{\c&HFFFFFF&} expédie,
+Dialogue: 0,0:01:47.88,0:01:49.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par bourgeonnement de vésicules
+Dialogue: 0,0:01:49.54,0:01:51.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vers différentes destinations.
+Dialogue: 0,0:01:51.55,0:01:53.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au passage, il ajoute de courtes
+Dialogue: 0,0:01:53.30,0:01:54.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaînes glucidiques,
+Dialogue: 0,0:01:54.39,0:01:55.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}glycosylation{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:55.70,0:01:57.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui donne des glycoprotéines et
+Dialogue: 0,0:01:57.40,0:01:58.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des glycolipides.
+Dialogue: 0,0:01:58.89,0:02:00.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le trajet d'une protéine de
+Dialogue: 0,0:02:00.31,0:02:00.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrétion.
+Dialogue: 0,0:02:01.23,0:02:03.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une vésicule de transport chargée
+Dialogue: 0,0:02:03.19,0:02:05.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de protéines bourgeonne à partir
+Dialogue: 0,0:02:05.08,0:02:07.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du RER, migre, et fusionne sur la
+Dialogue: 0,0:02:07.15,0:02:08.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}face cis du Golgi,
+Dialogue: 0,0:02:08.22,0:02:09.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grâce à l'interaction de
+Dialogue: 0,0:02:09.64,0:02:11.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines membranaires.
+Dialogue: 0,0:02:11.40,0:02:13.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines libérées dans le
+Dialogue: 0,0:02:13.00,0:02:14.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Golgi sont modifiées par
+Dialogue: 0,0:02:14.28,0:02:15.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycosylation, puis empaquetées
+Dialogue: 0,0:02:15.94,0:02:17.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans des vésicules qui
+Dialogue: 0,0:02:17.12,0:02:18.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeonnent sur la face trans.
+Dialogue: 0,0:02:19.17,0:02:20.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certaines vésicules sortantes,
+Dialogue: 0,0:02:20.79,0:02:21.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dites de sécrétion,
+Dialogue: 0,0:02:21.81,0:02:23.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fusionnent avec la membrane
+Dialogue: 0,0:02:23.26,0:02:24.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasmique et relarguent leur
+Dialogue: 0,0:02:24.77,0:02:25.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contenu dans le milieu
+Dialogue: 0,0:02:25.95,0:02:26.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extra-cellulaire.
+Dialogue: 0,0:02:27.00,0:02:28.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'autres vont vers d'autres
+Dialogue: 0,0:02:28.17,0:02:28.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compartiments.
+Dialogue: 0,0:02:29.33,0:02:31.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les lysosomes sont des vésicules
+Dialogue: 0,0:02:31.04,0:02:31.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}émanant du Golgi.
+Dialogue: 0,0:02:32.09,0:02:33.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils contiennent des enzymes
+Dialogue: 0,0:02:33.64,0:02:35.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}digestives, dites lysosomiales,
+Dialogue: 0,0:02:35.42,0:02:36.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui décomposent protéines,
+Dialogue: 0,0:02:36.91,0:02:38.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides, glucides et acides
+Dialogue: 0,0:02:38.45,0:02:39.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléiques.
+Dialogue: 0,0:02:39.48,0:02:40.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leur intérieur est acide,
+Dialogue: 0,0:02:40.86,0:02:43.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pH {\c&H66D1FF&}4,5{\c&HFFFFFF&} , ce qui est nécessaire à
+Dialogue: 0,0:02:43.82,0:02:45.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'activité des enzymes
+Dialogue: 0,0:02:45.03,0:02:46.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lysosomiales : elles ne sont pas
+Dialogue: 0,0:02:46.79,0:02:48.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}actives en dehors du lysosome.
+Dialogue: 0,0:02:48.84,0:02:50.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois rôles : recycler les
+Dialogue: 0,0:02:50.36,0:02:51.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organites âgés, digérer des
+Dialogue: 0,0:02:51.94,0:02:53.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}composés ingérés depuis le milieu
+Dialogue: 0,0:02:53.88,0:02:55.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extra-cellulaire, et détruire les
+Dialogue: 0,0:02:55.81,0:02:57.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bactéries captées par
+Dialogue: 0,0:02:57.04,0:02:57.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phagocytose.
+Dialogue: 0,0:02:58.15,0:02:59.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils ont été découverts à l'UCL
+Dialogue: 0,0:02:59.89,0:03:01.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par Christian de Duve,
+Dialogue: 0,0:03:01.10,0:03:04.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prix Nobel de médecine en 1974.
+Dialogue: 0,0:03:04.93,0:03:06.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une maladie lysosomiale :
+Dialogue: 0,0:03:06.32,0:03:07.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la maladie de Tay-Sachs.
+Dialogue: 0,0:03:07.79,0:03:08.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Maladie infantile,
+Dialogue: 0,0:03:08.75,0:03:11.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un cas sur 320 000 naissances,
+Dialogue: 0,0:03:11.17,0:03:12.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}due à un défaut de fonction d'une
+Dialogue: 0,0:03:12.93,0:03:13.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzyme lysosomiale.
+Dialogue: 0,0:03:14.35,0:03:15.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un glycolipide s'accumule dans
+Dialogue: 0,0:03:15.96,0:03:17.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules nerveuses,
+Dialogue: 0,0:03:17.20,0:03:18.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'où une détérioration
+Dialogue: 0,0:03:18.38,0:03:20.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progressive du tissu nerveux dans
+Dialogue: 0,0:03:20.16,0:03:20.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cerveau.
+Dialogue: 0,0:03:21.15,0:03:22.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les symptômes : aucun pendant les
+Dialogue: 0,0:03:22.93,0:03:23.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}premiers mois, puis
+Dialogue: 0,0:03:23.96,0:03:25.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}affaiblissement musculaire
+Dialogue: 0,0:03:25.37,0:03:27.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progressif, perte de la capacité
+Dialogue: 0,0:03:27.10,0:03:28.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de déglutition, dégradation de la
+Dialogue: 0,0:03:28.88,0:03:30.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vue, convulsions et crises
+Dialogue: 0,0:03:30.29,0:03:32.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'épilepsie, et décès de l'enfant
+Dialogue: 0,0:03:32.08,0:03:33.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre 2 et 5 ans.
+Dialogue: 0,0:03:33.46,0:03:34.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pas de traitement curatif.
+Dialogue: 0,0:03:35.42,0:03:36.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les pièges de ce chapitre.
+Dialogue: 0,0:03:37.26,0:03:38.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La face trans reçoit les
+Dialogue: 0,0:03:38.39,0:03:39.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vésicules du RE” : faux.
+Dialogue: 0,0:03:39.67,0:03:41.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cis reçoit, trans expédie.
+Dialogue: 0,0:03:41.43,0:03:42.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le RER synthétise le
+Dialogue: 0,0:03:42.79,0:03:43.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cholestérol” : faux,
+Dialogue: 0,0:03:43.96,0:03:44.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le REL.
+Dialogue: 0,0:03:45.03,0:03:46.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le RER porte des ribosomes et
+Dialogue: 0,0:03:46.74,0:03:47.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produit des protéines.
+Dialogue: 0,0:03:48.36,0:03:49.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les enzymes lysosomiales sont
+Dialogue: 0,0:03:49.98,0:03:51.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}actives dans le cytosol” :
+Dialogue: 0,0:03:51.37,0:03:52.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, uniquement dans le
+Dialogue: 0,0:03:52.71,0:03:54.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lysosome, à pH 4,5.
+Dialogue: 0,0:03:55.55,0:03:56.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:04:01.33,0:04:02.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A.
+Dialogue: 0,0:04:02.27,0:04:04.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le lysosome est à pH 4,5,
+Dialogue: 0,0:04:04.99,0:04:06.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tay-Sachs accumule un
+Dialogue: 0,0:04:06.21,0:04:08.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycolipide, et la glycosylation
+Dialogue: 0,0:04:08.07,0:04:09.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se fait dans le Golgi.
+Dialogue: 0,0:04:09.90,0:04:10.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:10.91,0:04:11.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les mitochondries,
+Dialogue: 0,0:04:11.91,0:04:13.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur ADN propre, l'endosymbiose,
+Dialogue: 0,0:04:13.81,0:04:15.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les trois fibres du
+Dialogue: 0,0:04:15.04,0:04:16.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosquelette avec leurs
+Dialogue: 0,0:04:16.38,0:04:16.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diamètres.

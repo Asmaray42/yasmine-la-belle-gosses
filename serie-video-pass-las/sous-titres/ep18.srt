@@ -1,0 +1,495 @@
+1
+00:00:00,300 --> 00:00:01,749
+Chaque pompe sodium potassium
+
+2
+00:00:01,749 --> 00:00:03,298
+peut transporter au moins trois
+
+3
+00:00:03,298 --> 00:00:04,598
+cents Na plus par seconde,
+
+4
+00:00:04,598 --> 00:00:05,648
+contre leur gradient.
+
+5
+00:00:05,788 --> 00:00:07,271
+À chaque cycle : trois Na plus
+
+6
+00:00:07,271 --> 00:00:08,705
+sortent, deux K plus entrent.
+
+7
+00:00:09,105 --> 00:00:10,758
+Au programme : le transport
+
+8
+00:00:10,758 --> 00:00:12,594
+actif, la pompe en six étapes,
+
+9
+00:00:12,594 --> 00:00:13,880
+et le co-transporteur
+
+10
+00:00:13,880 --> 00:00:14,798
+sodium-glucose.
+
+11
+00:00:15,358 --> 00:00:16,996
+Le transport actif fait passer
+
+12
+00:00:16,996 --> 00:00:18,634
+des substances à l'encontre du
+
+13
+00:00:18,634 --> 00:00:20,053
+gradient de concentration,
+
+14
+00:00:20,053 --> 00:00:21,309
+en entrée ou en sortie.
+
+15
+00:00:21,449 --> 00:00:22,768
+Il permet de créer des
+
+16
+00:00:22,768 --> 00:00:24,446
+différences de concentration
+
+17
+00:00:24,446 --> 00:00:26,364
+entre le cytoplasme et le milieu
+
+18
+00:00:26,364 --> 00:00:27,323
+extracellulaire.
+
+19
+00:00:27,723 --> 00:00:28,923
+Molécules concernées :
+
+20
+00:00:28,923 --> 00:00:30,451
+ions, sucres, acides aminés,
+
+21
+00:00:30,451 --> 00:00:31,106
+nucléotides.
+
+22
+00:00:31,246 --> 00:00:32,462
+Il est assuré par des
+
+23
+00:00:32,462 --> 00:00:34,026
+transporteurs protéiques de
+
+24
+00:00:34,026 --> 00:00:35,243
+spécificité variable.
+
+25
+00:00:35,643 --> 00:00:37,272
+Uniport : une seule substance.
+
+26
+00:00:37,412 --> 00:00:39,041
+Symport : deux substances dans la
+
+27
+00:00:39,041 --> 00:00:39,781
+même direction.
+
+28
+00:00:39,921 --> 00:00:41,391
+Antiport : deux substances en
+
+29
+00:00:41,391 --> 00:00:42,405
+directions opposées.
+
+30
+00:00:42,545 --> 00:00:44,120
+Ces transporteurs requièrent de
+
+31
+00:00:44,120 --> 00:00:46,050
+l'énergie, souvent sous forme d'ATP.
+
+32
+00:00:46,610 --> 00:00:47,567
+Uni, comme unique :
+
+33
+00:00:47,567 --> 00:00:48,271
+une substance.
+
+34
+00:00:48,411 --> 00:00:49,613
+Sym, comme sympathique,
+
+35
+00:00:49,613 --> 00:00:51,547
+on voyage ensemble dans le même sens.
+
+36
+00:00:51,687 --> 00:00:53,050
+Anti, comme antagoniste :
+
+37
+00:00:53,050 --> 00:00:54,521
+chacun dans un sens opposé.
+
+38
+00:00:55,081 --> 00:00:56,633
+Dans la plupart des cellules,
+
+39
+00:00:56,633 --> 00:00:58,293
+il y a moins de Na plus dans le
+
+40
+00:00:58,293 --> 00:00:59,631
+cytosol qu'à l'extérieur,
+
+41
+00:00:59,631 --> 00:01:01,398
+et plus de K plus dans le cytosol
+
+42
+00:01:01,398 --> 00:01:02,308
+qu'à l'extérieur.
+
+43
+00:01:02,448 --> 00:01:03,969
+La pompe sodium potassium,
+
+44
+00:01:03,969 --> 00:01:05,549
+un antiport qui consomme de
+
+45
+00:01:05,549 --> 00:01:07,538
+l'ATP, fait sortir le Na plus et
+
+46
+00:01:07,538 --> 00:01:08,533
+entrer le K plus.
+
+47
+00:01:08,933 --> 00:01:10,564
+Un : trois Na plus se lient à la
+
+48
+00:01:10,564 --> 00:01:11,584
+pompe, côté cytosol.
+
+49
+00:01:11,984 --> 00:01:13,010
+Deux : changement de
+
+50
+00:01:13,010 --> 00:01:14,806
+conformation, et liaison d'un ATP
+
+51
+00:01:14,806 --> 00:01:16,498
+qui cède un phosphate à la pompe.
+
+52
+00:01:16,898 --> 00:01:18,429
+Trois : cette phosphorylation
+
+53
+00:01:18,429 --> 00:01:19,960
+induit un autre changement de
+
+54
+00:01:19,960 --> 00:01:21,701
+conformation, et les Na plus sont
+
+55
+00:01:21,701 --> 00:01:22,863
+libérés à l'extérieur.
+
+56
+00:01:23,263 --> 00:01:25,064
+Quatre : dans cette conformation,
+
+57
+00:01:25,064 --> 00:01:26,647
+la pompe a une forte affinité
+
+58
+00:01:26,647 --> 00:01:28,394
+pour le K plus, et en fixe deux,
+
+59
+00:01:28,394 --> 00:01:29,213
+côté extérieur.
+
+60
+00:01:29,613 --> 00:01:31,085
+Cinq : nouveau changement de
+
+61
+00:01:31,085 --> 00:01:32,399
+conformation, et perte du
+
+62
+00:01:32,399 --> 00:01:32,925
+phosphate.
+
+63
+00:01:33,325 --> 00:01:34,970
+Six : retour à la conformation
+
+64
+00:01:34,970 --> 00:01:36,669
+initiale, perte d'affinité pour
+
+65
+00:01:36,669 --> 00:01:38,040
+le K plus, libéré dans la
+
+66
+00:01:38,040 --> 00:01:39,739
+cellule, et de nouveaux Na plus
+
+67
+00:01:39,739 --> 00:01:40,562
+prennent place.
+
+68
+00:01:40,702 --> 00:01:42,200
+Chaque pompe transporterait au
+
+69
+00:01:42,200 --> 00:01:43,649
+moins trois cents Na plus par
+
+70
+00:01:43,649 --> 00:01:44,048
+seconde.
+
+71
+00:01:44,608 --> 00:01:45,731
+Le co-transporteur
+
+72
+00:01:45,731 --> 00:01:47,228
+sodium-glucose, SGLT,
+
+73
+00:01:47,228 --> 00:01:49,100
+se trouve dans les cellules de
+
+74
+00:01:49,100 --> 00:01:50,597
+l'épithélium intestinal.
+
+75
+00:01:50,737 --> 00:01:51,735
+C'est un symport .
+
+76
+00:01:52,135 --> 00:01:53,824
+Le Na plus entre par transport
+
+77
+00:01:53,824 --> 00:01:55,175
+passif : ce flux fournit
+
+78
+00:01:55,175 --> 00:01:57,033
+l'énergie pour le transport actif
+
+79
+00:01:57,033 --> 00:01:57,652
+du glucose.
+
+80
+00:01:57,792 --> 00:01:59,387
+Il ne requiert donc pas d'ATP.
+
+81
+00:01:59,787 --> 00:02:01,488
+Quatre étapes : deux Na plus se
+
+82
+00:02:01,488 --> 00:02:02,915
+lient au transporteur côté
+
+83
+00:02:02,915 --> 00:02:04,671
+extracellulaire, attirés par des
+
+84
+00:02:04,671 --> 00:02:06,482
+charges négatives de la protéine.
+
+85
+00:02:06,622 --> 00:02:08,131
+Changement de conformation et
+
+86
+00:02:08,131 --> 00:02:09,224
+liaison d'un glucose.
+
+87
+00:02:09,364 --> 00:02:11,092
+Le flux d'ions permet le passage
+
+88
+00:02:11,092 --> 00:02:12,549
+du glucose, avec un nouveau
+
+89
+00:02:12,549 --> 00:02:14,007
+changement de conformation.
+
+90
+00:02:14,147 --> 00:02:15,884
+Enfin, le glucose et les Na plus
+
+91
+00:02:15,884 --> 00:02:17,459
+sont libérés dans le cytosol.
+
+92
+00:02:18,019 --> 00:02:19,714
+On trouve aussi des canaux et des
+
+93
+00:02:19,714 --> 00:02:21,410
+transporteurs, passifs ou actifs,
+
+94
+00:02:21,410 --> 00:02:23,053
+dans la membrane des organites :
+
+95
+00:02:23,053 --> 00:02:24,749
+ils contrôlent la répartition des
+
+96
+00:02:24,749 --> 00:02:26,136
+solutés dans les différents
+
+97
+00:02:26,136 --> 00:02:26,855
+compartiments.
+
+98
+00:02:27,255 --> 00:02:28,746
+Deux exemples : les canaux
+
+99
+00:02:28,746 --> 00:02:30,580
+calcium de la membrane du REL,
+
+100
+00:02:30,580 --> 00:02:32,358
+passifs ; et la pompe à protons
+
+101
+00:02:32,358 --> 00:02:34,479
+de la membrane des lysosomes, active.
+
+102
+00:02:35,039 --> 00:02:35,876
+Trois pièges.
+
+103
+00:02:36,276 --> 00:02:38,015
+“La pompe sodium potassium est un
+
+104
+00:02:38,015 --> 00:02:39,319
+symport” : faux, c'est un
+
+105
+00:02:39,319 --> 00:02:39,808
+antiport.
+
+106
+00:02:40,208 --> 00:02:41,642
+“La pompe fait entrer trois Na
+
+107
+00:02:41,642 --> 00:02:43,077
+plus” : faux, elle fait sortir
+
+108
+00:02:43,077 --> 00:02:44,857
+trois Na plus et entrer deux K plus.
+
+109
+00:02:45,257 --> 00:02:46,981
+“SGLT consomme directement de
+
+110
+00:02:46,981 --> 00:02:48,594
+l'ATP” : faux, c'est le flux
+
+111
+00:02:48,594 --> 00:02:50,207
+passif de Na plus qui fournit
+
+112
+00:02:50,207 --> 00:02:50,764
+l'énergie.
+
+113
+00:02:51,324 --> 00:02:52,821
+Quiz : combien d'ions K plus la
+
+114
+00:02:52,821 --> 00:02:54,366
+pompe fixe-t-elle côté extérieur
+
+115
+00:02:54,366 --> 00:02:55,139
+à chaque cycle ?
+
+116
+00:02:59,539 --> 00:02:59,990
+Deux.
+
+117
+00:03:00,130 --> 00:03:01,508
+Trois, ce sont les Na plus ;
+
+118
+00:03:01,508 --> 00:03:03,034
+et trois cents, le nombre de Na
+
+119
+00:03:03,034 --> 00:03:03,871
+plus par seconde.
+
+120
+00:03:04,431 --> 00:03:05,539
+Prochain épisode :
+
+121
+00:03:05,539 --> 00:03:06,831
+le transport en vrac,
+
+122
+00:03:06,831 --> 00:03:08,308
+endocytose et exocytose,
+
+123
+00:03:08,308 --> 00:03:09,908
+et l'exemple complet de la
+
+124
+00:03:09,908 --> 00:03:11,139
+cellule intestinale.

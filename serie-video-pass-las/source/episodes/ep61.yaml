@@ -1,0 +1,297 @@
+title: "La FIVETE de A à Z"
+subtitle: "Indications · stimulation · ponction · Percoll · ICSI · 2 pronuclei · transfert · taux de succès"
+source: "S2-3 p.31 à 42"
+chapter: "Partie II — VIII. Fécondation in vitro"
+objectives:
+  - "Associer chaque traitement de l'infertilité à son indication."
+  - "Décrire la stimulation ovarienne et la ponction d'ovocytes."
+  - "Décrire la préparation des spermatozoïdes, l'insémination et l'ICSI, et l'évaluation du lendemain."
+  - "Décrire la sélection et le transfert des embryons, et lire le tableau des taux de succès."
+
+scenes:
+  - kind: hook
+    title: "Dix ovocytes, un ou deux embryons"
+    ref: "S2-3 p.35"
+    big: "~10"
+    beats:
+      - say: "Une ponction récolte en moyenne dix ovocytes. À la fin, on en transfère un ou deux. Voici tout ce qui se passe entre les deux."
+      - say: "Dernier épisode de la série : la fécondation in vitro et le transfert d'embryon."
+        show: "*FIVETE* : stimulation · ponction · fécondation · transfert"
+
+  - kind: figure
+    title: "Le chapitre VIII"
+    ref: "S2-3 p.31"
+    fig: "S2-3:31"
+    beats:
+      - say: "Chapitre huit : la fécondation in vitro. Cinq points : indications et principes, stimulation et ponction, fécondation, préparation des spermatozoïdes, sélection et transfert."
+        show: "1 indications · 2 stimulation/ponction · 3 fécondation · 4 spermatozoïdes · 5 transfert"
+
+  - kind: figure
+    title: "Les traitements de l'infertilité"
+    ref: "S2-3 p.32"
+    fig: "S2-3:32"
+    trap: "Chaque traitement a SES indications ; la FIVETE pour la stérilité inexpliquée, non résolue."
+    beats:
+      - say: "La *chirurgie* : en cas d'obstacle au niveau des trompes utérines, ou d'adhérences des trompes."
+        mark: "Chirurgie"
+        show: "*Chirurgie* : obstacle tubaire · adhérences"
+      - say: "Le *traitement hormonal* : pour les problèmes d'ovulation."
+        mark: "Traitement hormonal"
+        show: "*Traitement hormonal* : problèmes d'*ovulation*"
+      - say: "L'*insémination artificielle* : pour les troubles des rapports sexuels, ou un obstacle au niveau des trompes."
+        mark: "Insémination artificielle"
+        show: "*Insémination artificielle* : troubles des rapports · obstacle tubaire"
+      - say: "Et la *fécondation in vitro avec transfert d'embryon* : pour une stérilité *inexpliquée, non résolue*."
+        mark: "Stérilité inexpliquée"
+        show: "*FIVETE* : stérilité *inexpliquée, non résolue*"
+
+  - kind: figure
+    title: "Le schéma général"
+    ref: "S2-3 p.33"
+    fig: "S2-3:33"
+    beats:
+      - say: "Le schéma général de la FIVETE : stimulation ovarienne, ponction des ovocytes, préparation des spermatozoïdes, fécondation au laboratoire, culture, puis transfert dans l'utérus."
+        show: "Stimulation → ponction → fécondation → culture → *transfert*"
+
+  - kind: figure
+    title: "1. La stimulation ovarienne"
+    ref: "S2-3 p.34"
+    fig: "S2-3:34"
+    trap: "hCG pour la maturation FINALE, par similitude avec la LH."
+    beats:
+      - say: "Objectif : obtenir *plusieurs ovocytes matures*. Plusieurs étapes."
+        mark: "plusieurs ovocytes matures"
+        show: "Objectif : *plusieurs ovocytes matures*"
+      - say: "Le *blocage*, pour éviter l'ovulation spontanée : des *inhibiteurs de G n R H*."
+        mark: "inhibiteurs GnRH"
+        show: "*Blocage* : inhibiteurs de *GnRH* (pas d'ovulation spontanée)"
+      - say: "La *stimulation*, pour la maturation des ovocytes : *F S H*, ou F S H plus L H."
+        mark: "FSH, FSH + LH"
+        show: "*Stimulation* : *FSH* ou FSH + LH"
+      - say: "Puis l'*ovulation*, la maturation finale : la *h C G*, en raison de sa *similitude avec la L H*. Le tout est suivi par *échographie*."
+        mark: ["hCG (similitude avec LH)", "échographie"]
+        show: "*Ovulation* : *hCG* (*similitude avec LH*) · suivi par *échographie*"
+
+  - kind: figure
+    title: "2. La ponction d'ovocytes"
+    ref: "S2-3 p.35"
+    fig: "S2-3:35"
+    trap: "Voie transvaginale, sous anesthésie ; culture à 37 °C ; en moyenne 10 ovocytes."
+    beats:
+      - say: "Par voie *transvaginale*, sous *anesthésie*, avec une assistance échographique pour diriger l'aiguille."
+        mark: ["transvaginale", "anesthésie"]
+        show: "Voie *transvaginale* · *anesthésie* · guidage *échographique*"
+      - say: "Aspiration et récolte en tube ; vérification microscopique par le biologiste, et mise en culture à *trente-sept degrés*."
+        mark: "37°C"
+        show: "Aspiration → vérification au microscope → culture à *37 °C*"
+      - say: "En moyenne, *dix ovocytes par ponction*."
+        mark: "10 ovocytes/ponction"
+        show: "# En moyenne : *10 ovocytes* / ponction"
+
+  - kind: figure
+    title: "3. La préparation des spermatozoïdes"
+    ref: "S2-3 p.36"
+    fig: "S2-3:36"
+    trap: "Percoll 45 % et 90 % ; capacitation = lavage, albumine, Ca2+."
+    beats:
+      - say: "Peu avant la ponction, on sélectionne les meilleurs spermatozoïdes, par migration ascendante et par gradient de densité."
+        mark: "gradient de densité"
+        show: "Sélection : migration ascendante · *gradient de densité*"
+      - say: "Après *centrifugation* sur *Percoll* : en haut, les globules blancs et les débris cellulaires ; à l'interphase, entre le Percoll à *quarante-cinq pour cent* et celui à *quatre-vingt-dix pour cent*, les spermatozoïdes anormaux ; au fond, les spermatozoïdes normaux."
+        mark: ["Percoll 45%", "Percoll 90%", "Spermatozoïdes normaux"]
+        show: "*Percoll 45 %* / *90 %* : débris en haut · anormaux à l'*interphase* · *normaux* au fond"
+      - say: "Puis la *capacitation* : lavage, albumine, calcium."
+        mark: "Capacitation"
+        show: "*Capacitation* : lavage · albumine · *Ca²⁺*"
+
+  - kind: figure
+    title: "4. La fécondation des ovocytes"
+    ref: "S2-3 p.37"
+    fig: "S2-3:37"
+    trap: "ICSI si sperme de mauvaise qualité (ZP infranchissable) ; sélection des ovocytes matures (1er globule polaire)."
+    beats:
+      - say: "Pour tous les ovocytes récoltés, deux techniques."
+        show: "2 techniques"
+      - say: "L'*insémination normale* : on ajoute les spermatozoïdes préparés, et on incube pendant la nuit."
+        mark: "Insémination normale"
+        show: "*Insémination normale* : ajout + incubation une nuit"
+      - say: "L'*injection intra-cytoplasmique*, l'*ICSI* : si le sperme est de mauvaise qualité, la zone pellucide étant infranchissable."
+        mark: ["(ICSI)", "infranchissable"]
+        show: "*ICSI* : sperme de mauvaise qualité (*ZP infranchissable*)"
+      - say: "Décoronisation des ovocytes, avec de la hyaluronidase et des lavages ; sélection des ovocytes matures, reconnaissables au *premier globule polaire* ; immobilisation du spermatozoïde ; puis micro-injection dans le cytoplasme, au micro-manipulateur."
+        mark: ["Décoronisation", "1er g.p."]
+        show: "*Décoronisation* (hyaluronidase) · ovocytes matures (*1er globule polaire*) · micro-injection"
+
+  - kind: figure
+    title: "L'évaluation du lendemain"
+    ref: "S2-3 p.38"
+    fig: "S2-3:38"
+    trap: "2 pronuclei et 2-3 globules polaires."
+    beats:
+      - say: "Le lendemain de la fertilisation, on évalue : il doit y avoir *deux pronuclei*, et *deux à trois globules polaires*."
+        mark: ["2 pronuclei", "2-3 globules polaires"]
+        show: "# *2 pronuclei* · *2-3 globules polaires*"
+
+  - kind: figure
+    title: "5. Les deux stades de transfert"
+    ref: "S2-3 p.39"
+    fig: "S2-3:39"
+    trap: "4-8 cellules (J2-3) : plus d'embryons disponibles ; blastocyste (J5-6) : un peu plus efficace."
+    beats:
+      - say: "Deux stades possibles. Le *stade de segmentation, quatre à huit cellules*, aux jours deux et trois : il y a alors plus d'embryons disponibles."
+        mark: "4-8 cellules (jours 2-3)"
+        show: "*4-8 cellules* (*J2-3*) : plus d'embryons disponibles"
+      - say: "Ou le *stade blastocyste*, aux jours cinq et six : un peu plus efficace."
+        mark: "Stade blastocyste (jours 5-6)"
+        show: "*Blastocyste* (*J5-6*) : un peu plus *efficace*"
+      - say: "Beaucoup d'embryons n'évoluent pas au-delà du stade quatre à huit cellules : c'est une *étape charnière*, peut-être en lien avec la transition maternelle-embryonnaire."
+        mark: ["étape charnière", "transition maternelle-embryonnaire"]
+        show: "*Étape charnière* : transition *maternelle-embryonnaire* ?"
+
+  - kind: figure
+    title: "La sélection des embryons"
+    ref: "S2-3 p.40"
+    fig: "S2-3:40"
+    trap: "Les embryons non transférés sont CRYOPRÉSERVÉS."
+    beats:
+      - say: "On sélectionne les meilleurs embryons ; les autres sont *cryopréservés* en vue d'un transfert ultérieur."
+        mark: "cryopréservés"
+        show: "Meilleurs embryons · les autres *cryopréservés*"
+      - say: "Les critères défavorables : blastomères irréguliers, blastomères multinucléés, fragmentation importante."
+        mark: ["Blastomères irréguliers", "Fragmentation"]
+        show: "Défauts : blastomères *irréguliers*, *multinucléés*, *fragmentation*"
+      - say: "Et, au stade blastocyste : trophoblaste réduit, masse cellulaire interne réduite, blastocèle peu volumineux. En face : les embryons optimaux à J2, J3 et le blastocyste à J6."
+        mark: ["Trophoblaste réduit", "ICM réduite"]
+        show: "Blastocyste : *trophoblaste réduit* · *ICM réduite* · blastocèle peu volumineux"
+
+  - kind: figure
+    title: "Le transfert et les taux de succès"
+    ref: "S2-3 p.41"
+    fig: "S2-3:41"
+    trap: "1 ou 2 embryons ; taux par cycle / par ponction / par transfert (données européennes 2002)."
+    beats:
+      - say: "On transfère *un ou deux embryons* au fond de la cavité utérine, à l'aide d'un *cathéter*, sous contrôle échographique. Le cathéter est analysé au microscope après le transfert."
+        mark: ["1 ou 2 embryons", "cathéter"]
+        show: "*1 ou 2 embryons* · *cathéter* · contrôle échographique"
+      - say: "Les taux de succès, données européennes de *deux mille deux*. Insémination naturelle : cent vingt-deux mille six cent trente-quatre cycles ; I C S I : cent trente-cinq mille quarante-huit."
+        mark: ["Données européennes 2002", "Nombre de cycles"]
+        show: "Données européennes *2002* · insémination vs *ICSI*"
+      - say: "Taux de grossesse par *cycle* : vingt-trois virgule six pour cent, contre vingt-six virgule deux. Par *ponction* : vingt-six pour cent, contre vingt-sept virgule deux. Par *transfert* : vingt-neuf virgule cinq pour cent, contre vingt-neuf virgule quatre."
+        mark: ["Taux de grossesses par cycle", "Taux de grossesse par transfert"]
+        show: "Par *cycle* 23,6 / 26,2 % · par *ponction* 26,0 / 27,2 % · par *transfert* 29,5 / 29,4 %"
+
+  - kind: figure
+    title: "Diagnostic prénatal : bébés-médicament"
+    ref: "S2-3 p.42"
+    fig: "S2-3:42"
+    blur: [[0.14, 0.15, 0.87, 1.0]]
+    beats:
+      - say: "Dernière diapositive du cours : le diagnostic prénatal et les *bébés-médicament*. Un embryon est sélectionné pour être compatible avec un aîné malade, afin de permettre une greffe à partir du sang de cordon."
+        show: "*Bébé-médicament* : embryon sélectionné *compatible* avec un aîné malade"
+
+  - kind: trap
+    title: "Les pièges de la FIVETE"
+    ref: "S2-3 p.34-41"
+    beats:
+      - say: "Trois pièges."
+      - say: "“La h C G est utilisée pour bloquer l'ovulation” : faux. Le blocage, ce sont les inhibiteurs de G n R H ; la h C G déclenche la maturation finale, par similitude avec la L H."
+        show: "✓ Blocage = *inhibiteurs de GnRH* · hCG = maturation *finale*"
+      - say: "“On vérifie la présence de deux globules polaires et trois pronuclei” : faux. Deux pronuclei, deux à trois globules polaires."
+        show: "✓ *2 pronuclei* · *2-3 globules polaires*"
+      - say: "“Le transfert au stade blastocyste permet plus d'embryons” : faux. C'est le stade quatre à huit cellules qui offre plus d'embryons disponibles ; le blastocyste est un peu plus efficace."
+        show: "✓ 4-8 cellules = *plus d'embryons* · blastocyste = *plus efficace*"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-3 p.34-38"
+    beats:
+      - say: "La stimulation en trois temps : on bloque, on stimule, on déclenche. G n R H, F S H, h C G."
+        show: "Bloquer *GnRH* → stimuler *FSH* → déclencher *hCG*"
+      - say: "Et le contrôle du lendemain : deux et deux-trois. Deux pronuclei, deux à trois globules polaires."
+        show: "*2* pronuclei · *2-3* globules polaires"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-3 p.34"
+    question: "Pourquoi utilise-t-on l'hCG pour la maturation finale des ovocytes ?"
+    options:
+      - "Parce qu'elle bloque la GnRH"
+      - "Pour sa similitude avec la LH"
+      - "Pour sa similitude avec la FSH"
+      - "Parce qu'elle est produite par l'ovaire"
+    answer: [1]
+    beats:
+      - say: "Quiz : pourquoi la h C G pour la maturation finale ?"
+        countdown: 4
+      - say: "Pour sa similitude avec la L H."
+        reveal: true
+
+  - kind: outro
+    title: "Fin de la série"
+    ref: "S2-3 p.42"
+    big: "61 / 61"
+    beats:
+      - say: "C'est la fin des soixante et un épisodes. Tu as vu l'intégralité du cours, de la molécule d'eau au transfert d'embryon."
+        show: "*61 épisodes* · Partie I + Partie II"
+      - say: "Reprends les récaps, refais les quiz, et révise les pièges. Bon travail, et bonne session."
+        show: "Récaps · quiz · *pièges* · bonne session !"
+
+recap:
+  - "Chapitre VIII : 1 indications et principes, 2 stimulation et ponction, 3 fécondation, 4 préparation des spermatozoïdes, 5 sélection et transfert. Indications : chirurgie (obstacle au niveau des trompes utérines, adhérences) ; traitement hormonal (problèmes d'ovulation) ; insémination artificielle (troubles des rapports sexuels, obstacle tubaire) ; FIVETE (stérilité inexpliquée, non résolue)."
+  - "Stimulation ovarienne : obtenir plusieurs ovocytes matures ; blocage de l'ovulation spontanée (inhibiteurs GnRH) ; stimulation / maturation des ovocytes (FSH, FSH + LH) ; ovulation / maturation finale (hCG, similitude avec la LH) ; suivi par échographie. Ponction : voie transvaginale, sous anesthésie, assistance échographique ; aspiration et récolte en tube ; vérification microscopique ; culture à 37 °C ; en moyenne 10 ovocytes par ponction."
+  - "Préparation des spermatozoïdes : peu avant la ponction ; sélection des meilleurs (migration ascendante, gradient de densité) ; centrifugation sur Percoll 45 % et 90 % (globules blancs et débris en haut, spermatozoïdes anormaux à l'interphase, normaux au fond) ; capacitation (lavage, albumine, Ca2+)."
+  - "Fécondation : insémination normale (ajout des spermatozoïdes préparés, incubation pendant la nuit) ou ICSI (sperme de mauvaise qualité, ZP infranchissable ; décoronisation à la hyaluronidase et lavages ; sélection des ovocytes matures au 1er globule polaire ; immobilisation du spermatozoïde ; micro-injection au micro-manipulateur). Le lendemain : évaluation — 2 pronuclei, 2-3 globules polaires."
+  - "Transfert : stade de segmentation 4-8 cellules (J2-3 ; plus d'embryons disponibles) ou stade blastocyste (J5-6 ; un peu plus efficace) ; beaucoup d'embryons n'évoluent pas au-delà du stade 4-8 cellules (étape charnière, en lien avec la transition maternelle-embryonnaire ?). Sélection des meilleurs embryons (les autres cryopréservés) ; défauts : blastomères irréguliers ou multinucléés, fragmentation importante, trophoblaste réduit, ICM réduite, blastocèle peu volumineux. Transfert de 1 ou 2 embryons au fond de la cavité utérine, par cathéter sous contrôle échographique ; analyse microscopique du cathéter après transfert."
+  - "Taux de succès (données européennes 2002) — insémination naturelle vs ICSI : cycles 122 634 / 135 048 ; transferts 98 239 / 120 236 ; grossesses 28 948 / 35 329 ; taux par cycle 23,6 % / 26,2 % ; par ponction 26,0 % / 27,2 % ; par transfert 29,5 % / 29,4 %. Dernière diapositive : diagnostic prénatal et bébés-médicament."
+
+traps:
+  - ["FIVETE pour les problèmes d'ovulation", "Traitement hormonal ; FIVETE = stérilité inexpliquée, non résolue", "p.32"]
+  - ["hCG pour bloquer l'ovulation spontanée", "Inhibiteurs de GnRH pour le blocage ; hCG = maturation finale (similitude avec LH)", "p.34"]
+  - ["En moyenne 2 ovocytes par ponction", "En moyenne 10", "p.35"]
+  - ["Percoll 20 % et 60 %", "Percoll 45 % et 90 %", "p.36"]
+  - ["ICSI pour tous les couples", "Si sperme de mauvaise qualité (ZP infranchissable)", "p.37"]
+  - ["3 pronuclei attendus", "2 pronuclei, 2-3 globules polaires", "p.38"]
+  - ["Blastocyste = plus d'embryons disponibles", "4-8 cellules = plus d'embryons ; blastocyste = un peu plus efficace", "p.39"]
+  - ["Transfert de 4 embryons", "1 ou 2 embryons", "p.41"]
+
+mnemonics:
+  - ["Stimulation", "Bloquer (GnRH) → stimuler (FSH) → déclencher (hCG)", "Suivi échographique"]
+  - ["Contrôle J1", "2 et 2-3 : 2 pronuclei, 2-3 globules polaires", "Le lendemain de la fertilisation"]
+  - ["Percoll", "45 en haut, 90 en bas : les bons descendent le plus bas", "Anormaux à l'interphase"]
+
+quiz:
+  - q: "Indications et stimulation :"
+    props:
+      - ["La FIVETE est indiquée en cas de stérilité inexpliquée, non résolue.", true, "p.32."]
+      - ["Le traitement hormonal vise les problèmes d'ovulation.", true, "p.32."]
+      - ["Le blocage de l'ovulation spontanée utilise des inhibiteurs de GnRH.", true, "p.34."]
+      - ["L'hCG est utilisée pour sa similitude avec la FSH.", false, "Avec la LH."]
+      - ["La stimulation est suivie par échographie.", true, "p.34."]
+  - q: "Ponction et spermatozoïdes :"
+    props:
+      - ["La ponction se fait par voie transvaginale sous anesthésie.", true, "p.35."]
+      - ["Les ovocytes sont mis en culture à 37 °C.", true, "p.35."]
+      - ["On récolte en moyenne 10 ovocytes par ponction.", true, "p.35."]
+      - ["Les spermatozoïdes normaux restent à l'interphase du Percoll.", false, "Les anormaux ; les normaux sont au fond."]
+      - ["La capacitation in vitro utilise un lavage, de l'albumine et du Ca2+.", true, "p.36."]
+  - q: "Fécondation, sélection et transfert :"
+    props:
+      - ["L'ICSI est indiquée si la zone pellucide est infranchissable.", true, "p.37."]
+      - ["Les ovocytes matures sont reconnus au 1er globule polaire.", true, "p.37."]
+      - ["Le lendemain, on attend 2 pronuclei et 2-3 globules polaires.", true, "p.38."]
+      - ["Le transfert au stade blastocyste a lieu aux jours 2-3.", false, "Jours 5-6 ; 4-8 cellules aux jours 2-3."]
+      - ["On transfère 1 ou 2 embryons au fond de la cavité utérine.", true, "p.41."]
+
+coverage:
+  - ["S2-3", "31", "Sommaire chapitre VIII", 1]
+  - ["S2-3", "32", "Traitements de l'infertilité, indications", 2]
+  - ["S2-3", "33", "Schéma général de la FIVETE", 3]
+  - ["S2-3", "34", "Stimulation ovarienne", 4]
+  - ["S2-3", "35", "Ponction d'ovocytes", 5]
+  - ["S2-3", "36", "Préparation des spermatozoïdes, Percoll", 6]
+  - ["S2-3", "37", "Insémination et ICSI", 7]
+  - ["S2-3", "38", "Évaluation : 2 pronuclei", 8]
+  - ["S2-3", "39", "Stades de transfert", 9]
+  - ["S2-3", "40", "Sélection des embryons", 10]
+  - ["S2-3", "41", "Transfert, taux de succès", 11]
+  - ["S2-3", "42", "Diagnostic prénatal, bébés-médicament", 12]

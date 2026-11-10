@@ -1,0 +1,211 @@
+title: "Gastrulation : ligne primitive, trois feuillets, somites"
+subtitle: "Ligne primitive · axes · endoderme et mésoderme définitifs · territoires du mésoderme · 42-44 somites"
+source: "S2-2 p.1 à 5h"
+chapter: "Partie II — III. Gastrulation, somitogenèse et neurulation — 1 et 2"
+objectives:
+  - "Résumer le chapitre III : du disque didermique aux trois feuillets."
+  - "Décrire la ligne primitive et son rôle dans la définition des axes."
+  - "Décrire la formation de l'endoderme et du mésoderme définitifs (J14-16, transition épithélio-mésenchymateuse)."
+  - "Nommer les territoires du mésoderme et décrire la somitogenèse (42 à 44 somites, 37 restants)."
+
+scenes:
+  - kind: hook
+    title: "De deux à trois feuillets"
+    ref: "S2-2 p.1b"
+    big: "3"
+    beats:
+      - say: "Deux couches de cellules au départ, trois feuillets à l'arrivée. Tout ton corps sort de ces trois feuillets."
+      - say: "Au programme : la ligne primitive, l'endoderme et le mésoderme définitifs, les territoires du mésoderme, et les somites."
+        show: "Ligne primitive · *3 feuillets* · somites"
+
+  - kind: figure
+    title: "Le chapitre III"
+    ref: "S2-2 p.1h"
+    fig: "S2-2:1h"
+    beats:
+      - say: "Chapitre trois : gastrulation, somitogenèse et neurulation. Quatre points : la gastrulation, la somitogenèse, la neurulation et la formation du tube neural, et la notochorde."
+        show: "1 gastrulation · 2 somitogenèse · 3 neurulation · 4 notochorde"
+
+  - kind: figure
+    title: "Dans ce chapitre…"
+    ref: "S2-2 p.1b"
+    fig: "S2-2:1b"
+    trap: "La ligne et le nœud primitifs = CENTRE D'INDUCTION qui définit les axes."
+    beats:
+      - say: "Au départ : le disque embryonnaire *didermique*, épiblaste et hypoblaste. Des mouvements cellulaires de l'épiblaste forment la *ligne primitive*."
+        mark: ["didermique", "ligne primitive"]
+        show: "Disque *didermique* (épiblaste + hypoblaste) → *ligne primitive*"
+      - say: "Se forment alors trois feuillets, ectoderme, mésoderme, endoderme, et la notochorde. La ligne et le nœud primitifs sont un *centre d'induction* qui définit les axes du corps."
+        mark: ["trois feuillets", "centre d’induction"]
+        show: "*3 feuillets* + notochorde · ligne/nœud = *centre d'induction* (axes)"
+      - say: "Le mésoderme donne le paraxial, avec les somites, l'intermédiaire et le latéral. L'ectoderme donne le tube neural, la crête neurale et l'ectoderme de surface."
+        mark: ["paraxial", "tube neural"]
+        show: "Mésoderme → paraxial (somites), intermédiaire, latéral · ectoderme → tube neural, crête, surface"
+
+  - kind: figure
+    title: "La ligne primitive et les axes"
+    ref: "S2-2 p.2"
+    fig: "S2-2:2"
+    beats:
+      - say: "Des mouvements cellulaires dans l'épiblaste forment la ligne primitive."
+        mark: "ligne primitive"
+        show: "Mouvements dans l'*épiblaste* → *ligne primitive*"
+      - say: "Et la ligne primitive définit les grands axes du corps : crânio-caudal, dorso-ventral, et gauche-droite."
+        mark: "grands axes"
+        show: "Ligne primitive → *grands axes* du corps"
+
+  - kind: figure
+    title: "L'endoderme définitif"
+    ref: "S2-2 p.3h"
+    fig: "S2-2:3h"
+    trap: "Endoderme définitif = épiblaste qui ENVAHIT l'hypoblaste ; J14-16."
+    beats:
+      - say: "Jours quatorze à seize : des cellules de l'épiblaste passent par la ligne primitive et envahissent l'*hypoblaste* : c'est l'*endoderme définitif*."
+        mark: ["Jours 14-16", "endoderme définitif"]
+        show: "*J14-16* : épiblaste → ligne primitive → envahit l'*hypoblaste* = *endoderme définitif*"
+      - say: "Pour ce mouvement, les cellules de l'épiblaste subissent une *transition épithélio-mésenchymateuse*."
+        mark: "transition épithélio-mésenchymateuse"
+        show: "*Transition épithélio-mésenchymateuse*"
+
+  - kind: figure
+    title: "Le mésoderme définitif"
+    ref: "S2-2 p.3b"
+    fig: "S2-2:3b"
+    trap: "Mésoderme = ESPACE entre épiblaste et hypoblaste."
+    beats:
+      - say: "Mêmes jours, quatorze à seize : d'autres cellules de l'épiblaste passent par la ligne primitive et envahissent l'*espace entre l'épiblaste et l'hypoblaste* : c'est le *mésoderme définitif*."
+        mark: ["envahissement de l’espace", "mésoderme définitif"]
+        show: "*J14-16* : → espace épiblaste/hypoblaste = *mésoderme définitif*"
+      - say: "Ici aussi, transition épithélio-mésenchymateuse des cellules de l'épiblaste."
+        mark: "Ici aussi"
+        show: "Ici aussi : *transition épithélio-mésenchymateuse*"
+
+  - kind: figure
+    title: "Les territoires du mésoderme"
+    ref: "S2-2 p.4h"
+    fig: "S2-2:4h"
+    trap: "Mésoderme cardiogénique = extrémité CRÂNIALE ; oro-pharyngée = crânial, cloacale = caudal."
+    beats:
+      - say: "Le mésoderme migre et forme, sur l'axe médio-latéral, le mésoderme *paraxial*, *intermédiaire*, et de la *lame latérale*."
+        mark: ["paraxial", "intermédiaire", "lame latérale"]
+        show: "Médio-latéral : *paraxial* · *intermédiaire* · *lame latérale*"
+      - say: "Et à l'extrémité *crâniale*, le mésoderme *cardiogénique*."
+        mark: ["cardiogénique", "crâniale"]
+        show: "*Cardiogénique* : extrémité *crâniale*"
+      - say: "Sur la figure : la membrane oro-pharyngée côté crânial, la membrane cloacale côté caudal, et les côtés droit et gauche."
+        mark: ["Membrane oro-pharyngée", "Membrane cloacale"]
+        show: "Oro-pharyngée : *crânial* · cloacale : *caudal*"
+
+  - kind: figure
+    title: "Les somites"
+    ref: "S2-2 p.4b"
+    fig: "S2-2:4b"
+    trap: "42 à 44 formés, 37 restent (disparition des somites CAUDALES)."
+    beats:
+      - say: "La segmentation du mésoderme paraxial forme les *somites* : c'est la *somitogenèse*."
+        mark: "somitogenèse"
+        show: "Mésoderme paraxial segmenté → *somites* (*somitogenèse*)"
+      - say: "Au total, *quarante-deux à quarante-quatre* somites se forment, mais il n'en restera que *trente-sept* : les somites caudales disparaissent."
+        mark: ["42 à 44", "37"]
+        show: "# *42 à 44* formés → *37* restent"
+      - say: "Les somites préfigurent les structures métamérisées du tronc : le squelette et les muscles."
+        mark: "métamérisées"
+        show: "Structures *métamérisées* du tronc : squelette, muscles"
+
+  - kind: trap
+    title: "Les pièges de la gastrulation"
+    ref: "S2-2 p.1-5"
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'endoderme définitif se forme entre l'épiblaste et l'hypoblaste” : faux. Il envahit l'hypoblaste. C'est le mésoderme qui occupe l'espace entre les deux."
+        show: "✓ Endoderme : *envahit l'hypoblaste* · mésoderme : *entre les deux*"
+      - say: "“Le mésoderme cardiogénique est caudal” : faux, il est à l'extrémité crâniale."
+        show: "✓ Cardiogénique : *crânial*"
+      - say: "“Il se forme trente-sept somites” : attention, quarante-deux à quarante-quatre se forment, trente-sept restent."
+        show: "✓ *42-44* formés · *37* restent"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-2 p.3-5"
+    beats:
+      - say: "Les trois territoires du mésoderme, de l'axe vers l'extérieur : “P I L”, Paraxial, Intermédiaire, Lame latérale. Le cœur, lui, est en tête."
+        show: "*P*araxial · *I*ntermédiaire · *L*ame latérale · cœur en *tête*"
+      - say: "Les somites : quarante-quatre moins sept, trente-sept."
+        show: "44 – 7 = *37*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.3h"
+    question: "Comment se forme l'endoderme définitif ?"
+    options:
+      - "Par l'hypoblaste seul"
+      - "Par des cellules de l'épiblaste qui envahissent l'hypoblaste"
+      - "Par des cellules du trophoblaste"
+      - "Par le mésoderme paraxial"
+    answer: [1]
+    beats:
+      - say: "Quiz : comment se forme l'endoderme définitif ?"
+        countdown: 4
+      - say: "Par des cellules de l'épiblaste qui passent par la ligne primitive et envahissent l'hypoblaste, aux jours quatorze à seize."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 50 : la neurulation"
+    ref: "S2-2 p.5b"
+    big: "Tube neural"
+    beats:
+      - say: "Prochain épisode : l'ectoderme, la neurulation, la crête neurale et la notochorde."
+        show: "Ectoderme · *tube neural* · notochorde"
+
+recap:
+  - "Chapitre III : 1 gastrulation, 2 somitogenèse, 3 neurulation et formation du tube neural, 4 notochorde. Au départ, disque didermique (épiblaste et hypoblaste) ; mouvements de l'épiblaste → ligne primitive ; formation des trois feuillets (ectoderme, mésoderme, endoderme) et de la notochorde ; ligne/nœud primitifs = centre d'induction → axes du corps ; mésoderme → paraxial (somites), intermédiaire, latéral ; ectoderme → tube neural, crête neurale, ectoderme de surface."
+  - "Ligne primitive : mouvements cellulaires dans l'épiblaste ; définit les grands axes."
+  - "Endoderme définitif (J14-16) : cellules de l'épiblaste → ligne primitive → envahissement de l'hypoblaste ; transition épithélio-mésenchymateuse. Mésoderme définitif (J14-16) : épiblaste → ligne primitive → envahissement de l'espace entre épiblaste et hypoblaste ; transition épithélio-mésenchymateuse."
+  - "Territoires du mésoderme : paraxial, intermédiaire, lame latérale (axe médio-latéral) ; cardiogénique (extrémité crâniale) ; membranes oro-pharyngée (crânial) et cloacale (caudal)."
+  - "Somitogenèse : segmentation du mésoderme paraxial → somites ; 42 à 44 formés, 37 restent (disparition des somites caudales) ; préfigurent les structures métamérisées du tronc (squelette, muscles)."
+
+traps:
+  - ["Ligne primitive issue de l'hypoblaste", "Mouvements cellulaires de l'épiblaste", "p.2"]
+  - ["Endoderme définitif = hypoblaste", "Épiblaste qui envahit l'hypoblaste (J14-16)", "p.3h"]
+  - ["Mésoderme issu de l'hypoblaste", "Épiblaste → ligne primitive → espace épiblaste/hypoblaste", "p.3b"]
+  - ["Pas de transition épithélio-mésenchymateuse", "TEM pour l'endoderme ET le mésoderme", "p.3"]
+  - ["Mésoderme cardiogénique caudal", "Extrémité crâniale", "p.4h"]
+  - ["37 somites formés", "42 à 44 formés, 37 restent", "p.5h"]
+
+mnemonics:
+  - ["Territoires", "« PIL » + cœur en tête : Paraxial, Intermédiaire, Lame latérale ; cardiogénique crânial", "Axe médio-latéral"]
+  - ["Somites", "44 – 7 = 37 (les caudales disparaissent)", "42 à 44 formés"]
+
+quiz:
+  - q: "Ligne primitive et feuillets :"
+    props:
+      - ["Le disque embryonnaire de départ est didermique.", true, "p.1b."]
+      - ["La ligne primitive résulte de mouvements cellulaires de l'épiblaste.", true, "p.2."]
+      - ["La ligne et le nœud primitifs sont un centre d'induction.", true, "p.1b."]
+      - ["L'endoderme définitif se forme aux jours 14-16.", true, "p.3h."]
+      - ["L'endoderme définitif provient de l'hypoblaste seul.", false, "Cellules de l'épiblaste qui envahissent l'hypoblaste."]
+  - q: "Mésoderme :"
+    props:
+      - ["Le mésoderme définitif envahit l'espace entre épiblaste et hypoblaste.", true, "p.3b."]
+      - ["Sa formation implique une transition épithélio-mésenchymateuse.", true, "p.3b."]
+      - ["Le mésoderme cardiogénique se situe à l'extrémité caudale.", false, "Extrémité crâniale."]
+      - ["Le mésoderme intermédiaire est situé entre le paraxial et la lame latérale.", true, "p.4h."]
+      - ["La membrane cloacale est côté caudal.", true, "p.4h."]
+  - q: "Somites :"
+    props:
+      - ["Les somites proviennent de la segmentation du mésoderme paraxial.", true, "p.4b."]
+      - ["42 à 44 somites se forment au total.", true, "p.5h."]
+      - ["Il restera 37 somites.", true, "p.5h."]
+      - ["Ce sont les somites crâniales qui disparaissent.", false, "Les caudales."]
+      - ["Les somites préfigurent les structures métamérisées du tronc.", true, "p.5h."]
+
+coverage:
+  - ["S2-2", "1h", "Sommaire chapitre III", 1]
+  - ["S2-2", "1b", "Dans ce chapitre…", 2]
+  - ["S2-2", "2h", "Ligne primitive", 3]
+  - ["S2-2", "2b", "Axes du corps", 3]
+  - ["S2-2", "3h", "Endoderme définitif", 4]
+  - ["S2-2", "3b", "Mésoderme définitif", 5]
+  - ["S2-2", "4h", "Territoires du mésoderme", 6]
+  - ["S2-2", "4b", "Somitogenèse", 7]
+  - ["S2-2", "5h", "42-44 somites, 37 restent", 7]

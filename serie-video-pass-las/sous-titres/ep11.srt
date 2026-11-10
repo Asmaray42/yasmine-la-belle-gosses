@@ -1,0 +1,303 @@
+1
+00:00:00,300 --> 00:00:01,853
+Le noyau, c'est un coffre-fort à
+
+2
+00:00:01,853 --> 00:00:03,454
+double paroi, avec des portes qui
+
+3
+00:00:03,454 --> 00:00:04,862
+laissent passer librement les
+
+4
+00:00:04,862 --> 00:00:06,318
+petits et contrôlent les gros.
+
+5
+00:00:06,717 --> 00:00:08,105
+Au programme : l'enveloppe
+
+6
+00:00:08,105 --> 00:00:09,225
+nucléaire, la lamina,
+
+7
+00:00:09,225 --> 00:00:10,559
+les pores, la chromatine,
+
+8
+00:00:10,559 --> 00:00:12,106
+le nucléole et les ribosomes.
+
+9
+00:00:12,666 --> 00:00:14,228
+Sur cette image de cellule
+
+10
+00:00:14,228 --> 00:00:16,091
+animale, on repère le noyau et,
+
+11
+00:00:16,091 --> 00:00:17,293
+autour, le réticulum
+
+12
+00:00:17,293 --> 00:00:18,134
+endoplasmique.
+
+13
+00:00:18,694 --> 00:00:20,061
+L' enveloppe nucléaire :
+
+14
+00:00:20,061 --> 00:00:21,484
+deux membranes, donc deux
+
+15
+00:00:21,484 --> 00:00:22,680
+bicouches lipidiques,
+
+16
+00:00:22,680 --> 00:00:24,446
+en continuité avec le réticulum
+
+17
+00:00:24,446 --> 00:00:25,243
+endoplasmique.
+
+18
+00:00:25,643 --> 00:00:26,656
+La lame nucléaire ,
+
+19
+00:00:26,656 --> 00:00:28,363
+ou lamina : un réseau fibreux de
+
+20
+00:00:28,363 --> 00:00:29,696
+filaments intermédiaires,
+
+21
+00:00:29,696 --> 00:00:31,190
+qui donne sa forme au noyau.
+
+22
+00:00:31,590 --> 00:00:32,735
+Les pores nucléaires :
+
+23
+00:00:32,735 --> 00:00:34,453
+ils traversent les deux membranes
+
+24
+00:00:34,453 --> 00:00:36,067
+et sont constitués de protéines
+
+25
+00:00:36,067 --> 00:00:37,108
+disposées en cercle.
+
+26
+00:00:37,508 --> 00:00:39,297
+Ils laissent circuler librement
+
+27
+00:00:39,297 --> 00:00:40,566
+les petites molécules,
+
+28
+00:00:40,566 --> 00:00:41,720
+nucléotides et ions,
+
+29
+00:00:41,720 --> 00:00:43,508
+et assurent un passage contrôlé
+
+30
+00:00:43,508 --> 00:00:44,604
+des macromolécules,
+
+31
+00:00:44,604 --> 00:00:45,700
+ARN et protéines.
+
+32
+00:00:46,260 --> 00:00:48,014
+La chromatine porte l'information
+
+33
+00:00:48,014 --> 00:00:49,928
+génétique : c'est l'ADN associé à
+
+34
+00:00:49,928 --> 00:00:51,682
+des protéines, en longs filaments
+
+35
+00:00:51,682 --> 00:00:52,957
+emmêlés, et en plusieurs
+
+36
+00:00:52,957 --> 00:00:54,339
+morceaux, les chromosomes.
+
+37
+00:00:54,739 --> 00:00:56,279
+Le nucléole : une tache sombre
+
+38
+00:00:56,279 --> 00:00:57,921
+dans le noyau, parfois plusieurs
+
+39
+00:00:57,921 --> 00:00:58,434
+par noyau.
+
+40
+00:00:58,574 --> 00:01:00,246
+C'est le site d'assemblage des
+
+41
+00:01:00,246 --> 00:01:01,584
+sous-unités ribosomales,
+
+42
+00:01:01,584 --> 00:01:03,256
+des complexes ARN-protéines.
+
+43
+00:01:03,816 --> 00:01:05,537
+Les ribosomes sont des complexes
+
+44
+00:01:05,537 --> 00:01:07,313
+protéines-ARN à deux sous-unités,
+
+45
+00:01:07,313 --> 00:01:08,926
+très nombreux dans la cellule.
+
+46
+00:01:09,066 --> 00:01:10,755
+Ils effectuent la synthèse des
+
+47
+00:01:10,755 --> 00:01:12,557
+polypeptides, sur base des ARN
+
+48
+00:01:12,557 --> 00:01:13,120
+messagers.
+
+49
+00:01:13,520 --> 00:01:14,597
+Dans le cytoplasme,
+
+50
+00:01:14,597 --> 00:01:16,469
+on les trouve à l'état libre dans
+
+51
+00:01:16,469 --> 00:01:18,285
+le cytosol, ou sur des membranes
+
+52
+00:01:18,285 --> 00:01:19,589
+internes : le réticulum
+
+53
+00:01:19,589 --> 00:01:21,121
+endoplasmique et la surface
+
+54
+00:01:21,121 --> 00:01:22,085
+externe du noyau.
+
+55
+00:01:22,645 --> 00:01:23,482
+Trois pièges.
+
+56
+00:01:23,882 --> 00:01:25,251
+“L'enveloppe nucléaire est une
+
+57
+00:01:25,251 --> 00:01:26,053
+simple membrane” :
+
+58
+00:01:26,053 --> 00:01:27,044
+faux, deux membranes,
+
+59
+00:01:27,044 --> 00:01:27,753
+deux bicouches.
+
+60
+00:01:28,153 --> 00:01:29,338
+“Les protéines traversent
+
+61
+00:01:29,338 --> 00:01:30,375
+librement les pores” :
+
+62
+00:01:30,375 --> 00:01:31,956
+faux, leur passage est contrôlé.
+
+63
+00:01:32,096 --> 00:01:33,740
+Ce sont les petites molécules qui
+
+64
+00:01:33,740 --> 00:01:34,736
+circulent librement.
+
+65
+00:01:35,136 --> 00:01:36,261
+“La lamina est faite de
+
+66
+00:01:36,261 --> 00:01:37,285
+microtubules” : faux,
+
+67
+00:01:37,285 --> 00:01:38,718
+de filaments intermédiaires.
+
+68
+00:01:39,278 --> 00:01:40,721
+Quiz : où se fait l'assemblage
+
+69
+00:01:40,721 --> 00:01:42,116
+des sous-unités ribosomales ?
+
+70
+00:01:46,516 --> 00:01:48,310
+Dans le nucléole, la tache sombre
+
+71
+00:01:48,310 --> 00:01:48,799
+du noyau.
+
+72
+00:01:49,359 --> 00:01:50,458
+Prochain épisode :
+
+73
+00:01:50,458 --> 00:01:52,351
+le système membranaire interne,
+
+74
+00:01:52,351 --> 00:01:54,182
+le réticulum, le Golgi avec sa
+
+75
+00:01:54,182 --> 00:01:55,770
+face cis et sa face trans,
+
+76
+00:01:55,770 --> 00:01:58,150
+et les lysosomes, découverts à l'UCL.

@@ -1,0 +1,515 @@
+1
+00:00:00,300 --> 00:00:01,855
+Dans ta cellule, des vésicules
+
+2
+00:00:01,855 --> 00:00:03,048
+voyagent sur des rails,
+
+3
+00:00:03,048 --> 00:00:04,241
+tirées par des moteurs.
+
+4
+00:00:04,381 --> 00:00:06,010
+Deux moteurs, deux sens opposés.
+
+5
+00:00:06,150 --> 00:00:07,035
+Lequel va où ?
+
+6
+00:00:07,435 --> 00:00:09,031
+Au programme : les mouvements,
+
+7
+00:00:09,031 --> 00:00:10,361
+les moteurs moléculaires,
+
+8
+00:00:10,361 --> 00:00:11,585
+la reptation, les cils,
+
+9
+00:00:11,585 --> 00:00:13,287
+puis la matrice extracellulaire.
+
+10
+00:00:13,847 --> 00:00:15,496
+Les mouvements intracellulaires
+
+11
+00:00:15,496 --> 00:00:16,720
+sont orchestrés par les
+
+12
+00:00:16,720 --> 00:00:17,837
+microfilaments et les
+
+13
+00:00:17,837 --> 00:00:18,529
+microtubules.
+
+14
+00:00:18,669 --> 00:00:19,685
+Cinq exemples.
+
+15
+00:00:20,085 --> 00:00:21,680
+La répartition des chromosomes
+
+16
+00:00:21,680 --> 00:00:22,796
+lors de la division :
+
+17
+00:00:22,796 --> 00:00:23,487
+microtubules.
+
+18
+00:00:23,887 --> 00:00:25,539
+La séparation des cellules filles
+
+19
+00:00:25,539 --> 00:00:26,390
+: microfilaments.
+
+20
+00:00:26,790 --> 00:00:28,183
+La contraction des cellules
+
+21
+00:00:28,183 --> 00:00:29,679
+musculaires : microfilaments,
+
+22
+00:00:29,679 --> 00:00:30,505
+avec la myosine.
+
+23
+00:00:30,905 --> 00:00:32,447
+Le positionnement d'enzymes dans
+
+24
+00:00:32,447 --> 00:00:33,796
+la cellule : microfilaments.
+
+25
+00:00:34,196 --> 00:00:35,710
+Et le mouvement des vésicules :
+
+26
+00:00:35,710 --> 00:00:36,345
+microtubules.
+
+27
+00:00:36,905 --> 00:00:38,097
+Deux couples de moteurs,
+
+28
+00:00:38,097 --> 00:00:39,638
+qui roulent sur un microtubule,
+
+29
+00:00:39,638 --> 00:00:40,035
+le rail.
+
+30
+00:00:40,435 --> 00:00:42,411
+La dynactine fixe les vésicules ;
+
+31
+00:00:42,411 --> 00:00:44,268
+la kinectine fixe les vésicules
+
+32
+00:00:44,268 --> 00:00:45,885
+du réticulum endoplasmique.
+
+33
+00:00:46,285 --> 00:00:48,217
+Le moteur, qui consomme de l'ATP
+
+34
+00:00:48,217 --> 00:00:49,524
+: la dynéine d'un côté,
+
+35
+00:00:49,524 --> 00:00:50,831
+la kinésine de l'autre.
+
+36
+00:00:51,231 --> 00:00:52,990
+Et le sens : la dynéine va vers
+
+37
+00:00:52,990 --> 00:00:54,012
+l'extrémité moins,
+
+38
+00:00:54,012 --> 00:00:55,941
+la kinésine vers l'extrémité plus.
+
+39
+00:00:56,501 --> 00:00:58,163
+La dynéine descend vers le moins
+
+40
+00:00:58,163 --> 00:01:00,033
+; la kinésine continue vers le plus.
+
+41
+00:01:00,593 --> 00:01:01,915
+Les déplacements cellulaires.
+
+42
+00:01:02,055 --> 00:01:03,828
+La reptation implique surtout les
+
+43
+00:01:03,828 --> 00:01:05,546
+microfilaments : allongement par
+
+44
+00:01:05,546 --> 00:01:06,889
+polymérisation d'actine à
+
+45
+00:01:06,889 --> 00:01:08,232
+l'avant, et contraction à
+
+46
+00:01:08,232 --> 00:01:08,769
+l'arrière.
+
+47
+00:01:08,909 --> 00:01:10,539
+Exemples : la cicatrisation,
+
+48
+00:01:10,539 --> 00:01:11,995
+les métastases de tumeurs
+
+49
+00:01:11,995 --> 00:01:12,694
+cancéreuses.
+
+50
+00:01:13,094 --> 00:01:14,261
+Les flagelles , longs,
+
+51
+00:01:14,261 --> 00:01:15,640
+et les cils , plus courts,
+
+52
+00:01:15,640 --> 00:01:17,391
+sont des extensions du cytoplasme
+
+53
+00:01:17,391 --> 00:01:18,770
+délimitées par la membrane
+
+54
+00:01:18,770 --> 00:01:19,301
+plasmique.
+
+55
+00:01:19,441 --> 00:01:20,990
+Ils contiennent des microtubules
+
+56
+00:01:20,990 --> 00:01:22,345
+: neuf paires en périphérie,
+
+57
+00:01:22,345 --> 00:01:23,313
+plus deux au centre.
+
+58
+00:01:23,713 --> 00:01:25,340
+Exemples : les spermatozoïdes,
+
+59
+00:01:25,340 --> 00:01:26,478
+avec leurs flagelles,
+
+60
+00:01:26,478 --> 00:01:28,050
+et les cellules de la surface
+
+61
+00:01:28,050 --> 00:01:29,243
+interne de la trachée,
+
+62
+00:01:29,243 --> 00:01:30,111
+avec leurs cils.
+
+63
+00:01:30,671 --> 00:01:32,343
+Septième point du chapitre trois
+
+64
+00:01:32,343 --> 00:01:33,179
+: les structures
+
+65
+00:01:33,179 --> 00:01:34,068
+extracellulaires.
+
+66
+00:01:34,208 --> 00:01:35,907
+Un ensemble de glycoprotéines
+
+67
+00:01:35,907 --> 00:01:37,841
+sécrétées par la cellule forme la
+
+68
+00:01:37,841 --> 00:01:39,305
+matrice extracellulaire .
+
+69
+00:01:39,705 --> 00:01:41,569
+Elles se présentent sous forme de
+
+70
+00:01:41,569 --> 00:01:42,925
+fibres solides, comme le
+
+71
+00:01:42,925 --> 00:01:44,168
+collagène, l'élastine,
+
+72
+00:01:44,168 --> 00:01:45,919
+la fibronectine, ou en solution
+
+73
+00:01:45,919 --> 00:01:47,670
+gélatineuse, les protéoglycans.
+
+74
+00:01:48,070 --> 00:01:49,576
+Elles se fixent à la membrane
+
+75
+00:01:49,576 --> 00:01:51,238
+plasmique via les fibronectines,
+
+76
+00:01:51,238 --> 00:01:52,900
+elles-mêmes liées aux intégrines
+
+77
+00:01:52,900 --> 00:01:54,510
+, des protéines de la membrane.
+
+78
+00:01:54,650 --> 00:01:56,283
+Les intégrines sont connectées
+
+79
+00:01:56,283 --> 00:01:57,371
+aux microfilaments :
+
+80
+00:01:57,371 --> 00:01:59,058
+la matrice peut donc influencer
+
+81
+00:01:59,058 --> 00:02:00,690
+le comportement de la cellule.
+
+82
+00:02:01,250 --> 00:02:02,178
+Quatre fonctions :
+
+83
+00:02:02,178 --> 00:02:03,828
+la cohésion des cellules dans le
+
+84
+00:02:03,828 --> 00:02:04,808
+tissu ; le soutien,
+
+85
+00:02:04,808 --> 00:02:06,304
+élastique comme dans la peau,
+
+86
+00:02:06,304 --> 00:02:07,490
+ou rigide comme dans le
+
+87
+00:02:07,490 --> 00:02:08,676
+cartilage, les tendons,
+
+88
+00:02:08,676 --> 00:02:09,810
+les ligaments, les os.
+
+89
+00:02:10,210 --> 00:02:11,532
+Le guidage des mouvements
+
+90
+00:02:11,532 --> 00:02:12,748
+cellulaires, pendant le
+
+91
+00:02:12,748 --> 00:02:14,176
+développement embryonnaire,
+
+92
+00:02:14,176 --> 00:02:15,710
+la cicatrisation, ou pour les
+
+93
+00:02:15,710 --> 00:02:16,926
+cellules immunitaires ;
+
+94
+00:02:16,926 --> 00:02:18,565
+et le contrôle de l'hydratation
+
+95
+00:02:18,565 --> 00:02:20,152
+et de la composition du milieu
+
+96
+00:02:20,152 --> 00:02:20,998
+extracellulaire.
+
+97
+00:02:21,398 --> 00:02:22,891
+Et un détail du quotidien :
+
+98
+00:02:22,891 --> 00:02:24,440
+la diminution de la synthèse
+
+99
+00:02:24,440 --> 00:02:26,265
+d'élastine avec l'âge contribue à
+
+100
+00:02:26,265 --> 00:02:27,537
+l'apparition des rides.
+
+101
+00:02:28,097 --> 00:02:29,674
+Une maladie de la matrice :
+
+102
+00:02:29,674 --> 00:02:31,310
+le syndrome d'Ehlers-Danlos.
+
+103
+00:02:31,450 --> 00:02:33,113
+Prévalence : un sur quinze mille.
+
+104
+00:02:33,253 --> 00:02:34,803
+Cause : un défaut de synthèse de
+
+105
+00:02:34,803 --> 00:02:35,335
+collagène .
+
+106
+00:02:35,735 --> 00:02:37,271
+Peau élastique et fragile,
+
+107
+00:02:37,271 --> 00:02:38,630
+cicatrisation anormale,
+
+108
+00:02:38,630 --> 00:02:40,403
+hyperlaxité des articulations,
+
+109
+00:02:40,403 --> 00:02:41,880
+et dans certaines formes,
+
+110
+00:02:41,880 --> 00:02:43,593
+fragilité des vaisseaux et de
+
+111
+00:02:43,593 --> 00:02:44,243
+l'intestin.
+
+112
+00:02:44,383 --> 00:02:45,447
+Sévérité variable :
+
+113
+00:02:45,447 --> 00:02:46,904
+subluxations articulaires,
+
+114
+00:02:46,904 --> 00:02:48,024
+douleurs chroniques,
+
+115
+00:02:48,024 --> 00:02:49,201
+hémorragies, fatigue.
+
+116
+00:02:49,341 --> 00:02:50,742
+Pas de traitement curatif.
+
+117
+00:02:51,302 --> 00:02:52,682
+Quiz : laquelle est exacte ?
+
+118
+00:02:57,082 --> 00:02:57,894
+Réponse C.
+
+119
+00:02:58,034 --> 00:02:59,612
+La kinésine va vers le plus,
+
+120
+00:02:59,612 --> 00:03:01,471
+les intégrines sont des protéines
+
+121
+00:03:01,471 --> 00:03:02,880
+de la membrane plasmique,
+
+122
+00:03:02,880 --> 00:03:04,344
+et Ehlers-Danlos touche le
+
+123
+00:03:04,344 --> 00:03:04,908
+collagène.
+
+124
+00:03:05,468 --> 00:03:06,361
+Prochain épisode :
+
+125
+00:03:06,361 --> 00:03:07,949
+comment les cellules s'attachent
+
+126
+00:03:07,949 --> 00:03:09,537
+entre elles, avec trois types de
+
+127
+00:03:09,537 --> 00:03:11,075
+jonctions, et pourquoi l'utérus
+
+128
+00:03:11,075 --> 00:03:12,067
+se synchronise avant
+
+129
+00:03:12,067 --> 00:03:12,811
+l'accouchement.

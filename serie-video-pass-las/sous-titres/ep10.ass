@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:03.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En 1665, Robert Hooke regarde un
+Dialogue: 0,0:00:03.21,0:00:04.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fragment de liège au microscope,
+Dialogue: 0,0:00:04.87,0:00:06.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et voit des petites chambres.
+Dialogue: 0,0:00:06.52,0:00:07.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il les appelle “cellulae”.
+Dialogue: 0,0:00:08.07,0:00:09.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : la théorie
+Dialogue: 0,0:00:09.43,0:00:10.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire, la taille des
+Dialogue: 0,0:00:10.79,0:00:12.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules, les microscopes,
+Dialogue: 0,0:00:12.21,0:00:13.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le duel procaryotes contre
+Dialogue: 0,0:00:13.79,0:00:14.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}eucaryotes.
+Dialogue: 0,0:00:14.95,0:00:16.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre trois : structure de la
+Dialogue: 0,0:00:16.57,0:00:17.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule eucaryote,
+Dialogue: 0,0:00:17.48,0:00:18.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en huit points.
+Dialogue: 0,0:00:18.64,0:00:20.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Introduction ; eucaryotes versus
+Dialogue: 0,0:00:20.43,0:00:21.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}procaryotes ; le noyau ;
+Dialogue: 0,0:00:21.78,0:00:23.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le système membranaire interne.
+Dialogue: 0,0:00:23.92,0:00:24.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mitochondries ;
+Dialogue: 0,0:00:24.91,0:00:25.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytosquelette ;
+Dialogue: 0,0:00:25.85,0:00:27.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les structures extra-cellulaires
+Dialogue: 0,0:00:27.52,0:00:28.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; et les interactions
+Dialogue: 0,0:00:28.61,0:00:29.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires.
+Dialogue: 0,0:00:29.80,0:00:32.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En 1665, Robert Hooke décrit des
+Dialogue: 0,0:00:32.81,0:00:34.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulae, des petites chambres,
+Dialogue: 0,0:00:34.47,0:00:36.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en observant un fragment de liège
+Dialogue: 0,0:00:36.25,0:00:37.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au microscope.
+Dialogue: 0,0:00:37.40,0:00:38.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La théorie cellulaire,
+Dialogue: 0,0:00:38.59,0:00:39.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ici en trois énoncés.
+Dialogue: 0,0:00:39.86,0:00:41.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : tous les organismes sont
+Dialogue: 0,0:00:41.19,0:00:42.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}constitués d'une ou plusieurs
+Dialogue: 0,0:00:42.53,0:00:42.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules.
+Dialogue: 0,0:00:43.34,0:00:44.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : les cellules sont les
+Dialogue: 0,0:00:44.63,0:00:45.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}unités{\c&HFFFFFF&} {\c&H66D1FF&}vivantes{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}base{\c&HFFFFFF&} .
+Dialogue: 0,0:00:46.17,0:00:47.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : les cellules dérivent
+Dialogue: 0,0:00:47.61,0:00:48.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toujours d'une cellule
+Dialogue: 0,0:00:48.70,0:00:50.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}préexistante, par divisions
+Dialogue: 0,0:00:50.03,0:00:50.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires.
+Dialogue: 0,0:00:51.18,0:00:52.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une cellule mesure typiquement de
+Dialogue: 0,0:00:52.94,0:00:54.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}10{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}100{\c&HFFFFFF&} {\c&H66D1FF&}micromètres{\c&HFFFFFF&} de diamètre.
+Dialogue: 0,0:00:55.20,0:00:56.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette petite taille donne un
+Dialogue: 0,0:00:56.78,0:00:58.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}rapport{\c&HFFFFFF&} {\c&H66D1FF&}surface{\c&HFFFFFF&} {\c&H66D1FF&}sur{\c&HFFFFFF&} {\c&H66D1FF&}volume{\c&HFFFFFF&} {\c&H66D1FF&}élevé{\c&HFFFFFF&}
+Dialogue: 0,0:00:58.59,0:01:00.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, qui facilite la diffusion de
+Dialogue: 0,0:01:00.28,0:01:02.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}substances entre l'extérieur et
+Dialogue: 0,0:01:02.03,0:01:02.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intérieur.
+Dialogue: 0,0:01:03.27,0:01:04.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux types de microscopes.
+Dialogue: 0,0:01:04.98,0:01:06.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le photonique utilise la lumière
+Dialogue: 0,0:01:06.61,0:01:08.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; l'électronique, un faisceau
+Dialogue: 0,0:01:08.09,0:01:08.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'électrons.
+Dialogue: 0,0:01:09.10,0:01:11.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résolution : 200 nanomètres pour
+Dialogue: 0,0:01:11.08,0:01:13.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le photonique ; 0,2 nanomètre
+Dialogue: 0,0:01:13.26,0:01:14.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour l'électronique,
+Dialogue: 0,0:01:14.28,0:01:15.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mille fois mieux.
+Dialogue: 0,0:01:15.54,0:01:17.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En photonique, on utilise des
+Dialogue: 0,0:01:17.04,0:01:18.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}colorants et des marqueurs
+Dialogue: 0,0:01:18.38,0:01:19.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifiques fluorescents.
+Dialogue: 0,0:01:19.82,0:01:21.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En électronique, il existe le
+Dialogue: 0,0:01:21.52,0:01:23.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microscope à transmission et le
+Dialogue: 0,0:01:23.34,0:01:24.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microscope à balayage.
+Dialogue: 0,0:01:25.20,0:01:27.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le schéma de la cellule eucaryote
+Dialogue: 0,0:01:27.04,0:01:28.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: une membrane plasmique qui
+Dialogue: 0,0:01:28.60,0:01:29.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}délimite le cytoplasme,
+Dialogue: 0,0:01:29.88,0:01:31.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des organites, et un noyau
+Dialogue: 0,0:01:31.33,0:01:33.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entouré de l'enveloppe nucléaire.
+Dialogue: 0,0:01:33.73,0:01:34.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le grand duel.
+Dialogue: 0,0:01:35.08,0:01:36.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les procaryotes comprennent les
+Dialogue: 0,0:01:36.52,0:01:37.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bactéries et les archées.
+Dialogue: 0,0:01:38.09,0:01:39.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Taille : un à huit micromètres
+Dialogue: 0,0:01:39.46,0:01:40.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les procaryotes.
+Dialogue: 0,0:01:40.82,0:01:42.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les procaryotes n'ont pas de
+Dialogue: 0,0:01:42.28,0:01:44.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compartiments internes et pas de noyau.
+Dialogue: 0,0:01:44.46,0:01:46.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellule animale a de nombreux
+Dialogue: 0,0:01:46.21,0:01:47.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compartiments, un réseau de
+Dialogue: 0,0:01:47.69,0:01:49.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranes intracellulaires.
+Dialogue: 0,0:01:49.57,0:01:51.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les procaryotes peuvent avoir une
+Dialogue: 0,0:01:51.32,0:01:52.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paroi rigide, en option.
+Dialogue: 0,0:01:52.73,0:01:54.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellule animale exécute
+Dialogue: 0,0:01:54.25,0:01:55.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}simultanément des processus
+Dialogue: 0,0:01:55.82,0:01:57.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biochimiques variés et
+Dialogue: 0,0:01:57.10,0:01:57.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}indépendants.
+Dialogue: 0,0:01:58.26,0:02:00.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la cellule animale possède un
+Dialogue: 0,0:02:00.07,0:02:01.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réseau de protéines internes,
+Dialogue: 0,0:02:01.70,0:02:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytosquelette, qui assure la
+Dialogue: 0,0:02:03.45,0:02:05.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure, le tout baignant dans
+Dialogue: 0,0:02:05.25,0:02:06.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytosol, un liquide
+Dialogue: 0,0:02:06.49,0:02:07.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gélatineux.
+Dialogue: 0,0:02:07.67,0:02:08.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les pièges de chiffres.
+Dialogue: 0,0:02:09.21,0:02:10.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le microscope photonique a une
+Dialogue: 0,0:02:10.84,0:02:13.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}résolution de 0,2 nanomètre” :
+Dialogue: 0,0:02:13.17,0:02:14.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est l'électronique.
+Dialogue: 0,0:02:14.77,0:02:16.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Photonique : 200 nanomètres.
+Dialogue: 0,0:02:16.77,0:02:18.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les procaryotes mesurent 10 à
+Dialogue: 0,0:02:18.22,0:02:19.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}100 micromètres” : faux.
+Dialogue: 0,0:02:19.53,0:02:20.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un à huit micromètres ;
+Dialogue: 0,0:02:20.70,0:02:22.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}10 à 100, ce sont les cellules
+Dialogue: 0,0:02:22.34,0:02:22.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}typiques.
+Dialogue: 0,0:02:23.19,0:02:24.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les archées sont bien des
+Dialogue: 0,0:02:24.47,0:02:25.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}procaryotes, sans noyau.
+Dialogue: 0,0:02:26.11,0:02:27.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:31.89,0:02:33.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse C, c'est un énoncé de la
+Dialogue: 0,0:02:33.60,0:02:34.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}théorie cellulaire.
+Dialogue: 0,0:02:34.75,0:02:36.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les procaryotes n'ont pas de
+Dialogue: 0,0:02:36.18,0:02:37.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}noyau, leur paroi est en option,
+Dialogue: 0,0:02:37.82,0:02:39.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'électronique utilise un
+Dialogue: 0,0:02:39.25,0:02:40.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faisceau d'électrons.
+Dialogue: 0,0:02:40.88,0:02:41.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:41.84,0:02:43.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le noyau, son enveloppe à deux
+Dialogue: 0,0:02:43.43,0:02:44.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranes, ses pores,
+Dialogue: 0,0:02:44.54,0:02:46.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le nucléole, et les ribosomes.

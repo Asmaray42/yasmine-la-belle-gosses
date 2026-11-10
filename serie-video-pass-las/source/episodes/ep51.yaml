@@ -1,0 +1,230 @@
+title: "Totipotence, pluripotence et programmes d'expression"
+subtitle: "Toti vs pluri · diagnostic pré-implantatoire · jumeaux monozygotes · cellules ES · OPC1 · morphogènes"
+source: "S2-2 p.9b à 13"
+chapter: "Partie II — IV. Différenciation et mouvements cellulaires — 1. Différenciation cellulaire"
+objectives:
+  - "Définir totipotence et pluripotence et les situer dans l'embryon précoce."
+  - "Expliquer le diagnostic pré-implantatoire et les jumeaux monozygotes."
+  - "Décrire les cellules souches embryonnaires et l'essai OPC1."
+  - "Définir le programme d'expression génique et décrire l'induction par les morphogènes."
+
+scenes:
+  - kind: hook
+    title: "Une cellule en moins, un bébé normal"
+    ref: "S2-2 p.11h"
+    big: "J3"
+    beats:
+      - say: "Au troisième jour, on peut retirer une cellule à un embryon pour l'analyser. Et l'embryon continue à se développer normalement. Pourquoi ? Parce que ses cellules sont totipotentes."
+      - say: "Au programme : totipotence, pluripotence, cellules souches embryonnaires, et programmes d'expression."
+        show: "*Totipotence* · pluripotence · cellules ES · morphogènes"
+
+  - kind: figure
+    title: "Le chapitre IV"
+    ref: "S2-2 p.9b"
+    fig: "S2-2:9b"
+    beats:
+      - say: "Chapitre quatre : différenciation et mouvements cellulaires. Cinq points : la différenciation cellulaire, les morphogènes, la reprogrammation cellulaire, les cellules souches adultes, et les mouvements cellulaires."
+        show: "1 différenciation · 2 morphogènes · 3 reprogrammation · 4 souches adultes · 5 mouvements"
+
+  - kind: figure
+    title: "Différenciation cellulaire dans l'embryon"
+    ref: "S2-2 p.10h"
+    fig: "S2-2:10h"
+    beats:
+      - say: "Le développement de l'embryon implique deux choses : des *divisions cellulaires*, qui produisent des milliards de cellules à partir du zygote initial ; et un *programme de différenciation cellulaire*, qui génère les différents types cellulaires de l'organisme."
+        mark: ["divisions cellulaires", "programme de différenciation"]
+        show: "*Prolifération* (milliards de cellules) + *différenciation* (types cellulaires)"
+
+  - kind: figure
+    title: "Totipotence et pluripotence"
+    ref: "S2-2 p.10b"
+    fig: "S2-2:10b"
+    trap: "TOTI = embryon + placenta (zygote, blastomères) ; PLURI = embryon SANS placenta (masse cellulaire interne)."
+    beats:
+      - say: "Le zygote et les blastomères de la segmentation sont *totipotents* : ils peuvent générer toutes les cellules de l'embryon, *y compris celles du placenta*."
+        mark: ["totipotents", "y compris les cellules du placenta"]
+        show: "*Totipotents* : zygote, blastomères · embryon *+ placenta*"
+      - say: "Dans le blastocyste, il y a déjà une étape de différenciation : les cellules du trophoblaste contribueront au placenta."
+        mark: "trophoblaste"
+        show: "Blastocyste : trophoblaste → *placenta*"
+      - say: "Les cellules de la masse cellulaire interne produiront l'embryon : elles sont *pluripotentes*, car elles peuvent générer tous les types cellulaires de l'embryon, *mais pas le placenta*."
+        mark: ["pluripotentes", "mais pas le placenta"]
+        show: "Masse cellulaire interne : *pluripotentes* · embryon *sans placenta*"
+
+  - kind: figure
+    title: "Le diagnostic pré-implantatoire"
+    ref: "S2-2 p.11h"
+    fig: "S2-2:11h"
+    trap: "Blastomère prélevé à J3 ; les autres reprennent un développement NORMAL."
+    beats:
+      - say: "La totipotence des blastomères permet le *diagnostic pré-implantatoire*."
+        show: "Totipotence → *diagnostic pré-implantatoire*"
+      - say: "Fécondation in vitro, obtention de plusieurs embryons, prélèvement d'*un blastomère au jour trois*, analyse génétique."
+        mark: ["Prélèvement d’un", "Analyse"]
+        show: "FIV → embryons → *1 blastomère à J3* → analyse génétique"
+      - say: "Les blastomères restants reprennent néanmoins un développement normal. On sélectionne un embryon sain, transféré dans l'utérus de la mère."
+        mark: ["blastomères restants", "Sélection"]
+        show: "Restants : développement *normal* → embryon sain → utérus"
+
+  - kind: figure
+    title: "Jumeaux monozygotes"
+    ref: "S2-2 p.11b"
+    fig: "S2-2:11b"
+    trap: "Vrais jumeaux = clivage de la MASSE CELLULAIRE INTERNE → preuve de la PLURIPOTENCE."
+    beats:
+      - say: "Les vrais jumeaux démontrent la *pluripotence* des cellules de la masse cellulaire interne : ils dérivent du *clivage accidentel* de cette masse."
+        mark: ["pluripotence", "clivage accidentel"]
+        show: "Vrais jumeaux = *clivage accidentel* de la masse interne → *pluripotence*"
+      - say: "Les deux groupes formés sont capables de former des fœtus complets. Les jumeaux sont génétiquement identiques, et on parle de jumeaux *monozygotes*, car ils proviennent du même zygote."
+        mark: ["génétiquement identiques", "monozygotes"]
+        show: "Génétiquement *identiques* · *monozygotes* (même zygote)"
+
+  - kind: figure
+    title: "Les cellules souches embryonnaires"
+    ref: "S2-2 p.12h"
+    fig: "S2-2:12h"
+    beats:
+      - say: "On peut mettre en culture les cellules de la masse interne : ce sont les *cellules souches embryonnaires*, les cellules E S."
+        mark: "cellules souches embryonnaires"
+        show: "Masse interne en culture = *cellules ES*"
+      - say: "Elles conservent leur pluripotence ; en manipulant le milieu de culture, on peut induire leur différenciation vers des types cellulaires spécifiques. Utilisation envisagée en transplantation, pour restaurer des tissus déficients."
+        mark: ["conservent leur pluripotence", "transplantation"]
+        show: "Restent *pluripotentes* · milieu → différenciation dirigée · *transplantation*"
+
+  - kind: figure
+    title: "L'essai OPC1"
+    ref: "S2-2 p.12b"
+    fig: "S2-2:12b"
+    beats:
+      - say: "Thérapie de remplacement pour les traumatismes de la moelle épinière : l'essai clinique *OPC1*, en cours en Californie, aux États-Unis."
+        mark: "OPC1"
+        show: "Essai *OPC1* (Californie) : moelle épinière"
+      - say: "Des cellules E S sont différenciées en *progéniteurs d'oligodendrocytes*, les cellules qui forment la gaine autour des fibres nerveuses, puis injectées dans la moelle épinière de patients atteints d'une grave lésion."
+        mark: ["oligodendrocytes", "Injection"]
+        show: "Cellules ES → progéniteurs d'*oligodendrocytes* (gaine) → injection"
+
+  - kind: figure
+    title: "Le programme d'expression génique"
+    ref: "S2-2 p.13h"
+    fig: "S2-2:13h"
+    trap: "Même ADN (~20 000 gènes) ; programme d'expression DIFFÉRENT selon le type cellulaire."
+    beats:
+      - say: "Chaque type cellulaire est caractérisé par un *programme d'expression génique* spécifique : un ensemble spécifique de gènes exprimés."
+        mark: "programme d’expression génique"
+        show: "Type cellulaire = *programme d'expression* spécifique"
+      - say: "Au total, environ *vingt mille gènes*. Une cellule musculaire et une cellule du pancréas ont le même ADN, mais n'expriment pas les mêmes gènes : A R N m, protéine, fonction cellulaire."
+        mark: ["~20,000 gènes", "Cellules du pancréas"]
+        show: "~*20 000* gènes · muscle ≠ pancréas : ARNm → protéine → fonction"
+
+  - kind: figure
+    title: "Induction de la différenciation"
+    ref: "S2-2 p.13b"
+    fig: "S2-2:13b"
+    trap: "Morphogène = protéine ou lipide à action PARACRINE ; agit via récepteur → facteur de transcription."
+    beats:
+      - say: "Dans l'embryon, des *cellules inductrices* sécrètent des *morphogènes* : des protéines ou des lipides à action *paracrine*."
+        mark: ["morphogènes", "paracrine"]
+        show: "Cellules *inductrices* → *morphogènes* (protéines, lipides) · action *paracrine*"
+      - say: "Ils se lient à des récepteurs sur les *cellules répondeuses*, et y activent des *facteurs de transcription*."
+        mark: ["Récepteur", "Facteur de"]
+        show: "Récepteur de la cellule *répondeuse* → *facteurs de transcription*"
+      - say: "Ceux-ci modifient le programme d'expression génique des cellules répondeuses, ce qui mène à leur différenciation."
+        mark: "Cellule différenciée"
+        show: "Programme d'expression *modifié* → cellule *différenciée*"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-2 p.10-13"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les cellules de la masse cellulaire interne sont totipotentes” : faux, pluripotentes. Elles ne forment pas le placenta."
+        show: "✓ Masse interne = *pluripotente* (pas de placenta)"
+      - say: "“Les jumeaux monozygotes prouvent la totipotence” : selon le cours, ils démontrent la pluripotence de la masse cellulaire interne."
+        show: "✓ Jumeaux monozygotes → *pluripotence*"
+      - say: "“Les morphogènes agissent de façon endocrine” : faux, paracrine."
+        show: "✓ Morphogène = *paracrine*"
+
+  - kind: mnemo
+    title: "Mémoriser toti / pluri"
+    ref: "S2-2 p.10b"
+    beats:
+      - say: "Toti, comme “total” : tout, placenta compris. Pluri, comme “plusieurs” : beaucoup, mais pas tout, pas le placenta."
+        show: "*Toti* = total (+ placenta) · *pluri* = plusieurs (sans placenta)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.10b"
+    question: "Quelles cellules sont totipotentes ?"
+    options:
+      - "Les cellules de la masse cellulaire interne"
+      - "Le zygote et les blastomères de la segmentation"
+      - "Les cellules du trophoblaste"
+      - "Les cellules ES en culture"
+    answer: [1]
+    beats:
+      - say: "Quiz : quelles cellules sont totipotentes ?"
+        countdown: 4
+      - say: "Le zygote et les blastomères de la segmentation."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 52 : morphogènes et reprogrammation"
+    ref: "S2-2 p.14"
+    big: "iPS"
+    beats:
+      - say: "Prochain épisode : l'organisateur de Spemann, les gradients de morphogènes, le clonage et les cellules i P S."
+        show: "Spemann · gradients · clonage · *iPS*"
+
+recap:
+  - "Chapitre IV : 1 différenciation cellulaire, 2 morphogènes, 3 reprogrammation cellulaire, 4 cellules souches adultes, 5 mouvements cellulaires. Développement = divisions cellulaires (milliards de cellules à partir du zygote) + programme de différenciation (types cellulaires)."
+  - "Zygote et blastomères de la segmentation : totipotents (toutes les cellules de l'embryon, y compris le placenta). Blastocyste : trophoblaste → placenta ; masse cellulaire interne → embryon, pluripotente (tous les types cellulaires de l'embryon, mais pas le placenta)."
+  - "Diagnostic pré-implantatoire (grâce à la totipotence) : FIV, plusieurs embryons, prélèvement d'un blastomère (J3), analyse génétique ; les blastomères restants reprennent un développement normal ; sélection d'un embryon sain ; transfert dans l'utérus. Vrais jumeaux : clivage accidentel de la masse cellulaire interne (pluripotence) ; fœtus complets ; génétiquement identiques ; monozygotes (même zygote)."
+  - "Cellules souches embryonnaires (ESc) : masse interne en culture ; conservent leur pluripotence ; différenciation induite par le milieu ; transplantation envisagée. Essai OPC1 (Californie) : ES → progéniteurs d'oligodendrocytes (gaine des fibres nerveuses) injectés dans la moelle épinière de patients gravement lésés."
+  - "Programme d'expression génique spécifique de chaque type cellulaire (~20 000 gènes au total ; ex. muscle vs pancréas ; ADN → ARNm → protéine → fonction). Induction : cellules inductrices sécrètent des morphogènes (protéines ou lipides, action paracrine) ; liaison à des récepteurs des cellules répondeuses ; activation de facteurs de transcription ; programme d'expression modifié → différenciation."
+
+traps:
+  - ["Masse cellulaire interne totipotente", "Pluripotente (pas le placenta)", "p.10b"]
+  - ["Blastomères pluripotents", "Zygote et blastomères totipotents", "p.10b"]
+  - ["Blastomère prélevé à J5", "J3", "p.11h"]
+  - ["Les blastomères restants meurent", "Ils reprennent un développement normal", "p.11h"]
+  - ["Jumeaux monozygotes = deux zygotes", "Un même zygote (clivage de la masse interne)", "p.11b"]
+  - ["OPC1 : neurones", "Progéniteurs d'oligodendrocytes", "p.12b"]
+  - ["Morphogènes endocrines", "Action paracrine", "p.13b"]
+
+mnemonics:
+  - ["Toti / pluri", "Toti = total (+ placenta) ; pluri = plusieurs (sans placenta)", "Zygote/blastomères vs masse interne"]
+  - ["Induction", "« Morpho → Récepteur → Facteur → Programme »", "Paracrine"]
+
+quiz:
+  - q: "Toti- et pluripotence :"
+    props:
+      - ["Le zygote est totipotent.", true, "p.10b."]
+      - ["Les cellules de la masse cellulaire interne peuvent former le placenta.", false, "Pluripotentes, pas le placenta."]
+      - ["Les cellules du trophoblaste contribueront au placenta.", true, "p.10b."]
+      - ["Le diagnostic pré-implantatoire repose sur la totipotence des blastomères.", true, "p.11h."]
+      - ["Les jumeaux monozygotes proviennent du même zygote.", true, "p.11b."]
+  - q: "Cellules souches embryonnaires :"
+    props:
+      - ["Les cellules ES proviennent de la masse cellulaire interne.", true, "p.12h."]
+      - ["Les cellules ES perdent leur pluripotence en culture.", false, "Elles la conservent."]
+      - ["On peut induire leur différenciation en modifiant le milieu de culture.", true, "p.12h."]
+      - ["L'essai OPC1 utilise des progéniteurs d'oligodendrocytes.", true, "p.12b."]
+      - ["Les oligodendrocytes forment la gaine autour des fibres nerveuses.", true, "p.12b."]
+  - q: "Programme d'expression et morphogènes :"
+    props:
+      - ["Chaque type cellulaire a un programme d'expression génique spécifique.", true, "p.13h."]
+      - ["Le génome compte au total ~20 000 gènes selon la diapo.", true, "p.13h."]
+      - ["Les morphogènes ont une action paracrine.", true, "p.13b."]
+      - ["Les morphogènes sont toujours des protéines.", false, "Protéines ou lipides."]
+      - ["Les morphogènes activent des facteurs de transcription dans les cellules répondeuses.", true, "p.13b."]
+
+coverage:
+  - ["S2-2", "9b", "Sommaire chapitre IV", 1]
+  - ["S2-2", "10h", "Divisions + différenciation", 2]
+  - ["S2-2", "10b", "Totipotence et pluripotence", 3]
+  - ["S2-2", "11h", "Diagnostic pré-implantatoire", 4]
+  - ["S2-2", "11b", "Jumeaux monozygotes", 5]
+  - ["S2-2", "12h", "Cellules souches embryonnaires", 6]
+  - ["S2-2", "12b", "Essai OPC1", 7]
+  - ["S2-2", "13h", "Programme d'expression génique", 8]
+  - ["S2-2", "13b", "Induction par les morphogènes", 9]

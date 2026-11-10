@@ -1,0 +1,241 @@
+title: "Le soulèvement de l'embryon et le devenir des feuillets"
+subtitle: "4e semaine · repli latéral et crânio-caudal · cœlome · conduit vitellin · septum transversum · allantoïde · devenirs"
+source: "S2-2 p.23 à 28h"
+chapter: "Partie II — V. Étape de soulèvement de l'embryon — 1 et 2"
+objectives:
+  - "Décrire le soulèvement de l'embryon (4e semaine) et sa cause : la croissance différentielle."
+  - "Décrire le repli latéral : somatopleure, splanchnopleure, cœlome intra-embryonnaire, conduit vitellin, tube endodermique."
+  - "Décrire le repli crânio-caudal : face, ébauche cardiaque, septum transversum, allantoïde."
+  - "Donner les devenirs de l'endoderme, de la lame latérale, du mésoderme intermédiaire, du paraxial et du processus notochordal."
+
+scenes:
+  - kind: hook
+    title: "D'une crêpe à un tube"
+    ref: "S2-2 p.23b"
+    big: "Disque → tube"
+    beats:
+      - say: "À la quatrième semaine, l'embryon est une crêpe plate. En quelques jours, il se replie sur lui-même et devient un tube."
+      - say: "Au programme : les replis latéral et crânio-caudal, puis le devenir de l'endoderme et du mésoderme."
+        show: "Repli *latéral* · repli *crânio-caudal* · *devenirs*"
+
+  - kind: figure
+    title: "Le chapitre V et le soulèvement"
+    ref: "S2-2 p.23"
+    fig: "S2-2:23b"
+    trap: "Cause : CROISSANCE DIFFÉRENTIELLE (disque et amnios grandissent, vésicule ombilicale presque plus)."
+    beats:
+      - say: "Chapitre cinq : l'étape de soulèvement de l'embryon. Quatre points : le soulèvement, les devenirs de l'endoderme et du mésoderme, la symétrie gauche-droite, et la formation du cordon ombilical."
+        show: "1 soulèvement · 2 devenirs · 3 gauche-droite · 4 cordon"
+      - say: "*Quatrième semaine* : les feuillets sont en place, l'organogenèse commence. L'embryon se soulève : *transversalement*, le disque devient un tube ; *longitudinalement*, les extrémités du tube se replient vers le ventral."
+        mark: ["Quatrième semaine", "Transversalement", "Longitudalement"]
+        show: "*4e semaine* · transversal : disque → *tube* · longitudinal : extrémités → ventral"
+      - say: "C'est dû à la *croissance différentielle* : le disque embryonnaire et l'amnios continuent de grandir, alors que la vésicule ombilicale n'évolue presque plus."
+        mark: "croissance différentielle"
+        show: "*Croissance différentielle* : disque + amnios ↑ · vésicule ombilicale ≈"
+
+  - kind: figure
+    title: "Le repli latéral"
+    ref: "S2-2 p.24h"
+    fig: "S2-2:24h"
+    trap: "Lame latérale → somatopleure + splanchnopleure → CŒLOME intra-embryonnaire."
+    beats:
+      - say: "Les extrémités latérales, gauche et droite, du disque se replient vers le bas pour se rejoindre sur ce qui devient l'axe ventral."
+        show: "Bords gauche et droit → se rejoignent en *ventral*"
+      - say: "Le mésoderme de la lame latérale se sépare en deux lames, la *somatopleure* et la *splanchnopleure*, qui délimitent une nouvelle cavité : le *cœlome intra-embryonnaire*. Coupes aux jours vingt-deux et vingt-sept."
+        mark: ["Somatopleure", "Splanchnopleure", "Cœlome"]
+        show: "Lame latérale → *somatopleure* + *splanchnopleure* → *cœlome intra-embryonnaire*"
+
+  - kind: figure
+    title: "Conduit vitellin et tube endodermique"
+    ref: "S2-2 p.24b"
+    fig: "S2-2:24b"
+    beats:
+      - say: "Dans la partie centrale, coupe A, le repliement resserre la vésicule vitelline : c'est le *conduit vitellin*."
+        mark: "Conduit vitellin"
+        show: "Coupe A : vésicule resserrée = *conduit vitellin*"
+      - say: "Ailleurs, l'ectoderme de surface se rejoint et se soude sur l'axe ventral. Et l'endoderme se rejoint ventralement pour former un *tube*, qui préfigure le tube digestif : coupe B. On y voit aussi le mésentère dorsal."
+        mark: ["Tube endodermique", "Mésentère"]
+        show: "Coupe B : ectoderme soudé · *tube endodermique* (intestin) · mésentère dorsal"
+
+  - kind: figure
+    title: "Bilan du repli transversal"
+    ref: "S2-2 p.25h"
+    fig: "S2-2:25h"
+    beats:
+      - say: "Les extrémités latérales fusionnent, sauf au niveau de la vésicule ombilicale."
+        mark: "sauf au niveau"
+        show: "Fusion *sauf* au niveau de la vésicule ombilicale"
+      - say: "L'ectoderme donne l'épiderme ventral. L'endoderme donne le tube digestif ; il reste un conduit vitellin, qui sera intégré au cordon ombilical. Le mésoderme des lames latérales crée le cœlome intra-embryonnaire, la cavité corporelle."
+        mark: ["épiderme ventral", "tube digestif", "cavité corporelle"]
+        show: "Ecto → *épiderme ventral* · endo → *tube digestif* (+ conduit vitellin) · méso → *cœlome*"
+
+  - kind: figure
+    title: "Le repli crânio-caudal"
+    ref: "S2-2 p.25b"
+    fig: "S2-2:25b"
+    trap: "Septum transversum → DIAPHRAGME."
+    beats:
+      - say: "Un repliement s'opère aussi sur l'axe crânio-caudal : des deux côtés, la cavité amniotique s'agrandit vers le centre."
+        show: "Cavité amniotique ↑ vers le centre (crânial et caudal)"
+      - say: "Côté crânial, l'ectoderme de surface et le tube neural suivent : la *face* se forme progressivement, et l'*ébauche cardiaque* est repoussée dans la région thoracique."
+        mark: "Ebauche cardiaque"
+        show: "Crânial : *face* · *ébauche cardiaque* → thorax"
+      - say: "Elle est séparée de la région abdominale par une membrane mésodermique, le *septum transversum*, qui deviendra le *diaphragme*."
+        mark: "Septum transversum"
+        show: "*Septum transversum* → *diaphragme*"
+
+  - kind: figure
+    title: "Côté caudal : l'allantoïde"
+    ref: "S2-2 p.26h"
+    fig: "S2-2:26h"
+    trap: "Allantoïde = extension de l'ENDODERME ; une partie contribuera à la VESSIE."
+    beats:
+      - say: "Le repliement crânio-caudal participe au rétrécissement du conduit vitellin. Côté caudal, le pédicule de connexion est repoussé contre le conduit vitellin."
+        mark: "pédicule de connexion"
+        show: "Conduit vitellin rétréci · *pédicule de connexion* repoussé"
+      - say: "Une extension de l'endoderme s'enfonce dans le pédicule de connexion : c'est l'*allantoïde*. Elle disparaîtra à terme ; une partie contribuera à la *vessie*."
+        mark: "Allantoïde"
+        show: "*Allantoïde* (endoderme) → disparaît · une partie → *vessie*"
+
+  - kind: figure
+    title: "Endoderme : devenirs"
+    ref: "S2-2 p.26b"
+    fig: "S2-2:26b"
+    beats:
+      - say: "L'endoderme donne le tractus digestif, le pancréas, le foie, le tractus respiratoire, le pharynx et la thyroïde. Liste non exhaustive."
+        mark: ["Pancréas", "Thyroïde"]
+        show: "Endoderme → digestif · *pancréas* · *foie* · respiratoire · pharynx · *thyroïde*"
+
+  - kind: figure
+    title: "Lame latérale et mésoderme intermédiaire"
+    ref: "S2-2 p.27"
+    fig: "S2-2:27"
+    trap: "Mésoderme intermédiaire : PAS dans la tête ; urinaire + génital."
+    beats:
+      - say: "Le mésoderme de la lame latérale donne : les membres, le derme, la moelle osseuse, le système cardiovasculaire, la cavité pleurale, le péricarde, le péritoine, et le revêtement et la paroi des viscères et du tube digestif."
+        mark: ["moelle osseuse", "péricarde", "péritoine"]
+        show: "Lame latérale → membres · derme · moelle osseuse · cardiovasculaire · *plèvre, péricarde, péritoine* · parois"
+      - say: "Le mésoderme *intermédiaire* : il n'est pas présent dans la tête. Sa segmentation débute en partie crâniale, au niveau du pronéphros, et donne les néphrotomes. Il est à l'origine des systèmes *urinaire* et *génital*."
+        mark: ["Pas présent dans la tête", "néphrotomes"]
+        show: "*Intermédiaire* : *pas dans la tête* · pronéphros → néphrotomes · *urinaire* + *génital*"
+
+  - kind: figure
+    title: "Le tableau des devenirs du mésoderme"
+    ref: "S2-2 p.28h"
+    fig: "S2-2:28h"
+    trap: "Membres : MUSCLES = somites (paraxial) ; OS, articulations = lame latérale."
+    beats:
+      - say: "Mésoderme paraxial, par les somites : les muscles striés, le squelette axial, et les *muscles* des membres."
+        mark: ["Somites", "Membres (muscles)"]
+        show: "Paraxial (somites) → muscles striés · squelette axial · *muscles des membres*"
+      - say: "Mésoderme intermédiaire : reins, système urinaire, organes génitaux."
+        mark: "Reins"
+        show: "Intermédiaire → reins · urinaire · génitaux"
+      - say: "Lame latérale : les *os et articulations* des membres, le système circulatoire, les séreuses des cavités corporelles et les parois des viscères."
+        mark: ["Membres (os, articulations)", "Séreuses"]
+        show: "Lame latérale → *os, articulations des membres* · circulatoire · séreuses · parois"
+      - say: "Et le processus notochordal donne la notochorde, source de morphogènes, qui disparaît, complètement chez l'enfant. Liste non exhaustive."
+        mark: ["Notochorde", "Disparition"]
+        show: "Processus notochordal → *notochorde* (morphogènes) → disparition"
+
+  - kind: trap
+    title: "Les pièges des devenirs"
+    ref: "S2-2 p.25-28"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les muscles des membres viennent de la lame latérale” : faux, des somites. La lame latérale donne les os et les articulations des membres."
+        show: "✓ Membres : muscles = *somites* · os = *lame latérale*"
+      - say: "“Le septum transversum devient le péricarde” : faux, il devient le diaphragme."
+        show: "✓ Septum transversum → *diaphragme*"
+      - say: "“Le mésoderme intermédiaire est présent dans la tête” : faux."
+        show: "✓ Intermédiaire : *pas dans la tête*"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-2 p.24-28"
+    beats:
+      - say: "Somatopleure, “soma”, le corps, la paroi ; splanchnopleure, “splanchna”, les viscères. Entre les deux : le cœlome."
+        show: "*Soma*topleure = paroi · *splanchno*pleure = viscères · entre : *cœlome*"
+      - say: "Pour les membres : les somites font bouger, la lame latérale fait tenir."
+        show: "Somites *bougent* (muscles) · lame latérale *tient* (os)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.25b"
+    question: "Que devient le septum transversum ?"
+    options:
+      - "Le péricarde"
+      - "Le diaphragme"
+      - "La plèvre"
+      - "Le mésentère"
+    answer: [1]
+    beats:
+      - say: "Quiz : que devient le septum transversum ?"
+        countdown: 4
+      - say: "Le diaphragme."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 55 : l'asymétrie gauche-droite"
+    ref: "S2-2 p.28b"
+    big: "Gauche ≠ droite"
+    beats:
+      - say: "Prochain épisode : pourquoi ton cœur est à gauche. L'asymétrie gauche-droite, le flux nodal, et le cordon ombilical."
+        show: "Asymétrie · *flux nodal* · cordon ombilical"
+
+recap:
+  - "Chapitre V : 1 soulèvement, 2 devenirs de l'endoderme et du mésoderme, 3 symétrie gauche-droite, 4 cordon ombilical. 4e semaine : feuillets en place, début de l'organogenèse ; soulèvement transversal (disque → tube) et longitudinal (extrémités repliées vers le ventral) ; dû à la croissance différentielle (disque et amnios s'accroissent ; vésicule ombilicale n'évolue presque plus)."
+  - "Repli latéral : extrémités gauche-droite repliées vers le bas, rejointes sur l'axe ventral ; lame latérale séparée en somatopleure et splanchnopleure, délimitant le cœlome intra-embryonnaire (coupes J22, J27) ; partie centrale (coupe A) : resserrement de la vésicule vitelline = conduit vitellin ; ailleurs, ectoderme de surface soudé en ventral ; endoderme → tube (tube digestif, coupe B) ; mésentère dorsal. Fusion sauf au niveau de la vésicule ombilicale : ectoderme → épiderme ventral ; endoderme → tube digestif (conduit vitellin intégré au cordon) ; mésoderme latéral → cœlome (cavité corporelle)."
+  - "Repli crânio-caudal : la cavité amniotique s'agrandit vers le centre ; côté crânial, ectoderme de surface et tube neural forment la face, ébauche cardiaque repoussée dans le thorax ; septum transversum (membrane mésodermique) → diaphragme ; rétrécissement du conduit vitellin ; côté caudal, pédicule de connexion repoussé contre le conduit vitellin ; allantoïde (extension de l'endoderme dans le pédicule) disparaîtra, une partie → vessie."
+  - "Endoderme → tractus digestif, pancréas, foie, tractus respiratoire, pharynx, thyroïde. Lame latérale → membres, derme, moelle osseuse, système cardiovasculaire, cavité pleurale, péricarde, péritoine, revêtement et paroi des viscères et du tube digestif. Mésoderme intermédiaire : pas dans la tête ; segmentation débutant en crânial (pronéphros) → néphrotomes ; systèmes urinaire et génital."
+  - "Tableau : paraxial (somites) → muscles striés, squelette axial, membres (muscles) ; intermédiaire → reins, système urinaire, organes génitaux ; lame latérale → membres (os, articulations), système circulatoire, séreuses, parois des viscères ; processus notochordal → notochorde (source de morphogènes) → disparition (complète chez l'enfant). Listes non exhaustives."
+
+traps:
+  - ["Soulèvement dû à la croissance de la vésicule ombilicale", "Croissance différentielle : disque et amnios ↑, vésicule ombilicale ≈", "p.23b"]
+  - ["Cœlome entre ectoderme et endoderme", "Entre somatopleure et splanchnopleure (lame latérale)", "p.24h"]
+  - ["Fusion complète, y compris la vésicule ombilicale", "Sauf au niveau de la vésicule ombilicale", "p.25h"]
+  - ["Septum transversum → péricarde", "→ diaphragme", "p.25b"]
+  - ["Allantoïde = ectoderme", "Extension de l'endoderme ; une partie → vessie", "p.26h"]
+  - ["Mésoderme intermédiaire dans la tête", "Pas présent dans la tête", "p.27"]
+  - ["Muscles des membres = lame latérale", "Muscles = somites ; os/articulations = lame latérale", "p.28h"]
+
+mnemonics:
+  - ["Pleures", "Somato = paroi (corps) ; splanchno = viscères ; entre = cœlome", "Lame latérale"]
+  - ["Membres", "Somites bougent (muscles), lame latérale tient (os, articulations)", "Tableau p.28h"]
+  - ["Endoderme", "« Tubes et glandes » : digestif, respiratoire, pharynx + foie, pancréas, thyroïde", "Liste non exhaustive"]
+
+quiz:
+  - q: "Soulèvement :"
+    props:
+      - ["Le soulèvement débute à la 4e semaine.", true, "p.23b."]
+      - ["Il est dû à la croissance différentielle des structures.", true, "p.23b."]
+      - ["La vésicule ombilicale continue de grandir fortement.", false, "Elle n'évolue presque plus."]
+      - ["La lame latérale se sépare en somatopleure et splanchnopleure.", true, "p.24h."]
+      - ["Le conduit vitellin résulte du resserrement de la vésicule vitelline.", true, "p.24b."]
+  - q: "Repli crânio-caudal :"
+    props:
+      - ["L'ébauche cardiaque est repoussée dans la région thoracique.", true, "p.25b."]
+      - ["Le septum transversum deviendra le diaphragme.", true, "p.25b."]
+      - ["L'allantoïde est une extension de l'ectoderme.", false, "De l'endoderme."]
+      - ["Une partie de l'allantoïde contribuera à la vessie.", true, "p.26h."]
+      - ["Le conduit vitellin sera intégré au cordon ombilical.", true, "p.25h."]
+  - q: "Devenirs :"
+    props:
+      - ["La thyroïde dérive de l'endoderme.", true, "p.26b."]
+      - ["Le péricarde dérive de la lame latérale.", true, "p.27."]
+      - ["Le mésoderme intermédiaire est à l'origine des systèmes urinaire et génital.", true, "p.27."]
+      - ["Les muscles des membres dérivent de la lame latérale.", false, "Des somites (paraxial)."]
+      - ["Les os et articulations des membres dérivent de la lame latérale.", true, "p.28h."]
+
+coverage:
+  - ["S2-2", "23h", "Sommaire chapitre V", 1]
+  - ["S2-2", "23b", "Soulèvement, croissance différentielle", 1]
+  - ["S2-2", "24h", "Repli latéral, cœlome", 2]
+  - ["S2-2", "24b", "Conduit vitellin, tube endodermique", 3]
+  - ["S2-2", "25h", "Bilan du repli transversal", 4]
+  - ["S2-2", "25b", "Repli crânio-caudal, septum transversum", 5]
+  - ["S2-2", "26h", "Allantoïde", 6]
+  - ["S2-2", "26b", "Devenirs de l'endoderme", 7]
+  - ["S2-2", "27h", "Lame latérale", 8]
+  - ["S2-2", "27b", "Mésoderme intermédiaire", 8]
+  - ["S2-2", "28h", "Tableau des devenirs du mésoderme", 9]

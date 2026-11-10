@@ -1,0 +1,255 @@
+title: "Le calendrier du développement & la spermatogenèse"
+subtitle: "Frise · CGPs · tubules séminifères · spermiogenèse · 64 jours · FSH/LH"
+source: "S2-1 p.1 à 6"
+chapter: "Partie II — I. Grandes étapes du développement humain · I. Gamétogenèse — 1. Spermatogenèse"
+objectives:
+  - "Placer sur la frise les périodes pré-embryonnaire, embryonnaire et fœtale et les grandes étapes."
+  - "Décrire l'origine des cellules germinales primordiales et la différenciation du sexe."
+  - "Nommer les cellules des tubules séminifères, de la spermatogonie A dark au spermatozoïde."
+  - "Décrire la spermiogenèse, la durée de la spermatogenèse et son contrôle hormonal."
+
+scenes:
+  - kind: hook
+    title: "64 jours pour un spermatozoïde"
+    ref: "S2-1 p.5"
+    big: "64 j"
+    beats:
+      - say: "Cent millions de spermatozoïdes produits chaque jour, et pourtant chacun a mis soixante-quatre jours à se fabriquer."
+      - say: "Bienvenue dans la Partie II : le calendrier du développement, puis la spermatogenèse."
+        show: "Partie II · frise · *spermatogenèse*"
+
+  - kind: figure
+    title: "Grandes étapes du développement humain"
+    ref: "S2-1 p.1b"
+    fig: "S2-1:1b"
+    trap: "Pré-embryonnaire → semaine 3 ; embryonnaire → semaine 8 ; fœtale → 9e mois."
+    beats:
+      - say: "Partie II du cours, chapitre un : les grandes étapes du développement humain. La frise distingue trois périodes."
+        show: "3 périodes"
+      - say: "La période *pré-embryonnaire*, jusqu'à la semaine trois : fécondation, segmentation, implantation."
+        mark: ["Période pré-embryonnaire", "Semaine 3"]
+        show: "*Pré-embryonnaire* (→ sem. *3*) : fécondation · segmentation · implantation"
+      - say: "La période *embryonnaire*, jusqu'à la semaine huit : gastrulation, neurulation, organogenèse."
+        mark: ["Période embryonnaire", "Semaine 8"]
+        show: "*Embryonnaire* (→ sem. *8*) : gastrulation · neurulation · organogenèse"
+      - say: "Puis la période *fœtale*, jusqu'au neuvième mois : le développement fœtal."
+        mark: ["Période fœtale", "9e mois"]
+        show: "*Fœtale* (→ *9e mois*) : développement fœtal"
+
+  - kind: figure
+    title: "Le cycle de développement (rappel)"
+    ref: "S2-1 p.2"
+    fig: "S2-1:2h"
+    beats:
+      - say: "Rappel du cycle de développement, vu en Partie I : gamètes haploïdes, fécondation, zygote diploïde, développement, puis gamétogenèse chez l'adulte."
+        show: "Gamètes (n) → fécondation → zygote (2n) → adulte → *gamétogenèse*"
+      - say: "Au sommaire de ce chapitre sur la gamétogenèse : la spermatogenèse, l'ovogenèse, puis l'ovulation."
+        show: "1. Spermatogenèse · 2. Ovogenèse · 3. Ovulation"
+
+  - kind: figure
+    title: "Origine embryonnaire des cellules germinales"
+    ref: "S2-1 p.3h"
+    fig: "S2-1:3h"
+    trap: "CGPs dès la gastrulation ; différenciation du sexe à la 6e semaine."
+    beats:
+      - say: "Gamétogenèse : spermatogenèse chez l'homme, ovogenèse chez la femme. Tout commence par la différenciation et la multiplication de *cellules germinales primordiales*, les C G P, dans l'embryon précoce, à la gastrulation."
+        mark: ["CGPs", "gastrulation"]
+        show: "*CGPs* : embryon précoce (*gastrulation*)"
+      - say: "Elles migrent vers les *gonades primitives*, et y stimulent les cellules somatiques de soutien."
+        mark: "Migration vers"
+        show: "Migration → *gonades primitives* (stimulent les cellules de soutien)"
+      - say: "Différenciation du sexe à la *sixième semaine* : chez le mâle, les C G P deviennent des spermatogonies ; chez la femelle, des ovogonies. La gonade devient testicule ou ovaire."
+        mark: ["6ème semaine", "spermatogonies", "ovogonies"]
+        show: "*6e semaine* : ♂ CGPs → *spermatogonies* · ♀ CGPs → *ovogonies*"
+
+  - kind: figure
+    title: "La spermatogenèse"
+    ref: "S2-1 p.3b"
+    fig: "S2-1:3b"
+    beats:
+      - say: "La spermatogenèse : des spermatogonies, par la méiose, aux spermatozoïdes. Elle débute à la *puberté*, dans les *tubules séminifères* des testicules."
+        mark: ["Débute à la puberté", "tubules séminifères"]
+        show: "Spermatogonies → méiose → spermatozoïdes · dès la *puberté* · *tubules séminifères*"
+
+  - kind: figure
+    title: "Contenu des tubules séminifères"
+    ref: "S2-1 p.4"
+    fig: "S2-1:4"
+    trap: "A dark = cellules souches ; spermatocyte I = 2n (×2) ; spermatocytes II = n (×2)."
+    beats:
+      - say: "De la périphérie, contre la lame basale, vers la lumière. D'abord les *spermatogonies A dark*, diploïdes : ce sont les *cellules souches*."
+        mark: ["Spermatogonies A dark (2n)", "(cellules souches)"]
+        show: "*A dark* (2n) = *cellules souches*"
+      - say: "Puis les spermatogonies A pâle et B, toujours diploïdes. La spermatogonie B donne le *spermatocyte primaire*, deux n, à ADN dupliqué."
+        mark: ["Spermatogonies A pale (2n)", "Spermatocyte primaire (2n, x2)"]
+        show: "A pâle (2n) → B (2n) → *spermatocyte I* (2n, ×2)"
+      - say: "Méiose un : deux *spermatocytes secondaires*, haploïdes, à chromosomes encore dupliqués. Méiose deux : des *spermatides*, haploïdes, qui subissent la spermiogenèse pour devenir des spermatozoïdes."
+        mark: ["Spermatocytes secondaires (n, x2)", "Spermatides (n)"]
+        show: "Méiose 1 → *spermatocytes II* (n, ×2) · méiose 2 → *spermatides* (n) → spermatozoïdes"
+      - say: "Tout autour, les *cellules de Sertoli*, somatiques, soutiennent la lignée germinale."
+        mark: "Cellule de Sertoli (somatique)"
+        show: "*Sertoli* : cellule *somatique* de soutien"
+
+  - kind: figure
+    title: "La spermiogenèse"
+    ref: "S2-1 p.5h"
+    fig: "S2-1:5h"
+    trap: "Protamines remplacent les histones ; acrosome = Golgi ; axonème = centriole."
+    beats:
+      - say: "Dernière étape de la spermatogenèse : la *spermiogenèse*, de la spermatide au spermatozoïde."
+        show: "*Spermiogenèse* : spermatide → spermatozoïde"
+      - say: "Le noyau se condense : les *protamines* remplacent les histones. Les vésicules du Golgi forment l'*acrosome*, qui contient les enzymes pour la pénétration de l'ovocyte."
+        mark: ["protamines", "acrosome"]
+        show: "Noyau : *protamines* ⟵ histones · Golgi → *acrosome* (enzymes)"
+      - say: "L'*axonème*, le flagelle, se forme à partir du centriole. Les mitochondries forment la *pièce intermédiaire*, l'énergie du flagelle. Et le surplus de cytoplasme est éliminé, dans la lumière ou phagocyté par les cellules de Sertoli."
+        mark: ["axonème", "pièce intermédiaire", "Surplus de cytoplasme"]
+        show: "Centriole → *axonème* · mitochondries → *pièce intermédiaire* · cytoplasme éliminé"
+
+  - kind: figure
+    title: "Durée de la spermatogenèse"
+    ref: "S2-1 p.5b"
+    fig: "S2-1:5b"
+    trap: "16 + 24 + quelques heures + 24 = 64 jours."
+    beats:
+      - say: "Divisions des spermatogonies A jusqu'aux spermatocytes primaires : *seize jours*. Méiose un : *vingt-quatre jours*."
+        mark: ["16 jours", "24 jours"]
+        show: "Divisions : *16 j* · méiose 1 : *24 j*"
+      - say: "Méiose deux : *quelques heures* seulement. Spermiogenèse : *vingt-quatre jours*."
+        mark: "quelques heures"
+        show: "Méiose 2 : *quelques heures* · spermiogenèse : *24 j*"
+      - say: "Au total : *soixante-quatre jours*."
+        mark: "64 jours"
+        show: "# Total : *64 jours*"
+
+  - kind: figure
+    title: "Production et maturation"
+    ref: "S2-1 p.6h"
+    fig: "S2-1:6h"
+    trap: "Capacitation = dans les voies génitales de la FEMME."
+    beats:
+      - say: "Cent millions de spermatozoïdes sont produits *chaque jour*. Ils migrent vers l'*épididyme*, où ils achèvent la spermiogenèse."
+        mark: ["100 millions", "épididyme"]
+        show: "*100 millions* / jour · → *épididyme*"
+      - say: "Lors de l'éjaculation, ils sont propulsés vers le canal déférent et l'urètre, mélangés à des sécrétions nutritives. Le stade ultime de maturation a lieu dans les voies génitales de la femme : la *capacitation*."
+        mark: ["canal déférent", "capacitation"]
+        show: "Canal déférent → urètre · maturation ultime chez la femme : *capacitation*"
+
+  - kind: figure
+    title: "Contrôle hormonal de la spermatogenèse"
+    ref: "S2-1 p.6b"
+    fig: "S2-1:6b"
+    trap: "FSH → Sertoli (inhibine) ; LH → Leydig (testostérone)."
+    beats:
+      - say: "À la puberté, la gonadolibérine, ou G n R H, augmente. Elle entraîne la sécrétion de folliculostimuline, F S H, et de lutéotropine, L H."
+        mark: ["GnRH", "FSH", "LH"]
+        show: "Puberté : ↑ *GnRH* → *FSH* + *LH*"
+      - say: "La F S H stimule les *cellules de Sertoli* : spermatogenèse. La L H stimule les *cellules de Leydig* à produire la *testostérone* : spermatogenèse et caractères mâles."
+        mark: ["cellules de Sertoli", "cellules de Leydig"]
+        show: "FSH → *Sertoli* · LH → *Leydig* → *testostérone*"
+      - say: "Deux boucles de rétroaction négative : la F S H entraîne l'*inhibine*, qui inhibe la G n R H et la F S H ; la L H entraîne la testostérone, qui inhibe la G n R H et la L H."
+        mark: "rétroaction négatives"
+        show: "FSH → *inhibine* ⊣ GnRH, FSH · LH → *testostérone* ⊣ GnRH, LH"
+
+  - kind: trap
+    title: "Les pièges de la spermatogenèse"
+    ref: "S2-1 p.3-6"
+    beats:
+      - say: "Trois pièges."
+      - say: "“La L H stimule les cellules de Sertoli” : faux. F S H, Sertoli ; L H, Leydig."
+        show: "✓ FSH → *Sertoli* · LH → *Leydig*"
+      - say: "“Les spermatogonies A pâle sont les cellules souches” : faux, ce sont les A dark."
+        show: "✓ Cellules souches = *A dark*"
+      - say: "“La capacitation a lieu dans l'épididyme” : faux. Dans l'épididyme, ils achèvent la spermiogenèse ; la capacitation se fait dans les voies génitales de la femme."
+        show: "✓ Épididyme : fin de spermiogenèse · *capacitation* : voies génitales ♀"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-1 p.5-6"
+    beats:
+      - say: "Les hormones : F S H contient un S, comme Sertoli. L H commence par L, comme Leydig."
+        show: "FSH → *S*ertoli · *L*H → *L*eydig"
+      - say: "La durée : seize, vingt-quatre, quelques heures, vingt-quatre. Un seize et deux vingt-quatre font soixante-quatre."
+        show: "16 + 24 + (h) + 24 = *64*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-1 p.5b"
+    question: "Quelle étape de la spermatogenèse ne dure que quelques heures ?"
+    options:
+      - "La méiose 1"
+      - "La méiose 2"
+      - "La spermiogenèse"
+      - "Les divisions des spermatogonies"
+    answer: [1]
+    beats:
+      - say: "Quiz : quelle étape ne dure que quelques heures ?"
+        countdown: 4
+      - say: "La méiose deux. La méiose un et la spermiogenèse durent vingt-quatre jours chacune."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 44 : l'ovogenèse"
+    ref: "S2-1 p.7"
+    big: "Dictyotène"
+    beats:
+      - say: "Prochain épisode : l'ovogenèse, le dictyotène et les follicules, du primordial au follicule de Graaf."
+        show: "Ovogenèse · *dictyotène* · follicules"
+
+recap:
+  - "Frise du développement : période pré-embryonnaire (→ semaine 3 : fécondation, segmentation, implantation), embryonnaire (→ semaine 8 : gastrulation, neurulation, organogenèse), fœtale (→ 9e mois : développement fœtal)."
+  - "Cellules germinales primordiales (CGPs) : différenciation et multiplication dans l'embryon précoce (gastrulation) ; migration vers les gonades primitives, où elles stimulent les cellules somatiques de soutien ; différenciation du sexe à la 6e semaine (♂ CGPs → spermatogonies ; ♀ CGPs → ovogonies ; testicule ou ovaire)."
+  - "Spermatogenèse (spermatogonies → méiose → spermatozoïdes) : débute à la puberté, dans les tubules séminifères ; spermatogonies A dark (2n, cellules souches) → A pale (2n) → B (2n) → spermatocyte primaire (2n, ×2) → méiose 1 → spermatocytes secondaires (n, ×2) → méiose 2 → spermatides (n) → spermatozoïdes (n) ; cellules de Sertoli (somatiques) ; lame basale."
+  - "Spermiogenèse : condensation du noyau (protamines remplacent histones) ; vésicules du Golgi → acrosome (enzymes pour la pénétration de l'ovocyte) ; axonème (flagelle) à partir du centriole ; mitochondries → pièce intermédiaire (énergie) ; surplus de cytoplasme éliminé (lumière ou phagocytose par les Sertoli)."
+  - "Durée : divisions 16 jours ; méiose 1 24 jours ; méiose 2 quelques heures ; spermiogenèse 24 jours ; total 64 jours. 100 millions de spermatozoïdes par jour ; épididyme (achèvent la spermiogenèse) ; éjaculation : canal déférent, urètre, sécrétions nutritives ; capacitation dans les voies génitales de la femme."
+  - "Contrôle hormonal : puberté ↑ GnRH → FSH et LH ; FSH → cellules de Sertoli → spermatogenèse ; LH → cellules de Leydig → testostérone → spermatogenèse et caractères mâles ; rétroactions négatives : FSH → inhibine ⊣ GnRH et FSH ; LH → testostérone ⊣ GnRH et LH."
+
+traps:
+  - ["Période embryonnaire jusqu'à la semaine 3", "Pré-embryonnaire → sem. 3 ; embryonnaire → sem. 8 (frise S2-1 p.1)", "p.1b"]
+  - ["Différenciation du sexe à la 8e semaine", "6e semaine", "p.3h"]
+  - ["Spermatogenèse dès la naissance", "Débute à la puberté", "p.3b"]
+  - ["A pale = cellules souches", "A dark = cellules souches", "p.4"]
+  - ["Spermatocytes secondaires 2n", "n (×2)", "p.4"]
+  - ["Histones remplacent les protamines", "Protamines remplacent histones", "p.5h"]
+  - ["Total 74 jours", "16 + 24 + quelques heures + 24 = 64 jours", "p.5b"]
+  - ["LH → Sertoli", "FSH → Sertoli ; LH → Leydig (testostérone)", "p.6b"]
+
+mnemonics:
+  - ["Hormones", "FSH contient un S comme Sertoli ; LH commence par L comme Leydig", "FSH → inhibine ; LH → testostérone"]
+  - ["Durée", "16 + 24 + h + 24 = 64", "Méiose 2 = quelques heures"]
+  - ["Ordre cellulaire", "« Dark, Pale, B » puis « I, II, -tide, -zoïde »", "A dark → A pale → B → spermatocyte I → II → spermatide → spermatozoïde"]
+
+quiz:
+  - q: "Calendrier et cellules germinales :"
+    props:
+      - ["Selon la frise, la période pré-embryonnaire s'étend jusqu'à la semaine 3.", true, "p.1b."]
+      - ["La neurulation fait partie de la période embryonnaire.", true, "p.1b."]
+      - ["Les CGPs apparaissent lors de la neurulation.", false, "Embryon précoce (gastrulation)."]
+      - ["La différenciation du sexe a lieu à la 6e semaine.", true, "p.3h."]
+      - ["Chez la femelle, les CGPs deviennent des ovogonies.", true, "p.3h."]
+  - q: "Tubules séminifères et spermiogenèse :"
+    props:
+      - ["Les spermatogonies A dark sont les cellules souches.", true, "p.4."]
+      - ["Le spermatocyte primaire est haploïde.", false, "2n (×2)."]
+      - ["Les cellules de Sertoli sont des cellules somatiques.", true, "p.4."]
+      - ["L'acrosome dérive des vésicules du Golgi.", true, "p.5h."]
+      - ["L'axonème se forme à partir du centriole.", true, "p.5h."]
+  - q: "Durée et contrôle hormonal :"
+    props:
+      - ["La spermatogenèse dure au total 64 jours.", true, "p.5b."]
+      - ["La méiose 2 dure 24 jours.", false, "Quelques heures."]
+      - ["Les spermatozoïdes achèvent la spermiogenèse dans l'épididyme.", true, "p.6h."]
+      - ["La LH stimule les cellules de Leydig à produire la testostérone.", true, "p.6b."]
+      - ["L'inhibine inhibe la GnRH et la FSH.", true, "p.6b."]
+
+coverage:
+  - ["S2-1", "1h", "Titre Partie II", 0]
+  - ["S2-1", "1b", "Grandes étapes du développement : frise", 1]
+  - ["S2-1", "2h", "Cycle de développement (rappel)", 2]
+  - ["S2-1", "2b", "Sommaire gamétogenèse", 2]
+  - ["S2-1", "3h", "Origine des cellules germinales, CGPs, 6e semaine", 3]
+  - ["S2-1", "3b", "Spermatogenèse : puberté, tubules", 4]
+  - ["S2-1", "4", "Contenu des tubules séminifères", 5]
+  - ["S2-1", "5h", "Spermiogenèse", 6]
+  - ["S2-1", "5b", "Durée de la spermatogenèse : 64 jours", 7]
+  - ["S2-1", "6h", "100 millions/jour, épididyme, capacitation", 8]
+  - ["S2-1", "6b", "Contrôle hormonal", 9]

@@ -1,0 +1,175 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les solutions injectées aux
+Dialogue: 0,0:00:01.80,0:00:03.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}patients doivent être isotoniques
+Dialogue: 0,0:00:03.64,0:00:04.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par rapport au sang :
+Dialogue: 0,0:00:04.80,0:00:06.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le liquide physiologique,
+Dialogue: 0,0:00:06.53,0:00:08.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à 0,9 % de NaCl.
+Dialogue: 0,0:00:08.95,0:00:10.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sinon, l'eau entre ou sort des
+Dialogue: 0,0:00:10.26,0:00:10.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules.
+Dialogue: 0,0:00:11.06,0:00:12.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le passage des
+Dialogue: 0,0:00:12.72,0:00:14.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}substances, la diffusion simple
+Dialogue: 0,0:00:14.49,0:00:16.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et facilitée, puis l'osmose.
+Dialogue: 0,0:00:16.65,0:00:18.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y a un flux continuel de
+Dialogue: 0,0:00:18.14,0:00:19.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules entre la cellule et
+Dialogue: 0,0:00:19.73,0:00:21.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extérieur : capture de
+Dialogue: 0,0:00:21.05,0:00:23.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nutriments, ajustement du pH et
+Dialogue: 0,0:00:23.09,0:00:24.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des concentrations ioniques,
+Dialogue: 0,0:00:24.62,0:00:25.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrétion de substances.
+Dialogue: 0,0:00:26.34,0:00:27.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La bicouche, hydrophobe,
+Dialogue: 0,0:00:27.60,0:00:29.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}laisse passer les molécules
+Dialogue: 0,0:00:29.01,0:00:30.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apolaires, mais elle est
+Dialogue: 0,0:00:30.26,0:00:31.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}imperméable aux molécules
+Dialogue: 0,0:00:31.56,0:00:32.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires.
+Dialogue: 0,0:00:32.43,0:00:33.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'où trois modes de passage :
+Dialogue: 0,0:00:33.92,0:00:35.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la diffusion simple à travers la
+Dialogue: 0,0:00:35.58,0:00:37.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicouche, pour les molécules
+Dialogue: 0,0:00:37.02,0:00:37.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apolaires ;
+Dialogue: 0,0:00:37.73,0:00:39.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le transport par des protéines
+Dialogue: 0,0:00:39.24,0:00:40.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmembranaires,
+Dialogue: 0,0:00:40.14,0:00:41.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les molécules polaires et
+Dialogue: 0,0:00:41.65,0:00:42.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chargées ;
+Dialogue: 0,0:00:42.29,0:00:43.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'endocytose et l'exocytose,
+Dialogue: 0,0:00:43.96,0:00:45.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par repliement de la membrane,
+Dialogue: 0,0:00:45.58,0:00:47.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les grandes molécules.
+Dialogue: 0,0:00:47.17,0:00:48.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tout cela permet de réguler le
+Dialogue: 0,0:00:48.75,0:00:49.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passage.
+Dialogue: 0,0:00:49.73,0:00:50.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le schéma résume :
+Dialogue: 0,0:00:50.65,0:00:52.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O2 et CO2 passent directement ;
+Dialogue: 0,0:00:52.71,0:00:54.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau, les ions, le glucose
+Dialogue: 0,0:00:54.10,0:00:55.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passent par des protéines ;
+Dialogue: 0,0:00:55.49,0:00:56.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les grandes molécules et
+Dialogue: 0,0:00:56.72,0:00:58.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}particules, comme des nutriments,
+Dialogue: 0,0:00:58.42,0:00:59.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entrent par des vésicules.
+Dialogue: 0,0:00:59.90,0:01:01.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et c'est le même principe pour la sortie.
+Dialogue: 0,0:01:02.29,0:01:03.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Principe de la diffusion :
+Dialogue: 0,0:01:03.67,0:01:05.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les molécules et ions en solution
+Dialogue: 0,0:01:05.42,0:01:06.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont en mouvement constant,
+Dialogue: 0,0:01:06.86,0:01:08.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'où un mouvement net des régions
+Dialogue: 0,0:01:08.61,0:01:10.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus concentrées vers les moins
+Dialogue: 0,0:01:10.25,0:01:11.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentrées, jusqu'à
+Dialogue: 0,0:01:11.31,0:01:13.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'égalisation des concentrations.
+Dialogue: 0,0:01:13.46,0:01:15.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}diffusion{\c&HFFFFFF&} {\c&H66D1FF&}simple{\c&HFFFFFF&} concerne les
+Dialogue: 0,0:01:15.25,0:01:16.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules apolaires,
+Dialogue: 0,0:01:16.37,0:01:18.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}non chargées, capables de passer
+Dialogue: 0,0:01:18.16,0:01:19.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la bicouche : O2, CO2,
+Dialogue: 0,0:01:19.89,0:01:20.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hormones stéroïdes.
+Dialogue: 0,0:01:21.09,0:01:22.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle suit le gradient de
+Dialogue: 0,0:01:22.30,0:01:23.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentration, dans les deux sens
+Dialogue: 0,0:01:23.95,0:01:24.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}possibles.
+Dialogue: 0,0:01:25.01,0:01:26.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}diffusion{\c&HFFFFFF&} {\c&H66D1FF&}facilitée{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:26.32,0:01:27.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}que le cours appelle aussi
+Dialogue: 0,0:01:27.73,0:01:29.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport passif, suit également
+Dialogue: 0,0:01:29.47,0:01:31.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le gradient de concentration.
+Dialogue: 0,0:01:31.45,0:01:32.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle concerne les molécules
+Dialogue: 0,0:01:32.81,0:01:34.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires ou chargées qui ne
+Dialogue: 0,0:01:34.17,0:01:35.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passent pas la bicouche :
+Dialogue: 0,0:01:35.44,0:01:36.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ions, glucose, acides aminés.
+Dialogue: 0,0:01:37.04,0:01:38.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle passe par des protéines
+Dialogue: 0,0:01:38.43,0:01:40.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmembranaires de deux types,
+Dialogue: 0,0:01:40.02,0:01:41.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les canaux et les transporteurs.
+Dialogue: 0,0:01:41.75,0:01:42.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et elle ne requiert {\c&H66D1FF&}pas{\c&HFFFFFF&}
+Dialogue: 0,0:01:42.71,0:01:43.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie.
+Dialogue: 0,0:01:43.70,0:01:45.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les deux types de protéines de la
+Dialogue: 0,0:01:45.45,0:01:46.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diffusion facilitée.
+Dialogue: 0,0:01:46.91,0:01:48.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tous deux sont des protéines
+Dialogue: 0,0:01:48.23,0:01:49.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmembranaires.
+Dialogue: 0,0:01:49.22,0:01:50.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les canaux laissent circuler
+Dialogue: 0,0:01:50.68,0:01:52.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}librement les ions selon leur
+Dialogue: 0,0:01:52.18,0:01:53.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gradient ; les transporteurs,
+Dialogue: 0,0:01:53.69,0:01:54.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appelés perméases,
+Dialogue: 0,0:01:54.63,0:01:55.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}doivent d'abord fixer la
+Dialogue: 0,0:01:55.87,0:01:56.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécule.
+Dialogue: 0,0:01:56.74,0:01:58.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Conséquence : les transporteurs
+Dialogue: 0,0:01:58.35,0:01:59.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peuvent être saturés,
+Dialogue: 0,0:01:59.44,0:02:00.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur vitesse est limitée,
+Dialogue: 0,0:02:00.74,0:02:02.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme un tourniquet à l'entrée
+Dialogue: 0,0:02:02.30,0:02:02.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un stade.
+Dialogue: 0,0:02:03.27,0:02:05.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Spécificité : les canaux sont
+Dialogue: 0,0:02:05.03,0:02:06.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}souvent spécifiques d'un ion,
+Dialogue: 0,0:02:06.78,0:02:08.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}calcium, sodium, potassium,
+Dialogue: 0,0:02:08.42,0:02:10.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chlorure ; les transporteurs ont
+Dialogue: 0,0:02:10.36,0:02:11.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une grande spécificité :
+Dialogue: 0,0:02:11.81,0:02:13.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ions, glucose, acides aminés.
+Dialogue: 0,0:02:13.96,0:02:15.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et certains canaux sont
+Dialogue: 0,0:02:15.14,0:02:16.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}régulables, ouverts ou fermés ;
+Dialogue: 0,0:02:16.73,0:02:18.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les transporteurs peuvent
+Dialogue: 0,0:02:18.02,0:02:19.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctionner dans les deux sens.
+Dialogue: 0,0:02:20.17,0:02:21.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans une solution,
+Dialogue: 0,0:02:21.00,0:02:22.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les solutés comme les molécules
+Dialogue: 0,0:02:22.44,0:02:23.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'eau sont en mouvement.
+Dialogue: 0,0:02:23.96,0:02:24.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si deux solutions de
+Dialogue: 0,0:02:24.99,0:02:26.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentrations différentes sont
+Dialogue: 0,0:02:26.59,0:02:27.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparées par une membrane
+Dialogue: 0,0:02:27.88,0:02:29.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}semi-perméable{\c&HFFFFFF&} , perméable à
+Dialogue: 0,0:02:29.32,0:02:30.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau mais pas aux solutés,
+Dialogue: 0,0:02:30.72,0:02:32.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau migre vers la solution la
+Dialogue: 0,0:02:32.32,0:02:34.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}plus{\c&HFFFFFF&} {\c&H66D1FF&}concentrée{\c&HFFFFFF&} : c'est l' {\c&H66D1FF&}osmose{\c&HFFFFFF&} .
+Dialogue: 0,0:02:34.52,0:02:35.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}pression{\c&HFFFFFF&} {\c&H66D1FF&}osmotique{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:35.57,0:02:36.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la pression à appliquer
+Dialogue: 0,0:02:36.89,0:02:38.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour arrêter ce flux d'eau.
+Dialogue: 0,0:02:38.26,0:02:40.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La concentration osmotique dépend
+Dialogue: 0,0:02:40.08,0:02:41.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'ensemble des solutés.
+Dialogue: 0,0:02:41.92,0:02:43.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La solution la plus concentrée
+Dialogue: 0,0:02:43.65,0:02:44.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est {\c&H66D1FF&}hypertonique{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:44.68,0:02:46.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la moins concentrée {\c&H66D1FF&}hypotonique{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:46.58,0:02:48.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et deux solutions de même
+Dialogue: 0,0:02:48.02,0:02:49.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentration osmotique sont
+Dialogue: 0,0:02:49.63,0:02:50.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}isotoniques{\c&HFFFFFF&} .
+Dialogue: 0,0:02:50.94,0:02:52.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les solutions injectées aux
+Dialogue: 0,0:02:52.44,0:02:53.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}patients, par exemple les
+Dialogue: 0,0:02:53.83,0:02:55.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}perfusions, doivent être
+Dialogue: 0,0:02:55.17,0:02:57.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}isotoniques par rapport au sang :
+Dialogue: 0,0:02:57.00,0:02:58.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le liquide physiologique,
+Dialogue: 0,0:02:58.72,0:03:00.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}0,9{\c&HFFFFFF&} {\c&H66D1FF&}%{\c&HFFFFFF&} de NaCl.
+Dialogue: 0,0:03:01.45,0:03:02.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'eau diffuse mal à travers la
+Dialogue: 0,0:03:02.96,0:03:03.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicouche.
+Dialogue: 0,0:03:03.55,0:03:05.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}aquaporines{\c&HFFFFFF&} sont des canaux
+Dialogue: 0,0:03:05.27,0:03:06.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéiques qui facilitent son
+Dialogue: 0,0:03:06.89,0:03:08.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passage : c'est une diffusion
+Dialogue: 0,0:03:08.51,0:03:09.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facilitée.
+Dialogue: 0,0:03:09.20,0:03:10.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles assurent d'importants flux
+Dialogue: 0,0:03:10.59,0:03:11.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'eau dans certains organes,
+Dialogue: 0,0:03:11.80,0:03:12.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme le rein.
+Dialogue: 0,0:03:12.80,0:03:14.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un dysfonctionnement de
+Dialogue: 0,0:03:14.05,0:03:16.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'aquaporine {\c&H66D1FF&}AQP2{\c&HFFFFFF&} est à l'origine
+Dialogue: 0,0:03:16.18,0:03:17.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une forme de {\c&H66D1FF&}diabète{\c&HFFFFFF&} {\c&H66D1FF&}insipide{\c&HFFFFFF&} :
+Dialogue: 0,0:03:17.98,0:03:19.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une production abondante d'urine
+Dialogue: 0,0:03:19.72,0:03:21.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diluée, jusqu'à dix litres par
+Dialogue: 0,0:03:21.36,0:03:23.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jour, par manque de réabsorption
+Dialogue: 0,0:03:23.10,0:03:24.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'eau dans les reins.
+Dialogue: 0,0:03:24.81,0:03:25.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:26.04,0:03:27.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“En osmose, l'eau va vers la
+Dialogue: 0,0:03:27.47,0:03:29.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}solution la moins concentrée” :
+Dialogue: 0,0:03:29.06,0:03:30.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, vers la plus concentrée,
+Dialogue: 0,0:03:30.64,0:03:31.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hypertonique.
+Dialogue: 0,0:03:31.84,0:03:33.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La diffusion facilitée consomme
+Dialogue: 0,0:03:33.43,0:03:34.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'ATP” : faux, elle ne
+Dialogue: 0,0:03:34.77,0:03:35.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}requiert pas d'énergie.
+Dialogue: 0,0:03:36.35,0:03:38.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les canaux peuvent être saturés
+Dialogue: 0,0:03:38.01,0:03:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les transporteurs” :
+Dialogue: 0,0:03:39.35,0:03:41.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}non, c'est la fixation propre aux
+Dialogue: 0,0:03:41.12,0:03:42.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transporteurs qui explique la
+Dialogue: 0,0:03:42.67,0:03:43.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saturation.
+Dialogue: 0,0:03:43.82,0:03:45.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:49.60,0:03:50.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A.
+Dialogue: 0,0:03:50.53,0:03:51.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glucose, polaire,
+Dialogue: 0,0:03:51.68,0:03:53.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passe par diffusion facilitée ;
+Dialogue: 0,0:03:53.45,0:03:55.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le liquide physiologique est à
+Dialogue: 0,0:03:55.17,0:03:58.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}0,9 % ; et les aquaporines font
+Dialogue: 0,0:03:58.20,0:03:59.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une diffusion facilitée.
+Dialogue: 0,0:04:00.13,0:04:01.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:01.08,0:04:02.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}remonter le courant.
+Dialogue: 0,0:04:02.27,0:04:04.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La pompe sodium potassium et le
+Dialogue: 0,0:04:04.12,0:04:05.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}co-transporteur sodium-glucose.

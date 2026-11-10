@@ -1,0 +1,647 @@
+1
+00:00:00,300 --> 00:00:01,800
+Les solutions injectées aux
+
+2
+00:00:01,800 --> 00:00:03,635
+patients doivent être isotoniques
+
+3
+00:00:03,635 --> 00:00:04,802
+par rapport au sang :
+
+4
+00:00:04,802 --> 00:00:06,525
+c'est le liquide physiologique,
+
+5
+00:00:06,525 --> 00:00:08,805
+à 0,9 % de NaCl.
+
+6
+00:00:08,945 --> 00:00:10,263
+Sinon, l'eau entre ou sort des
+
+7
+00:00:10,263 --> 00:00:10,659
+cellules.
+
+8
+00:00:11,059 --> 00:00:12,718
+Au programme : le passage des
+
+9
+00:00:12,718 --> 00:00:14,491
+substances, la diffusion simple
+
+10
+00:00:14,491 --> 00:00:16,093
+et facilitée, puis l'osmose.
+
+11
+00:00:16,653 --> 00:00:18,137
+Il y a un flux continuel de
+
+12
+00:00:18,137 --> 00:00:19,731
+molécules entre la cellule et
+
+13
+00:00:19,731 --> 00:00:21,051
+l'extérieur : capture de
+
+14
+00:00:21,051 --> 00:00:23,085
+nutriments, ajustement du pH et
+
+15
+00:00:23,085 --> 00:00:24,624
+des concentrations ioniques,
+
+16
+00:00:24,624 --> 00:00:25,943
+sécrétion de substances.
+
+17
+00:00:26,343 --> 00:00:27,596
+La bicouche, hydrophobe,
+
+18
+00:00:27,596 --> 00:00:29,006
+laisse passer les molécules
+
+19
+00:00:29,006 --> 00:00:30,259
+apolaires, mais elle est
+
+20
+00:00:30,259 --> 00:00:31,564
+imperméable aux molécules
+
+21
+00:00:31,564 --> 00:00:32,034
+polaires.
+
+22
+00:00:32,434 --> 00:00:33,781
+D'où trois modes de passage :
+
+23
+00:00:33,921 --> 00:00:35,575
+la diffusion simple à travers la
+
+24
+00:00:35,575 --> 00:00:37,023
+bicouche, pour les molécules
+
+25
+00:00:37,023 --> 00:00:37,591
+apolaires ;
+
+26
+00:00:37,731 --> 00:00:39,237
+le transport par des protéines
+
+27
+00:00:39,237 --> 00:00:40,141
+transmembranaires,
+
+28
+00:00:40,141 --> 00:00:41,646
+pour les molécules polaires et
+
+29
+00:00:41,646 --> 00:00:42,148
+chargées ;
+
+30
+00:00:42,288 --> 00:00:43,960
+et l'endocytose et l'exocytose,
+
+31
+00:00:43,960 --> 00:00:45,577
+par repliement de la membrane,
+
+32
+00:00:45,577 --> 00:00:47,033
+pour les grandes molécules.
+
+33
+00:00:47,173 --> 00:00:48,748
+Tout cela permet de réguler le
+
+34
+00:00:48,748 --> 00:00:49,168
+passage.
+
+35
+00:00:49,728 --> 00:00:50,653
+Le schéma résume :
+
+36
+00:00:50,653 --> 00:00:52,710
+O2 et CO2 passent directement ;
+
+37
+00:00:52,710 --> 00:00:54,099
+l'eau, les ions, le glucose
+
+38
+00:00:54,099 --> 00:00:55,487
+passent par des protéines ;
+
+39
+00:00:55,487 --> 00:00:56,721
+les grandes molécules et
+
+40
+00:00:56,721 --> 00:00:58,418
+particules, comme des nutriments,
+
+41
+00:00:58,418 --> 00:00:59,755
+entrent par des vésicules.
+
+42
+00:00:59,895 --> 00:01:01,733
+Et c'est le même principe pour la sortie.
+
+43
+00:01:02,293 --> 00:01:03,673
+Principe de la diffusion :
+
+44
+00:01:03,673 --> 00:01:05,424
+les molécules et ions en solution
+
+45
+00:01:05,424 --> 00:01:06,857
+sont en mouvement constant,
+
+46
+00:01:06,857 --> 00:01:08,607
+d'où un mouvement net des régions
+
+47
+00:01:08,607 --> 00:01:10,252
+plus concentrées vers les moins
+
+48
+00:01:10,252 --> 00:01:11,313
+concentrées, jusqu'à
+
+49
+00:01:11,313 --> 00:01:13,064
+l'égalisation des concentrations.
+
+50
+00:01:13,464 --> 00:01:15,252
+La diffusion simple concerne les
+
+51
+00:01:15,252 --> 00:01:16,370
+molécules apolaires,
+
+52
+00:01:16,370 --> 00:01:18,158
+non chargées, capables de passer
+
+53
+00:01:18,158 --> 00:01:19,890
+la bicouche : O2, CO2,
+
+54
+00:01:19,890 --> 00:01:20,951
+hormones stéroïdes.
+
+55
+00:01:21,091 --> 00:01:22,295
+Elle suit le gradient de
+
+56
+00:01:22,295 --> 00:01:23,950
+concentration, dans les deux sens
+
+57
+00:01:23,950 --> 00:01:24,452
+possibles.
+
+58
+00:01:25,012 --> 00:01:26,317
+La diffusion facilitée ,
+
+59
+00:01:26,317 --> 00:01:27,730
+que le cours appelle aussi
+
+60
+00:01:27,730 --> 00:01:29,470
+transport passif, suit également
+
+61
+00:01:29,470 --> 00:01:31,047
+le gradient de concentration.
+
+62
+00:01:31,447 --> 00:01:32,811
+Elle concerne les molécules
+
+63
+00:01:32,811 --> 00:01:34,174
+polaires ou chargées qui ne
+
+64
+00:01:34,174 --> 00:01:35,437
+passent pas la bicouche :
+
+65
+00:01:35,437 --> 00:01:36,901
+ions, glucose, acides aminés.
+
+66
+00:01:37,041 --> 00:01:38,431
+Elle passe par des protéines
+
+67
+00:01:38,431 --> 00:01:40,019
+transmembranaires de deux types,
+
+68
+00:01:40,019 --> 00:01:41,607
+les canaux et les transporteurs.
+
+69
+00:01:41,747 --> 00:01:42,714
+Et elle ne requiert pas
+
+70
+00:01:42,714 --> 00:01:43,135
+d'énergie.
+
+71
+00:01:43,695 --> 00:01:45,446
+Les deux types de protéines de la
+
+72
+00:01:45,446 --> 00:01:46,508
+diffusion facilitée.
+
+73
+00:01:46,908 --> 00:01:48,230
+Tous deux sont des protéines
+
+74
+00:01:48,230 --> 00:01:49,080
+transmembranaires.
+
+75
+00:01:49,220 --> 00:01:50,676
+Les canaux laissent circuler
+
+76
+00:01:50,676 --> 00:01:52,183
+librement les ions selon leur
+
+77
+00:01:52,183 --> 00:01:53,690
+gradient ; les transporteurs,
+
+78
+00:01:53,690 --> 00:01:54,626
+appelés perméases,
+
+79
+00:01:54,626 --> 00:01:55,873
+doivent d'abord fixer la
+
+80
+00:01:55,873 --> 00:01:56,341
+molécule.
+
+81
+00:01:56,741 --> 00:01:58,352
+Conséquence : les transporteurs
+
+82
+00:01:58,352 --> 00:01:59,443
+peuvent être saturés,
+
+83
+00:01:59,443 --> 00:02:00,741
+leur vitesse est limitée,
+
+84
+00:02:00,741 --> 00:02:02,300
+comme un tourniquet à l'entrée
+
+85
+00:02:02,300 --> 00:02:02,871
+d'un stade.
+
+86
+00:02:03,271 --> 00:02:05,027
+Spécificité : les canaux sont
+
+87
+00:02:05,027 --> 00:02:06,783
+souvent spécifiques d'un ion,
+
+88
+00:02:06,783 --> 00:02:08,418
+calcium, sodium, potassium,
+
+89
+00:02:08,418 --> 00:02:10,355
+chlorure ; les transporteurs ont
+
+90
+00:02:10,355 --> 00:02:11,808
+une grande spécificité :
+
+91
+00:02:11,808 --> 00:02:13,564
+ions, glucose, acides aminés.
+
+92
+00:02:13,964 --> 00:02:15,144
+Et certains canaux sont
+
+93
+00:02:15,144 --> 00:02:16,734
+régulables, ouverts ou fermés ;
+
+94
+00:02:16,734 --> 00:02:18,016
+les transporteurs peuvent
+
+95
+00:02:18,016 --> 00:02:19,607
+fonctionner dans les deux sens.
+
+96
+00:02:20,167 --> 00:02:21,002
+Dans une solution,
+
+97
+00:02:21,002 --> 00:02:22,441
+les solutés comme les molécules
+
+98
+00:02:22,441 --> 00:02:23,555
+d'eau sont en mouvement.
+
+99
+00:02:23,955 --> 00:02:24,987
+Si deux solutions de
+
+100
+00:02:24,987 --> 00:02:26,587
+concentrations différentes sont
+
+101
+00:02:26,587 --> 00:02:27,877
+séparées par une membrane
+
+102
+00:02:27,877 --> 00:02:29,322
+semi-perméable , perméable à
+
+103
+00:02:29,322 --> 00:02:30,716
+l'eau mais pas aux solutés,
+
+104
+00:02:30,716 --> 00:02:32,316
+l'eau migre vers la solution la
+
+105
+00:02:32,316 --> 00:02:34,122
+plus concentrée : c'est l' osmose .
+
+106
+00:02:34,522 --> 00:02:35,569
+La pression osmotique ,
+
+107
+00:02:35,569 --> 00:02:36,889
+c'est la pression à appliquer
+
+108
+00:02:36,889 --> 00:02:38,118
+pour arrêter ce flux d'eau.
+
+109
+00:02:38,258 --> 00:02:40,083
+La concentration osmotique dépend
+
+110
+00:02:40,083 --> 00:02:41,521
+de l'ensemble des solutés.
+
+111
+00:02:41,921 --> 00:02:43,648
+La solution la plus concentrée
+
+112
+00:02:43,648 --> 00:02:44,684
+est hypertonique ,
+
+113
+00:02:44,684 --> 00:02:46,584
+la moins concentrée hypotonique ,
+
+114
+00:02:46,584 --> 00:02:48,023
+et deux solutions de même
+
+115
+00:02:48,023 --> 00:02:49,634
+concentration osmotique sont
+
+116
+00:02:49,634 --> 00:02:50,382
+isotoniques .
+
+117
+00:02:50,942 --> 00:02:52,443
+Les solutions injectées aux
+
+118
+00:02:52,443 --> 00:02:53,833
+patients, par exemple les
+
+119
+00:02:53,833 --> 00:02:55,167
+perfusions, doivent être
+
+120
+00:02:55,167 --> 00:02:57,001
+isotoniques par rapport au sang :
+
+121
+00:02:57,001 --> 00:02:58,724
+c'est le liquide physiologique,
+
+122
+00:02:58,724 --> 00:03:00,892
+0,9 % de NaCl.
+
+123
+00:03:01,452 --> 00:03:02,956
+L'eau diffuse mal à travers la
+
+124
+00:03:02,956 --> 00:03:03,407
+bicouche.
+
+125
+00:03:03,547 --> 00:03:05,274
+Les aquaporines sont des canaux
+
+126
+00:03:05,274 --> 00:03:06,889
+protéiques qui facilitent son
+
+127
+00:03:06,889 --> 00:03:08,505
+passage : c'est une diffusion
+
+128
+00:03:08,505 --> 00:03:09,062
+facilitée.
+
+129
+00:03:09,202 --> 00:03:10,585
+Elles assurent d'importants flux
+
+130
+00:03:10,585 --> 00:03:11,795
+d'eau dans certains organes,
+
+131
+00:03:11,795 --> 00:03:12,400
+comme le rein.
+
+132
+00:03:12,800 --> 00:03:14,054
+Un dysfonctionnement de
+
+133
+00:03:14,054 --> 00:03:16,180
+l'aquaporine AQP2 est à l'origine
+
+134
+00:03:16,180 --> 00:03:17,979
+d'une forme de diabète insipide :
+
+135
+00:03:17,979 --> 00:03:19,723
+une production abondante d'urine
+
+136
+00:03:19,723 --> 00:03:21,359
+diluée, jusqu'à dix litres par
+
+137
+00:03:21,359 --> 00:03:23,103
+jour, par manque de réabsorption
+
+138
+00:03:23,103 --> 00:03:24,248
+d'eau dans les reins.
+
+139
+00:03:24,808 --> 00:03:25,644
+Trois pièges.
+
+140
+00:03:26,044 --> 00:03:27,471
+“En osmose, l'eau va vers la
+
+141
+00:03:27,471 --> 00:03:29,057
+solution la moins concentrée” :
+
+142
+00:03:29,057 --> 00:03:30,642
+faux, vers la plus concentrée,
+
+143
+00:03:30,642 --> 00:03:31,435
+l'hypertonique.
+
+144
+00:03:31,835 --> 00:03:33,429
+“La diffusion facilitée consomme
+
+145
+00:03:33,429 --> 00:03:34,766
+de l'ATP” : faux, elle ne
+
+146
+00:03:34,766 --> 00:03:35,949
+requiert pas d'énergie.
+
+147
+00:03:36,349 --> 00:03:38,010
+“Les canaux peuvent être saturés
+
+148
+00:03:38,010 --> 00:03:39,349
+comme les transporteurs” :
+
+149
+00:03:39,349 --> 00:03:41,118
+non, c'est la fixation propre aux
+
+150
+00:03:41,118 --> 00:03:42,672
+transporteurs qui explique la
+
+151
+00:03:42,672 --> 00:03:43,261
+saturation.
+
+152
+00:03:43,821 --> 00:03:45,201
+Quiz : laquelle est exacte ?
+
+153
+00:03:49,601 --> 00:03:50,394
+Réponse A.
+
+154
+00:03:50,534 --> 00:03:51,678
+Le glucose, polaire,
+
+155
+00:03:51,678 --> 00:03:53,451
+passe par diffusion facilitée ;
+
+156
+00:03:53,451 --> 00:03:55,166
+le liquide physiologique est à
+
+157
+00:03:55,166 --> 00:03:58,197
+0,9 % ; et les aquaporines font
+
+158
+00:03:58,197 --> 00:03:59,570
+une diffusion facilitée.
+
+159
+00:04:00,130 --> 00:04:01,079
+Prochain épisode :
+
+160
+00:04:01,079 --> 00:04:02,133
+remonter le courant.
+
+161
+00:04:02,273 --> 00:04:04,117
+La pompe sodium potassium et le
+
+162
+00:04:04,117 --> 00:04:05,961
+co-transporteur sodium-glucose.

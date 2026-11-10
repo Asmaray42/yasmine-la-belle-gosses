@@ -1,0 +1,130 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vingt-quatre heures avant
+Dialogue: 0,0:00:01.54,0:00:02.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'accouchement, les cellules
+Dialogue: 0,0:00:02.94,0:00:04.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}musculaires de l'utérus
+Dialogue: 0,0:00:04.08,0:00:05.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}multiplient de minuscules canaux
+Dialogue: 0,0:00:05.67,0:00:06.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre elles.
+Dialogue: 0,0:00:06.41,0:00:07.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : une contraction
+Dialogue: 0,0:00:07.77,0:00:08.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}coordonnée.
+Dialogue: 0,0:00:08.75,0:00:10.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les trois types de
+Dialogue: 0,0:00:10.29,0:00:11.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jonctions cellulaires,
+Dialogue: 0,0:00:11.32,0:00:12.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et leurs protéines.
+Dialogue: 0,0:00:12.76,0:00:14.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Huitième point du chapitre trois.
+Dialogue: 0,0:00:14.53,0:00:15.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans les organismes
+Dialogue: 0,0:00:15.57,0:00:17.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pluricellulaires, la plupart des
+Dialogue: 0,0:00:17.32,0:00:19.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules s'associent avec leurs
+Dialogue: 0,0:00:19.02,0:00:20.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}voisines, en contact permanent,
+Dialogue: 0,0:00:20.71,0:00:22.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour former un tissu structuré.
+Dialogue: 0,0:00:22.55,0:00:24.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : un épithélium dans le rein.
+Dialogue: 0,0:00:24.88,0:00:26.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les connexions qui les relient
+Dialogue: 0,0:00:26.18,0:00:27.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}durablement s'appellent les
+Dialogue: 0,0:00:27.35,0:00:28.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}jonctions{\c&HFFFFFF&} {\c&H66D1FF&}cellulaires{\c&HFFFFFF&} .
+Dialogue: 0,0:00:28.91,0:00:30.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois types : la jonction
+Dialogue: 0,0:00:30.30,0:00:32.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}étanche, la jonction adhérente,
+Dialogue: 0,0:00:32.02,0:00:33.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la jonction communicante.
+Dialogue: 0,0:00:33.55,0:00:34.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et elles peuvent coexister au
+Dialogue: 0,0:00:34.79,0:00:35.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sein d'une même cellule.
+Dialogue: 0,0:00:36.37,0:00:37.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}jonction{\c&HFFFFFF&} {\c&H66D1FF&}étanche{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:37.42,0:00:38.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aussi appelée jonction serrée,
+Dialogue: 0,0:00:38.91,0:00:39.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou {\c&H66D1FF&}zona{\c&HFFFFFF&} {\c&H66D1FF&}occludens{\c&HFFFFFF&} .
+Dialogue: 0,0:00:40.26,0:00:41.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle est constituée d'un
+Dialogue: 0,0:00:41.49,0:00:42.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}assemblage de protéines
+Dialogue: 0,0:00:42.67,0:00:44.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranaires, par exemple les
+Dialogue: 0,0:00:44.16,0:00:45.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}claudines{\c&HFFFFFF&} , qui induisent une
+Dialogue: 0,0:00:45.65,0:00:46.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fusion partielle des deux
+Dialogue: 0,0:00:46.93,0:00:47.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranes contiguës.
+Dialogue: 0,0:00:48.10,0:00:49.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle assure une étanchéité,
+Dialogue: 0,0:00:49.49,0:00:51.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}même pour les petites molécules.
+Dialogue: 0,0:00:51.71,0:00:52.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}jonction{\c&HFFFFFF&} {\c&H66D1FF&}adhérente{\c&HFFFFFF&} :
+Dialogue: 0,0:00:52.97,0:00:54.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines transmembranaires,
+Dialogue: 0,0:00:54.72,0:00:56.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}cadhérines{\c&HFFFFFF&} , associées côté
+Dialogue: 0,0:00:56.41,0:00:57.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytoplasme à une plaque
+Dialogue: 0,0:00:57.67,0:00:59.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéique, elle-même rattachée
+Dialogue: 0,0:00:59.31,0:01:00.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux microfilaments d' {\c&H66D1FF&}actine{\c&HFFFFFF&} .
+Dialogue: 0,0:01:01.35,0:01:02.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cadhérines s'associent entre
+Dialogue: 0,0:01:02.99,0:01:04.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles : un attachement entre
+Dialogue: 0,0:01:04.42,0:01:05.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules, connecté au
+Dialogue: 0,0:01:05.50,0:01:06.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosquelette.
+Dialogue: 0,0:01:06.61,0:01:08.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}desmosome{\c&HFFFFFF&} est une variante
+Dialogue: 0,0:01:08.17,0:01:09.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus rigide, surtout dans
+Dialogue: 0,0:01:09.51,0:01:10.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épiderme et le cœur.
+Dialogue: 0,0:01:10.83,0:01:12.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa plaque contient une protéine
+Dialogue: 0,0:01:12.58,0:01:14.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifique, la {\c&H66D1FF&}desmoplakine{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:14.23,0:01:15.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui la rattache aux {\c&H66D1FF&}filaments{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.87,0:01:17.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}intermédiaires{\c&HFFFFFF&} , kératine et
+Dialogue: 0,0:01:17.46,0:01:18.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vimentine.
+Dialogue: 0,0:01:18.59,0:01:20.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une maladie héréditaire rare :
+Dialogue: 0,0:01:20.33,0:01:22.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la kératodermie palmoplantaire
+Dialogue: 0,0:01:22.07,0:01:23.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}striée héréditaire,
+Dialogue: 0,0:01:23.17,0:01:24.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}due à un défaut de la
+Dialogue: 0,0:01:24.39,0:01:25.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}desmoplakine.
+Dialogue: 0,0:01:25.54,0:01:27.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les symptômes apparaissent chez
+Dialogue: 0,0:01:27.05,0:01:28.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'enfant : épaississement et
+Dialogue: 0,0:01:28.41,0:01:30.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fissures de la peau des paumes et
+Dialogue: 0,0:01:30.02,0:01:31.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des plantes de pieds,
+Dialogue: 0,0:01:31.04,0:01:32.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cheveux d'aspect laineux,
+Dialogue: 0,0:01:32.26,0:01:33.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et risque d'affections
+Dialogue: 0,0:01:33.33,0:01:33.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cardiaques.
+Dialogue: 0,0:01:34.42,0:01:36.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}jonctions{\c&HFFFFFF&} {\c&H66D1FF&}communicantes{\c&HFFFFFF&} sont
+Dialogue: 0,0:01:36.03,0:01:37.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faites de complexes protéiques
+Dialogue: 0,0:01:37.54,0:01:38.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmembranaires,
+Dialogue: 0,0:01:38.44,0:01:39.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}connexons{\c&HFFFFFF&} , qui forment de
+Dialogue: 0,0:01:39.95,0:01:40.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}petits canaux.
+Dialogue: 0,0:01:40.79,0:01:42.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une jonction s'établit quand deux
+Dialogue: 0,0:01:42.62,0:01:43.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}connexons se font face :
+Dialogue: 0,0:01:43.95,0:01:46.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le canal fait 1,5 nanomètre de
+Dialogue: 0,0:01:46.29,0:01:46.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diamètre.
+Dialogue: 0,0:01:47.18,0:01:48.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles laissent circuler de
+Dialogue: 0,0:01:48.51,0:01:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}petites molécules entre deux
+Dialogue: 0,0:01:49.93,0:01:50.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules voisines,
+Dialogue: 0,0:01:50.85,0:01:51.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ions, acides aminés,
+Dialogue: 0,0:01:51.86,0:01:53.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sucres, mais {\c&H66D1FF&}pas{\c&HFFFFFF&} les protéines.
+Dialogue: 0,0:01:53.58,0:01:55.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles peuvent servir à propager
+Dialogue: 0,0:01:55.19,0:01:56.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une signalisation dans un tissu.
+Dialogue: 0,0:01:57.40,0:01:58.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'exemple de l'utérus,
+Dialogue: 0,0:01:58.57,0:01:59.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en trois temps.
+Dialogue: 0,0:01:59.76,0:02:00.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant la gestation,
+Dialogue: 0,0:02:00.83,0:02:02.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules musculaires de
+Dialogue: 0,0:02:02.19,0:02:03.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'utérus ont peu de connexons.
+Dialogue: 0,0:02:04.11,0:02:05.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vingt-quatre heures avant
+Dialogue: 0,0:02:05.34,0:02:06.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'accouchement, le nombre de
+Dialogue: 0,0:02:06.71,0:02:07.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}connexons augmente.
+Dialogue: 0,0:02:08.04,0:02:09.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant l'accouchement :
+Dialogue: 0,0:02:09.37,0:02:11.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la contractilité est coordonnée,
+Dialogue: 0,0:02:11.14,0:02:12.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la contraction utérine se
+Dialogue: 0,0:02:12.52,0:02:12.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}propage.
+Dialogue: 0,0:02:13.52,0:02:14.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège : associer la bonne
+Dialogue: 0,0:02:14.95,0:02:16.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine à la bonne jonction.
+Dialogue: 0,0:02:16.83,0:02:17.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Claudines : étanche.
+Dialogue: 0,0:02:18.01,0:02:19.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cadhérines : adhérente.
+Dialogue: 0,0:02:19.36,0:02:20.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Desmoplakine : desmosome.
+Dialogue: 0,0:02:21.07,0:02:22.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Connexons : communicante.
+Dialogue: 0,0:02:22.81,0:02:24.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La jonction adhérente se
+Dialogue: 0,0:02:24.06,0:02:25.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rattache aux filaments
+Dialogue: 0,0:02:25.20,0:02:26.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intermédiaires” : faux,
+Dialogue: 0,0:02:26.34,0:02:26.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'actine.
+Dialogue: 0,0:02:27.05,0:02:28.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le desmosome qui se
+Dialogue: 0,0:02:28.30,0:02:29.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rattache aux filaments
+Dialogue: 0,0:02:29.39,0:02:30.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intermédiaires.
+Dialogue: 0,0:02:30.70,0:02:32.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:36.48,0:02:37.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:02:37.44,0:02:39.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines ne passent pas,
+Dialogue: 0,0:02:39.01,0:02:40.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le desmosome contient la
+Dialogue: 0,0:02:40.32,0:02:42.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}desmoplakine, et les trois types
+Dialogue: 0,0:02:42.05,0:02:43.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peuvent coexister.
+Dialogue: 0,0:02:43.59,0:02:44.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:44.55,0:02:45.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la membrane plasmique,
+Dialogue: 0,0:02:45.72,0:02:47.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ses quatre composants et les
+Dialogue: 0,0:02:47.22,0:02:48.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctions de ses protéines.

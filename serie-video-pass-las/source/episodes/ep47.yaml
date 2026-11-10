@@ -1,0 +1,227 @@
+title: "Segmentation, blastocyste et implantation"
+subtitle: "Morula · trophoblaste · blastocèle · épiblaste/hypoblaste · éclosion · fenêtre d'implantation"
+source: "S2-1 p.19 à 22h"
+chapter: "Partie II — II. Fécondation, segmentation, implantation — 4 et 5"
+objectives:
+  - "Résumer le passage ovogonie → ovocyte → ovule."
+  - "Décrire la segmentation : morula (~30 cellules à 96 h), trophoblaste, blastocèle, masse cellulaire interne, blastocyste (J5)."
+  - "Décrire l'éclosion et la différenciation épiblaste / hypoblaste ; légender la figure."
+  - "Donner le calendrier de la migration et de l'implantation, et décrire la fenêtre d'implantation (6 à 9 jours après l'ovulation)."
+
+scenes:
+  - kind: hook
+    title: "Le jour 6"
+    ref: "S2-1 p.21"
+    big: "J6"
+    beats:
+      - say: "Jour cinq : un blastocyste. Jour six : il s'enfonce dans la paroi de l'utérus. Mais seulement si l'endomètre est prêt."
+      - say: "Au programme : la segmentation, le blastocyste, l'éclosion, la migration, et la fenêtre d'implantation."
+        show: "Morula · *blastocyste* · éclosion · *fenêtre d'implantation*"
+
+  - kind: figure
+    title: "Ovogonie – ovocyte – ovule : en résumé"
+    ref: "S2-1 p.19h"
+    fig: "S2-1:19h"
+    beats:
+      - say: "Le résumé de l'ovogenèse : l'ovogonie devient ovocyte primaire, bloqué en dictyotène ; au pic de L H, il donne l'ovocyte secondaire et le premier globule polaire, bloqué en métaphase deux ; et à la fécondation, l'ovule et le deuxième globule polaire."
+        show: "Ovogonie → *ovocyte I* (dictyotène) → *ovocyte II* (métaphase 2) → *ovule* + 2e GP"
+
+  - kind: figure
+    title: "La segmentation"
+    ref: "S2-1 p.19b"
+    fig: "S2-1:19b"
+    trap: "Morula ~30 cellules après 96 h ; blastocyste au jour 5, encore dans la zone pellucide."
+    beats:
+      - say: "Des divisions rapides donnent une *morula*, d'environ *trente cellules*, ou blastomères, après *quatre-vingt-seize heures*. Chaque nouvelle cellule est deux fois plus petite que la cellule mère."
+        mark: ["morula", "96 heures"]
+        show: "*Morula* : ~*30* blastomères à *96 h* · cellules 2× plus petites"
+      - say: "Dans la morula, les cellules périphériques s'aplatissent : c'est le *trophoblaste*, futur placenta. Leurs jonctions serrées et adhérentes forment une capsule étanche."
+        mark: ["trophoblaste", "jonctions serrées"]
+        show: "Périphérie aplatie → *trophoblaste* (placenta) · jonctions → capsule *étanche*"
+      - say: "Le *blastocèle* se remplit de liquide, grâce à la pompe sodium potassium du trophoblaste."
+        mark: ["blastocèle", "pompe Na/K"]
+        show: "*Blastocèle* : liquide (pompe *Na⁺/K⁺* du trophoblaste)"
+      - say: "La *masse cellulaire interne* formera l'embryon proprement dit. On distingue un pôle embryonnaire et un pôle abembryonnaire. C'est le *blastocyste*, au *jour cinq*, encore entouré de la zone pellucide."
+        mark: ["Masse cellulaire interne", "Blastocyste (jour 5)"]
+        show: "*Masse cellulaire interne* (embryon) · pôles · *blastocyste* (*J5*)"
+
+  - kind: figure
+    title: "Les pôles du blastocyste"
+    ref: "S2-1 p.20h"
+    fig: "S2-1:20h"
+    beats:
+      - say: "Le pôle *embryonnaire*, du côté de la masse cellulaire interne ; le pôle *abembryonnaire*, à l'opposé, du côté du blastocèle."
+        mark: ["Pôle embryonnaire", "abembryonnaire"]
+        show: "Pôle *embryonnaire* (masse interne) · pôle *abembryonnaire* (opposé)"
+
+  - kind: figure
+    title: "L'éclosion du blastocyste"
+    ref: "S2-1 p.20b"
+    fig: "S2-1:20b"
+    trap: "Épiblaste CONTRE le trophoblaste ; hypoblaste CÔTÉ blastocèle."
+    beats:
+      - say: "L'*éclosion* : le blastocyste rompt la zone pellucide et s'en extrait, grâce à des protéases et des projections cytoplasmiques du trophoblaste."
+        mark: "Eclosion"
+        show: "*Éclosion* : protéases + projections du trophoblaste"
+      - say: "La masse cellulaire interne se différencie : l'*épiblaste*, contre le trophoblaste ; et l'*hypoblaste*, du côté du blastocèle."
+        mark: ["épiblaste", "hypoblaste"]
+        show: "*Épiblaste* : contre le trophoblaste · *hypoblaste* : côté blastocèle"
+      - say: "Légendes : un, la zone pellucide ; deux, le trophoblaste ; trois, l'hypoblaste ; quatre, le blastocèle ; cinq, l'épiblaste."
+        mark: ["1) Zone pellucide", "5) Epiblaste"]
+        show: "1 zone pellucide · 2 trophoblaste · 3 *hypoblaste* · 4 blastocèle · 5 *épiblaste*"
+
+  - kind: figure
+    title: "Migration durant la segmentation"
+    ref: "S2-1 p.21h"
+    fig: "S2-1:21h"
+    trap: "Blastocyste dans l'utérus J4-5 ; éclosion J5-6 ; implantation J6."
+    beats:
+      - say: "Pendant la segmentation, l'embryon migre de l'ampoule, lieu de la fécondation, vers la cavité utérine, où arrive le blastocyste aux jours quatre à cinq."
+        mark: ["ampoule", "jour 4-5"]
+        show: "Ampoule (fécondation) → cavité utérine (blastocyste *J4-5*)"
+      - say: "Éclosion aux jours cinq à six ; implantation au jour six."
+        mark: ["éclosion (jour 5-6)", "implantation (jour 6)"]
+        show: "Éclosion *J5-6* · implantation *J6*"
+
+  - kind: figure
+    title: "Implantation de l'embryon"
+    ref: "S2-1 p.21b"
+    fig: "S2-1:21b"
+    beats:
+      - say: "Jours cinq à six : le blastocyste arrive dans la cavité utérine, éclot hors de la zone pellucide, et s'implante dans l'*endomètre* de l'utérus."
+        mark: "endomètre"
+        show: "J5-6 : arrivée · éclosion · implantation dans l'*endomètre*"
+      - say: "Cela se produit au moment où l'endomètre est préparé à le recevoir : la *fenêtre d'implantation* du cycle. Légendes : trois, l'endomètre ; quatre, le myomètre ; cinq, la cavité utérine."
+        mark: ["fenêtre d’implantation", "3) Endomètre"]
+        show: "*Fenêtre d'implantation* · 3 endomètre · 4 myomètre · 5 cavité utérine"
+
+  - kind: figure
+    title: "Fenêtre d'implantation de l'endomètre"
+    ref: "S2-1 p.22h"
+    fig: "S2-1:22h"
+    trap: "Fenêtre : 6 à 9 jours APRÈS L'OVULATION, en phase lutéale."
+    beats:
+      - say: "A, la phase menstruelle : le corps jaune régresse, la progestérone et l'œstradiol baissent, l'endomètre desquame."
+        mark: "A) Phase menstruelle"
+        show: "A *menstruelle* : ↓ progestérone, œstradiol · desquamation"
+      - say: "B, la phase folliculaire : les follicules mûrissent, l'œstradiol augmente, l'endomètre prolifère."
+        mark: "B) Phase folliculaire"
+        show: "B *folliculaire* : ↑ œstradiol · prolifération"
+      - say: "C, la phase lutéale : ovulation et nouveau corps jaune, la progestérone augmente, l'endomètre mûrit, avec ses glandes et sa vascularisation."
+        mark: "C) Phase lutéale"
+        show: "C *lutéale* : ↑ progestérone · glandes, vascularisation"
+      - say: "D, la *fenêtre d'implantation* : *six à neuf jours après l'ovulation*. Légendes : un, l'épithélium sécrétoire de l'endomètre ; deux, les glandes utérines ; trois, les capillaires ; quatre, le myomètre."
+        mark: ["6-9 jours", "2) Glandes utérines"]
+        show: "D : *6 à 9 jours après l'ovulation* · 1 épithélium · 2 glandes · 3 capillaires · 4 myomètre"
+
+  - kind: table
+    title: "Le calendrier des premiers jours"
+    ref: "S2-1 p.19-22"
+    header: ["Moment", "Événement"]
+    beats:
+      - say: "Récapitulons le calendrier."
+      - say: "Quatre-vingt-seize heures : morula d'environ trente cellules."
+        show: "*96 h* | morula (~30 cellules)"
+      - say: "Jours quatre à cinq : arrivée dans la cavité utérine ; jour cinq : blastocyste."
+        show: "*J4-5* / *J5* | cavité utérine · blastocyste"
+      - say: "Jours cinq à six : éclosion. Jour six : implantation."
+        show: "*J5-6* / *J6* | éclosion · implantation"
+      - say: "Fenêtre d'implantation : six à neuf jours après l'ovulation."
+        show: "*6-9 j* post-ovulation | fenêtre d'implantation"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-1 p.19-22"
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'hypoblaste est contre le trophoblaste” : faux. L'épiblaste est contre le trophoblaste ; l'hypoblaste, côté blastocèle."
+        show: "✓ *Épi* : trophoblaste · *hypo* : blastocèle"
+      - say: "“Le blastocèle se remplit par la pompe de la masse cellulaire interne” : faux, par la pompe sodium potassium du trophoblaste."
+        show: "✓ Pompe Na⁺/K⁺ du *trophoblaste*"
+      - say: "“L'éclosion a lieu avant le blastocyste” : faux. Blastocyste au jour cinq, encore dans la zone pellucide ; éclosion aux jours cinq à six."
+        show: "✓ Blastocyste *J5* (dans la ZP) → éclosion *J5-6*"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-1 p.20b"
+    beats:
+      - say: "Épi, comme épiderme, à l'extérieur : contre le trophoblaste. Hypo, en dessous : vers le blastocèle."
+        show: "*Épi*- = dessus (trophoblaste) · *hypo*- = dessous (blastocèle)"
+      - say: "Et le calendrier : quatre, cinq, six. Arrivée vers quatre-cinq, blastocyste à cinq, implantation à six."
+        show: "*4-5* arrivée · *5* blastocyste · *6* implantation"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-1 p.22h"
+    question: "Quand se situe la fenêtre d'implantation de l'endomètre ?"
+    options:
+      - "Pendant la phase menstruelle"
+      - "1 à 3 jours après l'ovulation"
+      - "6 à 9 jours après l'ovulation"
+      - "Au moment du pic de LH"
+    answer: [2]
+    beats:
+      - say: "Quiz : quand se situe la fenêtre d'implantation ?"
+        countdown: 4
+      - say: "Six à neuf jours après l'ovulation."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 48 : invasion et cavités"
+    ref: "S2-1 p.22b"
+    big: "Syncytio"
+    beats:
+      - say: "Prochain épisode : l'invasion de l'endomètre par le syncytiotrophoblaste, les cavités de l'embryon et les villosités."
+        show: "*Syncytiotrophoblaste* · cavités · villosités"
+
+recap:
+  - "Résumé : ovogonie → ovocyte primaire (dictyotène) → ovocyte secondaire (métaphase 2) → ovule (après fécondation)."
+  - "Segmentation : divisions rapides → morula (~30 cellules ou blastomères) après 96 h ; chaque cellule 2× plus petite que la cellule mère ; aplatissement des cellules périphériques → trophoblaste (placenta ; jonctions serrées/adhérentes → capsule étanche) ; blastocèle rempli de liquide (pompe Na/K du trophoblaste) ; masse cellulaire interne (embryon propre) ; pôles embryonnaire et abembryonnaire ; blastocyste au jour 5 (entouré de la zone pellucide)."
+  - "Éclosion : le blastocyste rompt et s'extrait de la zone pellucide (protéases et projections cytoplasmiques du trophoblaste) ; masse cellulaire interne → épiblaste (contre le trophoblaste) et hypoblaste (côté blastocèle). Légendes : 1 zone pellucide, 2 trophoblaste, 3 hypoblaste, 4 blastocèle, 5 épiblaste."
+  - "Migration : ampoule (fécondation) → cavité utérine (blastocyste J4-5) ; éclosion J5-6 ; implantation J6. Implantation : J5-6, arrivée, éclosion, implantation dans l'endomètre, pendant la fenêtre d'implantation (3 endomètre, 4 myomètre, 5 cavité utérine)."
+  - "Cycle de l'endomètre : A phase menstruelle (régression du corps jaune, ↓ progestérone et œstradiol, desquamation) ; B phase folliculaire (maturation des follicules, ↑ œstradiol, prolifération) ; C phase lutéale (ovulation, nouveau corps jaune, ↑ progestérone, maturation : glandes, vascularisation) ; D fenêtre d'implantation : 6-9 jours après l'ovulation. Légendes : 1 épithélium (sécrétoire), 2 glandes utérines, 3 capillaires, 4 myomètre."
+
+traps:
+  - ["Morula de 30 cellules à 48 h", "~30 cellules après 96 heures", "p.19b"]
+  - ["Cellules filles de même taille", "Chaque nouvelle cellule 2× plus petite", "p.19b"]
+  - ["Trophoblaste = embryon propre", "Trophoblaste = placenta ; masse cellulaire interne = embryon", "p.19b"]
+  - ["Blastocyste au jour 3", "Jour 5 (entouré de la zone pellucide)", "p.19b"]
+  - ["Hypoblaste contre le trophoblaste", "Épiblaste contre le trophoblaste ; hypoblaste côté blastocèle", "p.20b"]
+  - ["Implantation au jour 4", "Jour 6", "p.21h"]
+  - ["Fenêtre d'implantation 6-9 j après les règles", "6-9 jours après l'ovulation", "p.22h"]
+
+mnemonics:
+  - ["Épi / hypo", "Épi- = dessus (trophoblaste) ; hypo- = dessous (blastocèle)", "Légendes 3 hypoblaste, 5 épiblaste"]
+  - ["Calendrier", "96 h morula · J4-5 utérus · J5 blastocyste · J5-6 éclosion · J6 implantation · fenêtre 6-9 j", "« 4-5-6 »"]
+
+quiz:
+  - q: "Segmentation :"
+    props:
+      - ["La morula compte environ 30 cellules après 96 heures.", true, "p.19b."]
+      - ["Chaque nouvelle cellule est 2× plus petite que la cellule mère.", true, "p.19b."]
+      - ["Le trophoblaste formera l'embryon proprement dit.", false, "Placenta ; l'embryon vient de la masse cellulaire interne."]
+      - ["Le blastocèle se remplit grâce à la pompe Na/K du trophoblaste.", true, "p.19b."]
+      - ["Le blastocyste apparaît au jour 5.", true, "p.19b."]
+  - q: "Éclosion et migration :"
+    props:
+      - ["L'éclosion fait intervenir des protéases du trophoblaste.", true, "p.20b."]
+      - ["L'épiblaste se trouve contre le trophoblaste.", true, "p.20b."]
+      - ["L'hypoblaste se trouve du côté du blastocèle.", true, "p.20b."]
+      - ["L'implantation a lieu au jour 6.", true, "p.21h."]
+      - ["La fécondation a lieu dans la cavité utérine.", false, "Dans l'ampoule."]
+  - q: "Fenêtre d'implantation :"
+    props:
+      - ["La phase menstruelle correspond à la régression du corps jaune.", true, "p.22h."]
+      - ["La phase folliculaire est marquée par une augmentation de la progestérone.", false, "↑ œstradiol."]
+      - ["La phase lutéale voit la maturation des glandes et de la vascularisation.", true, "p.22h."]
+      - ["La fenêtre d'implantation se situe 6 à 9 jours après l'ovulation.", true, "p.22h."]
+      - ["L'épithélium de l'endomètre est sécrétoire.", true, "p.22h."]
+
+coverage:
+  - ["S2-1", "19h", "Ovogonie – ovocyte – ovule : résumé", 1]
+  - ["S2-1", "19b", "Segmentation, morula, blastocyste", 2]
+  - ["S2-1", "20h", "Pôles du blastocyste", 3]
+  - ["S2-1", "20b", "Éclosion, épiblaste, hypoblaste", 4]
+  - ["S2-1", "21h", "Migration durant la segmentation", 5]
+  - ["S2-1", "21b", "Implantation, fenêtre", 6]
+  - ["S2-1", "22h", "Fenêtre d'implantation, phases A-D", 7]

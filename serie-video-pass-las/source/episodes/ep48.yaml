@@ -1,0 +1,231 @@
+title: "Invasion de l'endomètre et cavités de l'embryon"
+subtitle: "Cyto/syncytiotrophoblaste · réaction déciduale · amnios · lécithocèles · villosités · 4 couches"
+source: "S2-1 p.22b à 25"
+chapter: "Partie II — II. Fécondation, segmentation, implantation — 5 à 7"
+objectives:
+  - "Distinguer cytotrophoblaste et syncytiotrophoblaste ; décrire la réaction déciduale et la circulation utéroplacentaire primitive."
+  - "Décrire la formation de la cavité amniotique et de l'amnios."
+  - "Décrire les cavités exocœlomique, chorionique et la vésicule ombilicale définitive."
+  - "Décrire les villosités primaires, secondaires, tertiaires et les quatre couches de filtration."
+
+scenes:
+  - kind: hook
+    title: "L'embryon creuse son nid"
+    ref: "S2-1 p.22b"
+    big: "Invasion"
+    beats:
+      - say: "Pour s'implanter, l'embryon envahit la paroi de l'utérus, ronge les capillaires maternels et fait couler le sang dans ses propres lacunes."
+      - say: "Au programme : l'invasion de l'endomètre, les cavités de l'embryon et les villosités."
+        show: "Invasion · *cavités* · villosités"
+
+  - kind: figure
+    title: "L'invasion de l'endomètre"
+    ref: "S2-1 p.22b"
+    fig: "S2-1:22b"
+    trap: "Syncytiotrophoblaste = couche EXTERNE, hCG, invasif ; cytotrophoblaste = INTERNE, prolifère."
+    beats:
+      - say: "Le trophoblaste se différencie, d'abord du côté de l'adhésion, puis tout autour."
+        mark: "Différenciation du trophoblaste"
+        show: "Différenciation : côté adhésion, puis *tout autour*"
+      - say: "Le *cytotrophoblaste* : couche interne, qui prolifère. Le *syncytiotrophoblaste* : couche externe, un syncytium, qui sécrète la h C G et est *invasif*, grâce à des protéases et des facteurs apoptotiques."
+        mark: ["cytotrophoblaste", "syncytiotrophoblaste"]
+        show: "*Cyto* : interne, prolifère · *syncytio* : externe, *hCG*, *invasif*"
+      - say: "Il envahit le stroma endométrial : c'est la *réaction déciduale*. Le stroma sécrète des facteurs qui favorisent l'embryon et contrôlent l'invasion ; il s'hypervascularise ; l'endomètre devient la *déciduale*."
+        mark: ["réaction déciduale", "déciduale"]
+        show: "*Réaction déciduale* : facteurs · hypervascularisation · endomètre → *déciduale*"
+      - say: "La circulation utéroplacentaire primitive se met en place : des *lacunes* se forment dans le syncytiotrophoblaste, les capillaires maternels sont érodés, et le sang s'écoule dans les lacunes. Après l'enfouissement complet, le trou de pénétration est bouché par un *caillot de fibrine*."
+        mark: ["lacunes", "caillot de fibrine"]
+        show: "*Lacunes* · capillaires érodés → sang · trou bouché : *caillot de fibrine*"
+
+  - kind: figure
+    title: "La cavité amniotique"
+    ref: "S2-1 p.23h"
+    fig: "S2-1:23h"
+    trap: "Cavité amniotique entre ÉPIBLASTE et trophoblaste ; amnios issu de l'épiblaste."
+    beats:
+      - say: "Du liquide s'accumule entre l'épiblaste et le trophoblaste : c'est la *cavité amniotique*."
+        mark: "cavité amniotique"
+        show: "Liquide entre *épiblaste* et trophoblaste → *cavité amniotique*"
+      - say: "Une couche issue de l'épiblaste la tapisse : l'*amnios*. Elle grandira tellement qu'elle entourera entièrement l'embryon."
+        mark: "amnios"
+        show: "Couche de l'épiblaste → *amnios* (entourera tout l'embryon)"
+
+  - kind: figure
+    title: "Cavités exocœlomique et chorionique"
+    ref: "S2-1 p.23b"
+    fig: "S2-1:23b"
+    trap: "Lécithocèle PRIMAIRE = cavité exocœlomique (membrane de Heuser)."
+    beats:
+      - say: "Les cellules de l'hypoblaste prolifèrent et migrent pour tapisser l'intérieur du blastocèle : c'est la *cavité exocœlomique*, ou *lécithocèle primaire*, entourée de la *membrane de Heuser*."
+        mark: ["lécithocèle primaire", "Heuser"]
+        show: "Hypoblaste → *cavité exocœlomique* = *lécithocèle primaire* (membrane de *Heuser*)"
+      - say: "Une nouvelle couche apparaît entre le cytotrophoblaste et l'embryon proprement dit : le *mésoderme extraembryonnaire*, fait de cellules lâches."
+        mark: "mésoderme extraembryonnaire"
+        show: "*Mésoderme extraembryonnaire* (cellules lâches)"
+      - say: "Des cavités s'y forment et confluent : c'est la *cavité chorionique*."
+        mark: "cavité chorionique"
+        show: "Cavités confluentes → *cavité chorionique*"
+
+  - kind: figure
+    title: "La vésicule ombilicale définitive"
+    ref: "S2-1 p.24h"
+    fig: "S2-1:24h"
+    trap: "Vésicule ombilicale = lécithocèle SECONDAIRE."
+    beats:
+      - say: "Une nouvelle migration depuis l'hypoblaste repousse la cavité exocœlomique : la nouvelle cavité est la *vésicule ombilicale*, ou *lécithocèle secondaire*."
+        mark: ["vésicule ombilicale", "lécithocèle secondaire"]
+        show: "Nouvelle migration → *vésicule ombilicale* = *lécithocèle secondaire*"
+      - say: "La cavité exocœlomique se fragmente en un amas de petites vésicules, dans la cavité chorionique, du côté abembryonnaire."
+        mark: "se fragmente"
+        show: "Exocœlome *fragmenté* : petites vésicules (côté abembryonnaire)"
+
+  - kind: figure
+    title: "L'embryon suspendu"
+    ref: "S2-1 p.24b"
+    fig: "S2-1:24b"
+    beats:
+      - say: "La cavité chorionique s'agrandit : l'embryon est pendu au *pédicule suspenseur*."
+        mark: "pédicule suspenseur"
+        show: "Cavité chorionique ↑ → *pédicule suspenseur*"
+      - say: "L'embryon est alors formé de la cavité amniotique, de la vésicule ombilicale, et du *disque embryonnaire didermique*."
+        mark: "didermique"
+        show: "Cavité amniotique · vésicule ombilicale · *disque didermique*"
+
+  - kind: figure
+    title: "Les villosités chorioniques"
+    ref: "S2-1 p.25h"
+    fig: "S2-1:25h"
+    trap: "Primaires = cytotrophoblaste ; secondaires = + mésoderme ; tertiaires = + vaisseaux ; cœur J22."
+    beats:
+      - say: "Villosités souches chorioniques *primaires* : des extensions du cytotrophoblaste au sein du syncytiotrophoblaste."
+        mark: "primaires"
+        show: "*Primaires* : cytotrophoblaste dans le syncytio"
+      - say: "*Secondaires* : envahies par le mésoderme extraembryonnaire, qui entoure la cavité chorionique."
+        mark: "secondaires"
+        show: "*Secondaires* : + mésoderme extraembryonnaire"
+      - say: "*Tertiaires* : des vaisseaux, issus du mésoderme extraembryonnaire, y pénètrent. C'est la circulation utéroplacentaire. Le cœur commence à battre au *jour vingt-deux*."
+        mark: ["tertiaires", "jour 22"]
+        show: "*Tertiaires* : + *vaisseaux* · le cœur bat à *J22*"
+
+  - kind: figure
+    title: "Échanges filtrés : 4 couches"
+    ref: "S2-1 p.25b"
+    fig: "S2-1:25b"
+    trap: "4 couches, du sang fœtal vers le sang maternel."
+    beats:
+      - say: "Dans les villosités tertiaires, les échanges sont filtrés par *quatre couches* : l'endothélium des vaisseaux, le mésoderme extraembryonnaire, le cytotrophoblaste, et le syncytiotrophoblaste."
+        mark: "quatre couches"
+        show: "# *4 couches* : endothélium · mésoderme extraembryonnaire · cyto · syncytio"
+
+  - kind: table
+    title: "Les cavités, sans les confondre"
+    ref: "S2-1 p.23-24"
+    header: ["Cavité", "Origine / autre nom"]
+    beats:
+      - say: "Quatre cavités à ne pas confondre."
+      - say: "La cavité amniotique : entre épiblaste et trophoblaste, tapissée par l'amnios."
+        show: "Amniotique | épiblaste / trophoblaste · *amnios*"
+      - say: "La cavité exocœlomique : lécithocèle primaire, membrane de Heuser."
+        show: "Exocœlomique | *lécithocèle primaire* · Heuser"
+      - say: "La cavité chorionique : dans le mésoderme extraembryonnaire."
+        show: "Chorionique | *mésoderme extraembryonnaire*"
+      - say: "La vésicule ombilicale : lécithocèle secondaire."
+        show: "Vésicule ombilicale | *lécithocèle secondaire*"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-1 p.22-25"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Le cytotrophoblaste sécrète la h C G et envahit l'endomètre” : faux. C'est le syncytiotrophoblaste."
+        show: "✓ *Syncytio* : hCG + invasion"
+      - say: "“La vésicule ombilicale est le lécithocèle primaire” : faux. Primaire, cavité exocœlomique ; secondaire, vésicule ombilicale."
+        show: "✓ Primaire = exocœlome · *secondaire* = vésicule ombilicale"
+      - say: "“Les villosités secondaires contiennent des vaisseaux” : faux, ce sont les tertiaires."
+        show: "✓ Vaisseaux = villosités *tertiaires*"
+
+  - kind: mnemo
+    title: "Mémoriser les villosités"
+    ref: "S2-1 p.25h"
+    beats:
+      - say: "Un, deux, trois : un, le cyto entre ; deux, le mésoderme suit ; trois, les vaisseaux arrivent."
+        show: "1 *cyto* · 2 *+ mésoderme* · 3 *+ vaisseaux*"
+      - say: "Et syncytio, comme “sinueux et invasif” : c'est lui qui creuse et qui sécrète la h C G."
+        show: "*Syncytio* = celui qui creuse (hCG)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-1 p.25b"
+    question: "Combien de couches filtrent les échanges dans les villosités tertiaires ?"
+    options:
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+    answer: [2]
+    beats:
+      - say: "Quiz : combien de couches de filtration ?"
+        countdown: 4
+      - say: "Quatre : endothélium, mésoderme extraembryonnaire, cytotrophoblaste, syncytiotrophoblaste."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 49 : la gastrulation"
+    ref: "S2-2 p.1"
+    big: "3 feuillets"
+    beats:
+      - say: "Prochain épisode : la gastrulation, et la naissance des trois feuillets."
+        show: "Gastrulation · *3 feuillets*"
+
+recap:
+  - "Invasion : différenciation du trophoblaste (d'abord côté adhésion, puis tout autour) : cytotrophoblaste (couche interne, prolifération) et syncytiotrophoblaste (couche externe, syncytium, hCG, invasif : protéases, facteurs apoptotiques) ; envahissement du stroma → réaction déciduale (facteurs favorisant l'embryon et contrôlant l'invasion ; hypervascularisation ; endomètre → déciduale) ; circulation utéroplacentaire primitive (lacunes dans le syncytiotrophoblaste ; érosion des capillaires maternels, sang dans les lacunes) ; trou de pénétration bouché par un caillot de fibrine."
+  - "Cavité amniotique : liquide entre épiblaste et trophoblaste ; couche issue de l'épiblaste = amnios, qui entourera entièrement l'embryon."
+  - "Hypoblaste prolifère et tapisse le blastocèle → cavité exocœlomique (lécithocèle primaire, membrane de Heuser) ; mésoderme extraembryonnaire (cellules lâches) entre cytotrophoblaste et embryon ; cavités confluentes → cavité chorionique."
+  - "Nouvelle migration de l'hypoblaste → vésicule ombilicale (lécithocèle secondaire) ; cavité exocœlomique fragmentée en petites vésicules (cavité chorionique, côté abembryonnaire) ; cavité chorionique ↑ → embryon pendu au pédicule suspenseur ; embryon = cavité amniotique + vésicule ombilicale + disque embryonnaire didermique."
+  - "Villosités souches chorioniques : primaires (extensions du cytotrophoblaste dans le syncytiotrophoblaste), secondaires (+ mésoderme extraembryonnaire), tertiaires (+ vaisseaux) → circulation utéro-placentaire (le cœur commence à battre au jour 22) ; filtration par 4 couches : endothélium, mésoderme extraembryonnaire, cytotrophoblaste, syncytiotrophoblaste."
+
+traps:
+  - ["Cytotrophoblaste = couche externe invasive", "Syncytio = externe, hCG, invasif ; cyto = interne, prolifère", "p.22b"]
+  - ["Endomètre → chorion", "Endomètre → déciduale (réaction déciduale)", "p.22b"]
+  - ["Trou bouché par l'amnios", "Par un caillot de fibrine", "p.22b"]
+  - ["Amnios issu de l'hypoblaste", "Issu de l'épiblaste", "p.23h"]
+  - ["Lécithocèle primaire = vésicule ombilicale", "Primaire = cavité exocœlomique ; secondaire = vésicule ombilicale", "p.23b, 24h"]
+  - ["Villosités secondaires vascularisées", "Tertiaires = vaisseaux", "p.25h"]
+  - ["Le cœur bat au jour 28", "Jour 22", "p.25h"]
+
+mnemonics:
+  - ["Villosités", "1 cyto · 2 + mésoderme · 3 + vaisseaux", "Cœur J22"]
+  - ["Lécithocèles", "Primaire = premier creusé (exocœlome, Heuser) ; secondaire = vésicule ombilicale", "Tous deux issus de l'hypoblaste"]
+  - ["Filtre", "« En Mé Cy Sy » : Endothélium, Mésoderme, Cyto, Syncytio", "4 couches"]
+
+quiz:
+  - q: "Invasion :"
+    props:
+      - ["Le syncytiotrophoblaste produit la hCG.", true, "p.22b."]
+      - ["Le cytotrophoblaste est la couche externe.", false, "Couche interne."]
+      - ["La réaction déciduale transforme l'endomètre en déciduale.", true, "p.22b."]
+      - ["Des lacunes se forment dans le syncytiotrophoblaste.", true, "p.22b."]
+      - ["Le trou de pénétration est bouché par un caillot de fibrine.", true, "p.22b."]
+  - q: "Cavités :"
+    props:
+      - ["La cavité amniotique se forme entre épiblaste et trophoblaste.", true, "p.23h."]
+      - ["L'amnios est issu de l'épiblaste.", true, "p.23h."]
+      - ["La cavité exocœlomique est entourée de la membrane de Heuser.", true, "p.23b."]
+      - ["La cavité chorionique se forme dans l'hypoblaste.", false, "Dans le mésoderme extraembryonnaire."]
+      - ["La vésicule ombilicale est le lécithocèle secondaire.", true, "p.24h."]
+  - q: "Villosités :"
+    props:
+      - ["Les villosités primaires sont des extensions du cytotrophoblaste.", true, "p.25h."]
+      - ["Les villosités secondaires contiennent des vaisseaux.", false, "Ce sont les tertiaires."]
+      - ["Le cœur commence à battre au jour 22.", true, "p.25h."]
+      - ["Les échanges sont filtrés par 4 couches.", true, "p.25b."]
+      - ["Le syncytiotrophoblaste fait partie des couches de filtration.", true, "p.25b."]
+
+coverage:
+  - ["S2-1", "22b", "Invasion, cyto/syncytio, réaction déciduale, lacunes, fibrine", 1]
+  - ["S2-1", "23h", "Cavité amniotique, amnios", 2]
+  - ["S2-1", "23b", "Cavités exocœlomique et chorionique", 3]
+  - ["S2-1", "24h", "Vésicule ombilicale définitive", 4]
+  - ["S2-1", "24b", "Pédicule suspenseur, disque didermique", 5]
+  - ["S2-1", "25h", "Villosités primaires, secondaires, tertiaires", 6]
+  - ["S2-1", "25b", "4 couches de filtration", 7]

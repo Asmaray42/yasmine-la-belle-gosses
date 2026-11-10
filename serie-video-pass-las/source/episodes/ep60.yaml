@@ -1,0 +1,271 @@
+title: "Tératogenèse : les trois principes et trois médicaments"
+subtitle: "Tests de tératogénicité · période critique · dose critique · composante génétique · vismodégib · mycophénolate mofétil · warfarine"
+source: "S2-3 p.19 à 30"
+chapter: "Partie II — VII. De l'embryon au fœtus — 5. Tératogenèse"
+objectives:
+  - "Définir un agent tératogène et citer les tests de tératogénicité."
+  - "Énoncer les trois grands principes de tératologie."
+  - "Donner l'indication, le mode d'action et la période critique du mycophénolate mofétil."
+  - "Donner l'indication, le mode d'action et les trois fenêtres d'exposition de la warfarine."
+
+scenes:
+  - kind: hook
+    title: "Tout dépend du moment"
+    ref: "S2-3 p.20"
+    big: "8 sem."
+    beats:
+      - say: "Une même substance n'a pas le même effet selon la semaine de grossesse. C'est tout le principe de la période critique."
+      - say: "Au programme : les agents tératogènes, les trois principes de tératologie, et trois médicaments."
+        show: "*3 principes* · vismodégib · mycophénolate · *warfarine*"
+
+  - kind: figure
+    title: "Les agents tératogènes"
+    ref: "S2-3 p.19"
+    fig: "S2-3:19"
+    trap: "Du grec teras ; tests de tératogénicité SYSTÉMATIQUES pour les médicaments."
+    beats:
+      - say: "Beaucoup de substances auxquelles la mère s'expose peuvent passer la barrière placentaire et atteindre l'embryon ou le fœtus."
+        show: "Substances maternelles → *passage* de la barrière"
+      - say: "Certaines sont *tératogènes*, du grec *teras* : elles peuvent entraîner des anomalies du développement. Le cours cite l'alcool, les drogues et les médicaments."
+        mark: ["tératogènes", "Agents tératogènes"]
+        show: "*Tératogène* (grec *teras*) : anomalies du développement"
+      - say: "Une attention particulière est portée aux médicaments, pour lesquels des *tests de tératogénicité* sont systématiquement effectués : tests sur animaux et études épidémiologiques."
+        mark: "test de"
+        show: "Médicaments : *tests de tératogénicité* (animaux + épidémiologie)"
+
+  - kind: figure
+    title: "Principe 1 : la période critique"
+    ref: "S2-3 p.20"
+    fig: "S2-3:20"
+    trap: "Phase active de morphogenèse, le plus souvent les 8 PREMIÈRES SEMAINES."
+    beats:
+      - say: "Premier principe : la *période critique*. Une structure embryonnaire n'est généralement sensible aux agents tératogènes que pendant une période critique du développement, qui correspond à sa phase active de *morphogenèse*."
+        mark: ["période critique", "morphogenèse"]
+        show: "*1. Période critique* = phase active de *morphogenèse*"
+      - say: "Le plus souvent, cette période se situe durant les *huit premières semaines*."
+        mark: "8 premières semaines"
+        show: "Le plus souvent : *8 premières semaines*"
+
+  - kind: figure
+    title: "Illustration : le vismodégib"
+    ref: "S2-3 p.21"
+    fig: "S2-3:21"
+    trap: "Vismodégib = inhibiteur de la signalisation SHH ; effet variable selon le jour d'exposition."
+    beats:
+      - say: "Conséquence : un même agent peut avoir différents effets tératogènes selon la période à laquelle l'embryon y est exposé."
+        show: "Même agent → effets *différents* selon la période"
+      - say: "L'exemple du cours : le *vismodégib*, un inhibiteur de la signalisation *SHH*, utilisé dans le traitement d'un cancer de la peau."
+        mark: ["Vismodégib", "SHH"]
+        show: "*Vismodégib* : inhibiteur de *SHH* (cancer de la peau)"
+      - say: "Sur le graphique, le pourcentage de souriceaux affectés est donné en fonction du jour gestationnel d'exposition, entre les jours sept et dix : une exposition précoce donne une *holoprosencéphalie*, un défaut de séparation des hémisphères cérébraux ; une exposition plus tardive donne des *fentes labio-palatines*."
+        mark: ["Holoprosencéphalie", "Fente labio/palatine"]
+        show: "Précoce → *holoprosencéphalie* · plus tard → *fentes labio-palatines*"
+
+  - kind: figure
+    title: "Principe 2 : la dose critique"
+    ref: "S2-3 p.22"
+    fig: "S2-3:22"
+    trap: "Dose critique = malformations MAXIMALES ; en dessous, pas d'effet ; au-dessus, décès."
+    beats:
+      - say: "Deuxième principe : la *dose critique*. Chaque agent tératogène présente une dose à laquelle l'apparition des malformations est *maximale*."
+        mark: "dose critique"
+        show: "*2. Dose critique* : malformations *maximales*"
+      - say: "En dessous de cette dose, il n'y a pas d'effet. Au-dessus, l'embryon décède. Le graphique superpose le pourcentage d'embryons malformés et celui d'embryons décédés."
+        mark: ["pas d’effet", "décède"]
+        show: "< dose : *pas d'effet* · > dose : *décès*"
+
+  - kind: figure
+    title: "Principe 3 : la composante génétique"
+    ref: "S2-3 p.23"
+    fig: "S2-3:23"
+    trap: "Deux explications : sensibilité des voies de signalisation ET vitesse de métabolisation."
+    beats:
+      - say: "Troisième principe : la *composante génétique*. Le polymorphisme propre à l'embryon détermine son degré de réponse à l'agent tératogène."
+        mark: ["composante génétique", "polymorphisme"]
+        show: "*3. Composante génétique* (*polymorphisme*) → degré de réponse"
+      - say: "Deux explications : des différences de *sensibilité des voies de signalisation* affectées par l'agent, et des différences de *vitesse de métabolisation* de l'agent, qui le rendent inactif."
+        mark: ["Sensibilité des voies", "Vitesse de métabolisation"]
+        show: "*Sensibilité* des voies de signalisation · *vitesse de métabolisation*"
+
+  - kind: figure
+    title: "Le mycophénolate mofétil"
+    ref: "S2-3 p.24"
+    fig: "S2-3:24"
+    trap: "Immunosuppresseur ; inhibe la néosynthèse de nucléotides (dGTP)."
+    beats:
+      - say: "Le *mycophénolate mofétil* est un *immunosuppresseur*. Il est prescrit pour la prévention du rejet de greffe, rein, cœur, foie, et dans des maladies auto-immunes : lupus érythémateux, maladie de Crohn, psoriasis."
+        mark: ["immunosuppresseur", "rejet de greffe"]
+        show: "*Immunosuppresseur* : rejet de greffe · *lupus*, Crohn, psoriasis"
+      - say: "Mode d'action : il inhibe la *néosynthèse de nucléotides*, le d G T P. Il réduit ainsi la prolifération des *lymphocytes*, qui dépend fortement de cette néosynthèse."
+        mark: ["néo-synthèse de nucléotides (dGTP)", "lymphocytes"]
+        show: "⊣ *néosynthèse de nucléotides* (*dGTP*) → ⊣ prolifération des *lymphocytes*"
+
+  - kind: list
+    title: "Mycophénolate : tératogénicité"
+    ref: "S2-3 p.25-26"
+    trap: "25 % d'incidence ; avant la 8e semaine, pic durant la 7e."
+    beats:
+      - say: "Sa tératogénicité : les principales anomalies de développement surviennent avec une incidence de *vingt-cinq pour cent*."
+        show: "Incidence : *25 %*"
+      - say: "Le cours cite : la *microtie*, des oreilles peu développées, et l'*anotie*, l'absence d'oreille."
+        show: "*Microtie* (oreilles peu développées) · *anotie* (absence)"
+      - say: "La *fente labiale*, avec ou sans fente palatine."
+        show: "*Fente labiale* ± fente palatine"
+      - say: "Et des anomalies oculaires : *anophtalmie* et *microphtalmie*."
+        show: "Oculaires : *anophtalmie* · *microphtalmie*"
+      - say: "Période critique d'exposition : *avant la huitième semaine* de gestation, avec un pic durant la *septième semaine*."
+        show: "# Avant la *8e semaine* · pic à la *7e*"
+
+  - kind: figure
+    title: "La warfarine"
+    ref: "S2-3 p.27"
+    fig: "S2-3:27"
+    trap: "Anticoagulant ; inhibe le métabolisme de la VITAMINE K."
+    beats:
+      - say: "La *warfarine* est un *anticoagulant*. Elle est prescrite pour la prévention des complications thrombo-emboliques, arythmies cardiaques, infarctus, et pour les embolies pulmonaires et les thromboses veineuses profondes."
+        mark: ["anticoagulant", "thrombo-emboliques"]
+        show: "*Anticoagulant* : thrombo-embolies · embolie pulmonaire · thrombose veineuse profonde"
+      - say: "Mode d'action : elle inhibe le métabolisme de la *vitamine K*, impliquée dans l'activation des facteurs de coagulation."
+        mark: "vitamine K"
+        show: "⊣ métabolisme de la *vitamine K* → facteurs de coagulation"
+
+  - kind: list
+    title: "Warfarine : trois fenêtres"
+    ref: "S2-3 p.28-29"
+    trap: "Avant 4 semaines : PAS D'EFFET ; 4 à 7 : ~7 % ; après 7 : ~2 % (SNC)."
+    beats:
+      - say: "Les anomalies de développement varient selon la période d'exposition. Trois fenêtres."
+        show: "3 fenêtres d'exposition"
+      - say: "*Avant la semaine quatre* de gestation : *pas d'effet*."
+        show: "Avant la semaine *4* : *pas d'effet*"
+      - say: "*Entre quatre et sept semaines* : un risque d'environ *sept pour cent* de syndrome malformatif, appelé warfarin embryopathy."
+        show: "*4 à 7 semaines* : ~*7 %* (« warfarin embryopathy »)"
+      - say: "Ce syndrome associe des malformations du squelette, la vitamine K activant une hormone ostéogénique ; des anomalies de la face, avec cloison nasale amincie, hypoplasie de la crête nasale et hypertélorisme ; et une hypoplasie des dernières phalanges des mains et des pieds."
+        show: "Squelette · face (crête nasale, *hypertélorisme*) · dernières *phalanges*"
+      - say: "*Après la septième semaine* : un risque d'environ *deux pour cent* d'anomalies du *système nerveux central*."
+        show: "Après la *7e semaine* : ~*2 %* · *système nerveux central*"
+
+  - kind: figure
+    title: "Warfarine : le tableau récapitulatif"
+    ref: "S2-3 p.30"
+    fig: "S2-3:30"
+    beats:
+      - say: "Le tableau final replace ces atteintes sur la frise : squelette, face et membres pendant la période embryonnaire ; système nerveux central jusque dans la période fœtale."
+        mark: ["Squelette, Face, membres", "Syst. Nerveux central"]
+        show: "Embryonnaire : *squelette, face, membres* · fœtale : *SNC*"
+
+  - kind: table
+    title: "Les deux médicaments côte à côte"
+    ref: "S2-3 p.24-29"
+    header: ["Médicament", "Classe", "Cible", "Période"]
+    beats:
+      - say: "Comparons."
+      - say: "Mycophénolate mofétil : immunosuppresseur, inhibe la néosynthèse du d G T P, risque avant la huitième semaine."
+        show: "*Mycophénolate* | immunosuppresseur | néosynthèse *dGTP* | avant *8 sem.* (pic 7e)"
+      - say: "Warfarine : anticoagulant, inhibe le métabolisme de la vitamine K, trois fenêtres selon la semaine."
+        show: "*Warfarine* | anticoagulant | *vitamine K* | 4-7 sem. (~7 %) · > 7 sem. (~2 %)"
+
+  - kind: trap
+    title: "Les pièges de la tératogenèse"
+    ref: "S2-3 p.20-29"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Au-dessus de la dose critique, les malformations augmentent encore” : faux. À la dose critique, elles sont maximales ; au-dessus, l'embryon décède."
+        show: "✓ Dose critique = *maximum* · au-dessus : décès"
+      - say: "“La warfarine est dangereuse dès le premier jour” : selon le cours, avant la semaine quatre, pas d'effet."
+        show: "✓ Warfarine : avant *4 semaines*, pas d'effet"
+      - say: "“Le mycophénolate mofétil agit sur la vitamine K” : faux, c'est la warfarine. Le mycophénolate inhibe la néosynthèse des nucléotides."
+        show: "✓ Mycophénolate : *dGTP* · warfarine : *vitamine K*"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-3 p.20-29"
+    beats:
+      - say: "Les trois principes : “P D G” — Période, Dose, Génétique."
+        show: "*P*ériode · *D*ose · *G*énétique"
+      - say: "Les chiffres de la warfarine : quatre et sept. Avant quatre, rien ; de quatre à sept, sept pour cent ; après sept, deux pour cent."
+        show: "*4* et *7* : rien · *7 %* · *2 %*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-3 p.22"
+    question: "Que se passe-t-il au-dessus de la dose critique d'un agent tératogène ?"
+    options:
+      - "Il n'y a pas d'effet"
+      - "Les malformations sont maximales"
+      - "L'embryon décède"
+      - "L'effet dépend du sexe"
+    answer: [2]
+    beats:
+      - say: "Quiz : au-dessus de la dose critique ?"
+        countdown: 4
+      - say: "L'embryon décède. À la dose critique, les malformations sont maximales ; en dessous, pas d'effet."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 61 : la FIVETE"
+    ref: "S2-3 p.31"
+    big: "FIVETE"
+    beats:
+      - say: "Dernier épisode de la série : la fécondation in vitro, de la stimulation au transfert."
+        show: "*FIVETE* · stimulation · ponction · transfert"
+
+recap:
+  - "Beaucoup de substances maternelles passent la barrière placentaire ; certaines sont tératogènes (du grec teras) et entraînent des anomalies du développement (alcool, drogues, médicaments) ; pour les médicaments, tests de tératogénicité systématiques (tests sur animaux, études épidémiologiques)."
+  - "Principe 1 — période critique : une structure embryonnaire n'est sensible que pendant une période critique correspondant à sa phase active de morphogenèse (le plus souvent durant les 8 premières semaines) ; un même agent peut donc avoir différents effets selon la période. Exemple : vismodégib (inhibiteur de la signalisation SHH, traitement d'un cancer de la peau) → holoprosencéphalie (défaut de séparation des hémisphères cérébraux) ou fentes labio-palatines selon le jour gestationnel d'exposition (J7 à J10 chez la souris)."
+  - "Principe 2 — dose critique : chaque agent présente une dose à laquelle l'apparition des malformations est maximale ; en dessous, pas d'effet ; au-dessus, l'embryon décède. Principe 3 — composante génétique : le polymorphisme de l'embryon détermine son degré de réponse (différences de sensibilité des voies de signalisation affectées et de vitesse de métabolisation de l'agent, le rendant inactif)."
+  - "Mycophénolate mofétil : immunosuppresseur (prévention du rejet de greffe — rein, cœur, foie ; maladies auto-immunes — lupus érythémateux, maladie de Crohn, psoriasis) ; inhibe la néosynthèse de nucléotides (dGTP), réduisant la prolifération des lymphocytes. Tératogénicité : 25 % d'incidence ; microtie, anotie ; fente labiale avec ou sans fente palatine ; anomalies oculaires (anophtalmie, microphtalmie) ; période critique avant la 8e semaine de gestation, pic durant la 7e semaine."
+  - "Warfarine : anticoagulant (prévention des complications thrombo-emboliques — arythmies cardiaques, infarctus ; embolies pulmonaires, thromboses veineuses profondes) ; inhibe le métabolisme de la vitamine K, impliquée dans l'activation des facteurs de coagulation. Avant la semaine 4 : pas d'effet. Entre 4 et 7 semaines : risque ~7 % de « warfarin embryopathy » (malformations du squelette — la vitamine K active une hormone ostéogénique ; anomalies de la face : cloison nasale amincie, hypoplasie de la crête nasale, hypertélorisme ; hypoplasie des dernières phalanges des mains et des pieds). Après la 7e semaine : risque ~2 % d'anomalies du système nerveux central."
+
+traps:
+  - ["Teras = « forme »", "Du grec teras : « monstre » (étymologie du cours)", "p.19"]
+  - ["Période critique = tout le développement", "Phase active de morphogenèse, le plus souvent les 8 premières semaines", "p.20"]
+  - ["Vismodégib = activateur de SHH", "Inhibiteur de la signalisation SHH", "p.21"]
+  - ["Au-dessus de la dose critique : plus de malformations", "Malformations maximales À la dose critique ; au-dessus, décès", "p.22"]
+  - ["Composante génétique = sexe de l'embryon", "Polymorphisme : sensibilité des voies et vitesse de métabolisation", "p.23"]
+  - ["Mycophénolate : inhibe la vitamine K", "Inhibe la néosynthèse de nucléotides (dGTP)", "p.24"]
+  - ["Mycophénolate : 2,5 % d'anomalies", "25 % d'incidence", "p.25"]
+  - ["Warfarine dangereuse avant 4 semaines", "Avant la semaine 4 : pas d'effet", "p.28"]
+  - ["Après 7 semaines : 7 % d'embryopathie", "Après 7 semaines : ~2 % d'anomalies du SNC", "p.29"]
+
+mnemonics:
+  - ["3 principes", "« PDG » : Période, Dose, Génétique", "Période critique = morphogenèse"]
+  - ["Warfarine", "4 et 7 : rien avant 4 · ~7 % de 4 à 7 · ~2 % (SNC) après 7", "Vitamine K"]
+  - ["Les deux médicaments", "Mycophénolate = nucléotides (dGTP) ; warfarine = vitamine K", "8e semaine vs 4-7 semaines"]
+
+quiz:
+  - q: "Principes de tératologie :"
+    props:
+      - ["Un agent tératogène peut entraîner des anomalies du développement.", true, "p.19."]
+      - ["Des tests de tératogénicité sont systématiques pour les médicaments.", true, "p.19."]
+      - ["La période critique correspond à la phase active de morphogenèse.", true, "p.20."]
+      - ["Au-dessus de la dose critique, les malformations sont maximales.", false, "Elles sont maximales À la dose critique ; au-dessus, l'embryon décède."]
+      - ["Le polymorphisme de l'embryon influence sa réponse à l'agent.", true, "p.23."]
+  - q: "Vismodégib et mycophénolate mofétil :"
+    props:
+      - ["Le vismodégib inhibe la signalisation SHH.", true, "p.21."]
+      - ["Le vismodégib donne le même effet quelle que soit la période d'exposition.", false, "Effets différents selon le jour d'exposition."]
+      - ["Le mycophénolate mofétil est un immunosuppresseur.", true, "p.24."]
+      - ["Il inhibe la néosynthèse de nucléotides (dGTP).", true, "p.24."]
+      - ["Sa période critique se situe avant la 8e semaine, avec un pic à la 7e.", true, "p.26."]
+  - q: "Warfarine :"
+    props:
+      - ["La warfarine est un anticoagulant.", true, "p.27."]
+      - ["Elle inhibe le métabolisme de la vitamine K.", true, "p.27."]
+      - ["Avant la semaine 4 de gestation, il n'y a pas d'effet.", true, "p.28."]
+      - ["Entre 4 et 7 semaines, le risque de syndrome malformatif est d'environ 7 %.", true, "p.28."]
+      - ["Après la 7e semaine, le risque d'anomalies du SNC est d'environ 20 %.", false, "~2 %."]
+
+coverage:
+  - ["S2-3", "19", "Agents tératogènes, tests", 1]
+  - ["S2-3", "20", "Principe 1 : période critique", 2]
+  - ["S2-3", "21", "Vismodégib", 3]
+  - ["S2-3", "22", "Principe 2 : dose critique", 4]
+  - ["S2-3", "23", "Principe 3 : composante génétique", 5]
+  - ["S2-3", "24", "Mycophénolate mofétil : indications, mode d'action", 6]
+  - ["S2-3", "25", "Mycophénolate : anomalies, 25 %", 7]
+  - ["S2-3", "26", "Mycophénolate : période critique", 7]
+  - ["S2-3", "27", "Warfarine : indications, mode d'action", 8]
+  - ["S2-3", "28", "Warfarine : avant 4 sem., 4-7 sem.", 9]
+  - ["S2-3", "29", "Warfarine : après 7 sem.", 9]
+  - ["S2-3", "30", "Tableau récapitulatif warfarine", 10]

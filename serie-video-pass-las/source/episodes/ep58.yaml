@@ -1,0 +1,235 @@
+title: "De l'embryon au fœtus : amnios, liquide amniotique, jumeaux, chimères"
+subtitle: "Semaines 0-8 / 9 → naissance · Carnegie · liquide amniotique · Potter · gémellité · chimérisme"
+source: "S2-3 p.1 à 9"
+chapter: "Partie II — VII. De l'embryon au fœtus — 1 et 2"
+objectives:
+  - "Distinguer la période embryonnaire (semaines 0 à 8, stades de Carnegie 1 à 23) et la période fœtale."
+  - "Décrire l'évolution de la cavité amniotique et la formation du cordon ombilical."
+  - "Donner les rôles, la composition et le renouvellement du liquide amniotique ; décrire l'oligohydramnios."
+  - "Décrire la gémellité (2 %, 92 % / 8 %) et les trois moments de scission ; définir le chimérisme."
+
+scenes:
+  - kind: hook
+    title: "Ta propre jumelle"
+    ref: "S2-3 p.9"
+    big: "Chimère"
+    beats:
+      - say: "Une femme a découvert qu'elle n'était pas, génétiquement, la mère de ses enfants. C'était sa jumelle, absorbée dans son propre corps avant sa naissance."
+      - say: "Au programme : de l'embryon au fœtus, l'amnios, le liquide amniotique, les jumeaux et le chimérisme."
+        show: "Embryon → fœtus · *liquide amniotique* · jumeaux · *chimères*"
+
+  - kind: figure
+    title: "Le chapitre VII"
+    ref: "S2-3 p.1"
+    fig: "S2-3:1"
+    beats:
+      - say: "Chapitre sept : de l'embryon au fœtus. Cinq points : les stades de Carnegie, la cavité amniotique, le placenta, la barrière placentaire, et la tératogenèse."
+        show: "1 Carnegie · 2 cavité amniotique · 3 placenta · 4 barrière · 5 tératogenèse"
+
+  - kind: figure
+    title: "La période embryonnaire"
+    ref: "S2-3 p.2"
+    fig: "S2-3:2"
+    trap: "Selon ce chapitre : période embryonnaire = semaines 0 à 8 ; Carnegie 1 à 23."
+    beats:
+      - say: "Dans ce chapitre, la *période embryonnaire* va des *semaines zéro à huit* : morphogenèse et organogenèse."
+        mark: ["semaines 0 à 8", "morphogenèse"]
+        show: "*Période embryonnaire* : *sem. 0 à 8* · morphogenèse, organogenèse"
+      - say: "Elle est subdivisée en *stades de Carnegie*, numérotés de *un à vingt-trois*."
+        mark: "stades de Carnegie"
+        show: "*Stades de Carnegie 1 à 23*"
+
+  - kind: figure
+    title: "La période fœtale"
+    ref: "S2-3 p.3"
+    fig: "S2-3:3"
+    beats:
+      - say: "La *période fœtale* va de la *semaine neuf* jusqu'à la naissance : accroissement de taille, et maturation des systèmes d'organes."
+        mark: ["semaine 9", "maturation"]
+        show: "*Période fœtale* : *sem. 9* → naissance · taille ↑ · maturation"
+
+  - kind: figure
+    title: "Évolution de la cavité amniotique"
+    ref: "S2-3 p.4"
+    fig: "S2-3:4"
+    trap: "L'amnios s'accole au chorion → la cavité CHORIONIQUE disparaît."
+    beats:
+      - say: "Lors du soulèvement de l'embryon, l'amnios passe en ventral, et entoure le pédicule de connexion et le conduit vitellin."
+        mark: "soulèment"
+        show: "Soulèvement : amnios → *ventral* · entoure pédicule + conduit vitellin"
+      - say: "Son volume augmente : l'amnios s'accole au *chorion*, et la *cavité chorionique disparaît*. L'embryon flotte librement."
+        mark: ["chorion", "flotte librement"]
+        show: "Amnios + *chorion* accolés → cavité chorionique *disparaît* · embryon *flotte*"
+      - say: "Une gaine tubulaire entoure le pédicule, avec ses vaisseaux, et le conduit vitellin : c'est le *cordon ombilical*. La vésicule ombilicale est repoussée, et disparaît en fin de gestation."
+        mark: ["cordon ombilical", "vésicule ombilicale"]
+        show: "Gaine → *cordon ombilical* · vésicule ombilicale → disparaît en *fin de gestation*"
+
+  - kind: figure
+    title: "Le liquide amniotique"
+    ref: "S2-3 p.5"
+    fig: "S2-3:5"
+    trap: "Volume maximum : 1000 ml ; vient du plasma MATERNEL."
+    beats:
+      - say: "Ses *rôles* : un espace libre ; un volant thermique ; il absorbe les vibrations ; il empêche les adhérences ; et il pénètre les voies gastro-intestinales et respiratoires, ce qui contribue à leur développement."
+        mark: ["volant thermique", "empêche les adhérences"]
+        show: "Espace libre · *volant thermique* · vibrations · adhérences · voies digestives et respiratoires"
+      - say: "Sa *composition* : de l'eau et des solutés, et des cellules libérées par l'embryon."
+        mark: "Composition"
+        show: "Eau + solutés · *cellules* de l'embryon"
+      - say: "Son *renouvellement* : volume maximum, *mille millilitres*, à partir du *plasma maternel*. Au début, à travers les membranes extra-embryonnaires et l'amnios ; ensuite, par le cordon vers le fœtus, sa peau et son système urinaire."
+        mark: ["1000 ml", "plasma maternel"]
+        show: "Max *1000 ml* · depuis le *plasma maternel* · membranes, puis cordon → fœtus"
+      - say: "Il est avalé par le fœtus, passe dans l'intestin fœtal, puis le cordon, et retourne à la circulation maternelle."
+        mark: "avalé par le fœtus"
+        show: "*Avalé* → intestin fœtal → cordon → circulation *maternelle*"
+
+  - kind: figure
+    title: "L'oligohydramnios"
+    ref: "S2-3 p.6"
+    fig: "S2-3:6"
+    trap: "Causé par une AGÉNÉSIE RÉNALE ; condition LÉTALE."
+    beats:
+      - say: "L'*oligohydramnios*, ou *séquence de Potter* : un volume de liquide amniotique insuffisant, causé par une *agénésie rénale*."
+        mark: ["séquence de Potter", "agénésie rénale"]
+        show: "*Oligohydramnios* = *séquence de Potter* · cause : *agénésie rénale*"
+      - say: "Conséquences : malformations des membres et du faciès, et *hypoplasie pulmonaire*. C'est une condition *létale*."
+        mark: ["hypoplasie pulmonaire", "létale"]
+        show: "Membres, faciès · *hypoplasie pulmonaire* · *létale*"
+
+  - kind: figure
+    title: "Un premier bébé sauvé"
+    ref: "S2-3 p.7"
+    fig: "S2-3:7"
+    blur: [[0.41, 0.2, 0.96, 0.95]]
+    beats:
+      - say: "Un premier bébé atteint a été sauvé par l'injection d'une *solution saline* dans la cavité amniotique pendant la grossesse."
+        mark: "solution saline"
+        show: "Premier bébé sauvé : *solution saline* injectée dans la cavité amniotique"
+
+  - kind: figure
+    title: "Gémellité et cavité amniotique"
+    ref: "S2-3 p.8"
+    fig: "S2-3:8"
+    trap: "Scission tardive = PLUS de partage : 2 cellules → tout séparé ; masse interne → placenta commun ; disque → tout commun."
+    beats:
+      - say: "La gémellité concerne *deux pour cent* des grossesses, dont *quatre-vingt-douze pour cent* de dizygotes et *huit pour cent* de monozygotes."
+        mark: ["2% des grossesses", "92 %"]
+        show: "*2 %* des grossesses · *92 %* dizygotes · *8 %* monozygotes"
+      - say: "Les jumeaux dizygotes viennent de deux ovocytes et deux spermatozoïdes : amnios et placentas séparés."
+        mark: "jumeaux dizygotes"
+        show: "*Dizygotes* : 2 zygotes → amnios et placentas *séparés*"
+      - say: "Chez les monozygotes, tout dépend du moment de la scission. Au stade deux cellules : amnios et placentas séparés. Scission de la masse cellulaire interne : amnios séparés, placenta commun. Scission du disque embryonnaire : amnios et placenta communs."
+        mark: ["scission stade 2-cellules", "scission de la masse", "scission du disque"]
+        show: "2 cellules → *tout séparé* · masse interne → *placenta commun* · disque → *tout commun*"
+
+  - kind: figure
+    title: "Le chimérisme"
+    ref: "S2-3 p.9"
+    fig: "S2-3:9"
+    blur: [[0.63, 0.64, 0.94, 0.98]]
+    beats:
+      - say: "Le *chimérisme* : deux zygotes fusionnent ou échangent des cellules, et donnent un seul individu, une chimère, fait de cellules de deux origines."
+        mark: ["Two zygotes", "Chimera"]
+        show: "*2 zygotes* → fusion / échange de cellules → *chimère*"
+      - say: "L'article cité : une grossesse n'est pas une preuve de maternité. Une femme était sa propre jumelle, et c'était la jumelle qui était génétiquement la mère de ses enfants."
+        show: "« Pregnancy No Proof of Motherhood »"
+
+  - kind: trap
+    title: "Les pièges"
+    ref: "S2-3 p.2-8"
+    beats:
+      - say: "Trois pièges."
+      - say: "“Le liquide amniotique provient du fœtus seul” : selon le cours, il est renouvelé à partir du plasma maternel."
+        show: "✓ Renouvellement : *plasma maternel*"
+      - say: "“L'oligohydramnios est causé par une agénésie pulmonaire” : faux. Agénésie rénale ; l'hypoplasie pulmonaire est une conséquence."
+        show: "✓ Cause : agénésie *rénale* · conséquence : hypoplasie *pulmonaire*"
+      - say: "“Une scission du disque embryonnaire donne des placentas séparés” : faux, amnios et placenta communs."
+        show: "✓ Scission du *disque* → *tout commun*"
+
+  - kind: mnemo
+    title: "Mémoriser la gémellité"
+    ref: "S2-3 p.8"
+    beats:
+      - say: "Plus la scission est tardive, plus les jumeaux partagent. Tôt, rien en commun ; au milieu, le placenta ; tard, tout."
+        show: "Tôt → *rien* · milieu → *placenta* · tard → *tout*"
+      - say: "Et les chiffres : deux, quatre-vingt-douze, huit. Deux pour cent de jumeaux, et presque tous des faux."
+        show: "*2 %* · *92* faux · *8* vrais"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-3 p.8"
+    question: "Une scission de la masse cellulaire interne donne des jumeaux avec :"
+    options:
+      - "Amnios et placentas séparés"
+      - "Amnios séparés, placenta commun"
+      - "Amnios et placenta communs"
+      - "Un seul individu chimère"
+    answer: [1]
+    beats:
+      - say: "Quiz : scission de la masse cellulaire interne ?"
+        countdown: 4
+      - say: "Amnios séparés, placenta commun."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 59 : le placenta"
+    ref: "S2-3 p.10"
+    big: "Placenta"
+    beats:
+      - say: "Prochain épisode : le placenta, ses caduques, ses pathologies, la barrière placentaire et l'incompatibilité rhésus."
+        show: "Caduques · *barrière placentaire* · rhésus"
+
+recap:
+  - "Chapitre VII : 1 stades de Carnegie, 2 cavité amniotique, 3 placenta, 4 barrière placentaire, 5 tératogenèse. Période embryonnaire : semaines 0 à 8 (morphogenèse, organogenèse ; stades de Carnegie 1 à 23). Période fœtale : semaine 9 → naissance (accroissement de taille, maturation des systèmes d'organes)."
+  - "Cavité amniotique : au soulèvement, amnios → ventral, entoure le pédicule de connexion et le conduit vitellin ; augmentation de volume : amnios accolé au chorion (cavité chorionique disparaît), embryon flottant ; gaine tubulaire autour du pédicule (+ vaisseaux) et du conduit vitellin → cordon ombilical ; vésicule ombilicale repoussée, disparaît en fin de gestation."
+  - "Liquide amniotique : rôles (espace libre, volant thermique, absorbe les vibrations, empêche les adhérences, pénètre les voies gastro-intestinales et respiratoires) ; composition (eau + solutés, cellules de l'embryon) ; renouvellement (max 1000 ml ; depuis le plasma maternel ; au début à travers les membranes extra-embryonnaires et l'amnios ; ensuite cordon → fœtus (peau, système urinaire) ; avalé → intestin fœtal → cordon → circulation maternelle)."
+  - "Oligohydramnios (séquence de Potter) : volume insuffisant ; causé par une agénésie rénale ; malformations des membres et du faciès ; hypoplasie pulmonaire ; condition létale ; premier bébé sauvé par injection de solution saline dans la cavité amniotique."
+  - "Gémellité : 2 % des grossesses (92 % dizygotes, 8 % monozygotes). Dizygotes : amnios et placentas séparés. Monozygotes : scission au stade 2 cellules → amnios et placentas séparés ; scission de la masse cellulaire interne → amnios séparés, placenta commun ; scission du disque embryonnaire → amnios et placenta communs. Chimérisme : deux zygotes, fusion ou échange de cellules → chimère."
+
+traps:
+  - ["Période embryonnaire = semaines 3 à 8 (ce chapitre)", "Ce chapitre : semaines 0 à 8 (Carnegie 1 à 23)", "p.2"]
+  - ["Carnegie 1 à 32", "1 à 23", "p.2"]
+  - ["La cavité amniotique disparaît", "C'est la cavité chorionique qui disparaît (amnios accolé au chorion)", "p.4"]
+  - ["Volume maximum 3000 ml", "1000 ml", "p.5"]
+  - ["Oligohydramnios causé par agénésie pulmonaire", "Agénésie rénale ; hypoplasie pulmonaire = conséquence", "p.6"]
+  - ["Gémellité : 92 % monozygotes", "92 % dizygotes, 8 % monozygotes", "p.8"]
+  - ["Scission du disque → placentas séparés", "Amnios et placenta communs", "p.8"]
+
+mnemonics:
+  - ["Scission", "Tôt → rien en commun ; milieu (masse interne) → placenta commun ; tard (disque) → tout commun", "Dizygotes = tout séparé"]
+  - ["Chiffres", "2 – 92 – 8", "Gémellité"]
+  - ["Liquide amniotique", "« 1 litre, venu de maman, avalé par bébé »", "Max 1000 ml"]
+
+quiz:
+  - q: "Périodes et cavité amniotique :"
+    props:
+      - ["Dans ce chapitre, la période embryonnaire va des semaines 0 à 8.", true, "p.2."]
+      - ["La période embryonnaire est subdivisée en stades de Carnegie 1 à 23.", true, "p.2."]
+      - ["La période fœtale commence à la semaine 9.", true, "p.3."]
+      - ["L'amnios s'accole au chorion et la cavité amniotique disparaît.", false, "C'est la cavité chorionique qui disparaît."]
+      - ["La vésicule ombilicale disparaît en fin de gestation.", true, "p.4."]
+  - q: "Liquide amniotique :"
+    props:
+      - ["Il sert de volant thermique.", true, "p.5."]
+      - ["Il empêche les adhérences.", true, "p.5."]
+      - ["Son volume maximum est de 1000 ml.", true, "p.5."]
+      - ["Il est renouvelé à partir du plasma maternel.", true, "p.5."]
+      - ["L'oligohydramnios est causé par une agénésie pulmonaire.", false, "Agénésie rénale."]
+  - q: "Gémellité et chimérisme :"
+    props:
+      - ["La gémellité concerne 2 % des grossesses.", true, "p.8."]
+      - ["8 % des jumeaux sont monozygotes.", true, "p.8."]
+      - ["Une scission au stade 2 cellules donne amnios et placentas séparés.", true, "p.8."]
+      - ["Une scission du disque embryonnaire donne des amnios séparés.", false, "Amnios et placenta communs."]
+      - ["Une chimère résulte de la fusion ou de l'échange de cellules entre deux zygotes.", true, "p.9."]
+
+coverage:
+  - ["S2-3", "1", "Sommaire chapitre VII", 1]
+  - ["S2-3", "2", "Période embryonnaire, Carnegie", 2]
+  - ["S2-3", "3", "Période fœtale", 3]
+  - ["S2-3", "4", "Évolution de la cavité amniotique", 4]
+  - ["S2-3", "5", "Liquide amniotique", 5]
+  - ["S2-3", "6", "Oligohydramnios", 6]
+  - ["S2-3", "7", "Premier bébé sauvé", 7]
+  - ["S2-3", "8", "Gémellité", 8]
+  - ["S2-3", "9", "Chimérisme", 9]

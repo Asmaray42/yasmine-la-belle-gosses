@@ -1,0 +1,245 @@
+title: "La fécondation, étape par étape"
+subtitle: "Capacitation · ZP3–SED1 · réaction acrosomiale · CD9–IZUMO · fusion · pronuclei"
+source: "S2-1 p.14b à 18"
+chapter: "Partie II — II. Fécondation, segmentation, implantation — 1 à 3"
+objectives:
+  - "Décrire la progression et la capacitation des spermatozoïdes ; légender la figure des voies génitales."
+  - "Décrire la réaction acrosomiale (ZP3–SED1, hyaluronidase, acrosine)."
+  - "Décrire l'arrimage (CD9–IZUMO) et la réaction corticale."
+  - "Décrire ce que transfère le spermatozoïde, l'achèvement de la méiose 2, les pronuclei et la 1re division."
+
+scenes:
+  - kind: hook
+    title: "200 millions au départ, quelques centaines à l'arrivée"
+    ref: "S2-1 p.15h"
+    big: "~200 M"
+    beats:
+      - say: "Environ deux cents millions de spermatozoïdes au départ. Quelques centaines seulement atteignent l'ampoule de la trompe. Un seul féconde."
+      - say: "Au programme : capacitation, réaction acrosomiale, arrimage, fusion, et formation du zygote."
+        show: "Capacitation · acrosome · arrimage · *zygote*"
+
+  - kind: figure
+    title: "Le chapitre II"
+    ref: "S2-1 p.14b"
+    fig: "S2-1:14b"
+    beats:
+      - say: "Chapitre deux : fécondation, segmentation, implantation. Sept points : activation et fusion du spermatozoïde, achèvement de la méiose deux, zygote et première division, segmentation, implantation, cavités de l'embryon, et circulation utéroplacentaire."
+        show: "1 fusion · 2 méiose 2 · 3 zygote · 4 segmentation · 5 implantation · 6 cavités · 7 circulation"
+
+  - kind: figure
+    title: "Progression et capacitation"
+    ref: "S2-1 p.15h"
+    fig: "S2-1:15h"
+    trap: "Quelques centaines sur ~200 millions ; fécondation possible jusqu'à 4 jours."
+    beats:
+      - say: "À l'éjaculation, les spermatozoïdes sont accompagnés du *liquide séminal* : fluidification, protection, nutrition, motilité."
+        mark: "liquide séminal"
+        show: "*Liquide séminal* : fluidification · protection · nutrition · motilité"
+      - say: "Long parcours jusqu'à l'*ampoule de la trompe* : quelques centaines sur environ *deux cents millions* y parviendront. Des groupes s'arrêtent et attendent en chemin : la fécondation est possible jusqu'à *quatre jours*."
+        mark: ["~200 millions", "4 jours"]
+        show: "Quelques *centaines* / ~*200 millions* · fécondation jusqu'à *4 jours*"
+      - say: "En chemin, la *capacitation* : stimulée par les sécrétions du tractus génital de la femme, elle détache des glycoprotéines membranaires au niveau de l'acrosome, et augmente la motilité : hyperactivité."
+        mark: "capacitation"
+        show: "*Capacitation* : sécrétions ♀ · détachement de glycoprotéines (acrosome) · *hyperactivité*"
+
+  - kind: figure
+    title: "Légendes : le trajet"
+    ref: "S2-1 p.15h"
+    fig: "S2-1:15h"
+    beats:
+      - say: "Les légendes. Un, le vagin. Deux, la portion vaginale du col utérin. Trois, le canal du col. Quatre, l'angle tubaire. Cinq, l'ampoule de la trompe utérine."
+        mark: ["1. Vagin", "5. Ampoule"]
+        show: "1 vagin · 2 col · 3 canal du col · 4 angle tubaire · 5 *ampoule*"
+      - say: "Six, l'ovaire et les franges de la trompe. Sept, l'endomètre. Huit, le myomètre. Neuf, la cavité utérine. Et dix, la rencontre des spermatozoïdes et de l'ovule."
+        mark: ["7. Endomètre", "10. Rencontre"]
+        show: "6 ovaire, franges · 7 endomètre · 8 myomètre · 9 cavité · *10 rencontre*"
+
+  - kind: figure
+    title: "La réaction acrosomiale"
+    ref: "S2-1 p.15b"
+    fig: "S2-1:15b"
+    trap: "ZP3 (zone pellucide) – SED1 (spermatozoïde) ; enzymes : hyaluronidase, acrosine."
+    beats:
+      - say: "Le spermatozoïde se lie à la zone pellucide : interaction entre la glycoprotéine *ZP3*, de la zone pellucide, et la protéine *SED1*, du spermatozoïde."
+        mark: ["ZP3", "SED1"]
+        show: "*ZP3* (zone pellucide) – *SED1* (spermatozoïde)"
+      - say: "Cette liaison déclenche la *réaction acrosomiale* : la membrane plasmique fusionne avec la membrane externe de l'acrosome, ce qui forme des pores."
+        mark: "fusions membrane"
+        show: "Membrane plasmique + membrane externe de l'acrosome → *pores*"
+      - say: "Les enzymes acrosomiales sont déversées : *hyaluronidase* et *acrosine*. La zone pellucide est détruite localement et le spermatozoïde passe. Sa tête est maintenant recouverte par la membrane *interne* de l'acrosome."
+        mark: ["hyaluronidase", "membrane interne"]
+        show: "*Hyaluronidase*, *acrosine* → passage · tête : membrane *interne* de l'acrosome"
+
+  - kind: figure
+    title: "Arrimage et réaction corticale"
+    ref: "S2-1 p.16"
+    fig: "S2-1:16"
+    trap: "CD9 (ovocyte) – IZUMO (spermatozoïde) ; protéases → détruisent ZP3 ; peroxydases → durcissent la ZP."
+    beats:
+      - say: "Le spermatozoïde qui a traversé la zone pellucide entre en contact avec la surface de l'ovocyte et ses microvillosités."
+        mark: "microvillosités"
+        show: "Contact : *microvillosités* de l'ovocyte"
+      - say: "Attachement par l'interaction *CD9*, de l'ovocyte, et *IZUMO*, du spermatozoïde. Sur la diapo, CD9 est annotée d'un signe moins du côté des chromosomes."
+        mark: ["CD9", "IZUMO"]
+        show: "*CD9* (ovocyte ; « – » côté chromosomes) – *IZUMO* (spermatozoïde)"
+      - say: "La membrane de l'ovocyte se dépolarise, le *calcium* entre, et les *vésicules corticales* sont libérées."
+        mark: ["Ca2+", "vésicules corticales"]
+        show: "Dépolarisation · entrée de *Ca²⁺* · *vésicules corticales*"
+      - say: "Elles contiennent : des *protéases*, qui détruisent la protéine de liaison des spermatozoïdes, ZP3 ; des *peroxydases*, qui durcissent la zone pellucide ; et des *glycosaminoglycanes*, qui attirent l'eau et augmentent l'espace périvitellin."
+        mark: ["protéases", "peroxydases", "glycosaminoglycans"]
+        show: "*Protéases* ⊣ ZP3 · *peroxydases* : ZP durcie · *GAG* : ↑ espace périvitellin"
+
+  - kind: figure
+    title: "Fusion du spermatozoïde et de l'ovocyte"
+    ref: "S2-1 p.17"
+    fig: "S2-1:17"
+    beats:
+      - say: "Suite à l'arrimage, les membranes du spermatozoïde et de l'ovocyte fusionnent, via des vésicules C D 9 positives qui recouvrent le spermatozoïde, IZUMO positif."
+        mark: "vésicules CD9+"
+        show: "Fusion via *vésicules CD9⁺* sur le spermatozoïde (*IZUMO⁺*)"
+      - say: "La figure récapitule les étapes de la fertilisation de l'ovocyte par le spermatozoïde."
+        show: "Étapes de la fertilisation"
+
+  - kind: figure
+    title: "Ce que transfère le spermatozoïde"
+    ref: "S2-1 p.18h"
+    fig: "S2-1:18h"
+    trap: "Centrosome PATERNEL conservé ; axonème et mitochondries DÉTRUITS ; méiose 2 achevée 2 h après."
+    beats:
+      - say: "Après la fusion, le spermatozoïde transfère : son *noyau condensé*, haploïde ; le *centrosome*, base de l'axonème, qui servira pour les futures mitoses ; et l'axonème et les mitochondries, *rapidement détruits*."
+        mark: ["centrosome", "rapidements détruits"]
+        show: "Noyau (n) · *centrosome* (futures mitoses) · axonème + mitochondries *détruits*"
+      - say: "La méiose deux de l'ovocyte s'achève, aussi pour le premier globule polaire, *deux heures* après la fusion : anaphase, puis cytocinèse : l'*ovule*, n, et le *deuxième globule polaire*. L'appareil microtubulaire de l'ovule est dégradé."
+        mark: ["2 heures", "2ème globule polaire"]
+        show: "*+ 2 h* : fin de méiose 2 → *ovule* (n) + *2e globule polaire*"
+
+  - kind: figure
+    title: "Formation du zygote et 1re division"
+    ref: "S2-1 p.18b"
+    fig: "S2-1:18b"
+    trap: "Pronucleus paternel : côté point d'entrée ; maternel : côté globules polaires."
+    beats:
+      - say: "L'ADN paternel se décondense, les protamines étant remplacées par des histones, et s'entoure d'une enveloppe : c'est le *pronucleus paternel*, du côté du point d'entrée du spermatozoïde."
+        mark: "pronucleus paternel"
+        show: "*Pronucleus paternel* : protamines → histones · côté *point d'entrée*"
+      - say: "L'ADN maternel s'entoure d'une enveloppe : le *pronucleus maternel*, du côté des globules polaires."
+        mark: "pronucleus maternel"
+        show: "*Pronucleus maternel* : côté *globules polaires*"
+      - say: "Les pronuclei se rapprochent, grâce au réseau issu du centrosome paternel. Réplication de l'ADN, dissociation des enveloppes, nouveau réseau de microtubules : chromosomes paternels et maternels sur le même fuseau. C'est le *zygote*. Anaphase, cytocinèse : les deux premières cellules de l'embryon."
+        mark: ["rapprochement", "même fuseau"]
+        show: "Rapprochement (*centrosome paternel*) · même fuseau = *zygote* → *2 cellules*"
+
+  - kind: flow
+    title: "La fécondation en 6 temps"
+    ref: "S2-1 p.15-18"
+    beats:
+      - say: "Résumons en six temps."
+      - say: "Capacitation, dans les voies génitales de la femme."
+        show: "1. *Capacitation*"
+      - say: "Liaison ZP3–SED1 et réaction acrosomiale."
+        show: "2. *ZP3–SED1* → réaction acrosomiale"
+      - say: "Arrimage CD9–IZUMO et réaction corticale."
+        show: "3. *CD9–IZUMO* → vésicules corticales"
+      - say: "Fusion des membranes."
+        show: "4. Fusion"
+      - say: "Fin de la méiose deux, deux heures après."
+        show: "5. Méiose 2 achevée (*2 h*)"
+      - say: "Pronuclei, même fuseau, première division."
+        show: "6. Pronuclei → *zygote* → 2 cellules"
+
+  - kind: trap
+    title: "Les pièges de la fécondation"
+    ref: "S2-1 p.15-18"
+    beats:
+      - say: "Trois pièges."
+      - say: "“CD9 est sur le spermatozoïde” : faux. CD9, ovocyte ; IZUMO, spermatozoïde. Et ZP3, zone pellucide ; SED1, spermatozoïde."
+        show: "✓ *ZP3*–SED1 (zone pellucide) · *CD9*–IZUMO (membrane de l'ovocyte)"
+      - say: "“Les mitochondries paternelles sont transmises à l'embryon” : faux, elles sont rapidement détruites. Seul le centrosome sert aux mitoses."
+        show: "✓ Mitochondries paternelles *détruites* · centrosome *conservé*"
+      - say: "“Les peroxydases détruisent ZP3” : faux. Ce sont les protéases ; les peroxydases durcissent la zone pellucide."
+        show: "✓ Protéases ⊣ ZP3 · peroxydases → *durcissement*"
+
+  - kind: mnemo
+    title: "Mémoriser les couples"
+    ref: "S2-1 p.15-16"
+    beats:
+      - say: "Les couples, de l'extérieur vers l'intérieur : d'abord la Zone, ZP3 avec SED1 ; ensuite la membrane, CD9 avec IZUMO. Z avant C, comme dans l'ordre du trajet."
+        show: "Dehors : *ZP3–SED1* → dedans : *CD9–IZUMO*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-1 p.18h"
+    question: "Quel élément du spermatozoïde sert aux futures mitoses de l'embryon ?"
+    options:
+      - "Les mitochondries"
+      - "L'axonème"
+      - "Le centrosome"
+      - "L'acrosome"
+    answer: [2]
+    beats:
+      - say: "Quiz : quel élément du spermatozoïde sert aux futures mitoses ?"
+        countdown: 4
+      - say: "Le centrosome. Axonème et mitochondries sont rapidement détruits."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 47 : segmentation et implantation"
+    ref: "S2-1 p.19"
+    big: "Blastocyste"
+    beats:
+      - say: "Prochain épisode : la segmentation, la morula, le blastocyste et l'implantation."
+        show: "Morula · *blastocyste* · implantation"
+
+recap:
+  - "Chapitre II : 1. activation et fusion du spermatozoïde ; 2. achèvement de la méiose 2 ; 3. zygote et 1re division ; 4. segmentation ; 5. implantation ; 6. cavités de l'embryon ; 7. circulation utéroplacentaire."
+  - "Éjaculation : spermatozoïdes + liquide séminal (fluidification, protection, nutrition, motilité) ; quelques centaines sur ~200 millions atteignent l'ampoule ; arrêt et veille en chemin (fécondation jusqu'à 4 jours) ; capacitation (sécrétions du tractus génital féminin ; détachement de glycoprotéines membranaires de l'acrosome ; hyperactivité). Légendes 1 vagin, 2 portion vaginale du col, 3 canal du col, 4 angle tubaire, 5 ampoule, 6 ovaire et franges, 7 endomètre, 8 myomètre, 9 cavité utérine, 10 rencontre."
+  - "Réaction acrosomiale : liaison ZP3 (zone pellucide) – SED1 (spermatozoïde) ; fusion membrane plasmique / membrane externe de l'acrosome (pores) ; enzymes (hyaluronidase, acrosine) ; destruction de la zone pellucide, passage ; tête recouverte par la membrane interne de l'acrosome."
+  - "Arrimage : contact avec les microvillosités ; CD9 (ovocyte ; « – » du côté des chromosomes) – IZUMO (spermatozoïde) ; dépolarisation, entrée de Ca2+, vésicules corticales : protéases (détruisent ZP3), peroxydases (durcissent la zone pellucide), glycosaminoglycans (attirent l'eau, ↑ espace périvitellin). Fusion via vésicules CD9+ recouvrant le spermatozoïde (IZUMO+)."
+  - "Transferts du spermatozoïde : noyau condensé (n), centrosome (base de l'axonème ; futures mitoses), axonème (kinocil) et mitochondries rapidement détruits. Méiose 2 achevée 2 h après la fusion (aussi pour le 1er GP) : ovule (n) + 2e globule polaire ; dégradation de l'appareil microtubulaire."
+  - "Zygote : ADN paternel décondensé (protamines → histones), enveloppe → pronucleus paternel (côté point d'entrée) ; pronucleus maternel (côté globules polaires) ; rapprochement (réseau du centrosome paternel) ; réplication, dissociation des enveloppes, nouveau fuseau commun (zygote) ; anaphase → cytocinèse : deux premières cellules."
+
+traps:
+  - ["Des millions atteignent l'ampoule", "Quelques centaines sur ~200 millions", "p.15h"]
+  - ["Fécondation possible 24 h seulement", "Jusqu'à 4 jours (arrêt et veille)", "p.15h"]
+  - ["ZP3 sur le spermatozoïde", "ZP3 = zone pellucide ; SED1 = spermatozoïde", "p.15b"]
+  - ["IZUMO sur l'ovocyte", "CD9 = ovocyte ; IZUMO = spermatozoïde", "p.16"]
+  - ["Peroxydases détruisent ZP3", "Protéases détruisent ZP3 ; peroxydases durcissent la ZP", "p.16"]
+  - ["Mitochondries paternelles conservées", "Rapidement détruites (centrosome conservé)", "p.18h"]
+  - ["Méiose 2 achevée 24 h après fusion", "2 heures", "p.18h"]
+  - ["Pronucleus maternel côté point d'entrée", "Paternel côté point d'entrée ; maternel côté globules polaires", "p.18b"]
+
+mnemonics:
+  - ["Couples de reconnaissance", "Dehors ZP3–SED1, dedans CD9–IZUMO (Z avant C)", "Zone pellucide puis membrane"]
+  - ["Vésicules corticales", "« PPG » : Protéases (⊣ ZP3), Peroxydases (durcissent), GAG (eau)", "Bloquent les autres spermatozoïdes"]
+
+quiz:
+  - q: "Progression et réaction acrosomiale :"
+    props:
+      - ["Quelques centaines de spermatozoïdes sur ~200 millions atteignent l'ampoule.", true, "p.15h."]
+      - ["La fécondation est possible jusqu'à 4 jours.", true, "p.15h."]
+      - ["La capacitation détache des glycoprotéines membranaires au niveau de l'acrosome.", true, "p.15h."]
+      - ["La liaison à la zone pellucide implique ZP3 et IZUMO.", false, "ZP3 et SED1."]
+      - ["L'acrosine est une enzyme acrosomiale.", true, "p.15b."]
+  - q: "Arrimage et réaction corticale :"
+    props:
+      - ["L'attachement fait intervenir CD9 (ovocyte) et IZUMO (spermatozoïde).", true, "p.16."]
+      - ["L'arrimage entraîne une entrée de Ca2+.", true, "p.16."]
+      - ["Les peroxydases durcissent la zone pellucide.", true, "p.16."]
+      - ["Les glycosaminoglycans diminuent l'espace périvitellin.", false, "Ils l'augmentent (attirent l'eau)."]
+      - ["Les protéases détruisent la protéine de liaison ZP3.", true, "p.16."]
+  - q: "Après la fusion :"
+    props:
+      - ["Le spermatozoïde transfère son centrosome.", true, "p.18h."]
+      - ["Les mitochondries du spermatozoïde sont rapidement détruites.", true, "p.18h."]
+      - ["La méiose 2 s'achève environ 2 heures après la fusion.", true, "p.18h."]
+      - ["Le pronucleus paternel se forme du côté des globules polaires.", false, "Côté point d'entrée du spermatozoïde."]
+      - ["Chromosomes paternels et maternels se placent sur le même fuseau.", true, "p.18b."]
+
+coverage:
+  - ["S2-1", "14b", "Sommaire du chapitre II", 1]
+  - ["S2-1", "15h", "Progression, capacitation, légendes 1 à 10", 2]
+  - ["S2-1", "15b", "Réaction acrosomiale", 4]
+  - ["S2-1", "16", "Arrimage, CD9–IZUMO, vésicules corticales", 5]
+  - ["S2-1", "17", "Fusion, vésicules CD9+", 6]
+  - ["S2-1", "18h", "Transferts du spermatozoïde, fin de méiose 2", 7]
+  - ["S2-1", "18b", "Pronuclei, zygote, 1re division", 8]

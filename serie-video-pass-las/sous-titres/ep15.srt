@@ -1,0 +1,467 @@
+1
+00:00:00,300 --> 00:00:01,544
+Vingt-quatre heures avant
+
+2
+00:00:01,544 --> 00:00:02,937
+l'accouchement, les cellules
+
+3
+00:00:02,937 --> 00:00:04,081
+musculaires de l'utérus
+
+4
+00:00:04,081 --> 00:00:05,674
+multiplient de minuscules canaux
+
+5
+00:00:05,674 --> 00:00:06,271
+entre elles.
+
+6
+00:00:06,411 --> 00:00:07,770
+Résultat : une contraction
+
+7
+00:00:07,770 --> 00:00:08,346
+coordonnée.
+
+8
+00:00:08,746 --> 00:00:10,287
+Au programme : les trois types de
+
+9
+00:00:10,287 --> 00:00:11,315
+jonctions cellulaires,
+
+10
+00:00:11,315 --> 00:00:12,202
+et leurs protéines.
+
+11
+00:00:12,762 --> 00:00:14,388
+Huitième point du chapitre trois.
+
+12
+00:00:14,528 --> 00:00:15,568
+Dans les organismes
+
+13
+00:00:15,568 --> 00:00:17,319
+pluricellulaires, la plupart des
+
+14
+00:00:17,319 --> 00:00:19,016
+cellules s'associent avec leurs
+
+15
+00:00:19,016 --> 00:00:20,713
+voisines, en contact permanent,
+
+16
+00:00:20,713 --> 00:00:22,410
+pour former un tissu structuré.
+
+17
+00:00:22,550 --> 00:00:24,482
+Exemple : un épithélium dans le rein.
+
+18
+00:00:24,882 --> 00:00:26,183
+Les connexions qui les relient
+
+19
+00:00:26,183 --> 00:00:27,354
+durablement s'appellent les
+
+20
+00:00:27,354 --> 00:00:28,352
+jonctions cellulaires .
+
+21
+00:00:28,912 --> 00:00:30,299
+Trois types : la jonction
+
+22
+00:00:30,299 --> 00:00:32,020
+étanche, la jonction adhérente,
+
+23
+00:00:32,020 --> 00:00:33,407
+la jonction communicante.
+
+24
+00:00:33,547 --> 00:00:34,785
+Et elles peuvent coexister au
+
+25
+00:00:34,785 --> 00:00:35,809
+sein d'une même cellule.
+
+26
+00:00:36,369 --> 00:00:37,417
+La jonction étanche ,
+
+27
+00:00:37,417 --> 00:00:38,914
+aussi appelée jonction serrée,
+
+28
+00:00:38,914 --> 00:00:39,862
+ou zona occludens .
+
+29
+00:00:40,262 --> 00:00:41,493
+Elle est constituée d'un
+
+30
+00:00:41,493 --> 00:00:42,672
+assemblage de protéines
+
+31
+00:00:42,672 --> 00:00:44,160
+membranaires, par exemple les
+
+32
+00:00:44,160 --> 00:00:45,648
+claudines , qui induisent une
+
+33
+00:00:45,648 --> 00:00:46,930
+fusion partielle des deux
+
+34
+00:00:46,930 --> 00:00:47,956
+membranes contiguës.
+
+35
+00:00:48,096 --> 00:00:49,494
+Elle assure une étanchéité,
+
+36
+00:00:49,494 --> 00:00:51,150
+même pour les petites molécules.
+
+37
+00:00:51,710 --> 00:00:52,968
+La jonction adhérente :
+
+38
+00:00:52,968 --> 00:00:54,717
+des protéines transmembranaires,
+
+39
+00:00:54,717 --> 00:00:56,412
+les cadhérines , associées côté
+
+40
+00:00:56,412 --> 00:00:57,670
+cytoplasme à une plaque
+
+41
+00:00:57,670 --> 00:00:59,310
+protéique, elle-même rattachée
+
+42
+00:00:59,310 --> 00:01:00,950
+aux microfilaments d' actine .
+
+43
+00:01:01,350 --> 00:01:02,988
+Les cadhérines s'associent entre
+
+44
+00:01:02,988 --> 00:01:04,420
+elles : un attachement entre
+
+45
+00:01:04,420 --> 00:01:05,495
+cellules, connecté au
+
+46
+00:01:05,495 --> 00:01:06,211
+cytosquelette.
+
+47
+00:01:06,611 --> 00:01:08,166
+Le desmosome est une variante
+
+48
+00:01:08,166 --> 00:01:09,507
+plus rigide, surtout dans
+
+49
+00:01:09,507 --> 00:01:10,686
+l'épiderme et le cœur.
+
+50
+00:01:10,826 --> 00:01:12,584
+Sa plaque contient une protéine
+
+51
+00:01:12,584 --> 00:01:14,229
+spécifique, la desmoplakine ,
+
+52
+00:01:14,229 --> 00:01:15,874
+qui la rattache aux filaments
+
+53
+00:01:15,874 --> 00:01:17,462
+intermédiaires , kératine et
+
+54
+00:01:17,462 --> 00:01:18,029
+vimentine.
+
+55
+00:01:18,589 --> 00:01:20,328
+Une maladie héréditaire rare :
+
+56
+00:01:20,328 --> 00:01:22,067
+la kératodermie palmoplantaire
+
+57
+00:01:22,067 --> 00:01:23,169
+striée héréditaire,
+
+58
+00:01:23,169 --> 00:01:24,386
+due à un défaut de la
+
+59
+00:01:24,386 --> 00:01:25,140
+desmoplakine.
+
+60
+00:01:25,540 --> 00:01:27,049
+Les symptômes apparaissent chez
+
+61
+00:01:27,049 --> 00:01:28,411
+l'enfant : épaississement et
+
+62
+00:01:28,411 --> 00:01:30,017
+fissures de la peau des paumes et
+
+63
+00:01:30,017 --> 00:01:31,039
+des plantes de pieds,
+
+64
+00:01:31,039 --> 00:01:32,256
+cheveux d'aspect laineux,
+
+65
+00:01:32,256 --> 00:01:33,326
+et risque d'affections
+
+66
+00:01:33,326 --> 00:01:33,862
+cardiaques.
+
+67
+00:01:34,422 --> 00:01:36,029
+Les jonctions communicantes sont
+
+68
+00:01:36,029 --> 00:01:37,535
+faites de complexes protéiques
+
+69
+00:01:37,535 --> 00:01:38,439
+transmembranaires,
+
+70
+00:01:38,439 --> 00:01:39,946
+les connexons , qui forment de
+
+71
+00:01:39,946 --> 00:01:40,649
+petits canaux.
+
+72
+00:01:40,789 --> 00:01:42,621
+Une jonction s'établit quand deux
+
+73
+00:01:42,621 --> 00:01:43,953
+connexons se font face :
+
+74
+00:01:43,953 --> 00:01:46,285
+le canal fait 1,5 nanomètre de
+
+75
+00:01:46,285 --> 00:01:46,784
+diamètre.
+
+76
+00:01:47,184 --> 00:01:48,506
+Elles laissent circuler de
+
+77
+00:01:48,506 --> 00:01:49,930
+petites molécules entre deux
+
+78
+00:01:49,930 --> 00:01:50,845
+cellules voisines,
+
+79
+00:01:50,845 --> 00:01:51,862
+ions, acides aminés,
+
+80
+00:01:51,862 --> 00:01:53,439
+sucres, mais pas les protéines.
+
+81
+00:01:53,579 --> 00:01:55,185
+Elles peuvent servir à propager
+
+82
+00:01:55,185 --> 00:01:56,844
+une signalisation dans un tissu.
+
+83
+00:01:57,404 --> 00:01:58,568
+L'exemple de l'utérus,
+
+84
+00:01:58,568 --> 00:01:59,361
+en trois temps.
+
+85
+00:01:59,761 --> 00:02:00,825
+Pendant la gestation,
+
+86
+00:02:00,825 --> 00:02:02,193
+les cellules musculaires de
+
+87
+00:02:02,193 --> 00:02:03,713
+l'utérus ont peu de connexons.
+
+88
+00:02:04,113 --> 00:02:05,337
+Vingt-quatre heures avant
+
+89
+00:02:05,337 --> 00:02:06,709
+l'accouchement, le nombre de
+
+90
+00:02:06,709 --> 00:02:07,640
+connexons augmente.
+
+91
+00:02:08,040 --> 00:02:09,366
+Pendant l'accouchement :
+
+92
+00:02:09,366 --> 00:02:11,135
+la contractilité est coordonnée,
+
+93
+00:02:11,135 --> 00:02:12,517
+la contraction utérine se
+
+94
+00:02:12,517 --> 00:02:12,959
+propage.
+
+95
+00:02:13,519 --> 00:02:14,950
+Le piège : associer la bonne
+
+96
+00:02:14,950 --> 00:02:16,431
+protéine à la bonne jonction.
+
+97
+00:02:16,831 --> 00:02:17,865
+Claudines : étanche.
+
+98
+00:02:18,005 --> 00:02:19,220
+Cadhérines : adhérente.
+
+99
+00:02:19,360 --> 00:02:20,931
+Desmoplakine : desmosome.
+
+100
+00:02:21,071 --> 00:02:22,411
+Connexons : communicante.
+
+101
+00:02:22,811 --> 00:02:24,055
+“La jonction adhérente se
+
+102
+00:02:24,055 --> 00:02:25,195
+rattache aux filaments
+
+103
+00:02:25,195 --> 00:02:26,336
+intermédiaires” : faux,
+
+104
+00:02:26,336 --> 00:02:26,906
+à l'actine.
+
+105
+00:02:27,046 --> 00:02:28,295
+C'est le desmosome qui se
+
+106
+00:02:28,295 --> 00:02:29,394
+rattache aux filaments
+
+107
+00:02:29,394 --> 00:02:30,143
+intermédiaires.
+
+108
+00:02:30,703 --> 00:02:32,083
+Quiz : laquelle est exacte ?
+
+109
+00:02:36,483 --> 00:02:37,297
+Réponse B.
+
+110
+00:02:37,437 --> 00:02:39,012
+Les protéines ne passent pas,
+
+111
+00:02:39,012 --> 00:02:40,315
+le desmosome contient la
+
+112
+00:02:40,315 --> 00:02:42,052
+desmoplakine, et les trois types
+
+113
+00:02:42,052 --> 00:02:43,029
+peuvent coexister.
+
+114
+00:02:43,589 --> 00:02:44,549
+Prochain épisode :
+
+115
+00:02:44,549 --> 00:02:45,722
+la membrane plasmique,
+
+116
+00:02:45,722 --> 00:02:47,215
+ses quatre composants et les
+
+117
+00:02:47,215 --> 00:02:48,654
+fonctions de ses protéines.

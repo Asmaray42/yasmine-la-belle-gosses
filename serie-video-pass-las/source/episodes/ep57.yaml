@@ -1,0 +1,221 @@
+title: "Organogenèse : les membres"
+subtitle: "Bourgeons sem. 4-8 · apoptose · FGF8 · CEA et ZP · proximo-distal · HOXD9-13 · origines tissulaires · Pfeiffer"
+source: "S2-2 p.35 à 38"
+chapter: "Partie II — VI. Organogenèse — 3 et 4"
+objectives:
+  - "Décrire le développement des membres supérieurs (semaines 4 à 8, J24 à J56) et le rôle de l'apoptose."
+  - "Expliquer le rôle du FGF8 (expérience du membre surnuméraire chez le poulet)."
+  - "Décrire la CEA, la ZP, la différenciation proximale du cartilage et la régionalisation proximo-distale."
+  - "Décrire le rôle des gènes HOXD9 à HOXD13, les origines tissulaires du membre et le syndrome de Pfeiffer."
+
+scenes:
+  - kind: hook
+    title: "Une mèche, un membre en plus"
+    ref: "S2-2 p.35b"
+    big: "+1 membre"
+    beats:
+      - say: "On pose une petite mèche imbibée d'une seule protéine sur le flanc d'un embryon de poulet. Quarante-huit heures plus tard, un membre supplémentaire commence à pousser."
+      - say: "Au programme : le développement des membres, le F G F 8, la crête ectodermique apicale, les gènes HOXD, et le syndrome de Pfeiffer."
+        show: "Bourgeons · *FGF8* · CEA · *HOXD* · Pfeiffer"
+
+  - kind: figure
+    title: "Les membres supérieurs"
+    ref: "S2-2 p.35h"
+    fig: "S2-2:35h"
+    trap: "Membres supérieurs sem. 4 à 8 ; inférieurs un peu PLUS TARD ; doigts par APOPTOSE."
+    beats:
+      - say: "Les membres supérieurs se développent entre la *quatrième* et la *huitième semaine*. Les membres inférieurs débutent un peu plus tard."
+        mark: ["4ème et la 8ème semaine", "un peu plus tard"]
+        show: "Supérieurs : *sem. 4 à 8* · inférieurs : un peu *plus tard*"
+      - say: "Des bourgeons apparaissent sur la paroi latérale du corps. Ils s'allongent, et à leur extrémité apparaît la *palette de la main*. Un repliement au niveau du futur coude délimite l'avant-bras, le bras et l'épaule."
+        mark: ["Palette de", "coude"]
+        show: "Bourgeon → *palette de la main* · repli du *coude* : avant-bras, bras, épaule"
+      - say: "Dans la palette, des sillons se creusent, zones de mort cellulaire programmée, l'*apoptose*, laissant apparaître les *rayons digitaux*, les futurs doigts. Des jours vingt-quatre à cinquante-six."
+        mark: ["apoptose", "Rayons"]
+        show: "*Apoptose* → *rayons digitaux* (J24 → J56)"
+
+  - kind: figure
+    title: "Le rôle du FGF8"
+    ref: "S2-2 p.35b"
+    fig: "S2-2:35b"
+    trap: "Bourgeon = prolifération du mésoderme de la LAME LATÉRALE ; FGF8 produit par l'ECTODERME."
+    beats:
+      - say: "Le bourgeon correspond à une prolifération des cellules mésodermiques sous-jacentes, dérivées du mésoderme de la *lame latérale*."
+        mark: "lame latérale"
+        show: "Bourgeon = prolifération du mésoderme de la *lame latérale*"
+      - say: "Cette prolifération est due au *F G F 8*, produit localement par un groupe de cellules *ectodermiques*. Sa synthèse apparaît dans l'ectoderme avant le bourgeon, puis se maintient sur le front distal pendant sa croissance."
+        mark: ["FGF8", "ectodermiques"]
+        show: "*FGF8* : cellules *ectodermiques* · avant le bourgeon, puis front *distal*"
+      - say: "L'expérience : une mèche imprégnée de F G F 8 sur le flanc d'un embryon de poulet fait apparaître un *membre surnuméraire*, quarante-huit heures après."
+        mark: ["membre surnuméraire", "48h"]
+        show: "Mèche de FGF8 → *membre surnuméraire* (*48 h*)"
+
+  - kind: figure
+    title: "CEA et zone de progression"
+    ref: "S2-2 p.36h"
+    fig: "S2-2:36h"
+    trap: "CEA = ECTODERME (FGF8) ; ZP = MÉSODERME non différencié ; cartilage d'abord en PROXIMAL."
+    beats:
+      - say: "Les cellules ectodermiques qui produisent le F G F 8 sont rassemblées à l'extrémité du bourgeon, sur la *crête ectodermique apicale*, la C E A."
+        mark: "CEA"
+        show: "*CEA* : crête ectodermique apicale (FGF8)"
+      - say: "Juste en dessous, la *zone de progression*, la Z P : des cellules mésodermiques qui prolifèrent activement et restent non différenciées."
+        mark: "ZP"
+        show: "*ZP* : mésoderme qui prolifère, *non différencié*"
+      - say: "Plus loin, vers la base, en *proximal*, les cellules mésodermiques qui ne sont plus sous l'influence de la C E A commencent à se différencier en *cartilage*. La formation du cartilage débute donc dans la partie proximale."
+        mark: ["Mésoderme proximal", "cartilage"]
+        show: "*Proximal* : hors CEA → *cartilage* (commence en proximal)"
+
+  - kind: figure
+    title: "Régionalisation proximo-distale"
+    ref: "S2-2 p.36b"
+    fig: "S2-2:36b"
+    trap: "Plus distal = plus LONGTEMPS dans la ZP (future main)."
+    beats:
+      - say: "Pendant l'allongement, des zones distinctes se différencient sur l'axe proximo-distal : bras, avant-bras, main."
+        mark: ["Bras", "Main"]
+        show: "Proximo-distal : *bras* → *avant-bras* → *main*"
+      - say: "Un modèle : le temps passé par les cellules dans la Z P, donc exposées aux signaux de la C E A, varie selon leur position. Les cellules les plus distales, la future main, y auront séjourné *plus longtemps*."
+        mark: "plus longtemps"
+        show: "Temps dans la ZP ↑ = plus *distal* (main)"
+
+  - kind: figure
+    title: "Les facteurs HOXD"
+    ref: "S2-2 p.37h"
+    fig: "S2-2:37h"
+    trap: "HOXD9 à HOXD13, chromosome 2, facteurs de transcription ; doigts = D9 + D10 + D11 + D12 + D13."
+    beats:
+      - say: "La régionalisation implique un groupe de gènes, *HOXD9 à HOXD13*, rassemblés dans un locus commun sur le *chromosome 2*, et qui codent des *facteurs de transcription*."
+        mark: ["HOXD9 à", "Chr. 2"]
+        show: "*HOXD9 → HOXD13* · *chromosome 2* · facteurs de transcription"
+      - say: "Leur activation séquentielle crée un profil d'expression ordonné : par exemple, HOXD9 et D10 dans le bras ; HOXD9, D10, D11, D12 et D13 dans les doigts."
+        mark: ["HOXD9 +D10 dans le bras", "doigts"]
+        show: "Bras : *D9 + D10* · doigts : *D9 → D13*"
+      - say: "C'est ce contenu différentiel en facteurs HOXD qui détermine le devenir de chaque segment."
+        show: "Contenu *HOXD* → devenir du segment"
+
+  - kind: figure
+    title: "Origines tissulaires des membres"
+    ref: "S2-2 p.37b"
+    fig: "S2-2:37b"
+    trap: "Muscles = SOMITES ; os, ligaments, tendons = LAME LATÉRALE ; Schwann et mélanocytes = CRÊTE."
+    beats:
+      - say: "Le membre est colonisé par des populations de différentes origines. Ectoderme : épiderme. Lame latérale : derme, os, ligaments, tendons, et vaisseaux sanguins."
+        mark: ["Epiderme", "Os, ligaments"]
+        show: "Ectoderme → *épiderme* · lame latérale → derme, *os, ligaments, tendons*, vaisseaux"
+      - say: "Mésoderme paraxial, les somites : les *muscles*. Tube neural, par les nerfs spinaux : les nerfs. Crête neurale : les cellules de Schwann et les mélanocytes."
+        mark: ["Muscles", "Cellules de Schwan"]
+        show: "Somites → *muscles* · tube neural → *nerfs* · crête → *Schwann*, *mélanocytes*"
+
+  - kind: figure
+    title: "Défauts de signalisation FGF"
+    ref: "S2-2 p.38"
+    fig: "S2-2:38"
+    blur: [[0.23, 0.35, 0.47, 0.71]]
+    beats:
+      - say: "Les défauts de signalisation F G F touchent essentiellement le système squelettique et les membres."
+        mark: "squelettique"
+        show: "Défauts FGF : *squelette* et *membres*"
+      - say: "Exemple : le *syndrome de Pfeiffer*, craniosynostose et anomalies des membres, dû à des mutations de *Fgfr1* et *Fgfr2*, des récepteurs du F G F."
+        mark: ["Pfeiffer", "Fgfr1"]
+        show: "*Pfeiffer* : craniosynostose + membres · mutations *Fgfr1*, *Fgfr2* (récepteurs)"
+
+  - kind: trap
+    title: "Les pièges des membres"
+    ref: "S2-2 p.35-38"
+    beats:
+      - say: "Trois pièges."
+      - say: "“La zone de progression est ectodermique” : faux. C E A, ectoderme ; Z P, mésoderme."
+        show: "✓ *CEA* = ectoderme · *ZP* = mésoderme"
+      - say: "“Le cartilage apparaît d'abord dans la main” : faux, d'abord en proximal."
+        show: "✓ Cartilage : d'abord *proximal*"
+      - say: "“Les doigts expriment seulement HOXD13” : faux, HOXD9 à D13."
+        show: "✓ Doigts : *HOXD9 → D13*"
+
+  - kind: mnemo
+    title: "Mémoriser"
+    ref: "S2-2 p.36-37"
+    beats:
+      - say: "Plus loin du corps, plus de HOX : le bras en a deux, D9 et D10 ; les doigts, les cinq, de neuf à treize."
+        show: "Bras *2* (D9-D10) → doigts *5* (D9 → D13)"
+      - say: "Et la C E A, “Crête En haut, Ectoderme” : elle coiffe le bourgeon ; la Z P, juste dessous, c'est du mésoderme qui Prolifère."
+        show: "*CEA* : coiffe ectodermique · *ZP* : mésoderme qui *P*rolifère"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S2-2 p.36h"
+    question: "Où débute la formation du cartilage dans le membre en croissance ?"
+    options:
+      - "Dans la CEA"
+      - "Dans la zone de progression"
+      - "Dans la partie proximale"
+      - "Dans la palette de la main"
+    answer: [2]
+    beats:
+      - say: "Quiz : où débute la formation du cartilage ?"
+        countdown: 4
+      - say: "Dans la partie proximale, là où les cellules ne sont plus sous l'influence de la C E A."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 58 : tératogenèse"
+    ref: "S2-3 p.1"
+    big: "Tératogenèse"
+    beats:
+      - say: "Prochain épisode : on entre dans le dernier chapitre, avec les anomalies du développement et la tératogenèse."
+        show: "*Anomalies* · tératogènes"
+
+recap:
+  - "Membres supérieurs : semaines 4 à 8 (membres inférieurs un peu plus tard) ; bourgeons sur la paroi latérale ; allongement, palette de la main ; repliement au futur coude (avant-bras, bras, épaule) ; sillons par apoptose → rayons digitaux (J24, J33, J38, J47, J56)."
+  - "FGF8 : le bourgeon = prolifération du mésoderme de la lame latérale, due au FGF8 produit par des cellules ectodermiques ; synthèse dans l'ectoderme avant le bourgeon, maintenue sur le front distal ; mèche de FGF8 sur le flanc d'un embryon de poulet → bourgeon surnuméraire 48 h après."
+  - "CEA (crête ectodermique apicale) : cellules ectodermiques productrices de FGF8 à l'extrémité ; ZP (zone de progression) : mésoderme qui prolifère, non différencié ; en proximal, hors influence de la CEA → cartilage (débute en proximal). Régionalisation proximo-distale (bras, avant-bras, main) : temps passé dans la ZP plus long pour les cellules distales (main)."
+  - "HOXD9 à HOXD13 : locus commun sur le chromosome 2 ; facteurs de transcription ; activation séquentielle → profil ordonné (bras : HOXD9 + D10 ; doigts : HOXD9 à D13) ; le contenu différentiel en HOXD détermine le devenir des segments."
+  - "Origines tissulaires : ectoderme → épiderme ; lame latérale → derme, os, ligaments, tendons, vaisseaux ; somites → muscles ; tube neural (nerfs spinaux) → nerfs ; crête neurale → cellules de Schwann, mélanocytes. Défauts FGF : surtout squelette et membres ; syndrome de Pfeiffer (craniosynostose, anomalies des membres) : mutations Fgfr1 et Fgfr2 (récepteurs FGF)."
+
+traps:
+  - ["Membres inférieurs avant les supérieurs", "Supérieurs sem. 4-8 ; inférieurs un peu plus tard", "p.35h"]
+  - ["Doigts par prolifération entre les rayons", "Sillons par apoptose", "p.35h"]
+  - ["FGF8 produit par le mésoderme", "Par des cellules ectodermiques (CEA)", "p.35b"]
+  - ["Bourgeon = mésoderme paraxial", "Mésoderme de la lame latérale", "p.35b"]
+  - ["ZP ectodermique", "ZP = mésoderme ; CEA = ectoderme", "p.36h"]
+  - ["Cartilage d'abord en distal", "Débute en proximal", "p.36h"]
+  - ["HOXD sur le chromosome 7", "Chromosome 2", "p.37h"]
+  - ["Muscles des membres = lame latérale", "Somites", "p.37b"]
+  - ["Pfeiffer : mutation de FGF8", "Fgfr1 et Fgfr2 (récepteurs)", "p.38"]
+
+mnemonics:
+  - ["HOXD", "Plus loin du corps, plus de HOX : bras D9-D10, doigts D9 → D13", "Chromosome 2"]
+  - ["CEA / ZP", "CEA = coiffe ectodermique ; ZP = mésoderme qui Prolifère", "Cartilage proximal en premier"]
+  - ["Origines", "« Somites bougent, lame latérale tient, crête habille (Schwann, mélanocytes) »", "Ectoderme → épiderme"]
+
+quiz:
+  - q: "Bourgeons et FGF8 :"
+    props:
+      - ["Les membres supérieurs se développent entre la 4e et la 8e semaine.", true, "p.35h."]
+      - ["Les rayons digitaux apparaissent grâce à l'apoptose.", true, "p.35h."]
+      - ["Le FGF8 est produit par des cellules mésodermiques.", false, "Par des cellules ectodermiques."]
+      - ["Le bourgeon correspond à une prolifération du mésoderme de la lame latérale.", true, "p.35b."]
+      - ["Une mèche de FGF8 sur le flanc d'un embryon de poulet induit un membre surnuméraire.", true, "p.35b."]
+  - q: "CEA, ZP, régionalisation :"
+    props:
+      - ["La CEA est composée de cellules ectodermiques.", true, "p.36h."]
+      - ["Les cellules de la ZP restent non différenciées.", true, "p.36h."]
+      - ["Le cartilage se forme d'abord dans la partie distale.", false, "Partie proximale."]
+      - ["Les cellules de la future main séjournent plus longtemps dans la ZP.", true, "p.36b."]
+      - ["Les gènes HOXD9 à HOXD13 sont sur le chromosome 2.", true, "p.37h."]
+  - q: "Origines tissulaires et Pfeiffer :"
+    props:
+      - ["Les muscles des membres dérivent des somites.", true, "p.37b."]
+      - ["Les os des membres dérivent du mésoderme de la lame latérale.", true, "p.37b."]
+      - ["Les cellules de Schwann dérivent de la crête neurale.", true, "p.37b."]
+      - ["Le syndrome de Pfeiffer est dû à des mutations de Fgfr1 et Fgfr2.", true, "p.38."]
+      - ["Les défauts de signalisation FGF touchent surtout le système nerveux.", false, "Surtout le squelette et les membres."]
+
+coverage:
+  - ["S2-2", "35h", "Membres supérieurs : semaines 4-8, apoptose", 1]
+  - ["S2-2", "35b", "FGF8, membre surnuméraire", 2]
+  - ["S2-2", "36h", "CEA, ZP, cartilage proximal", 3]
+  - ["S2-2", "36b", "Régionalisation proximo-distale", 4]
+  - ["S2-2", "37h", "HOXD9 à HOXD13", 5]
+  - ["S2-2", "37b", "Origines tissulaires", 6]
+  - ["S2-2", "38", "Défauts FGF, Pfeiffer", 7]

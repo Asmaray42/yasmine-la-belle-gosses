@@ -1,0 +1,159 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tes mitochondries ont leur propre
+Dialogue: 0,0:00:01.98,0:00:03.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ADN, leurs propres ribosomes,
+Dialogue: 0,0:00:03.55,0:00:04.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et deux membranes.
+Dialogue: 0,0:00:04.61,0:00:06.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours explique pourquoi :
+Dialogue: 0,0:00:06.08,0:00:07.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la théorie de l'endosymbiose.
+Dialogue: 0,0:00:08.01,0:00:09.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis le squelette de la cellule :
+Dialogue: 0,0:00:09.64,0:00:10.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois types de fibres,
+Dialogue: 0,0:00:10.72,0:00:11.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les centrioles.
+Dialogue: 0,0:00:12.17,0:00:13.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mitochondries ont deux
+Dialogue: 0,0:00:13.61,0:00:15.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranes, externe et interne,
+Dialogue: 0,0:00:15.28,0:00:16.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparées par l' {\c&H66D1FF&}espace{\c&HFFFFFF&}
+Dialogue: 0,0:00:16.51,0:00:17.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}intermembranaire{\c&HFFFFFF&} .
+Dialogue: 0,0:00:17.91,0:00:18.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La membrane interne,
+Dialogue: 0,0:00:18.99,0:00:20.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui présente de nombreux replis,
+Dialogue: 0,0:00:20.72,0:00:21.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}renferme la {\c&H66D1FF&}matrice{\c&HFFFFFF&} .
+Dialogue: 0,0:00:22.25,0:00:23.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles possèdent leur propre ADN
+Dialogue: 0,0:00:23.87,0:00:25.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et leurs propres ribosomes :
+Dialogue: 0,0:00:25.25,0:00:26.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles synthétisent elles-mêmes
+Dialogue: 0,0:00:26.72,0:00:27.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}certaines protéines.
+Dialogue: 0,0:00:27.84,0:00:29.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'autres, encodées par l'ADN
+Dialogue: 0,0:00:29.56,0:00:31.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléaire, sont importées depuis
+Dialogue: 0,0:00:31.33,0:00:31.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytosol.
+Dialogue: 0,0:00:32.34,0:00:33.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles sont responsables de la
+Dialogue: 0,0:00:33.87,0:00:35.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiration cellulaire,
+Dialogue: 0,0:00:35.09,0:00:37.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui utilise de l'O2 et produit de
+Dialogue: 0,0:00:37.05,0:00:38.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATP riche en énergie.
+Dialogue: 0,0:00:38.93,0:00:40.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN mitochondrial,
+Dialogue: 0,0:00:40.20,0:00:41.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}présent en plusieurs copies,
+Dialogue: 0,0:00:41.74,0:00:42.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut être répliqué.
+Dialogue: 0,0:00:43.19,0:00:44.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mitochondries se divisent,
+Dialogue: 0,0:00:44.62,0:00:46.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce qui maintient leur nombre au
+Dialogue: 0,0:00:46.09,0:00:47.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cours des divisions cellulaires.
+Dialogue: 0,0:00:47.75,0:00:49.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais cette division n'est pas
+Dialogue: 0,0:00:49.29,0:00:50.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}totalement autonome :
+Dialogue: 0,0:00:50.40,0:00:51.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle nécessite des protéines
+Dialogue: 0,0:00:51.89,0:00:53.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encodées par le noyau cellulaire.
+Dialogue: 0,0:00:54.20,0:00:55.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}symbiose{\c&HFFFFFF&} , c'est une
+Dialogue: 0,0:00:55.48,0:00:57.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}association étroite entre deux
+Dialogue: 0,0:00:57.15,0:00:58.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}espèces différentes vivant
+Dialogue: 0,0:00:58.59,0:01:00.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ensemble, pour un bénéfice mutuel.
+Dialogue: 0,0:01:00.89,0:01:02.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La théorie de l' {\c&H66D1FF&}endosymbiose{\c&HFFFFFF&}
+Dialogue: 0,0:01:02.48,0:01:03.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}explique l'origine des
+Dialogue: 0,0:01:03.70,0:01:04.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondries et des
+Dialogue: 0,0:01:04.80,0:01:06.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chloroplastes : une phagocytose
+Dialogue: 0,0:01:06.51,0:01:08.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par une cellule originelle.
+Dialogue: 0,0:01:08.14,0:01:09.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle explique la double membrane,
+Dialogue: 0,0:01:09.79,0:01:10.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'ADN propre.
+Dialogue: 0,0:01:11.30,0:01:13.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cytosquelette est un réseau de
+Dialogue: 0,0:01:13.10,0:01:14.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fibres protéiques dans le
+Dialogue: 0,0:01:14.46,0:01:14.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosol.
+Dialogue: 0,0:01:15.03,0:01:16.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il assure la forme de la cellule
+Dialogue: 0,0:01:16.67,0:01:18.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'ancrage des organites,
+Dialogue: 0,0:01:18.05,0:01:19.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et intervient dans les mouvements
+Dialogue: 0,0:01:19.73,0:01:20.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaires et les
+Dialogue: 0,0:01:20.91,0:01:22.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mouvements des cellules.
+Dialogue: 0,0:01:22.53,0:01:24.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une fibre est un assemblage,
+Dialogue: 0,0:01:24.12,0:01:25.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une polymérisation,
+Dialogue: 0,0:01:25.20,0:01:26.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de sous-unités protéiques
+Dialogue: 0,0:01:26.62,0:01:27.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques.
+Dialogue: 0,0:01:27.38,0:01:28.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est un système dynamique :
+Dialogue: 0,0:01:28.98,0:01:30.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}assemblage, désassemblage.
+Dialogue: 0,0:01:30.60,0:01:32.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y a trois types de fibres.
+Dialogue: 0,0:01:32.56,0:01:33.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les trois fibres, avec leurs
+Dialogue: 0,0:01:33.99,0:01:34.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diamètres.
+Dialogue: 0,0:01:34.90,0:01:35.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les microfilaments :
+Dialogue: 0,0:01:35.95,0:01:37.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux chaînes protéiques
+Dialogue: 0,0:01:37.16,0:01:38.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entrelacées, faites d'actine,
+Dialogue: 0,0:01:38.68,0:01:39.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept nanomètres.
+Dialogue: 0,0:01:39.66,0:01:40.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fonctions : mouvements
+Dialogue: 0,0:01:40.70,0:01:41.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires, contraction
+Dialogue: 0,0:01:41.83,0:01:42.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}musculaire.
+Dialogue: 0,0:01:42.76,0:01:43.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les microtubules :
+Dialogue: 0,0:01:43.75,0:01:45.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des tubes creux de treize
+Dialogue: 0,0:01:45.13,0:01:46.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protofilaments en couronne,
+Dialogue: 0,0:01:46.63,0:01:48.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacun fait de tubuline alpha et
+Dialogue: 0,0:01:48.39,0:01:49.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tubuline bêta, vingt-cinq
+Dialogue: 0,0:01:49.78,0:01:50.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nanomètres.
+Dialogue: 0,0:01:50.52,0:01:51.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fonctions : mouvements
+Dialogue: 0,0:01:51.54,0:01:52.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires, cils et flagelles,
+Dialogue: 0,0:01:52.97,0:01:53.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et intracellulaires.
+Dialogue: 0,0:01:54.29,0:01:56.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les filaments intermédiaires :
+Dialogue: 0,0:01:56.00,0:01:57.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des câbles de protéines fibreuses
+Dialogue: 0,0:01:57.88,0:01:59.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entrelacées, très stables,
+Dialogue: 0,0:01:59.36,0:02:00.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de plusieurs types :
+Dialogue: 0,0:02:00.50,0:02:02.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vimentine, kératine, lamine.
+Dialogue: 0,0:02:02.24,0:02:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Huit à dix nanomètres.
+Dialogue: 0,0:02:03.59,0:02:05.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fonctions : structure cellulaire,
+Dialogue: 0,0:02:05.34,0:02:07.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lamina, cheveux et ongles avec la
+Dialogue: 0,0:02:07.10,0:02:07.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}kératine.
+Dialogue: 0,0:02:08.14,0:02:09.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le filament intermédiaire porte
+Dialogue: 0,0:02:09.75,0:02:11.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bien son nom : son diamètre est
+Dialogue: 0,0:02:11.36,0:02:12.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre les deux autres.
+Dialogue: 0,0:02:12.90,0:02:14.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Microfilament, le plus fin,
+Dialogue: 0,0:02:14.42,0:02:15.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept nanomètres.
+Dialogue: 0,0:02:15.46,0:02:16.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Filament intermédiaire,
+Dialogue: 0,0:02:16.72,0:02:17.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}huit à dix.
+Dialogue: 0,0:02:17.46,0:02:18.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Microtubule, le plus gros,
+Dialogue: 0,0:02:18.84,0:02:20.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un tube de vingt-cinq.
+Dialogue: 0,0:02:20.41,0:02:22.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et treize protofilaments dans un
+Dialogue: 0,0:02:22.05,0:02:23.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubule : un tube de treize,
+Dialogue: 0,0:02:23.68,0:02:25.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme une couronne à treize perles.
+Dialogue: 0,0:02:26.03,0:02:27.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les centrioles sont des organites
+Dialogue: 0,0:02:27.74,0:02:28.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cylindriques, par paire,
+Dialogue: 0,0:02:28.99,0:02:30.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disposés à angle droit.
+Dialogue: 0,0:02:30.32,0:02:32.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque cylindre est un assemblage
+Dialogue: 0,0:02:32.03,0:02:33.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de microtubules : {\c&H66D1FF&}neuf{\c&HFFFFFF&} {\c&H66D1FF&}triplets{\c&HFFFFFF&} .
+Dialogue: 0,0:02:34.15,0:02:35.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avec le matériel
+Dialogue: 0,0:02:35.08,0:02:36.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}péricentriolaire, ils forment le
+Dialogue: 0,0:02:36.95,0:02:37.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}centrosome{\c&HFFFFFF&} .
+Dialogue: 0,0:02:38.05,0:02:39.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fonctions : site d'initiation de
+Dialogue: 0,0:02:39.89,0:02:40.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la polymérisation,
+Dialogue: 0,0:02:40.92,0:02:42.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la nucléation, des microtubules,
+Dialogue: 0,0:02:42.76,0:02:43.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et réorganisation des
+Dialogue: 0,0:02:43.96,0:02:45.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubules lors de la division
+Dialogue: 0,0:02:45.79,0:02:46.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire.
+Dialogue: 0,0:02:46.57,0:02:48.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les microtubules ont une
+Dialogue: 0,0:02:48.03,0:02:49.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extrémité moins et une extrémité
+Dialogue: 0,0:02:49.98,0:02:51.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus, avec une polymérisation et
+Dialogue: 0,0:02:51.92,0:02:53.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dépolymérisation dynamique.
+Dialogue: 0,0:02:53.97,0:02:55.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Attention : il n'y a pas de
+Dialogue: 0,0:02:55.23,0:02:56.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}centriole dans les cellules
+Dialogue: 0,0:02:56.49,0:02:56.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}végétales.
+Dialogue: 0,0:02:57.51,0:02:58.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:58.75,0:03:00.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La lamine est un microtubule” :
+Dialogue: 0,0:03:00.43,0:03:01.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est un filament
+Dialogue: 0,0:03:01.71,0:03:03.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intermédiaire, comme la vimentine
+Dialogue: 0,0:03:03.55,0:03:04.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la kératine.
+Dialogue: 0,0:03:04.79,0:03:06.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le centriole est formé de neuf
+Dialogue: 0,0:03:06.34,0:03:07.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paires de microtubules” :
+Dialogue: 0,0:03:07.58,0:03:08.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, neuf triplets.
+Dialogue: 0,0:03:09.01,0:03:10.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La division mitochondriale est
+Dialogue: 0,0:03:10.68,0:03:11.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}totalement autonome” :
+Dialogue: 0,0:03:11.85,0:03:13.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, elle dépend de protéines
+Dialogue: 0,0:03:13.51,0:03:14.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encodées par le noyau.
+Dialogue: 0,0:03:15.29,0:03:16.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quel est le diamètre d'un
+Dialogue: 0,0:03:16.75,0:03:17.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microtubule ?
+Dialogue: 0,0:03:21.74,0:03:23.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vingt-cinq nanomètres.
+Dialogue: 0,0:03:23.14,0:03:24.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept, c'est le microfilament ;
+Dialogue: 0,0:03:24.79,0:03:26.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}huit à dix, le filament
+Dialogue: 0,0:03:26.05,0:03:26.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intermédiaire.
+Dialogue: 0,0:03:27.37,0:03:28.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:28.39,0:03:29.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les moteurs moléculaires,
+Dialogue: 0,0:03:29.81,0:03:30.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dynéine et kinésine,
+Dialogue: 0,0:03:30.94,0:03:32.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui roulent dans des sens
+Dialogue: 0,0:03:32.35,0:03:33.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}opposés, puis la matrice
+Dialogue: 0,0:03:33.71,0:03:34.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire.

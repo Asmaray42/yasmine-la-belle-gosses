@@ -1,0 +1,547 @@
+1
+00:00:00,300 --> 00:00:01,708
+Donne-moi un brin d'ADN,
+
+2
+00:00:01,708 --> 00:00:03,430
+et je te donne le brin d'en face,
+
+3
+00:00:03,430 --> 00:00:04,942
+sans hésiter : il n'en existe
+
+4
+00:00:04,942 --> 00:00:05,986
+qu'un seul possible.
+
+5
+00:00:06,386 --> 00:00:08,072
+Au programme : les nucléotides,
+
+6
+00:00:08,072 --> 00:00:09,487
+la liaison phosphodiester,
+
+7
+00:00:09,487 --> 00:00:11,173
+l'ADN, l'ARN, et l'ATP.
+
+8
+00:00:11,733 --> 00:00:13,467
+Septième point des macromolécules
+
+9
+00:00:13,467 --> 00:00:14,727
+: les acides nucléiques.
+
+10
+00:00:14,867 --> 00:00:15,950
+De longs polymères de
+
+11
+00:00:15,950 --> 00:00:17,549
+nucléotides, sous deux formes :
+
+12
+00:00:17,549 --> 00:00:18,632
+l'ADN et l'ARN.
+
+13
+00:00:19,032 --> 00:00:20,603
+Ils contiennent l'information
+
+14
+00:00:20,603 --> 00:00:22,283
+pour la synthèse des protéines,
+
+15
+00:00:22,283 --> 00:00:23,475
+ont la capacité d'être
+
+16
+00:00:23,475 --> 00:00:24,830
+retranscrits ou recopiés,
+
+17
+00:00:24,830 --> 00:00:26,401
+et sont transmis au cours des
+
+18
+00:00:26,401 --> 00:00:28,135
+divisions cellulaires et dans la
+
+19
+00:00:28,135 --> 00:00:28,785
+descendance.
+
+20
+00:00:29,345 --> 00:00:30,934
+Un nucléotide comprend trois
+
+21
+00:00:30,934 --> 00:00:32,353
+parties : un sucre à cinq
+
+22
+00:00:32,353 --> 00:00:34,056
+carbones, un groupe phosphate,
+
+23
+00:00:34,056 --> 00:00:35,135
+et une base azotée,
+
+24
+00:00:35,135 --> 00:00:36,213
+la partie variable.
+
+25
+00:00:36,613 --> 00:00:38,226
+Le sucre est le ribose dans
+
+26
+00:00:38,226 --> 00:00:40,018
+l'ARN, acide ribonucléique,
+
+27
+00:00:40,018 --> 00:00:41,990
+et le désoxyribose dans l'ADN,
+
+28
+00:00:41,990 --> 00:00:43,543
+acide désoxyribonucléique.
+
+29
+00:00:44,103 --> 00:00:45,864
+Il existe cinq bases azotées :
+
+30
+00:00:45,864 --> 00:00:47,389
+l'adénine A, la guanine G,
+
+31
+00:00:47,389 --> 00:00:49,033
+la cytosine C, la thymine T,
+
+32
+00:00:49,033 --> 00:00:49,913
+et l'uracile U.
+
+33
+00:00:50,313 --> 00:00:51,997
+D'où quatre nucléotides dans
+
+34
+00:00:51,997 --> 00:00:53,381
+l'ADN, A, C, G ou T,
+
+35
+00:00:53,381 --> 00:00:54,704
+avec le désoxyribose ;
+
+36
+00:00:54,704 --> 00:00:56,148
+et quatre dans l'ARN,
+
+37
+00:00:56,148 --> 00:00:57,892
+A, C, G ou U, avec le ribose.
+
+38
+00:00:58,452 --> 00:00:59,972
+Pour polymériser, le groupe
+
+39
+00:00:59,972 --> 00:01:01,887
+hydroxyle O H lié au carbone 3
+
+40
+00:01:01,887 --> 00:01:03,576
+prime du sucre d'un nucléotide
+
+41
+00:01:03,576 --> 00:01:05,322
+réagit avec le groupe phosphate
+
+42
+00:01:05,322 --> 00:01:06,898
+lié au carbone 5 prime du
+
+43
+00:01:06,898 --> 00:01:08,025
+nucléotide suivant :
+
+44
+00:01:08,025 --> 00:01:09,883
+c'est la liaison phosphodiester .
+
+45
+00:01:10,283 --> 00:01:11,905
+La chaîne commence donc par un
+
+46
+00:01:11,905 --> 00:01:13,798
+phosphate en position 5 prime et
+
+47
+00:01:13,798 --> 00:01:15,421
+se termine par un hydroxyle en
+
+48
+00:01:15,421 --> 00:01:16,611
+position 3 prime :
+
+49
+00:01:16,611 --> 00:01:18,503
+c'est l'orientation 5 prime vers
+
+50
+00:01:18,503 --> 00:01:19,152
+3 prime.
+
+51
+00:01:19,712 --> 00:01:21,365
+L'ADN est constitué de deux
+
+52
+00:01:21,365 --> 00:01:22,577
+chaînes, deux brins de
+
+53
+00:01:22,577 --> 00:01:24,284
+nucléotides, complémentaires et
+
+54
+00:01:24,284 --> 00:01:26,047
+antiparallèles : c'est le duplex
+
+55
+00:01:26,047 --> 00:01:27,534
+d'ADN, en double hélice.
+
+56
+00:01:27,934 --> 00:01:29,595
+Les deux brins sont appariés au
+
+57
+00:01:29,595 --> 00:01:31,149
+niveau de leurs bases par des
+
+58
+00:01:31,149 --> 00:01:32,167
+liaisons hydrogène,
+
+59
+00:01:32,167 --> 00:01:33,453
+avec une règle stricte :
+
+60
+00:01:33,453 --> 00:01:34,471
+A avec T, C avec G.
+
+61
+00:01:34,871 --> 00:01:36,691
+Conséquence : à un brin d'ADN ne
+
+62
+00:01:36,691 --> 00:01:38,407
+peut correspondre qu'un seul brin
+
+63
+00:01:38,407 --> 00:01:39,187
+complémentaire.
+
+64
+00:01:39,327 --> 00:01:41,114
+Et l'unité de longueur de l'ADN,
+
+65
+00:01:41,114 --> 00:01:42,340
+c'est la paire de bases,
+
+66
+00:01:42,340 --> 00:01:42,544
+b p.
+
+67
+00:01:43,104 --> 00:01:44,376
+L'ARN est simple brin ,
+
+68
+00:01:44,376 --> 00:01:45,598
+sans structure en hélice.
+
+69
+00:01:45,738 --> 00:01:47,305
+C'est une retranscription d'une
+
+70
+00:01:47,305 --> 00:01:49,277
+portion de séquence d'un brin d'ADN.
+
+71
+00:01:49,677 --> 00:01:51,574
+La transcription repose aussi sur
+
+72
+00:01:51,574 --> 00:01:53,241
+la complémentarité des bases,
+
+73
+00:01:53,241 --> 00:01:54,735
+sauf que U, dans l'ARN,
+
+74
+00:01:54,735 --> 00:01:56,632
+remplace T : U est complémentaire
+
+75
+00:01:56,632 --> 00:01:56,919
+de A.
+
+76
+00:01:57,479 --> 00:01:59,161
+Le tableau comparatif du cours.
+
+77
+00:01:59,561 --> 00:02:01,461
+Sucre : désoxyribose pour l'ADN,
+
+78
+00:02:01,461 --> 00:02:02,600
+ribose pour l'ARN.
+
+79
+00:02:03,000 --> 00:02:03,838
+Brins : deux brins
+
+80
+00:02:03,838 --> 00:02:05,654
+complémentaires, contre un simple brin.
+
+81
+00:02:06,054 --> 00:02:07,622
+Bases : A, C, G, T contre A,
+
+82
+00:02:07,622 --> 00:02:08,070
+C, G, U.
+
+83
+00:02:08,470 --> 00:02:10,407
+Rôle : l'ADN stocke l'information
+
+84
+00:02:10,407 --> 00:02:12,344
+; l'ARN est transcrit à partir de
+
+85
+00:02:12,344 --> 00:02:14,280
+l'ADN et sert à la synthèse d'une
+
+86
+00:02:14,280 --> 00:02:14,765
+protéine.
+
+87
+00:02:15,165 --> 00:02:16,910
+Stabilité : grande pour l'ADN ;
+
+88
+00:02:16,910 --> 00:02:17,987
+l'ARN est fragile,
+
+89
+00:02:17,987 --> 00:02:19,681
+avec un temps de vie assez court.
+
+90
+00:02:20,081 --> 00:02:21,710
+Et l'ADN peut être recopié,
+
+91
+00:02:21,710 --> 00:02:23,068
+une molécule donnant deux
+
+92
+00:02:23,068 --> 00:02:24,209
+molécules identiques,
+
+93
+00:02:24,209 --> 00:02:25,349
+c'est la réplication,
+
+94
+00:02:25,349 --> 00:02:27,033
+et il est transmis au cours des
+
+95
+00:02:27,033 --> 00:02:28,662
+divisions et à la descendance.
+
+96
+00:02:29,222 --> 00:02:31,207
+L'ADN humain : 23 molécules
+
+97
+00:02:31,207 --> 00:02:32,683
+différentes, les chromosomes,
+
+98
+00:02:32,683 --> 00:02:35,736
+de 48 à 250 millions de paires de
+
+99
+00:02:35,736 --> 00:02:38,078
+bases chacun, soit au total 3,2
+
+100
+00:02:38,078 --> 00:02:39,553
+milliards de paires de bases.
+
+101
+00:02:39,953 --> 00:02:41,643
+Le tout en double dans la plupart
+
+102
+00:02:41,643 --> 00:02:43,026
+des cellules : une copie de
+
+103
+00:02:43,026 --> 00:02:44,306
+maman, une copie de papa.
+
+104
+00:02:44,866 --> 00:02:46,170
+Les nucléotides ont d'autres
+
+105
+00:02:46,170 --> 00:02:46,635
+fonctions.
+
+106
+00:02:46,775 --> 00:02:48,218
+L' adénosine triphosphate ,
+
+107
+00:02:48,218 --> 00:02:49,821
+l'ATP : une molécule chargée
+
+108
+00:02:49,821 --> 00:02:51,478
+d'énergie, la monnaie d'échange
+
+109
+00:02:51,478 --> 00:02:52,760
+d'énergie de la cellule,
+
+110
+00:02:52,760 --> 00:02:54,149
+qui alimente les réactions
+
+111
+00:02:54,149 --> 00:02:54,684
+chimiques.
+
+112
+00:02:55,084 --> 00:02:56,581
+La nicotinamide adénine
+
+113
+00:02:56,581 --> 00:02:58,208
+dinucléotide, NAD plus,
+
+114
+00:02:58,208 --> 00:02:59,575
+et la flavine adénine
+
+115
+00:02:59,575 --> 00:03:00,877
+dinucléotide, FAD,
+
+116
+00:03:00,877 --> 00:03:03,091
+servent au transport d'électrons .
+
+117
+00:03:03,651 --> 00:03:04,487
+Trois pièges.
+
+118
+00:03:04,887 --> 00:03:06,725
+“L'ARN contient du désoxyribose”
+
+119
+00:03:06,725 --> 00:03:07,728
+: faux, du ribose.
+
+120
+00:03:08,128 --> 00:03:09,478
+“Les deux brins d'ADN sont
+
+121
+00:03:09,478 --> 00:03:10,346
+parallèles” : faux,
+
+122
+00:03:10,346 --> 00:03:11,069
+antiparallèles.
+
+123
+00:03:11,469 --> 00:03:12,720
+“L'ARN est très stable” :
+
+124
+00:03:12,720 --> 00:03:13,729
+faux, il est fragile,
+
+125
+00:03:13,729 --> 00:03:15,028
+avec un temps de vie court.
+
+126
+00:03:15,168 --> 00:03:16,706
+C'est l'ADN qui est très stable.
+
+127
+00:03:17,266 --> 00:03:18,646
+Quiz : laquelle est exacte ?
+
+128
+00:03:23,046 --> 00:03:23,839
+Réponse A.
+
+129
+00:03:23,979 --> 00:03:25,578
+La chaîne finit par un hydroxyle
+
+130
+00:03:25,578 --> 00:03:28,076
+en 3 prime, c'est 3,2 milliards
+
+131
+00:03:28,076 --> 00:03:29,025
+de paires de bases,
+
+132
+00:03:29,025 --> 00:03:30,424
+et l'ADN est double brin.
+
+133
+00:03:30,984 --> 00:03:32,318
+On a fini les molécules.
+
+134
+00:03:32,458 --> 00:03:33,437
+Prochain épisode :
+
+135
+00:03:33,437 --> 00:03:34,797
+on entre dans la cellule,
+
+136
+00:03:34,797 --> 00:03:35,776
+avec Robert Hooke,
+
+137
+00:03:35,776 --> 00:03:38,659
+en 1665, et un bout de liège.
