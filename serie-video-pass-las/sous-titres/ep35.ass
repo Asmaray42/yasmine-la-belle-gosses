@@ -1,0 +1,177 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Entre toi et ton voisin,
+Dialogue: 0,0:00:01.53,0:00:04.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un nucléotide sur 1250 diffère.
+Dialogue: 0,0:00:04.33,0:00:05.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est peu, et pourtant ça fait
+Dialogue: 0,0:00:05.84,0:00:07.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ deux millions et demi de
+Dialogue: 0,0:00:07.46,0:00:08.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différences.
+Dialogue: 0,0:00:08.47,0:00:10.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le polymorphisme,
+Dialogue: 0,0:00:10.15,0:00:11.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les mutations, et la thérapie
+Dialogue: 0,0:00:11.68,0:00:12.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génique.
+Dialogue: 0,0:00:12.67,0:00:14.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les différences entre individus
+Dialogue: 0,0:00:14.39,0:00:15.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont dues au {\c&H66D1FF&}polymorphisme{\c&HFFFFFF&} :
+Dialogue: 0,0:00:15.95,0:00:17.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la variation normale de la
+Dialogue: 0,0:00:17.39,0:00:19.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séquence d'ADN au sein d'une espèce.
+Dialogue: 0,0:00:19.96,0:00:21.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme, un nucléotide sur
+Dialogue: 0,0:00:21.60,0:00:23.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}1250 diffère entre deux
+Dialogue: 0,0:00:23.93,0:00:26.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}individus, soit 2,5 fois dix
+Dialogue: 0,0:00:26.16,0:00:28.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puissance six différences au total.
+Dialogue: 0,0:00:28.15,0:00:31.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Autrement dit, 99,9 % de la
+Dialogue: 0,0:00:31.50,0:00:32.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séquence est identique,
+Dialogue: 0,0:00:32.68,0:00:34.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et 0,1 % polymorphique.
+Dialogue: 0,0:00:35.30,0:00:36.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un gène peut donc exister sous
+Dialogue: 0,0:00:36.85,0:00:38.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes versions :
+Dialogue: 0,0:00:38.00,0:00:39.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on appelle {\c&H66D1FF&}allèles{\c&HFFFFFF&} les
+Dialogue: 0,0:00:39.14,0:00:40.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes versions d'un même
+Dialogue: 0,0:00:40.70,0:00:41.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gène dans une espèce.
+Dialogue: 0,0:00:42.35,0:00:43.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prenons deux chromosomes
+Dialogue: 0,0:00:43.57,0:00:45.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homologues en métaphase de mitose.
+Dialogue: 0,0:00:45.45,0:00:46.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chromatides sœurs d'un
+Dialogue: 0,0:00:46.70,0:00:48.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosome sont identiques à 100
+Dialogue: 0,0:00:48.29,0:00:49.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}% : elles viennent de la
+Dialogue: 0,0:00:49.84,0:00:50.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réplication.
+Dialogue: 0,0:00:50.82,0:00:51.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les homologues, eux,
+Dialogue: 0,0:00:51.82,0:00:53.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ne sont pas parfaitement
+Dialogue: 0,0:00:53.03,0:00:55.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques, 99,9 % :
+Dialogue: 0,0:00:55.94,0:00:56.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'un vient du père,
+Dialogue: 0,0:00:56.89,0:00:57.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'autre de la mère,
+Dialogue: 0,0:00:57.85,0:00:59.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec des variations de séquence.
+Dialogue: 0,0:00:59.59,0:01:01.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'exemple, le chromosome
+Dialogue: 0,0:01:01.27,0:01:02.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paternel, en bleu,
+Dialogue: 0,0:01:02.30,0:01:03.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porte l'allèle un du gène X,
+Dialogue: 0,0:01:03.91,0:01:05.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le maternel, en rouge,
+Dialogue: 0,0:01:05.35,0:01:06.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'allèle deux.
+Dialogue: 0,0:01:06.72,0:01:08.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le polymorphisme résulte de
+Dialogue: 0,0:01:08.29,0:01:10.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mutations de la séquence d'ADN,
+Dialogue: 0,0:01:10.26,0:01:11.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmises aux générations
+Dialogue: 0,0:01:11.76,0:01:12.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}suivantes.
+Dialogue: 0,0:01:12.48,0:01:14.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois types : la {\c&H66D1FF&}substitution{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:14.19,0:01:15.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un nucléotide remplacé par un
+Dialogue: 0,0:01:15.79,0:01:16.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autre ; la {\c&H66D1FF&}délétion{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:16.95,0:01:18.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un ou plusieurs nucléotides
+Dialogue: 0,0:01:18.44,0:01:19.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}perdus ; et l' {\c&H66D1FF&}insertion{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:19.87,0:01:21.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un ou plusieurs nucléotides
+Dialogue: 0,0:01:21.36,0:01:21.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ajoutés.
+Dialogue: 0,0:01:22.37,0:01:23.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les conséquences sont variables.
+Dialogue: 0,0:01:24.34,0:01:25.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans la région codante,
+Dialogue: 0,0:01:25.67,0:01:27.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une substitution peut être sans
+Dialogue: 0,0:01:27.46,0:01:28.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}effet sur la protéine,
+Dialogue: 0,0:01:28.73,0:01:30.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grâce à la dégénérescence du code.
+Dialogue: 0,0:01:30.83,0:01:32.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : G C C devient G C G,
+Dialogue: 0,0:01:32.76,0:01:34.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux codons de l'alanine.
+Dialogue: 0,0:01:34.76,0:01:36.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle peut changer un ou plusieurs
+Dialogue: 0,0:01:36.51,0:01:38.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acides aminés : l'effet dépend de
+Dialogue: 0,0:01:38.25,0:01:40.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'importance de ces acides aminés
+Dialogue: 0,0:01:40.00,0:01:40.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la fonction.
+Dialogue: 0,0:01:41.30,0:01:42.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ou décaler le cadre de lecture,
+Dialogue: 0,0:01:42.94,0:01:44.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce qui modifie beaucoup la
+Dialogue: 0,0:01:44.31,0:01:46.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine, et mène le plus souvent
+Dialogue: 0,0:01:46.06,0:01:47.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à une perte de fonction.
+Dialogue: 0,0:01:47.73,0:01:49.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans une région non codante,
+Dialogue: 0,0:01:49.18,0:01:50.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}promoteur, régions non traduites,
+Dialogue: 0,0:01:50.90,0:01:52.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}introns, les conséquences sont
+Dialogue: 0,0:01:52.45,0:01:53.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moins prévisibles :
+Dialogue: 0,0:01:53.58,0:01:54.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un changement du niveau
+Dialogue: 0,0:01:54.79,0:01:56.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'expression, si un site de
+Dialogue: 0,0:01:56.21,0:01:57.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fixation d'un facteur de
+Dialogue: 0,0:01:57.47,0:01:58.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription est touché,
+Dialogue: 0,0:01:58.78,0:02:00.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou un défaut d'épissage,
+Dialogue: 0,0:02:00.04,0:02:01.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}près d'une jonction intron-exon.
+Dialogue: 0,0:02:02.28,0:02:03.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les conséquences physiologiques
+Dialogue: 0,0:02:03.90,0:02:05.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont variables : sans effet,
+Dialogue: 0,0:02:05.37,0:02:07.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à la base des différences entre
+Dialogue: 0,0:02:07.00,0:02:08.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}individus, ou à l'origine d'une
+Dialogue: 0,0:02:08.63,0:02:09.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pathologie.
+Dialogue: 0,0:02:09.61,0:02:10.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les causes : de nombreuses
+Dialogue: 0,0:02:10.92,0:02:12.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mutations viennent d'erreurs de
+Dialogue: 0,0:02:12.49,0:02:14.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ADN polymérase pendant la
+Dialogue: 0,0:02:14.01,0:02:14.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réplication.
+Dialogue: 0,0:02:14.75,0:02:16.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les radiations ionisantes,
+Dialogue: 0,0:02:16.41,0:02:17.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ultra-violets, rayons X et
+Dialogue: 0,0:02:17.89,0:02:19.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}radioactivité, ainsi que certains
+Dialogue: 0,0:02:19.78,0:02:21.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}agents toxiques, peuvent
+Dialogue: 0,0:02:21.15,0:02:22.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endommager l'ADN.
+Dialogue: 0,0:02:22.85,0:02:23.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tout dépend de la cellule
+Dialogue: 0,0:02:23.93,0:02:24.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}touchée.
+Dialogue: 0,0:02:24.68,0:02:26.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans une cellule germinale,
+Dialogue: 0,0:02:26.14,0:02:27.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et si elle n'est pas létale,
+Dialogue: 0,0:02:27.66,0:02:29.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la mutation peut être transmise à
+Dialogue: 0,0:02:29.44,0:02:30.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la descendance.
+Dialogue: 0,0:02:30.39,0:02:31.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans une cellule somatique,
+Dialogue: 0,0:02:31.71,0:02:32.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle n'est pas transmise.
+Dialogue: 0,0:02:33.33,0:02:34.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Germinale : elle génère un
+Dialogue: 0,0:02:34.81,0:02:36.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nouveau polymorphisme,
+Dialogue: 0,0:02:36.06,0:02:37.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut causer une maladie génétique
+Dialogue: 0,0:02:37.94,0:02:39.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmissible, ou apporter un
+Dialogue: 0,0:02:39.60,0:02:40.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avantage sélectif,
+Dialogue: 0,0:02:40.62,0:02:41.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteur d'évolution.
+Dialogue: 0,0:02:41.90,0:02:43.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Somatique : elle peut être à la
+Dialogue: 0,0:02:43.50,0:02:44.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}base d'une pathologie chez
+Dialogue: 0,0:02:44.84,0:02:46.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'individu, et de nombreuses
+Dialogue: 0,0:02:46.28,0:02:47.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mutations sont détectées dans les
+Dialogue: 0,0:02:47.98,0:02:49.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules cancéreuses.
+Dialogue: 0,0:02:49.62,0:02:50.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}thérapie{\c&HFFFFFF&} {\c&H66D1FF&}génique{\c&HFFFFFF&} :
+Dialogue: 0,0:02:50.69,0:02:52.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}introduire une copie normale d'un
+Dialogue: 0,0:02:52.38,0:02:54.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gène déficient dans les cellules
+Dialogue: 0,0:02:54.01,0:02:54.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un patient.
+Dialogue: 0,0:02:55.07,0:02:56.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'immunodéficience
+Dialogue: 0,0:02:56.82,0:02:58.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}combinée sévère, la SCID.
+Dialogue: 0,0:02:58.70,0:03:00.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Maladie héréditaire récessive,
+Dialogue: 0,0:03:00.40,0:03:01.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rare, un sur cent mille.
+Dialogue: 0,0:03:01.90,0:03:03.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plusieurs gènes possibles,
+Dialogue: 0,0:03:03.33,0:03:04.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par exemple le gène ADA,
+Dialogue: 0,0:03:04.75,0:03:05.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui code une enzyme du
+Dialogue: 0,0:03:05.96,0:03:07.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}catabolisme des purines.
+Dialogue: 0,0:03:07.67,0:03:09.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les lymphocytes se développent
+Dialogue: 0,0:03:09.27,0:03:10.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mal : déficience immunitaire
+Dialogue: 0,0:03:10.75,0:03:12.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sévère, l'enfant vit dans un
+Dialogue: 0,0:03:12.24,0:03:13.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environnement stérile,
+Dialogue: 0,0:03:13.41,0:03:14.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'enfant-bulle.
+Dialogue: 0,0:03:14.35,0:03:16.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Traitement : une greffe de moelle
+Dialogue: 0,0:03:16.04,0:03:17.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}osseuse, qui contient les
+Dialogue: 0,0:03:17.32,0:03:19.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules souches des lymphocytes,
+Dialogue: 0,0:03:19.01,0:03:20.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}si un donneur compatible existe.
+Dialogue: 0,0:03:21.05,0:03:22.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La thérapie génique de l'ADA-SCID
+Dialogue: 0,0:03:22.88,0:03:24.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: une trentaine de patients
+Dialogue: 0,0:03:24.33,0:03:25.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}traités, avec une amélioration
+Dialogue: 0,0:03:25.94,0:03:27.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}clinique, la restauration des
+Dialogue: 0,0:03:27.50,0:03:28.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctions immunitaires,
+Dialogue: 0,0:03:28.73,0:03:30.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la majorité des cas.
+Dialogue: 0,0:03:30.22,0:03:31.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais une inquiétude :
+Dialogue: 0,0:03:31.31,0:03:32.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'émergence de cellules de type
+Dialogue: 0,0:03:32.93,0:03:33.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leucémique.
+Dialogue: 0,0:03:34.06,0:03:34.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:35.30,0:03:36.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Une mutation somatique se
+Dialogue: 0,0:03:36.72,0:03:38.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmet à la descendance” :
+Dialogue: 0,0:03:38.26,0:03:39.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, seule une mutation
+Dialogue: 0,0:03:39.62,0:03:41.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}germinale peut se transmettre.
+Dialogue: 0,0:03:41.73,0:03:43.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Une substitution change toujours
+Dialogue: 0,0:03:43.50,0:03:44.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la protéine” : faux,
+Dialogue: 0,0:03:44.56,0:03:46.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle peut être sans effet grâce à
+Dialogue: 0,0:03:46.39,0:03:47.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la dégénérescence du code.
+Dialogue: 0,0:03:48.23,0:03:49.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les chromosomes homologues sont
+Dialogue: 0,0:03:49.76,0:03:51.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques à 100 %” :
+Dialogue: 0,0:03:51.20,0:03:53.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, 99,9 %.
+Dialogue: 0,0:03:53.86,0:03:55.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont les chromatides sœurs qui
+Dialogue: 0,0:03:55.38,0:03:56.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont identiques à 100 %.
+Dialogue: 0,0:03:57.46,0:03:58.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:04:03.24,0:04:04.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A.
+Dialogue: 0,0:04:04.17,0:04:06.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est un sur 1250,
+Dialogue: 0,0:04:06.26,0:04:08.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la SCID est récessive et rare,
+Dialogue: 0,0:04:08.03,0:04:09.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une mutation dans un intron
+Dialogue: 0,0:04:09.64,0:04:11.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut causer un défaut d'épissage.
+Dialogue: 0,0:04:11.97,0:04:13.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On attaque la génétique.
+Dialogue: 0,0:04:13.39,0:04:14.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:14.32,0:04:15.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mendel, les petits pois,
+Dialogue: 0,0:04:15.57,0:04:17.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le célèbre rapport trois pour un.
