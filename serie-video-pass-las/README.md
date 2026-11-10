@@ -2,6 +2,8 @@
 
 61 épisodes verticaux (9:16) qui couvrent **l'intégralité** du syllabus WMEDE1152 (Prof. Charles De Smet, UCLouvain) : les 7 PDF, 274 pages, Partie I et Partie II.
 
+**3 h 51 min de vidéo**, 61 voix off, 61 scripts, 61 fichiers de sous-titres. Contrôle automatique : **274 / 274 pages couvertes**, **87,9 %** des termes et chiffres du syllabus retrouvés mot pour mot dans les épisodes.
+
 **Public :** étudiant·e de BA1 à l'UCLouvain, préparation de la session de janvier.
 **Principe :** les vidéos reprennent **exactement** les termes, les valeurs et les formulations du cours. Rien n'y est corrigé ni contredit. Les nuances, incohérences et erreurs repérées sont consignées à part, avec la formulation à retenir pour l'examen.
 

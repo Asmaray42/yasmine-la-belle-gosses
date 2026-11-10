@@ -3,7 +3,7 @@
 Contrôle automatique (`outils/audit.py`) : pour chaque page des 7 PDF, on extrait les chiffres et les termes significatifs (6 lettres ou plus, hors mots vides) puis on vérifie qu'ils apparaissent dans la voix off, les textes incrustés, le récapitulatif, les pièges, les mnémos ou le QCM de l'épisode qui couvre la page.
 
 - Pages couvertes : **274 / 274**
-- Épisodes écrits : **61 / 61** · vidéos rendues : **20 / 61**
+- Épisodes écrits : **61 / 61** · vidéos rendues : **61 / 61**
 - Termes et chiffres du PDF retrouvés dans les épisodes : **8677 / 9873 (87.9%)**
 
 Les termes « absents » restants sont, sauf exception, des mots de mise en page (titres répétés, légendes anglaises d'images, mots d'en-tête), des formes conjuguées ou des synonymes : la notion est couverte, mais pas avec ce mot exact. Les pages sous 70 % ont été relues une à une.

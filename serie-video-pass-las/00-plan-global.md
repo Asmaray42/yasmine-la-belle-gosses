@@ -112,8 +112,9 @@ La série suit **l'ordre des fichiers et des diapositives**, c'est-à-dire l'ord
 ## 5. Bilan
 
 - **61 épisodes** : 42 pour la Partie I, 19 pour la Partie II.
+- **Durée réelle : 3 h 51 min** pour les 61 vidéos (moyenne 3 min 47 s ; de 1 min 59 s pour l'épisode 11 à 11 min 36 s pour l'épisode 1).
 - **Couverture : les 274 pages** des 7 PDF sont attribuées à un épisode et scénarisées. Le détail page par page se trouve dans [`00-grille-couverture.md`](00-grille-couverture.md) ; le contrôle automatique dans [`AUDIT_FINAL_EXHAUSTIVITE.md`](AUDIT_FINAL_EXHAUSTIVITE.md).
-- **Format :** vertical 9:16 (1080 × 1920), sous-titres incrustés, voix off française unique sur toute la série. Les épisodes durent de **3 à 12 minutes** : le format « TikTok » concerne la mise en image (vertical, rythme, texte lisible sur téléphone), pas une limite de 90 secondes — l'exhaustivité prime.
+- **Format :** vertical 9:16 (1080 × 1920), sous-titres incrustés, voix off française unique sur toute la série. Les épisodes durent de **1 à 12 minutes** : le format « TikTok » concerne la mise en image (vertical, rythme, texte lisible sur téléphone), pas une limite de 90 secondes — l'exhaustivité prime.
 - Les pages composées surtout d'images (photos, schémas détaillés, camemberts, schémas de gémellité, tableaux de légendes) ont été lues visuellement : **chaque légende est reprise mot pour mot** dans l'épisode concerné.
 
 ---
@@ -163,3 +164,33 @@ Tout est reproductible depuis le dépôt : un épisode = **un fichier YAML** dan
 ---
 
 **Scripts :** `episode-01-script.md` … `episode-61-script.md` (générés avec les timecodes réels de chaque vidéo).
+
+---
+
+## 9. Durées réelles des 61 vidéos
+
+| Ép. | Durée | Ép. | Durée | Ép. | Durée |
+|---|---|---|---|---|---|
+| 1 | 11 min 36 | 22 | 3 min 04 | 43 | 4 min 15 |
+| 2 | 5 min 14 | 23 | 3 min 14 | 44 | 3 min 45 |
+| 3 | 5 min 51 | 24 | 1 min 59 | 45 | 3 min 38 |
+| 4 | 6 min 02 | 25 | 3 min 02 | 46 | 4 min 45 |
+| 5 | 4 min 29 | 26 | 3 min 10 | 47 | 3 min 43 |
+| 6 | 4 min 03 | 27 | 3 min 12 | 48 | 3 min 32 |
+| 7 | 3 min 31 | 28 | 3 min 17 | 49 | 2 min 52 |
+| 8 | 3 min 50 | 29 | 2 min 13 | 50 | 4 min 01 |
+| 9 | 3 min 39 | 30 | 3 min 06 | 51 | 3 min 35 |
+| 10 | 2 min 47 | 31 | 2 min 30 | 52 | 4 min 09 |
+| 11 | 1 min 59 | 32 | 2 min 31 | 53 | 3 min 18 |
+| 12 | 4 min 18 | 33 | 3 min 35 | 54 | 4 min 00 |
+| 13 | 3 min 35 | 34 | 4 min 03 | 55 | 3 min 03 |
+| 14 | 3 min 13 | 35 | 4 min 18 | 56 | 3 min 07 |
+| 15 | 2 min 49 | 36 | 3 min 05 | 57 | 3 min 44 |
+| 16 | 2 min 59 | 37 | 2 min 57 | 58 | 3 min 29 |
+| 17 | 4 min 07 | 38 | 3 min 41 | 59 | 4 min 29 |
+| 18 | 3 min 12 | 39 | 2 min 53 | 60 | 4 min 55 |
+| 19 | 3 min 23 | 40 | 4 min 50 | 61 | 4 min 58 |
+| 20 | 3 min 52 | 41 | 4 min 46 |  |  |
+| 21 | 2 min 41 | 42 | 4 min 53 |  |  |
+
+**Total : 3 h 51 min.**
