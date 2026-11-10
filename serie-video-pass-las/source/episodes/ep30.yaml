@@ -1,0 +1,180 @@
+title: "La traduction : ARNt, ribosomes et chaîne naissante"
+subtitle: "48 ARNt · aminoacyl-ARNt synthétases · 40S + 60S · élongation · STOP · polyribosomes"
+source: "S1-3 p.7 à 12"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 4. Synthèse des protéines"
+objectives:
+  - "Décrire les ARNt et le rôle des aminoacyl-ARNt synthétases."
+  - "Décrire les ribosomes et l'initiation de la traduction."
+  - "Décrire l'élongation et la terminaison."
+  - "Expliquer les polyribosomes."
+
+scenes:
+  - kind: hook
+    title: "Des adaptateurs en forme de trèfle"
+    ref: "S1-3 p.7"
+    big: "48 ARNt"
+    beats:
+      - say: "Pour lire les codons, la cellule utilise quarante-huit ARN de transfert différents, en forme de trèfle, qui apportent chacun un acide aminé."
+      - say: "Au programme : les ARNt, les ribosomes, et la traduction pas à pas."
+        show: "ARNt · ribosomes · *traduction pas à pas*"
+
+  - kind: figure
+    title: "Les ARNt"
+    ref: "S1-3 p.7"
+    fig: "S1-3:7h"
+    trap: "48 ARNt chez l'homme ; ± 80 nucléotides ; anticodon de 3 nucléotides."
+    beats:
+      - say: "Les ARNt font le lien entre la séquence d'ARN et les acides aminés. Il y en a quarante-huit différents chez l'homme, d'environ quatre-vingts nucléotides, avec une structure en trèfle."
+        mark: ["48 ARNt", "80 nucléotides", "trèfle"]
+        show: "# *48* ARNt · ± *80* nucléotides · forme de *trèfle*"
+      - say: "Chacun possède un site de liaison pour un acide aminé spécifique, et un *anticodon* de trois nucléotides, qui reconnaît un ou plusieurs codons de l'ARN messager par appariement de bases."
+        mark: ["site de liaison", "anticodon"]
+        show: "Site de liaison d'un *acide aminé* + *anticodon* (3 nt) ↔ codon(s)"
+
+  - kind: figure
+    title: "Les aminoacyl-ARNt synthétases"
+    ref: "S1-3 p.7"
+    fig: "S1-3:7b"
+    trap: "Au moins UNE synthétase par acide aminé ; reconnaissance selon l'anticodon."
+    beats:
+      - say: "Les acides aminés sont chargés sur les ARNt par des *aminoacyl-ARNt synthétases* : au moins une pour chaque acide aminé."
+        mark: ["aminoacyl", "au moins une"]
+        show: "*Aminoacyl-ARNt synthétases* : au moins *une par acide aminé*"
+      - say: "Chacune a un domaine de reconnaissance pour un ou plusieurs ARNt, selon la séquence de l'anticodon. Ensemble, elles lient chaque ARNt à l'acide aminé qui lui correspond."
+        mark: "domaine de reconnaissance"
+        show: "Reconnaissance selon l'*anticodon* → chaque ARNt reçoit *son* acide aminé"
+
+  - kind: figure
+    title: "Les ribosomes"
+    ref: "S1-3 p.8"
+    fig: "S1-3:8h"
+    trap: "Petite sous-unité 40S, grande 60S ; produites au NUCLÉOLE ; la petite se pose en 5'."
+    beats:
+      - say: "Les ribosomes catalysent la synthèse des polypeptides. Deux sous-unités : une petite, *40S*, et une grande, *60S*, chacune faite de protéines et d'ARN ribosomaux. Elles sont produites au niveau du nucléole."
+        mark: ["40S", "60S", "nucléole"]
+        show: "Petite *40S* + grande *60S* (protéines + ARNr) · produites au *nucléole*"
+      - say: "La petite sous-unité atterrit sur l'extrémité 5 prime de l'ARN messager et glisse vers 3 prime. Quand elle rencontre l'AUG, le START, la grande sous-unité s'assemble : la traduction peut commencer."
+        mark: ["5’", "AUG"]
+        show: "Petite sous-unité en *5'* → glisse → *AUG* → arrivée de la *grande* sous-unité"
+
+  - kind: flow
+    title: "La traduction, étape par étape"
+    ref: "S1-3 p.8-12"
+    trap: "C'est la GRANDE sous-unité qui catalyse la liaison peptidique ; le STOP est reconnu par un FACTEUR DE TERMINAISON (≠ ARNt)."
+    beats:
+      - say: "Suivons le ribosome."
+      - say: "Le ribosome est en place sur le codon START, A U G. L'ARNt dont l'anticodon correspond à AUG, chargé d'une méthionine, se positionne par appariement."
+        show: "Ribosome sur *AUG* · ARNt-*Met* positionné"
+      - say: "Un deuxième ARNt, correspondant au codon suivant, ici G C G, entre avec son acide aminé : l'alanine."
+        show: "2e ARNt (codon *GCG*) apporte l'*alanine*"
+      - say: "La grosse sous-unité catalyse le transfert du lien entre la méthionine et son ARNt vers l'alanine : c'est la première liaison peptidique."
+        show: "La *grande* sous-unité catalyse la 1re *liaison peptidique*"
+      - say: "Le ribosome glisse vers l'extrémité 3 prime, et le premier ARNt est libéré. Un nouvel ARNt chargé prend place, un nouveau lien se crée, et le cycle se répète."
+        show: "Glissement vers *3'* · ARNt libéré · élongation répétée"
+      - say: "Arrivé au codon STOP, ici U A A, celui-ci est reconnu par un *facteur de terminaison*, qui n'est pas un ARNt. Il rompt le lien entre le dernier acide aminé et son ARNt."
+        show: "*STOP* (UAA) reconnu par un *facteur de terminaison* (≠ ARNt)"
+      - say: "Le ribosome se dissocie et se détache de l'ARN messager : le polypeptide est achevé, avec son extrémité C-terminale."
+        show: "Dissociation du ribosome · polypeptide achevé (extrémité *C-terminale*)"
+
+  - kind: figure
+    title: "Les polyribosomes"
+    ref: "S1-3 p.12"
+    fig: "S1-3:12b"
+    trap: "Plusieurs ribosomes sur UN SEUL ARNm → synthèse plus rapide."
+    beats:
+      - say: "Souvent, plusieurs ribosomes se succèdent sur un même ARN messager, ce qui accélère la synthèse de protéines. Cette structure s'appelle les *polyribosomes*."
+        mark: "polyribosomes"
+        show: "Plusieurs ribosomes sur un ARNm = *polyribosomes* (synthèse plus rapide)"
+
+  - kind: trap
+    title: "Les pièges de la traduction"
+    ref: "S1-3 p.7-12"
+    trap: "Facteur de terminaison ≠ ARNt ; grande sous-unité catalyse ; sens 5' → 3'."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Le codon STOP est reconnu par un ARNt de terminaison” : faux, par un facteur de terminaison, qui n'est pas un ARNt."
+        show: "✗ ARNt STOP  →  ✓ *facteur de terminaison* (≠ ARNt)"
+      - say: "“La petite sous-unité catalyse la liaison peptidique” : faux, c'est la grande."
+        show: "✓ La *grande* sous-unité (60S) catalyse la liaison peptidique"
+      - say: "“Le ribosome glisse vers l'extrémité 5 prime” : faux, vers 3 prime."
+        show: "✓ Le ribosome glisse vers *3'*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.7-12"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Il existe 20 ARNt différents chez l'homme."
+      - "La petite sous-unité du ribosome est la 60S."
+      - "Les aminoacyl-ARNt synthétases chargent les acides aminés sur les ARNt."
+      - "La traduction commence toujours par une alanine."
+    answer: [2]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse C. Il y a 48 ARNt, la petite sous-unité est la 40S, et la traduction commence toujours par une méthionine."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 31 : atelier insuline"
+    ref: "S1-3 p.13"
+    big: "MALWMR…"
+    beats:
+      - say: "Prochain épisode : un atelier. On lit ensemble la séquence du gène de l'insuline, exon par exon, jusqu'au codon STOP."
+        show: "Atelier : décoder le gène *INS*"
+
+recap:
+  - "ARNt : lien entre séquence d'ARN et acides aminés ; 48 ARNt différents chez l'homme ; ± 80 nucléotides ; structure en trèfle ; site de liaison pour un acide aminé spécifique + anticodon (3 nucléotides) qui reconnaît un ou plusieurs codons par appariement de bases."
+  - "Aminoacyl-ARNt synthétases : chargent les acides aminés sur les ARNt ; au moins une pour chaque acide aminé ; domaine de reconnaissance pour un ou plusieurs ARNt (selon l'anticodon) ⇒ chaque ARNt lié à l'acide aminé correspondant."
+  - "Ribosomes : catalysent la synthèse des polypeptides ; petite sous-unité 40S et grande 60S, complexes de protéines et d'ARNr, produites au niveau du nucléole ; la petite sous-unité atterrit en 5' de l'ARNm, glisse vers 3' ; à l'AUG (Start), assemblage avec la grande sous-unité."
+  - "Traduction : ribosome sur AUG, ARNt portant la méthionine positionné ; 2e ARNt (ex. codon GCG, alanine) ; la grosse sous-unité catalyse le transfert du lien Met–ARNt vers l'aa suivant = 1re liaison peptidique ; le ribosome glisse vers 3', le 1er ARNt est libéré ; élongation répétée jusqu'au STOP (ex. UAA), reconnu par un facteur de terminaison (≠ ARNt) qui rompt le lien entre le dernier aa et son ARNt ; dissociation du ribosome ; polypeptide achevé (extrémité C-terminale)."
+  - "Polyribosomes : plusieurs ribosomes successifs sur un ARNm → synthèse plus rapide."
+
+traps:
+  - ["20 ARNt", "48 ARNt chez l'homme", "p.7h"]
+  - ["Une seule synthétase pour tous les aa", "Au moins une par acide aminé", "p.7b"]
+  - ["Petite sous-unité 60S", "Petite 40S, grande 60S", "p.8h"]
+  - ["Ribosomes produits dans le cytosol", "Sous-unités produites au nucléole", "p.8h"]
+  - ["Petite sous-unité catalyse la liaison peptidique", "La grande sous-unité", "p.9b"]
+  - ["STOP reconnu par un ARNt", "Par un facteur de terminaison (≠ ARNt)", "p.11b"]
+
+mnemonics:
+  - ["40S / 60S", "« La petite a 40 ans, la grande 60 »", "Petite 40S · grande 60S"]
+  - ["Étapes", "« Se poser, scanner, s'assembler, allonger, s'arrêter »", "5' → AUG → 60S → élongation → STOP (facteur de terminaison)"]
+
+quiz:
+  - q: "ARNt et synthétases :"
+    props:
+      - ["Il existe 48 ARNt différents chez l'homme.", true, "p.7h."]
+      - ["Un ARNt mesure environ 80 nucléotides.", true, "p.7h."]
+      - ["L'anticodon comporte 3 nucléotides.", true, "p.7h."]
+      - ["Les aminoacyl-ARNt synthétases reconnaissent les ARNt selon leur anticodon.", true, "p.7b."]
+      - ["Il existe une seule aminoacyl-ARNt synthétase pour les 20 acides aminés.", false, "Au moins une par acide aminé."]
+  - q: "Ribosomes et initiation :"
+    props:
+      - ["Le ribosome a une petite sous-unité 40S et une grande 60S.", true, "p.8h."]
+      - ["Les sous-unités ribosomales sont produites au nucléole.", true, "p.8h."]
+      - ["La petite sous-unité se pose sur l'extrémité 3' de l'ARNm.", false, "Sur l'extrémité 5'."]
+      - ["La grande sous-unité s'assemble au niveau du codon AUG.", true, "p.8h."]
+      - ["Le premier ARNt porte une méthionine.", true, "p.8b."]
+  - q: "Élongation et terminaison :"
+    props:
+      - ["La grande sous-unité catalyse la liaison peptidique.", true, "p.9b."]
+      - ["Le ribosome glisse vers l'extrémité 3' de l'ARNm.", true, "p.10h."]
+      - ["Le codon STOP est reconnu par un ARNt particulier.", false, "Par un facteur de terminaison."]
+      - ["Le polypeptide achevé se termine par l'extrémité C-terminale.", true, "p.12h."]
+      - ["Plusieurs ribosomes peuvent traduire un même ARNm (polyribosomes).", true, "p.12b."]
+
+coverage:
+  - ["S1-3", "7h", "Rôle des ARNt (48, ± 80 nt, trèfle, anticodon)", 2]
+  - ["S1-3", "7b", "Aminoacyl-ARNt synthétases", 3]
+  - ["S1-3", "8h", "Ribosomes 40S/60S, nucléole, initiation", 4]
+  - ["S1-3", "8b", "Début de la traduction (AUG, Met)", 5]
+  - ["S1-3", "9h", "2e ARNt (GCG, alanine)", 5]
+  - ["S1-3", "9b", "1re liaison peptidique (grande sous-unité)", 5]
+  - ["S1-3", "10h", "Glissement, libération du 1er ARNt", 5]
+  - ["S1-3", "10b", "Élongation", 5]
+  - ["S1-3", "11h", "Cycle d'élongation jusqu'au STOP", 5]
+  - ["S1-3", "11b", "STOP, facteur de terminaison", 5]
+  - ["S1-3", "12h", "Dissociation du ribosome, C-terminal", 5]
+  - ["S1-3", "12b", "Polyribosomes", 6]

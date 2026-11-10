@@ -1,0 +1,209 @@
+title: "Le gène et le code génétique"
+subtitle: "Définition du gène · locus · transcription, maturation, traduction · triplets et codons · START / STOP"
+source: "S1-3 p.1 à 5h"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 1. Définition du gène · 2. Le code génétique"
+objectives:
+  - "Citer les 10 points du chapitre VIII."
+  - "Définir le gène et le locus ; donner le nombre de gènes chez l'homme."
+  - "Décrire les 3 étapes du gène à la fonction cellulaire."
+  - "Expliquer pourquoi le code est lu par triplets, et ses propriétés (dégénéré, sans ambiguïté, START, STOP)."
+
+scenes:
+  - kind: hook
+    title: "Un livre de 4 lettres"
+    ref: "S1-3 p.1"
+    big: "4 → 20"
+    beats:
+      - say: "L'ADN est comparé à un livre écrit avec quatre lettres : A, C, G, T. Mais les protéines sont écrites avec vingt lettres. Comment traduire l'un dans l'autre ?"
+      - say: "Au programme : le gène, les étapes du gène à la protéine, et le code génétique."
+        show: "Gène · transcription · traduction · *code génétique*"
+
+  - kind: list
+    title: "Chapitre VIII : du gène à la protéine"
+    ref: "S1-3 p.1"
+    trap: "10 points ; cet épisode couvre les deux premiers."
+    beats:
+      - say: "Chapitre huit, du gène à la protéine, en dix points."
+      - say: "Définition du gène ; le code génétique ; la synthèse des ARN messagers ; la synthèse des protéines ; le trafic des protéines."
+        show: "1. Gène · 2. Code génétique · 3. Synthèse des ARNm · 4. Synthèse des protéines · 5. Trafic"
+      - say: "Le contrôle de l'expression des gènes ; chez les procaryotes ; chez les virus ; gènes et génome ; mutations et polymorphisme."
+        show: "6. Contrôle de l'expression · 7. Procaryotes · 8. Virus · 9. Gènes et génome · 10. Mutations"
+
+  - kind: figure
+    title: "Définition du gène"
+    ref: "S1-3 p.2"
+    fig: "S1-3:2h"
+    trap: "Un gène peut coder un ARNt, un ARNr OU un ARNm (traduit en polypeptide) ; localisation = locus."
+    beats:
+      - say: "L'ADN contient toute l'information nécessaire au fonctionnement de l'organisme. Un *gène* est un segment d'ADN, de séquence déterminée, qui contient l'information nécessaire à la production d'un ARN de transfert, d'un ARN ribosomal, ou d'un ARN messager qui sera traduit en polypeptide."
+        mark: ["segment d’ADN", "ARN de transfert", "ARN messager"]
+        show: "*Gène* = segment d'ADN → *ARNt*, *ARNr* ou *ARNm* (→ polypeptide)"
+      - say: "Il détermine ainsi une fonction cellulaire précise, et il a une localisation précise sur un chromosome : le *locus*."
+        mark: "locus"
+        show: "Fonction cellulaire précise · localisation précise = *locus*"
+      - say: "Chez l'homme : environ vingt mille gènes donnent des ARN messagers, et environ cinq cents donnent des ARNt et des ARNr."
+        mark: ["20 000", "500"]
+        show: "# Homme : ± *20 000* gènes → ARNm · ± *500* → ARNt et ARNr"
+
+  - kind: figure
+    title: "Exemple : le gène de l'insuline"
+    ref: "S1-3 p.2"
+    fig: "S1-3:2b"
+    trap: "INS sur le chromosome 11."
+    beats:
+      - say: "Exemple : le gène de l'insuline, I N S, localisé sur le chromosome onze, d'après le Map viewer du NCBI."
+        focus: "all"
+        mark: ["INS", "chromosome 11"]
+        show: "Gène de l'insuline (*INS*) : chromosome *11*"
+
+  - kind: flow
+    title: "Du gène à la fonction cellulaire"
+    ref: "S1-3 p.3"
+    trap: "Maturation et traduction = ARNm UNIQUEMENT ; ARNr et ARNt ne sont pas traduits mais participent à la traduction."
+    beats:
+      - say: "Trois étapes."
+      - say: "La transcription, dans le noyau : l'ADN est recopié en ARN."
+        show: "*Transcription* (noyau) : ADN → ARN"
+      - say: "La maturation, dans le noyau, pour les ARN messagers uniquement : on élimine certaines portions, c'est l'épissage, et on modifie les extrémités."
+        show: "*Maturation* (noyau, ARNm seulement) : *épissage* + extrémités modifiées"
+      - say: "La traduction, dans le cytoplasme, pour les ARN messagers uniquement : synthèse d'une séquence peptidique selon le code génétique. Les ARNr et ARNt ne sont pas traduits : ils participent à la traduction."
+        show: "*Traduction* (cytoplasme, ARNm seulement) · ARNr et ARNt *participent* sans être traduits"
+
+  - kind: figure
+    title: "Pourquoi des triplets ?"
+    ref: "S1-3 p.3"
+    fig: "S1-3:3b"
+    trap: "3 nucléotides → 64 possibilités ; triplet (ADN) ↔ codon (ARN) ↔ 1 acide aminé."
+    beats:
+      - say: "Il faut traduire un ARN à quatre lettres en polypeptide à vingt lettres. Avec un nucléotide par acide aminé : seulement quatre possibilités. Avec deux : seize. Avec trois : soixante-quatre. C'est l'option du code génétique."
+        mark: ["4 possibilités", "16 possibilités", "64 possibilités"]
+        show: "1 nt : *4* · 2 nt : *16* · 3 nt : *64* ← code génétique"
+      - say: "Le code est lu par groupes de trois nucléotides : un *triplet* dans l'ADN correspond à un *codon* dans l'ARN, et un codon correspond à un acide aminé."
+        mark: ["triplet", "codon"]
+        show: "*Triplet* (ADN) ↔ *codon* (ARN) ↔ *1* acide aminé"
+
+  - kind: figure
+    title: "Les propriétés du code"
+    ref: "S1-3 p.4"
+    fig: "S1-3:4h"
+    trap: "Dégénéré (plusieurs codons pour un aa) MAIS sans ambiguïté (un codon = un seul aa)."
+    beats:
+      - say: "Le code est *dégénéré* : pour certains acides aminés, il existe plusieurs codons. Par exemple, la valine en a quatre."
+        mark: ["dégénéré", "valine"]
+        show: "*Dégénéré* : plusieurs codons pour un aa (ex. *valine* : 4)"
+      - say: "Mais il est *sans ambiguïté* : un codon donné ne code que pour un seul acide aminé."
+        mark: "sans ambiguité"
+        show: "*Sans ambiguïté* : 1 codon = *1 seul* acide aminé"
+
+  - kind: figure
+    title: "START et STOP"
+    ref: "S1-3 p.4"
+    fig: "S1-3:4b"
+    trap: "AUG = START et méthionine ; 3 STOP : UGA, UAG, UAA."
+    beats:
+      - say: "Un codon *START* pour démarrer la traduction : A U G, qui code aussi pour la méthionine. La synthèse d'une protéine commence donc toujours par une méthionine."
+        mark: ["START", "méthionine"]
+        show: "*START* = *AUG* (= méthionine) → toute protéine commence par *Met*"
+      - say: "Et trois codons *STOP* possibles pour signaler la fin : U G A, U A G, ou U A A."
+        mark: "STOP"
+        show: "*3 STOP* : UGA · UAG · UAA"
+
+  - kind: figure
+    title: "Le tableau du code génétique"
+    ref: "S1-3 p.5"
+    fig: "S1-3:5h"
+    trap: "Lire le tableau : chaque acide aminé, ses codons ; Met et Trp n'ont qu'un codon."
+    beats:
+      - say: "Le cours donne le tableau complet : pour chaque acide aminé, son code à une lettre, à trois lettres, son nom et ses codons. Par exemple : la leucine, l'arginine et la sérine en ont six ; l'alanine, la glycine, la proline, la thréonine et la valine, quatre ; la méthionine et le tryptophane, un seul, A U G et U G G. Et la dernière ligne : les trois STOP."
+        focus: "all"
+        mark: ["AUG", "UGG", "UAA, UGA, UAG"]
+        show: "6 codons : Leu, Arg, Ser · 1 seul : *Met* (AUG), *Trp* (UGG) · STOP : UAA, UGA, UAG"
+
+  - kind: mnemo
+    title: "Retenir les STOP"
+    ref: "S1-3 p.4"
+    phrase: "*U* *A*rrête *A*ussitôt · *U* *A*rrête *G*entiment · *U* *G*ros *A*rrêt"
+    trap: "Les 3 STOP commencent tous par U."
+    beats:
+      - say: "Les trois STOP commencent tous par U. U A A : U Arrête Aussitôt. U A G : U Arrête Gentiment. U G A : U Gros Arrêt."
+        show: "*UAA* · *UAG* · *UGA* — tous commencent par *U*"
+      - say: "Et le départ, A U G : “AUGmenter”, on démarre, avec une méthionine."
+        show: "*AUG* = « AUGmenter » → START (Met)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.3-5"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Le code génétique est ambigu : un codon peut coder deux acides aminés."
+      - "Il existe 64 combinaisons de trois nucléotides."
+      - "La traduction a lieu dans le noyau."
+      - "Il existe un seul codon STOP."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Le code est dégénéré mais sans ambiguïté, la traduction se fait dans le cytoplasme, et il y a trois codons STOP."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 29 : transcription et maturation"
+    ref: "S1-3 p.5"
+    big: "brin – / brin +"
+    beats:
+      - say: "Prochain épisode : la transcription, le brin matrice, et la maturation de l'ARN, avec coiffe, queue poly-A et épissage."
+        show: "Transcription · *épissage* · coiffe · poly-A"
+
+recap:
+  - "Chapitre VIII : 1. Définition du gène ; 2. Le code génétique ; 3. Synthèse des ARN messagers ; 4. Synthèse des protéines ; 5. Trafic des protéines ; 6. Contrôle de l'expression des gènes ; 7. Chez les procaryotes ; 8. Chez les virus ; 9. Gènes et génome ; 10. Mutations et polymorphisme. L'ADN contient toute l'information nécessaire au fonctionnement de l'organisme (livre à 4 lettres)."
+  - "Gène : segment d'ADN de séquence déterminée, contenant l'information nécessaire à la production d'un ARNt, d'un ARNr ou d'un ARNm traduit en polypeptide ; détermine une fonction cellulaire précise ; localisation précise sur un chromosome (locus). Chez l'homme : ± 20 000 gènes → ARNm ; ± 500 gènes → ARNt et ARNr. Ex. gène de l'insuline (INS) sur le chromosome 11 (NCBI Map viewer)."
+  - "Du gène à la fonction : transcription (noyau, recopiage de l'ADN en ARN) ; maturation (noyau, ARNm uniquement : épissage, modification des extrémités) ; traduction (cytoplasme, ARNm uniquement : synthèse peptidique selon le code génétique) ; ARNr et ARNt non traduits participent à la traduction."
+  - "Code génétique : 4 lettres → 20 ; 1 nt = 4 possibilités, 2 nt = 16, 3 nt = 64 (option retenue) ; lu par groupes de 3 : triplet (ADN) ↔ codon (ARN) ↔ 1 acide aminé ; dégénéré (ex. valine : 4 codons) mais sans ambiguïté (un codon = un seul acide aminé) ; START AUG (méthionine : toute protéine commence par une méthionine) ; trois STOP : UGA, UAG, UAA ; tableau complet des codons."
+
+traps:
+  - ["Un gène code toujours une protéine", "Il peut coder un ARNt, un ARNr ou un ARNm", "p.2h"]
+  - ["± 500 gènes → ARNm", "± 20 000 → ARNm ; ± 500 → ARNt et ARNr", "p.2h"]
+  - ["Maturation de tous les ARN", "Maturation et traduction : ARNm uniquement", "p.3h"]
+  - ["Traduction dans le noyau", "Dans le cytoplasme", "p.3h"]
+  - ["Code ambigu", "Dégénéré mais sans ambiguïté", "p.4h"]
+  - ["2 codons STOP", "3 : UGA, UAG, UAA", "p.4b"]
+  - ["Codon = ADN", "Triplet = ADN ; codon = ARN", "p.3b"]
+
+mnemonics:
+  - ["4 / 16 / 64", "4¹, 4², 4³ : on ne s'arrête qu'à 64 car c'est le premier ≥ 20", "Code par triplets"]
+  - ["Les codons STOP", "« U Arrête Aussitôt, U Arrête Gentiment, U Gros Arrêt »", "UAA · UAG · UGA"]
+  - ["START", "AUG = « AUGmenter » → on démarre avec Met", "AUG = START + méthionine"]
+
+quiz:
+  - q: "Gène :"
+    props:
+      - ["Un gène est un segment d'ADN de séquence déterminée.", true, "p.2h."]
+      - ["Un gène peut coder un ARN ribosomal.", true, "p.2h."]
+      - ["Le locus est la localisation précise d'un gène sur un chromosome.", true, "p.2h."]
+      - ["Le gène de l'insuline est situé sur le chromosome 7.", false, "Chromosome 11."]
+      - ["Chez l'homme, ± 20 000 gènes donnent des ARNm.", true, "p.2h."]
+  - q: "Du gène à la protéine :"
+    props:
+      - ["La transcription a lieu dans le noyau.", true, "p.3h."]
+      - ["L'épissage fait partie de la maturation.", true, "p.3h."]
+      - ["Les ARNt sont traduits en protéines.", false, "Ils participent à la traduction sans être traduits."]
+      - ["La traduction a lieu dans le cytoplasme.", true, "p.3h."]
+      - ["Un codon de l'ARN correspond à un acide aminé.", true, "p.3b."]
+  - q: "Code génétique :"
+    props:
+      - ["Le code est dégénéré.", true, "p.4h."]
+      - ["Un codon peut coder deux acides aminés différents.", false, "Sans ambiguïté."]
+      - ["AUG est le codon START et code la méthionine.", true, "p.4b."]
+      - ["UGA est un codon STOP.", true, "Avec UAG et UAA."]
+      - ["La valine possède 4 codons.", true, "p.4h."]
+
+coverage:
+  - ["S1-3", "1h", "Sommaire du chapitre VIII (10 points)", 2]
+  - ["S1-3", "1b", "L'ADN, livre à 4 lettres", 1]
+  - ["S1-3", "2h", "Définition du gène, locus, ± 20 000 / ± 500 gènes", 3]
+  - ["S1-3", "2b", "Gène de l'insuline (INS), chromosome 11", 4]
+  - ["S1-3", "3h", "Du gène à la fonction cellulaire (transcription, maturation, traduction)", 5]
+  - ["S1-3", "3b", "Code génétique : 4/16/64, triplet, codon", 6]
+  - ["S1-3", "4h", "Code dégénéré, sans ambiguïté (valine)", 7]
+  - ["S1-3", "4b", "START (AUG) et STOP (UGA, UAG, UAA)", 8]
+  - ["S1-3", "5h", "Tableau du code génétique", 9]

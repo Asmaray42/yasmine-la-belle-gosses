@@ -1,0 +1,256 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le diamant et ta peau ont un
+Dialogue: 0,0:00:01.67,0:00:02.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}point commun : le carbone.
+Dialogue: 0,0:00:03.09,0:00:04.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours le dit : l'atome de
+Dialogue: 0,0:00:04.58,0:00:06.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbone constitue la charpente de
+Dialogue: 0,0:00:06.35,0:00:07.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la majorité des molécules
+Dialogue: 0,0:00:07.69,0:00:08.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologiques.
+Dialogue: 0,0:00:08.73,0:00:09.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Aujourd'hui : pourquoi le
+Dialogue: 0,0:00:09.96,0:00:11.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbone, les groupes fonctionnels
+Dialogue: 0,0:00:11.60,0:00:13.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui lui donnent ses propriétés,
+Dialogue: 0,0:00:13.13,0:00:14.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le grand tableau des
+Dialogue: 0,0:00:14.27,0:00:15.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}macromolécules.
+Dialogue: 0,0:00:15.57,0:00:17.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Troisième point du chapitre deux
+Dialogue: 0,0:00:17.16,0:00:18.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: la chimie du carbone.
+Dialogue: 0,0:00:18.45,0:00:20.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carbone constitue la charpente
+Dialogue: 0,0:00:20.35,0:00:21.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la majorité des molécules
+Dialogue: 0,0:00:21.97,0:00:22.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologiques.
+Dialogue: 0,0:00:23.06,0:00:25.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il s'associe à cinq autres atomes
+Dialogue: 0,0:00:25.02,0:00:26.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: l'hydrogène, l'oxygène,
+Dialogue: 0,0:00:26.50,0:00:27.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'azote, le phosphore,
+Dialogue: 0,0:00:27.81,0:00:29.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}noté phosphate sur la diapo,
+Dialogue: 0,0:00:29.48,0:00:30.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le soufre.
+Dialogue: 0,0:00:30.81,0:00:32.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carbone est {\c&H66D1FF&}tétravalent{\c&HFFFFFF&} :
+Dialogue: 0,0:00:32.23,0:00:33.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il forme quatre liaisons.
+Dialogue: 0,0:00:33.90,0:00:35.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ça lui permet de former des
+Dialogue: 0,0:00:35.18,0:00:36.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}chaînes{\c&HFFFFFF&} {\c&H66D1FF&}simples{\c&HFFFFFF&} , des {\c&H66D1FF&}chaînes{\c&HFFFFFF&}
+Dialogue: 0,0:00:36.55,0:00:38.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}ramifiées{\c&HFFFFFF&} , et des {\c&H66D1FF&}structures{\c&HFFFFFF&} {\c&H66D1FF&}en{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.07,0:00:38.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}anneau{\c&HFFFFFF&} .
+Dialogue: 0,0:00:38.85,0:00:40.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et quand le carbone forme un
+Dialogue: 0,0:00:40.27,0:00:41.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cristal, ça donne… le diamant.
+Dialogue: 0,0:00:42.35,0:00:43.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}hydrocarbures{\c&HFFFFFF&} sont formés
+Dialogue: 0,0:00:43.92,0:00:45.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}uniquement{\c&HFFFFFF&} de carbone et
+Dialogue: 0,0:00:45.21,0:00:45.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'hydrogène.
+Dialogue: 0,0:00:46.26,0:00:47.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leurs liaisons C H sont {\c&H66D1FF&}riches{\c&HFFFFFF&} {\c&H66D1FF&}en{\c&HFFFFFF&}
+Dialogue: 0,0:00:47.90,0:00:49.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}énergie{\c&HFFFFFF&} : ce sont les carburants.
+Dialogue: 0,0:00:49.93,0:00:51.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et comme les liaisons C C et C H
+Dialogue: 0,0:00:51.64,0:00:53.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont équilibrées, ils sont
+Dialogue: 0,0:00:53.03,0:00:53.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}apolaires{\c&HFFFFFF&} .
+Dialogue: 0,0:00:53.76,0:00:54.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple du cours :
+Dialogue: 0,0:00:54.86,0:00:56.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le propane, C3H8.
+Dialogue: 0,0:00:57.07,0:00:58.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur le squelette C H se greffent
+Dialogue: 0,0:00:58.76,0:01:00.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}groupes{\c&HFFFFFF&} {\c&H66D1FF&}fonctionnels{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:00.14,0:01:01.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui impliquent d'autres atomes :
+Dialogue: 0,0:01:01.84,0:01:03.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}oxygène, azote, soufre,
+Dialogue: 0,0:01:03.06,0:01:03.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphore.
+Dialogue: 0,0:01:03.73,0:01:05.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours en présente six.
+Dialogue: 0,0:01:05.57,0:01:06.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : l' {\c&H66D1FF&}hydroxyle{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:06.60,0:01:07.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou alcool, O H.
+Dialogue: 0,0:01:07.55,0:01:08.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'éthanol.
+Dialogue: 0,0:01:09.04,0:01:10.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Présent dans les glucides,
+Dialogue: 0,0:01:10.44,0:01:11.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protéines, les acides
+Dialogue: 0,0:01:11.78,0:01:13.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléiques et les lipides.
+Dialogue: 0,0:01:13.32,0:01:14.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est polaire, attire les
+Dialogue: 0,0:01:14.75,0:01:16.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules d'eau, et facilite donc
+Dialogue: 0,0:01:16.56,0:01:18.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la dissolution des composés
+Dialogue: 0,0:01:18.04,0:01:18.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organiques.
+Dialogue: 0,0:01:19.04,0:01:20.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : le {\c&H66D1FF&}carbonyle{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:20.10,0:01:21.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C double liaison O.
+Dialogue: 0,0:01:21.21,0:01:22.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'acétaldéhyde.
+Dialogue: 0,0:01:22.85,0:01:24.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Présent dans les glucides et les
+Dialogue: 0,0:01:24.52,0:01:25.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acides nucléiques.
+Dialogue: 0,0:01:25.59,0:01:26.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est fortement polaire.
+Dialogue: 0,0:01:27.27,0:01:28.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : le {\c&H66D1FF&}carboxyle{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:28.59,0:01:29.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C O O H.
+Dialogue: 0,0:01:29.21,0:01:30.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'acide acétique.
+Dialogue: 0,0:01:30.89,0:01:32.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Présent dans les protéines et les
+Dialogue: 0,0:01:32.44,0:01:32.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides.
+Dialogue: 0,0:01:32.96,0:01:34.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est une {\c&H66D1FF&}source{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}protons{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:34.52,0:01:36.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de H plus : il a des propriétés
+Dialogue: 0,0:01:36.18,0:01:37.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}acides{\c&HFFFFFF&} , et devient C O O moins.
+Dialogue: 0,0:01:38.46,0:01:39.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre : l' {\c&H66D1FF&}amine{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:39.40,0:01:39.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}N H 2.
+Dialogue: 0,0:01:39.98,0:01:41.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : l'alanine.
+Dialogue: 0,0:01:41.27,0:01:42.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Présente dans les protéines et
+Dialogue: 0,0:01:42.80,0:01:43.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les acides nucléiques.
+Dialogue: 0,0:01:44.06,0:01:45.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle peut {\c&H66D1FF&}accepter{\c&HFFFFFF&} des H plus :
+Dialogue: 0,0:01:45.74,0:01:47.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est une {\c&H66D1FF&}base{\c&HFFFFFF&} , souvent ionisée,
+Dialogue: 0,0:01:47.54,0:01:48.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de charge plus un :
+Dialogue: 0,0:01:48.57,0:01:49.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}N H 3 plus.
+Dialogue: 0,0:01:49.78,0:01:51.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq : le {\c&H66D1FF&}sulfhydryle{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:51.09,0:01:51.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou {\c&H66D1FF&}thiol{\c&HFFFFFF&} , S H.
+Dialogue: 0,0:01:52.08,0:01:53.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la cystéine.
+Dialogue: 0,0:01:53.59,0:01:54.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Présent dans les protéines.
+Dialogue: 0,0:01:54.92,0:01:56.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux thiols peuvent se combiner
+Dialogue: 0,0:01:56.46,0:01:57.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour former des liens :
+Dialogue: 0,0:01:57.60,0:01:58.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}ponts{\c&HFFFFFF&} {\c&H66D1FF&}disulfure{\c&HFFFFFF&} .
+Dialogue: 0,0:01:59.04,0:02:00.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six : le {\c&H66D1FF&}phosphate{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:00.03,0:02:01.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O P O 3 deux moins.
+Dialogue: 0,0:02:01.31,0:02:03.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : le glycérol phosphate.
+Dialogue: 0,0:02:03.37,0:02:04.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Présent dans les acides
+Dialogue: 0,0:02:04.50,0:02:05.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléiques.
+Dialogue: 0,0:02:05.18,0:02:06.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il forme un ion de charge
+Dialogue: 0,0:02:06.60,0:02:08.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}négative, et permet le {\c&H66D1FF&}transfert{\c&HFFFFFF&}
+Dialogue: 0,0:02:08.43,0:02:09.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}d'énergie{\c&HFFFFFF&} d'une molécule à
+Dialogue: 0,0:02:09.92,0:02:10.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'autre.
+Dialogue: 0,0:02:10.93,0:02:12.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une personnalité par groupe.
+Dialogue: 0,0:02:12.92,0:02:13.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hydroxyle, O H :
+Dialogue: 0,0:02:13.81,0:02:15.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Oh, de l'eau !” Il attire l'eau
+Dialogue: 0,0:02:15.31,0:02:16.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et aide à dissoudre.
+Dialogue: 0,0:02:16.71,0:02:18.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carbonyle, C double liaison O
+Dialogue: 0,0:02:18.43,0:02:19.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: le plus polaire du lot,
+Dialogue: 0,0:02:19.77,0:02:20.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“fortement polaire”.
+Dialogue: 0,0:02:21.13,0:02:22.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carboxyle, C O O H,
+Dialogue: 0,0:02:22.40,0:02:24.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est généreux : il {\c&H66D1FF&}donne{\c&HFFFFFF&} son H plus.
+Dialogue: 0,0:02:24.55,0:02:25.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est acide.
+Dialogue: 0,0:02:25.91,0:02:27.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'amine, N H 2, est gourmande :
+Dialogue: 0,0:02:27.64,0:02:28.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle {\c&H66D1FF&}prend{\c&HFFFFFF&} un H plus.
+Dialogue: 0,0:02:28.85,0:02:29.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est une base.
+Dialogue: 0,0:02:30.16,0:02:32.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le thiol, S H, est un soudeur :
+Dialogue: 0,0:02:32.00,0:02:33.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux thiols se soudent en pont
+Dialogue: 0,0:02:33.77,0:02:34.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disulfure.
+Dialogue: 0,0:02:34.76,0:02:35.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le phosphate propulse
+Dialogue: 0,0:02:35.97,0:02:37.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie d'une molécule à
+Dialogue: 0,0:02:37.27,0:02:37.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'autre.
+Dialogue: 0,0:02:38.23,0:02:39.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quel groupe est une source
+Dialogue: 0,0:02:39.90,0:02:41.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de protons, avec des propriétés
+Dialogue: 0,0:02:41.46,0:02:41.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acides ?
+Dialogue: 0,0:02:46.26,0:02:47.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carboxyle : il donne son H
+Dialogue: 0,0:02:47.92,0:02:49.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus et devient C O O moins.
+Dialogue: 0,0:02:49.67,0:02:51.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'amine, elle, accepte les H plus
+Dialogue: 0,0:02:51.23,0:02:52.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: c'est une base.
+Dialogue: 0,0:02:52.60,0:02:54.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatrième point du chapitre :
+Dialogue: 0,0:02:54.08,0:02:55.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les macromolécules.
+Dialogue: 0,0:02:55.19,0:02:56.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont des {\c&H66D1FF&}polymères{\c&HFFFFFF&} .
+Dialogue: 0,0:02:56.72,0:02:58.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un polymère est l'assemblage
+Dialogue: 0,0:02:58.16,0:02:59.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une succession de petites
+Dialogue: 0,0:02:59.54,0:03:01.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous-unités chimiques similaires,
+Dialogue: 0,0:03:01.24,0:03:02.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}monomères{\c&HFFFFFF&} .
+Dialogue: 0,0:03:02.15,0:03:03.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple du cours : l'amidon.
+Dialogue: 0,0:03:04.21,0:03:05.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux réactions opposées.
+Dialogue: 0,0:03:05.55,0:03:06.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}déshydratation{\c&HFFFFFF&} :
+Dialogue: 0,0:03:06.60,0:03:08.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la réaction d' {\c&H66D1FF&}assemblage{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:08.42,0:03:09.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la synthèse des monomères,
+Dialogue: 0,0:03:09.85,0:03:10.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la polymérisation.
+Dialogue: 0,0:03:11.24,0:03:12.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}hydrolyse{\c&HFFFFFF&} : c'est la réaction
+Dialogue: 0,0:03:12.77,0:03:14.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de {\c&H66D1FF&}rupture{\c&HFFFFFF&} de la liaison entre
+Dialogue: 0,0:03:14.21,0:03:14.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les monomères.
+Dialogue: 0,0:03:15.28,0:03:16.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Astuce : déshydratation,
+Dialogue: 0,0:03:16.45,0:03:18.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on retire de l'eau pour coller ;
+Dialogue: 0,0:03:18.01,0:03:19.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrolyse, l'eau vient couper.
+Dialogue: 0,0:03:20.04,0:03:20.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège.
+Dialogue: 0,0:03:21.22,0:03:22.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'hydrolyse permet la
+Dialogue: 0,0:03:22.28,0:03:23.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polymérisation” : faux.
+Dialogue: 0,0:03:23.79,0:03:24.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La polymérisation,
+Dialogue: 0,0:03:24.80,0:03:26.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la déshydratation.
+Dialogue: 0,0:03:26.27,0:03:27.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hydrolyse rompt la liaison
+Dialogue: 0,0:03:27.58,0:03:28.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre monomères.
+Dialogue: 0,0:03:28.89,0:03:30.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Voici le tableau-clé du chapitre
+Dialogue: 0,0:03:30.69,0:03:31.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: quatre groupes de
+Dialogue: 0,0:03:31.77,0:03:33.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}macromolécules, avec leur
+Dialogue: 0,0:03:33.17,0:03:34.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous-unité, leur fonction et un
+Dialogue: 0,0:03:34.92,0:03:35.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exemple.
+Dialogue: 0,0:03:35.77,0:03:37.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}glucides{\c&HFFFFFF&} : amidon et
+Dialogue: 0,0:03:37.03,0:03:38.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycogène, faits de glucose,
+Dialogue: 0,0:03:38.49,0:03:39.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour le stockage d'énergie,
+Dialogue: 0,0:03:39.90,0:03:41.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme dans les patates.
+Dialogue: 0,0:03:41.24,0:03:42.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellulose, faite de glucose,
+Dialogue: 0,0:03:42.82,0:03:44.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les parois cellulaires des
+Dialogue: 0,0:03:44.39,0:03:46.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plantes, comme les fils de céleri.
+Dialogue: 0,0:03:46.26,0:03:47.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chitine, faite de glucose
+Dialogue: 0,0:03:47.87,0:03:49.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modifié, comme support
+Dialogue: 0,0:03:49.14,0:03:51.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structural, dans la carapace du crabe.
+Dialogue: 0,0:03:51.72,0:03:52.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}acides{\c&HFFFFFF&} {\c&H66D1FF&}nucléiques{\c&HFFFFFF&} :
+Dialogue: 0,0:03:52.93,0:03:54.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ADN, fait de nucléotides,
+Dialogue: 0,0:03:54.50,0:03:55.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porte l'information,
+Dialogue: 0,0:03:55.54,0:03:56.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans les chromosomes.
+Dialogue: 0,0:03:56.78,0:03:58.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ARN, fait de nucléotides,
+Dialogue: 0,0:03:58.33,0:03:59.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sert à l'expression de
+Dialogue: 0,0:03:59.47,0:04:00.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'information, comme l'ARN
+Dialogue: 0,0:04:00.96,0:04:01.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager.
+Dialogue: 0,0:04:01.83,0:04:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}protéines{\c&HFFFFFF&} , faites d'acides
+Dialogue: 0,0:04:03.45,0:04:04.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aminés : de fonction,
+Dialogue: 0,0:04:04.55,0:04:06.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la catalyse et le transport,
+Dialogue: 0,0:04:06.28,0:04:07.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme l'hémoglobine ;
+Dialogue: 0,0:04:07.38,0:04:08.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de structure, pour le support,
+Dialogue: 0,0:04:08.95,0:04:09.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les cheveux.
+Dialogue: 0,0:04:10.29,0:04:12.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}lipides{\c&HFFFFFF&} : les triglycérides,
+Dialogue: 0,0:04:12.01,0:04:13.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycérol et acides gras,
+Dialogue: 0,0:04:13.29,0:04:14.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour le stockage d'énergie,
+Dialogue: 0,0:04:14.74,0:04:16.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme le beurre et l'huile
+Dialogue: 0,0:04:16.13,0:04:16.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'olive.
+Dialogue: 0,0:04:16.70,0:04:17.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les phospholipides,
+Dialogue: 0,0:04:17.69,0:04:19.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycérol, acides gras et groupes
+Dialogue: 0,0:04:19.35,0:04:20.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires, pour les membranes
+Dialogue: 0,0:04:20.81,0:04:21.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires, comme la
+Dialogue: 0,0:04:21.90,0:04:22.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphatidylcholine.
+Dialogue: 0,0:04:23.08,0:04:24.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les prostaglandines,
+Dialogue: 0,0:04:24.10,0:04:25.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cycles carbonés et queues
+Dialogue: 0,0:04:25.38,0:04:26.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apolaires, messagers chimiques.
+Dialogue: 0,0:04:27.10,0:04:28.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les stéroïdes, cycles carbonés,
+Dialogue: 0,0:04:28.69,0:04:29.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les membranes et les
+Dialogue: 0,0:04:29.97,0:04:31.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hormones, comme le cholestérol et
+Dialogue: 0,0:04:31.66,0:04:32.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'œstrogène.
+Dialogue: 0,0:04:32.42,0:04:33.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les terpènes, chaînes
+Dialogue: 0,0:04:33.67,0:04:35.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbonées, pigments et défense,
+Dialogue: 0,0:04:35.28,0:04:36.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme le carotène et le latex.
+Dialogue: 0,0:04:37.40,0:04:38.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En version lisible,
+Dialogue: 0,0:04:38.33,0:04:39.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ligne par ligne.
+Dialogue: 0,0:04:39.51,0:04:40.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glucides.
+Dialogue: 0,0:04:43.54,0:04:44.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Acides nucléiques.
+Dialogue: 0,0:04:46.50,0:04:47.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Protéines.
+Dialogue: 0,0:04:49.12,0:04:49.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lipides.
+Dialogue: 0,0:04:56.62,0:04:58.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cinq lignes de lipides,
+Dialogue: 0,0:04:58.13,0:04:59.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'ordre : “Très peu de profs
+Dialogue: 0,0:04:59.92,0:05:01.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stressés sont ternes.”
+Dialogue: 0,0:05:01.09,0:05:02.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Triglycérides, phospholipides,
+Dialogue: 0,0:05:02.76,0:05:04.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prostaglandines, stéroïdes,
+Dialogue: 0,0:05:04.27,0:05:04.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}terpènes.
+Dialogue: 0,0:05:05.17,0:05:06.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pour les glucides :
+Dialogue: 0,0:05:06.38,0:05:07.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux fonctions de stockage,
+Dialogue: 0,0:05:07.87,0:05:09.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec amidon et glycogène,
+Dialogue: 0,0:05:09.24,0:05:10.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et deux de structure,
+Dialogue: 0,0:05:10.39,0:05:11.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec cellulose et chitine.
+Dialogue: 0,0:05:12.38,0:05:14.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernier quiz : quelle association
+Dialogue: 0,0:05:14.16,0:05:14.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est exacte ?
+Dialogue: 0,0:05:20.20,0:05:20.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A.
+Dialogue: 0,0:05:21.13,0:05:22.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellulose est faite de
+Dialogue: 0,0:05:22.46,0:05:23.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose, l'ARN sert à
+Dialogue: 0,0:05:23.74,0:05:25.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'expression de l'information,
+Dialogue: 0,0:05:25.34,0:05:26.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les stéroïdes sont faits de
+Dialogue: 0,0:05:26.93,0:05:27.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cycles carbonés.
+Dialogue: 0,0:05:28.34,0:05:29.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:05:29.76,0:05:30.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carbone, tétravalent,
+Dialogue: 0,0:05:30.96,0:05:32.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}forme la charpente des molécules
+Dialogue: 0,0:05:32.56,0:05:34.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologiques : chaînes simples,
+Dialogue: 0,0:05:34.07,0:05:35.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ramifiées, anneaux.
+Dialogue: 0,0:05:35.42,0:05:37.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Hydrocarbures : seulement C et H,
+Dialogue: 0,0:05:37.20,0:05:38.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}riches en énergie, apolaires.
+Dialogue: 0,0:05:39.17,0:05:40.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six groupes fonctionnels :
+Dialogue: 0,0:05:40.67,0:05:41.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydroxyle, carbonyle,
+Dialogue: 0,0:05:41.89,0:05:43.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carboxyle acide, amine basique,
+Dialogue: 0,0:05:43.69,0:05:45.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}thiol et ponts disulfure,
+Dialogue: 0,0:05:45.14,0:05:47.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate et transfert d'énergie.
+Dialogue: 0,0:05:47.45,0:05:48.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Déshydratation, on assemble ;
+Dialogue: 0,0:05:48.95,0:05:49.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrolyse, on rompt.
+Dialogue: 0,0:05:50.12,0:05:51.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et quatre familles :
+Dialogue: 0,0:05:51.21,0:05:52.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucides, acides nucléiques,
+Dialogue: 0,0:05:52.74,0:05:53.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, lipides.
+Dialogue: 0,0:05:54.33,0:05:55.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:05:55.23,0:05:55.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les glucides.
+Dialogue: 0,0:05:56.01,0:05:57.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et une seule lettre grecque
+Dialogue: 0,0:05:57.29,0:05:58.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sépare l'amidon de la cellulose.
+Dialogue: 0,0:05:58.95,0:05:59.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Laquelle ?
+Dialogue: 0,0:05:59.81,0:06:01.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse dans l'épisode cinq.

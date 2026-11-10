@@ -1,0 +1,184 @@
+title: "Diviser pour durer : division cellulaire et réplication de l'ADN"
+subtitle: "Rôles · chiffres · check-list · réplication semi-conservative · bactéries"
+source: "S1-2 p.25b à 29"
+chapter: "Partie I — Chapitre VI. La division cellulaire — 1. Aperçu général · 2. Réplication de l'ADN · Division chez les procaryotes"
+objectives:
+  - "Citer les points du chapitre VI."
+  - "Définir la division cellulaire et ses rôles chez les uni- et pluricellulaires."
+  - "Donner les chiffres de la division chez l'homme et la check-list en 4 points."
+  - "Décrire la réplication de l'ADN (2 étapes, 5' → 3', semi-conservative) et la division bactérienne."
+
+scenes:
+  - kind: hook
+    title: "Quelques milliards de divisions par jour"
+    ref: "S1-2 p.27"
+    big: "milliards / jour"
+    beats:
+      - say: "Pendant que tu regardes cette vidéo, ton corps réalise des milliers de divisions cellulaires : quelques milliards par jour, dans la peau, le tube digestif, le sang."
+      - say: "Au programme : les rôles de la division, sa check-list, et la réplication de l'ADN."
+        show: "Rôles · check-list · *réplication semi-conservative*"
+
+  - kind: list
+    title: "Chapitre VI : la division cellulaire"
+    ref: "S1-2 p.25"
+    trap: "Points du chapitre VI (le numéro « 2. » apparaît deux fois dans le sommaire du cours)."
+    beats:
+      - say: "Chapitre six : la division cellulaire."
+      - say: "Aperçu général ; la réplication de l'ADN ; la division chez les procaryotes."
+        show: "Aperçu général · réplication de l'ADN · division chez les procaryotes"
+      - say: "Les chromosomes eucaryotes ; le cycle cellulaire ; la mitose ; le contrôle du cycle cellulaire."
+        show: "Chromosomes eucaryotes · cycle cellulaire · mitose · contrôle du cycle"
+
+  - kind: figure
+    title: "Définition et rôles"
+    ref: "S1-2 p.26"
+    fig: "S1-2:26b"
+    trap: "Unicellulaires : accroissement de la population ; pluricellulaires : développement/croissance ET remplacement/réparation."
+    beats:
+      - say: "La division cellulaire, c'est le processus par lequel une cellule initiale, la *cellule-mère*, donne naissance à deux nouvelles cellules, les *cellules-filles*."
+        show: "Cellule-*mère* → *2* cellules-*filles*"
+      - say: "Chez les organismes unicellulaires, elle assure l'accroissement de la population."
+        mark: "Accroissement"
+        show: "Unicellulaires : accroissement de la *population*"
+      - say: "Chez les pluricellulaires, à partir de l'œuf fécondé, une seule cellule, elle assure le développement et la croissance de l'organisme, et le remplacement et la réparation des tissus usés ou endommagés."
+        mark: ["Développement", "Remplacement"]
+        show: "Pluricellulaires : *développement et croissance* · *remplacement et réparation*"
+
+  - kind: figure
+    title: "Les chiffres et la check-list"
+    ref: "S1-2 p.27"
+    fig: "S1-2:27h"
+    trap: "10 000 à 100 000 milliards de cellules ; QUELQUES milliards de divisions par jour."
+    beats:
+      - say: "Chez l'homme adulte : entre 10 000 et 100 000 milliards de cellules. Et quelques milliards de divisions de remplacement par jour, dans la peau, le tube digestif et le système hématopoïétique."
+        mark: ["100 000 milliards", "quelques milliards"]
+        show: "# *10 000 – 100 000 milliards* de cellules · *quelques milliards* de divisions/jour (peau, tube digestif, hématopoïétique)"
+
+  - kind: list
+    title: "La check-list de la division"
+    ref: "S1-2 p.27"
+    trap: "4 étapes ; la réplication = « dupliquer l'information génétique »."
+    beats:
+      - say: "Pour se diviser, une cellule doit cocher quatre cases."
+      - say: "Augmenter son contenu cytoplasmique, organites et protéines."
+        show: "1. Augmenter le contenu *cytoplasmique* (organites, protéines)"
+      - say: "Dupliquer l'information génétique : c'est la réplication de l'ADN."
+        show: "2. *Dupliquer* l'information génétique (réplication)"
+      - say: "Répartir l'ensemble du matériel en deux parts égales."
+        show: "3. *Répartir* en deux parts égales"
+      - say: "Et séparer les deux nouvelles cellules."
+        show: "4. *Séparer* les deux nouvelles cellules"
+
+  - kind: flow
+    title: "La réplication de l'ADN"
+    ref: "S1-2 p.28-29"
+    trap: "Polymérisation TOUJOURS 5' → 3' ; ancien brin = matrice ; semi-conservative."
+    beats:
+      - say: "La réplication, en deux étapes et un bilan."
+      - say: "Étape un : séparation des deux brins complémentaires, par rupture des liaisons hydrogène."
+        show: "Séparation des 2 brins (rupture des *liaisons H*)"
+      - say: "Étape deux : l'*ADN polymérase* synthétise de nouveaux brins à partir de nucléotides libres, en utilisant les anciens brins comme *matrice*. La polymérisation évolue *toujours* dans la direction 5 prime vers 3 prime."
+        show: "*ADN polymérase* : nucléotides libres + ancien brin = matrice · toujours *5' → 3'*"
+      - say: "Bilan : les deux nouvelles molécules ont une séquence identique à l'ADN initial, et chacune conserve un ancien brin : c'est la réplication *semi-conservative*."
+        show: "2 molécules *identiques*, chacune garde un ancien brin = *semi-conservative*"
+
+  - kind: figure
+    title: "La division des bactéries"
+    ref: "S1-2 p.29"
+    fig: "S1-2:29b"
+    trap: "Bactérie : UNE seule molécule d'ADN CIRCULAIRE."
+    beats:
+      - say: "Chez la plupart des bactéries, le matériel génétique est une seule molécule d'ADN *circulaire*."
+        mark: "circulaire"
+        show: "Bactérie : *1* molécule d'ADN *circulaire*"
+      - say: "Cet ADN est répliqué, et les deux molécules sont réparties de part et d'autre de la cellule. Après un allongement, la cellule se cloisonne en son centre, jusqu'à la scission en deux cellules-filles."
+        mark: ["répliqué", "cloisonnement", "scission"]
+        show: "Réplication → répartition → allongement → *cloisonnement* → *scission*"
+
+  - kind: trap
+    title: "Semi-conservative, 5' → 3'"
+    ref: "S1-2 p.28-29"
+    trap: "Ne pas dire « conservative » ni « 3' → 5' »."
+    beats:
+      - say: "Deux pièges."
+      - say: "“La polymérisation du nouveau brin se fait de 3 prime vers 5 prime” : faux, toujours 5 prime vers 3 prime."
+        show: "✗ 3' → 5'  →  ✓ toujours *5' → 3'*"
+      - say: "“Une des deux molécules filles garde les deux anciens brins” : faux. Chacune garde un ancien brin : semi-conservative."
+        show: "✓ *Chaque* molécule garde *un* ancien brin"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.26-29"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "La réplication de l'ADN est semi-conservative."
+      - "La plupart des bactéries ont plusieurs chromosomes linéaires."
+      - "Chez l'homme, on compte quelques milliers de divisions par jour."
+      - "L'ADN polymérase synthétise les brins de 3' vers 5'."
+    answer: [0]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse A. Les bactéries ont une seule molécule d'ADN circulaire, il y a quelques milliards de divisions par jour, et la synthèse va de 5 prime vers 3 prime."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 22 : les chromosomes eucaryotes"
+    ref: "S1-2 p.30"
+    big: "46"
+    beats:
+      - say: "Prochain épisode : comment ranger et partager 46 chromosomes emmêlés comme des spaghettis. Deux astuces : la condensation et les cohésines."
+        show: "Condensation · *cohésines* · caryotype"
+
+recap:
+  - "Chapitre VI : aperçu général ; réplication de l'ADN ; division chez les procaryotes ; chromosomes eucaryotes ; cycle cellulaire ; mitose ; contrôle du cycle cellulaire."
+  - "Division cellulaire : une cellule initiale (cellule-mère) donne naissance à deux nouvelles cellules (cellules-filles). Rôles : unicellulaires → accroissement de la population ; pluricellulaires (œuf fécondé, 1 cellule) → développement et croissance de l'organisme, remplacement et réparation des tissus usés ou endommagés."
+  - "Chez l'homme : 10 000 à 100 000 milliards de cellules chez l'adulte ; quelques milliards de divisions de remplacement par jour (peau, tube digestif, système hématopoïétique)."
+  - "Check-list : augmenter le contenu cytoplasmique (organites, protéines) ; dupliquer l'information génétique (réplication de l'ADN) ; répartir l'ensemble du matériel en deux parts égales ; procéder à la séparation des deux nouvelles cellules."
+  - "Réplication : étape 1, séparation des deux brins (rupture des liaisons hydrogène) ; étape 2, synthèse de nouveaux brins par l'ADN polymérase à partir de nucléotides libres, les anciens brins servant de matrice ; polymérisation toujours 5' → 3'. Bilan : deux molécules de séquence identique à l'ADN initial, chacune conservant un ancien brin (réplication semi-conservative)."
+  - "Division bactérienne : la plupart des bactéries ont une seule molécule d'ADN circulaire ; réplication, répartition des deux molécules de part et d'autre, allongement, cloisonnement central, scission en deux cellules-filles."
+
+traps:
+  - ["Division → 4 cellules", "Cellule-mère → 2 cellules-filles", "p.26h"]
+  - ["Quelques milliers de divisions par jour", "Quelques milliards", "p.27h"]
+  - ["Réplication 3' → 5'", "Toujours 5' → 3'", "p.28b"]
+  - ["Réplication conservative", "Semi-conservative : chaque molécule garde un ancien brin", "p.29h"]
+  - ["Bactéries : plusieurs chromosomes", "Une seule molécule d'ADN circulaire (la plupart)", "p.29b"]
+
+mnemonics:
+  - ["Check-list", "« Grossir, Copier, Partager, Couper »", "Contenu cytoplasmique · réplication · répartition · séparation"]
+  - ["Semi-conservative", "« Chaque enfant garde un vieux brin de chacun »", "Chaque molécule fille = 1 ancien + 1 nouveau brin"]
+
+quiz:
+  - q: "Division cellulaire :"
+    props:
+      - ["Une cellule-mère donne naissance à deux cellules-filles.", true, "p.26h."]
+      - ["Chez les unicellulaires, la division assure l'accroissement de la population.", true, "p.26b."]
+      - ["Chez les pluricellulaires, elle sert au remplacement et à la réparation des tissus.", true, "p.26b."]
+      - ["Le système hématopoïétique fait partie des tissus à divisions fréquentes.", true, "p.27h."]
+      - ["Un adulte compte entre 10 000 et 100 000 millions de cellules.", false, "Milliards."]
+  - q: "Réplication de l'ADN :"
+    props:
+      - ["La première étape est la séparation des brins par rupture des liaisons hydrogène.", true, "p.28h."]
+      - ["L'ADN polymérase utilise les anciens brins comme matrice.", true, "p.28b."]
+      - ["La polymérisation du nouveau brin évolue toujours de 5' vers 3'.", true, "p.28b."]
+      - ["Les deux molécules produites ont une séquence différente de l'ADN initial.", false, "Séquence identique."]
+      - ["La réplication est semi-conservative.", true, "p.29h."]
+  - q: "Division bactérienne :"
+    props:
+      - ["La plupart des bactéries ont une seule molécule d'ADN circulaire.", true, "p.29b."]
+      - ["La cellule bactérienne s'allonge avant le cloisonnement.", true, "p.29b."]
+      - ["Le cloisonnement se fait à une extrémité de la cellule.", false, "Dans la partie centrale."]
+      - ["Le cloisonnement aboutit à la scission en deux cellules-filles.", true, "p.29b."]
+      - ["L'ADN bactérien n'est pas répliqué avant la division.", false, "Il est répliqué."]
+
+coverage:
+  - ["S1-2", "25b", "Sommaire du chapitre VI", 2]
+  - ["S1-2", "26h", "Définition de la division cellulaire", 3]
+  - ["S1-2", "26b", "Rôles chez les uni- et pluricellulaires", 3]
+  - ["S1-2", "27h", "Chiffres chez l'homme", 4]
+  - ["S1-2", "27b", "Check-list en 4 points", 5]
+  - ["S1-2", "28h", "Réplication, étape 1", 6]
+  - ["S1-2", "28b", "Réplication, étape 2 (ADN polymérase, 5' → 3')", 6]
+  - ["S1-2", "29h", "Bilan : semi-conservative", 6]
+  - ["S1-2", "29b", "Division des cellules bactériennes", 7]

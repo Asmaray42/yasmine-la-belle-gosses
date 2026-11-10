@@ -1,0 +1,188 @@
+title: "Prophase 1 : 5 stades et crossing-over"
+subtitle: "Leptotène · zygotène · pachytène · diplotène · diacinèse · chiasmas · méiose 2"
+source: "S1-2 p.45 à 49h"
+chapter: "Partie I — Chapitre IX. Reproduction sexuée et méiose — 5. Étapes de la méiose"
+objectives:
+  - "Décrire les 5 stades de la prophase 1."
+  - "Expliquer le complexe synaptonémal, le crossing-over et les chiasmas."
+  - "Décrire la fin de la méiose 1 et la méiose 2."
+  - "Comparer la fixation fuseau-chromosomes en méiose 1 et en méiose 2."
+
+scenes:
+  - kind: hook
+    title: "Des chromosomes qui s'échangent des morceaux"
+    ref: "S1-2 p.47"
+    big: "± 50"
+    beats:
+      - say: "Pendant la méiose, tes chromosomes paternels et maternels s'échangent des morceaux, environ cinquante fois par cellule chez l'homme. Ces structures ont été découvertes en 1909, à l'UCL."
+      - say: "Au programme : les cinq stades de la prophase 1, le crossing-over, et la méiose 2."
+        show: "5 stades · *crossing-over* · chiasmas · méiose 2"
+
+  - kind: figure
+    title: "Les 5 stades de la prophase 1"
+    ref: "S1-2 p.45"
+    fig: "S1-2:45"
+    trap: "Crossing-over au PACHYTÈNE ; pause au DIPLOTÈNE chez la femme."
+    beats:
+      - say: "Après la réplication de l'ADN, la prophase 1 voit apparaître et s'apparier les chromosomes homologues, qui échangent des segments d'ADN au niveau des chiasmas. Elle compte cinq étapes."
+        mark: ["5 étapes", "appariement"]
+      - say: "Un, le *leptotène* : la chromatine se condense, les chromosomes deviennent visibles."
+        mark: "Leptotène"
+        show: "*Leptotène* : condensation, chromosomes visibles"
+      - say: "Deux, le *zygotène* : les homologues s'apparient, grâce aux protéines du complexe synaptonémal."
+        mark: "Zygotène"
+        show: "*Zygotène* : appariement des homologues (*complexe synaptonémal*)"
+      - say: "Trois, le *pachytène* : le crossing-over, ou enjambement."
+        mark: "Pachytène"
+        show: "*Pachytène* : *crossing-over* (enjambement)"
+      - say: "Quatre, le *diplotène* : le complexe synaptonémal disparaît, les chromatides restent attachées aux sites de crossing-over, les chiasmas. C'est à ce stade qu'a lieu la pause chez la femme."
+        mark: ["Diplotène", "pause"]
+        show: "*Diplotène* : complexe synaptonémal disparaît · *chiasmas* · *pause chez la femme*"
+      - say: "Cinq, la *diacinèse* : dernière condensation, disparition du nucléole, dispersion de l'enveloppe nucléaire, formation du fuseau."
+        mark: "Diacinèse"
+        show: "*Diacinèse* : condensation finale · nucléole et enveloppe disparaissent · fuseau"
+
+  - kind: mnemo
+    title: "Les 5 stades dans l'ordre"
+    ref: "S1-2 p.45"
+    phrase: "*Lé*on *Z*oo *Pa*sse *Di*manche *Di*ner"
+    trap: "Léptotène · Zygotène · Pachytène · Diplotène · Diacinèse (les deux « Di » : diplotène avant diacinèse)."
+    beats:
+      - say: "“Léon Zoo Passe Dimanche Dîner” : leptotène, zygotène, pachytène, diplotène, diacinèse. Et pour les deux D : diplo, comme double, les homologues encore accrochés par les chiasmas ; puis dia, la fin."
+        show: "*Lepto* · *Zygo* · *Pachy* · *Diplo* · *Diacinèse*"
+      - say: "Et le sens : zygo, comme zygote, on s'unit : appariement. Pachy, épais : les chromosomes appariés se croisent, crossing-over."
+        show: "Zygo = *s'unir* (appariement) · pachy = *croisement*"
+
+  - kind: figure
+    title: "Le complexe synaptonémal"
+    ref: "S1-2 p.46"
+    fig: "S1-2:46b"
+    trap: "Reconnaissance grâce à 99,9 % de similitude ; X et Y appariés par les régions PSEUDOAUTOSOMALES."
+    beats:
+      - say: "L'appariement des homologues est initié par le *complexe synaptonémal*, ou synaptonémique : un réseau complexe de protéines qui collent les chromatides homologues l'une à l'autre."
+        mark: "complexe synaptonémal"
+        show: "*Complexe synaptonémal* : protéines qui *collent* les homologues"
+      - say: "C'est probablement la grande similitude de séquence des homologues, 99,9 %, qui leur permet de se reconnaître."
+        mark: "99,9%"
+        show: "# Reconnaissance : similitude de *99,9 %*"
+      - say: "Dans une cellule germinale mâle, le Y s'apparie avec le X, car ils ont des régions de séquence semblable : les régions *pseudoautosomales*."
+        mark: "pseudoautosomales"
+        show: "Mâle : X et Y appariés par les régions *pseudoautosomales*"
+
+  - kind: figure
+    title: "Crossing-over et chiasmas"
+    ref: "S1-2 p.47"
+    fig: "S1-2:47h"
+    trap: "± 50 crossing-over par cellule chez l'homme ; découverts en 1909 par F. A. Janssens (UCL)."
+    beats:
+      - say: "Les crossing-over se forment par coupure et recollage de l'ADN, qui réunit des chromatides homologues. Chez l'homme, on en compte environ cinquante par cellule. Cette *recombinaison* permet l'échange de matériel génétique entre homologues."
+        mark: ["coupure", "50"]
+        show: "Coupure/recollage · ± *50* par cellule · *recombinaison* entre homologues"
+      - say: "Après la disparition du complexe synaptonémal, des chiasmas subsistent aux sites de crossing-over : les homologues restent attachés et forment des *tétrades*. Ici, au microscope électronique, trois chiasmas."
+        mark: ["tétrades", "3 chiasmas"]
+        show: "Chiasmas → homologues attachés = *tétrades*"
+      - say: "Ces structures ont été découvertes en 1909 par Frans Alfons Janssens, professeur à l'UCL."
+        mark: "1909"
+        show: "Découverts en *1909* par *F. A. Janssens* (UCL)"
+
+  - kind: flow
+    title: "Fin de la méiose 1, puis méiose 2"
+    ref: "S1-2 p.47-48"
+    trap: "Méiose 2 : nouveau fuseau PERPENDICULAIRE au premier ; 4 cellules n à génomes DIFFÉRENTS."
+    beats:
+      - say: "La suite de la méiose."
+      - say: "Les tétrades de chromosomes s'alignent."
+        show: "Alignement des *tétrades*"
+      - say: "Les chromosomes homologues se séparent, avec leurs segments échangés. Une membrane nucléaire se reforme, puis la cytocinèse."
+        show: "Séparation des *homologues* (segments échangés) · membrane nucléaire · cytocinèse"
+      - say: "Méiose 2 : un nouveau fuseau, perpendiculaire au premier ; les chromosomes s'alignent, puis les chromatides sœurs se séparent."
+        show: "Nouveau fuseau *perpendiculaire* · séparation des *chromatides sœurs*"
+      - say: "Enfin, la membrane nucléaire se reforme, cytocinèse : quatre cellules n, aux génomes différents."
+        show: "→ *4 cellules n*, génomes *différents*"
+
+  - kind: compare
+    title: "Kinétochores : méiose 1 vs méiose 2"
+    ref: "S1-2 p.49"
+    header: ["", "Méiose 1", "Méiose 2"]
+    beats:
+      - say: "La fixation des microtubules aux kinétochores diffère."
+      - say: "En méiose 1, les kinétochores des chromatides sœurs fonctionnent comme une seule unité. En méiose 2, ils restent séparés."
+        show: "Kinétochores des sœurs | *une seule unité* | *séparés*"
+      - say: "D'où : en méiose 1, les microtubules ne se fixent que d'un côté de chaque centromère ; en méiose 2, ils se fixent sur les deux faces."
+        show: "Fixation | *un seul côté* du centromère | les *deux faces*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.45-47"
+    question: "À quel stade de la prophase 1 a lieu le crossing-over ?"
+    options:
+      - "Leptotène"
+      - "Zygotène"
+      - "Pachytène"
+      - "Diplotène"
+    answer: [2]
+    beats:
+      - say: "Quiz : à quel stade a lieu le crossing-over ?"
+        countdown: 4
+      - say: "Au pachytène. Au diplotène, on voit les chiasmas qui restent, et c'est le stade de la pause chez la femme."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 27 : gamètes et aneuploïdies"
+    ref: "S1-2 p.49"
+    big: "1/800"
+    beats:
+      - say: "Prochain épisode : la spermatogenèse, l'ovogenèse, la diversité génétique, et ce qui arrive quand la méiose se passe mal."
+        show: "Gamètes · diversité · *aneuploïdies*"
+
+recap:
+  - "Prophase 1 (après la réplication) : apparition et appariement des homologues, échanges de segments d'ADN au niveau des chiasmas ; 5 étapes : leptotène (condensation, chromosomes visibles) ; zygotène (appariement grâce aux protéines du complexe synaptonémal) ; pachytène (crossing-over/enjambement) ; diplotène (disparition du complexe synaptonémal, chromatides attachées aux sites de crossing-over = chiasmas ; pause à ce stade chez la femme) ; diacinèse (dernière condensation, disparition du nucléole, dispersion de l'enveloppe nucléaire, formation du fuseau)."
+  - "Complexe synaptonémal (ou synaptonémique) : initie l'appariement ; réseau complexe de protéines qui collent les chromatides homologues ; reconnaissance probablement grâce à la grande similitude de séquence (99,9 %) ; chez le mâle, Y s'apparie avec X (régions pseudoautosomales)."
+  - "Crossing-over : coupure/recollage de l'ADN réunissant des chromatides homologues (± 50 par cellule chez l'homme) ; recombinaison = échange de matériel génétique ; après disparition du complexe synaptonémal, chiasmas aux sites de crossing-over ; homologues attachés en tétrades ; découverts en 1909 par Frans Alfons Janssens (UCL)."
+  - "Fin de méiose 1 : alignement des tétrades, séparation des homologues (segments échangés), reformation d'une membrane nucléaire, cytocinèse. Méiose 2 : nouveau fuseau perpendiculaire au premier, alignement, séparation des chromatides sœurs, membrane nucléaire et cytocinèse → 4 cellules n (génomes différents)."
+  - "Fixation fuseau-chromosomes : méiose 1, kinétochores des chromatides sœurs = une seule unité, microtubules fixés d'un seul côté de chaque centromère ; méiose 2, kinétochores séparés, microtubules fixés sur les deux faces."
+
+traps:
+  - ["Crossing-over au zygotène", "Zygotène = appariement ; pachytène = crossing-over", "p.45"]
+  - ["Pause chez la femme en pachytène", "Pause au diplotène", "p.45"]
+  - ["Complexe synaptonémal persistant jusqu'à la diacinèse", "Disparaît au diplotène ; les chiasmas subsistent", "p.45, p.47h"]
+  - ["X et Y non appariés", "Appariés par les régions pseudoautosomales", "p.46b"]
+  - ["± 5 crossing-over par cellule", "± 50", "p.47h"]
+  - ["Fuseau de méiose 2 parallèle au premier", "Perpendiculaire", "p.48"]
+  - ["Méiose 1 : microtubules sur les deux faces", "Méiose 1 : un seul côté ; méiose 2 : deux faces", "p.49h"]
+
+mnemonics:
+  - ["5 stades de la prophase 1", "« Léon Zoo Passe Dimanche Dîner »", "Leptotène · Zygotène · Pachytène · Diplotène · Diacinèse"]
+  - ["Sens des stades", "Zygo = s'unir (appariement) ; pachy = croisement ; diplo = double encore accroché (chiasmas)", "Appariement · crossing-over · chiasmas"]
+
+quiz:
+  - q: "Prophase 1 :"
+    props:
+      - ["Au leptotène, la chromatine se condense.", true, "p.45."]
+      - ["Au zygotène, les homologues s'apparient grâce au complexe synaptonémal.", true, "p.45."]
+      - ["Le crossing-over a lieu au diplotène.", false, "Au pachytène."]
+      - ["Chez la femme, la méiose fait une pause au diplotène.", true, "p.45."]
+      - ["À la diacinèse, le nucléole disparaît et le fuseau se forme.", true, "p.45."]
+  - q: "Complexe synaptonémal et crossing-over :"
+    props:
+      - ["Le complexe synaptonémal colle les chromatides homologues.", true, "p.46b."]
+      - ["X et Y s'apparient grâce aux régions pseudoautosomales.", true, "p.46b."]
+      - ["Chez l'homme, on compte environ 50 crossing-over par cellule.", true, "p.47h."]
+      - ["Les chiasmas ont été découverts par F. A. Janssens en 1909.", true, "UCL."]
+      - ["Les tétrades sont formées de chromatides sœurs non appariées.", false, "Homologues restés attachés par les chiasmas."]
+  - q: "Méiose 1 et 2 :"
+    props:
+      - ["En méiose 2, le nouveau fuseau est perpendiculaire au premier.", true, "p.48."]
+      - ["La méiose aboutit à 4 cellules n aux génomes identiques.", false, "Génomes différents."]
+      - ["En méiose 1, les kinétochores des chromatides sœurs fonctionnent comme une seule unité.", true, "p.49h."]
+      - ["En méiose 2, les microtubules se fixent sur les deux faces de chaque centromère.", true, "p.49h."]
+      - ["À la fin de la méiose 1, les homologues se séparent avec des segments échangés.", true, "p.47b."]
+
+coverage:
+  - ["S1-2", "45", "Prophase 1 : réplication, appariement, échanges, 5 stades", 2]
+  - ["S1-2", "46h", "Schéma de la prophase 1", 2]
+  - ["S1-2", "46b", "Complexe synaptonémal, 99,9 %, régions pseudoautosomales", 4]
+  - ["S1-2", "47h", "Crossing-over, chiasmas, tétrades, Janssens 1909", 5]
+  - ["S1-2", "47b", "Fin de la méiose 1 (schéma)", 6]
+  - ["S1-2", "48", "Méiose 2 → 4 cellules n", 6]
+  - ["S1-2", "49h", "Fixation fuseau-chromosomes en méiose 1 vs méiose 2", 7]

@@ -1,0 +1,182 @@
+title: "Le cycle cellulaire et les 5 phases de la mitose"
+subtitle: "G1 · S · G2 · mitose · cytocinèse · « promettante »"
+source: "S1-2 p.34 à 38"
+chapter: "Partie I — Chapitre VI. La division cellulaire — Le cycle cellulaire · La mitose"
+objectives:
+  - "Décrire les phases du cycle cellulaire et leurs durées."
+  - "Lire la variation de la quantité d'ADN au cours du cycle."
+  - "Décrire G2 et les 5 phases de la mitose, puis la cytocinèse."
+
+scenes:
+  - kind: hook
+    title: "Vingt minutes ou vingt-quatre heures"
+    ref: "S1-2 p.34"
+    big: "« promettante »"
+    beats:
+      - say: "Une cellule embryonnaire peut boucler son cycle en environ vingt minutes, une cellule adulte en environ vingt-quatre heures. Et pour retenir les cinq phases de la mitose, le prof donne un mot : promettante."
+      - say: "Au programme : le cycle cellulaire, puis la mitose, phase par phase."
+        show: "G1 · S · G2 · *mitose* (5 phases) · cytocinèse"
+
+  - kind: figure
+    title: "Le cycle cellulaire"
+    ref: "S1-2 p.34"
+    fig: "S1-2:34h"
+    trap: "S = réplication ; G2 = contrôle de l'intégrité de l'ADN répliqué ; durées : embryon ± 20 min, adulte ± 24 h."
+    beats:
+      - say: "La cellule qui se divise passe par plusieurs phases, celles du cycle cellulaire. Sa durée varie : environ vingt minutes pour des cellules embryonnaires, environ vingt-quatre heures pour des cellules adultes."
+        mark: ["20 minutes", "24 heures"]
+        show: "# Durée : embryon ± *20 min* · adulte ± *24 h*"
+      - say: "G1 : croissance cellulaire, synthèse protéique, production d'organites. S : réplication de l'ADN."
+        mark: ["G1", "réplication de l’ADN"]
+        show: "*G1* : croissance (protéines, organites) · *S* : *réplication* de l'ADN"
+      - say: "G2 : croissance, contrôle de l'intégrité de l'ADN répliqué, préparation à la mitose. La mitose : ségrégation des chromatides sœurs. La cytocinèse : scission de la cellule."
+        mark: ["G2", "cytocinèse"]
+        show: "*G2* : croissance, *contrôle* de l'ADN, préparation · *mitose* : ségrégation · *cytocinèse* : scission"
+
+  - kind: figure
+    title: "La quantité d'ADN au cours du cycle"
+    ref: "S1-2 p.34"
+    fig: "S1-2:34b"
+    trap: "La quantité d'ADN double pendant S (1 → 2) et revient à 1 après la cytocinèse."
+    beats:
+      - say: "Le graphique montre la quantité relative d'ADN par cellule. En G1, elle vaut un. Pendant S, elle monte progressivement jusqu'à deux. Elle reste à deux en G2 et pendant la mitose, puis retombe à un à la cytocinèse."
+        focus: "all"
+        mark: ["G1", "mitose"]
+        show: "G1 : *1* → S : monte à *2* → G2, mitose : *2* → cytocinèse : *1*"
+
+  - kind: figure
+    title: "Les 5 phases de la mitose"
+    ref: "S1-2 p.35"
+    fig: "S1-2:35h"
+    trap: "Ordre : prophase, prométaphase, métaphase, anaphase, télophase — puis cytocinèse."
+    beats:
+      - say: "La mitose est classiquement séparée en cinq phases : prophase, prométaphase, métaphase, anaphase, télophase. Puis vient la cytocinèse."
+        mark: ["prophase", "télophase"]
+        show: "1 *pro*phase · 2 *promé*taphase · 3 *méta*phase · 4 *ana*phase · 5 *télo*phase"
+      - say: "Pour retenir, le cours propose : promettante. PRO, PROMÉ, MÉTA, ANA, TÉLO, qui s'enchaînent dans le mot."
+        mark: "promettante"
+        show: "Mnémo du cours : *« promettante »*"
+
+  - kind: figure
+    title: "G2 : la préparation"
+    ref: "S1-2 p.35"
+    fig: "S1-2:35b"
+    trap: "En G2 : ADN déjà répliqué mais encore diffus ; centrosome répliqué → 2 centrosomes ; asters."
+    beats:
+      - say: "En G2, l'ADN est déjà répliqué, mais encore sous forme de chromatine diffuse."
+        mark: "chromatine diffuse"
+        show: "ADN *répliqué* mais chromatine encore *diffuse*"
+      - say: "Les deux centrioles du centrosome sont répliqués : il y a maintenant deux centrosomes. Des microtubules s'allongent à partir de chacun et forment deux structures étoilées, les *asters*."
+        mark: ["deux centrosomes", "asters"]
+        show: "→ *2 centrosomes* · microtubules en étoile = *asters*"
+
+  - kind: flow
+    title: "La mitose, phase par phase"
+    ref: "S1-2 p.36-38"
+    trap: "Enveloppe nucléaire : commence à disparaître (prophase) → complètement disparue (prométaphase) → se reforme (télophase)."
+    beats:
+      - say: "Suivons la mitose."
+      - say: "Prophase : les chromosomes se condensent et deviennent visibles, le ou les nucléoles disparaissent. Les centrosomes s'éloignent, les microtubules s'allongent : début du fuseau mitotique. Le cytosquelette se désorganise, la cellule s'arrondit, le RE et le Golgi se dispersent, et l'enveloppe nucléaire *commence* à disparaître."
+        show: "*Prophase* : condensation · nucléole disparaît · fuseau débute · cellule ronde · enveloppe *commence* à disparaître"
+      - say: "Prométaphase : l'enveloppe nucléaire a *complètement* disparu. Les centrosomes sont aux deux pôles. Les microtubules de kinétochore s'accrochent aux chromosomes, chaque chromatide sœur reliée à un pôle ; les microtubules polaires, non attachés, interagissent avec ceux du pôle opposé et maintiennent le fuseau."
+        show: "*Prométaphase* : enveloppe *disparue* · pôles · microtubules de *kinétochore* et *polaires*"
+      - say: "Métaphase : tous les chromosomes sont attachés et alignés à l'équateur, sur la plaque métaphasique. Les chromatides sœurs font face à des pôles différents."
+        show: "*Métaphase* : alignement sur la *plaque métaphasique*"
+      - say: "Anaphase : les cohésines sont rapidement dégradées. Les chromatides libérées, appelées maintenant chromosomes, sont tirées vers les pôles. Poussés par les microtubules polaires, les pôles s'écartent et la cellule s'allonge."
+        show: "*Anaphase* : cohésines *dégradées* → chromatides (= chromosomes) vers les pôles · cellule s'*allonge*"
+      - say: "Télophase : les chromosomes se décondensent, des enveloppes nucléaires se reforment, les nucléoles réapparaissent, le Golgi et le RE se reforment, et le fuseau se désorganise par dépolymérisation des microtubules."
+        show: "*Télophase* : décondensation · enveloppes et nucléoles *reformés* · fuseau dépolymérisé"
+      - say: "Cytocinèse : une ceinture de filaments d'actine se forme au centre et se resserre en un sillon de clivage, qui coupe la cellule en deux."
+        show: "*Cytocinèse* : ceinture d'*actine* → *sillon de clivage*"
+
+  - kind: trap
+    title: "Les pièges de la mitose"
+    ref: "S1-2 p.35-38"
+    trap: "Asters dès G2 ; enveloppe « commence » vs « complètement » ; cytocinèse = actine."
+    beats:
+      - say: "Trois pièges."
+      - say: "“En prophase, l'enveloppe nucléaire a complètement disparu” : faux, elle commence à disparaître. C'est en prométaphase qu'elle a complètement disparu."
+        show: "✓ Prophase : *commence* · prométaphase : *complètement* disparue"
+      - say: "“Les asters apparaissent en métaphase” : faux, dès G2."
+        show: "✓ *Asters* dès *G2*"
+      - say: "“La cytocinèse est réalisée par des microtubules” : faux, par une ceinture d'actine."
+        show: "✗ microtubules  →  ✓ cytocinèse = ceinture d'*actine*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.36-38"
+    question: "À quelle phase les cohésines sont-elles dégradées ?"
+    options:
+      - "Prophase"
+      - "Métaphase"
+      - "Anaphase"
+      - "Télophase"
+    answer: [2]
+    beats:
+      - say: "Quiz : à quelle phase les cohésines sont-elles dégradées ?"
+        countdown: 4
+      - say: "En anaphase : les chromatides libérées sont tirées vers les pôles."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 24 : contrôle du cycle et cancer"
+    ref: "S1-2 p.39"
+    big: "3 contrôles"
+    beats:
+      - say: "Prochain épisode : les trois points de contrôle du cycle, ce qui se passe quand ils lâchent, et un médicament issu de la pervenche de Madagascar."
+        show: "G1/S · G2/M · fusorial · *vincristine*"
+
+recap:
+  - "Cycle cellulaire : durée variable (cellules embryonnaires ± 20 minutes ; cellules adultes ± 24 heures). G1 : croissance (synthèse protéique, production d'organites) ; S : réplication de l'ADN ; G2 : croissance, contrôle de l'intégrité de l'ADN répliqué, préparation à la mitose ; mitose : ségrégation des chromatides sœurs ; cytocinèse : scission de la cellule."
+  - "Quantité relative d'ADN : 1 en G1, augmente pendant S jusqu'à 2, 2 en G2 et en mitose, retour à 1 à la cytocinèse."
+  - "Mitose en 5 phases : prophase, prométaphase, métaphase, anaphase, télophase (pour retenir : « promettante »)."
+  - "G2 : ADN répliqué mais chromatine diffuse ; les deux centrioles du centrosome sont répliqués (deux centrosomes) ; microtubules qui s'allongent depuis les centrosomes → asters."
+  - "Prophase : condensation, chromosomes visibles, nucléole(s) disparaissent ; centrosomes s'éloignent, fuseau mitotique initié ; cytosquelette désorganisé, cellule ronde ; RE et Golgi se dispersent ; l'enveloppe nucléaire commence à disparaître. Prométaphase : enveloppe complètement disparue ; centrosomes aux pôles opposés ; microtubules de kinétochore (chaque chromatide sœur reliée à un pôle) ; microtubules polaires (interagissent avec le pôle opposé, maintiennent le fuseau)."
+  - "Métaphase : tous les chromosomes attachés, alignés à l'équateur (plaque métaphasique) ; chromatides sœurs face à des pôles différents. Anaphase : cohésines rapidement dégradées ; chromatides libérées (désormais chromosomes) tirées vers les pôles ; les microtubules polaires écartent les pôles, la cellule s'allonge. Télophase : décondensation ; enveloppes nucléaires reformées ; nucléoles réapparaissent ; Golgi et RE reformés ; fuseau désorganisé (dépolymérisation). Cytocinèse : ceinture de filaments d'actine qui se resserre en sillon de clivage et coupe la cellule."
+
+traps:
+  - ["Réplication en G2", "Réplication en S ; G2 = contrôle de l'ADN répliqué", "p.34h"]
+  - ["Quantité d'ADN à 2 en G1", "1 en G1, 2 après S", "p.34b"]
+  - ["Asters en prophase seulement", "Dès G2", "p.35b"]
+  - ["Enveloppe disparue en prophase", "Commence à disparaître (prophase) ; complètement disparue (prométaphase)", "p.36"]
+  - ["Cohésines dégradées en métaphase", "En anaphase", "p.37b"]
+  - ["Cytocinèse = microtubules", "Ceinture de filaments d'actine, sillon de clivage", "p.38b"]
+
+mnemonics:
+  - ["Les 5 phases de la mitose", "« promettante » (mnémo du cours)", "PROphase · PROMÉtaphase · MÉTAphase · ANAphase · TÉLOphase"]
+  - ["Repères de la mitose", "Pro = Préparer · Promé = Prendre (accrocher) · Méta = Milieu · Ana = À part · Télo = Terminer", "Condensation · accrochage · alignement · séparation · reformation"]
+
+quiz:
+  - q: "Cycle cellulaire :"
+    props:
+      - ["La phase S correspond à la réplication de l'ADN.", true, "p.34h."]
+      - ["En G2, l'intégrité de l'ADN répliqué est contrôlée.", true, "p.34h."]
+      - ["La durée du cycle d'une cellule adulte est d'environ 24 heures.", true, "p.34h."]
+      - ["La quantité d'ADN par cellule vaut 2 en G1.", false, "Elle vaut 1 en G1 et 2 après S."]
+      - ["La cytocinèse correspond à la scission de la cellule.", true, "p.34h."]
+  - q: "Phases de la mitose :"
+    props:
+      - ["La mitose comprend 5 phases.", true, "p.35h."]
+      - ["Les asters se forment à partir des centrosomes en G2.", true, "p.35b."]
+      - ["En prométaphase, l'enveloppe nucléaire a complètement disparu.", true, "p.36b."]
+      - ["Les microtubules polaires sont attachés aux kinétochores.", false, "Ils ne sont pas attachés aux chromosomes."]
+      - ["En métaphase, les chromosomes s'alignent sur la plaque métaphasique.", true, "p.37h."]
+  - q: "Fin de la mitose :"
+    props:
+      - ["En anaphase, les cohésines sont dégradées.", true, "p.37b."]
+      - ["En anaphase, la cellule s'allonge.", true, "p.37b."]
+      - ["En télophase, les nucléoles réapparaissent.", true, "p.38h."]
+      - ["La cytocinèse est réalisée par une ceinture de microtubules.", false, "Ceinture de filaments d'actine."]
+      - ["En télophase, le fuseau se désorganise par dépolymérisation des microtubules.", true, "p.38h."]
+
+coverage:
+  - ["S1-2", "34h", "Le cycle cellulaire : phases et durées", 2]
+  - ["S1-2", "34b", "Variation de la quantité d'ADN au cours du cycle", 3]
+  - ["S1-2", "35h", "Mitose en 5 phases, « promettante »", 4]
+  - ["S1-2", "35b", "G2 : centrosomes, asters", 5]
+  - ["S1-2", "36h", "Prophase", 6]
+  - ["S1-2", "36b", "Prométaphase", 6]
+  - ["S1-2", "37h", "Métaphase", 6]
+  - ["S1-2", "37b", "Anaphase", 6]
+  - ["S1-2", "38h", "Télophase", 6]
+  - ["S1-2", "38b", "Cytocinèse", 6]

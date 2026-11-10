@@ -1,0 +1,149 @@
+title: "Transcription et maturation de l'ARN"
+subtitle: "ARN polymérase · brin – et brin + · épissage · coiffe · poly-A · cadre de lecture"
+source: "S1-3 p.5b à 6"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 3. Synthèse des ARN messagers"
+objectives:
+  - "Décrire la transcription (ARN polymérase, brin matrice, sens 5' → 3')."
+  - "Distinguer brin – et brin +."
+  - "Décrire les 3 étapes de la maturation et leurs rôles."
+  - "Définir région codante, régions non traduites et cadre de lecture."
+
+scenes:
+  - kind: hook
+    title: "On jette des morceaux de son propre message"
+    ref: "S1-3 p.6"
+    big: "introns"
+    beats:
+      - say: "Avant de quitter le noyau, l'ARN prémessager se fait découper : certains morceaux, les introns, sont jetés. Et pourtant, c'est indispensable."
+      - say: "Au programme : la transcription, puis la maturation de l'ARN."
+        show: "Transcription · *épissage* · coiffe · poly-A"
+
+  - kind: figure
+    title: "La transcription"
+    ref: "S1-3 p.5"
+    fig: "S1-3:5b"
+    trap: "Brin matrice = brin – ; l'ARN a la même séquence que le brin + (U au lieu de T) ; élongation 5' → 3'."
+    beats:
+      - say: "La transcription commence par le recrutement d'une *ARN polymérase* sur l'ADN, au début du gène."
+        mark: "ARN polymérase"
+        show: "Recrutement de l'*ARN polymérase* au début du gène"
+      - say: "Les deux brins se séparent, et des nucléotides d'ARN s'assemblent au fur et à mesure que leur base s'apparie avec le brin d'ADN qui sert de matrice, le *brin moins*. L'élongation de l'ARN se fait dans le sens 5 prime vers 3 prime."
+        mark: ["brin –", "5’ –> 3’"]
+        show: "Matrice = *brin –* · élongation *5' → 3'*"
+      - say: "L'ARN est donc complémentaire du brin moins, et identique, sauf U à la place de T, à l'autre brin, le *brin plus*."
+        mark: "brin +"
+        show: "ARN = complémentaire du brin – = *identique au brin +* (U au lieu de T)"
+
+  - kind: figure
+    title: "La maturation de l'ARN"
+    ref: "S1-3 p.6"
+    fig: "S1-3:6h"
+    trap: "Coiffe en 5' (GTP modifié) ; queue poly-A en 3' ; épissage élimine les INTRONS, recolle les EXONS."
+    beats:
+      - say: "Pour les gènes qui codent des protéines, l'ARN produit, l'ARN *prémessager*, subit plusieurs étapes de maturation avant de devenir l'ARN messager final."
+        mark: "prémessager"
+        show: "ARN *prémessager* → maturation → *ARNm*"
+      - say: "L'*épissage* : certains segments, les *introns*, sont éliminés, et les segments restants, les *exons*, sont recollés."
+        mark: ["épissage", "introns", "exons"]
+        show: "*Épissage* : *introns* éliminés · *exons* recollés"
+      - say: "La *coiffe* : un G T P modifié ajouté à l'extrémité 5 prime. La *queue poly-A* : une série d'adénines ajoutée à l'extrémité 3 prime."
+        mark: ["coiffe", "poly-A"]
+        show: "*Coiffe* = GTP modifié en *5'* · *queue poly-A* en *3'*"
+      - say: "Ces trois étapes se font quasi simultanément, dans le noyau. La coiffe et la queue poly-A augmentent la stabilité de l'ARN messager et facilitent son transport vers le cytoplasme, lieu de la traduction."
+        mark: ["simultanément", "stabilité"]
+        show: "Quasi *simultanées* (noyau) · coiffe + poly-A : *stabilité* + *transport* vers le cytoplasme"
+
+  - kind: figure
+    title: "Régions codantes et non codantes"
+    ref: "S1-3 p.6"
+    fig: "S1-3:6b"
+    trap: "Région codante = entre START et STOP ; l'ARNm garde des régions NON TRADUITES en 5' et 3'."
+    beats:
+      - say: "Seule une portion de l'ARN messager, entre le codon START et le codon STOP, sera traduite : c'est la *région codante*. L'ARN messager présente donc des *régions non traduites*, aux extrémités 5 prime et 3 prime."
+        mark: ["région codante", "non-traduites"]
+        show: "*Région codante* = START → STOP · régions *non traduites* en 5' et 3'"
+      - say: "Dans le prémessager, la région codante est souvent interrompue par les introns. L'épissage la réunit en restaurant le *cadre de lecture* : la succession correcte de codons, depuis l'AUG jusqu'au STOP."
+        mark: "cadre de lecture"
+        show: "Épissage → restaure le *cadre de lecture* (AUG → STOP)"
+
+  - kind: trap
+    title: "Brin plus, brin moins, 5 prime, 3 prime"
+    ref: "S1-3 p.5-6"
+    trap: "Ne pas inverser les brins ni les extrémités."
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'ARN a la même séquence que le brin matrice” : faux. Il est complémentaire du brin moins, la matrice, et identique au brin plus."
+        show: "✓ ARN = *identique au brin +*, complémentaire du brin – (matrice)"
+      - say: "“La coiffe est ajoutée en 3 prime” : faux, en 5 prime. La queue poly-A est en 3 prime."
+        show: "✓ Coiffe *5'* · poly-A *3'*"
+      - say: "“Tout l'ARN messager est traduit” : faux. Seule la région codante, entre START et STOP, l'est."
+        show: "✓ Seule la *région codante* est traduite"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.6"
+    question: "Que fait l'épissage ?"
+    options:
+      - "Il ajoute une coiffe en 5'."
+      - "Il élimine les introns et recolle les exons."
+      - "Il ajoute des adénines en 3'."
+      - "Il traduit l'ARN en protéine."
+    answer: [1]
+    beats:
+      - say: "Quiz : que fait l'épissage ?"
+        countdown: 4
+      - say: "Il élimine les introns et recolle les exons. La coiffe et la queue poly-A sont les deux autres étapes de la maturation."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 30 : la traduction"
+    ref: "S1-3 p.7"
+    big: "40S + 60S"
+    beats:
+      - say: "Prochain épisode : la traduction. Les ARN de transfert, les ribosomes, et comment la chaîne d'acides aminés grandit, codon après codon."
+        show: "ARNt · ribosomes *40S + 60S* · élongation"
+
+recap:
+  - "Transcription : recrutement d'une ARN polymérase sur l'ADN au début du gène ; séparation des deux brins ; assemblage des nucléotides d'ARN par appariement avec le brin matrice (brin –) ; élongation 5' → 3' ; l'ARN est complémentaire du brin – et identique (U à la place de T) au brin +."
+  - "Maturation (gènes codant des protéines) : ARN prémessager → ARNm ; épissage (introns éliminés, exons recollés) ; coiffe (GTP modifié en 5') ; queue poly-A (adénines en 3') ; quasi simultanées, dans le noyau ; coiffe et poly-A augmentent la stabilité de l'ARNm et facilitent son transport vers le cytoplasme."
+  - "Région codante : portion de l'ARNm entre le codon START et le codon STOP ; régions non traduites aux extrémités 5' et 3' ; dans le prémessager, la région codante est souvent interrompue par les introns ; l'épissage restaure le cadre de lecture (succession adéquate de codons de l'AUG au STOP)."
+
+traps:
+  - ["Matrice = brin +", "Matrice = brin – ; l'ARN est identique au brin +", "p.5b"]
+  - ["Élongation 3' → 5'", "5' → 3'", "p.5b"]
+  - ["Épissage élimine les exons", "Élimine les introns, recolle les exons", "p.6h"]
+  - ["Coiffe en 3'", "Coiffe en 5' ; queue poly-A en 3'", "p.6h"]
+  - ["Maturation dans le cytoplasme", "Dans le noyau", "p.6h"]
+  - ["Tout l'ARNm est traduit", "Seule la région codante (START → STOP)", "p.6b"]
+
+mnemonics:
+  - ["Introns / exons", "Introns = INTRus (éliminés) ; EXons = EXprimés (gardés)", "Introns éliminés · exons recollés"]
+  - ["Coiffe / poly-A", "La coiffe sur la tête (5', le début), la queue à la fin (3')", "Coiffe 5' · poly-A 3'"]
+
+quiz:
+  - q: "Transcription :"
+    props:
+      - ["Elle commence par le recrutement d'une ARN polymérase.", true, "p.5b."]
+      - ["Le brin matrice est le brin –.", true, "p.5b."]
+      - ["L'ARN est identique au brin +, sauf U à la place de T.", true, "p.5b."]
+      - ["L'élongation de l'ARN se fait de 3' vers 5'.", false, "De 5' vers 3'."]
+      - ["Les deux brins d'ADN se séparent pendant la transcription.", true, "p.5b."]
+  - q: "Maturation :"
+    props:
+      - ["Elle concerne l'ARN prémessager des gènes codant des protéines.", true, "p.6h."]
+      - ["La coiffe est un GTP modifié ajouté en 5'.", true, "p.6h."]
+      - ["La queue poly-A est ajoutée en 5'.", false, "En 3'."]
+      - ["Les trois étapes ont lieu quasi simultanément dans le noyau.", true, "p.6h."]
+      - ["La coiffe et la queue poly-A augmentent la stabilité de l'ARNm.", true, "p.6h."]
+  - q: "Régions de l'ARNm :"
+    props:
+      - ["La région codante est située entre le codon START et le codon STOP.", true, "p.6b."]
+      - ["L'ARNm présente des régions non traduites aux extrémités 5' et 3'.", true, "p.6b."]
+      - ["L'épissage restaure le cadre de lecture.", true, "p.6b."]
+      - ["La région codante n'est jamais interrompue par des introns.", false, "Elle l'est souvent dans le prémessager."]
+      - ["Le cadre de lecture va de l'AUG au codon STOP.", true, "p.6b."]
+
+coverage:
+  - ["S1-3", "5b", "La transcription : ARN polymérase, brin –, brin +, 5' → 3'", 2]
+  - ["S1-3", "6h", "La maturation : épissage, coiffe, queue poly-A", 3]
+  - ["S1-3", "6b", "Régions codantes et non codantes, cadre de lecture", 4]

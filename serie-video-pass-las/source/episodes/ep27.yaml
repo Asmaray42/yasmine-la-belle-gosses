@@ -1,0 +1,173 @@
+title: "Gamètes, diversité génétique et erreurs de méiose"
+subtitle: "Spermatogenèse · ovogenèse · diversité · non-disjonction · trisomie 21 · Klinefelter · Turner"
+source: "S1-2 p.49b à 51"
+chapter: "Partie I — Chapitre IX. Reproduction sexuée et méiose — 6. Diversité · 7. Défaut de méiose et aneuploïdie"
+objectives:
+  - "Décrire les étapes de la spermatogenèse et de l'ovogenèse vues en partie I."
+  - "Expliquer la diversité génétique produite par la méiose."
+  - "Définir la non-disjonction et l'aneuploïdie ; décrire la trisomie 21, le syndrome de Klinefelter et le syndrome de Turner."
+
+scenes:
+  - kind: hook
+    title: "Un ovule pour quatre spermatides"
+    ref: "S1-2 p.49-50"
+    big: "1 vs 4"
+    beats:
+      - say: "Une spermatogonie donne quatre spermatides. Un ovocyte primaire ne donne qu'un seul ovule. Pourquoi cette différence ?"
+      - say: "Au programme : la méiose chez l'homme et chez la femme, la diversité génétique, et les aneuploïdies."
+        show: "Spermatogenèse · ovogenèse · diversité · *aneuploïdies*"
+
+  - kind: flow
+    title: "Méiose et spermatogenèse"
+    ref: "S1-2 p.49"
+    trap: "Spermatocyte primaire = encore diploïde, ADN répliqué ; 2 spermatocytes II puis 4 spermatides par spermatogonie."
+    beats:
+      - say: "Dans les testicules, chez l'homme."
+      - say: "La spermatogonie, cellule germinale diploïde, peut se reproduire par mitoses, pour maintenir le stock, ou s'engager dans la méiose."
+        show: "*Spermatogonie* (2n) : mitoses (stock) ou méiose"
+      - say: "Le spermatocyte primaire est encore diploïde, mais son ADN est répliqué."
+        show: "*Spermatocyte primaire* : 2n, ADN *répliqué*"
+      - say: "Après la méiose 1 : deux spermatocytes secondaires, haploïdes, avec des chromosomes dupliqués."
+        show: "Méiose 1 → *2 spermatocytes secondaires* (n, chromosomes dupliqués)"
+      - say: "Après la méiose 2 : quatre spermatides haploïdes par spermatogonie."
+        show: "Méiose 2 → *4 spermatides* (n)"
+      - say: "Puis les spermatozoïdes : leur structure change, avec une compaction extrême du noyau et l'acquisition d'un flagelle. L'homme adulte en produit 100 à 200 millions par jour, pendant la plus grande partie de sa vie."
+        show: "*Spermatozoïdes* : noyau compacté, *flagelle* · *100 à 200 millions/jour*"
+
+  - kind: flow
+    title: "Méiose et ovogenèse"
+    ref: "S1-2 p.50"
+    trap: "Arrêt au DIPLOTÈNE pendant la vie fœtale ; ovulation d'un ovocyte II bloqué en MÉTAPHASE 2 ; fin de méiose 2 après la FÉCONDATION."
+    beats:
+      - say: "Dans les ovaires, puis après l'ovulation, chez la femme."
+      - say: "Pendant la vie fœtale, les cellules germinales s'engagent dans la méiose, mais s'arrêtent au stade diplotène de la prophase 1 : ce sont les ovocytes primaires, encore diploïdes, avec leurs chiasmas."
+        show: "Vie fœtale : arrêt au *diplotène* → *ovocytes primaires* (2n, chiasmas)"
+      - say: "Après la puberté, à chaque cycle menstruel, un ovocyte primaire poursuit la méiose jusqu'en métaphase 2. Il produit un ovocyte secondaire et un globule polaire, par une division inégale, tous deux haploïdes. L'ovocyte secondaire est libéré de l'ovaire : c'est l'ovulation."
+        show: "Chaque cycle : jusqu'en *métaphase 2* → *ovocyte II* + *globule polaire* (division *inégale*) → *ovulation*"
+      - say: "Juste après la fécondation, l'ovocyte secondaire termine la méiose 2 : il produit un ovule et un deuxième globule polaire. Parfois, le premier globule polaire subit lui aussi une deuxième division."
+        show: "Après la *fécondation* : fin de méiose 2 → *ovule* + *2e globule polaire*"
+
+  - kind: figure
+    title: "Méiose et diversité génétique"
+    ref: "S1-2 p.50"
+    fig: "S1-2:50b"
+    trap: "Chaque gamète est génétiquement UNIQUE."
+    beats:
+      - say: "La méiose génère une diversité infinie de combinaisons chromosomiques : chaque ovule de la mère et chaque spermatozoïde du père est génétiquement unique. C'est ce qui explique les différences entre enfants des mêmes parents."
+        mark: ["infinie", "unique"]
+        show: "Diversité *infinie* · chaque gamète *unique* → enfants différents"
+
+  - kind: figure
+    title: "Méiose anormale et aneuploïdie"
+    ref: "S1-2 p.51"
+    fig: "S1-2:51h"
+    trap: "Aneuploïdie = principale cause d'avortement spontané ; trisomie 21 : 1/800, augmente avec l'âge de la MÈRE."
+    beats:
+      - say: "La méiose peut mal se dérouler : par exemple, la non-disjonction d'un chromosome en méiose 1. Il en résulte des gamètes au nombre anormal de chromosomes : c'est l'*aneuploïdie*."
+        mark: ["non-disjonction", "aneuploïdie"]
+        show: "*Non-disjonction* (ex. méiose 1) → gamètes anormaux = *aneuploïdie*"
+      - say: "Chez l'homme, c'est la principale cause d'avortement spontané : l'embryon ne survit pas."
+        mark: "avortement spontané"
+        show: "Principale cause d'*avortement spontané*"
+      - say: "Certaines aneuploïdies sont viables : la *trisomie 21*, à l'origine du syndrome de Down, appelé mongolisme dans le cours. Fréquence : un enfant sur huit cents, en augmentation avec l'âge de la mère."
+        mark: ["trisomie 21", "800"]
+        show: "*Trisomie 21* (syndrome de Down) : *1/800*, ↑ avec l'*âge de la mère*"
+
+  - kind: compare
+    title: "Klinefelter vs Turner"
+    ref: "S1-2 p.51"
+    header: ["", "Klinefelter", "Turner"]
+    beats:
+      - say: "Deux autres aneuploïdies viables, sur les chromosomes sexuels."
+      - say: "Caryotype : X X Y pour Klinefelter ; X zéro pour Turner."
+        show: "Caryotype | *XXY* | *X0*"
+      - say: "Sexe : masculin pour Klinefelter ; féminin pour Turner. Et le plus souvent stérile dans les deux cas."
+        show: "Sexe · fertilité | *mâle*, le plus souvent stérile | *femelle*, le plus souvent stérile"
+      - say: "Signes illustrés pour Klinefelter : pilosité faciale absente, gynécomastie, testicules peu développés, jambes longues. Pour Turner : taille réduite, cou épais palmé, poitrine peu développée, ovaires rudimentaires, bras longs."
+        show: "Signes | pilosité absente, gynécomastie, petits testicules, jambes longues | petite taille, cou palmé, ovaires rudimentaires"
+
+  - kind: trap
+    title: "Les pièges des gamètes"
+    ref: "S1-2 p.49-51"
+    trap: "Ovocyte II libéré à l'ovulation ; méiose 2 finie après fécondation ; XXY = homme, X0 = femme."
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'ovule est libéré à l'ovulation” : faux. C'est l'ovocyte secondaire, bloqué en métaphase 2 ; l'ovule n'apparaît qu'après la fécondation."
+        show: "✓ Ovulation = *ovocyte II* (métaphase 2) · ovule après *fécondation*"
+      - say: "“Le syndrome de Turner touche des hommes X X Y” : faux. Turner, c'est X zéro, une femme. X X Y, c'est Klinefelter, un homme."
+        show: "✓ *Turner* = X0, femme · *Klinefelter* = XXY, homme"
+      - say: "“La fréquence de la trisomie 21 augmente avec l'âge du père” : le cours dit avec l'âge de la mère."
+        show: "✓ Trisomie 21 : ↑ avec l'âge de la *mère*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.49-51"
+    question: "Combien de spermatides produit une spermatogonie ?"
+    options:
+      - "1"
+      - "2"
+      - "4"
+      - "8"
+    answer: [2]
+    beats:
+      - say: "Quiz : combien de spermatides par spermatogonie ?"
+        countdown: 4
+      - say: "Quatre. Deux, ce sont les spermatocytes secondaires, après la méiose 1."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 28 : le gène et le code génétique"
+    ref: "S1-3 p.1"
+    big: "64"
+    beats:
+      - say: "On passe au chapitre huit, du gène à la protéine. Prochain épisode : pourquoi le code génétique utilise soixante-quatre codons."
+        show: "Gène · *code génétique* · START · STOP"
+
+recap:
+  - "Spermatogenèse (testicules) : spermatogonie (2n) se reproduit par mitoses (maintien du stock) ou s'engage dans la méiose ; spermatocyte primaire (encore diploïde, ADN répliqué) ; spermatocytes secondaires (après méiose 1, haploïdes avec chromosomes dupliqués ; 2 par spermatogonie) ; spermatides (après méiose 2, haploïdes ; 4 par spermatogonie) ; spermatozoïdes (compaction extrême du noyau, acquisition d'un flagelle). L'homme adulte produit 100 à 200 millions de spermatozoïdes par jour, pendant la plus grande partie de sa vie."
+  - "Ovogenèse : vie fœtale, les cellules germinales s'engagent dans la méiose mais s'arrêtent au diplotène de la prophase 1 (ovocytes primaires, diploïdes, chiasmas présents) ; après la puberté, à chaque cycle, un ovocyte primaire poursuit jusqu'en métaphase 2 → ovocyte secondaire + globule polaire (division inégale, tous deux haploïdes) ; ovulation de l'ovocyte secondaire ; juste après la fécondation, fin de la méiose 2 → ovule + deuxième globule polaire (parfois le 1er globule polaire subit une 2e division méiotique)."
+  - "Diversité génétique : combinaisons chromosomiques infinies ; chaque ovule et chaque spermatozoïde est génétiquement unique ⇒ différences entre enfants des mêmes parents."
+  - "Méiose anormale : ex. non-disjonction en méiose 1 → gamètes au nombre anormal de chromosomes (aneuploïdie) ; principale cause d'avortement spontané chez l'homme ; aneuploïdies viables : trisomie 21 (syndrome de Down, « mongolisme » dans le cours ; 1 enfant/800, augmente avec l'âge de la mère) ; XXY, syndrome de Klinefelter (mâle, le plus souvent stérile ; pilosité faciale absente, gynécomastie, testicules peu développés, jambes longues) ; X0, syndrome de Turner (femelle, le plus souvent stérile ; taille réduite, cou épais palmé, poitrine peu développée, ovaires rudimentaires, bras longs)."
+
+traps:
+  - ["Spermatocyte primaire haploïde", "Encore diploïde, ADN répliqué", "p.49b"]
+  - ["Une spermatogonie → 2 spermatides", "→ 2 spermatocytes II → 4 spermatides", "p.49b"]
+  - ["Ovule libéré à l'ovulation", "Ovocyte secondaire (métaphase 2) ; ovule après fécondation", "p.50h"]
+  - ["Arrêt fœtal en pachytène", "Arrêt au diplotène", "p.50h"]
+  - ["Division égale de l'ovocyte", "Division inégale (ovocyte + globule polaire)", "p.50h"]
+  - ["Turner = XXY", "Turner = X0 (femme) ; Klinefelter = XXY (homme)", "p.51b"]
+  - ["Trisomie 21 : 1/8000", "1/800, augmente avec l'âge de la mère", "p.51h"]
+
+mnemonics:
+  - ["Spermatogenèse", "« 1 → 1 → 2 → 4 » : spermatogonie, spermatocyte I, spermatocytes II, spermatides", "2n · 2n répliqué · n · n"]
+  - ["Klinefelter / Turner", "Klinefelter = un garçon avec un X en trop ; Turner = une fille avec un X tout seul", "XXY homme · X0 femme"]
+
+quiz:
+  - q: "Spermatogenèse :"
+    props:
+      - ["La spermatogonie peut se reproduire par mitoses.", true, "Maintien du stock."]
+      - ["Le spermatocyte primaire est haploïde.", false, "Encore diploïde, ADN répliqué."]
+      - ["Une spermatogonie donne 4 spermatides.", true, "p.49b."]
+      - ["Les spermatozoïdes acquièrent un flagelle.", true, "p.49b."]
+      - ["L'homme adulte produit 100 à 200 millions de spermatozoïdes par jour.", true, "p.49b."]
+  - q: "Ovogenèse :"
+    props:
+      - ["Les ovocytes primaires sont bloqués au diplotène pendant la vie fœtale.", true, "p.50h."]
+      - ["À chaque cycle, un ovocyte primaire poursuit la méiose jusqu'en métaphase 2.", true, "p.50h."]
+      - ["L'ovocyte secondaire et le globule polaire sont diploïdes.", false, "Tous deux haploïdes."]
+      - ["La méiose 2 s'achève juste après la fécondation.", true, "p.50h."]
+      - ["La division de l'ovocyte primaire est inégale.", true, "p.50h."]
+  - q: "Aneuploïdies :"
+    props:
+      - ["L'aneuploïdie est la principale cause d'avortement spontané.", true, "p.51h."]
+      - ["La trisomie 21 concerne environ 1 enfant sur 800.", true, "p.51h."]
+      - ["Le syndrome de Klinefelter correspond au caryotype XXY.", true, "Mâle, le plus souvent stérile."]
+      - ["Le syndrome de Turner correspond au caryotype XXY.", false, "X0, femelle."]
+      - ["La fréquence de la trisomie 21 augmente avec l'âge de la mère.", true, "p.51h."]
+
+coverage:
+  - ["S1-2", "49b", "Méiose et spermatogenèse", 2]
+  - ["S1-2", "50h", "Méiose et ovogenèse", 3]
+  - ["S1-2", "50b", "Méiose et diversité génétique", 4]
+  - ["S1-2", "51h", "Méiose anormale, aneuploïdie, trisomie 21", 5]
+  - ["S1-2", "51b", "Klinefelter (XXY) et Turner (X0)", 6]

@@ -1,0 +1,198 @@
+title: "Les chromosomes eucaryotes : condensation, cohésines, caryotype"
+subtitle: "46 chromosomes · nucléosomes · chromatides sœurs · centromère · homologues · kinétochores"
+source: "S1-2 p.30 à 33"
+chapter: "Partie I — Chapitre VI. La division cellulaire — Les chromosomes eucaryotes"
+objectives:
+  - "Expliquer le défi de la division eucaryote et ses deux astuces (condensation, cohésines)."
+  - "Décrire la condensation de la chromatine (histones, nucléosomes)."
+  - "Décrire la structure du chromosome condensé et le caryotype humain."
+  - "Expliquer la ségrégation des chromatides sœurs."
+
+scenes:
+  - kind: hook
+    title: "46 spaghettis à partager"
+    ref: "S1-2 p.30"
+    big: "46"
+    beats:
+      - say: "Imagine 46 spaghettis emmêlés dans une assiette. Il faut les copier, puis donner une copie exacte de chacun à deux assiettes. C'est le défi de la cellule eucaryote."
+      - say: "Deux astuces : la condensation, et les cohésines."
+        show: "Astuce 1 : *condensation* · astuce 2 : *cohésines*"
+
+  - kind: figure
+    title: "Le défi de la division eucaryote"
+    ref: "S1-2 p.30"
+    fig: "S1-2:30h"
+    trap: "Chez l'homme : 46 chromosomes, 23 de chaque parent."
+    beats:
+      - say: "Chez les eucaryotes, le matériel génétique est fait de plusieurs molécules d'ADN, les chromosomes, entremêlées dans le noyau comme des spaghettis dans une assiette : c'est la chromatine."
+        mark: ["plusieurs", "spaghettis"]
+        show: "Plusieurs molécules d'ADN emmêlées = *chromatine* (spaghettis)"
+      - say: "Comment identifier et séparer les chromosomes répliqués, pour donner une copie de chacun aux deux cellules-filles ? Chez l'homme : 46 chromosomes, 23 de chaque parent, à répliquer puis distribuer correctement."
+        mark: "46 chromosomes"
+        show: "# Homme : *46* chromosomes (*23* de chaque parent)"
+
+  - kind: figure
+    title: "Astuce 1 : la condensation"
+    ref: "S1-2 p.31"
+    fig: "S1-2:31h"
+    trap: "Nucléosome tous les ~200 bp ; histones = principales protéines associées à l'ADN."
+    beats:
+      - say: "En préparation à la division, les chromosomes se condensent, ce qui facilitera leur séparation. Dans le noyau, l'ADN est associé à des protéines, principalement des *histones*."
+        mark: "histones"
+        show: "ADN + protéines, surtout des *histones*"
+      - say: "Tous les deux cents paires de bases environ, l'ADN s'enroule autour d'un complexe d'histones : c'est une succession de *nucléosomes*."
+        mark: ["200 bp", "nucléosomes"]
+        show: "Tous les ~*200 bp* : ADN enroulé autour d'histones = *nucléosome*"
+      - say: "Les queues des histones interagissent avec d'autres histones, ce qui rapproche les nucléosomes en une structure plus compacte. Avant la division, ces structures se replient encore et s'attachent à une armature de protéines : c'est le chromosome compact."
+        mark: ["queues", "armature"]
+        show: "Queues d'histones → compaction · repliements + *armature* → chromosome compact"
+
+  - kind: figure
+    title: "Astuce 2 : les cohésines"
+    ref: "S1-2 p.31"
+    fig: "S1-2:31b"
+    trap: "Chromatides sœurs = les 2 molécules IDENTIQUES issues de la réplication, unies par les cohésines."
+    beats:
+      - say: "Après la réplication, les deux molécules d'ADN identiques restent attachées l'une à l'autre par un complexe de protéines, les *cohésines*. On les appelle alors les *chromatides sœurs*."
+        mark: ["cohésines", "chromatides soeurs"]
+        show: "2 molécules identiques unies par les *cohésines* = *chromatides sœurs*"
+
+  - kind: figure
+    title: "Le chromosome condensé"
+    ref: "S1-2 p.32"
+    fig: "S1-2:32h"
+    trap: "Centromère = attache des chromatides sœurs (cohésines) ; télomères = extrémités."
+    beats:
+      - say: "Au microscope, dans les cellules en division, les chromosomes condensés présentent des régions distinctes. Le *centromère* : là où les chromatides sœurs sont attachées grâce aux cohésines."
+        mark: "centromère"
+        show: "*Centromère* = attache des chromatides sœurs (cohésines)"
+      - say: "Les *télomères* : les extrémités de chacune des molécules d'ADN."
+        mark: "télomères"
+        show: "*Télomères* = extrémités des molécules d'ADN"
+
+  - kind: figure
+    title: "Le caryotype humain"
+    ref: "S1-2 p.32"
+    fig: "S1-2:32b"
+    trap: "n = 23 ; homologues à 99 % d'identité (ce chapitre) ; X et Y = chromosomes sexuels, les autres = autosomes."
+    beats:
+      - say: "Le *caryotype* : le classement des chromosomes, déjà répliqués, d'une cellule humaine en division."
+        focus: "all"
+        mark: "caryotype"
+      - say: "Les cellules humaines contiennent 23 chromosomes différents, n égale 23, présents en deux copies *homologues*, chacune reçue d'un parent."
+        mark: ["n=23", "homologues"]
+        show: "*n = 23* chromosomes différents · *2* copies *homologues* (une par parent)"
+      - say: "Les chromosomes homologues ont 99 % d'identité de séquence : ils contiennent la même information génétique, avec les quelques différences qui distinguent le père de la mère."
+        mark: "99%"
+        show: "# Homologues : *99 %* d'identité de séquence"
+      - say: "Exception chez le mâle : l'homologue du X est remplacé par le chromosome Y. X et Y sont les *chromosomes sexuels* ; tous les autres sont les *autosomes*."
+        mark: ["exception chez le mâle", "autosomes"]
+        show: "Mâle : X + *Y* · X, Y = chromosomes *sexuels* · les autres = *autosomes*"
+
+  - kind: figure
+    title: "La ségrégation des chromatides sœurs"
+    ref: "S1-2 p.33"
+    fig: "S1-2:33b"
+    trap: "En mitose, on sépare les CHROMATIDES SŒURS (pas les homologues) ; microtubules fixés aux KINÉTOCHORES."
+    beats:
+      - say: "Lors de la division, ce sont les *chromatides sœurs* qui sont séparées, par rupture des liens de cohésines, et réparties dans les deux cellules-filles."
+        mark: "chromatides soeurs"
+        show: "Séparation des *chromatides sœurs* (rupture des cohésines)"
+      - say: "Ce partage est réalisé par des *microtubules* qui s'accrochent de part et d'autre sur les deux chromatides, au niveau de structures centromériques appelées *kinétochores*."
+        mark: ["microtubules", "kinétochores"]
+        show: "*Microtubules* accrochés aux *kinétochores* (centromère)"
+      - say: "Chaque cellule-fille reçoit donc l'homologue paternel et l'homologue maternel de chaque chromosome."
+        mark: "paternel"
+        show: "Chaque cellule-fille : homologue *paternel* + *maternel*"
+
+  - kind: compare
+    title: "Chromatides sœurs vs chromosomes homologues"
+    ref: "S1-2 p.31-33"
+    header: ["", "Chromatides sœurs", "Chromosomes homologues"]
+    beats:
+      - say: "La distinction la plus importante du chapitre."
+      - say: "Origine : les chromatides sœurs viennent de la réplication ; les homologues viennent chacun d'un parent."
+        show: "Origine | *réplication* | un de *chaque parent*"
+      - say: "Lien : les chromatides sœurs sont attachées par les cohésines au centromère."
+        show: "Lien | *cohésines* (centromère) | —"
+      - say: "Identité : les chromatides sœurs sont identiques ; les homologues partagent 99 % de séquence."
+        show: "Identité | *identiques* | *99 %* (ce chapitre)"
+      - say: "En mitose, ce sont les chromatides sœurs qui sont séparées."
+        show: "Séparées en mitose ? | *oui* | non (chaque fille reçoit les deux)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.31-33"
+    question: "Que sépare-t-on lors de la division cellulaire décrite p.33 ?"
+    options:
+      - "Les chromosomes homologues"
+      - "Les chromatides sœurs"
+      - "Les nucléosomes"
+      - "Les télomères"
+    answer: [1]
+    beats:
+      - say: "Quiz : que sépare-t-on lors de cette division ?"
+        countdown: 4
+      - say: "Les chromatides sœurs, par rupture des cohésines. Chaque cellule-fille garde un homologue paternel et un maternel."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 23 : le cycle et la mitose"
+    ref: "S1-2 p.34"
+    big: "5 phases"
+    beats:
+      - say: "Prochain épisode : le cycle cellulaire, et les cinq phases de la mitose, avec le mot mnémotechnique du prof."
+        show: "G1 · S · G2 · *mitose* · cytocinèse"
+
+recap:
+  - "Défi : chez les eucaryotes, plusieurs molécules d'ADN (chromosomes) entremêlées dans le noyau (chromatine, comme des spaghettis) ; chez l'homme, 46 chromosomes (23 de chaque parent) à répliquer puis distribuer."
+  - "Première astuce, la condensation : ADN associé à des protéines, principalement des histones ; tous les ~200 bp, l'ADN s'enroule autour d'un complexe d'histones (succession de nucléosomes) ; les queues d'histones interagissent et rapprochent les nucléosomes ; repliements successifs et attache à une armature de protéines → chromosome compact."
+  - "Deuxième astuce : après la réplication, les molécules d'ADN identiques restent attachées par les cohésines → chromatides sœurs."
+  - "Chromosome condensé : centromère (chromatides sœurs attachées par les cohésines) ; télomères (extrémités des molécules d'ADN)."
+  - "Caryotype : classement des chromosomes répliqués d'une cellule en division ; 23 chromosomes différents (n = 23) en 2 copies homologues, chacune reçue d'un parent ; homologues : 99 % d'identité de séquence, même information génétique avec quelques différences ; exception chez le mâle : Y remplace l'homologue du X ; X et Y = chromosomes sexuels, les autres = autosomes."
+  - "Ségrégation : séparation des chromatides sœurs (rupture des cohésines) réparties dans les deux cellules-filles ; microtubules accrochés de part et d'autre aux kinétochores (structures centromériques) ; chaque cellule-fille reçoit les homologues paternel et maternel."
+
+traps:
+  - ["46 chromosomes différents", "23 différents (n = 23), en 2 copies homologues = 46", "p.30h, 32b"]
+  - ["Nucléosome tous les 2 000 bp", "Tous les ~200 bp", "p.31h"]
+  - ["Chromatides sœurs = homologues", "Chromatides sœurs = issues de la réplication (identiques) ; homologues = un de chaque parent", "p.31b, 32b"]
+  - ["Centromère = extrémités", "Centromère = attache des chromatides sœurs ; télomères = extrémités", "p.32h"]
+  - ["Mitose sépare les homologues", "Sépare les chromatides sœurs", "p.33b"]
+  - ["Microtubules fixés aux télomères", "Fixés aux kinétochores (centromère)", "p.33b"]
+
+mnemonics:
+  - ["Sœurs vs homologues", "Sœurs = jumelles photocopiées (même mère : la réplication) ; homologues = cousins (un de papa, un de maman)", "Chromatides sœurs identiques · homologues 99 %"]
+  - ["Centromère / télomère", "Centro = centre (attache) ; télo = fin (extrémités)", "Centromère · télomères"]
+
+quiz:
+  - q: "Condensation et cohésines :"
+    props:
+      - ["L'ADN est associé principalement à des histones.", true, "p.31h."]
+      - ["Un nucléosome se forme environ tous les 200 bp.", true, "p.31h."]
+      - ["Les cohésines relient les deux chromosomes homologues.", false, "Elles relient les chromatides sœurs."]
+      - ["Les chromatides sœurs sont issues de la réplication.", true, "p.31b."]
+      - ["La condensation facilite la séparation des chromosomes.", true, "p.30b."]
+  - q: "Structure et caryotype :"
+    props:
+      - ["Le centromère est la région où les chromatides sœurs sont attachées.", true, "p.32h."]
+      - ["Les télomères sont les extrémités des molécules d'ADN.", true, "p.32h."]
+      - ["Les cellules humaines contiennent 23 chromosomes différents.", true, "n = 23."]
+      - ["Chez le mâle, l'homologue du X est le chromosome Y.", true, "p.32b."]
+      - ["Les chromosomes X et Y sont des autosomes.", false, "Ce sont les chromosomes sexuels."]
+  - q: "Ségrégation :"
+    props:
+      - ["Les chromatides sœurs sont séparées par rupture des cohésines.", true, "p.33b."]
+      - ["Les microtubules s'accrochent aux kinétochores.", true, "p.33b."]
+      - ["Chaque cellule-fille reçoit soit l'homologue paternel, soit le maternel.", false, "Elle reçoit les deux."]
+      - ["Les kinétochores sont des structures centromériques.", true, "p.33b."]
+      - ["La ségrégation sépare les homologues.", false, "Elle sépare les chromatides sœurs."]
+
+coverage:
+  - ["S1-2", "30h", "Le défi de la division eucaryote (46 chromosomes)", 2]
+  - ["S1-2", "30b", "Première astuce : la condensation", 3]
+  - ["S1-2", "31h", "Condensation de la chromatine (histones, nucléosomes, 200 bp)", 3]
+  - ["S1-2", "31b", "Deuxième astuce : cohésines, chromatides sœurs", 4]
+  - ["S1-2", "32h", "Structure du chromosome : centromère, télomères", 5]
+  - ["S1-2", "32b", "Caryotype humain : n = 23, homologues 99 %, X/Y, autosomes", 6]
+  - ["S1-2", "33h", "Caryotype (diapo répétée)", 6]
+  - ["S1-2", "33b", "Ségrégation des chromatides sœurs, kinétochores", 7]

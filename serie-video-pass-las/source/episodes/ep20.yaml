@@ -1,0 +1,196 @@
+title: "Les cellules se parlent : signaux, récepteurs, transduction"
+subtitle: "Contact direct · paracrine · synaptique · endocrine · kinases · insuline"
+source: "S1-2 p.20b à 25h"
+chapter: "Partie I — Chapitre V. Communications cellulaires"
+objectives:
+  - "Définir ligand, récepteur et réponse cellulaire."
+  - "Distinguer les types de communication : contact direct, locale (paracrine, synaptique), à distance (endocrine)."
+  - "Comparer récepteurs intracellulaires et de surface."
+  - "Expliquer la transduction du signal, la phosphorylation (kinases, phosphatases) et la voie de l'insuline."
+
+scenes:
+  - kind: hook
+    title: "Un message qui s'amplifie"
+    ref: "S1-2 p.24"
+    big: "CASCADE"
+    beats:
+      - say: "Une seule molécule d'hormone se fixe sur une cellule, et des milliers de réactions suivent. Le secret : une cascade de phosphorylations qui amplifie le signal."
+      - say: "Au programme : les types de communication, les récepteurs, la transduction, et l'insuline."
+        show: "Communication · récepteurs · *transduction* · insuline"
+
+  - kind: figure
+    title: "La communication cellulaire"
+    ref: "S1-2 p.21"
+    fig: "S1-2:21h"
+    trap: "Ligand = molécule de signalisation ; récepteur = protéine qui reconnaît le ligand."
+    beats:
+      - say: "Chapitre cinq, les communications cellulaires, en quatre points : aperçu général, types de communications, récepteurs, transduction du signal. Les communications inter-cellulaires permettent aux cellules de s'influencer mutuellement."
+        mark: "s’influencer mutuellement"
+        show: "Les cellules s'*influencent mutuellement* (signalisation cellulaire)"
+      - say: "Il faut une molécule de signalisation, le *ligand*, et une protéine qui le reconnaît, le *récepteur*. Les ligands sont variés : peptides, protéines, nucléotides, stéroïdes, petites molécules."
+        mark: ["ligand", "récepteur", "peptides"]
+        show: "*Ligand* (peptides, protéines, nucléotides, stéroïdes…) + *récepteur* (protéine)"
+      - say: "Par une voie de transduction intracellulaire, la signalisation aboutit à une réponse : division, migration, transformation, ou mort cellulaire."
+        mark: "division"
+        show: "Réponse : division · migration · transformation · *mort cellulaire*"
+
+  - kind: compare
+    title: "Les types de communication"
+    ref: "S1-2 p.21-22"
+    header: ["Type", "Mécanisme"]
+    beats:
+      - say: "Trois grandes catégories."
+      - say: "Le contact direct : par des jonctions communicantes, où les molécules passent d'une cellule à l'autre, ou par l'association de protéines membranaires."
+        show: "*Contact direct* | jonctions communicantes · association de protéines membranaires"
+      - say: "La communication locale paracrine : les molécules sécrétées sont rapidement éliminées du milieu, détruites ou absorbées, et n'agissent donc que sur les cellules voisines."
+        show: "Locale *paracrine* | vite éliminées → cellules *voisines* seulement"
+      - say: "La communication locale synaptique, utilisée par les cellules nerveuses : le neurotransmetteur n'agit qu'au niveau de la fente synaptique qui sépare la cellule nerveuse de sa cible."
+        show: "Locale *synaptique* | *neurotransmetteur* dans la fente synaptique"
+      - say: "La communication à distance, endocrine : des cellules spécialisées sécrètent des molécules qui atteignent le système circulatoire. Elles ont une durée de vie relativement longue : ce sont les *hormones*, qui agissent sur des cibles distantes."
+        show: "À distance *endocrine* | *hormones* : circulation, durée de vie *longue*, cibles distantes"
+
+  - kind: compare
+    title: "Récepteurs intracellulaires vs de surface"
+    ref: "S1-2 p.23"
+    header: ["", "Récepteur intracellulaire", "Récepteur de surface"]
+    beats:
+      - say: "Deux familles de récepteurs."
+      - say: "Les molécules qui traversent la membrane, de petite taille, les lipides, se lient à un récepteur intracellulaire. Celles qui ne la traversent pas se lient à un récepteur de surface."
+        show: "Ligand | traverse la membrane (petite taille, lipides) | ne traverse *pas*"
+      - say: "Exemple de récepteur intracellulaire : les hormones stéroïdes et leurs récepteurs. Le récepteur de surface est fait d'un ou plusieurs polypeptides membranaires."
+        show: "Exemple / structure | hormones *stéroïdes* | 1 ou plusieurs polypeptides membranaires"
+      - say: "Et pour le récepteur de surface, la liaison du ligand l'active, et il transmet le signal à l'intérieur de la cellule."
+        show: "Signal | — | ligand *active* → transmission vers l'intérieur"
+
+  - kind: figure
+    title: "La transduction du signal"
+    ref: "S1-2 p.24"
+    fig: "S1-2:24h"
+    trap: "Cascade = AMPLIFICATION ; activation par modification, ex. phosphorylation."
+    beats:
+      - say: "La *transduction du signal* : tous les événements entre la liaison du ligand à son récepteur et la réponse cellulaire. Il en existe une grande variété, selon le ligand, le récepteur et le type cellulaire."
+        mark: "transduction du signal"
+        show: "*Transduction* = ligand + récepteur → … → réponse"
+      - say: "Le plus souvent : activation du récepteur par son ligand, puis activation *en cascade* de protéines de réponse, ce qui assure l'*amplification* du signal. Les protéines sont activées par des modifications, par exemple l'ajout d'un phosphate : la phosphorylation."
+        mark: ["cascade", "amplification", "phosphorylation"]
+        show: "Activation *en cascade* → *amplification* · ex. *phosphorylation*"
+
+  - kind: figure
+    title: "Kinases et phosphatases"
+    ref: "S1-2 p.24"
+    fig: "S1-2:24b"
+    trap: "Kinases AJOUTENT un phosphate (2 groupes : Ser/Thr et Tyr) ; phosphatases le RETIRENT."
+    beats:
+      - say: "L'activité de nombreuses protéines dépend de leur état de phosphorylation. Les *protéines kinases* catalysent l'ajout d'un phosphate sur des protéines spécifiques. Deux groupes : les sérine-thréonine kinases et les tyrosine kinases."
+        mark: ["protéines kinases", "sérine"]
+        show: "*Kinases* : *ajoutent* un phosphate · 2 groupes : *Ser/Thr* et *Tyr*"
+      - say: "À l'inverse, les *phosphatases* retirent les groupes phosphate. L'état de phosphorylation d'une protéine peut ainsi être finement régulé."
+        mark: ["phosphatases", "finement"]
+        show: "*Phosphatases* : *retirent* le phosphate → régulation *fine*"
+
+  - kind: flow
+    title: "La voie de réponse à l'insuline"
+    ref: "S1-2 p.25"
+    trap: "Insuline : hormone PROTÉIQUE du pancréas ; cibles foie, muscles, tissu adipeux ; ↑ GLUT4 et ↑ glycogène synthase."
+    beats:
+      - say: "Exemple : la voie de l'insuline, étape par étape."
+      - say: "L'insuline est une hormone protéique, sécrétée par le pancréas. Sa production augmente quand le glucose sanguin augmente."
+        show: "Glycémie ↑ → le *pancréas* sécrète l'*insuline* (hormone protéique)"
+      - say: "Ses cellules cibles sont dans le foie, les muscles et le tissu adipeux."
+        show: "Cibles : *foie* · *muscles* · *tissu adipeux*"
+      - say: "Après liaison à son récepteur, une voie de signalisation, faite d'une cascade de phosphorylations, est activée."
+        show: "Liaison au récepteur → cascade de *phosphorylations*"
+      - say: "Résultat : plus de transporteurs GLUT4 à la membrane, donc une entrée accrue de glucose, et une stimulation de sa conversion en glycogène, via la glycogène synthase."
+        show: "↑ *GLUT4* à la membrane (entrée de glucose) · ↑ *glycogène synthase* (→ glycogène)"
+
+  - kind: trap
+    title: "Paracrine ou endocrine ?"
+    ref: "S1-2 p.22-25"
+    trap: "Paracrine = vite éliminée, voisines ; endocrine = hormone, longue durée de vie, à distance."
+    beats:
+      - say: "Les pièges."
+      - say: "“Une hormone agit uniquement sur les cellules voisines” : faux, c'est la communication paracrine. L'hormone est endocrine et agit à distance."
+        show: "✓ Paracrine = *voisines* · endocrine = *hormones*, à *distance*"
+      - say: "“Les hormones stéroïdes se lient à un récepteur de surface” : faux, à un récepteur intracellulaire."
+        show: "✓ Hormones stéroïdes → récepteur *intracellulaire*"
+      - say: "Et ne confonds pas GLUT4, stimulé par l'insuline, avec GLUT2, de la cellule intestinale."
+        show: "✓ *GLUT4* = insuline · *GLUT2* = intestin (baso-latéral)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.24-25"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Les phosphatases ajoutent des groupes phosphate."
+      - "L'insuline augmente la présence de GLUT4 à la membrane."
+      - "L'insuline est une hormone stéroïde."
+      - "La cascade de transduction diminue le signal."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Les phosphatases retirent les phosphates, l'insuline est une hormone protéique, et la cascade amplifie le signal."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 21 : la division cellulaire"
+    ref: "S1-2 p.25"
+    big: "5' → 3'"
+    beats:
+      - say: "Prochain épisode : la division cellulaire, ses rôles, ses chiffres, et la réplication semi-conservative de l'ADN."
+        show: "Division · *réplication semi-conservative*"
+
+recap:
+  - "Chapitre V : 1. Aperçu général ; 2. Les types de communications ; 3. Les récepteurs ; 4. Transduction du signal. Les communications inter-cellulaires permettent aux cellules de s'influencer mutuellement : molécule de signalisation (ligand : peptides, protéines, nucléotides, stéroïdes, petites molécules…) + protéine qui la reconnaît (récepteur) → voie de transduction → réponse (division, migration, transformation, mort cellulaire…)."
+  - "Contact direct : jonctions communicantes (molécules de signalisation d'une cellule à l'autre) ou association de protéines membranaires. Communication locale : paracrine (molécules rapidement éliminées, agissent sur les cellules voisines) ; synaptique (cellules nerveuses ; neurotransmetteur dans la fente synaptique). Communication à distance : molécules atteignant le système circulatoire, durée de vie relativement longue = hormones ; communication endocrine."
+  - "Récepteurs intracellulaires : molécules traversant la membrane (petite taille, lipides…), ex. hormones stéroïdes. Récepteurs de surface : molécules ne traversant pas la membrane ; un ou plusieurs polypeptides membranaires ; la liaison du ligand active le récepteur qui transmet le signal."
+  - "Transduction du signal : événements entre la liaison du ligand et la réponse ; grande variété selon ligand, récepteur et type cellulaire ; activation du récepteur puis activation en cascade de protéines de réponse (amplification) ; activation par modification (ex. phosphorylation)."
+  - "Phosphorylation : activité de nombreuses protéines contrôlée par leur état de phosphorylation ; protéines kinases (ajout d'un phosphate ; sérine/thréonine kinases et tyrosine kinases) ; phosphatases (retrait) ⇒ régulation fine."
+  - "Insuline : hormone protéique sécrétée par le pancréas ; production accrue quand le glucose sanguin augmente ; cellules cibles : foie, muscles, tissu adipeux ; liaison au récepteur → cascade de phosphorylations → entrée accrue de glucose (↑ GLUT4 à la membrane) et conversion en glycogène (↑ glycogène synthase)."
+
+traps:
+  - ["Paracrine = à distance", "Paracrine = cellules voisines (molécules vite éliminées) ; endocrine = à distance", "p.22h"]
+  - ["Hormones à durée de vie courte", "Durée de vie relativement longue", "p.22b"]
+  - ["Stéroïdes → récepteur de surface", "Récepteur intracellulaire", "p.23h"]
+  - ["Cascade = atténuation", "Cascade = amplification", "p.24h"]
+  - ["Phosphatases ajoutent le phosphate", "Kinases ajoutent ; phosphatases retirent", "p.24b"]
+  - ["Insuline = hormone stéroïde, cible = rein", "Hormone protéique ; cibles : foie, muscles, tissu adipeux", "p.25h"]
+
+mnemonics:
+  - ["Types de communication", "« Toucher, chuchoter, crier dans un mégaphone »", "Contact direct · locale (paracrine, synaptique) · à distance (endocrine)"]
+  - ["Insuline", "« FMA » : Foie, Muscles, Adipeux + « 4 portes s'ouvrent » (GLUT4)", "Cibles foie, muscles, tissu adipeux · ↑ GLUT4 · ↑ glycogène synthase"]
+
+quiz:
+  - q: "Types de communication :"
+    props:
+      - ["Les jonctions communicantes permettent une communication par contact direct.", true, "p.21b."]
+      - ["Dans la communication paracrine, les molécules agissent sur les cellules voisines.", true, "p.22h."]
+      - ["Le neurotransmetteur agit au niveau de la fente synaptique.", true, "p.22h."]
+      - ["Les hormones ont une durée de vie très courte.", false, "Relativement longue."]
+      - ["La communication à distance est dite endocrine.", true, "p.22b."]
+  - q: "Récepteurs et transduction :"
+    props:
+      - ["Les hormones stéroïdes se lient à des récepteurs intracellulaires.", true, "p.23h."]
+      - ["Un récepteur de surface est formé d'un ou plusieurs polypeptides membranaires.", true, "p.23b."]
+      - ["L'activation en cascade assure l'amplification du signal.", true, "p.24h."]
+      - ["Les tyrosine kinases retirent des groupes phosphate.", false, "Elles en ajoutent ; les phosphatases retirent."]
+      - ["Les kinases se répartissent en sérine/thréonine kinases et tyrosine kinases.", true, "p.24b."]
+  - q: "Insuline :"
+    props:
+      - ["L'insuline est sécrétée par le pancréas.", true, "p.25h."]
+      - ["Sa production augmente quand la glycémie augmente.", true, "p.25h."]
+      - ["Le tissu adipeux fait partie de ses cibles.", true, "Avec le foie et les muscles."]
+      - ["Elle diminue le nombre de GLUT4 à la membrane.", false, "Elle l'augmente."]
+      - ["Elle stimule la glycogène synthase.", true, "Conversion du glucose en glycogène."]
+
+coverage:
+  - ["S1-2", "20b", "Sommaire du chapitre V", 2]
+  - ["S1-2", "21h", "Communications cellulaires : ligand, récepteur, réponses", 2]
+  - ["S1-2", "21b", "Contact direct", 3]
+  - ["S1-2", "22h", "Communication locale : paracrine, synaptique", 3]
+  - ["S1-2", "22b", "Communication à distance : hormones, endocrine", 3]
+  - ["S1-2", "23h", "Récepteurs intracellulaires (hormones stéroïdes)", 4]
+  - ["S1-2", "23b", "Récepteurs de surface", 4]
+  - ["S1-2", "24h", "Transduction du signal, cascade, amplification", 5]
+  - ["S1-2", "24b", "Phosphorylation : kinases (Ser/Thr, Tyr), phosphatases", 6]
+  - ["S1-2", "25h", "Voie de réponse à l'insuline", 7]

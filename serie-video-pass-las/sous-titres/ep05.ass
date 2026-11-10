@@ -1,0 +1,191 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'amidon de ta patate et la
+Dialogue: 0,0:00:01.74,0:00:03.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulose du céleri sont faits du
+Dialogue: 0,0:00:03.49,0:00:04.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}même sucre : le glucose.
+Dialogue: 0,0:00:04.91,0:00:06.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La différence tient en une lettre
+Dialogue: 0,0:00:06.50,0:00:07.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: alpha ou bêta.
+Dialogue: 0,0:00:07.67,0:00:09.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les glucides,
+Dialogue: 0,0:00:09.20,0:00:10.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du monosaccharide au
+Dialogue: 0,0:00:10.28,0:00:11.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polysaccharide, et deux enzymes
+Dialogue: 0,0:00:11.96,0:00:13.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui expliquent les intolérances.
+Dialogue: 0,0:00:14.26,0:00:15.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glucides, sucres, hydrates de
+Dialogue: 0,0:00:15.70,0:00:17.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbone : trois noms pour la même
+Dialogue: 0,0:00:17.34,0:00:17.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}famille.
+Dialogue: 0,0:00:18.14,0:00:19.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils portent {\c&H66D1FF&}une{\c&HFFFFFF&} fonction
+Dialogue: 0,0:00:19.42,0:00:21.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbonyle et {\c&H66D1FF&}plusieurs{\c&HFFFFFF&} fonctions
+Dialogue: 0,0:00:21.13,0:00:21.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydroxyle.
+Dialogue: 0,0:00:21.81,0:00:23.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils sont très solubles dans
+Dialogue: 0,0:00:23.16,0:00:24.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau, et ce sont des sources
+Dialogue: 0,0:00:24.61,0:00:25.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie, grâce à leurs
+Dialogue: 0,0:00:25.81,0:00:27.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nombreuses liaisons C H.
+Dialogue: 0,0:00:27.41,0:00:29.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils existent sous trois formes :
+Dialogue: 0,0:00:29.13,0:00:30.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}monosaccharides, disaccharides,
+Dialogue: 0,0:00:30.79,0:00:31.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polysaccharides.
+Dialogue: 0,0:00:32.05,0:00:33.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple de monosaccharide :
+Dialogue: 0,0:00:33.81,0:00:35.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le glucose, C6H12O6.
+Dialogue: 0,0:00:36.03,0:00:37.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il forme un cycle,
+Dialogue: 0,0:00:37.11,0:00:39.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est un réservoir d'énergie avec
+Dialogue: 0,0:00:39.10,0:00:40.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept liaisons C H,
+Dialogue: 0,0:00:40.18,0:00:41.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et il existe en deux
+Dialogue: 0,0:00:41.38,0:00:43.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stéréoisomères : l'alpha-glucose
+Dialogue: 0,0:00:43.30,0:00:44.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le bêta-glucose.
+Dialogue: 0,0:00:45.01,0:00:46.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glucose a d'autres isomères,
+Dialogue: 0,0:00:46.85,0:00:48.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de même formule C6H12O6.
+Dialogue: 0,0:00:49.12,0:00:50.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le fructose est un {\c&H66D1FF&}isomère{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.66,0:00:52.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}structure{\c&HFFFFFF&} : son groupe C double
+Dialogue: 0,0:00:52.31,0:00:53.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison O n'est pas au même
+Dialogue: 0,0:00:53.75,0:00:54.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endroit.
+Dialogue: 0,0:00:54.57,0:00:55.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le galactose est un
+Dialogue: 0,0:00:55.66,0:00:57.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}stéréo-isomère{\c&HFFFFFF&} : mêmes liaisons,
+Dialogue: 0,0:00:57.50,0:00:58.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais un groupe O H orienté
+Dialogue: 0,0:00:58.99,0:00:59.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autrement.
+Dialogue: 0,0:01:00.13,0:01:01.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces trois sucres à six carbones
+Dialogue: 0,0:01:01.63,0:01:02.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ont chacun leur rôle.
+Dialogue: 0,0:01:03.04,0:01:04.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glucose est produit par les
+Dialogue: 0,0:01:04.52,0:01:06.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}végétaux, et c'est la principale
+Dialogue: 0,0:01:06.09,0:01:07.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}source d'énergie chez les
+Dialogue: 0,0:01:07.32,0:01:07.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}animaux.
+Dialogue: 0,0:01:08.12,0:01:09.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le fructose est abondant dans les
+Dialogue: 0,0:01:09.67,0:01:11.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fruits, avec un goût plus sucré.
+Dialogue: 0,0:01:11.57,0:01:13.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le galactose est dans le lait,
+Dialogue: 0,0:01:13.05,0:01:14.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et associé à d'autres
+Dialogue: 0,0:01:14.09,0:01:15.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biomolécules, par exemple les
+Dialogue: 0,0:01:15.53,0:01:16.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupes sanguins.
+Dialogue: 0,0:01:16.93,0:01:18.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il existe des sucres plus petits.
+Dialogue: 0,0:01:18.64,0:01:19.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À trois carbones :
+Dialogue: 0,0:01:19.63,0:01:20.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}glycéraldéhyde{\c&HFFFFFF&} .
+Dialogue: 0,0:01:21.08,0:01:22.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À cinq carbones : le {\c&H66D1FF&}ribose{\c&HFFFFFF&} et le
+Dialogue: 0,0:01:22.89,0:01:24.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}désoxyribose{\c&HFFFFFF&} , les sucres de
+Dialogue: 0,0:01:24.43,0:01:25.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ARN et de l'ADN.
+Dialogue: 0,0:01:26.31,0:01:27.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un disaccharide, c'est deux
+Dialogue: 0,0:01:27.66,0:01:28.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}monosaccharides liés.
+Dialogue: 0,0:01:28.85,0:01:30.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez les plantes, ils servent au
+Dialogue: 0,0:01:30.45,0:01:31.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport des glucides,
+Dialogue: 0,0:01:31.60,0:01:33.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}car ils sont plus stables que les
+Dialogue: 0,0:01:33.25,0:01:34.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}monosaccharides.
+Dialogue: 0,0:01:34.45,0:01:36.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}saccharose{\c&HFFFFFF&} , c'est le sucre de
+Dialogue: 0,0:01:36.21,0:01:37.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}table : glucose plus fructose.
+Dialogue: 0,0:01:38.21,0:01:39.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}lactose{\c&HFFFFFF&} : glucose plus
+Dialogue: 0,0:01:39.50,0:01:40.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}galactose, dans le lait.
+Dialogue: 0,0:01:40.87,0:01:42.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}maltose{\c&HFFFFFF&} : glucose plus
+Dialogue: 0,0:01:42.18,0:01:43.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose, dans les graines
+Dialogue: 0,0:01:43.50,0:01:43.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}germées.
+Dialogue: 0,0:01:44.48,0:01:45.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glucose est dans les trois
+Dialogue: 0,0:01:45.87,0:01:47.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}couples ; seul son partenaire change.
+Dialogue: 0,0:01:48.04,0:01:49.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Saccharose : il est avec le
+Dialogue: 0,0:01:49.42,0:01:50.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fructose, le sucre des fruits,
+Dialogue: 0,0:01:50.96,0:01:52.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme dans ton sucre de table.
+Dialogue: 0,0:01:52.90,0:01:54.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lactose : lacté, le lait,
+Dialogue: 0,0:01:54.29,0:01:55.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc avec le galactose.
+Dialogue: 0,0:01:55.71,0:01:57.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Gala comme le lait en grec.
+Dialogue: 0,0:01:57.49,0:01:58.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Maltose : le malt,
+Dialogue: 0,0:01:58.43,0:01:59.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des graines germées,
+Dialogue: 0,0:01:59.49,0:02:00.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose plus glucose :
+Dialogue: 0,0:02:00.64,0:02:01.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un couple de jumeaux.
+Dialogue: 0,0:02:02.31,0:02:04.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}sucrase{\c&HFFFFFF&} clive le saccharose en
+Dialogue: 0,0:02:04.22,0:02:05.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose plus fructose.
+Dialogue: 0,0:02:05.64,0:02:07.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est une enzyme sécrétée par la
+Dialogue: 0,0:02:07.31,0:02:08.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}muqueuse intestinale.
+Dialogue: 0,0:02:08.80,0:02:10.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Son déficit est une maladie
+Dialogue: 0,0:02:10.25,0:02:11.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}héréditaire rare :
+Dialogue: 0,0:02:11.21,0:02:12.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diarrhées, douleur abdominale,
+Dialogue: 0,0:02:12.81,0:02:14.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}perte de poids, avec des
+Dialogue: 0,0:02:14.09,0:02:15.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}symptômes qui apparaissent quand
+Dialogue: 0,0:02:15.79,0:02:17.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on introduit le saccharose dans
+Dialogue: 0,0:02:17.45,0:02:18.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'alimentation.
+Dialogue: 0,0:02:18.39,0:02:19.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Traitement : un régime sans
+Dialogue: 0,0:02:19.89,0:02:21.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saccharose, et le Sucraid,
+Dialogue: 0,0:02:21.33,0:02:22.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une enzyme de substitution.
+Dialogue: 0,0:02:23.23,0:02:24.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}lactase{\c&HFFFFFF&} clive le lactose en
+Dialogue: 0,0:02:24.93,0:02:26.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose plus galactose.
+Dialogue: 0,0:02:26.38,0:02:27.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa production est maximale chez
+Dialogue: 0,0:02:27.82,0:02:28.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}nourrisson{\c&HFFFFFF&} .
+Dialogue: 0,0:02:28.91,0:02:30.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Grâce à une mutation apparue il y
+Dialogue: 0,0:02:30.60,0:02:32.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}a 5 000 à 10 000 ans,
+Dialogue: 0,0:02:32.09,0:02:33.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la domestication du bétail,
+Dialogue: 0,0:02:33.73,0:02:35.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'enzyme se maintient chez
+Dialogue: 0,0:02:35.06,0:02:37.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'adulte : 90 % des Européens du
+Dialogue: 0,0:02:37.83,0:02:39.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Nord tolèrent le lactose,
+Dialogue: 0,0:02:39.11,0:02:41.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}beaucoup moins en Afrique et en Asie.
+Dialogue: 0,0:02:41.41,0:02:42.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et une intolérance au lactose
+Dialogue: 0,0:02:42.97,0:02:44.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peut aussi être induite par des
+Dialogue: 0,0:02:44.63,0:02:46.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteurs environnementaux,
+Dialogue: 0,0:02:46.03,0:02:47.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme un virus : flatulences,
+Dialogue: 0,0:02:47.58,0:02:49.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diarrhées, douleurs abdominales.
+Dialogue: 0,0:02:49.86,0:02:51.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les polysaccharides sont de longs
+Dialogue: 0,0:02:51.56,0:02:53.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polymères de monosaccharides,
+Dialogue: 0,0:02:53.06,0:02:54.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}linéaires ou ramifiés.
+Dialogue: 0,0:02:54.59,0:02:56.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Attention : ils sont {\c&H66D1FF&}insolubles{\c&HFFFFFF&}
+Dialogue: 0,0:02:56.03,0:02:57.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'eau et n'ont {\c&H66D1FF&}pas{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:02:57.23,0:02:58.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pouvoir{\c&HFFFFFF&} {\c&H66D1FF&}sucrant{\c&HFFFFFF&} .
+Dialogue: 0,0:02:58.15,0:02:59.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils servent au stockage
+Dialogue: 0,0:02:59.34,0:03:00.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie, ou de composant de
+Dialogue: 0,0:03:00.84,0:03:01.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure.
+Dialogue: 0,0:03:01.92,0:03:03.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'amidon et le glycogène sont des
+Dialogue: 0,0:03:03.73,0:03:05.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polymères d' {\c&H66D1FF&}alpha{\c&HFFFFFF&} -glucose,
+Dialogue: 0,0:03:05.27,0:03:06.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reliés par des liaisons alpha
+Dialogue: 0,0:03:06.87,0:03:08.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}1-4, et alpha 1-6 aux
+Dialogue: 0,0:03:08.52,0:03:09.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ramifications.
+Dialogue: 0,0:03:09.69,0:03:11.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'amidon chez les {\c&H66D1FF&}plantes{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:11.07,0:03:12.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec l'amylose et l'amylopectine
+Dialogue: 0,0:03:12.71,0:03:14.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; le glycogène chez les {\c&H66D1FF&}animaux{\c&HFFFFFF&} .
+Dialogue: 0,0:03:14.54,0:03:16.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fonction : le {\c&H66D1FF&}stockage{\c&HFFFFFF&} {\c&H66D1FF&}d'énergie{\c&HFFFFFF&} .
+Dialogue: 0,0:03:16.78,0:03:18.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellulose est un polymère de
+Dialogue: 0,0:03:18.54,0:03:20.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}bêta{\c&HFFFFFF&} -glucose, {\c&H66D1FF&}non{\c&HFFFFFF&} {\c&H66D1FF&}ramifié{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:20.12,0:03:22.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec des liaisons bêta 1-4.
+Dialogue: 0,0:03:22.40,0:03:23.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle forme des fibres
+Dialogue: 0,0:03:23.53,0:03:25.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}résistantes, avec une fonction de
+Dialogue: 0,0:03:25.30,0:03:26.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}structure{\c&HFFFFFF&} : les parois
+Dialogue: 0,0:03:26.49,0:03:27.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires végétales.
+Dialogue: 0,0:03:28.23,0:03:29.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les pièges classiques.
+Dialogue: 0,0:03:29.77,0:03:31.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La cellulose est un polymère
+Dialogue: 0,0:03:31.27,0:03:32.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'alpha-glucose” :
+Dialogue: 0,0:03:32.18,0:03:33.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est du bêta-glucose.
+Dialogue: 0,0:03:34.08,0:03:35.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le glycogène est la réserve des
+Dialogue: 0,0:03:35.64,0:03:36.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plantes” : faux.
+Dialogue: 0,0:03:36.54,0:03:37.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glycogène chez les animaux,
+Dialogue: 0,0:03:37.86,0:03:39.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}amidon chez les plantes.
+Dialogue: 0,0:03:39.44,0:03:41.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les polysaccharides ont un goût
+Dialogue: 0,0:03:41.02,0:03:42.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sucré et sont solubles” : faux.
+Dialogue: 0,0:03:42.69,0:03:44.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Insolubles, sans pouvoir sucrant.
+Dialogue: 0,0:03:45.01,0:03:46.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quelle proposition est
+Dialogue: 0,0:03:46.49,0:03:46.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exacte ?
+Dialogue: 0,0:03:51.30,0:03:52.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:52.25,0:03:53.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le maltose, c'est glucose plus
+Dialogue: 0,0:03:53.94,0:03:55.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose ; la cellulose est du
+Dialogue: 0,0:03:55.56,0:03:57.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bêta-glucose non ramifié ;
+Dialogue: 0,0:03:57.02,0:03:58.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les polysaccharides sont
+Dialogue: 0,0:03:58.54,0:03:59.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}insolubles.
+Dialogue: 0,0:03:59.71,0:04:00.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:04:01.12,0:04:02.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glucides : une fonction
+Dialogue: 0,0:04:02.42,0:04:04.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbonyle, plusieurs hydroxyles,
+Dialogue: 0,0:04:04.22,0:04:05.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}très solubles ; mono,
+Dialogue: 0,0:04:05.40,0:04:06.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}di et polysaccharides.
+Dialogue: 0,0:04:07.04,0:04:08.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glucose, fructose,
+Dialogue: 0,0:04:08.15,0:04:09.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}galactose à six carbones ;
+Dialogue: 0,0:04:09.75,0:04:11.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycéraldéhyde à trois ;
+Dialogue: 0,0:04:11.24,0:04:13.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ribose et désoxyribose à cinq.
+Dialogue: 0,0:04:13.49,0:04:14.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Saccharose, lactose,
+Dialogue: 0,0:04:14.62,0:04:16.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maltose ; sucrase et lactase.
+Dialogue: 0,0:04:16.65,0:04:17.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Amidon et glycogène,
+Dialogue: 0,0:04:17.88,0:04:19.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}alpha-glucose, stockage ;
+Dialogue: 0,0:04:19.42,0:04:20.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulose, bêta-glucose,
+Dialogue: 0,0:04:20.91,0:04:21.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure.
+Dialogue: 0,0:04:22.08,0:04:23.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:23.06,0:04:23.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les lipides.
+Dialogue: 0,0:04:23.85,0:04:25.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois acides gras d'un côté,
+Dialogue: 0,0:04:25.25,0:04:26.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux de l'autre : tu sauras
+Dialogue: 0,0:04:26.60,0:04:28.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pourquoi ça change tout pour tes
+Dialogue: 0,0:04:28.20,0:04:28.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranes.

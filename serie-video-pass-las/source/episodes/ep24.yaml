@@ -1,0 +1,141 @@
+title: "Contrôle du cycle, cancers et vincristine"
+subtitle: "3 points de contrôle · cancers · aneuploïdie · vincristine"
+source: "S1-2 p.39 à 40h"
+chapter: "Partie I — Chapitre VI. La division cellulaire — Contrôle du cycle cellulaire"
+objectives:
+  - "Citer les 3 points de contrôle du cycle et ce qu'ils vérifient."
+  - "Relier les cancers à un défaut des points de contrôle."
+  - "Expliquer le mode d'action de la vincristine."
+
+scenes:
+  - kind: hook
+    title: "Quand les freins lâchent"
+    ref: "S1-2 p.39"
+    big: "3 contrôles"
+    beats:
+      - say: "Le cycle cellulaire a trois points de contrôle, comme trois péages. Quand ils lâchent, les cellules se divisent sans autorisation : c'est le cancer."
+      - say: "Et un médicament tiré d'une fleur bloque la mitose."
+        show: "G1/S · G2/M · fusorial · *vincristine*"
+
+  - kind: figure
+    title: "Les trois points de contrôle"
+    ref: "S1-2 p.39"
+    fig: "S1-2:39h"
+    trap: "G1/S : facteurs de croissance, état nutritionnel ; G2/M : réplication terminée, intégrité du génome ; fusorial : chromosomes fixés à la plaque."
+    beats:
+      - say: "Trois points de contrôle peuvent retarder ou arrêter la progression du cycle. Ils font intervenir des protéines sensibles à des paramètres internes et externes. Rôles : succession harmonieuse des étapes, identification d'erreurs, réponse aux signaux extérieurs."
+        mark: ["trois points de contrôle", "succession harmonieuse"]
+        show: "Retarder ou arrêter le cycle · succession harmonieuse · erreurs · signaux extérieurs"
+      - say: "Le point *G1/S* vérifie : y a-t-il des facteurs de croissance ? Quel est l'état nutritionnel de la cellule ?"
+        mark: "G1/S"
+        show: "*G1/S* : facteurs de *croissance* ? état *nutritionnel* ?"
+      - say: "Le point *G2/M* vérifie : la réplication est-elle terminée ? Le génome est-il intègre ?"
+        mark: "G2/M"
+        show: "*G2/M* : réplication *terminée* ? *intégrité* du génome ?"
+      - say: "Le point *fusorial* vérifie : les chromosomes sont-ils fixés à la plaque métaphasique ?"
+        mark: "fusorial"
+        show: "*Fusorial* : chromosomes fixés à la plaque *métaphasique* ?"
+
+  - kind: mnemo
+    title: "Trois péages, trois questions"
+    ref: "S1-2 p.39"
+    phrase: "*G1/S* : j'ai de quoi ? · *G2/M* : j'ai fini ? · *Fusorial* : tout le monde est accroché ?"
+    trap: "Ordre dans le cycle : G1/S → G2/M → fusorial (en mitose)."
+    beats:
+      - say: "Trois questions dans l'ordre. G1/S : j'ai de quoi grandir ? Facteurs de croissance, nutrition. G2/M : j'ai fini de copier, sans erreur ? Fusorial : tout le monde est accroché au fuseau ?"
+        show: "G1/S : *de quoi* ? · G2/M : *fini* ? · fusorial : *accrochés* ?"
+
+  - kind: figure
+    title: "Les cancers"
+    ref: "S1-2 p.39"
+    fig: "S1-2:39b"
+    trap: "Défaut des points de contrôle → divisions SANS facteurs de croissance, mutations, aneuploïdie."
+    beats:
+      - say: "Les cancers sont des maladies liées à la croissance incontrôlée de cellules, par défaut des points de contrôle du cycle."
+        mark: "croissance incontrôlée"
+        show: "Cancers : croissance *incontrôlée* · défaut des *points de contrôle*"
+      - say: "Conséquences : des divisions même en absence de facteurs de croissance ; l'accumulation d'erreurs dans la séquence d'ADN, les mutations ; et des défauts de ségrégation des chromosomes, l'*aneuploïdie*."
+        mark: ["absence de facteurs", "mutations", "aneuploïdie"]
+        show: "Divisions *sans* facteurs de croissance · *mutations* · *aneuploïdie*"
+      - say: "Dans le caryotype d'une cellule cancéreuse du cours : des chromosomes surnuméraires, comme les 2, 3, 5, 7 ; des pertes, comme les 8, 18, 21 ; et des remaniements, comme les 2, 5, 6, 20."
+        mark: ["surnuméraires", "remaniements"]
+        show: "Surnuméraires (chr. 2, 3, 5, 7…) · pertes (8, 18, 21) · remaniements (2, 5, 6, 20)"
+
+  - kind: figure
+    title: "La mitose comme cible thérapeutique : la vincristine"
+    ref: "S1-2 p.40"
+    fig: "S1-2:40h"
+    trap: "Vincristine : se lie aux dimères de tubulines αβ → INHIBE LA POLYMÉRISATION des microtubules → bloque la mitose."
+    beats:
+      - say: "La vincristine est tirée de la pervenche de Madagascar."
+        mark: "pervenche"
+        show: "*Vincristine* : pervenche de *Madagascar*"
+      - say: "Mode d'action : elle s'associe aux dimères de tubulines alpha bêta, inhibe la polymérisation des microtubules, et bloque donc la mitose. Usage clinique : le traitement de différents types de cancers."
+        mark: ["dimères", "inhibe la polymérisation", "cancers"]
+        show: "Se lie aux dimères de tubulines *αβ* → *inhibe la polymérisation* → *bloque la mitose* · traitement de cancers"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.39-40"
+    question: "Quel point de contrôle vérifie l'intégrité du génome ?"
+    options:
+      - "G1/S"
+      - "G2/M"
+      - "Fusorial"
+    answer: [1]
+    beats:
+      - say: "Quiz : quel point de contrôle vérifie l'intégrité du génome ?"
+        countdown: 4
+      - say: "G2/M, avec la fin de la réplication. G1/S vérifie les facteurs de croissance et la nutrition ; le fusorial, l'attachement à la plaque métaphasique."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 25 : reproduction sexuée et méiose"
+    ref: "S1-2 p.40"
+    big: "2n → 4 n"
+    beats:
+      - say: "Prochain épisode : la reproduction sexuée et la méiose, qui transforme une cellule diploïde en quatre cellules haploïdes."
+        show: "Mitose vs *méiose*"
+
+recap:
+  - "Trois points de contrôle peuvent retarder ou arrêter la progression du cycle ; protéines sensibles à des paramètres internes et externes ; rôles : succession harmonieuse des étapes, identification d'erreurs, réponse à des signaux extérieurs. G1/S : facteurs de croissance ? état nutritionnel ? G2/M : réplication terminée ? intégrité du génome ? Fusorial : chromosomes fixés à la plaque métaphasique ?"
+  - "Cancers : croissance incontrôlée de cellules ; défaut des points de contrôle ⇒ divisions même en absence de facteurs de croissance, accumulation d'erreurs (mutations), défauts de ségrégation (aneuploïdie). Exemple de caryotype : chromosomes surnuméraires (2, 3, 5, 7…), pertes (8, 18, 21), remaniements (2, 5, 6, 20)."
+  - "Vincristine (pervenche de Madagascar) : s'associe aux dimères de tubulines αβ, inhibe la polymérisation des microtubules, bloque la mitose ; traitement de différents cancers."
+
+traps:
+  - ["G1/S vérifie l'intégrité du génome", "G1/S : facteurs de croissance, état nutritionnel ; G2/M : réplication, intégrité", "p.39h"]
+  - ["Fusorial en G2", "Fusorial = attachement à la plaque métaphasique", "p.39h"]
+  - ["Cancer = divisions seulement avec facteurs de croissance", "Divisions même en absence de facteurs de croissance", "p.39b"]
+  - ["Vincristine favorise la polymérisation", "Elle inhibe la polymérisation des microtubules", "p.40h"]
+
+mnemonics:
+  - ["Les 3 points de contrôle", "« J'ai de quoi ? J'ai fini ? Tout le monde est accroché ? »", "G1/S (croissance, nutrition) · G2/M (réplication, intégrité) · fusorial (plaque métaphasique)"]
+  - ["Vincristine", "« Vin-crispe » le fuseau : plus de microtubules, plus de mitose", "Inhibe la polymérisation des microtubules → bloque la mitose"]
+
+quiz:
+  - q: "Points de contrôle :"
+    props:
+      - ["Il existe trois points de contrôle du cycle cellulaire.", true, "p.39h."]
+      - ["Le point G1/S vérifie la présence de facteurs de croissance.", true, "p.39h."]
+      - ["Le point G2/M vérifie que la réplication est terminée.", true, "p.39h."]
+      - ["Le point fusorial vérifie l'état nutritionnel de la cellule.", false, "Il vérifie la fixation des chromosomes à la plaque métaphasique."]
+      - ["Les points de contrôle peuvent retarder ou arrêter le cycle.", true, "p.39h."]
+  - q: "Cancers :"
+    props:
+      - ["Ils sont liés à une croissance incontrôlée de cellules.", true, "p.39b."]
+      - ["Ils impliquent un défaut des points de contrôle.", true, "p.39b."]
+      - ["L'aneuploïdie correspond à un défaut de ségrégation des chromosomes.", true, "p.39b."]
+      - ["Les cellules cancéreuses ne se divisent qu'en présence de facteurs de croissance.", false, "Même en leur absence."]
+      - ["Le caryotype d'exemple montre des pertes des chromosomes 8, 18 et 21.", true, "p.39b."]
+  - q: "Vincristine :"
+    props:
+      - ["Elle provient de la pervenche de Madagascar.", true, "p.40h."]
+      - ["Elle s'associe aux dimères de tubulines αβ.", true, "p.40h."]
+      - ["Elle stimule la polymérisation des microtubules.", false, "Elle l'inhibe."]
+      - ["Elle bloque la mitose.", true, "p.40h."]
+      - ["Elle est utilisée dans le traitement de cancers.", true, "p.40h."]
+
+coverage:
+  - ["S1-2", "39h", "Trois points de contrôle du cycle", 2]
+  - ["S1-2", "39b", "Cancers : défauts des contrôles, mutations, aneuploïdie, caryotype", 4]
+  - ["S1-2", "40h", "Vincristine", 5]

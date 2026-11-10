@@ -1,0 +1,153 @@
+title: "Atelier : décoder le gène de l'insuline"
+subtitle: "Ensembl · 3 exons, 2 introns · brin + · de l'ATG au STOP"
+source: "S1-3 p.13 à 16"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — Exemple : le gène de l'insuline"
+objectives:
+  - "Lire la structure d'un gène réel (exons, introns, régions codante et non codantes)."
+  - "Situer le début et la fin de la transcription et de la traduction."
+  - "Traduire la séquence du brin + en acides aminés."
+
+scenes:
+  - kind: hook
+    title: "Lire un vrai gène humain"
+    ref: "S1-3 p.14"
+    big: "M A L W M R"
+    beats:
+      - say: "Aujourd'hui, on lit un vrai gène humain, celui de l'insuline, lettre par lettre. Les six premières lettres de la protéine : M, A, L, W, M, R."
+      - say: "Au programme : la base de données Ensembl, la structure du gène, puis la traduction."
+        show: "Ensembl · exons/introns · *brin +* · traduction"
+
+  - kind: figure
+    title: "Ensembl"
+    ref: "S1-3 p.13"
+    fig: "S1-3:13"
+    trap: "Ensembl contient la séquence de tous les gènes humains, leur localisation et leur structure exon-intron."
+    beats:
+      - say: "Ensembl est un site internet qui contient la séquence ADN de tous les gènes humains, leur localisation chromosomique, et une description de leur structure, exons et introns."
+        mark: "Ensembl"
+        show: "*Ensembl* : séquences de tous les gènes humains · localisation · structure *exon-intron*"
+
+  - kind: figure
+    title: "La séquence du gène de l'insuline"
+    ref: "S1-3 p.14"
+    fig: "S1-3:14"
+    trap: "3 exons, 2 introns ; exon 1 = non codant ; la traduction commence dans l'EXON 2."
+    beats:
+      - say: "Voici la séquence ADN du gène de l'insuline. Les encadrés sont les exons : il y en a trois. En bleu, la région codante ; en orange, les régions 5 prime et 3 prime non codantes."
+        focus: [0.0, 0.0, 1.0, 0.55]
+        mark: ["Exon 1", "Exon 2"]
+        show: "*3 exons* (encadrés) : bleu = codant · orange = 5' et 3' *non codants*"
+      - say: "En gris, les introns : il y en a deux. En vert, les séquences d'ADN qui précèdent et suivent le gène."
+        show: "*2 introns* (gris) · séquences avant/après le gène (vert)"
+      - say: "Les repères : la transcription commence au début de l'exon un ; la traduction commence plus loin, dans l'exon deux, à l'ATG ; elle s'arrête au codon STOP dans l'exon trois ; et la transcription s'arrête à la fin de l'exon trois."
+        focus: [0.0, 0.3, 1.0, 1.0]
+        mark: ["Exon 3"]
+        show: "Transcription : début exon 1 → fin exon 3 · traduction : *ATG (exon 2)* → *STOP (exon 3)*"
+
+  - kind: figure
+    title: "Traduire le brin +"
+    ref: "S1-3 p.15"
+    fig: "S1-3:15"
+    trap: "Les banques donnent le brin + (= séquence de l'ARN, T à la place de U)."
+    beats:
+      - say: "Rappel : le brin plus de l'ADN correspond à la séquence de l'ARN transcrit, avec T à la place de U. Et c'est la séquence du brin plus que donnent les banques de données. On peut donc en déduire directement la séquence du polypeptide."
+        focus: [0.0, 0.0, 1.0, 0.35]
+        mark: ["brin +", "banques de données"]
+        show: "Banques = *brin +* = séquence de l'ARN (T ↔ U) → on lit les codons directement"
+      - say: "Dans l'exon deux : A T G, méthionine ; G C C, alanine ; C T G, leucine ; T G G, tryptophane ; A T G, méthionine ; C G C, arginine. Et ainsi de suite : M A L W M R L L P L L A L L A L W G P D P A A A F V N Q H L C G S H L V E A L Y L V C G E R G F F Y T P K T."
+        focus: [0.0, 0.3, 1.0, 1.0]
+        show: "ATG GCC CTG TGG ATG CGC → *M A L W M R* L L P L L A L L A L W G P D P A A A F V N Q H L C G S H L V E A L Y L V C G E R G F F Y T P K T…"
+
+  - kind: figure
+    title: "Jusqu'au STOP"
+    ref: "S1-3 p.16"
+    fig: "S1-3:16h"
+    trap: "À la fin de l'exon 2, un codon est COUPÉ par l'intron : il se termine au début de l'exon 3."
+    beats:
+      - say: "La fin de l'exon deux donne R R E A E D L Q, puis un V dont le codon est à cheval : il commence à la fin de l'exon deux, et se termine au début de l'exon trois. C'est l'épissage qui recolle ce codon et restaure le cadre de lecture."
+        focus: [0.0, 0.0, 1.0, 0.4]
+        show: "… R R E A E D L Q *V* : codon *à cheval* entre exon 2 et exon 3"
+      - say: "Puis l'exon trois : G Q V E L G G G P G A G S L Q P L A L E G S L Q K R G I V E Q C C T S I C S L Y Q L E N Y C N, et enfin le codon STOP, T A G. La suite de l'exon trois est la région 3 prime non traduite."
+        focus: [0.0, 0.3, 1.0, 1.0]
+        mark: "Stop"
+        show: "Exon 3 : G Q V E L G G G P G A G S L Q P L A L E G S L Q K R G I V E Q C C T S I C S L Y Q L E N Y C N · *STOP*"
+
+  - kind: trap
+    title: "Les pièges de la lecture d'un gène"
+    ref: "S1-3 p.14-16"
+    trap: "Transcription ≠ traduction ; exon ≠ région codante ; brin + dans les banques."
+    beats:
+      - say: "Trois pièges."
+      - say: "“La traduction commence au début de l'exon un” : faux. L'exon un est entièrement non codant ; la traduction commence à l'ATG de l'exon deux."
+        show: "✓ Traduction : *ATG de l'exon 2* (exon 1 non codant)"
+      - say: "“Tous les exons sont entièrement codants” : faux. Ils contiennent aussi les régions 5 prime et 3 prime non traduites."
+        show: "✓ Exons = région codante *+* régions non traduites"
+      - say: "“Les banques donnent le brin matrice” : faux, elles donnent le brin plus."
+        show: "✓ Banques : *brin +*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.14"
+    question: "Combien d'introns compte le gène de l'insuline ?"
+    options:
+      - "1"
+      - "2"
+      - "3"
+    answer: [1]
+    beats:
+      - say: "Quiz : combien d'introns dans le gène de l'insuline ?"
+        countdown: 4
+      - say: "Deux introns, pour trois exons."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 32 : l'adressage des protéines"
+    ref: "S1-3 p.17"
+    big: "SRP"
+    beats:
+      - say: "Prochain épisode : comment une protéine sait si elle doit aller dans le RER, le noyau ou les mitochondries. Le peptide signal et la SRP."
+        show: "Peptide signal · *SRP* · trafic"
+
+recap:
+  - "Ensembl : site contenant la séquence ADN de tous les gènes humains, leur localisation chromosomique et leur structure (exon-intron)."
+  - "Gène de l'insuline : 3 exons (encadrés ; bleu = région codante ; orange = régions 5' et 3' non codantes), 2 introns (gris), séquences qui précèdent et suivent le gène (vert). La transcription commence au début de l'exon 1 et s'arrête à la fin de l'exon 3 ; la traduction commence à l'ATG de l'exon 2 et s'arrête au codon STOP de l'exon 3."
+  - "Le brin + de l'ADN correspond à la séquence de l'ARN transcrit (T ↔ U) ; c'est lui que donnent les banques de données ⇒ déduction de la séquence du polypeptide : MALWMRLLPLLALLALWGPDPAAAFVNQHLCGSHLVEALYLVCGERGFFYTPKT… RREAEDLQV GQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN puis STOP (TAG)."
+
+traps:
+  - ["Traduction dès l'exon 1", "Traduction à l'ATG de l'exon 2 ; exon 1 non codant", "p.14"]
+  - ["Exons = uniquement région codante", "Les exons incluent les régions 5' et 3' non codantes", "p.14"]
+  - ["Banques = brin –", "Brin + (= séquence de l'ARN, T à la place de U)", "p.15"]
+  - ["Un codon ne peut pas être coupé par un intron", "Le codon de V est à cheval entre exons 2 et 3", "p.16"]
+
+mnemonics:
+  - ["Structure", "« 3 exons, 2 introns » comme « 3 wagons, 2 attaches »", "Exon 1 – intron 1 – exon 2 – intron 2 – exon 3"]
+
+quiz:
+  - q: "Structure du gène de l'insuline :"
+    props:
+      - ["Il compte 3 exons et 2 introns.", true, "p.14."]
+      - ["La transcription commence au début de l'exon 1.", true, "p.14."]
+      - ["La traduction commence au début de l'exon 1.", false, "À l'ATG de l'exon 2."]
+      - ["Les régions 5' et 3' non codantes font partie des exons.", true, "En orange dans les encadrés."]
+      - ["Les introns sont représentés en gris.", true, "p.14."]
+  - q: "Lecture de la séquence :"
+    props:
+      - ["Les banques de données donnent la séquence du brin +.", true, "p.15."]
+      - ["Le brin + correspond à la séquence de l'ARN, T à la place de U.", true, "p.15."]
+      - ["Le premier acide aminé de l'insuline est une méthionine.", true, "ATG = Met."]
+      - ["Le deuxième codon GCC code une leucine.", false, "GCC code une alanine."]
+      - ["La traduction s'arrête au codon STOP dans l'exon 3.", true, "p.16."]
+  - q: "Épissage et cadre de lecture :"
+    props:
+      - ["Un codon peut être séparé par un intron dans le gène.", true, "Le codon de V entre exons 2 et 3."]
+      - ["L'épissage restaure le cadre de lecture.", true, "Rappel p.6b."]
+      - ["L'exon 3 ne contient aucune région non traduite.", false, "Il contient la région 3' non traduite."]
+      - ["La séquence protéique se termine par …YCN.", true, "Avant le STOP."]
+      - ["Ensembl indique la localisation chromosomique des gènes.", true, "p.13."]
+
+coverage:
+  - ["S1-3", "13", "Ensembl, gène de l'insuline", 2]
+  - ["S1-3", "14", "Séquence ADN du gène de l'insuline, exons/introns, codes couleur, début/fin transcription et traduction", 3]
+  - ["S1-3", "15", "Brin +, banques de données, traduction de l'exon 2", 4]
+  - ["S1-3", "16h", "Fin de l'exon 2 et exon 3 jusqu'au STOP", 5]
+  - ["S1-3", "16b", "Fin de l'exon 2 et exon 3 (diapo répétée)", 5]

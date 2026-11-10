@@ -1,0 +1,193 @@
+title: "Reproduction sexuée : mitose vs méiose"
+subtitle: "Asexuée vs sexuée · cycle 2n / n · méiose 1 et 2 · étapes"
+source: "S1-2 p.40b à 44"
+chapter: "Partie I — Chapitre IX. Reproduction sexuée et méiose — 1. à 4."
+objectives:
+  - "Citer les 7 points du chapitre IX."
+  - "Comparer reproduction asexuée et sexuée, et citer qui pratique l'asexuée."
+  - "Décrire le cycle de développement sexué (2n, n, zygote)."
+  - "Comparer mitose et méiose ; expliquer le défi et l'astuce de la méiose 1 et le mécanisme de la méiose 2 ; lister les étapes."
+
+scenes:
+  - kind: hook
+    title: "Pourquoi tu ne ressembles pas exactement à ton frère"
+    ref: "S1-2 p.41"
+    big: "2n → 4 × n"
+    beats:
+      - say: "Deux enfants des mêmes parents ne sont jamais identiques, sauf les vrais jumeaux. La raison : la reproduction sexuée et la méiose, qui brassent les génomes."
+      - say: "Au programme : asexuée contre sexuée, le cycle 2n et n, et le duel mitose contre méiose."
+        show: "Asexuée vs sexuée · *mitose vs méiose*"
+
+  - kind: list
+    title: "Chapitre IX : reproduction sexuée et méiose"
+    ref: "S1-2 p.40"
+    trap: "7 points."
+    beats:
+      - say: "Chapitre neuf, en sept points."
+      - say: "Reproduction asexuée et sexuée ; cycles sexués ; méiose versus mitose ; mécanisme de la méiose."
+        show: "1. Asexuée et sexuée · 2. Cycles sexués · 3. Méiose vs mitose · 4. Mécanisme"
+      - say: "Étapes de la méiose ; méiose et diversité génétique ; défaut de méiose et aneuploïdie."
+        show: "5. Étapes · 6. Diversité génétique · 7. Défaut de méiose et *aneuploïdie*"
+
+  - kind: compare
+    title: "Reproduction asexuée vs sexuée"
+    ref: "S1-2 p.41"
+    header: ["", "Asexuée", "Sexuée"]
+    beats:
+      - say: "Comparons."
+      - say: "Parents : un seul pour l'asexuée ; deux pour la sexuée, avec un mélange de deux génomes."
+        show: "Parents | *1* | *2* (mélange de 2 génomes)"
+      - say: "Descendants : génétiquement identiques entre eux et au parent ; ou génétiquement différents."
+        show: "Descendants | *identiques* | *différents*"
+      - say: "Avantage : plus simple, par mitose, et plus rapide ; ou brassage génétique, moteur de l'évolution."
+        show: "Atout | plus *simple* (mitose), plus *rapide* | *brassage génétique* (moteur de l'évolution)"
+
+  - kind: figure
+    title: "Qui se reproduit sans sexe ?"
+    ref: "S1-2 p.41"
+    fig: "S1-2:41b"
+    trap: "4 groupes : procaryotes, protistes, végétaux (multiplication végétative), animaux inférieurs (hydre)."
+    beats:
+      - say: "La reproduction asexuée est pratiquée par les procaryotes, les protistes, les végétaux, avec la multiplication végétative, et les animaux inférieurs, comme l'hydre, qui forme des bourgeons."
+        mark: ["procaryotes", "hydre"]
+        show: "Procaryotes · protistes · végétaux (*multiplication végétative*) · animaux inférieurs (*hydre*, bourgeons)"
+
+  - kind: figure
+    title: "Le cycle de développement sexué"
+    ref: "S1-2 p.42"
+    fig: "S1-2:42h"
+    trap: "Parents 2n → gamètes n (méiose) → zygote 2n (fécondation) → mitoses."
+    beats:
+      - say: "Chacun des parents est *diploïde* : 2n chromosomes. Leurs cellules germinales, ou gamètes, subissent au cours de la méiose une réduction de moitié du matériel génétique : elles sont *haploïdes*, n chromosomes."
+        mark: ["diploïde", "haploïdes"]
+        show: "Parents *2n* → méiose → gamètes *n* (haploïdes)"
+      - say: "À la fécondation, les gamètes fusionnent en un œuf, le *zygote*, de nouveau diploïde. Puis, par mitoses successives, un nouvel organisme diploïde se forme."
+        mark: ["zygote", "mitoses successives"]
+        show: "Fécondation → *zygote 2n* → *mitoses* → nouvel organisme 2n"
+
+  - kind: compare
+    title: "Mitose vs méiose"
+    ref: "S1-2 p.42"
+    header: ["", "Mitose", "Méiose"]
+    beats:
+      - say: "Le duel."
+      - say: "Résultat : une cellule 2n donne deux cellules 2n en mitose ; quatre cellules n en méiose."
+        show: "Résultat | 2n → *2 × 2n* | 2n → *4 × n*"
+      - say: "Point commun : les deux commencent par une réplication de l'ADN."
+        show: "Départ | réplication de l'ADN | réplication de l'ADN"
+      - say: "Séparation : la mitose sépare les chromatides sœurs. La méiose se fait en deux temps : d'abord les chromosomes homologues, en méiose 1, puis les chromatides sœurs, en méiose 2."
+        show: "Séparation | *chromatides sœurs* | méiose 1 : *homologues* · méiose 2 : *chromatides sœurs*"
+
+  - kind: figure
+    title: "Le défi et l'astuce de la méiose 1"
+    ref: "S1-2 p.43"
+    fig: "S1-2:43b"
+    trap: "Méiose 1 : homologues appariés via des chiasmas ; UN SEUL kinétochore attaché par chromosome."
+    beats:
+      - say: "Le défi de la méiose 1 : répartir justement les chromosomes homologues, pour retrouver une copie de chacun des 23 chromosomes de part et d'autre."
+        show: "Défi : une copie de chacun des *23* chromosomes de chaque côté"
+      - say: "L'astuce : les chromosomes homologues s'attachent, s'apparient, l'un à l'autre, via des *chiasmas*. Des microtubules se lient ensuite à chacun des homologues, avec un seul kinétochore attaché par chromosome, puis les séparent et les entraînent de part et d'autre."
+        mark: ["chiasmas", "un seul"]
+        show: "Homologues appariés par des *chiasmas* · *1 seul* kinétochore attaché par chromosome · séparation"
+
+  - kind: figure
+    title: "La méiose 2 et les étapes"
+    ref: "S1-2 p.44"
+    fig: "S1-2:44b"
+    trap: "Méiose 2 ≈ mitose : séparation des chromatides sœurs."
+    beats:
+      - say: "En méiose 2, les chromatides sœurs sont séparées par un processus comparable à une mitose : des microtubules s'attachent de part et d'autre au kinétochore de chaque chromatide sœur, puis les entraînent vers les pôles opposés."
+        show: "Méiose 2 ≈ *mitose* : chromatides sœurs séparées"
+      - say: "Les étapes : une interphase, avec la réplication de l'ADN. Puis la méiose 1 : prophase 1, métaphase 1, anaphase 1, télophase 1 et cytocinèse. Puis la méiose 2 : prophase 2, métaphase 2, anaphase 2, télophase 2 et cytocinèse."
+        mark: ["Interphase", "Méiose 1", "Méiose 2"]
+        show: "Interphase (réplication) → méiose 1 (P1, M1, A1, T1 + cytocinèse) → méiose 2 (P2, M2, A2, T2 + cytocinèse)"
+
+  - kind: trap
+    title: "Homologues d'abord, sœurs ensuite"
+    ref: "S1-2 p.42-44"
+    trap: "Méiose 1 = homologues ; méiose 2 = chromatides sœurs ; 4 cellules n."
+    beats:
+      - say: "Le piège central de la méiose."
+      - say: "“La méiose 1 sépare les chromatides sœurs” : faux. La méiose 1 sépare les homologues, la méiose 2 les chromatides sœurs."
+        show: "✗ méiose 1 = sœurs  →  ✓ méiose 1 = *homologues* · méiose 2 = *sœurs*"
+      - say: "“La méiose donne deux cellules haploïdes” : faux, quatre cellules haploïdes."
+        show: "✓ Méiose : *4* cellules *n*"
+      - say: "“La méiose ne commence pas par une réplication” : faux, mitose et méiose commencent toutes les deux par une réplication."
+        show: "✓ Les deux commencent par une *réplication*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.41-44"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Le zygote est haploïde."
+      - "La reproduction asexuée produit des descendants génétiquement identiques."
+      - "La méiose 2 sépare les chromosomes homologues."
+      - "L'hydre est un exemple de reproduction sexuée."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Le zygote est diploïde, la méiose 2 sépare les chromatides sœurs, et l'hydre bourgeonne : reproduction asexuée."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 26 : la prophase 1"
+    ref: "S1-2 p.45"
+    big: "5 stades"
+    beats:
+      - say: "Prochain épisode : la prophase 1, ses cinq stades aux noms grecs, et le crossing-over découvert à l'UCL en 1909."
+        show: "Leptotène · zygotène · *pachytène* · diplotène · diacinèse"
+
+recap:
+  - "Chapitre IX : 1. Reproduction asexuée et sexuée ; 2. Cycles sexués ; 3. Méiose vs mitose ; 4. Mécanisme de la méiose ; 5. Étapes de la méiose ; 6. Méiose et diversité génétique ; 7. Défaut de méiose et aneuploïdie."
+  - "Asexuée : un seul parent ; progéniture génétiquement identique (entre eux et au parent) ; plus simple (mitose), plus rapide. Sexuée : deux parents (mélange de deux génomes) ; progéniture génétiquement différente ; brassage génétique (moteur de l'évolution). Asexuée chez procaryotes, protistes, végétaux (multiplication végétative), animaux inférieurs (ex. hydre, bourgeons)."
+  - "Cycle de développement sexué : parents diploïdes (2n) ; cellules germinales (gamètes) subissant au cours de la méiose une réduction de moitié du matériel génétique ⇒ haploïdes (n) ; fécondation : fusion des gamètes en un œuf (zygote) diploïde ; mitoses successives → nouvel organisme diploïde."
+  - "Mitose : 2n → deux cellules 2n ; méiose : 2n → quatre cellules n ; les deux commencent par une réplication ; mitose : séparation des chromatides sœurs ; méiose : d'abord les homologues (méiose 1), ensuite les chromatides sœurs (méiose 2)."
+  - "Défi de la méiose 1 : juste répartition des homologues (une copie de chacun des 23 chromosomes de part et d'autre). Astuce : homologues appariés via des chiasmas ; microtubules liés à chacun (un seul kinétochore attaché par chromosome) ; séparation. Méiose 2 : processus comparable à une mitose (microtubules attachés au kinétochore de chaque chromatide sœur)."
+  - "Étapes : interphase (réplication) ; méiose 1 : prophase 1, métaphase 1, anaphase 1, télophase 1 et cytocinèse ; méiose 2 : prophase 2, métaphase 2, anaphase 2, télophase 2 et cytocinèse."
+
+traps:
+  - ["Asexuée = descendants différents", "Asexuée = identiques ; sexuée = différents", "p.41h"]
+  - ["Gamètes diploïdes", "Gamètes haploïdes (n) ; zygote diploïde (2n)", "p.42h"]
+  - ["Méiose → 2 cellules", "4 cellules n", "p.42b"]
+  - ["Méiose 1 = chromatides sœurs", "Méiose 1 = homologues ; méiose 2 = chromatides sœurs", "p.42b"]
+  - ["Méiose 1 : deux kinétochores attachés par chromosome", "Un seul kinétochore attaché par chromosome", "p.43b"]
+
+mnemonics:
+  - ["Méiose 1 / méiose 2", "« 1 = les couples se séparent (homologues), 2 = les jumelles se séparent (sœurs) »", "Méiose 1 : homologues · méiose 2 : chromatides sœurs"]
+  - ["Asexuée chez…", "« Pro Pro Vé An » : PROcaryotes, PROtistes, VÉgétaux, ANimaux inférieurs", "Procaryotes · protistes · végétaux · animaux inférieurs (hydre)"]
+
+quiz:
+  - q: "Reproduction :"
+    props:
+      - ["La reproduction asexuée n'implique qu'un seul parent.", true, "p.41h."]
+      - ["La reproduction sexuée permet un brassage génétique.", true, "Moteur de l'évolution."]
+      - ["Les végétaux peuvent se reproduire par multiplication végétative.", true, "p.41b."]
+      - ["La reproduction asexuée est plus lente que la sexuée.", false, "Plus simple et plus rapide."]
+      - ["L'hydre se reproduit par bourgeonnement.", true, "p.41b."]
+  - q: "Cycle sexué :"
+    props:
+      - ["Les parents sont diploïdes.", true, "2n."]
+      - ["Les gamètes sont haploïdes.", true, "n."]
+      - ["Le zygote est haploïde.", false, "Il est diploïde."]
+      - ["Le nouvel organisme se forme par mitoses successives à partir du zygote.", true, "p.42h."]
+      - ["La méiose réduit de moitié la quantité de matériel génétique.", true, "p.42h."]
+  - q: "Mitose et méiose :"
+    props:
+      - ["La méiose produit quatre cellules haploïdes à partir d'une cellule 2n.", true, "p.42b."]
+      - ["La mitose et la méiose commencent par une réplication de l'ADN.", true, "p.42b."]
+      - ["La méiose 1 sépare les chromatides sœurs.", false, "Elle sépare les homologues."]
+      - ["Les homologues s'apparient via des chiasmas.", true, "p.43b."]
+      - ["La méiose 2 ressemble à une mitose.", true, "p.44h."]
+
+coverage:
+  - ["S1-2", "40b", "Sommaire du chapitre IX (7 points)", 2]
+  - ["S1-2", "41h", "Reproduction asexuée vs sexuée", 3]
+  - ["S1-2", "41b", "Reproduction asexuée : procaryotes, protistes, végétaux, hydre", 4]
+  - ["S1-2", "42h", "Cycle de développement sexué (2n, n, zygote)", 5]
+  - ["S1-2", "42b", "Méiose vs mitose", 6]
+  - ["S1-2", "43h", "Le défi de la méiose 1", 7]
+  - ["S1-2", "43b", "L'astuce de la méiose 1 (chiasmas, un kinétochore)", 7]
+  - ["S1-2", "44h", "Mécanisme de la méiose 2", 8]
+  - ["S1-2", "44b", "Étapes de la méiose", 8]

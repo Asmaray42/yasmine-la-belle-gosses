@@ -1,0 +1,971 @@
+1
+00:00:00,300 --> 00:00:01,671
+Le diamant et ta peau ont un
+
+2
+00:00:01,671 --> 00:00:02,945
+point commun : le carbone.
+
+3
+00:00:03,085 --> 00:00:04,583
+Le cours le dit : l'atome de
+
+4
+00:00:04,583 --> 00:00:06,349
+carbone constitue la charpente de
+
+5
+00:00:06,349 --> 00:00:07,686
+la majorité des molécules
+
+6
+00:00:07,686 --> 00:00:08,328
+biologiques.
+
+7
+00:00:08,728 --> 00:00:09,964
+Aujourd'hui : pourquoi le
+
+8
+00:00:09,964 --> 00:00:11,596
+carbone, les groupes fonctionnels
+
+9
+00:00:11,596 --> 00:00:13,129
+qui lui donnent ses propriétés,
+
+10
+00:00:13,129 --> 00:00:14,266
+et le grand tableau des
+
+11
+00:00:14,266 --> 00:00:15,007
+macromolécules.
+
+12
+00:00:15,567 --> 00:00:17,164
+Troisième point du chapitre deux
+
+13
+00:00:17,164 --> 00:00:18,312
+: la chimie du carbone.
+
+14
+00:00:18,452 --> 00:00:20,353
+Le carbone constitue la charpente
+
+15
+00:00:20,353 --> 00:00:21,965
+de la majorité des molécules
+
+16
+00:00:21,965 --> 00:00:22,656
+biologiques.
+
+17
+00:00:23,056 --> 00:00:25,018
+Il s'associe à cinq autres atomes
+
+18
+00:00:25,018 --> 00:00:26,504
+: l'hydrogène, l'oxygène,
+
+19
+00:00:26,504 --> 00:00:27,812
+l'azote, le phosphore,
+
+20
+00:00:27,812 --> 00:00:29,476
+noté phosphate sur la diapo,
+
+21
+00:00:29,476 --> 00:00:30,249
+et le soufre.
+
+22
+00:00:30,809 --> 00:00:32,230
+Le carbone est tétravalent :
+
+23
+00:00:32,230 --> 00:00:33,499
+il forme quatre liaisons.
+
+24
+00:00:33,899 --> 00:00:35,178
+Ça lui permet de former des
+
+25
+00:00:35,178 --> 00:00:36,551
+chaînes simples , des chaînes
+
+26
+00:00:36,551 --> 00:00:38,066
+ramifiées , et des structures en
+
+27
+00:00:38,066 --> 00:00:38,445
+anneau .
+
+28
+00:00:38,845 --> 00:00:40,268
+Et quand le carbone forme un
+
+29
+00:00:40,268 --> 00:00:41,794
+cristal, ça donne… le diamant.
+
+30
+00:00:42,354 --> 00:00:43,917
+Les hydrocarbures sont formés
+
+31
+00:00:43,917 --> 00:00:45,210
+uniquement de carbone et
+
+32
+00:00:45,210 --> 00:00:45,857
+d'hydrogène.
+
+33
+00:00:46,257 --> 00:00:47,895
+Leurs liaisons C H sont riches en
+
+34
+00:00:47,895 --> 00:00:49,533
+énergie : ce sont les carburants.
+
+35
+00:00:49,933 --> 00:00:51,644
+Et comme les liaisons C C et C H
+
+36
+00:00:51,644 --> 00:00:53,033
+sont équilibrées, ils sont
+
+37
+00:00:53,033 --> 00:00:53,621
+apolaires .
+
+38
+00:00:53,761 --> 00:00:54,860
+Exemple du cours :
+
+39
+00:00:54,860 --> 00:00:56,507
+le propane, C3H8.
+
+40
+00:00:57,067 --> 00:00:58,764
+Sur le squelette C H se greffent
+
+41
+00:00:58,764 --> 00:01:00,143
+des groupes fonctionnels ,
+
+42
+00:01:00,143 --> 00:01:01,840
+qui impliquent d'autres atomes :
+
+43
+00:01:01,840 --> 00:01:03,060
+oxygène, azote, soufre,
+
+44
+00:01:03,060 --> 00:01:03,590
+phosphore.
+
+45
+00:01:03,730 --> 00:01:05,171
+Le cours en présente six.
+
+46
+00:01:05,571 --> 00:01:06,596
+Un : l' hydroxyle ,
+
+47
+00:01:06,596 --> 00:01:07,406
+ou alcool, O H.
+
+48
+00:01:07,546 --> 00:01:08,900
+Exemple : l'éthanol.
+
+49
+00:01:09,040 --> 00:01:10,438
+Présent dans les glucides,
+
+50
+00:01:10,438 --> 00:01:11,783
+les protéines, les acides
+
+51
+00:01:11,783 --> 00:01:13,181
+nucléiques et les lipides.
+
+52
+00:01:13,321 --> 00:01:14,748
+Il est polaire, attire les
+
+53
+00:01:14,748 --> 00:01:16,558
+molécules d'eau, et facilite donc
+
+54
+00:01:16,558 --> 00:01:18,039
+la dissolution des composés
+
+55
+00:01:18,039 --> 00:01:18,643
+organiques.
+
+56
+00:01:19,043 --> 00:01:20,104
+Deux : le carbonyle ,
+
+57
+00:01:20,104 --> 00:01:21,065
+C double liaison O.
+
+58
+00:01:21,205 --> 00:01:22,708
+Exemple : l'acétaldéhyde.
+
+59
+00:01:22,848 --> 00:01:24,515
+Présent dans les glucides et les
+
+60
+00:01:24,515 --> 00:01:25,453
+acides nucléiques.
+
+61
+00:01:25,593 --> 00:01:26,866
+Il est fortement polaire.
+
+62
+00:01:27,266 --> 00:01:28,590
+Trois : le carboxyle ,
+
+63
+00:01:28,590 --> 00:01:29,072
+C O O H.
+
+64
+00:01:29,212 --> 00:01:30,748
+Exemple : l'acide acétique.
+
+65
+00:01:30,888 --> 00:01:32,441
+Présent dans les protéines et les
+
+66
+00:01:32,441 --> 00:01:32,818
+lipides.
+
+67
+00:01:32,958 --> 00:01:34,516
+C'est une source de protons ,
+
+68
+00:01:34,516 --> 00:01:36,183
+de H plus : il a des propriétés
+
+69
+00:01:36,183 --> 00:01:37,903
+acides , et devient C O O moins.
+
+70
+00:01:38,463 --> 00:01:39,400
+Quatre : l' amine ,
+
+71
+00:01:39,400 --> 00:01:39,844
+N H 2.
+
+72
+00:01:39,984 --> 00:01:41,133
+Exemple : l'alanine.
+
+73
+00:01:41,273 --> 00:01:42,797
+Présente dans les protéines et
+
+74
+00:01:42,797 --> 00:01:43,915
+les acides nucléiques.
+
+75
+00:01:44,055 --> 00:01:45,741
+Elle peut accepter des H plus :
+
+76
+00:01:45,741 --> 00:01:47,535
+c'est une base , souvent ionisée,
+
+77
+00:01:47,535 --> 00:01:48,568
+de charge plus un :
+
+78
+00:01:48,568 --> 00:01:49,384
+N H 3 plus.
+
+79
+00:01:49,784 --> 00:01:51,091
+Cinq : le sulfhydryle ,
+
+80
+00:01:51,091 --> 00:01:51,943
+ou thiol , S H.
+
+81
+00:01:52,083 --> 00:01:53,448
+Exemple : la cystéine.
+
+82
+00:01:53,588 --> 00:01:54,778
+Présent dans les protéines.
+
+83
+00:01:54,918 --> 00:01:56,455
+Deux thiols peuvent se combiner
+
+84
+00:01:56,455 --> 00:01:57,595
+pour former des liens :
+
+85
+00:01:57,595 --> 00:01:58,636
+les ponts disulfure .
+
+86
+00:01:59,036 --> 00:02:00,030
+Six : le phosphate ,
+
+87
+00:02:00,030 --> 00:02:01,174
+O P O 3 deux moins.
+
+88
+00:02:01,314 --> 00:02:03,231
+Exemple : le glycérol phosphate.
+
+89
+00:02:03,371 --> 00:02:04,497
+Présent dans les acides
+
+90
+00:02:04,497 --> 00:02:05,036
+nucléiques.
+
+91
+00:02:05,176 --> 00:02:06,604
+Il forme un ion de charge
+
+92
+00:02:06,604 --> 00:02:08,431
+négative, et permet le transfert
+
+93
+00:02:08,431 --> 00:02:09,916
+d'énergie d'une molécule à
+
+94
+00:02:09,916 --> 00:02:10,372
+l'autre.
+
+95
+00:02:10,932 --> 00:02:12,515
+Une personnalité par groupe.
+
+96
+00:02:12,915 --> 00:02:13,813
+L'hydroxyle, O H :
+
+97
+00:02:13,813 --> 00:02:15,311
+“Oh, de l'eau !” Il attire l'eau
+
+98
+00:02:15,311 --> 00:02:16,310
+et aide à dissoudre.
+
+99
+00:02:16,710 --> 00:02:18,427
+Le carbonyle, C double liaison O
+
+100
+00:02:18,427 --> 00:02:19,768
+: le plus polaire du lot,
+
+101
+00:02:19,768 --> 00:02:20,734
+“fortement polaire”.
+
+102
+00:02:21,134 --> 00:02:22,400
+Le carboxyle, C O O H,
+
+103
+00:02:22,400 --> 00:02:24,414
+est généreux : il donne son H plus.
+
+104
+00:02:24,554 --> 00:02:25,511
+Il est acide.
+
+105
+00:02:25,911 --> 00:02:27,638
+L'amine, N H 2, est gourmande :
+
+106
+00:02:27,638 --> 00:02:28,705
+elle prend un H plus.
+
+107
+00:02:28,845 --> 00:02:29,759
+C'est une base.
+
+108
+00:02:30,159 --> 00:02:31,995
+Le thiol, S H, est un soudeur :
+
+109
+00:02:31,995 --> 00:02:33,771
+deux thiols se soudent en pont
+
+110
+00:02:33,771 --> 00:02:34,364
+disulfure.
+
+111
+00:02:34,764 --> 00:02:35,967
+Et le phosphate propulse
+
+112
+00:02:35,967 --> 00:02:37,270
+l'énergie d'une molécule à
+
+113
+00:02:37,270 --> 00:02:37,672
+l'autre.
+
+114
+00:02:38,232 --> 00:02:39,896
+Quiz : quel groupe est une source
+
+115
+00:02:39,896 --> 00:02:41,461
+de protons, avec des propriétés
+
+116
+00:02:41,461 --> 00:02:41,864
+acides ?
+
+117
+00:02:46,264 --> 00:02:47,924
+Le carboxyle : il donne son H
+
+118
+00:02:47,924 --> 00:02:49,527
+plus et devient C O O moins.
+
+119
+00:02:49,667 --> 00:02:51,233
+L'amine, elle, accepte les H plus
+
+120
+00:02:51,233 --> 00:02:52,039
+: c'est une base.
+
+121
+00:02:52,599 --> 00:02:54,081
+Quatrième point du chapitre :
+
+122
+00:02:54,081 --> 00:02:55,051
+les macromolécules.
+
+123
+00:02:55,191 --> 00:02:56,317
+Ce sont des polymères .
+
+124
+00:02:56,717 --> 00:02:58,155
+Un polymère est l'assemblage
+
+125
+00:02:58,155 --> 00:02:59,542
+d'une succession de petites
+
+126
+00:02:59,542 --> 00:03:01,237
+sous-unités chimiques similaires,
+
+127
+00:03:01,237 --> 00:03:02,007
+les monomères .
+
+128
+00:03:02,147 --> 00:03:03,653
+Exemple du cours : l'amidon.
+
+129
+00:03:04,213 --> 00:03:05,411
+Deux réactions opposées.
+
+130
+00:03:05,551 --> 00:03:06,598
+La déshydratation :
+
+131
+00:03:06,598 --> 00:03:08,415
+c'est la réaction d' assemblage ,
+
+132
+00:03:08,415 --> 00:03:09,847
+la synthèse des monomères,
+
+133
+00:03:09,847 --> 00:03:10,838
+la polymérisation.
+
+134
+00:03:11,238 --> 00:03:12,772
+L' hydrolyse : c'est la réaction
+
+135
+00:03:12,772 --> 00:03:14,210
+de rupture de la liaison entre
+
+136
+00:03:14,210 --> 00:03:14,881
+les monomères.
+
+137
+00:03:15,281 --> 00:03:16,452
+Astuce : déshydratation,
+
+138
+00:03:16,452 --> 00:03:18,012
+on retire de l'eau pour coller ;
+
+139
+00:03:18,012 --> 00:03:19,476
+hydrolyse, l'eau vient couper.
+
+140
+00:03:20,036 --> 00:03:20,819
+Le piège.
+
+141
+00:03:21,219 --> 00:03:22,281
+“L'hydrolyse permet la
+
+142
+00:03:22,281 --> 00:03:23,393
+polymérisation” : faux.
+
+143
+00:03:23,793 --> 00:03:24,797
+La polymérisation,
+
+144
+00:03:24,797 --> 00:03:26,134
+c'est la déshydratation.
+
+145
+00:03:26,274 --> 00:03:27,582
+L'hydrolyse rompt la liaison
+
+146
+00:03:27,582 --> 00:03:28,330
+entre monomères.
+
+147
+00:03:28,890 --> 00:03:30,694
+Voici le tableau-clé du chapitre
+
+148
+00:03:30,694 --> 00:03:31,765
+: quatre groupes de
+
+149
+00:03:31,765 --> 00:03:33,174
+macromolécules, avec leur
+
+150
+00:03:33,174 --> 00:03:34,922
+sous-unité, leur fonction et un
+
+151
+00:03:34,922 --> 00:03:35,373
+exemple.
+
+152
+00:03:35,773 --> 00:03:37,027
+Les glucides : amidon et
+
+153
+00:03:37,027 --> 00:03:38,489
+glycogène, faits de glucose,
+
+154
+00:03:38,489 --> 00:03:39,900
+pour le stockage d'énergie,
+
+155
+00:03:39,900 --> 00:03:41,101
+comme dans les patates.
+
+156
+00:03:41,241 --> 00:03:42,816
+La cellulose, faite de glucose,
+
+157
+00:03:42,816 --> 00:03:44,390
+pour les parois cellulaires des
+
+158
+00:03:44,390 --> 00:03:46,117
+plantes, comme les fils de céleri.
+
+159
+00:03:46,257 --> 00:03:47,869
+La chitine, faite de glucose
+
+160
+00:03:47,869 --> 00:03:49,135
+modifié, comme support
+
+161
+00:03:49,135 --> 00:03:51,322
+structural, dans la carapace du crabe.
+
+162
+00:03:51,722 --> 00:03:52,926
+Les acides nucléiques :
+
+163
+00:03:52,926 --> 00:03:54,497
+l'ADN, fait de nucléotides,
+
+164
+00:03:54,497 --> 00:03:55,544
+porte l'information,
+
+165
+00:03:55,544 --> 00:03:56,643
+dans les chromosomes.
+
+166
+00:03:56,783 --> 00:03:58,331
+L'ARN, fait de nucléotides,
+
+167
+00:03:58,331 --> 00:03:59,466
+sert à l'expression de
+
+168
+00:03:59,466 --> 00:04:00,962
+l'information, comme l'ARN
+
+169
+00:04:00,962 --> 00:04:01,426
+messager.
+
+170
+00:04:01,826 --> 00:04:03,450
+Les protéines , faites d'acides
+
+171
+00:04:03,450 --> 00:04:04,550
+aminés : de fonction,
+
+172
+00:04:04,550 --> 00:04:06,278
+pour la catalyse et le transport,
+
+173
+00:04:06,278 --> 00:04:07,378
+comme l'hémoglobine ;
+
+174
+00:04:07,378 --> 00:04:08,950
+de structure, pour le support,
+
+175
+00:04:08,950 --> 00:04:09,893
+comme les cheveux.
+
+176
+00:04:10,293 --> 00:04:12,007
+Les lipides : les triglycérides,
+
+177
+00:04:12,007 --> 00:04:13,292
+glycérol et acides gras,
+
+178
+00:04:13,292 --> 00:04:14,739
+pour le stockage d'énergie,
+
+179
+00:04:14,739 --> 00:04:16,131
+comme le beurre et l'huile
+
+180
+00:04:16,131 --> 00:04:16,560
+d'olive.
+
+181
+00:04:16,700 --> 00:04:17,688
+Les phospholipides,
+
+182
+00:04:17,688 --> 00:04:19,353
+glycérol, acides gras et groupes
+
+183
+00:04:19,353 --> 00:04:20,810
+polaires, pour les membranes
+
+184
+00:04:20,810 --> 00:04:21,902
+cellulaires, comme la
+
+185
+00:04:21,902 --> 00:04:22,943
+phosphatidylcholine.
+
+186
+00:04:23,083 --> 00:04:24,103
+Les prostaglandines,
+
+187
+00:04:24,103 --> 00:04:25,378
+cycles carbonés et queues
+
+188
+00:04:25,378 --> 00:04:26,959
+apolaires, messagers chimiques.
+
+189
+00:04:27,099 --> 00:04:28,688
+Les stéroïdes, cycles carbonés,
+
+190
+00:04:28,688 --> 00:04:29,969
+pour les membranes et les
+
+191
+00:04:29,969 --> 00:04:31,661
+hormones, comme le cholestérol et
+
+192
+00:04:31,661 --> 00:04:32,276
+l'œstrogène.
+
+193
+00:04:32,416 --> 00:04:33,665
+Et les terpènes, chaînes
+
+194
+00:04:33,665 --> 00:04:35,277
+carbonées, pigments et défense,
+
+195
+00:04:35,277 --> 00:04:36,838
+comme le carotène et le latex.
+
+196
+00:04:37,398 --> 00:04:38,327
+En version lisible,
+
+197
+00:04:38,327 --> 00:04:39,109
+ligne par ligne.
+
+198
+00:04:39,509 --> 00:04:40,223
+Glucides.
+
+199
+00:04:43,543 --> 00:04:44,642
+Acides nucléiques.
+
+200
+00:04:46,502 --> 00:04:47,263
+Protéines.
+
+201
+00:04:49,123 --> 00:04:49,921
+Lipides.
+
+202
+00:04:56,621 --> 00:04:58,128
+Les cinq lignes de lipides,
+
+203
+00:04:58,128 --> 00:04:59,915
+dans l'ordre : “Très peu de profs
+
+204
+00:04:59,915 --> 00:05:01,088
+stressés sont ternes.”
+
+205
+00:05:01,088 --> 00:05:02,763
+Triglycérides, phospholipides,
+
+206
+00:05:02,763 --> 00:05:04,271
+prostaglandines, stéroïdes,
+
+207
+00:05:04,271 --> 00:05:04,773
+terpènes.
+
+208
+00:05:05,173 --> 00:05:06,382
+Et pour les glucides :
+
+209
+00:05:06,382 --> 00:05:07,866
+deux fonctions de stockage,
+
+210
+00:05:07,866 --> 00:05:09,240
+avec amidon et glycogène,
+
+211
+00:05:09,240 --> 00:05:10,394
+et deux de structure,
+
+212
+00:05:10,394 --> 00:05:11,823
+avec cellulose et chitine.
+
+213
+00:05:12,383 --> 00:05:14,155
+Dernier quiz : quelle association
+
+214
+00:05:14,155 --> 00:05:14,800
+est exacte ?
+
+215
+00:05:20,200 --> 00:05:20,993
+Réponse A.
+
+216
+00:05:21,133 --> 00:05:22,463
+La cellulose est faite de
+
+217
+00:05:22,463 --> 00:05:23,740
+glucose, l'ARN sert à
+
+218
+00:05:23,740 --> 00:05:25,336
+l'expression de l'information,
+
+219
+00:05:25,336 --> 00:05:26,932
+et les stéroïdes sont faits de
+
+220
+00:05:26,932 --> 00:05:27,783
+cycles carbonés.
+
+221
+00:05:28,343 --> 00:05:29,356
+On récapitule.
+
+222
+00:05:29,756 --> 00:05:30,959
+Le carbone, tétravalent,
+
+223
+00:05:30,959 --> 00:05:32,563
+forme la charpente des molécules
+
+224
+00:05:32,563 --> 00:05:34,067
+biologiques : chaînes simples,
+
+225
+00:05:34,067 --> 00:05:35,020
+ramifiées, anneaux.
+
+226
+00:05:35,420 --> 00:05:37,201
+Hydrocarbures : seulement C et H,
+
+227
+00:05:37,201 --> 00:05:38,766
+riches en énergie, apolaires.
+
+228
+00:05:39,166 --> 00:05:40,673
+Six groupes fonctionnels :
+
+229
+00:05:40,673 --> 00:05:41,890
+hydroxyle, carbonyle,
+
+230
+00:05:41,890 --> 00:05:43,686
+carboxyle acide, amine basique,
+
+231
+00:05:43,686 --> 00:05:45,135
+thiol et ponts disulfure,
+
+232
+00:05:45,135 --> 00:05:47,047
+phosphate et transfert d'énergie.
+
+233
+00:05:47,447 --> 00:05:48,948
+Déshydratation, on assemble ;
+
+234
+00:05:48,948 --> 00:05:49,983
+hydrolyse, on rompt.
+
+235
+00:05:50,123 --> 00:05:51,212
+Et quatre familles :
+
+236
+00:05:51,212 --> 00:05:52,737
+glucides, acides nucléiques,
+
+237
+00:05:52,737 --> 00:05:53,771
+protéines, lipides.
+
+238
+00:05:54,331 --> 00:05:55,226
+Prochain épisode :
+
+239
+00:05:55,226 --> 00:05:55,872
+les glucides.
+
+240
+00:05:56,012 --> 00:05:57,292
+Et une seule lettre grecque
+
+241
+00:05:57,292 --> 00:05:58,808
+sépare l'amidon de la cellulose.
+
+242
+00:05:58,948 --> 00:05:59,674
+Laquelle ?
+
+243
+00:05:59,814 --> 00:06:01,370
+Réponse dans l'épisode cinq.
