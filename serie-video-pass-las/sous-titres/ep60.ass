@@ -1,0 +1,208 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une même substance n'a pas le
+Dialogue: 0,0:00:01.82,0:00:03.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}même effet selon la semaine de
+Dialogue: 0,0:00:03.39,0:00:03.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grossesse.
+Dialogue: 0,0:00:04.06,0:00:05.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est tout le principe de la
+Dialogue: 0,0:00:05.42,0:00:06.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}période critique.
+Dialogue: 0,0:00:06.64,0:00:08.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les agents
+Dialogue: 0,0:00:08.05,0:00:09.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tératogènes, les trois principes
+Dialogue: 0,0:00:09.84,0:00:11.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de tératologie, et trois
+Dialogue: 0,0:00:11.19,0:00:11.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}médicaments.
+Dialogue: 0,0:00:12.43,0:00:14.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Beaucoup de substances auxquelles
+Dialogue: 0,0:00:14.15,0:00:15.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la mère s'expose peuvent passer
+Dialogue: 0,0:00:15.77,0:00:17.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la barrière placentaire et
+Dialogue: 0,0:00:17.13,0:00:18.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atteindre l'embryon ou le fœtus.
+Dialogue: 0,0:00:19.21,0:00:20.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certaines sont {\c&H66D1FF&}tératogènes{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:20.63,0:00:22.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du grec {\c&H66D1FF&}teras{\c&HFFFFFF&} : elles peuvent
+Dialogue: 0,0:00:22.10,0:00:23.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entraîner des anomalies du
+Dialogue: 0,0:00:23.42,0:00:24.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement.
+Dialogue: 0,0:00:24.27,0:00:25.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours cite l'alcool,
+Dialogue: 0,0:00:25.36,0:00:26.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les drogues et les médicaments.
+Dialogue: 0,0:00:27.24,0:00:28.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une attention particulière est
+Dialogue: 0,0:00:28.96,0:00:30.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}portée aux médicaments,
+Dialogue: 0,0:00:30.28,0:00:31.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour lesquels des {\c&H66D1FF&}tests{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:00:31.78,0:00:32.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}tératogénicité{\c&HFFFFFF&} sont
+Dialogue: 0,0:00:32.87,0:00:34.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}systématiquement effectués :
+Dialogue: 0,0:00:34.48,0:00:36.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tests sur animaux et études
+Dialogue: 0,0:00:36.03,0:00:37.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épidémiologiques.
+Dialogue: 0,0:00:37.56,0:00:38.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Premier principe :
+Dialogue: 0,0:00:38.51,0:00:39.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}période{\c&HFFFFFF&} {\c&H66D1FF&}critique{\c&HFFFFFF&} .
+Dialogue: 0,0:00:39.76,0:00:41.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une structure embryonnaire n'est
+Dialogue: 0,0:00:41.49,0:00:43.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}généralement sensible aux agents
+Dialogue: 0,0:00:43.22,0:00:44.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tératogènes que pendant une
+Dialogue: 0,0:00:44.68,0:00:45.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}période critique du
+Dialogue: 0,0:00:45.71,0:00:47.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement, qui correspond à
+Dialogue: 0,0:00:47.39,0:00:49.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sa phase active de {\c&H66D1FF&}morphogenèse{\c&HFFFFFF&} .
+Dialogue: 0,0:00:49.57,0:00:51.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le plus souvent, cette période se
+Dialogue: 0,0:00:51.12,0:00:52.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}situe durant les {\c&H66D1FF&}huit{\c&HFFFFFF&} {\c&H66D1FF&}premières{\c&HFFFFFF&}
+Dialogue: 0,0:00:52.57,0:00:53.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}semaines{\c&HFFFFFF&} .
+Dialogue: 0,0:00:53.60,0:00:55.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Conséquence : un même agent peut
+Dialogue: 0,0:00:55.38,0:00:56.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avoir différents effets
+Dialogue: 0,0:00:56.65,0:00:58.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tératogènes selon la période à
+Dialogue: 0,0:00:58.32,0:01:00.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}laquelle l'embryon y est exposé.
+Dialogue: 0,0:01:00.49,0:01:01.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'exemple du cours :
+Dialogue: 0,0:01:01.72,0:01:03.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}vismodégib{\c&HFFFFFF&} , un inhibiteur de
+Dialogue: 0,0:01:03.68,0:01:05.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la signalisation {\c&H66D1FF&}SHH{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:05.15,0:01:07.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utilisé dans le traitement d'un
+Dialogue: 0,0:01:07.05,0:01:08.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cancer de la peau.
+Dialogue: 0,0:01:08.55,0:01:10.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur le graphique, le pourcentage
+Dialogue: 0,0:01:10.34,0:01:12.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de souriceaux affectés est donné
+Dialogue: 0,0:01:12.12,0:01:13.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en fonction du jour gestationnel
+Dialogue: 0,0:01:13.90,0:01:15.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'exposition, entre les jours
+Dialogue: 0,0:01:15.51,0:01:16.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept et dix :
+Dialogue: 0,0:01:16.38,0:01:18.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une exposition précoce donne une
+Dialogue: 0,0:01:18.13,0:01:19.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}holoprosencéphalie{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:19.22,0:01:20.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un défaut de séparation des
+Dialogue: 0,0:01:20.70,0:01:21.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hémisphères cérébraux ;
+Dialogue: 0,0:01:22.10,0:01:23.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une exposition plus tardive donne
+Dialogue: 0,0:01:23.82,0:01:25.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}fentes{\c&HFFFFFF&} {\c&H66D1FF&}labio-palatines{\c&HFFFFFF&} .
+Dialogue: 0,0:01:25.84,0:01:26.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deuxième principe :
+Dialogue: 0,0:01:26.86,0:01:27.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}dose{\c&HFFFFFF&} {\c&H66D1FF&}critique{\c&HFFFFFF&} .
+Dialogue: 0,0:01:27.97,0:01:29.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque agent tératogène présente
+Dialogue: 0,0:01:29.69,0:01:31.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une dose à laquelle l'apparition
+Dialogue: 0,0:01:31.40,0:01:33.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des malformations est {\c&H66D1FF&}maximale{\c&HFFFFFF&} .
+Dialogue: 0,0:01:33.52,0:01:34.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En dessous de cette dose,
+Dialogue: 0,0:01:34.64,0:01:35.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il n'y a pas d'effet.
+Dialogue: 0,0:01:35.72,0:01:37.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au-dessus, l'embryon décède.
+Dialogue: 0,0:01:37.25,0:01:38.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le graphique superpose le
+Dialogue: 0,0:01:38.66,0:01:40.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pourcentage d'embryons malformés
+Dialogue: 0,0:01:40.46,0:01:42.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et celui d'embryons décédés.
+Dialogue: 0,0:01:42.60,0:01:43.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Troisième principe :
+Dialogue: 0,0:01:43.71,0:01:45.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}composante{\c&HFFFFFF&} {\c&H66D1FF&}génétique{\c&HFFFFFF&} .
+Dialogue: 0,0:01:45.24,0:01:46.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le polymorphisme propre à
+Dialogue: 0,0:01:46.68,0:01:48.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon détermine son degré de
+Dialogue: 0,0:01:48.54,0:01:50.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réponse à l'agent tératogène.
+Dialogue: 0,0:01:50.62,0:01:51.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux explications :
+Dialogue: 0,0:01:51.66,0:01:53.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des différences de {\c&H66D1FF&}sensibilité{\c&HFFFFFF&}
+Dialogue: 0,0:01:53.30,0:01:54.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}des{\c&HFFFFFF&} {\c&H66D1FF&}voies{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}signalisation{\c&HFFFFFF&}
+Dialogue: 0,0:01:54.73,0:01:55.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}affectées par l'agent,
+Dialogue: 0,0:01:55.93,0:01:57.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et des différences de {\c&H66D1FF&}vitesse{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.69,0:01:59.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}métabolisation{\c&HFFFFFF&} de l'agent,
+Dialogue: 0,0:01:59.11,0:02:00.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui le rendent inactif.
+Dialogue: 0,0:02:00.94,0:02:02.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}mycophénolate{\c&HFFFFFF&} {\c&H66D1FF&}mofétil{\c&HFFFFFF&} est un
+Dialogue: 0,0:02:02.73,0:02:03.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}immunosuppresseur{\c&HFFFFFF&} .
+Dialogue: 0,0:02:03.97,0:02:05.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est prescrit pour la
+Dialogue: 0,0:02:05.17,0:02:06.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prévention du rejet de greffe,
+Dialogue: 0,0:02:06.73,0:02:08.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rein, cœur, foie, et dans des
+Dialogue: 0,0:02:08.24,0:02:09.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maladies auto-immunes :
+Dialogue: 0,0:02:09.44,0:02:10.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lupus érythémateux,
+Dialogue: 0,0:02:10.42,0:02:11.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maladie de Crohn, psoriasis.
+Dialogue: 0,0:02:12.28,0:02:13.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mode d'action : il inhibe la
+Dialogue: 0,0:02:13.94,0:02:15.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}néosynthèse{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}nucléotides{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:15.60,0:02:16.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le d G T P.
+Dialogue: 0,0:02:16.39,0:02:18.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il réduit ainsi la prolifération
+Dialogue: 0,0:02:18.14,0:02:19.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}lymphocytes{\c&HFFFFFF&} , qui dépend
+Dialogue: 0,0:02:19.67,0:02:21.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fortement de cette néosynthèse.
+Dialogue: 0,0:02:21.92,0:02:22.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa tératogénicité :
+Dialogue: 0,0:02:22.96,0:02:24.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les principales anomalies de
+Dialogue: 0,0:02:24.51,0:02:26.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement surviennent avec
+Dialogue: 0,0:02:26.16,0:02:27.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une incidence de {\c&H66D1FF&}vingt-cinq{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&}
+Dialogue: 0,0:02:27.92,0:02:28.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cent{\c&HFFFFFF&} .
+Dialogue: 0,0:02:28.65,0:02:30.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours cite : la {\c&H66D1FF&}microtie{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:30.02,0:02:31.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des oreilles peu développées,
+Dialogue: 0,0:02:31.39,0:02:32.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l' {\c&H66D1FF&}anotie{\c&HFFFFFF&} , l'absence
+Dialogue: 0,0:02:32.53,0:02:33.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'oreille.
+Dialogue: 0,0:02:33.40,0:02:34.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}fente{\c&HFFFFFF&} {\c&H66D1FF&}labiale{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:34.37,0:02:35.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec ou sans fente palatine.
+Dialogue: 0,0:02:36.28,0:02:37.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et des anomalies oculaires :
+Dialogue: 0,0:02:37.71,0:02:39.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}anophtalmie{\c&HFFFFFF&} et {\c&H66D1FF&}microphtalmie{\c&HFFFFFF&} .
+Dialogue: 0,0:02:39.65,0:02:41.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Période critique d'exposition :
+Dialogue: 0,0:02:41.41,0:02:42.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}avant{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}huitième{\c&HFFFFFF&} {\c&H66D1FF&}semaine{\c&HFFFFFF&} de
+Dialogue: 0,0:02:42.99,0:02:44.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gestation, avec un pic durant la
+Dialogue: 0,0:02:44.81,0:02:45.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}septième{\c&HFFFFFF&} {\c&H66D1FF&}semaine{\c&HFFFFFF&} .
+Dialogue: 0,0:02:46.39,0:02:48.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}warfarine{\c&HFFFFFF&} est un {\c&H66D1FF&}anticoagulant{\c&HFFFFFF&} .
+Dialogue: 0,0:02:48.52,0:02:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle est prescrite pour la
+Dialogue: 0,0:02:49.93,0:02:51.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prévention des complications
+Dialogue: 0,0:02:51.44,0:02:52.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}thrombo-emboliques,
+Dialogue: 0,0:02:52.47,0:02:53.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}arythmies cardiaques,
+Dialogue: 0,0:02:53.61,0:02:55.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}infarctus, et pour les embolies
+Dialogue: 0,0:02:55.29,0:02:56.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pulmonaires et les thromboses
+Dialogue: 0,0:02:56.86,0:02:57.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}veineuses profondes.
+Dialogue: 0,0:02:58.34,0:02:59.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mode d'action : elle inhibe le
+Dialogue: 0,0:02:59.96,0:03:01.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métabolisme de la {\c&H66D1FF&}vitamine{\c&HFFFFFF&} {\c&H66D1FF&}K{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:01.58,0:03:03.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}impliquée dans l'activation des
+Dialogue: 0,0:03:03.25,0:03:04.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteurs de coagulation.
+Dialogue: 0,0:03:05.11,0:03:06.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les anomalies de développement
+Dialogue: 0,0:03:06.76,0:03:08.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}varient selon la période
+Dialogue: 0,0:03:08.08,0:03:08.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'exposition.
+Dialogue: 0,0:03:08.93,0:03:09.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois fenêtres.
+Dialogue: 0,0:03:10.20,0:03:11.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Avant{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}semaine{\c&HFFFFFF&} {\c&H66D1FF&}quatre{\c&HFFFFFF&} de
+Dialogue: 0,0:03:11.42,0:03:12.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gestation : {\c&H66D1FF&}pas{\c&HFFFFFF&} {\c&H66D1FF&}d'effet{\c&HFFFFFF&} .
+Dialogue: 0,0:03:13.00,0:03:14.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Entre{\c&HFFFFFF&} {\c&H66D1FF&}quatre{\c&HFFFFFF&} {\c&H66D1FF&}et{\c&HFFFFFF&} {\c&H66D1FF&}sept{\c&HFFFFFF&} {\c&H66D1FF&}semaines{\c&HFFFFFF&} :
+Dialogue: 0,0:03:14.69,0:03:16.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un risque d'environ {\c&H66D1FF&}sept{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&}
+Dialogue: 0,0:03:16.27,0:03:17.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cent{\c&HFFFFFF&} de syndrome malformatif,
+Dialogue: 0,0:03:17.86,0:03:19.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}appelé warfarin embryopathy.
+Dialogue: 0,0:03:19.78,0:03:21.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce syndrome associe des
+Dialogue: 0,0:03:21.13,0:03:22.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}malformations du squelette,
+Dialogue: 0,0:03:22.70,0:03:24.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la vitamine K activant une
+Dialogue: 0,0:03:24.22,0:03:25.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hormone ostéogénique ;
+Dialogue: 0,0:03:25.64,0:03:27.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des anomalies de la face,
+Dialogue: 0,0:03:27.11,0:03:28.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec cloison nasale amincie,
+Dialogue: 0,0:03:28.75,0:03:30.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hypoplasie de la crête nasale et
+Dialogue: 0,0:03:30.63,0:03:31.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hypertélorisme ;
+Dialogue: 0,0:03:31.71,0:03:33.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une hypoplasie des dernières
+Dialogue: 0,0:03:33.06,0:03:34.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phalanges des mains et des pieds.
+Dialogue: 0,0:03:34.91,0:03:36.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Après{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}septième{\c&HFFFFFF&} {\c&H66D1FF&}semaine{\c&HFFFFFF&} :
+Dialogue: 0,0:03:36.28,0:03:37.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un risque d'environ {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&}
+Dialogue: 0,0:03:37.75,0:03:39.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cent{\c&HFFFFFF&} d'anomalies du {\c&H66D1FF&}système{\c&HFFFFFF&}
+Dialogue: 0,0:03:39.12,0:03:39.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}nerveux{\c&HFFFFFF&} {\c&H66D1FF&}central{\c&HFFFFFF&} .
+Dialogue: 0,0:03:40.55,0:03:42.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le tableau final replace ces
+Dialogue: 0,0:03:42.11,0:03:43.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atteintes sur la frise :
+Dialogue: 0,0:03:43.45,0:03:44.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}squelette, face et membres
+Dialogue: 0,0:03:44.89,0:03:46.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pendant la période embryonnaire ;
+Dialogue: 0,0:03:46.73,0:03:48.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}système nerveux central jusque
+Dialogue: 0,0:03:48.40,0:03:49.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la période fœtale.
+Dialogue: 0,0:03:50.25,0:03:50.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comparons.
+Dialogue: 0,0:03:51.36,0:03:52.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mycophénolate mofétil :
+Dialogue: 0,0:03:52.80,0:03:53.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}immunosuppresseur,
+Dialogue: 0,0:03:53.92,0:03:55.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inhibe la néosynthèse du d G T P,
+Dialogue: 0,0:03:55.98,0:03:58.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}risque avant la huitième semaine.
+Dialogue: 0,0:03:58.45,0:04:00.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Warfarine : anticoagulant,
+Dialogue: 0,0:04:00.03,0:04:01.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inhibe le métabolisme de la
+Dialogue: 0,0:04:01.68,0:04:03.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vitamine K, trois fenêtres selon
+Dialogue: 0,0:04:03.63,0:04:04.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la semaine.
+Dialogue: 0,0:04:04.86,0:04:05.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:04:06.09,0:04:07.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Au-dessus de la dose critique,
+Dialogue: 0,0:04:07.56,0:04:08.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les malformations augmentent
+Dialogue: 0,0:04:08.93,0:04:09.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encore” : faux.
+Dialogue: 0,0:04:09.76,0:04:10.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À la dose critique,
+Dialogue: 0,0:04:10.72,0:04:11.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles sont maximales ;
+Dialogue: 0,0:04:11.85,0:04:13.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au-dessus, l'embryon décède.
+Dialogue: 0,0:04:13.67,0:04:15.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La warfarine est dangereuse dès
+Dialogue: 0,0:04:15.28,0:04:16.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le premier jour” :
+Dialogue: 0,0:04:16.15,0:04:17.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}selon le cours, avant la semaine
+Dialogue: 0,0:04:17.81,0:04:18.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre, pas d'effet.
+Dialogue: 0,0:04:19.24,0:04:20.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le mycophénolate mofétil agit
+Dialogue: 0,0:04:20.95,0:04:22.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur la vitamine K” :
+Dialogue: 0,0:04:22.08,0:04:23.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est la warfarine.
+Dialogue: 0,0:04:23.69,0:04:25.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le mycophénolate inhibe la
+Dialogue: 0,0:04:25.18,0:04:26.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}néosynthèse des nucléotides.
+Dialogue: 0,0:04:27.34,0:04:28.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les trois principes :
+Dialogue: 0,0:04:28.54,0:04:29.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“P D G” — Période,
+Dialogue: 0,0:04:29.46,0:04:30.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dose, Génétique.
+Dialogue: 0,0:04:30.78,0:04:32.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chiffres de la warfarine :
+Dialogue: 0,0:04:32.28,0:04:33.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre et sept.
+Dialogue: 0,0:04:33.17,0:04:34.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avant quatre, rien ;
+Dialogue: 0,0:04:34.15,0:04:35.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de quatre à sept, sept pour cent
+Dialogue: 0,0:04:35.71,0:04:37.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; après sept, deux pour cent.
+Dialogue: 0,0:04:37.68,0:04:38.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : au-dessus de la dose
+Dialogue: 0,0:04:38.90,0:04:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}critique ?
+Dialogue: 0,0:04:43.75,0:04:44.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'embryon décède.
+Dialogue: 0,0:04:44.92,0:04:45.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À la dose critique,
+Dialogue: 0,0:04:45.90,0:04:47.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les malformations sont maximales
+Dialogue: 0,0:04:47.54,0:04:48.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; en dessous, pas d'effet.
+Dialogue: 0,0:04:49.43,0:04:51.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernier épisode de la série :
+Dialogue: 0,0:04:51.17,0:04:52.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la fécondation in vitro,
+Dialogue: 0,0:04:52.62,0:04:54.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la stimulation au transfert.

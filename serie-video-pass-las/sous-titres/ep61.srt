@@ -1,0 +1,775 @@
+1
+00:00:00,300 --> 00:00:01,972
+Une ponction récolte en moyenne
+
+2
+00:00:01,972 --> 00:00:02,673
+dix ovocytes.
+
+3
+00:00:02,813 --> 00:00:04,487
+À la fin, on en transfère un ou deux.
+
+4
+00:00:04,627 --> 00:00:06,122
+Voici tout ce qui se passe entre
+
+5
+00:00:06,122 --> 00:00:06,542
+les deux.
+
+6
+00:00:06,942 --> 00:00:08,639
+Dernier épisode de la série :
+
+7
+00:00:08,639 --> 00:00:10,337
+la fécondation in vitro et le
+
+8
+00:00:10,337 --> 00:00:11,507
+transfert d'embryon.
+
+9
+00:00:12,067 --> 00:00:14,291
+Chapitre huit : la fécondation in vitro.
+
+10
+00:00:14,431 --> 00:00:16,042
+Cinq points : indications et
+
+11
+00:00:16,042 --> 00:00:17,481
+principes, stimulation et
+
+12
+00:00:17,481 --> 00:00:18,747
+ponction, fécondation,
+
+13
+00:00:18,747 --> 00:00:20,532
+préparation des spermatozoïdes,
+
+14
+00:00:20,532 --> 00:00:21,855
+sélection et transfert.
+
+15
+00:00:22,415 --> 00:00:24,062
+La chirurgie : en cas d'obstacle
+
+16
+00:00:24,062 --> 00:00:25,657
+au niveau des trompes utérines,
+
+17
+00:00:25,657 --> 00:00:27,098
+ou d'adhérences des trompes.
+
+18
+00:00:27,498 --> 00:00:28,683
+Le traitement hormonal :
+
+19
+00:00:28,683 --> 00:00:30,215
+pour les problèmes d'ovulation.
+
+20
+00:00:30,615 --> 00:00:32,169
+L' insémination artificielle :
+
+21
+00:00:32,169 --> 00:00:33,724
+pour les troubles des rapports
+
+22
+00:00:33,724 --> 00:00:35,434
+sexuels, ou un obstacle au niveau
+
+23
+00:00:35,434 --> 00:00:36,056
+des trompes.
+
+24
+00:00:36,456 --> 00:00:38,188
+Et la fécondation in vitro avec
+
+25
+00:00:38,188 --> 00:00:39,361
+transfert d'embryon :
+
+26
+00:00:39,361 --> 00:00:41,093
+pour une stérilité inexpliquée,
+
+27
+00:00:41,093 --> 00:00:41,819
+non résolue .
+
+28
+00:00:42,379 --> 00:00:44,279
+Le schéma général de la FIVETE :
+
+29
+00:00:44,279 --> 00:00:45,586
+stimulation ovarienne,
+
+30
+00:00:45,586 --> 00:00:46,893
+ponction des ovocytes,
+
+31
+00:00:46,893 --> 00:00:48,734
+préparation des spermatozoïdes,
+
+32
+00:00:48,734 --> 00:00:50,338
+fécondation au laboratoire,
+
+33
+00:00:50,338 --> 00:00:52,001
+culture, puis transfert dans
+
+34
+00:00:52,001 --> 00:00:52,536
+l'utérus.
+
+35
+00:00:53,096 --> 00:00:54,636
+Objectif : obtenir plusieurs
+
+36
+00:00:54,636 --> 00:00:55,625
+ovocytes matures .
+
+37
+00:00:55,765 --> 00:00:56,720
+Plusieurs étapes.
+
+38
+00:00:57,120 --> 00:00:58,588
+Le blocage , pour éviter
+
+39
+00:00:58,588 --> 00:00:59,995
+l'ovulation spontanée :
+
+40
+00:00:59,995 --> 00:01:01,707
+des inhibiteurs de G n R H .
+
+41
+00:01:02,107 --> 00:01:03,697
+La stimulation , pour la
+
+42
+00:01:03,697 --> 00:01:05,352
+maturation des ovocytes :
+
+43
+00:01:05,352 --> 00:01:07,074
+F S H , ou F S H plus L H.
+
+44
+00:01:07,474 --> 00:01:08,662
+Puis l' ovulation ,
+
+45
+00:01:08,662 --> 00:01:10,038
+la maturation finale :
+
+46
+00:01:10,038 --> 00:01:11,664
+la h C G , en raison de sa
+
+47
+00:01:11,664 --> 00:01:13,165
+similitude avec la L H .
+
+48
+00:01:13,305 --> 00:01:14,959
+Le tout est suivi par échographie .
+
+49
+00:01:15,519 --> 00:01:16,804
+Par voie transvaginale ,
+
+50
+00:01:16,804 --> 00:01:18,195
+sous anesthésie , avec une
+
+51
+00:01:18,195 --> 00:01:19,747
+assistance échographique pour
+
+52
+00:01:19,747 --> 00:01:20,764
+diriger l'aiguille.
+
+53
+00:01:21,164 --> 00:01:22,958
+Aspiration et récolte en tube ;
+
+54
+00:01:22,958 --> 00:01:24,867
+vérification microscopique par le
+
+55
+00:01:24,867 --> 00:01:26,719
+biologiste, et mise en culture à
+
+56
+00:01:26,719 --> 00:01:27,876
+trente-sept degrés .
+
+57
+00:01:28,276 --> 00:01:29,803
+En moyenne, dix ovocytes par
+
+58
+00:01:29,803 --> 00:01:30,349
+ponction .
+
+59
+00:01:30,909 --> 00:01:32,059
+Peu avant la ponction,
+
+60
+00:01:32,059 --> 00:01:33,523
+on sélectionne les meilleurs
+
+61
+00:01:33,523 --> 00:01:35,040
+spermatozoïdes, par migration
+
+62
+00:01:35,040 --> 00:01:36,556
+ascendante et par gradient de
+
+63
+00:01:36,556 --> 00:01:36,975
+densité.
+
+64
+00:01:37,375 --> 00:01:39,242
+Après centrifugation sur Percoll :
+
+65
+00:01:39,382 --> 00:01:40,665
+en haut, les globules blancs et
+
+66
+00:01:40,665 --> 00:01:41,659
+les débris cellulaires ;
+
+67
+00:01:41,799 --> 00:01:43,446
+à l'interphase, entre le Percoll
+
+68
+00:01:43,446 --> 00:01:44,886
+à quarante-cinq pour cent et
+
+69
+00:01:44,886 --> 00:01:46,378
+celui à quatre-vingt-dix pour
+
+70
+00:01:46,378 --> 00:01:47,664
+cent , les spermatozoïdes
+
+71
+00:01:47,664 --> 00:01:48,179
+anormaux ;
+
+72
+00:01:48,319 --> 00:01:49,655
+au fond, les spermatozoïdes
+
+73
+00:01:49,655 --> 00:01:50,050
+normaux.
+
+74
+00:01:50,450 --> 00:01:51,760
+Puis la capacitation :
+
+75
+00:01:51,760 --> 00:01:53,308
+lavage, albumine, calcium.
+
+76
+00:01:53,868 --> 00:01:55,339
+Pour tous les ovocytes récoltés,
+
+77
+00:01:55,339 --> 00:01:56,074
+deux techniques.
+
+78
+00:01:56,474 --> 00:01:57,824
+L' insémination normale :
+
+79
+00:01:57,824 --> 00:01:59,337
+on ajoute les spermatozoïdes
+
+80
+00:01:59,337 --> 00:02:01,444
+préparés, et on incube pendant la nuit.
+
+81
+00:02:01,844 --> 00:02:03,605
+L' injection intra-cytoplasmique
+
+82
+00:02:03,605 --> 00:02:05,311
+, l' ICSI : si le sperme est de
+
+83
+00:02:05,311 --> 00:02:06,687
+mauvaise qualité, la zone
+
+84
+00:02:06,687 --> 00:02:08,449
+pellucide étant infranchissable.
+
+85
+00:02:08,849 --> 00:02:10,415
+Décoronisation des ovocytes,
+
+86
+00:02:10,415 --> 00:02:12,150
+avec de la hyaluronidase et des
+
+87
+00:02:12,150 --> 00:02:13,940
+lavages ; sélection des ovocytes
+
+88
+00:02:13,940 --> 00:02:15,451
+matures, reconnaissables au
+
+89
+00:02:15,451 --> 00:02:16,850
+premier globule polaire ;
+
+90
+00:02:16,850 --> 00:02:18,696
+immobilisation du spermatozoïde ;
+
+91
+00:02:18,696 --> 00:02:20,263
+puis micro-injection dans le
+
+92
+00:02:20,263 --> 00:02:21,046
+cytoplasme, au
+
+93
+00:02:21,046 --> 00:02:22,110
+micro-manipulateur.
+
+94
+00:02:22,670 --> 00:02:24,404
+Le lendemain de la fertilisation,
+
+95
+00:02:24,404 --> 00:02:26,086
+on évalue : il doit y avoir deux
+
+96
+00:02:26,086 --> 00:02:27,506
+pronuclei , et deux à trois
+
+97
+00:02:27,506 --> 00:02:28,504
+globules polaires .
+
+98
+00:02:29,064 --> 00:02:30,249
+Deux stades possibles.
+
+99
+00:02:30,389 --> 00:02:31,696
+Le stade de segmentation,
+
+100
+00:02:31,696 --> 00:02:32,952
+quatre à huit cellules ,
+
+101
+00:02:32,952 --> 00:02:34,259
+aux jours deux et trois :
+
+102
+00:02:34,259 --> 00:02:35,724
+il y a alors plus d'embryons
+
+103
+00:02:35,724 --> 00:02:36,351
+disponibles.
+
+104
+00:02:36,751 --> 00:02:38,105
+Ou le stade blastocyste ,
+
+105
+00:02:38,105 --> 00:02:39,350
+aux jours cinq et six :
+
+106
+00:02:39,350 --> 00:02:40,487
+un peu plus efficace.
+
+107
+00:02:40,887 --> 00:02:42,448
+Beaucoup d'embryons n'évoluent
+
+108
+00:02:42,448 --> 00:02:43,957
+pas au-delà du stade quatre à
+
+109
+00:02:43,957 --> 00:02:45,570
+huit cellules : c'est une étape
+
+110
+00:02:45,570 --> 00:02:47,079
+charnière , peut-être en lien
+
+111
+00:02:47,079 --> 00:02:48,016
+avec la transition
+
+112
+00:02:48,016 --> 00:02:49,265
+maternelle-embryonnaire.
+
+113
+00:02:49,825 --> 00:02:51,286
+On sélectionne les meilleurs
+
+114
+00:02:51,286 --> 00:02:52,642
+embryons ; les autres sont
+
+115
+00:02:52,642 --> 00:02:53,946
+cryopréservés en vue d'un
+
+116
+00:02:53,946 --> 00:02:54,989
+transfert ultérieur.
+
+117
+00:02:55,389 --> 00:02:56,987
+Les critères défavorables :
+
+118
+00:02:56,987 --> 00:02:58,408
+blastomères irréguliers,
+
+119
+00:02:58,408 --> 00:02:59,888
+blastomères multinucléés,
+
+120
+00:02:59,888 --> 00:03:01,367
+fragmentation importante.
+
+121
+00:03:01,767 --> 00:03:03,196
+Et, au stade blastocyste :
+
+122
+00:03:03,196 --> 00:03:04,296
+trophoblaste réduit,
+
+123
+00:03:04,296 --> 00:03:06,110
+masse cellulaire interne réduite,
+
+124
+00:03:06,110 --> 00:03:07,539
+blastocèle peu volumineux.
+
+125
+00:03:07,679 --> 00:03:09,532
+En face : les embryons optimaux à
+
+126
+00:03:09,532 --> 00:03:12,394
+J2, J3 et le blastocyste à J6.
+
+127
+00:03:12,954 --> 00:03:14,692
+On transfère un ou deux embryons
+
+128
+00:03:14,692 --> 00:03:16,267
+au fond de la cavité utérine,
+
+129
+00:03:16,267 --> 00:03:17,570
+à l'aide d'un cathéter ,
+
+130
+00:03:17,570 --> 00:03:19,090
+sous contrôle échographique.
+
+131
+00:03:19,230 --> 00:03:20,709
+Le cathéter est analysé au
+
+132
+00:03:20,709 --> 00:03:22,416
+microscope après le transfert.
+
+133
+00:03:22,816 --> 00:03:23,673
+Les taux de succès,
+
+134
+00:03:23,673 --> 00:03:25,161
+données européennes de deux mille
+
+135
+00:03:25,161 --> 00:03:25,431
+deux .
+
+136
+00:03:25,571 --> 00:03:26,843
+Insémination naturelle :
+
+137
+00:03:26,843 --> 00:03:28,432
+cent vingt-deux mille six cent
+
+138
+00:03:28,432 --> 00:03:29,597
+trente-quatre cycles ;
+
+139
+00:03:29,597 --> 00:03:31,292
+I C S I : cent trente-cinq mille
+
+140
+00:03:31,292 --> 00:03:32,034
+quarante-huit.
+
+141
+00:03:32,434 --> 00:03:33,843
+Taux de grossesse par cycle :
+
+142
+00:03:33,843 --> 00:03:35,203
+vingt-trois virgule six pour
+
+143
+00:03:35,203 --> 00:03:36,952
+cent, contre vingt-six virgule deux.
+
+144
+00:03:37,092 --> 00:03:38,472
+Par ponction : vingt-six pour
+
+145
+00:03:38,472 --> 00:03:40,231
+cent, contre vingt-sept virgule deux.
+
+146
+00:03:40,371 --> 00:03:41,755
+Par transfert : vingt-neuf
+
+147
+00:03:41,755 --> 00:03:42,980
+virgule cinq pour cent,
+
+148
+00:03:42,980 --> 00:03:44,736
+contre vingt-neuf virgule quatre.
+
+149
+00:03:45,296 --> 00:03:47,079
+Dernière diapositive du cours :
+
+150
+00:03:47,079 --> 00:03:48,747
+le diagnostic prénatal et les
+
+151
+00:03:48,747 --> 00:03:49,782
+bébés-médicament .
+
+152
+00:03:49,922 --> 00:03:51,686
+Un embryon est sélectionné pour
+
+153
+00:03:51,686 --> 00:03:53,280
+être compatible avec un aîné
+
+154
+00:03:53,280 --> 00:03:54,930
+malade, afin de permettre une
+
+155
+00:03:54,930 --> 00:03:56,865
+greffe à partir du sang de cordon.
+
+156
+00:03:57,425 --> 00:03:58,262
+Trois pièges.
+
+157
+00:03:58,662 --> 00:04:00,119
+“La h C G est utilisée pour
+
+158
+00:04:00,119 --> 00:04:01,632
+bloquer l'ovulation” : faux.
+
+159
+00:04:01,772 --> 00:04:03,308
+Le blocage, ce sont les
+
+160
+00:04:03,308 --> 00:04:04,910
+inhibiteurs de G n R H ;
+
+161
+00:04:04,910 --> 00:04:07,046
+la h C G déclenche la maturation
+
+162
+00:04:07,046 --> 00:04:09,383
+finale, par similitude avec la L H.
+
+163
+00:04:09,783 --> 00:04:11,296
+“On vérifie la présence de deux
+
+164
+00:04:11,296 --> 00:04:12,607
+globules polaires et trois
+
+165
+00:04:12,607 --> 00:04:13,464
+pronuclei” : faux.
+
+166
+00:04:13,604 --> 00:04:14,958
+Deux pronuclei, deux à trois
+
+167
+00:04:14,958 --> 00:04:15,828
+globules polaires.
+
+168
+00:04:16,228 --> 00:04:17,252
+“Le transfert au stade
+
+169
+00:04:17,252 --> 00:04:18,374
+blastocyste permet plus
+
+170
+00:04:18,374 --> 00:04:19,252
+d'embryons” : faux.
+
+171
+00:04:19,392 --> 00:04:20,909
+C'est le stade quatre à huit
+
+172
+00:04:20,909 --> 00:04:22,156
+cellules qui offre plus
+
+173
+00:04:22,156 --> 00:04:23,456
+d'embryons disponibles ;
+
+174
+00:04:23,456 --> 00:04:25,081
+le blastocyste est un peu plus
+
+175
+00:04:25,081 --> 00:04:25,569
+efficace.
+
+176
+00:04:26,129 --> 00:04:27,723
+La stimulation en trois temps :
+
+177
+00:04:27,723 --> 00:04:28,854
+on bloque, on stimule,
+
+178
+00:04:28,854 --> 00:04:29,522
+on déclenche.
+
+179
+00:04:29,662 --> 00:04:31,798
+G n R H, F S H, h C G.
+
+180
+00:04:32,198 --> 00:04:33,473
+Et le contrôle du lendemain :
+
+181
+00:04:33,473 --> 00:04:34,308
+deux et deux-trois.
+
+182
+00:04:34,448 --> 00:04:35,802
+Deux pronuclei, deux à trois
+
+183
+00:04:35,802 --> 00:04:36,673
+globules polaires.
+
+184
+00:04:37,233 --> 00:04:38,960
+Quiz : pourquoi la h C G pour la
+
+185
+00:04:38,960 --> 00:04:39,986
+maturation finale ?
+
+186
+00:04:44,386 --> 00:04:46,268
+Pour sa similitude avec la L H.
+
+187
+00:04:46,828 --> 00:04:48,321
+C'est la fin des soixante et un
+
+188
+00:04:48,321 --> 00:04:48,754
+épisodes.
+
+189
+00:04:48,894 --> 00:04:50,531
+Tu as vu l'intégralité du cours,
+
+190
+00:04:50,531 --> 00:04:52,219
+de la molécule d'eau au transfert
+
+191
+00:04:52,219 --> 00:04:52,731
+d'embryon.
+
+192
+00:04:53,131 --> 00:04:54,100
+Reprends les récaps,
+
+193
+00:04:54,100 --> 00:04:55,942
+refais les quiz, et révise les pièges.
+
+194
+00:04:56,082 --> 00:04:57,790
+Bon travail, et bonne session.

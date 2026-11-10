@@ -1,0 +1,779 @@
+1
+00:00:00,300 --> 00:00:01,820
+Une même substance n'a pas le
+
+2
+00:00:01,820 --> 00:00:03,392
+même effet selon la semaine de
+
+3
+00:00:03,392 --> 00:00:03,916
+grossesse.
+
+4
+00:00:04,056 --> 00:00:05,417
+C'est tout le principe de la
+
+5
+00:00:05,417 --> 00:00:06,243
+période critique.
+
+6
+00:00:06,643 --> 00:00:08,047
+Au programme : les agents
+
+7
+00:00:08,047 --> 00:00:09,844
+tératogènes, les trois principes
+
+8
+00:00:09,844 --> 00:00:11,192
+de tératologie, et trois
+
+9
+00:00:11,192 --> 00:00:11,866
+médicaments.
+
+10
+00:00:12,426 --> 00:00:14,152
+Beaucoup de substances auxquelles
+
+11
+00:00:14,152 --> 00:00:15,773
+la mère s'expose peuvent passer
+
+12
+00:00:15,773 --> 00:00:17,133
+la barrière placentaire et
+
+13
+00:00:17,133 --> 00:00:18,806
+atteindre l'embryon ou le fœtus.
+
+14
+00:00:19,206 --> 00:00:20,628
+Certaines sont tératogènes ,
+
+15
+00:00:20,628 --> 00:00:22,100
+du grec teras : elles peuvent
+
+16
+00:00:22,100 --> 00:00:23,420
+entraîner des anomalies du
+
+17
+00:00:23,420 --> 00:00:24,131
+développement.
+
+18
+00:00:24,271 --> 00:00:25,364
+Le cours cite l'alcool,
+
+19
+00:00:25,364 --> 00:00:26,837
+les drogues et les médicaments.
+
+20
+00:00:27,237 --> 00:00:28,960
+Une attention particulière est
+
+21
+00:00:28,960 --> 00:00:30,282
+portée aux médicaments,
+
+22
+00:00:30,282 --> 00:00:31,776
+pour lesquels des tests de
+
+23
+00:00:31,776 --> 00:00:32,867
+tératogénicité sont
+
+24
+00:00:32,867 --> 00:00:34,476
+systématiquement effectués :
+
+25
+00:00:34,476 --> 00:00:36,027
+tests sur animaux et études
+
+26
+00:00:36,027 --> 00:00:37,004
+épidémiologiques.
+
+27
+00:00:37,564 --> 00:00:38,512
+Premier principe :
+
+28
+00:00:38,512 --> 00:00:39,618
+la période critique .
+
+29
+00:00:39,758 --> 00:00:41,490
+Une structure embryonnaire n'est
+
+30
+00:00:41,490 --> 00:00:43,221
+généralement sensible aux agents
+
+31
+00:00:43,221 --> 00:00:44,682
+tératogènes que pendant une
+
+32
+00:00:44,682 --> 00:00:45,711
+période critique du
+
+33
+00:00:45,711 --> 00:00:47,388
+développement, qui correspond à
+
+34
+00:00:47,388 --> 00:00:49,174
+sa phase active de morphogenèse .
+
+35
+00:00:49,574 --> 00:00:51,120
+Le plus souvent, cette période se
+
+36
+00:00:51,120 --> 00:00:52,573
+situe durant les huit premières
+
+37
+00:00:52,573 --> 00:00:53,042
+semaines .
+
+38
+00:00:53,602 --> 00:00:55,377
+Conséquence : un même agent peut
+
+39
+00:00:55,377 --> 00:00:56,654
+avoir différents effets
+
+40
+00:00:56,654 --> 00:00:58,318
+tératogènes selon la période à
+
+41
+00:00:58,318 --> 00:01:00,094
+laquelle l'embryon y est exposé.
+
+42
+00:01:00,494 --> 00:01:01,719
+L'exemple du cours :
+
+43
+00:01:01,719 --> 00:01:03,680
+le vismodégib , un inhibiteur de
+
+44
+00:01:03,680 --> 00:01:05,151
+la signalisation SHH ,
+
+45
+00:01:05,151 --> 00:01:07,050
+utilisé dans le traitement d'un
+
+46
+00:01:07,050 --> 00:01:08,153
+cancer de la peau.
+
+47
+00:01:08,554 --> 00:01:10,335
+Sur le graphique, le pourcentage
+
+48
+00:01:10,335 --> 00:01:12,117
+de souriceaux affectés est donné
+
+49
+00:01:12,117 --> 00:01:13,899
+en fonction du jour gestationnel
+
+50
+00:01:13,899 --> 00:01:15,514
+d'exposition, entre les jours
+
+51
+00:01:15,514 --> 00:01:16,237
+sept et dix :
+
+52
+00:01:16,377 --> 00:01:18,129
+une exposition précoce donne une
+
+53
+00:01:18,129 --> 00:01:19,224
+holoprosencéphalie ,
+
+54
+00:01:19,224 --> 00:01:20,702
+un défaut de séparation des
+
+55
+00:01:20,702 --> 00:01:21,961
+hémisphères cérébraux ;
+
+56
+00:01:22,101 --> 00:01:23,821
+une exposition plus tardive donne
+
+57
+00:01:23,821 --> 00:01:25,281
+des fentes labio-palatines .
+
+58
+00:01:25,841 --> 00:01:26,863
+Deuxième principe :
+
+59
+00:01:26,863 --> 00:01:27,831
+la dose critique .
+
+60
+00:01:27,971 --> 00:01:29,686
+Chaque agent tératogène présente
+
+61
+00:01:29,686 --> 00:01:31,402
+une dose à laquelle l'apparition
+
+62
+00:01:31,402 --> 00:01:33,118
+des malformations est maximale .
+
+63
+00:01:33,518 --> 00:01:34,638
+En dessous de cette dose,
+
+64
+00:01:34,638 --> 00:01:35,579
+il n'y a pas d'effet.
+
+65
+00:01:35,719 --> 00:01:37,105
+Au-dessus, l'embryon décède.
+
+66
+00:01:37,245 --> 00:01:38,656
+Le graphique superpose le
+
+67
+00:01:38,656 --> 00:01:40,463
+pourcentage d'embryons malformés
+
+68
+00:01:40,463 --> 00:01:42,043
+et celui d'embryons décédés.
+
+69
+00:01:42,603 --> 00:01:43,711
+Troisième principe :
+
+70
+00:01:43,711 --> 00:01:45,096
+la composante génétique .
+
+71
+00:01:45,236 --> 00:01:46,684
+Le polymorphisme propre à
+
+72
+00:01:46,684 --> 00:01:48,537
+l'embryon détermine son degré de
+
+73
+00:01:48,537 --> 00:01:50,216
+réponse à l'agent tératogène.
+
+74
+00:01:50,616 --> 00:01:51,658
+Deux explications :
+
+75
+00:01:51,658 --> 00:01:53,303
+des différences de sensibilité
+
+76
+00:01:53,303 --> 00:01:54,728
+des voies de signalisation
+
+77
+00:01:54,728 --> 00:01:55,934
+affectées par l'agent,
+
+78
+00:01:55,934 --> 00:01:57,689
+et des différences de vitesse de
+
+79
+00:01:57,689 --> 00:01:59,114
+métabolisation de l'agent,
+
+80
+00:01:59,114 --> 00:02:00,375
+qui le rendent inactif.
+
+81
+00:02:00,935 --> 00:02:02,732
+Le mycophénolate mofétil est un
+
+82
+00:02:02,732 --> 00:02:03,833
+immunosuppresseur .
+
+83
+00:02:03,973 --> 00:02:05,169
+Il est prescrit pour la
+
+84
+00:02:05,169 --> 00:02:06,730
+prévention du rejet de greffe,
+
+85
+00:02:06,730 --> 00:02:08,238
+rein, cœur, foie, et dans des
+
+86
+00:02:08,238 --> 00:02:09,435
+maladies auto-immunes :
+
+87
+00:02:09,435 --> 00:02:10,423
+lupus érythémateux,
+
+88
+00:02:10,423 --> 00:02:11,879
+maladie de Crohn, psoriasis.
+
+89
+00:02:12,279 --> 00:02:13,940
+Mode d'action : il inhibe la
+
+90
+00:02:13,940 --> 00:02:15,601
+néosynthèse de nucléotides ,
+
+91
+00:02:15,601 --> 00:02:16,254
+le d G T P.
+
+92
+00:02:16,394 --> 00:02:18,139
+Il réduit ainsi la prolifération
+
+93
+00:02:18,139 --> 00:02:19,666
+des lymphocytes , qui dépend
+
+94
+00:02:19,666 --> 00:02:21,357
+fortement de cette néosynthèse.
+
+95
+00:02:21,917 --> 00:02:22,964
+Sa tératogénicité :
+
+96
+00:02:22,964 --> 00:02:24,506
+les principales anomalies de
+
+97
+00:02:24,506 --> 00:02:26,159
+développement surviennent avec
+
+98
+00:02:26,159 --> 00:02:27,922
+une incidence de vingt-cinq pour
+
+99
+00:02:27,922 --> 00:02:28,252
+cent .
+
+100
+00:02:28,652 --> 00:02:30,023
+Le cours cite : la microtie ,
+
+101
+00:02:30,023 --> 00:02:31,394
+des oreilles peu développées,
+
+102
+00:02:31,394 --> 00:02:32,529
+et l' anotie , l'absence
+
+103
+00:02:32,529 --> 00:02:33,002
+d'oreille.
+
+104
+00:02:33,402 --> 00:02:34,370
+La fente labiale ,
+
+105
+00:02:34,370 --> 00:02:35,877
+avec ou sans fente palatine.
+
+106
+00:02:36,277 --> 00:02:37,711
+Et des anomalies oculaires :
+
+107
+00:02:37,711 --> 00:02:39,247
+anophtalmie et microphtalmie .
+
+108
+00:02:39,647 --> 00:02:41,405
+Période critique d'exposition :
+
+109
+00:02:41,405 --> 00:02:42,993
+avant la huitième semaine de
+
+110
+00:02:42,993 --> 00:02:44,808
+gestation, avec un pic durant la
+
+111
+00:02:44,808 --> 00:02:45,829
+septième semaine .
+
+112
+00:02:46,389 --> 00:02:48,383
+La warfarine est un anticoagulant .
+
+113
+00:02:48,523 --> 00:02:49,929
+Elle est prescrite pour la
+
+114
+00:02:49,929 --> 00:02:51,444
+prévention des complications
+
+115
+00:02:51,444 --> 00:02:52,472
+thrombo-emboliques,
+
+116
+00:02:52,472 --> 00:02:53,609
+arythmies cardiaques,
+
+117
+00:02:53,609 --> 00:02:55,286
+infarctus, et pour les embolies
+
+118
+00:02:55,286 --> 00:02:56,855
+pulmonaires et les thromboses
+
+119
+00:02:56,855 --> 00:02:57,937
+veineuses profondes.
+
+120
+00:02:58,337 --> 00:02:59,958
+Mode d'action : elle inhibe le
+
+121
+00:02:59,958 --> 00:03:01,578
+métabolisme de la vitamine K ,
+
+122
+00:03:01,578 --> 00:03:03,253
+impliquée dans l'activation des
+
+123
+00:03:03,253 --> 00:03:04,549
+facteurs de coagulation.
+
+124
+00:03:05,109 --> 00:03:06,759
+Les anomalies de développement
+
+125
+00:03:06,759 --> 00:03:08,078
+varient selon la période
+
+126
+00:03:08,078 --> 00:03:08,793
+d'exposition.
+
+127
+00:03:08,933 --> 00:03:09,795
+Trois fenêtres.
+
+128
+00:03:10,195 --> 00:03:11,419
+Avant la semaine quatre de
+
+129
+00:03:11,419 --> 00:03:12,595
+gestation : pas d'effet .
+
+130
+00:03:12,995 --> 00:03:14,687
+Entre quatre et sept semaines :
+
+131
+00:03:14,687 --> 00:03:16,271
+un risque d'environ sept pour
+
+132
+00:03:16,271 --> 00:03:17,855
+cent de syndrome malformatif,
+
+133
+00:03:17,855 --> 00:03:19,384
+appelé warfarin embryopathy.
+
+134
+00:03:19,784 --> 00:03:21,126
+Ce syndrome associe des
+
+135
+00:03:21,126 --> 00:03:22,702
+malformations du squelette,
+
+136
+00:03:22,702 --> 00:03:24,219
+la vitamine K activant une
+
+137
+00:03:24,219 --> 00:03:25,503
+hormone ostéogénique ;
+
+138
+00:03:25,643 --> 00:03:27,110
+des anomalies de la face,
+
+139
+00:03:27,110 --> 00:03:28,752
+avec cloison nasale amincie,
+
+140
+00:03:28,752 --> 00:03:30,629
+hypoplasie de la crête nasale et
+
+141
+00:03:30,629 --> 00:03:31,567
+hypertélorisme ;
+
+142
+00:03:31,707 --> 00:03:33,064
+et une hypoplasie des dernières
+
+143
+00:03:33,064 --> 00:03:34,508
+phalanges des mains et des pieds.
+
+144
+00:03:34,908 --> 00:03:36,280
+Après la septième semaine :
+
+145
+00:03:36,280 --> 00:03:37,753
+un risque d'environ deux pour
+
+146
+00:03:37,753 --> 00:03:39,124
+cent d'anomalies du système
+
+147
+00:03:39,124 --> 00:03:39,987
+nerveux central .
+
+148
+00:03:40,547 --> 00:03:42,107
+Le tableau final replace ces
+
+149
+00:03:42,107 --> 00:03:43,445
+atteintes sur la frise :
+
+150
+00:03:43,445 --> 00:03:44,893
+squelette, face et membres
+
+151
+00:03:44,893 --> 00:03:46,732
+pendant la période embryonnaire ;
+
+152
+00:03:46,732 --> 00:03:48,403
+système nerveux central jusque
+
+153
+00:03:48,403 --> 00:03:49,685
+dans la période fœtale.
+
+154
+00:03:50,245 --> 00:03:50,958
+Comparons.
+
+155
+00:03:51,358 --> 00:03:52,796
+Mycophénolate mofétil :
+
+156
+00:03:52,796 --> 00:03:53,921
+immunosuppresseur,
+
+157
+00:03:53,921 --> 00:03:55,984
+inhibe la néosynthèse du d G T P,
+
+158
+00:03:55,984 --> 00:03:58,047
+risque avant la huitième semaine.
+
+159
+00:03:58,447 --> 00:04:00,031
+Warfarine : anticoagulant,
+
+160
+00:04:00,031 --> 00:04:01,676
+inhibe le métabolisme de la
+
+161
+00:04:01,676 --> 00:04:03,626
+vitamine K, trois fenêtres selon
+
+162
+00:04:03,626 --> 00:04:04,296
+la semaine.
+
+163
+00:04:04,856 --> 00:04:05,692
+Trois pièges.
+
+164
+00:04:06,092 --> 00:04:07,560
+“Au-dessus de la dose critique,
+
+165
+00:04:07,560 --> 00:04:08,930
+les malformations augmentent
+
+166
+00:04:08,930 --> 00:04:09,615
+encore” : faux.
+
+167
+00:04:09,755 --> 00:04:10,724
+À la dose critique,
+
+168
+00:04:10,724 --> 00:04:11,845
+elles sont maximales ;
+
+169
+00:04:11,845 --> 00:04:13,272
+au-dessus, l'embryon décède.
+
+170
+00:04:13,672 --> 00:04:15,275
+“La warfarine est dangereuse dès
+
+171
+00:04:15,275 --> 00:04:16,154
+le premier jour” :
+
+172
+00:04:16,154 --> 00:04:17,809
+selon le cours, avant la semaine
+
+173
+00:04:17,809 --> 00:04:18,843
+quatre, pas d'effet.
+
+174
+00:04:19,243 --> 00:04:20,954
+“Le mycophénolate mofétil agit
+
+175
+00:04:20,954 --> 00:04:22,075
+sur la vitamine K” :
+
+176
+00:04:22,075 --> 00:04:23,550
+faux, c'est la warfarine.
+
+177
+00:04:23,690 --> 00:04:25,176
+Le mycophénolate inhibe la
+
+178
+00:04:25,176 --> 00:04:26,777
+néosynthèse des nucléotides.
+
+179
+00:04:27,337 --> 00:04:28,543
+Les trois principes :
+
+180
+00:04:28,543 --> 00:04:29,462
+“P D G” — Période,
+
+181
+00:04:29,462 --> 00:04:30,381
+Dose, Génétique.
+
+182
+00:04:30,781 --> 00:04:32,282
+Les chiffres de la warfarine :
+
+183
+00:04:32,282 --> 00:04:33,033
+quatre et sept.
+
+184
+00:04:33,173 --> 00:04:34,148
+Avant quatre, rien ;
+
+185
+00:04:34,148 --> 00:04:35,708
+de quatre à sept, sept pour cent
+
+186
+00:04:35,708 --> 00:04:37,122
+; après sept, deux pour cent.
+
+187
+00:04:37,682 --> 00:04:38,898
+Quiz : au-dessus de la dose
+
+188
+00:04:38,898 --> 00:04:39,348
+critique ?
+
+189
+00:04:43,748 --> 00:04:44,783
+L'embryon décède.
+
+190
+00:04:44,923 --> 00:04:45,896
+À la dose critique,
+
+191
+00:04:45,896 --> 00:04:47,536
+les malformations sont maximales
+
+192
+00:04:47,536 --> 00:04:48,868
+; en dessous, pas d'effet.
+
+193
+00:04:49,428 --> 00:04:51,174
+Dernier épisode de la série :
+
+194
+00:04:51,174 --> 00:04:52,619
+la fécondation in vitro,
+
+195
+00:04:52,619 --> 00:04:54,485
+de la stimulation au transfert.

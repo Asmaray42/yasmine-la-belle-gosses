@@ -1,0 +1,207 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une ponction récolte en moyenne
+Dialogue: 0,0:00:01.97,0:00:02.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dix ovocytes.
+Dialogue: 0,0:00:02.81,0:00:04.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À la fin, on en transfère un ou deux.
+Dialogue: 0,0:00:04.63,0:00:06.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Voici tout ce qui se passe entre
+Dialogue: 0,0:00:06.12,0:00:06.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les deux.
+Dialogue: 0,0:00:06.94,0:00:08.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernier épisode de la série :
+Dialogue: 0,0:00:08.64,0:00:10.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la fécondation in vitro et le
+Dialogue: 0,0:00:10.34,0:00:11.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transfert d'embryon.
+Dialogue: 0,0:00:12.07,0:00:14.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre huit : la fécondation in vitro.
+Dialogue: 0,0:00:14.43,0:00:16.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq points : indications et
+Dialogue: 0,0:00:16.04,0:00:17.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}principes, stimulation et
+Dialogue: 0,0:00:17.48,0:00:18.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ponction, fécondation,
+Dialogue: 0,0:00:18.75,0:00:20.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}préparation des spermatozoïdes,
+Dialogue: 0,0:00:20.53,0:00:21.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sélection et transfert.
+Dialogue: 0,0:00:22.42,0:00:24.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}chirurgie{\c&HFFFFFF&} : en cas d'obstacle
+Dialogue: 0,0:00:24.06,0:00:25.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au niveau des trompes utérines,
+Dialogue: 0,0:00:25.66,0:00:27.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou d'adhérences des trompes.
+Dialogue: 0,0:00:27.50,0:00:28.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}traitement{\c&HFFFFFF&} {\c&H66D1FF&}hormonal{\c&HFFFFFF&} :
+Dialogue: 0,0:00:28.68,0:00:30.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les problèmes d'ovulation.
+Dialogue: 0,0:00:30.62,0:00:32.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}insémination{\c&HFFFFFF&} {\c&H66D1FF&}artificielle{\c&HFFFFFF&} :
+Dialogue: 0,0:00:32.17,0:00:33.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour les troubles des rapports
+Dialogue: 0,0:00:33.72,0:00:35.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sexuels, ou un obstacle au niveau
+Dialogue: 0,0:00:35.43,0:00:36.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des trompes.
+Dialogue: 0,0:00:36.46,0:00:38.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la {\c&H66D1FF&}fécondation{\c&HFFFFFF&} {\c&H66D1FF&}in{\c&HFFFFFF&} {\c&H66D1FF&}vitro{\c&HFFFFFF&} {\c&H66D1FF&}avec{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.19,0:00:39.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}transfert{\c&HFFFFFF&} {\c&H66D1FF&}d'embryon{\c&HFFFFFF&} :
+Dialogue: 0,0:00:39.36,0:00:41.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour une stérilité {\c&H66D1FF&}inexpliquée,{\c&HFFFFFF&}
+Dialogue: 0,0:00:41.09,0:00:41.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}non{\c&HFFFFFF&} {\c&H66D1FF&}résolue{\c&HFFFFFF&} .
+Dialogue: 0,0:00:42.38,0:00:44.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le schéma général de la FIVETE :
+Dialogue: 0,0:00:44.28,0:00:45.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimulation ovarienne,
+Dialogue: 0,0:00:45.59,0:00:46.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ponction des ovocytes,
+Dialogue: 0,0:00:46.89,0:00:48.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}préparation des spermatozoïdes,
+Dialogue: 0,0:00:48.73,0:00:50.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fécondation au laboratoire,
+Dialogue: 0,0:00:50.34,0:00:52.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}culture, puis transfert dans
+Dialogue: 0,0:00:52.00,0:00:52.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'utérus.
+Dialogue: 0,0:00:53.10,0:00:54.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Objectif : obtenir {\c&H66D1FF&}plusieurs{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.64,0:00:55.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}ovocytes{\c&HFFFFFF&} {\c&H66D1FF&}matures{\c&HFFFFFF&} .
+Dialogue: 0,0:00:55.77,0:00:56.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plusieurs étapes.
+Dialogue: 0,0:00:57.12,0:00:58.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}blocage{\c&HFFFFFF&} , pour éviter
+Dialogue: 0,0:00:58.59,0:00:60.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovulation spontanée :
+Dialogue: 0,0:00:60.00,0:01:01.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}inhibiteurs{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}G{\c&HFFFFFF&} {\c&H66D1FF&}n{\c&HFFFFFF&} {\c&H66D1FF&}R{\c&HFFFFFF&} {\c&H66D1FF&}H{\c&HFFFFFF&} .
+Dialogue: 0,0:01:02.11,0:01:03.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}stimulation{\c&HFFFFFF&} , pour la
+Dialogue: 0,0:01:03.70,0:01:05.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maturation des ovocytes :
+Dialogue: 0,0:01:05.35,0:01:07.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}F{\c&HFFFFFF&} {\c&H66D1FF&}S{\c&HFFFFFF&} {\c&H66D1FF&}H{\c&HFFFFFF&} , ou F S H plus L H.
+Dialogue: 0,0:01:07.47,0:01:08.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis l' {\c&H66D1FF&}ovulation{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:08.66,0:01:10.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la maturation finale :
+Dialogue: 0,0:01:10.04,0:01:11.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}h{\c&HFFFFFF&} {\c&H66D1FF&}C{\c&HFFFFFF&} {\c&H66D1FF&}G{\c&HFFFFFF&} , en raison de sa
+Dialogue: 0,0:01:11.66,0:01:13.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}similitude{\c&HFFFFFF&} {\c&H66D1FF&}avec{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}L{\c&HFFFFFF&} {\c&H66D1FF&}H{\c&HFFFFFF&} .
+Dialogue: 0,0:01:13.31,0:01:14.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le tout est suivi par {\c&H66D1FF&}échographie{\c&HFFFFFF&} .
+Dialogue: 0,0:01:15.52,0:01:16.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par voie {\c&H66D1FF&}transvaginale{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:16.80,0:01:18.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous {\c&H66D1FF&}anesthésie{\c&HFFFFFF&} , avec une
+Dialogue: 0,0:01:18.20,0:01:19.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}assistance échographique pour
+Dialogue: 0,0:01:19.75,0:01:20.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diriger l'aiguille.
+Dialogue: 0,0:01:21.16,0:01:22.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Aspiration et récolte en tube ;
+Dialogue: 0,0:01:22.96,0:01:24.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vérification microscopique par le
+Dialogue: 0,0:01:24.87,0:01:26.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologiste, et mise en culture à
+Dialogue: 0,0:01:26.72,0:01:27.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}trente-sept{\c&HFFFFFF&} {\c&H66D1FF&}degrés{\c&HFFFFFF&} .
+Dialogue: 0,0:01:28.28,0:01:29.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En moyenne, {\c&H66D1FF&}dix{\c&HFFFFFF&} {\c&H66D1FF&}ovocytes{\c&HFFFFFF&} {\c&H66D1FF&}par{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.80,0:01:30.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}ponction{\c&HFFFFFF&} .
+Dialogue: 0,0:01:30.91,0:01:32.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Peu avant la ponction,
+Dialogue: 0,0:01:32.06,0:01:33.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on sélectionne les meilleurs
+Dialogue: 0,0:01:33.52,0:01:35.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes, par migration
+Dialogue: 0,0:01:35.04,0:01:36.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ascendante et par gradient de
+Dialogue: 0,0:01:36.56,0:01:36.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}densité.
+Dialogue: 0,0:01:37.38,0:01:39.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après {\c&H66D1FF&}centrifugation{\c&HFFFFFF&} sur {\c&H66D1FF&}Percoll{\c&HFFFFFF&} :
+Dialogue: 0,0:01:39.38,0:01:40.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en haut, les globules blancs et
+Dialogue: 0,0:01:40.67,0:01:41.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les débris cellulaires ;
+Dialogue: 0,0:01:41.80,0:01:43.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'interphase, entre le Percoll
+Dialogue: 0,0:01:43.45,0:01:44.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à {\c&H66D1FF&}quarante-cinq{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&} {\c&H66D1FF&}cent{\c&HFFFFFF&} et
+Dialogue: 0,0:01:44.89,0:01:46.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}celui à {\c&H66D1FF&}quatre-vingt-dix{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&}
+Dialogue: 0,0:01:46.38,0:01:47.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cent{\c&HFFFFFF&} , les spermatozoïdes
+Dialogue: 0,0:01:47.66,0:01:48.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}anormaux ;
+Dialogue: 0,0:01:48.32,0:01:49.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au fond, les spermatozoïdes
+Dialogue: 0,0:01:49.66,0:01:50.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}normaux.
+Dialogue: 0,0:01:50.45,0:01:51.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis la {\c&H66D1FF&}capacitation{\c&HFFFFFF&} :
+Dialogue: 0,0:01:51.76,0:01:53.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lavage, albumine, calcium.
+Dialogue: 0,0:01:53.87,0:01:55.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour tous les ovocytes récoltés,
+Dialogue: 0,0:01:55.34,0:01:56.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux techniques.
+Dialogue: 0,0:01:56.47,0:01:57.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}insémination{\c&HFFFFFF&} {\c&H66D1FF&}normale{\c&HFFFFFF&} :
+Dialogue: 0,0:01:57.82,0:01:59.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on ajoute les spermatozoïdes
+Dialogue: 0,0:01:59.34,0:02:01.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}préparés, et on incube pendant la nuit.
+Dialogue: 0,0:02:01.84,0:02:03.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}injection{\c&HFFFFFF&} {\c&H66D1FF&}intra-cytoplasmique{\c&HFFFFFF&}
+Dialogue: 0,0:02:03.61,0:02:05.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, l' {\c&H66D1FF&}ICSI{\c&HFFFFFF&} : si le sperme est de
+Dialogue: 0,0:02:05.31,0:02:06.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mauvaise qualité, la zone
+Dialogue: 0,0:02:06.69,0:02:08.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pellucide étant infranchissable.
+Dialogue: 0,0:02:08.85,0:02:10.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Décoronisation des ovocytes,
+Dialogue: 0,0:02:10.42,0:02:12.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec de la hyaluronidase et des
+Dialogue: 0,0:02:12.15,0:02:13.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lavages ; sélection des ovocytes
+Dialogue: 0,0:02:13.94,0:02:15.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}matures, reconnaissables au
+Dialogue: 0,0:02:15.45,0:02:16.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}premier{\c&HFFFFFF&} {\c&H66D1FF&}globule{\c&HFFFFFF&} {\c&H66D1FF&}polaire{\c&HFFFFFF&} ;
+Dialogue: 0,0:02:16.85,0:02:18.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}immobilisation du spermatozoïde ;
+Dialogue: 0,0:02:18.70,0:02:20.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis micro-injection dans le
+Dialogue: 0,0:02:20.26,0:02:21.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytoplasme, au
+Dialogue: 0,0:02:21.05,0:02:22.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}micro-manipulateur.
+Dialogue: 0,0:02:22.67,0:02:24.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le lendemain de la fertilisation,
+Dialogue: 0,0:02:24.40,0:02:26.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on évalue : il doit y avoir {\c&H66D1FF&}deux{\c&HFFFFFF&}
+Dialogue: 0,0:02:26.09,0:02:27.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pronuclei{\c&HFFFFFF&} , et {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}trois{\c&HFFFFFF&}
+Dialogue: 0,0:02:27.51,0:02:28.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}globules{\c&HFFFFFF&} {\c&H66D1FF&}polaires{\c&HFFFFFF&} .
+Dialogue: 0,0:02:29.06,0:02:30.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux stades possibles.
+Dialogue: 0,0:02:30.39,0:02:31.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}stade{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}segmentation,{\c&HFFFFFF&}
+Dialogue: 0,0:02:31.70,0:02:32.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}quatre{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}huit{\c&HFFFFFF&} {\c&H66D1FF&}cellules{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:32.95,0:02:34.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux jours deux et trois :
+Dialogue: 0,0:02:34.26,0:02:35.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y a alors plus d'embryons
+Dialogue: 0,0:02:35.72,0:02:36.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}disponibles.
+Dialogue: 0,0:02:36.75,0:02:38.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ou le {\c&H66D1FF&}stade{\c&HFFFFFF&} {\c&H66D1FF&}blastocyste{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:38.11,0:02:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aux jours cinq et six :
+Dialogue: 0,0:02:39.35,0:02:40.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un peu plus efficace.
+Dialogue: 0,0:02:40.89,0:02:42.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Beaucoup d'embryons n'évoluent
+Dialogue: 0,0:02:42.45,0:02:43.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas au-delà du stade quatre à
+Dialogue: 0,0:02:43.96,0:02:45.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}huit cellules : c'est une {\c&H66D1FF&}étape{\c&HFFFFFF&}
+Dialogue: 0,0:02:45.57,0:02:47.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}charnière{\c&HFFFFFF&} , peut-être en lien
+Dialogue: 0,0:02:47.08,0:02:48.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la transition
+Dialogue: 0,0:02:48.02,0:02:49.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternelle-embryonnaire.
+Dialogue: 0,0:02:49.83,0:02:51.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On sélectionne les meilleurs
+Dialogue: 0,0:02:51.29,0:02:52.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryons ; les autres sont
+Dialogue: 0,0:02:52.64,0:02:53.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cryopréservés{\c&HFFFFFF&} en vue d'un
+Dialogue: 0,0:02:53.95,0:02:54.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transfert ultérieur.
+Dialogue: 0,0:02:55.39,0:02:56.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les critères défavorables :
+Dialogue: 0,0:02:56.99,0:02:58.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}blastomères irréguliers,
+Dialogue: 0,0:02:58.41,0:02:59.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}blastomères multinucléés,
+Dialogue: 0,0:02:59.89,0:03:01.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fragmentation importante.
+Dialogue: 0,0:03:01.77,0:03:03.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et, au stade blastocyste :
+Dialogue: 0,0:03:03.20,0:03:04.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trophoblaste réduit,
+Dialogue: 0,0:03:04.30,0:03:06.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}masse cellulaire interne réduite,
+Dialogue: 0,0:03:06.11,0:03:07.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}blastocèle peu volumineux.
+Dialogue: 0,0:03:07.68,0:03:09.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En face : les embryons optimaux à
+Dialogue: 0,0:03:09.53,0:03:12.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}J2, J3 et le blastocyste à J6.
+Dialogue: 0,0:03:12.95,0:03:14.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On transfère {\c&H66D1FF&}un{\c&HFFFFFF&} {\c&H66D1FF&}ou{\c&HFFFFFF&} {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}embryons{\c&HFFFFFF&}
+Dialogue: 0,0:03:14.69,0:03:16.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au fond de la cavité utérine,
+Dialogue: 0,0:03:16.27,0:03:17.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'aide d'un {\c&H66D1FF&}cathéter{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:17.57,0:03:19.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous contrôle échographique.
+Dialogue: 0,0:03:19.23,0:03:20.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cathéter est analysé au
+Dialogue: 0,0:03:20.71,0:03:22.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}microscope après le transfert.
+Dialogue: 0,0:03:22.82,0:03:23.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les taux de succès,
+Dialogue: 0,0:03:23.67,0:03:25.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}données européennes de {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}mille{\c&HFFFFFF&}
+Dialogue: 0,0:03:25.16,0:03:25.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}deux{\c&HFFFFFF&} .
+Dialogue: 0,0:03:25.57,0:03:26.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Insémination naturelle :
+Dialogue: 0,0:03:26.84,0:03:28.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cent vingt-deux mille six cent
+Dialogue: 0,0:03:28.43,0:03:29.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-quatre cycles ;
+Dialogue: 0,0:03:29.60,0:03:31.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}I C S I : cent trente-cinq mille
+Dialogue: 0,0:03:31.29,0:03:32.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quarante-huit.
+Dialogue: 0,0:03:32.43,0:03:33.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Taux de grossesse par {\c&H66D1FF&}cycle{\c&HFFFFFF&} :
+Dialogue: 0,0:03:33.84,0:03:35.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt-trois virgule six pour
+Dialogue: 0,0:03:35.20,0:03:36.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cent, contre vingt-six virgule deux.
+Dialogue: 0,0:03:37.09,0:03:38.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par {\c&H66D1FF&}ponction{\c&HFFFFFF&} : vingt-six pour
+Dialogue: 0,0:03:38.47,0:03:40.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cent, contre vingt-sept virgule deux.
+Dialogue: 0,0:03:40.37,0:03:41.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par {\c&H66D1FF&}transfert{\c&HFFFFFF&} : vingt-neuf
+Dialogue: 0,0:03:41.76,0:03:42.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}virgule cinq pour cent,
+Dialogue: 0,0:03:42.98,0:03:44.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contre vingt-neuf virgule quatre.
+Dialogue: 0,0:03:45.30,0:03:47.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernière diapositive du cours :
+Dialogue: 0,0:03:47.08,0:03:48.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le diagnostic prénatal et les
+Dialogue: 0,0:03:48.75,0:03:49.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}bébés-médicament{\c&HFFFFFF&} .
+Dialogue: 0,0:03:49.92,0:03:51.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un embryon est sélectionné pour
+Dialogue: 0,0:03:51.69,0:03:53.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}être compatible avec un aîné
+Dialogue: 0,0:03:53.28,0:03:54.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}malade, afin de permettre une
+Dialogue: 0,0:03:54.93,0:03:56.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}greffe à partir du sang de cordon.
+Dialogue: 0,0:03:57.43,0:03:58.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:58.66,0:04:00.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La h C G est utilisée pour
+Dialogue: 0,0:04:00.12,0:04:01.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bloquer l'ovulation” : faux.
+Dialogue: 0,0:04:01.77,0:04:03.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le blocage, ce sont les
+Dialogue: 0,0:04:03.31,0:04:04.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inhibiteurs de G n R H ;
+Dialogue: 0,0:04:04.91,0:04:07.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la h C G déclenche la maturation
+Dialogue: 0,0:04:07.05,0:04:09.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}finale, par similitude avec la L H.
+Dialogue: 0,0:04:09.78,0:04:11.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“On vérifie la présence de deux
+Dialogue: 0,0:04:11.30,0:04:12.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}globules polaires et trois
+Dialogue: 0,0:04:12.61,0:04:13.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pronuclei” : faux.
+Dialogue: 0,0:04:13.60,0:04:14.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux pronuclei, deux à trois
+Dialogue: 0,0:04:14.96,0:04:15.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}globules polaires.
+Dialogue: 0,0:04:16.23,0:04:17.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le transfert au stade
+Dialogue: 0,0:04:17.25,0:04:18.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}blastocyste permet plus
+Dialogue: 0,0:04:18.37,0:04:19.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'embryons” : faux.
+Dialogue: 0,0:04:19.39,0:04:20.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le stade quatre à huit
+Dialogue: 0,0:04:20.91,0:04:22.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules qui offre plus
+Dialogue: 0,0:04:22.16,0:04:23.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'embryons disponibles ;
+Dialogue: 0,0:04:23.46,0:04:25.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le blastocyste est un peu plus
+Dialogue: 0,0:04:25.08,0:04:25.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}efficace.
+Dialogue: 0,0:04:26.13,0:04:27.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La stimulation en trois temps :
+Dialogue: 0,0:04:27.72,0:04:28.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on bloque, on stimule,
+Dialogue: 0,0:04:28.85,0:04:29.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on déclenche.
+Dialogue: 0,0:04:29.66,0:04:31.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G n R H, F S H, h C G.
+Dialogue: 0,0:04:32.20,0:04:33.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le contrôle du lendemain :
+Dialogue: 0,0:04:33.47,0:04:34.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux et deux-trois.
+Dialogue: 0,0:04:34.45,0:04:35.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux pronuclei, deux à trois
+Dialogue: 0,0:04:35.80,0:04:36.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}globules polaires.
+Dialogue: 0,0:04:37.23,0:04:38.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : pourquoi la h C G pour la
+Dialogue: 0,0:04:38.96,0:04:39.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maturation finale ?
+Dialogue: 0,0:04:44.39,0:04:46.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour sa similitude avec la L H.
+Dialogue: 0,0:04:46.83,0:04:48.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la fin des soixante et un
+Dialogue: 0,0:04:48.32,0:04:48.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épisodes.
+Dialogue: 0,0:04:48.89,0:04:50.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tu as vu l'intégralité du cours,
+Dialogue: 0,0:04:50.53,0:04:52.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la molécule d'eau au transfert
+Dialogue: 0,0:04:52.22,0:04:52.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'embryon.
+Dialogue: 0,0:04:53.13,0:04:54.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Reprends les récaps,
+Dialogue: 0,0:04:54.10,0:04:55.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}refais les quiz, et révise les pièges.
+Dialogue: 0,0:04:56.08,0:04:57.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bon travail, et bonne session.

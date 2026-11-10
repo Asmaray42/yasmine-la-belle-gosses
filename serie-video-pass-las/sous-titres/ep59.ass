@@ -1,0 +1,193 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le placenta détruit presque
+Dialogue: 0,0:00:01.71,0:00:03.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toutes les protéines de la mère.
+Dialogue: 0,0:00:03.52,0:00:04.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sauf une classe d'anticorps,
+Dialogue: 0,0:00:04.94,0:00:06.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui protégera le bébé pendant ses
+Dialogue: 0,0:00:06.61,0:00:07.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}premiers mois.
+Dialogue: 0,0:00:07.72,0:00:09.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les caduques,
+Dialogue: 0,0:00:09.34,0:00:10.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les pathologies du placenta,
+Dialogue: 0,0:00:10.96,0:00:12.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les échanges, la barrière
+Dialogue: 0,0:00:12.41,0:00:14.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placentaire et l'incompatibilité rhésus.
+Dialogue: 0,0:00:15.29,0:00:16.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'implantation modifie
+Dialogue: 0,0:00:16.56,0:00:18.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'endomètre : enrichissement en
+Dialogue: 0,0:00:18.35,0:00:19.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides et glycogène,
+Dialogue: 0,0:00:19.56,0:00:20.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vascularisation accrue.
+Dialogue: 0,0:00:21.02,0:00:22.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On l'appelle alors la {\c&H66D1FF&}caduque{\c&HFFFFFF&} .
+Dialogue: 0,0:00:22.77,0:00:24.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Du côté du pédicule suspenseur,
+Dialogue: 0,0:00:24.58,0:00:26.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des villosités chorioniques,
+Dialogue: 0,0:00:26.21,0:00:27.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faites de mésoderme
+Dialogue: 0,0:00:27.32,0:00:28.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extraembryonnaire,
+Dialogue: 0,0:00:28.37,0:00:29.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de cyto et de
+Dialogue: 0,0:00:29.13,0:00:30.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}syncytiotrophoblaste,
+Dialogue: 0,0:00:30.35,0:00:31.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}envahissent la caduque,
+Dialogue: 0,0:00:31.69,0:00:33.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui devient la {\c&H66D1FF&}caduque{\c&HFFFFFF&} {\c&H66D1FF&}basale{\c&HFFFFFF&} .
+Dialogue: 0,0:00:34.06,0:00:35.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}De l'autre côté de l'embryon,
+Dialogue: 0,0:00:35.52,0:00:37.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la caduque qui fait saillie dans
+Dialogue: 0,0:00:37.13,0:00:38.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cavité utérine est la {\c&H66D1FF&}caduque{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.75,0:00:39.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}réfléchie{\c&HFFFFFF&} .
+Dialogue: 0,0:00:39.44,0:00:40.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tout le reste est la {\c&H66D1FF&}caduque{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.72,0:00:41.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pariétale{\c&HFFFFFF&} .
+Dialogue: 0,0:00:41.63,0:00:43.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À terme, quand le sac amniotique
+Dialogue: 0,0:00:43.41,0:00:45.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}remplit toute la cavité utérine,
+Dialogue: 0,0:00:45.19,0:00:46.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la caduque réfléchie fusionne
+Dialogue: 0,0:00:46.80,0:00:48.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la caduque pariétale.
+Dialogue: 0,0:00:48.81,0:00:50.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À l'accouchement, le placenta est
+Dialogue: 0,0:00:50.59,0:00:51.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}expulsé.
+Dialogue: 0,0:00:51.16,0:00:52.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On distingue la {\c&H66D1FF&}face{\c&HFFFFFF&} {\c&H66D1FF&}fœtale{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:52.75,0:00:54.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}recouverte par l'amnion,
+Dialogue: 0,0:00:54.07,0:00:55.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la {\c&H66D1FF&}face{\c&HFFFFFF&} {\c&H66D1FF&}maternelle{\c&HFFFFFF&} .
+Dialogue: 0,0:00:55.88,0:00:57.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}placenta{\c&HFFFFFF&} {\c&H66D1FF&}praevia{\c&HFFFFFF&} :
+Dialogue: 0,0:00:57.03,0:00:58.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}incidence {\c&H66D1FF&}une{\c&HFFFFFF&} {\c&H66D1FF&}sur{\c&HFFFFFF&} {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}cents{\c&HFFFFFF&} .
+Dialogue: 0,0:00:58.80,0:01:00.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une implantation {\c&H66D1FF&}basse{\c&HFFFFFF&} du
+Dialogue: 0,0:01:00.22,0:01:02.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta, qui recouvre parfois le
+Dialogue: 0,0:01:02.08,0:01:02.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}col de l'utérus.
+Dialogue: 0,0:01:03.39,0:01:04.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le plus souvent, des saignements
+Dialogue: 0,0:01:04.88,0:01:05.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en fin de grossesse.
+Dialogue: 0,0:01:05.95,0:01:07.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S'il recouvre le col,
+Dialogue: 0,0:01:07.14,0:01:08.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il empêche le passage du bébé :
+Dialogue: 0,0:01:08.91,0:01:10.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}césarienne obligatoire,
+Dialogue: 0,0:01:10.23,0:01:12.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avant terme si l'hémorragie est
+Dialogue: 0,0:01:12.00,0:01:13.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}abondante et le bébé en
+Dialogue: 0,0:01:13.31,0:01:13.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}souffrance.
+Dialogue: 0,0:01:14.34,0:01:15.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'étymologie : praevius,
+Dialogue: 0,0:01:15.58,0:01:16.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en latin, “qui va devant”.
+Dialogue: 0,0:01:17.38,0:01:18.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}placenta{\c&HFFFFFF&} {\c&H66D1FF&}accreta{\c&HFFFFFF&} :
+Dialogue: 0,0:01:18.52,0:01:20.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}incidence {\c&H66D1FF&}une{\c&HFFFFFF&} {\c&H66D1FF&}sur{\c&HFFFFFF&} {\c&H66D1FF&}sept{\c&HFFFFFF&} {\c&H66D1FF&}cents{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:20.14,0:01:21.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en forte augmentation ces
+Dialogue: 0,0:01:21.50,0:01:22.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dernières décennies.
+Dialogue: 0,0:01:22.72,0:01:24.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est favorisé par une {\c&H66D1FF&}cicatrice{\c&HFFFFFF&}
+Dialogue: 0,0:01:24.61,0:01:26.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utérine, césarienne ou opération
+Dialogue: 0,0:01:26.45,0:01:27.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}antérieure.
+Dialogue: 0,0:01:27.48,0:01:29.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le placenta envahit toute la
+Dialogue: 0,0:01:29.03,0:01:30.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caduque basale : {\c&H66D1FF&}accreta{\c&HFFFFFF&} ;
+Dialogue: 0,0:01:30.47,0:01:31.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le myomètre : {\c&H66D1FF&}increta{\c&HFFFFFF&} ;
+Dialogue: 0,0:01:31.75,0:01:32.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au-delà du myomètre :
+Dialogue: 0,0:01:32.91,0:01:33.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}percreta{\c&HFFFFFF&} .
+Dialogue: 0,0:01:33.87,0:01:35.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Risque d'hémorragies importantes,
+Dialogue: 0,0:01:35.53,0:01:37.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui mettent en jeu la vie du bébé
+Dialogue: 0,0:01:37.19,0:01:37.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et de la mère.
+Dialogue: 0,0:01:38.04,0:01:39.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Surveillance, et césarienne
+Dialogue: 0,0:01:39.47,0:01:40.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}planifiée avant terme,
+Dialogue: 0,0:01:40.64,0:01:42.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à {\c&H66D1FF&}trente-quatre{\c&HFFFFFF&} {\c&H66D1FF&}semaines{\c&HFFFFFF&} .
+Dialogue: 0,0:01:42.16,0:01:43.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la délivrance :
+Dialogue: 0,0:01:43.31,0:01:44.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta laissé en place,
+Dialogue: 0,0:01:44.67,0:01:45.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou hystérectomie.
+Dialogue: 0,0:01:46.16,0:01:47.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les échanges se font au niveau
+Dialogue: 0,0:01:47.76,0:01:49.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des villosités chorioniques,
+Dialogue: 0,0:01:49.26,0:01:50.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui baignent dans le sang
+Dialogue: 0,0:01:50.59,0:01:52.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternel des {\c&H66D1FF&}espaces{\c&HFFFFFF&} {\c&H66D1FF&}intervilleux{\c&HFFFFFF&}
+Dialogue: 0,0:01:52.35,0:01:53.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, dérivés des lacunes
+Dialogue: 0,0:01:53.47,0:01:54.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trophoblastiques.
+Dialogue: 0,0:01:54.77,0:01:56.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Côté fœtal : le sang arrive au
+Dialogue: 0,0:01:56.39,0:01:57.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta par les {\c&H66D1FF&}artères{\c&HFFFFFF&}
+Dialogue: 0,0:01:57.68,0:01:59.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}ombilicales{\c&HFFFFFF&} , qui se ramifient
+Dialogue: 0,0:01:59.29,0:02:01.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la plaque choriale jusqu'aux
+Dialogue: 0,0:02:01.06,0:02:02.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}capillaires fœtaux des
+Dialogue: 0,0:02:02.24,0:02:02.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}villosités.
+Dialogue: 0,0:02:02.97,0:02:04.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il retourne vers le fœtus par la
+Dialogue: 0,0:02:04.66,0:02:05.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}veine{\c&HFFFFFF&} {\c&H66D1FF&}ombilicale{\c&HFFFFFF&} .
+Dialogue: 0,0:02:06.01,0:02:07.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au passage, le sang fœtal se
+Dialogue: 0,0:02:07.51,0:02:09.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}charge en O2 et en nutriments,
+Dialogue: 0,0:02:09.34,0:02:10.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et décharge du CO2 et des
+Dialogue: 0,0:02:10.96,0:02:12.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déchets, comme l'urée.
+Dialogue: 0,0:02:12.70,0:02:14.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au départ, sang fœtal et sang
+Dialogue: 0,0:02:14.37,0:02:16.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternel sont séparés par quatre
+Dialogue: 0,0:02:16.21,0:02:17.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}couches : un, l'endothélium des
+Dialogue: 0,0:02:17.99,0:02:19.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}capillaires fœtaux ;
+Dialogue: 0,0:02:19.14,0:02:20.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux, le mésoderme
+Dialogue: 0,0:02:20.18,0:02:21.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extraembryonnaire ;
+Dialogue: 0,0:02:21.27,0:02:22.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois, le cytotrophoblaste ;
+Dialogue: 0,0:02:22.88,0:02:24.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre, le syncytiotrophoblaste.
+Dialogue: 0,0:02:25.12,0:02:26.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle évolue : au cours du
+Dialogue: 0,0:02:26.39,0:02:28.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}quatrième{\c&HFFFFFF&} {\c&H66D1FF&}mois{\c&HFFFFFF&} , les cellules du
+Dialogue: 0,0:02:28.01,0:02:29.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytotrophoblaste se raréfient.
+Dialogue: 0,0:02:29.67,0:02:31.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au cours du {\c&H66D1FF&}sixième{\c&HFFFFFF&} {\c&H66D1FF&}mois{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:31.07,0:02:32.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des capillaires fœtaux s'accolent
+Dialogue: 0,0:02:32.85,0:02:33.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}directement au
+Dialogue: 0,0:02:33.60,0:02:34.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}syncytiotrophoblaste,
+Dialogue: 0,0:02:34.74,0:02:36.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans des zones où il est anucléé
+Dialogue: 0,0:02:36.46,0:02:37.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les zones d'échange.
+Dialogue: 0,0:02:38.20,0:02:39.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mécanismes classiques :
+Dialogue: 0,0:02:39.66,0:02:40.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}diffusion{\c&HFFFFFF&} {\c&H66D1FF&}simple{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:40.63,0:02:42.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour O2, CO2, lipides,
+Dialogue: 0,0:02:42.31,0:02:43.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}urée ; {\c&H66D1FF&}osmose{\c&HFFFFFF&} , pour l'eau ;
+Dialogue: 0,0:02:43.82,0:02:44.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}transport{\c&HFFFFFF&} {\c&H66D1FF&}facilité{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:44.90,0:02:46.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour le glucose ; {\c&H66D1FF&}transport{\c&HFFFFFF&} {\c&H66D1FF&}actif{\c&HFFFFFF&}
+Dialogue: 0,0:02:46.68,0:02:48.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, pour les ions et l'acide urique.
+Dialogue: 0,0:02:48.92,0:02:50.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines maternelles ne
+Dialogue: 0,0:02:50.39,0:02:51.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}traversent pas : après
+Dialogue: 0,0:02:51.55,0:02:53.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endocytose, elles sont dégradées,
+Dialogue: 0,0:02:53.29,0:02:55.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et servent de source d'acides aminés.
+Dialogue: 0,0:02:55.37,0:02:57.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}immunoglobulines{\c&HFFFFFF&} {\c&H66D1FF&}G{\c&HFFFFFF&} sont
+Dialogue: 0,0:02:57.02,0:02:58.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épargnées, grâce à un récepteur
+Dialogue: 0,0:02:58.91,0:03:00.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaire spécifique,
+Dialogue: 0,0:03:00.55,0:03:01.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protecteur.
+Dialogue: 0,0:03:01.62,0:03:03.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les IgG fournies par la mère,
+Dialogue: 0,0:03:03.30,0:03:04.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}surtout en fin de grossesse,
+Dialogue: 0,0:03:04.82,0:03:06.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}assurent une {\c&H66D1FF&}immunité{\c&HFFFFFF&} {\c&H66D1FF&}passive{\c&HFFFFFF&}
+Dialogue: 0,0:03:06.40,0:03:08.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pendant les premiers mois après
+Dialogue: 0,0:03:08.08,0:03:08.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la naissance.
+Dialogue: 0,0:03:09.34,0:03:10.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une incompatibilité rhésus,
+Dialogue: 0,0:03:10.77,0:03:12.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}antigène des globules rouges,
+Dialogue: 0,0:03:12.30,0:03:14.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est à craindre quand une mère {\c&H66D1FF&}Rh{\c&HFFFFFF&}
+Dialogue: 0,0:03:14.20,0:03:15.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}moins{\c&HFFFFFF&} porte un fœtus {\c&H66D1FF&}Rh{\c&HFFFFFF&} {\c&H66D1FF&}plus{\c&HFFFFFF&} .
+Dialogue: 0,0:03:16.39,0:03:17.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le risque est faible à la
+Dialogue: 0,0:03:17.81,0:03:18.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}première grossesse,
+Dialogue: 0,0:03:18.88,0:03:20.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}car les globules rouges du fœtus
+Dialogue: 0,0:03:20.69,0:03:22.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}restent invisibles pour le
+Dialogue: 0,0:03:22.17,0:03:23.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}système immunitaire maternel.
+Dialogue: 0,0:03:23.95,0:03:25.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais à l'accouchement,
+Dialogue: 0,0:03:25.06,0:03:26.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du sang fœtal passe dans le sang
+Dialogue: 0,0:03:26.67,0:03:28.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la mère, qui fabrique des
+Dialogue: 0,0:03:28.08,0:03:29.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}anticorps anti Rh plus.
+Dialogue: 0,0:03:29.84,0:03:31.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces anticorps persistent,
+Dialogue: 0,0:03:31.12,0:03:32.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et mettent en danger la {\c&H66D1FF&}grossesse{\c&HFFFFFF&}
+Dialogue: 0,0:03:32.82,0:03:34.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}suivante{\c&HFFFFFF&} : transmis au fœtus,
+Dialogue: 0,0:03:34.31,0:03:36.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont des IgG, ils s'attaquent
+Dialogue: 0,0:03:36.05,0:03:38.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à ses globules rouges s'il est Rh plus.
+Dialogue: 0,0:03:38.40,0:03:39.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la {\c&H66D1FF&}maladie{\c&HFFFFFF&} {\c&H66D1FF&}hémolytique{\c&HFFFFFF&} {\c&H66D1FF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:03:39.81,0:03:40.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}nouveau-né{\c&HFFFFFF&} .
+Dialogue: 0,0:03:40.92,0:03:41.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:42.16,0:03:43.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La veine ombilicale amène le
+Dialogue: 0,0:03:43.71,0:03:45.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sang fœtal au placenta” : faux.
+Dialogue: 0,0:03:45.51,0:03:46.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Artères vers le placenta,
+Dialogue: 0,0:03:46.95,0:03:48.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}veine retour vers le fœtus.
+Dialogue: 0,0:03:48.91,0:03:50.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le placenta increta dépasse le
+Dialogue: 0,0:03:50.56,0:03:51.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}myomètre” : faux, c'est le
+Dialogue: 0,0:03:51.94,0:03:52.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}percreta.
+Dialogue: 0,0:03:52.58,0:03:53.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Increta, dans le myomètre.
+Dialogue: 0,0:03:54.27,0:03:55.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le glucose traverse par
+Dialogue: 0,0:03:55.59,0:03:56.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diffusion simple” :
+Dialogue: 0,0:03:56.63,0:03:58.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, par transport facilité.
+Dialogue: 0,0:03:58.86,0:04:00.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Accreta, increta, percreta :
+Dialogue: 0,0:04:00.37,0:04:01.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“à”, “dans”, “à travers”.
+Dialogue: 0,0:04:01.54,0:04:02.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On accroche, on entre,
+Dialogue: 0,0:04:02.71,0:04:03.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on perce.
+Dialogue: 0,0:04:03.60,0:04:04.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pour le cordon,
+Dialogue: 0,0:04:04.56,0:04:06.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'inverse de l'adulte :
+Dialogue: 0,0:04:06.11,0:04:07.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les artères portent le sang
+Dialogue: 0,0:04:07.56,0:04:08.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pauvre vers le placenta ;
+Dialogue: 0,0:04:08.90,0:04:10.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la veine rapporte le sang riche
+Dialogue: 0,0:04:10.56,0:04:11.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au fœtus.
+Dialogue: 0,0:04:11.60,0:04:12.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quelles protéines
+Dialogue: 0,0:04:12.76,0:04:14.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternelles traversent sans être
+Dialogue: 0,0:04:14.30,0:04:14.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dégradées ?
+Dialogue: 0,0:04:19.23,0:04:20.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les IgG, protégées par un
+Dialogue: 0,0:04:20.83,0:04:22.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récepteur intracellulaire
+Dialogue: 0,0:04:22.31,0:04:22.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifique.
+Dialogue: 0,0:04:23.52,0:04:24.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:24.55,0:04:26.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la tératogenèse, ses trois
+Dialogue: 0,0:04:26.05,0:04:27.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}principes, et trois médicaments
+Dialogue: 0,0:04:27.83,0:04:28.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tératogènes.
