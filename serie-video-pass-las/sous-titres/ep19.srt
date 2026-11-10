@@ -1,0 +1,535 @@
+1
+00:00:00,300 --> 00:00:01,752
+Dans l'hypercholestérolémie
+
+2
+00:00:01,752 --> 00:00:03,097
+familiale, le cholestérol
+
+3
+00:00:03,097 --> 00:00:04,496
+s'accumule jusque dans les
+
+4
+00:00:04,496 --> 00:00:05,841
+paupières et les artères.
+
+5
+00:00:05,981 --> 00:00:07,713
+La cause : une porte d'entrée
+
+6
+00:00:07,713 --> 00:00:09,505
+cassée, le récepteur du LDL.
+
+7
+00:00:09,905 --> 00:00:11,442
+Au programme : endocytose,
+
+8
+00:00:11,442 --> 00:00:12,978
+exocytose, et le trajet du
+
+9
+00:00:12,978 --> 00:00:14,337
+glucose dans la cellule
+
+10
+00:00:14,337 --> 00:00:15,047
+intestinale.
+
+11
+00:00:15,607 --> 00:00:16,704
+Les macromolécules,
+
+12
+00:00:16,704 --> 00:00:18,263
+protéines, polysaccharides,
+
+13
+00:00:18,263 --> 00:00:19,533
+lipides, ainsi que les
+
+14
+00:00:19,533 --> 00:00:21,034
+micro-organismes et autres
+
+15
+00:00:21,034 --> 00:00:22,478
+particules, traversent la
+
+16
+00:00:22,478 --> 00:00:24,094
+membrane via la formation de
+
+17
+00:00:24,094 --> 00:00:24,672
+vésicules.
+
+18
+00:00:25,072 --> 00:00:26,707
+L' endocytose , pour l'entrée :
+
+19
+00:00:26,707 --> 00:00:28,185
+importante pour la nutrition
+
+20
+00:00:28,185 --> 00:00:29,873
+cellulaire et l'incorporation de
+
+21
+00:00:29,873 --> 00:00:31,614
+macromolécules, et impliquée dans
+
+22
+00:00:31,614 --> 00:00:32,511
+la destruction de
+
+23
+00:00:32,511 --> 00:00:34,253
+micro-organismes par des cellules
+
+24
+00:00:34,253 --> 00:00:34,939
+immunitaires.
+
+25
+00:00:35,339 --> 00:00:37,063
+L' exocytose , pour l'exportation
+
+26
+00:00:37,063 --> 00:00:38,578
+: impliquée dans la sécrétion
+
+27
+00:00:38,578 --> 00:00:39,727
+d'hormones et d'autres
+
+28
+00:00:39,727 --> 00:00:40,302
+substances.
+
+29
+00:00:40,862 --> 00:00:41,633
+Trois types.
+
+30
+00:00:42,033 --> 00:00:43,367
+La phagocytose : pour les
+
+31
+00:00:43,367 --> 00:00:44,487
+particules, cellules,
+
+32
+00:00:44,487 --> 00:00:45,928
+micro-organismes, fragments
+
+33
+00:00:45,928 --> 00:00:46,515
+organiques.
+
+34
+00:00:46,655 --> 00:00:48,320
+La membrane entoure la particule
+
+35
+00:00:48,320 --> 00:00:49,776
+puis se referme en vésicule.
+
+36
+00:00:50,176 --> 00:00:51,494
+La pinocytose : pour les
+
+37
+00:00:51,494 --> 00:00:52,647
+substances dissoutes,
+
+38
+00:00:52,647 --> 00:00:54,185
+capturées en gouttelettes de
+
+39
+00:00:54,185 --> 00:00:55,832
+fluide, par invagination de la
+
+40
+00:00:55,832 --> 00:00:56,326
+membrane.
+
+41
+00:00:56,726 --> 00:00:58,388
+L'endocytose via récepteur :
+
+42
+00:00:58,388 --> 00:00:59,753
+pour des macromolécules
+
+43
+00:00:59,753 --> 00:01:01,474
+spécifiques, la transferrine,
+
+44
+00:01:01,474 --> 00:01:02,779
+qui transporte le fer,
+
+45
+00:01:02,779 --> 00:01:04,738
+ou les LDL, qui transportent le
+
+46
+00:01:04,738 --> 00:01:05,450
+cholestérol.
+
+47
+00:01:05,590 --> 00:01:07,189
+Elles se fixent d'abord sur des
+
+48
+00:01:07,189 --> 00:01:08,893
+récepteurs, qui les attirent même
+
+49
+00:01:08,893 --> 00:01:10,544
+peu concentrées, dans une région
+
+50
+00:01:10,544 --> 00:01:11,886
+où le feuillet interne est
+
+51
+00:01:11,886 --> 00:01:13,073
+recouvert de clathrine.
+
+52
+00:01:13,213 --> 00:01:14,750
+Invagination, puis vésicule
+
+53
+00:01:14,750 --> 00:01:15,945
+enrobée de clathrine.
+
+54
+00:01:16,505 --> 00:01:18,013
+Destination : la plupart des
+
+55
+00:01:18,013 --> 00:01:19,521
+macromolécules et particules
+
+56
+00:01:19,521 --> 00:01:21,244
+ingérées finiront dégradées dans
+
+57
+00:01:21,244 --> 00:01:22,859
+des lysosomes, et les produits
+
+58
+00:01:22,859 --> 00:01:24,582
+pourront passer dans le cytosol.
+
+59
+00:01:24,722 --> 00:01:26,372
+Certaines vésicules s'associent
+
+60
+00:01:26,372 --> 00:01:27,650
+au Golgi, qui dirige les
+
+61
+00:01:27,650 --> 00:01:29,353
+molécules vers des compartiments
+
+62
+00:01:29,353 --> 00:01:29,992
+spécifiques.
+
+63
+00:01:30,392 --> 00:01:32,397
+L' hypercholestérolémie familiale
+
+64
+00:01:32,397 --> 00:01:33,916
+: un dysfonctionnement du
+
+65
+00:01:33,916 --> 00:01:35,253
+récepteur nécessaire à
+
+66
+00:01:35,253 --> 00:01:37,562
+l'endocytose de la lipoprotéine LDL.
+
+67
+00:01:37,702 --> 00:01:39,394
+Le LDL chargé de cholestérol
+
+68
+00:01:39,394 --> 00:01:40,465
+reste dans le sang,
+
+69
+00:01:40,465 --> 00:01:42,269
+et le cholestérol se dépose dans
+
+70
+00:01:42,269 --> 00:01:43,905
+différentes parties du corps,
+
+71
+00:01:43,905 --> 00:01:45,032
+comme les paupières,
+
+72
+00:01:45,032 --> 00:01:46,160
+et dans les artères,
+
+73
+00:01:46,160 --> 00:01:47,062
+avec des risques
+
+74
+00:01:47,062 --> 00:01:48,077
+cardiovasculaires.
+
+75
+00:01:48,637 --> 00:01:50,134
+Les molécules destinées à la
+
+76
+00:01:50,134 --> 00:01:51,844
+sécrétion sont incluses dans des
+
+77
+00:01:51,844 --> 00:01:53,341
+vésicules dérivées du Golgi,
+
+78
+00:01:53,341 --> 00:01:54,838
+qui migrent vers la membrane
+
+79
+00:01:54,838 --> 00:01:56,548
+plasmique, fusionnent avec elle,
+
+80
+00:01:56,548 --> 00:01:57,938
+et libèrent leur contenu à
+
+81
+00:01:57,938 --> 00:01:58,579
+l'extérieur.
+
+82
+00:01:58,979 --> 00:02:00,126
+Molécules sécrétées :
+
+83
+00:02:00,126 --> 00:02:01,273
+des hormones, pour la
+
+84
+00:02:01,273 --> 00:02:02,693
+transmission de messages à
+
+85
+00:02:02,693 --> 00:02:03,457
+distance ; des
+
+86
+00:02:03,457 --> 00:02:04,495
+neurotransmetteurs,
+
+87
+00:02:04,495 --> 00:02:06,242
+d'une cellule nerveuse à l'autre
+
+88
+00:02:06,242 --> 00:02:07,881
+; des composants de la matrice
+
+89
+00:02:07,881 --> 00:02:09,410
+extracellulaire ; du mucus ;
+
+90
+00:02:09,410 --> 00:02:10,775
+et d'autres composants et
+
+91
+00:02:10,775 --> 00:02:11,430
+métabolites.
+
+92
+00:02:11,990 --> 00:02:13,873
+Une synthèse de tout le chapitre
+
+93
+00:02:13,873 --> 00:02:15,403
+: le flux de Na plus et de
+
+94
+00:02:15,403 --> 00:02:16,698
+glucose, de la lumière
+
+95
+00:02:16,698 --> 00:02:18,228
+intestinale vers le milieu
+
+96
+00:02:18,228 --> 00:02:19,935
+intra-corporel, à travers les
+
+97
+00:02:19,935 --> 00:02:21,347
+cellules de l'épithélium
+
+98
+00:02:21,347 --> 00:02:21,994
+intestinal.
+
+99
+00:02:22,394 --> 00:02:24,439
+Le Na plus : transport passif par
+
+100
+00:02:24,439 --> 00:02:26,050
+SGLT1 du côté apical,
+
+101
+00:02:26,050 --> 00:02:28,094
+puis transport actif par la pompe
+
+102
+00:02:28,094 --> 00:02:29,581
+sodium potassium du côté
+
+103
+00:02:29,581 --> 00:02:30,387
+baso-latéral.
+
+104
+00:02:30,787 --> 00:02:32,846
+Le glucose : transport actif par
+
+105
+00:02:32,846 --> 00:02:34,518
+SGLT1 du côté apical,
+
+106
+00:02:34,518 --> 00:02:36,770
+puis transport passif par GLUT2
+
+107
+00:02:36,770 --> 00:02:38,121
+du côté baso-latéral,
+
+108
+00:02:38,121 --> 00:02:39,408
+plus de l'exocytose.
+
+109
+00:02:39,808 --> 00:02:41,363
+Il s'ensuit un flux d'eau par
+
+110
+00:02:41,363 --> 00:02:43,078
+osmose, indispensable à la bonne
+
+111
+00:02:43,078 --> 00:02:43,722
+hydratation.
+
+112
+00:02:43,862 --> 00:02:45,670
+D'où la solution de réhydratation
+
+113
+00:02:45,670 --> 00:02:47,259
+: un mélange de Na plus et de
+
+114
+00:02:47,259 --> 00:02:47,698
+glucose.
+
+115
+00:02:48,258 --> 00:02:49,289
+Le piège favori.
+
+116
+00:02:49,689 --> 00:02:51,442
+“Au pôle apical, le glucose entre
+
+117
+00:02:51,442 --> 00:02:52,975
+par transport passif” : faux.
+
+118
+00:02:53,115 --> 00:02:55,346
+Par SGLT1, le Na plus est passif
+
+119
+00:02:55,346 --> 00:02:56,793
+et le glucose est actif.
+
+120
+00:02:57,193 --> 00:02:58,565
+Et au pôle baso-latéral,
+
+121
+00:02:58,565 --> 00:03:00,394
+c'est l'inverse : le Na plus est
+
+122
+00:03:00,394 --> 00:03:01,537
+actif, par la pompe,
+
+123
+00:03:01,537 --> 00:03:02,737
+et le glucose passif,
+
+124
+00:03:02,737 --> 00:03:03,537
+par GLUT2.
+
+125
+00:03:04,097 --> 00:03:05,477
+Quiz : laquelle est exacte ?
+
+126
+00:03:09,877 --> 00:03:10,692
+Réponse B.
+
+127
+00:03:10,832 --> 00:03:12,150
+La pinocytose capte des
+
+128
+00:03:12,150 --> 00:03:13,354
+substances dissoutes,
+
+129
+00:03:13,354 --> 00:03:15,246
+la plupart des vésicules vont aux
+
+130
+00:03:15,246 --> 00:03:17,253
+lysosomes, et GLUT2 est passif.
+
+131
+00:03:17,813 --> 00:03:18,746
+Prochain épisode :
+
+132
+00:03:18,746 --> 00:03:20,405
+comment les cellules se parlent,
+
+133
+00:03:20,405 --> 00:03:21,389
+de près ou de loin,
+
+134
+00:03:21,389 --> 00:03:22,841
+et la cascade de l'insuline.

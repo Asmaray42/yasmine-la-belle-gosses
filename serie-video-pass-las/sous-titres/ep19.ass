@@ -1,0 +1,147 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'hypercholestérolémie
+Dialogue: 0,0:00:01.75,0:00:03.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}familiale, le cholestérol
+Dialogue: 0,0:00:03.10,0:00:04.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'accumule jusque dans les
+Dialogue: 0,0:00:04.50,0:00:05.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paupières et les artères.
+Dialogue: 0,0:00:05.98,0:00:07.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cause : une porte d'entrée
+Dialogue: 0,0:00:07.71,0:00:09.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cassée, le récepteur du LDL.
+Dialogue: 0,0:00:09.91,0:00:11.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : endocytose,
+Dialogue: 0,0:00:11.44,0:00:12.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exocytose, et le trajet du
+Dialogue: 0,0:00:12.98,0:00:14.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose dans la cellule
+Dialogue: 0,0:00:14.34,0:00:15.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intestinale.
+Dialogue: 0,0:00:15.61,0:00:16.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les macromolécules,
+Dialogue: 0,0:00:16.70,0:00:18.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, polysaccharides,
+Dialogue: 0,0:00:18.26,0:00:19.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides, ainsi que les
+Dialogue: 0,0:00:19.53,0:00:21.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}micro-organismes et autres
+Dialogue: 0,0:00:21.03,0:00:22.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}particules, traversent la
+Dialogue: 0,0:00:22.48,0:00:24.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane via la formation de
+Dialogue: 0,0:00:24.09,0:00:24.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vésicules.
+Dialogue: 0,0:00:25.07,0:00:26.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}endocytose{\c&HFFFFFF&} , pour l'entrée :
+Dialogue: 0,0:00:26.71,0:00:28.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}importante pour la nutrition
+Dialogue: 0,0:00:28.19,0:00:29.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire et l'incorporation de
+Dialogue: 0,0:00:29.87,0:00:31.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}macromolécules, et impliquée dans
+Dialogue: 0,0:00:31.61,0:00:32.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la destruction de
+Dialogue: 0,0:00:32.51,0:00:34.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}micro-organismes par des cellules
+Dialogue: 0,0:00:34.25,0:00:34.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}immunitaires.
+Dialogue: 0,0:00:35.34,0:00:37.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}exocytose{\c&HFFFFFF&} , pour l'exportation
+Dialogue: 0,0:00:37.06,0:00:38.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: impliquée dans la sécrétion
+Dialogue: 0,0:00:38.58,0:00:39.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'hormones et d'autres
+Dialogue: 0,0:00:39.73,0:00:40.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}substances.
+Dialogue: 0,0:00:40.86,0:00:41.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois types.
+Dialogue: 0,0:00:42.03,0:00:43.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La phagocytose : pour les
+Dialogue: 0,0:00:43.37,0:00:44.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}particules, cellules,
+Dialogue: 0,0:00:44.49,0:00:45.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}micro-organismes, fragments
+Dialogue: 0,0:00:45.93,0:00:46.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organiques.
+Dialogue: 0,0:00:46.66,0:00:48.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La membrane entoure la particule
+Dialogue: 0,0:00:48.32,0:00:49.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis se referme en vésicule.
+Dialogue: 0,0:00:50.18,0:00:51.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La pinocytose : pour les
+Dialogue: 0,0:00:51.49,0:00:52.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}substances dissoutes,
+Dialogue: 0,0:00:52.65,0:00:54.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}capturées en gouttelettes de
+Dialogue: 0,0:00:54.19,0:00:55.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fluide, par invagination de la
+Dialogue: 0,0:00:55.83,0:00:56.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane.
+Dialogue: 0,0:00:56.73,0:00:58.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'endocytose via récepteur :
+Dialogue: 0,0:00:58.39,0:00:59.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour des macromolécules
+Dialogue: 0,0:00:59.75,0:01:01.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifiques, la transferrine,
+Dialogue: 0,0:01:01.47,0:01:02.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui transporte le fer,
+Dialogue: 0,0:01:02.78,0:01:04.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou les LDL, qui transportent le
+Dialogue: 0,0:01:04.74,0:01:05.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cholestérol.
+Dialogue: 0,0:01:05.59,0:01:07.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles se fixent d'abord sur des
+Dialogue: 0,0:01:07.19,0:01:08.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récepteurs, qui les attirent même
+Dialogue: 0,0:01:08.89,0:01:10.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peu concentrées, dans une région
+Dialogue: 0,0:01:10.54,0:01:11.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}où le feuillet interne est
+Dialogue: 0,0:01:11.89,0:01:13.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}recouvert de clathrine.
+Dialogue: 0,0:01:13.21,0:01:14.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Invagination, puis vésicule
+Dialogue: 0,0:01:14.75,0:01:15.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enrobée de clathrine.
+Dialogue: 0,0:01:16.51,0:01:18.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Destination : la plupart des
+Dialogue: 0,0:01:18.01,0:01:19.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}macromolécules et particules
+Dialogue: 0,0:01:19.52,0:01:21.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ingérées finiront dégradées dans
+Dialogue: 0,0:01:21.24,0:01:22.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des lysosomes, et les produits
+Dialogue: 0,0:01:22.86,0:01:24.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pourront passer dans le cytosol.
+Dialogue: 0,0:01:24.72,0:01:26.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certaines vésicules s'associent
+Dialogue: 0,0:01:26.37,0:01:27.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au Golgi, qui dirige les
+Dialogue: 0,0:01:27.65,0:01:29.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules vers des compartiments
+Dialogue: 0,0:01:29.35,0:01:29.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifiques.
+Dialogue: 0,0:01:30.39,0:01:32.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}hypercholestérolémie{\c&HFFFFFF&} {\c&H66D1FF&}familiale{\c&HFFFFFF&}
+Dialogue: 0,0:01:32.40,0:01:33.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: un dysfonctionnement du
+Dialogue: 0,0:01:33.92,0:01:35.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récepteur nécessaire à
+Dialogue: 0,0:01:35.25,0:01:37.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'endocytose de la lipoprotéine LDL.
+Dialogue: 0,0:01:37.70,0:01:39.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le LDL chargé de cholestérol
+Dialogue: 0,0:01:39.39,0:01:40.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reste dans le sang,
+Dialogue: 0,0:01:40.47,0:01:42.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le cholestérol se dépose dans
+Dialogue: 0,0:01:42.27,0:01:43.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes parties du corps,
+Dialogue: 0,0:01:43.91,0:01:45.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les paupières,
+Dialogue: 0,0:01:45.03,0:01:46.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et dans les artères,
+Dialogue: 0,0:01:46.16,0:01:47.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec des risques
+Dialogue: 0,0:01:47.06,0:01:48.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cardiovasculaires.
+Dialogue: 0,0:01:48.64,0:01:50.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les molécules destinées à la
+Dialogue: 0,0:01:50.13,0:01:51.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrétion sont incluses dans des
+Dialogue: 0,0:01:51.84,0:01:53.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vésicules dérivées du Golgi,
+Dialogue: 0,0:01:53.34,0:01:54.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui migrent vers la membrane
+Dialogue: 0,0:01:54.84,0:01:56.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasmique, fusionnent avec elle,
+Dialogue: 0,0:01:56.55,0:01:57.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et libèrent leur contenu à
+Dialogue: 0,0:01:57.94,0:01:58.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extérieur.
+Dialogue: 0,0:01:58.98,0:02:00.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Molécules sécrétées :
+Dialogue: 0,0:02:00.13,0:02:01.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des hormones, pour la
+Dialogue: 0,0:02:01.27,0:02:02.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmission de messages à
+Dialogue: 0,0:02:02.69,0:02:03.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}distance ; des
+Dialogue: 0,0:02:03.46,0:02:04.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}neurotransmetteurs,
+Dialogue: 0,0:02:04.50,0:02:06.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une cellule nerveuse à l'autre
+Dialogue: 0,0:02:06.24,0:02:07.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; des composants de la matrice
+Dialogue: 0,0:02:07.88,0:02:09.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire ; du mucus ;
+Dialogue: 0,0:02:09.41,0:02:10.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et d'autres composants et
+Dialogue: 0,0:02:10.78,0:02:11.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métabolites.
+Dialogue: 0,0:02:11.99,0:02:13.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une synthèse de tout le chapitre
+Dialogue: 0,0:02:13.87,0:02:15.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: le flux de Na plus et de
+Dialogue: 0,0:02:15.40,0:02:16.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose, de la lumière
+Dialogue: 0,0:02:16.70,0:02:18.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intestinale vers le milieu
+Dialogue: 0,0:02:18.23,0:02:19.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intra-corporel, à travers les
+Dialogue: 0,0:02:19.94,0:02:21.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules de l'épithélium
+Dialogue: 0,0:02:21.35,0:02:21.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intestinal.
+Dialogue: 0,0:02:22.39,0:02:24.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le Na plus : transport {\c&H66D1FF&}passif{\c&HFFFFFF&} par
+Dialogue: 0,0:02:24.44,0:02:26.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}SGLT1 du côté apical,
+Dialogue: 0,0:02:26.05,0:02:28.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis transport {\c&H66D1FF&}actif{\c&HFFFFFF&} par la pompe
+Dialogue: 0,0:02:28.09,0:02:29.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sodium potassium du côté
+Dialogue: 0,0:02:29.58,0:02:30.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}baso-latéral.
+Dialogue: 0,0:02:30.79,0:02:32.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glucose : transport {\c&H66D1FF&}actif{\c&HFFFFFF&} par
+Dialogue: 0,0:02:32.85,0:02:34.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}SGLT1 du côté apical,
+Dialogue: 0,0:02:34.52,0:02:36.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis transport {\c&H66D1FF&}passif{\c&HFFFFFF&} par GLUT2
+Dialogue: 0,0:02:36.77,0:02:38.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du côté baso-latéral,
+Dialogue: 0,0:02:38.12,0:02:39.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus de l'exocytose.
+Dialogue: 0,0:02:39.81,0:02:41.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il s'ensuit un flux d'eau par
+Dialogue: 0,0:02:41.36,0:02:43.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}osmose, indispensable à la bonne
+Dialogue: 0,0:02:43.08,0:02:43.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydratation.
+Dialogue: 0,0:02:43.86,0:02:45.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'où la solution de réhydratation
+Dialogue: 0,0:02:45.67,0:02:47.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: un mélange de Na plus et de
+Dialogue: 0,0:02:47.26,0:02:47.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose.
+Dialogue: 0,0:02:48.26,0:02:49.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège favori.
+Dialogue: 0,0:02:49.69,0:02:51.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Au pôle apical, le glucose entre
+Dialogue: 0,0:02:51.44,0:02:52.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par transport passif” : faux.
+Dialogue: 0,0:02:53.12,0:02:55.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par SGLT1, le Na plus est passif
+Dialogue: 0,0:02:55.35,0:02:56.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le glucose est actif.
+Dialogue: 0,0:02:57.19,0:02:58.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et au pôle baso-latéral,
+Dialogue: 0,0:02:58.57,0:03:00.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'inverse : le Na plus est
+Dialogue: 0,0:03:00.39,0:03:01.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}actif, par la pompe,
+Dialogue: 0,0:03:01.54,0:03:02.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le glucose passif,
+Dialogue: 0,0:03:02.74,0:03:03.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par GLUT2.
+Dialogue: 0,0:03:04.10,0:03:05.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:09.88,0:03:10.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:10.83,0:03:12.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La pinocytose capte des
+Dialogue: 0,0:03:12.15,0:03:13.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}substances dissoutes,
+Dialogue: 0,0:03:13.35,0:03:15.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la plupart des vésicules vont aux
+Dialogue: 0,0:03:15.25,0:03:17.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lysosomes, et GLUT2 est passif.
+Dialogue: 0,0:03:17.81,0:03:18.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:18.75,0:03:20.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comment les cellules se parlent,
+Dialogue: 0,0:03:20.41,0:03:21.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de près ou de loin,
+Dialogue: 0,0:03:21.39,0:03:22.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la cascade de l'insuline.
