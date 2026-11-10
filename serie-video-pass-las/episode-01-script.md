@@ -1,819 +1,1398 @@
-# ÉPISODE 1 — « Vivant ou pas vivant ? La checklist du cours »
+# ÉPISODE 1 — « Vivant ou pas vivant ? »
 
-> Série PASS/L.AS — Biologie & Embryologie générale (WMEDE1152) · Script de production intégral
+> Série vidéo BA1 UCLouvain — Biologie & Embryologie générale (WMEDE1152) · Préparation de l'examen de janvier · Script de production intégral (généré depuis la source `source/episodes/ep01.yaml`)
 
----
+| Livrable | Fichier |
+|---|---|
+| Vidéo verticale 9:16 (1080×1920, 30 i/s, sous-titres incrustés) | [`videos/ep01.mp4`](videos/ep01.mp4) |
+| Voix off seule | [`voix-off/ep01.m4a`](voix-off/ep01.m4a) |
+| Sous-titres | [`sous-titres/ep01.srt`](sous-titres/ep01.srt) · [`.ass`](sous-titres/ep01.ass) |
+| Durée réelle | 11.6 min (11:36) |
 
 ## 1. Titre de l'épisode
 
-**Vivant ou pas vivant ? La checklist du cours**
-*Sous-titre écran : 7 caractéristiques · 9 niveaux · 5 thèmes unificateurs*
+**Vivant ou pas vivant ?**  
+*7 caractéristiques · 9 niveaux · 5 thèmes unificateurs*
 
 ## 2. Position dans le cours
 
-- **Fichier :** S1-1 (`WMEDE1152-Syllabus-1-1`, titre interne DiapoWMEDE1152-S1v25)
-- **Pages du PDF :** **p.1 à 8** (16 diapositives)
-- **Partie I** « Des molécules jusqu'aux cellules », **chapitre I « La Biologie, la science de la vie »**, avec ses 3 points : 1. Caractéristiques des êtres vivants · 2. Organisation hiérarchisée · 3. Les thèmes unificateurs de la biologie. Les pages d'organisation du cours (p.1-2) sont incluses.
+- **Pages du PDF :** S1-1 p.1 à 8
+- **Chapitre :** Partie I — Chapitre I. La Biologie, la science de la vie
 
 ## 3. Objectifs pédagogiques
 
 À la fin de l'épisode, tu sais :
 
-1. Situer le cours : ses deux parties, son organisation (TP, interrogation, monitorats, Moodle), ses supports et ses livres de référence.
-2. Expliquer le schéma physique / chimie / biologie de la p.3.
-3. **Réciter les 7 caractéristiques des êtres vivants** avec les intitulés exacts du cours.
-4. **Ordonner les 9 niveaux de l'organisation hiérarchisée** et placer les 7 disciplines (chimie organique, biochimie, cytologie, histologie, anatomie, biologie moléculaire, physiologie).
-5. **Énoncer les 5 thèmes unificateurs** avec leurs sous-points et leurs chiffres (1 ; 959 ; 10.000 à 100.000 milliards ; 2 chaînes ; 4 nucléotides ; ~3,8 milliards d'années).
-6. Distinguer **domaine** et **règne**, **procaryotes** et **eucaryotes**, et lire l'arbre du vivant.
-7. Décrire *Naegleria fowleri* : nature, milieu, porte d'entrée, cible, conséquence.
+1. Situer le cours WMEDE1152 : ses deux parties, son organisation et ses supports.
+2. Expliquer le schéma physique / chimie / biologie (p.3).
+3. Réciter les 7 caractéristiques des êtres vivants avec les intitulés exacts du cours.
+4. Ordonner les 9 niveaux de l'organisation hiérarchisée et placer les 7 disciplines.
+5. Énoncer les 5 thèmes unificateurs avec leurs sous-points et leurs chiffres.
+6. Distinguer domaine et règne, procaryotes et eucaryotes, et lire l'arbre du vivant.
+7. Décrire Naegleria Floweri : nature, milieu, porte d'entrée, cible, conséquence.
 
 ## 4. Hook d'introduction
 
-> « Un feu, ça grandit, ça consomme de l'oxygène, ça peut même se “multiplier” en projetant des étincelles. Alors… un feu, c'est vivant ? Non. Et le jour du concours, “je sens que non”, ça ne marche pas : il te faut des critères, avec les mots exacts du cours. »
-
-*(Le feu est un exemple d'accroche qui ne vient pas du cours : badge 💡 à l'écran.)*
-
----
+> « Un feu, ça grandit, ça consomme de l'oxygène, ça peut même se multiplier en projetant des étincelles. Alors, un feu, c'est vivant ? Non. Et à l'examen de janvier, “je sens que non”, ça ne suffit pas : il te faut les critères **exacts** du cours. Dans cet épisode, on verrouille la checklist du vivant : **sept** caractéristiques, **neuf** niveaux d'organisation, **cinq** thèmes unificateurs. Et en bonus, une amibe qui s'attaque au cerveau. On y va. »
 
 ## 5. Script audiovisuel intégral
 
-### Charte de production de l'épisode
+**Charte commune :** format vertical 9:16 (1080×1920) ; voix neuronale française unique pour toute la série ; sous-titres synchronisés incrustés (gros caractères blancs contour noir, mots-clés en jaune) au-dessus de la zone d'interface TikTok ; barre de progression en haut ; référence de page en haut à droite. Code couleur : bleu = intitulé du cours ; jaune = chiffre ; rouge = piège ; vert = mnémo ; violet = complément hors cours.
 
-- **Format :** vertical 9:16 (TikTok, Reels, Shorts) ; une version 16:9 pour YouTube est possible avec la même mise en page centrée.
-- **Durée totale : ~15 min 20** (voix off de ~2 300 mots, débit dynamique d'environ 160 mots/min). L'épisode peut aussi être publié en **deux parties** : **1A** = séquences 1 à 7 (~6 min 45, « Le vivant et ses niveaux ») et **1B** = séquences 8 à 15 (~8 min 35, « Les 5 thèmes unificateurs »). Dans ce cas, la séquence 14 (pause active) est reprise en fin de 1B, et la 1A se termine sur la phrase de transition de la séquence 7.
-- **Code couleur fixe :** 🟦 bleu = définition ou intitulé du cours · 🟨 jaune = chiffre à retenir · 🟥 rouge = PIÈGE DE QCM · 🟩 vert = mnémotechnique · 🟪 violet + badge « 💡 Complément » = information **hors PDF**.
-- **Référence de page** toujours affichée en bas à droite (ex. « S1-1 p.5 »).
-- **Figures « © Ed. De Boeck »** (p.5, 7, 8) : on **ne copie pas** les images. On les **recrée** en schéma en suivant les descriptions ci-dessous.
-- **Rythme :** un mot-clé à l'écran toutes les 3 à 5 secondes au maximum ; jamais plus de 3 lignes de texte incrusté en même temps.
-
----
-
-### SÉQUENCE 1 — HOOK
+### SÉQUENCE 1 — UN FEU, ÇA GRANDIT… ALORS C'EST VIVANT ?  ·  *ACCROCHE*
 
 | | |
 |---|---|
-| **A. Durée** | 30 s (00:00 → 00:30) |
-| **Source** | Accroche : aucune page (exemple hors cours) ; annonce du contenu : S1-1 p.4-8 |
+| **A. Durée** | 25 s (00:00 → 00:25) |
+| **Source** | S1-1 p.4-8 |
 
 **B. Voix off**
-> « Un feu, ça grandit, ça consomme de l'oxygène, ça peut même se “multiplier” en projetant des étincelles. Alors… un feu, c'est vivant ? Non. Et le jour du concours, tu ne pourras pas répondre “je sens que non”. Il te faut des critères précis, avec les mots exacts du cours. Dans cet épisode, on verrouille la checklist officielle du vivant : sept caractéristiques, neuf niveaux d'organisation, cinq thèmes unificateurs. Et en bonus, une amibe qui s'attaque au cerveau. On y va. »
 
-**C. Visuel**
-Plan serré sur une flamme (vidéo d'illustration libre de droits). Trois icônes cochées viennent se poser sur la flamme à chaque verbe : « grandit ✔ », « consomme de l'O2 ✔ », « se multiplie ✔ ». Au mot « Non », un grand ✖ rouge barre la flamme. Puis l'écran se vide et affiche trois compteurs vides : **7**, **9**, **5**. À « amibe », on voit 0,5 s la silhouette floue d'une amibe en microscopie.
+> Un feu, ça grandit, ça consomme de l'oxygène, ça peut même se multiplier en projetant des étincelles. Alors, un feu, c'est vivant ?
+>
+> Non. Et à l'examen de janvier, “je sens que non”, ça ne suffit pas : il te faut les critères **exacts** du cours.
+>
+> Dans cet épisode, on verrouille la checklist du vivant : **sept** caractéristiques, **neuf** niveaux d'organisation, **cinq** thèmes unificateurs.
+>
+> Et en bonus, une amibe qui s'attaque au cerveau. On y va.
+>
+
+**C. Visuel à l'écran**
+
+- Carte d'accroche plein écran : grand mot-titre en jaune, puis phrases-chocs qui apparaissent une à une.
 
 **D. Texte incrusté**
-- « Un feu… c'est vivant ? » → « NON. »
-- « 7 caractéristiques · 9 niveaux · 5 thèmes »
-- Badge 🟪 « 💡 Exemple d'accroche (hors cours) » pendant toute la partie « feu ».
+
+- Titre : **Un feu, ça grandit… alors c'est vivant ?**
+- Il te faut les critères **exacts** du cours
+- **7** caractéristiques · **9** niveaux · **5** thèmes
+- + une amibe qui s'attaque au cerveau
 
 **E. Animation et mise en scène**
-Coupes rapides au rythme des verbes (une toutes les ~1,5 s). Effet sonore « buzzer » sur le ✖. Les chiffres 7, 9 et 5 tombent l'un après l'autre avec un léger rebond. Transition en « wipe » vers la séquence 2.
+
+- Le mot-titre « pop » (agrandissement 82 % → 100 %), puis chaque phrase glisse vers le haut au moment où elle est dite.
+- **00:07** : apparition de la carte « Il te faut les critères **exacts** du cours »
+- **00:13** : apparition de la carte « **7** caractéristiques · **9** niveaux · **5** thèmes »
+- **00:21** : apparition de la carte « + une amibe qui s'attaque au cerveau »
 
 **F. Point de vigilance QCM**
-Aucun : séquence d'accroche.
+
+- —
 
 ---
 
-### SÉQUENCE 2 — LE MODE D'EMPLOI DU COURS
+### SÉQUENCE 2 — LE COURS EN UNE MINUTE  ·  *LE COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 1 min 05 (00:30 → 01:35) |
-| **Source** | S1-1 **p.1** (h et b) et **p.2** (h et b) |
+| **A. Durée** | 59 s (00:25 → 01:23) |
+| **Source** | S1-1 p.1-2 |
 
 **B. Voix off**
-> « Une minute d'organisation, parce que ça fait partie du jeu. Le cours WMEDE1152, “Biologie et Embryologie générale”, est donné par le professeur Charles De Smet. Il a deux parties : la première va des molécules jusqu'aux cellules, c'est le fonctionnement ; la deuxième va des cellules jusqu'à l'organisme, c'est le développement embryonnaire.
->
-> Côté organisation : les séances de travaux pratiques, avec rapports et interros, sont obligatoires. Il y a une interrogation sur la matière vue vers le 1er novembre, non cotée. Et des monitorats de révision, sur inscription. Pour être informé, tu t'inscris sur Moodle, et tu utilises les forums pour poser tes questions sur la matière ou sur l'organisation.
->
-> Tes supports : tes notes de cours ; les dias largement annotées, c'est-à-dire le syllabus CIB pour la partie 1 et les PDF sur Moodle ; les feuilles d'acquis ; et deux livres de référence, “Biologie” de Raven et “Embryologie humaine” de Larsen, tous les deux chez De Boeck. Enfin, les EPI, les exercices personnels d'intégration : on part d'articles de type “case report”, puis on met en commun en auditoire. »
 
-**C. Visuel**
-Écran partagé en deux cartes :
-- **Carte gauche « Le cours »** : WMEDE1152 – Prof. Charles De Smet ; deux blocs empilés « Partie I : molécules → cellules (fonctionnement) » et « Partie II : cellules → organisme (développement embryonnaire) », reliés par une flèche.
-- **Carte droite « Organisation »** : quatre lignes à cocher (TP, interro, monitorats, Moodle).
-Puis une **étagère** apparaît avec 4 objets : un cahier (« notes »), une pile de dias (« syllabus CIB + PDF Moodle »), une feuille (« feuilles d'acquis »), deux livres (« Raven — Biologie » et « Larsen — Embryologie humaine », logo De Boeck). En dernier, une bulle « EPI → case reports → mise en commun en auditoire ».
+> Le cours WMEDE1152, “Biologie et Embryologie générale”, est donné par le professeur Charles De Smet. Il a deux parties.
+>
+> La première partie va **des molécules jusqu'aux cellules** : c'est le fonctionnement. La deuxième va **des cellules jusqu'à l'organisme** : c'est le développement embryonnaire.
+>
+> Les séances de travaux pratiques, avec rapports et interros, sont **obligatoires**. Une interrogation sur la matière vue a lieu vers le premier novembre : elle est **non cotée**. Les monitorats de révision se font sur inscription.
+>
+> Pour être informé, inscris-toi sur Moodle, dans “mon bureau, mes études”, et utilise les forums pour tes questions sur la matière ou l'organisation.
+>
+> Tes supports : tes notes de cours, les dias largement annotées, c'est-à-dire le syllabus CIB pour la partie 1 et les PDF sur Moodle, et les feuilles d'acquis. Les livres de référence : “Biologie” de Raven et “Embryologie humaine” de Larsen, chez De Boeck.
+>
+> Enfin, les EPI, les exercices personnels d'intégration : on part d'articles de type case report, puis on met en commun en auditoire.
+>
+
+**C. Visuel à l'écran**
+
+- Cartes empilées (barre de couleur à gauche) avec les informations d'organisation du cours.
 
 **D. Texte incrusté**
-- « Partie I : des molécules jusqu'aux cellules (fonctionnement) »
-- « Partie II : des cellules jusqu'à l'organisme (développement embryonnaire) »
-- « TP (rapports & interros) : **OBLIGATOIRE** » (le mot « obligatoire » en rouge, comme sur la diapo)
-- « Interrogation ~1er novembre : **non cotée** »
-- « Monitorats (révision) : sur inscription »
-- « Moodle (mon bureau / mes études) + forums »
-- « Supports : notes · dias annotées (syllabus CIB, partie 1 ; PDF Moodle) · feuilles d'acquis »
-- « Raven, *Biologie* (De Boeck) · Larsen, *Embryologie humaine* (De Boeck) »
-- « EPI = exercices personnels d'intégration (case reports) »
+
+- Titre : **Le cours en une minute**
+- WMEDE1152 · Prof. **Charles De Smet**
+- Partie I : des molécules jusqu'aux cellules (**fonctionnement**) · Partie II : des cellules jusqu'à l'organisme (**développement embryonnaire**)
+- TP (rapports & interros) **obligatoires** · interro ~1er novembre **non cotée** · monitorats sur inscription
+- Moodle (mon bureau / mes études) + forums
+- Notes · dias annotées (syllabus CIB, PDF Moodle) · **feuilles d'acquis** · Raven & Larsen (De Boeck)
+- EPI : articles « case report », mise en commun en auditoire
 
 **E. Animation et mise en scène**
-Chaque ligne se coche au moment où elle est prononcée. Les livres glissent sur l'étagère. Rythme soutenu, fond sonore léger. Transition : zoom avant sur le livre « Raven », qui s'ouvre sur un fond blanc (séquence 3).
+
+- Chaque carte glisse vers le haut et apparaît en fondu au moment exact où la voix off la cite.
+- **00:25** : apparition de la carte « WMEDE1152 · Prof. **Charles De Smet** »
+- **00:33** : apparition de la carte « Partie I : des molécules jusqu'aux cellules (**fonctionnement**) · Par… »
+- **00:41** : apparition de la carte « TP (rapports & interros) **obligatoires** · interro ~1er novembre **no… »
+- **00:53** : apparition de la carte « Moodle (mon bureau / mes études) + forums »
+- **01:01** : apparition de la carte « Notes · dias annotées (syllabus CIB, PDF Moodle) · **feuilles d'acquis… »
+- **01:15** : apparition de la carte « EPI : articles « case report », mise en commun en auditoire »
 
 **F. Point de vigilance QCM**
-Pas de piège d'examen ici. **Astuce de méthode** (à dire en sous-titre) : *les feuilles d'acquis sont la référence pour trancher quand le syllabus donne deux chiffres différents* (cela arrivera plus loin dans la série).
-Badge 🟪 sur cette astuce : c'est un conseil, pas une information du PDF.
+
+- Pas de piège d'examen : organisation du cours.
 
 ---
 
-### SÉQUENCE 3 — PHYSIQUE, CHIMIE, BIOLOGIE
+### SÉQUENCE 3 — MATIÈRE INANIMÉE VS SYSTÈME VIVANT  ·  *LA DIAPO DU COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 45 s (01:35 → 02:20) |
-| **Source** | S1-1 **p.3** (h : titre « Partie I » ; b : schéma) |
+| **A. Durée** | 30 s (01:23 → 01:54) |
+| **Source** | S1-1 p.3 — diapo `S1-1:3b` |
 
 **B. Voix off**
-> « Premier schéma de la partie I. À gauche, les matières inanimées : sur la photo, de la roche. Le cours les décrit comme un assemblage “simple” d'éléments, d'atomes. À droite, dans un halo, les systèmes vivants : ici, un lézard. Eux correspondent à une organisation plus complexe de la matière. Le schéma porte trois étiquettes : “physique” à côté du soleil, “chimie” sous la flèche qui va de l'inanimé vers le vivant, et “biologie” sur le cercle du vivant. Et du soleil descend une flèche en pointillés : “énergie”. Retiens l'idée : le vivant, c'est la même matière que l'inanimé, mais organisée de façon plus complexe, et cette organisation a besoin d'énergie. Garde ça en tête, ça revient dans le thème 4. »
 
-**C. Visuel (recréation fidèle du schéma p.3)**
-- En haut au centre, un **soleil jaune** ; à sa gauche, une étiquette sur fond bleu clair **« physique »**.
-- Du soleil descend une **flèche en pointillés orange** marquée **« énergie »**, qui pointe vers la flèche horizontale.
-- À gauche, **« Matières inanimées »** au-dessus d'une photo de roche, avec la légende **« assemblage “simple” d'éléments, atomes »**.
-- Une **flèche horizontale grise** va de la roche vers la droite ; sous elle, l'étiquette sur fond bleu clair **« chimie »**.
-- À droite, un **grand cercle** avec un halo rosé, marqué **« biologie »** en haut ; dedans, **« Systèmes vivants »**, la photo d'un lézard vert et la légende **« organisation plus complexe de la matière »**.
+> Premier schéma de la partie un. À gauche, les **matières inanimées** : le cours les décrit comme un assemblage “simple” d'éléments, d'atomes.
+>
+> À droite, les **systèmes vivants** : une organisation **plus complexe** de la matière.
+>
+> Trois étiquettes : physique, à côté du soleil ; chimie, sous la flèche qui va de l'inanimé vers le vivant ; biologie, sur le cercle du vivant. Et du soleil descend une flèche : l'énergie.
+>
+> Retiens l'idée : le vivant, c'est de la matière organisée de façon plus complexe, et cette organisation a besoin d'énergie. On la retrouvera dans le thème quatre.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:3b** (rendu haute définition du PDF du cours).
 
 **D. Texte incrusté**
-- « Matières inanimées = assemblage “simple” d'éléments, atomes »
-- « Systèmes vivants = organisation plus complexe de la matière »
-- Mots-clés : « physique » · « chimie » · « biologie » · « énergie »
+
+- Titre : **Matière inanimée vs système vivant**
+- Matières inanimées = assemblage **« simple »** d'éléments, atomes
+- Systèmes vivants = organisation **plus complexe** de la matière
+- physique · chimie · biologie · **énergie**
 
 **E. Animation et mise en scène**
-Le schéma se construit de gauche à droite : roche → flèche → cercle du vivant, puis le soleil apparaît et la flèche « énergie » descend en pointillés animés. Les trois étiquettes clignotent une fois quand elles sont nommées. À la fin, le cercle du vivant pulse légèrement pendant « besoin d'énergie ». Transition : le cercle se transforme en carte « Chapitre I ».
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **01:23** : zoom sur la zone (0.00, 0.25) → (0.50, 0.95) de la diapo ; surlignage de « assemblage »
+- **01:30** : zoom sur la zone (0.50, 0.25) → (1.00, 0.95) de la diapo ; surlignage de « organisation »
+- **01:35** : vue d'ensemble de la diapo ; surlignage de « physique », « chimie », « biologie », « énergie »
 
 **F. Point de vigilance QCM**
-Les formulations exactes : inanimé = « assemblage **“simple”** d'éléments, atomes » ; vivant = « organisation **plus complexe** de la matière ». Le cours ne dit **pas** que le vivant est fait d'une autre matière.
+
+- Formulations exactes : inanimé = assemblage « simple » d'éléments, atomes ; vivant = organisation plus complexe de la matière.
 
 ---
 
-### SÉQUENCE 4 — LES 7 CARACTÉRISTIQUES : LA LISTE
+### SÉQUENCE 4 — LES 7 CARACTÉRISTIQUES DES ÊTRES VIVANTS  ·  *À RETENIR*
 
 | | |
 |---|---|
-| **A. Durée** | 45 s (02:20 → 03:05) |
-| **Source** | S1-1 **p.4** (h : sommaire du chapitre I ; b : caractéristiques des êtres vivants) |
+| **A. Durée** | 28 s (01:54 → 02:22) |
+| **Source** | S1-1 p.4 |
 
 **B. Voix off**
-> « Le chapitre I s'appelle “La biologie, la science de la vie”, en trois points : les caractéristiques des êtres vivants, l'organisation hiérarchisée, et les thèmes unificateurs de la biologie. On commence par les caractéristiques. Le cours en donne sept, et tu dois pouvoir les réciter avec ces mots-là, exactement. Un : organisation cellulaire. Deux : complexité ordonnée. Trois : sensibilité. Quatre : croissance, développement et reproduction. Cinq : utilisation d'énergie. Six : homéostasie. Sept : adaptation évolutive.
->
-> Pour les retenir, une phrase : “On Cherche Sept Critères : Un Hamster Adaptable.” O, organisation cellulaire. C, complexité ordonnée. S, sensibilité. C, croissance, développement et reproduction. U, utilisation d'énergie. H, homéostasie. A, adaptation évolutive. Un hamster, c'est vivant… et il coche les sept cases. »
 
-**C. Visuel**
-1. Carte jaune pâle (comme la diapo) : « I. La Biologie, la science de la vie — 1. Caractéristiques des êtres vivants · 2. Organisation hiérarchisée · 3. Les thèmes unificateurs de la biologie ». Le point 1 s'allume.
-2. Encadré bleu clair (comme la diapo) avec les 7 puces, qui apparaissent une par une.
-3. Mnémotechnique : un **hamster dessiné** au centre ; autour de lui, 7 bulles vertes avec les initiales **O – C – S – C – U – H – A**, chacune reliée à son intitulé complet.
+> Le chapitre un s'appelle “La Biologie, la science de la vie”, en trois points : les caractéristiques des êtres vivants, l'organisation hiérarchisée, et les thèmes unificateurs. On commence par les caractéristiques : le cours en donne **sept**. Retiens ces mots-là, exactement.
+>
+> Un : organisation cellulaire.
+>
+> Deux : complexité ordonnée.
+>
+> Trois : sensibilité.
+>
+> Quatre : croissance, développement et reproduction.
+>
+> Cinq : utilisation d'énergie.
+>
+> Six : homéostasie.
+>
+> Sept : adaptation évolutive.
+>
+
+**C. Visuel à l'écran**
+
+- Cartes numérotées empilées ; les mots-clés du cours sont colorés.
 
 **D. Texte incrusté**
-- 🟦 Liste exacte, dans l'ordre du cours :
-1. Organisation cellulaire
-2. Complexité ordonnée
-3. Sensibilité
-4. Croissance, développement et reproduction
-5. Utilisation d'énergie
-6. Homéostasie
-7. Adaptation évolutive
 
-- 🟩 « **O**n **C**herche **S**ept **C**ritères : **U**n **H**amster **A**daptable »
+- Titre : **Les 7 caractéristiques des êtres vivants**
+- 1. Organisation **cellulaire**
+- 2. Complexité **ordonnée**
+- 3. Sensibilité
+- 4. Croissance, développement **et** reproduction
+- 5. Utilisation d'énergie
+- 6. Homéostasie
+- 7. Adaptation **évolutive**
 
 **E. Animation et mise en scène**
-Chaque puce entre par la gauche au moment où elle est prononcée, avec un « tic » sonore. Pour la mnémotechnique, chaque mot de la phrase s'écrit en vert, et sa première lettre vole se placer devant l'intitulé correspondant. À « coche les sept cases », 7 coches vertes apparaissent autour du hamster.
+
+- Révélation progressive, une carte par phrase de voix off (glissement + fondu, 0,3 s), avec un petit son « pop ».
+- **02:08** : apparition de la carte « 1. Organisation **cellulaire** »
+- **02:10** : apparition de la carte « 2. Complexité **ordonnée** »
+- **02:12** : apparition de la carte « 3. Sensibilité »
+- **02:13** : apparition de la carte « 4. Croissance, développement **et** reproduction »
+- **02:16** : apparition de la carte « 5. Utilisation d'énergie »
+- **02:18** : apparition de la carte « 6. Homéostasie »
+- **02:19** : apparition de la carte « 7. Adaptation **évolutive** »
 
 **F. Point de vigilance QCM**
-Les **adjectifs font partie de l'intitulé** : organisation *cellulaire*, complexité *ordonnée*, utilisation *d'énergie*, adaptation *évolutive*. → développé dans la séquence 5.
+
+- Les adjectifs font partie de l'intitulé : organisation cellulaire, complexité ordonnée, adaptation évolutive.
 
 ---
 
-### SÉQUENCE 5 — LES 7 CARACTÉRISTIQUES, UNE PAR UNE + PIÈGE DE QCM
+### SÉQUENCE 5 — LE HAMSTER QUI COCHE LES 7 CASES  ·  *MNÉMO*
 
 | | |
 |---|---|
-| **A. Durée** | 1 min 45 (03:05 → 04:50) |
-| **Source** | S1-1 **p.4b** (la liste) ; renvois vers S1-1 p.5b, p.6b, p.7, p.8 et p.16 |
+| **A. Durée** | 37 s (02:22 → 02:59) |
+| **Source** | S1-1 p.4 |
 
 **B. Voix off**
-> « Maintenant, on rend ces sept mots concrets. Attention : le cours donne la liste, sans définir chaque terme. Les explications qui suivent sont des compléments pour comprendre ; ce que tu dois restituer mot pour mot, ce sont les intitulés.
->
-> Un, organisation cellulaire : tout être vivant est fait d'une ou de plusieurs cellules. C'est justement le premier thème unificateur, on y arrive dans deux minutes.
->
-> Deux, complexité ordonnée : la matière vivante n'est pas juste compliquée, elle est structurée, rangée. Tu le verras sur le schéma “équilibre, non-équilibre” du thème 4.
->
-> Trois, sensibilité : un être vivant perçoit des stimuli et y répond. Le cours y revient dans le thème 3, quand il parle d'intégration de stimulus.
->
-> Quatre, croissance, développement et reproduction : grandir, se transformer au fil du développement, produire de nouveaux individus. Les premiers stades de l'embryon humain, que tu verras avec la théorie cellulaire, en donnent une bonne image.
->
-> Cinq, utilisation d'énergie : le vivant capte et consomme de l'énergie, sans arrêt. Thème 4, encore.
->
-> Six, homéostasie : le maintien d'un milieu intérieur stable. Le cours la cite dans le thème 3, et dans l'épisode 3 tu verras un exemple : le pH du sang, maintenu autour de 7,4.
->
-> Sept, adaptation évolutive : au fil des générations, le vivant évolue. C'est le thème 5 : la diversité de la vie naît de changements évolutifs.
->
-> Et maintenant, le piège. “Croissance, développement et reproduction”, c'est UNE seule caractéristique dans le cours, pas trois. Si un QCM affirme que le cours liste neuf caractéristiques, c'est faux : il y en a sept. Et surveille les adjectifs : complexité ORDONNÉE, adaptation ÉVOLUTIVE. Une proposition qui parle de “complexité aléatoire” ne reprend pas le cours. »
 
-**C. Visuel**
-Une **grille de 7 cases** (2 colonnes + 1 case centrée). Chaque case s'agrandit à son tour, avec un pictogramme et un mini-renvoi :
-1. Organisation cellulaire → pictogramme de cellule ; renvoi « Thème 1 (p.5) »
-2. Complexité ordonnée → billes qui s'alignent ; renvoi « Thème 4 (p.7) »
-3. Sensibilité → onde qui touche une cellule, qui réagit ; renvoi « Thème 3 (p.6) »
-4. Croissance, développement et reproduction → séquence 1 cellule → 2 → 4 ; renvoi « p.5 »
-5. Utilisation d'énergie → soleil + éclair ; renvoi « Thème 4 (p.7) »
-6. Homéostasie → balance en équilibre, « pH ≈ 7,4 » ; renvoi « Thème 3 (p.6) + épisode 3 (p.16) »
-7. Adaptation évolutive → petit arbre qui se ramifie ; renvoi « Thème 5 (p.7-8) »
+> Pour les retenir, une phrase et une image. La phrase : “On Cherche Sept Critères : Un Hamster Adaptable.” Et l'image : ton hamster, qui coche chaque case.
+>
+> O : il est fait de cellules, c'est l'organisation cellulaire.
+>
+> C : son corps est structuré, rangé, c'est la complexité ordonnée.
+>
+> S : il sursaute quand tu tapes sur la cage, c'est la sensibilité.
+>
+> C : il grandit, il se développe et il fait des petits, c'est croissance, développement et reproduction, un seul critère.
+>
+> U : il mange ses graines pour fonctionner, c'est l'utilisation d'énergie.
+>
+> H : son milieu intérieur reste stable, c'est l'homéostasie.
+>
+> A : au fil des générations, son espèce évolue, c'est l'adaptation évolutive.
+>
 
-Pendant le PIÈGE : plein écran rouge, la case 4 se découpe en trois morceaux qui se recollent aussitôt en une seule case, avec le tampon « = 1 ».
+**C. Visuel à l'écran**
+
+- Fond vert : la phrase mnémotechnique en grand (initiales en vert), puis une carte par lettre ou par élément.
+- Phrase mnémotechnique : **O**n **C**herche **S**ept **C**ritères : **U**n **H**amster **A**daptable
 
 **D. Texte incrusté**
-- Bandeau permanent 🟪 « 💡 Explications = compléments · À restituer : les intitulés exacts du cours »
-- Sous chaque case, l'intitulé exact en 🟦
-- PIÈGE 🟥 : « Croissance, développement ET reproduction = **1 seule** caractéristique » · « Le cours en liste **7** (pas 9) » · « Complexité **ORDONNÉE** · Adaptation **ÉVOLUTIVE** »
+
+- Titre : **Le hamster qui coche les 7 cases**
+- **O** — Organisation cellulaire : il est fait de cellules
+- **C** — Complexité ordonnée : un corps structuré, rangé
+- **S** — Sensibilité : il sursaute au bruit
+- **C** — Croissance, développement et reproduction : il grandit et fait des petits
+- **U** — Utilisation d'énergie : il mange ses graines
+- **H** — Homéostasie : un milieu intérieur stable
+- **A** — Adaptation évolutive : son espèce évolue au fil des générations
 
 **E. Animation et mise en scène**
-Zoom sur chaque case pendant ~10 s, puis retour à la grille complète. Pour le piège, l'écran vire au rouge avec un son d'alerte bref, et les mots « ORDONNÉE » et « ÉVOLUTIVE » sont surlignés au feutre animé.
 
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- **Comptage :** 7 caractéristiques ; « croissance, développement et reproduction » n'en forme qu'**une**.
-- **Adjectifs :** complexité **ordonnée** (pas « aléatoire »), adaptation **évolutive**, organisation **cellulaire**.
-- **Définitions :** le PDF ne définit pas chaque caractéristique. Une question ne peut donc porter que sur les **intitulés** et sur les liens donnés ailleurs dans le cours (thèmes 1 à 5).
-
----
-
-### SÉQUENCE 6 — L'ORGANISATION HIÉRARCHISÉE : 9 NIVEAUX
-
-| | |
-|---|---|
-| **A. Durée** | 1 min (04:50 → 05:50) |
-| **Source** | S1-1 **p.5h** (« Organisation hiérarchisée des êtres vivants », figure © Ed. De Boeck) |
-
-**B. Voix off**
-> « Deuxième point du chapitre : l'organisation hiérarchisée des êtres vivants. Le schéma du cours, tiré du Raven, aligne neuf niveaux, du plus petit au plus grand. Les atomes : sur l'image, des O, des C, des H, des N. La molécule. La macromolécule : ici, une double hélice d'ADN. L'organite : une mitochondrie en coupe. La cellule : une cellule nerveuse au microscope électronique à balayage. Ces cinq premiers niveaux sont regroupés sous le bandeau “niveau cellulaire”. Ensuite, sur fond orangé : le tissu, ici du tissu nerveux ; l'organe, un cerveau ; le système d'organes, le système nerveux d'une oie ; et enfin l'organisme, l'oie entière. Au-dessus des deux derniers, le bandeau “niveau de l'organisme”. Le schéma porte aussi trois barres d'échelle : 0,2 micromètre pour l'organite, 0,5 micromètre pour la cellule, et 100 micromètres pour le tissu.
->
-> Pour l'ordre, une phrase : “Au Marché, Mamie Offre Ces Tomates Ou Ses Oignons.” Atomes, Molécule, Macromolécule, Organite, Cellule, Tissu, Organe, Système d'organes, Organisme. »
-
-**C. Visuel (recréation fidèle du schéma p.5h)**
-Une **frise horizontale de 9 colonnes**, chacune avec son en-tête gris clair et son image :
-
-| Colonne | En-tête | Image à recréer |
-|---|---|---|
-| 1 | Atomes | billes isolées étiquetées O (rouge), C (gris), H (blanc), N (bleu) |
-| 2 | Molécule | une petite molécule en modèle compact, formée de ces billes |
-| 3 | Macromolécule | une double hélice d'ADN en modèle compact |
-| 4 | Organite | une mitochondrie en coupe (crêtes visibles) — barre d'échelle **0,2 µm** |
-| 5 | Cellule | une cellule nerveuse au MEB (prolongements) — barre **0,5 µm** |
-| 6 | Tissu | tissu nerveux (coloration brun-orangé) — barre **100 µm** |
-| 7 | Organe | un cerveau (doré) |
-| 8 | Système d'organes | une oie avec son système nerveux dessiné en jaune |
-| 9 | Organisme | une oie (bernache) dans l'eau |
-
-Bandeaux au-dessus : **« NIVEAU CELLULAIRE »** (gris-bleu) sur les colonnes 1 à 5 ; un bandeau orangé sur les colonnes 6 et 7, **sans texte**, comme dans le PDF ; **« NIVEAU DE L'ORGANISME »** (orangé) sur les colonnes 8 et 9. Mention « © Ed. De Boeck — schéma recréé » en bas.
-
-Mnémotechnique : un **étal de marché** avec une mamie qui tend des tomates et des oignons ; chaque mot de la phrase est un panneau qui se pose au-dessus de la colonne correspondante.
-
-**D. Texte incrusté**
-- 🟦 « Atomes → Molécule → Macromolécule → Organite → Cellule → Tissu → Organe → Système d'organes → Organisme »
-- 🟨 « Échelles : 0,2 µm · 0,5 µm · 100 µm »
-- 🟩 « **A**u **M**arché, **M**amie **O**ffre **C**es **T**omates **O**u **S**es **O**ignons »
-
-**E. Animation et mise en scène**
-Travelling horizontal de gauche à droite, du plus petit au plus grand, comme un zoom arrière continu : on part d'un atome et on « dézoome » jusqu'à l'oie entière. Chaque en-tête s'allume à son tour. Les bandeaux « niveau cellulaire » et « niveau de l'organisme » descendent comme des rideaux. Pour la mnémotechnique, chaque mot de la phrase atterrit sur sa colonne.
+- La phrase « pop », puis chaque correspondance apparaît au rythme de la voix off.
+- **02:30** : apparition de la carte « **O** — Organisation cellulaire : il est fait de cellules »
+- **02:33** : apparition de la carte « **C** — Complexité ordonnée : un corps structuré, rangé »
+- **02:37** : apparition de la carte « **S** — Sensibilité : il sursaute au bruit »
+- **02:40** : apparition de la carte « **C** — Croissance, développement et reproduction : il grandit et fait… »
+- **02:47** : apparition de la carte « **U** — Utilisation d'énergie : il mange ses graines »
+- **02:51** : apparition de la carte « **H** — Homéostasie : un milieu intérieur stable »
+- **02:54** : apparition de la carte « **A** — Adaptation évolutive : son espèce évolue au fil des génération »
 
 **F. Point de vigilance QCM**
-- **Ordre :** l'**organite** est *entre* la macromolécule et la cellule ; le **système d'organes** est *entre* l'organe et l'organisme.
-- Le schéma du cours **s'arrête à l'organisme**. Mais la diapo du thème 4 (p.7h) cite aussi la **population**.
-- Le bandeau « niveau de l'organisme » n'est écrit qu'au-dessus de « système d'organes » et « organisme ». Le fond orangé, lui, commence dès le tissu.
+
+- Le mnémo suit l'ordre du cours ; « Croissance, développement et reproduction » = une seule lettre, un seul critère.
 
 ---
 
-### SÉQUENCE 7 — LES DISCIPLINES DE LA BIOLOGIE + PIÈGE DE QCM
+### SÉQUENCE 6 — LE PIÈGE DU COMPTAGE  ·  *PIÈGE D'EXAMEN*
 
 | | |
 |---|---|
-| **A. Durée** | 55 s (05:50 → 06:45) |
-| **Source** | S1-1 **p.5h** (étiquettes et flèches sous la figure) |
+| **A. Durée** | 18 s (02:59 → 03:17) |
+| **Source** | S1-1 p.4 |
 
 **B. Voix off**
-> « Sous ce schéma, le cours place les disciplines qui étudient chaque niveau. La chimie organique, sous les atomes et la molécule. La biochimie, sous la macromolécule. La cytologie, sous l'organite et la cellule. L'histologie, sous le tissu. L'anatomie, sous l'organe et le système d'organes. Et deux grandes flèches qui s'étendent sur plusieurs niveaux : la biologie moléculaire, de la macromolécule jusqu'à la cellule ; et la physiologie, du tissu jusqu'à l'organisme. Les deux flèches se chevauchent très légèrement, à la frontière entre cellule et tissu.
+
+> Attention, piège classique.
 >
-> Piège classique : cytologie et histologie. Petit complément d'étymologie : “kutos”, en grec, c'est la cavité, la cellule ; “histos”, c'est le tissu. Donc la cytologie, c'est la cellule, et l'histologie, c'est le tissu. Si on te dit que l'histologie se place au niveau de la cellule, ou la cytologie au niveau du tissu : faux. Prochaine étape : les cinq grandes idées qui traversent toute la biologie. »
+> “Le cours liste neuf caractéristiques” : faux.
+>
+> Il y en a sept, et “croissance, développement et reproduction” n'en forme qu'**une**.
+>
+> Et surveille les adjectifs : on dit complexité **ordonnée**, adaptation **évolutive**. Une proposition qui parle de complexité aléatoire ne reprend pas le cours.
+>
 
-**C. Visuel**
-La frise de la séquence 6 se réduit dans la moitié haute de l'écran. En dessous, les étiquettes apparaissent **exactement à leur place** :
-- « Chimie organique » sous les colonnes 1-2
-- « Biochimie » sous la colonne 3
-- « Cytologie » sous les colonnes 4-5
-- « Histologie » sous la colonne 6
-- « Anatomie » sous les colonnes 7-8
-- Flèche double ⟷ « **Biologie moléculaire** » de la colonne 3 jusqu'à la fin de la colonne 5 (qui déborde à peine sur la 6)
-- Flèche double ⟷ « **Physiologie** », sur la ligne du dessous, du début de la colonne 6 jusqu'à la colonne 9
+**C. Visuel à l'écran**
 
-PIÈGE : écran scindé, « CYTO = cellule 🔬 » à gauche (avec une cellule) et « HISTO = tissu 🧵 » à droite (avec un morceau de tissu), séparés par un éclair rouge.
+- Fond rouge : tampon « ⚠ PIÈGE D'EXAMEN », puis cartes ✗ (formulation fausse) et ✓ (formulation du cours).
 
 **D. Texte incrusté**
-- 🟦 « Chimie organique · Biochimie · Cytologie · Histologie · Anatomie »
-- 🟦 « Biologie moléculaire : macromolécule → cellule » · « Physiologie : tissu → organisme »
-- 🟥 « CYTOlogie = CELLULE · HISTOlogie = TISSU »
-- 🟪 « 💡 Étymologie (hors cours) : *kutos* = cavité, cellule · *histos* = tissu »
+
+- Titre : **Le piège du comptage**
+- ✗ « Le cours liste 9 caractéristiques »
+- ✓ **7** caractéristiques : croissance, développement et reproduction = **1 seule**
+- ✓ Complexité **ORDONNÉE** · adaptation **ÉVOLUTIVE**
 
 **E. Animation et mise en scène**
-Chaque étiquette « tombe » sous sa colonne. Les deux flèches se déploient depuis le centre vers leurs extrémités. Pour le piège, effet « miroir brisé » entre les deux mots, puis les deux étiquettes reviennent se placer sous la frise. La phrase finale « les cinq grandes idées… » sert de transition (et de fin de partie 1A en cas de découpage).
 
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- **Cytologie** → organite et cellule ; **histologie** → tissu. À ne jamais inverser.
-- La **biochimie** est sous la **macromolécule** ; ce n'est pas elle qui est sous les atomes (c'est la **chimie organique**).
-- Les **flèches** couvrent plusieurs niveaux : biologie moléculaire (macromolécule → cellule), physiologie (tissu → organisme).
-
----
-
-### SÉQUENCE 8 — THÈME 1 : LA THÉORIE CELLULAIRE + PIÈGE DE QCM
-
-| | |
-|---|---|
-| **A. Durée** | 1 min 40 (06:45 → 08:25) |
-| **Source** | S1-1 **p.5b** (« Les thèmes unificateurs de la biologie — 1. La théorie cellulaire ») ; renvoi vers S1-1 p.47b |
-
-**B. Voix off**
-> « Troisième point du chapitre : les thèmes unificateurs de la biologie. Il y en a cinq : ce sont les grandes idées qui traversent toute la biologie.
->
-> Thème 1 : la théorie cellulaire. Elle tient en deux énoncés. Premier énoncé : tous les êtres vivants sont constitués d'une ou de plusieurs cellules. Le cours donne trois exemples chiffrés du nombre de cellules par organisme. Une bactérie : une seule cellule. Le ver C. elegans : 959 cellules. L'humain : entre 10 000 et 100 000 milliards de cellules ; et pour l'humain, l'image montre de la peau au microscope.
->
-> Deuxième énoncé : toutes les cellules proviennent d'une cellule préexistante. Il n'y a pas de génération spontanée. L'illustration du cours, ce sont les premiers stades du développement d'un embryon humain : une cellule, deux cellules, quatre cellules, huit cellules, puis la morula, puis le blastocyste. Chaque nouvelle cellule naît de la division d'une cellule qui existait déjà. Tu retrouveras la morula et le blastocyste en détail dans la partie II.
->
-> Et attention : à la page 47, le cours reformule la théorie cellulaire en trois énoncés, en ajoutant que les cellules sont les unités vivantes de base. On verra cette version dans l'épisode 10.
->
-> Le piège, maintenant : les chiffres. Retiens 959, le chiffre exact, pour C. elegans. Et pour l'humain, ce sont des MILLIARDS : 10 000 à 100 000 milliards. Petit complément de conversion : ça fait 10 puissance 13 à 10 puissance 14. Une proposition qui écrit “10 000 à 100 000 millions” est fausse. Dernier point : toute proposition qui dit qu'une cellule peut apparaître spontanément à partir de matière inanimée contredit le cours. »
-
-**C. Visuel (recréation de la diapo p.5b)**
-1. Titre « Les thèmes unificateurs de la biologie » + compteur « 1/5 ».
-2. **Tableau à 3 colonnes** (comme sur la diapo) :
-
-   | bactéries | ver (*C. elegans*) | humain |
-   |---|---|---|
-   | image : bactéries en amas (MEB) | image : ver au MEB | image : coupe de **peau** (coloration rose) |
-   | **1** | **959** | **10.000 – 100.000 milliards** |
-
-   Ligne d'en-tête : « nbre de cellules / organisme ».
-3. **Frise de 6 micrographies** d'embryon humain : « 1-cell · 2-cell · 4-cell · 8-cell · morula · blastocyste », sous-titrée « premiers stades du développement d'un embryon humain ».
-4. Encadré de renvoi : « p.47 → théorie cellulaire en 3 énoncés (épisode 10) ».
-
-**D. Texte incrusté**
-- 🟦 « Tous les êtres vivants sont constitués d'**une ou plusieurs** cellules »
-- 🟦 « Toutes les cellules proviennent d'une cellule **préexistante** (pas de génération spontanée) »
-- 🟨 « Bactérie : **1** · *C. elegans* : **959** · Humain : **10.000 à 100.000 milliards** »
-- 🟪 « 💡 = 10¹³ à 10¹⁴ (conversion, hors cours) »
-- 🟥 « MILLIARDS, pas millions » · « 959 = chiffre exact » · « Pas de génération spontanée »
-
-**E. Animation et mise en scène**
-Le tableau se remplit colonne par colonne ; chaque nombre s'affiche avec un compteur qui défile (« 1 », puis « 959 », puis un compteur qui s'emballe jusqu'à « 100.000 milliards »). Pour le 2e énoncé, la frise d'embryons s'anime : chaque photo se divise en fondu vers la suivante (1 → 2 → 4 → 8 → morula → blastocyste), avec un petit « pop » à chaque division. Pendant le piège, le mot « millions » est barré en rouge et remplacé par « milliards ».
-
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- Ordres de grandeur : **1 / 959 / 10.000 à 100.000 milliards** (pas « millions »).
-- « **Une ou plusieurs** cellules » : les organismes unicellulaires sont inclus.
-- « **Pas de génération spontanée** » : une cellule vient **toujours** d'une cellule préexistante.
-- **Nombre d'énoncés :** 2 sur cette diapo (p.5), 3 à la p.47. Ne pas mélanger les deux versions dans une même réponse sans savoir laquelle est interrogée.
-
----
-
-### SÉQUENCE 9 — THÈME 2 : LA BASE MOLÉCULAIRE DE L'HÉRÉDITÉ + PIÈGE DE QCM
-
-| | |
-|---|---|
-| **A. Durée** | 55 s (08:25 → 09:20) |
-| **Source** | S1-1 **p.6h** (« 2. La base moléculaire de l'hérédité ») |
-
-**B. Voix off**
-> « Thème 2 : la base moléculaire de l'hérédité. Premier message : le “plan” de la cellule est inscrit dans une longue molécule, l'ADN, l'acide désoxyribonucléique. Quatre infos à retenir. L'ADN, ce sont deux longues chaînes de nucléotides. Il existe quatre nucléotides : A, C, G et T. Et c'est la séquence des nucléotides, leur ordre, qui constitue l'information.
->
-> Deuxième message : la continuité de la vie, c'est-à-dire l'hérédité, dépend de la transmission de l'ADN. Par deux moyens : la réplication de l'ADN avant chaque division cellulaire, et la transmission d'une génération à l'autre.
->
-> Deux pièges. Dans l'ADN, les quatre lettres sont A, C, G, T. Pas de U : le U appartient à l'ARN, on le verra dans l'épisode 9. Et la réplication se fait AVANT chaque division, pas après : il faut avoir copié le plan avant de le partager entre deux cellules-filles. »
-
-**C. Visuel**
-1. Image d'une **double hélice d'ADN en modèle compact** sur fond noir (comme la diapo). À côté, 4 lignes de texte qui s'inscrivent une à une.
-2. Zoom sur l'hélice : les deux chaînes s'écartent légèrement pour montrer une **succession de nucléotides colorés A, C, G, T** qui défile comme un texte.
-3. Deuxième illustration (comme la diapo) : **une double hélice qui s'ouvre et donne deux doubles hélices** (réplication), avec une flèche « avant chaque division cellulaire ». Puis une flèche courbe « génération → génération » (parents → enfant).
-
-**D. Texte incrusté**
-- 🟦 « Le “plan” de la cellule est inscrit dans une longue molécule : l'ADN »
-- 🟦 « Acide désoxyribonucléique (ADN) · 2 longues chaînes de nucléotides · 4 nucléotides (A, C, G, T) · séquence des nucléotides = information »
-- 🟦 « La continuité de la vie (hérédité) dépend de la transmission de l'ADN »
-- 🟦 « Réplication de l'ADN **avant** chaque division cellulaire · transmission d'une génération à l'autre »
-- 🟥 « ADN = A, C, G, **T** (pas de U) » · « Réplication **AVANT** la division »
-
-**E. Animation et mise en scène**
-La séquence de lettres défile sur l'hélice comme un « code ». Au mot « information », les lettres se rassemblent en un petit livre qui se ferme : c'est le « plan ». Pour la réplication, l'hélice se « dézippe » en son milieu et chaque moitié se complète en vert. Au piège, un « U » tente de s'insérer dans l'hélice et rebondit avec un son d'erreur.
-
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- **4 nucléotides de l'ADN = A, C, G, T.** Le U n'est pas dans l'ADN.
-- **2** chaînes (pas 1).
-- C'est la **séquence** (l'ordre) des nucléotides qui porte l'information.
-- La réplication a lieu **avant** chaque division cellulaire.
-
----
-
-### SÉQUENCE 10 — THÈME 3 : LE TRAITEMENT DE L'INFORMATION
-
-| | |
-|---|---|
-| **A. Durée** | 35 s (09:20 → 09:55) |
-| **Source** | S1-1 **p.6b** (« 3. Les cellules sont des systèmes de traitement de l'information ») |
-
-**B. Voix off**
-> « Thème 3 : les cellules sont des systèmes de traitement de l'information. Dans deux directions. Vers l'intérieur : les cellules synthétisent leurs composants selon l'information stockée dans l'ADN. Vers l'extérieur : elles traitent l'information venant de leur environnement. Et ce traitement est essentiel pour trois choses : l'organisation tissulaire ; l'intégration de stimulus, avec entre parenthèses dans le cours “sensibilité, mouvement”, et cetera ; et l'homéostasie. Tu remarques ? Sensibilité et homéostasie, deux des sept caractéristiques du vivant, réapparaissent ici. Les communications entre cellules seront détaillées dans l'épisode 20. »
-
-**C. Visuel**
-Une **cellule stylisée** au centre de l'écran :
-- Flèche **interne** (bleue) : du noyau (« ADN ») vers des composants qui s'assemblent (« synthèse des composants cellulaires »).
-- Flèche **externe** (orange) : des signaux venus de l'environnement (ondes, molécules) qui entrent dans la cellule (« traitement de l'information de l'environnement »).
-Puis trois icônes s'allument sous la cellule : un **pavage de cellules** (organisation tissulaire), un **œil + une flèche de mouvement** (intégration de stimulus : sensibilité, mouvement…), une **balance** (homéostasie).
-À la fin, deux cases de la grille de la séquence 5 (« Sensibilité » et « Homéostasie ») clignotent en rappel.
-
-**D. Texte incrusté**
-- 🟦 « Synthétisent les composants cellulaires selon l'information stockée dans l'ADN »
-- 🟦 « Traitent l'information venant de leur environnement »
-- 🟦 « Essentiel pour : organisation tissulaire · intégration de stimulus (sensibilité, mouvement,…) · homéostasie »
-
-**E. Animation et mise en scène**
-Les deux flèches s'animent en boucle, en sens opposés. Les trois icônes apparaissent l'une après l'autre au moment où elles sont nommées. Le rappel des deux cases de la séquence 5 se fait par un mini-insert en haut à droite (2 s).
+- Le tampon « pop » avec un son d'alerte ; chaque carte ✗ puis ✓ glisse vers le haut au moment où elle est dite.
+- **03:01** : apparition de la carte « ✗ « Le cours liste 9 caractéristiques » »
+- **03:03** : apparition de la carte « ✓ **7** caractéristiques : croissance, développement et reproduction =… »
+- **03:07** : apparition de la carte « ✓ Complexité **ORDONNÉE** · adaptation **ÉVOLUTIVE** »
 
 **F. Point de vigilance QCM**
-- **Deux sources d'information** : l'ADN (interne) **et** l'environnement (externe).
-- Les **3 domaines** pour lesquels le traitement de l'information de l'environnement est « essentiel » : organisation tissulaire, intégration de stimulus, homéostasie. Une liste qui en oublie un ou en ajoute un autre ne reprend pas le cours.
+
+- 7 caractéristiques ; « croissance, développement et reproduction » n'en forme qu'une ; complexité ordonnée, adaptation évolutive.
 
 ---
 
-### SÉQUENCE 11 — THÈME 4 : L'ÉTAT DE NON-ÉQUILIBRE + PIÈGE DE QCM
+### SÉQUENCE 7 — QUIZ EXPRESS N°1  ·  *QUIZ EXPRESS*
 
 | | |
 |---|---|
-| **A. Durée** | 55 s (09:55 → 10:50) |
-| **Source** | S1-1 **p.7h** (« 4. Les systèmes vivants sont dans un état de non-équilibre ») |
+| **A. Durée** | 19 s (03:17 → 03:36) |
+| **Source** | S1-1 p.4 |
 
 **B. Voix off**
-> « Thème 4 : les systèmes vivants sont dans un état de non-équilibre. Regarde le schéma du cours. À gauche, une boîte “équilibre” : des billes de trois couleurs, éparpillées au hasard. Au milieu, une flèche, avec un apport d'“énergie”. À droite, la boîte “non-équilibre” : les mêmes billes, assemblées en chaînes, en anneaux, en structures organisées. Deux points à retenir. Un : cet état de non-équilibre existe à tous les niveaux : molécules, cellules, organisme, population. Deux : il nécessite un apport constant d'énergie.
->
-> Petit complément hors cours pour fixer l'idée : si l'apport d'énergie s'arrête pour de bon, l'organisation se défait et le système retourne vers l'équilibre. Pour un être vivant, c'est la mort.
->
-> Le piège : croire que le vivant est “à l'équilibre”, ou qu'un apport d'énergie ponctuel suffit. Non : NON-équilibre, et apport CONSTANT. Et la liste des niveaux va jusqu'à la population. »
 
-**C. Visuel (recréation fidèle du schéma p.7h)**
-- **Boîte gauche « équilibre »** : une quarantaine de petites billes rouges, vertes et bleues dispersées au hasard.
-- **Flèche centrale** courbe, avec le mot **« énergie »** qui arrive par le haut.
-- **Boîte droite « non-équilibre »** : les mêmes billes, regroupées en **chaînes droites, chaînes courbes, anneaux et bâtonnets** ; quelques billes restent isolées.
-Rappel visuel en incrustation : le soleil et la flèche « énergie » de la séquence 3.
+> À toi. Selon le cours, quelle proposition est exacte ? Réponds avant la fin du compte à rebours.
+>
+> Réponse B. Croissance, développement et reproduction, c'est une seule caractéristique sur sept. A est faux, il y en a sept. C est faux, c'est complexité ordonnée.
+>
+
+**C. Visuel à l'écran**
+
+- Quiz express : question en haut, propositions A, B, C… en cartes ; compte à rebours circulaire en haut à droite.
+- Question : Selon le cours, quelle proposition est exacte ?
+  - A. Le cours liste neuf caractéristiques des êtres vivants. (✗)
+  - B. « Croissance, développement et reproduction » forment une seule caractéristique. (✓)
+  - C. La « complexité aléatoire » fait partie des caractéristiques. (✗)
 
 **D. Texte incrusté**
-- 🟦 « Les systèmes vivants sont dans un état de **non-équilibre** »
-- 🟦 « À tous les niveaux : molécules, cellules, organisme, population »
-- 🟦 « Nécessite un apport **constant** d'énergie »
-- 🟪 « 💡 Arrêt définitif de l'énergie → retour vers l'équilibre = mort (hors cours) »
-- 🟥 « NON-équilibre · Apport CONSTANT · … jusqu'à la POPULATION »
+
+- Titre : **Quiz express n°1**
 
 **E. Animation et mise en scène**
-Les billes de la boîte « équilibre » s'agitent au hasard. Quand la flèche « énergie » s'allume, elles s'envolent vers la boîte de droite et **s'assemblent** en structures. Pendant le complément, on coupe l'énergie (la flèche s'éteint) : les structures se désassemblent lentement et retombent en désordre, puis on revient à l'état organisé. Les 4 niveaux (molécules → population) s'affichent comme une échelle verticale.
 
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- **Non-équilibre** (le vivant n'est pas à l'équilibre).
-- Apport d'énergie **constant** (pas ponctuel).
-- **À tous les niveaux**, y compris la **population**.
-- Lien avec les caractéristiques : **complexité ordonnée** et **utilisation d'énergie**.
-
----
-
-### SÉQUENCE 12 — THÈME 5 : LA DIVERSITÉ ISSUE DE L'ÉVOLUTION + PIÈGE DE QCM
-
-| | |
-|---|---|
-| **A. Durée** | 2 min (10:50 → 12:50) |
-| **Source** | S1-1 **p.7b** (domaines et règnes, © Ed. De Boeck) et **p.8b** (arbre et ancêtre commun, © Ed. De Boeck) ; renvoi vers S1-3 p.23b |
-
-**B. Voix off**
-> « Thème 5 : la diversité de la vie naît de changements évolutifs. Le cours classe le vivant en domaines, notés D, et en règnes, notés R. Trois domaines. D1 : les archées. D2 : les bactéries. Et le cours le précise : D1 et D2, ce sont les procaryotes. D3 : les eucaryotes. Dans le domaine des eucaryotes, quatre règnes : R1, les plantes ; R2, les champignons ; R3, les animaux ; R4, les protistes.
->
-> Deux astuces pour retenir ça. Les domaines : A, B, E, comme l'alphabet. Archées, Bactéries, Eucaryotes, et les deux premières lettres sont les procaryotes. Les règnes, dans l'ordre R1 à R4 : “Pour Comprendre Avant de Paniquer”. Plantes, Champignons, Animaux, Protistes.
->
-> Page suivante, l'arbre du vivant : bactéries, archées, protistes, plantes, qui portent aussi le nom de Viridiplantae, champignons et animaux, tous reliés à un ancêtre commun. Sur cet arbre, la branche des bactéries se sépare en premier ; les archées se séparent ensuite des eucaryotes ; champignons et animaux partagent un même embranchement, et protistes et plantes un autre. L'ancêtre commun vivait il y a environ 3,8 milliards d'années, et c'était un organisme unicellulaire. Et la flèche verticale à droite de l'arbre résume l'idée : “conservation de composants biologiques essentiels”. De l'ancêtre jusqu'à toi, des composants fondamentaux ont été conservés. Un exemple que tu verras dans l'épisode 34 : le code génétique, que le cours qualifie d'“universel”, est le même chez les procaryotes.
->
-> Les pièges, maintenant. Un : les archées sont des procaryotes, comme les bactéries, même si elles forment un domaine à part. Deux : les protistes sont des eucaryotes. Beaucoup sont unicellulaires, c'est un complément hors cours, et c'est justement pour ça qu'on se trompe : unicellulaire ne veut pas dire procaryote. Trois : domaine et règne ne sont pas synonymes ; dans le schéma du cours, les règnes sont des subdivisions du domaine des eucaryotes. Quatre : l'ancêtre commun, c'est 3,8 MILLIARDS d'années, pas millions, et il était UNIcellulaire. »
-
-**C. Visuel**
-1. **Recréation de la figure p.7b** :
-   - À gauche, deux bandeaux horizontaux : **« D1 — Archées »** (bandeau mauve, 2 vignettes de micro-organismes) et **« D2 — Bactéries »** (bandeau vert, 2 vignettes : filaments, bactéries colorées). Sous eux : **« D1 et D2 : procaryotes »**.
-   - À droite, un grand bloc gris-bleu **« D3 — Eucaryotes »**, découpé en 4 lignes : **R1 Plantes** (fleurs), **R2 Champignons** (champignon, moisissure), **R3 Animaux** (chouette, poisson, mouflon), **R4 Protistes** (algue brune, cellules colorées, organisme unicellulaire flagellé).
-   - Légende : « *D* : **domaines** · *R* : **règnes** ».
-2. Mnémotechniques : trois lettres géantes **A · B · E** avec une accolade « procaryotes » sous A et B ; puis la phrase « **P**our **C**omprendre **A**vant de **P**aniquer » au-dessus des 4 règnes.
-3. **Recréation de l'arbre p.8b** : en haut, 6 cases colorées (vert : *Bactéries* ; orange : *Archées* ; rose : *Protistes*, *Plantes (Viridiplantae)*, *Champignons*, *Animaux*). Branches beiges qui convergent vers **« Ancêtre commun »** en bas. Topologie à respecter : Bactéries se détachent à la base ; puis Archées ; puis les deux sous-groupes (Protistes + Plantes) et (Champignons + Animaux). À droite, une **flèche verticale montante** « conservation de composants biologiques essentiels ». Sous l'arbre : « – il y a ~3,8 milliards d'années · – organisme unicellulaire ».
-4. Insert de renvoi : « Code génétique “universel” → épisode 34 (S1-3 p.23) ».
-
-**D. Texte incrusté**
-- 🟦 « La diversité de la vie naît de changements évolutifs »
-- 🟦 « 3 domaines : D1 Archées · D2 Bactéries · D3 Eucaryotes » · « D1 et D2 : **procaryotes** »
-- 🟦 « 4 règnes (eucaryotes) : R1 Plantes · R2 Champignons · R3 Animaux · R4 Protistes »
-- 🟨 « Ancêtre commun : ~**3,8 milliards** d'années · **unicellulaire** »
-- 🟦 « Conservation de composants biologiques essentiels »
-- 🟩 « Domaines : **A**-**B**-**E** · Règnes : **P**our **C**omprendre **A**vant de **P**aniquer »
-- 🟥 « Archées = PROcaryotes » · « Protistes = EUcaryotes » · « Domaine ≠ règne » · « MILLIARDS · UNIcellulaire »
-- 🟪 « 💡 Beaucoup de protistes sont unicellulaires (hors cours) »
-
-**E. Animation et mise en scène**
-Les bandeaux D1 et D2 glissent depuis la gauche, puis une accolade « procaryotes » les réunit. Le bloc D3 s'ouvre comme un tiroir et révèle ses 4 règnes un par un. Pour l'arbre, on part du haut (les 6 groupes actuels) et on **remonte le temps** : les branches se rejoignent une à une jusqu'à l'ancêtre commun, avec un compteur « – 3,8 milliards d'années ». La flèche « conservation » monte ensuite de l'ancêtre vers le haut, en emportant une petite icône « composants essentiels ». Au piège, chaque erreur s'affiche barrée en rouge, puis est corrigée.
-
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- **Procaryotes = D1 (archées) + D2 (bactéries).** Les archées ne sont **pas** des eucaryotes.
-- **Protistes = règne R4 du domaine D3**, donc des **eucaryotes**.
-- **Domaine ≠ règne.** Dans le cours, les règnes subdivisent le domaine des eucaryotes.
-- La numérotation D1/D2 vient de la figure : ce n'est **pas** un classement par ancienneté.
-- **Ancêtre commun : ~3,8 milliards d'années, unicellulaire.**
-- Lecture de l'arbre : **champignons et animaux** partagent un embranchement commun, distinct de celui des **protistes et plantes** ; les **bactéries** se séparent en premier.
-
----
-
-### SÉQUENCE 13 — *NAEGLERIA FOWLERI* : LE PROTISTE QUI S'ATTAQUE AU CERVEAU + PIÈGE DE QCM
-
-| | |
-|---|---|
-| **A. Durée** | 1 min (12:50 → 13:50) |
-| **Source** | S1-1 **p.8h** (« Des protistes à l'origine de pathologies ») |
-
-**B. Voix off**
-> « Pour que les protistes ne restent pas abstraits, le cours donne un exemple de protiste à l'origine de pathologies : Naegleria fowleri. Une parenthèse d'orthographe : dans ton PDF, c'est écrit “Floweri”, mais le nom scientifique correct est fowleri, F-O-W-L-E-R-I. C'est une amibe flagellée. Elle prolifère dans les eaux douces et chaudes : rivières, lacs, piscines. Elle pénètre par les muqueuses nasales. Elle s'attaque au cerveau. Résultat : une méningo-encéphalite, avec céphalées, coma, et décès. La diapo illustre tout ça par un cas rapporté dans la presse américaine : un enfant de dix ans, décédé après une baignade en rivière ; l'article parle d'une “amibe mangeuse de cerveau”.
->
-> Petit complément hors cours, qui va dans le sens de la voie nasale : on ne s'infecte pas en buvant de l'eau contaminée.
->
-> Le piège : eau DOUCE et CHAUDE, pas salée, pas froide. Entrée par les MUQUEUSES NASALES. Cible : le CERVEAU. Et c'est un protiste, donc un eucaryote, pas une bactérie. »
-
-**C. Visuel**
-1. **Micrographie** de *Naegleria* (comme l'image en noir et blanc de la diapo : cellule irrégulière avec des vacuoles claires), avec l'étiquette « amibe flagellée ».
-2. **Parcours animé en 4 étapes**, sur une silhouette de tête de profil :
-   ① une étendue d'eau avec un thermomètre (« eau douce et chaude : rivières, lacs, piscines ») → ② l'amibe entre par le nez (« muqueuses nasales ») → ③ elle remonte jusqu'au cerveau (« s'attaque au cerveau ») → ④ le cerveau rougit (« méningo-encéphalite : céphalées, coma, décès »).
-3. **Carton neutre** à la place de la capture d'écran de presse : « Cas rapporté par la presse américaine : enfant de 10 ans, décès après une baignade en rivière (“brain-eating amoeba”) ». ⚠️ **Ne pas montrer** les photos ni le nom de l'enfant qui figurent sur la diapo.
-4. Rappel : une étiquette « Protiste → R4 → D3 Eucaryotes » renvoie à la séquence 12.
-
-**D. Texte incrusté**
-- 🟦 « *Naegleria fowleri* (amibe flagellée) »
-- 🟥 « ⚠️ PDF : “*Naegleria Floweri*” → nom correct : ***Naegleria fowleri*** »
-- 🟦 « Prolifère dans les eaux **douces et chaudes** (rivières, lacs, piscines) »
-- 🟦 « Pénètre par les **muqueuses nasales** · S'attaque au **cerveau** »
-- 🟦 « ⇒ **méningo-encéphalite** (céphalées, coma, décès) »
-- 🟪 « 💡 Pas d'infection en buvant l'eau (hors cours) »
-- 🟥 « Eau DOUCE + CHAUDE · Voie NASALE · Cible = CERVEAU · Protiste = EUCARYOTE »
-
-**E. Animation et mise en scène**
-Musique plus grave, lumière bleutée. Le parcours de l'amibe est animé comme un trajet sur une carte (pointillés lumineux). Le thermomètre monte pour « chaudes ». La correction orthographique s'affiche comme une correction au stylo rouge sur le mot « Floweri ». Pour le carton presse, simple fondu sur fond sombre, sans image de personne.
-
-**F. Point de vigilance QCM — 🟥 PIÈGE DE QCM**
-- Milieu : eaux **douces** et **chaudes** (rivières, lacs, piscines).
-- Porte d'entrée : **muqueuses nasales**.
-- Cible : **cerveau** → **méningo-encéphalite** (céphalées, coma, décès).
-- Nature : **amibe flagellée = protiste = eucaryote**.
-- Orthographe : le PDF écrit « Floweri » ; le nom correct est ***fowleri***.
-
----
-
-### SÉQUENCE 14 — PAUSE ACTIVE : RÉCUPÉRATION EN 30 SECONDES
-
-| | |
-|---|---|
-| **A. Durée** | 45 s (13:50 → 14:35) |
-| **Source** | Synthèse de S1-1 p.4b, 5h, 5b à 8 |
-
-**B. Voix off**
-> « Pause. Mets la vidéo sur pause, prends une feuille, et sans regarder : écris les sept caractéristiques du vivant, les neuf niveaux d'organisation, et les cinq thèmes unificateurs. Tu as trente secondes.
->
-> […]
->
-> Correction à l'écran. Si tu en as oublié, ce n'est pas grave : c'est exactement cet effort de rappel qui va te faire retenir pour le jour J. Recommence demain, sans la vidéo. »
-
-**C. Visuel**
-Écran noir avec un **compte à rebours de 30 s** et trois colonnes vides : « 7 · 9 · 5 ». À 0, les colonnes se remplissent d'un coup avec la correction (voir texte incrusté).
-
-**D. Texte incrusté (correction)**
-- **7** : Organisation cellulaire · Complexité ordonnée · Sensibilité · Croissance, développement et reproduction · Utilisation d'énergie · Homéostasie · Adaptation évolutive
-- **9** : Atomes · Molécule · Macromolécule · Organite · Cellule · Tissu · Organe · Système d'organes · Organisme
-- **5** : 1. La théorie cellulaire · 2. La base moléculaire de l'hérédité · 3. Les cellules sont des systèmes de traitement de l'information · 4. Les systèmes vivants sont dans un état de non-équilibre · 5. La diversité de la vie naît de changements évolutifs
-
-**E. Animation et mise en scène**
-Tic-tac discret pendant le compte à rebours (15 s réelles dans la vidéo, avec l'invitation à mettre pause pour avoir 30 s), puis 6 s d'affichage de la correction. Les trois mnémotechniques (hamster, marché, « Pour Comprendre… ») s'affichent en petit sous leurs colonnes.
+- Les propositions apparaissent ; le compte à rebours tourne avec un tic par seconde ; à la correction, les bonnes réponses passent en vert (✓) et les fausses en rouge (✗), avec un son « ding ».
+- **03:17** : compte à rebours de 4 s
+- **03:26** : correction (vert/rouge)
 
 **F. Point de vigilance QCM**
-Les **intitulés exacts** des 5 thèmes (à recopier tels quels) : c'est la formulation que les QCM reprennent ou déforment.
+
+- —
 
 ---
 
-### SÉQUENCE 15 — RÉCAP EXPRESS + TEASER DE L'ÉPISODE 2
+### SÉQUENCE 8 — L'ORGANISATION HIÉRARCHISÉE : 9 NIVEAUX  ·  *LA DIAPO DU COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 45 s (14:35 → 15:20) |
-| **Source** | Récapitulatif de S1-1 p.1-8 ; teaser : S1-1 p.10h |
+| **A. Durée** | 36 s (03:36 → 04:12) |
+| **Source** | S1-1 p.5 — diapo `S1-1:5h` |
 
 **B. Voix off**
-> « Récap express. Le vivant, c'est sept caractéristiques : organisation cellulaire, complexité ordonnée, sensibilité, croissance-développement-reproduction, utilisation d'énergie, homéostasie, adaptation évolutive. Neuf niveaux, des atomes à l'organisme, avec la cytologie pour la cellule et l'histologie pour le tissu. Et cinq thèmes : la théorie cellulaire ; l'ADN, support de l'hérédité ; le traitement de l'information ; le non-équilibre, qui exige de l'énergie en continu ; et la diversité née de l'évolution, avec trois domaines, quatre règnes et un ancêtre commun unicellulaire d'il y a 3,8 milliards d'années.
->
-> Dans le prochain épisode, on descend tout en bas de ta pyramide : les atomes. Et tu vas découvrir que quatre éléments seulement font 96,3 % du poids de ton corps. Lesquels ? Réponse dans l'épisode 2. »
 
-**C. Visuel**
-Montage rapide qui reprend une image clé de chaque séquence (hamster, frise des 9 niveaux, tableau 1/959/milliards, hélice, cellule à double flèche, billes organisées, arbre du vivant). Pour le teaser : la frise des 9 niveaux revient, la caméra plonge dans la colonne « Atomes », et quatre billes (sans étiquette) s'allument avec un grand « **96,3 %** » et un point d'interrogation.
+> Deuxième point du chapitre : l'organisation hiérarchisée des êtres vivants. Le schéma du cours aligne neuf niveaux, du plus petit au plus grand.
+>
+> Les atomes. La molécule. La macromolécule, ici une double hélice d'ADN.
+>
+> L'organite, une mitochondrie. La cellule, une cellule nerveuse. Ces cinq premiers niveaux forment le **niveau cellulaire**.
+>
+> Puis le tissu, ici du tissu nerveux, et l'organe, un cerveau.
+>
+> Le système d'organes, le système nerveux d'une oie, et l'organisme, l'oie entière : c'est le **niveau de l'organisme**. Le schéma porte aussi des barres d'échelle : 0,2 micromètre, 0,5 micromètre et 100 micromètres.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:5h** (rendu haute définition du PDF du cours).
 
 **D. Texte incrusté**
-- « 7 · 9 · 5 ✔ »
-- « Épisode 2 : Les atomes du vivant — **96,3 %** = ? »
+
+- Titre : **L'organisation hiérarchisée : 9 niveaux**
+- Atomes → Molécule → Macromolécule
+- → Organite → Cellule = **niveau cellulaire**
+- → Tissu → Organe
+- → Système d'organes → Organisme = **niveau de l'organisme**
 
 **E. Animation et mise en scène**
-Cut toutes les 2 secondes, rythme musical qui monte. Fin sur l'écran « Épisode 2 », avec un son de suspense.
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **03:36** : vue d'ensemble de la diapo
+- **03:43** : zoom sur la zone (0.02, 0.26) → (0.27, 0.77) de la diapo
+- **03:48** : zoom sur la zone (0.23, 0.26) → (0.53, 0.77) de la diapo
+- **03:55** : zoom sur la zone (0.50, 0.26) → (0.76, 0.77) de la diapo
+- **03:58** : zoom sur la zone (0.72, 0.26) → (0.98, 0.77) de la diapo
 
 **F. Point de vigilance QCM**
-Aucun nouveau : rappel des points clés.
+
+- Ordre : l'organite est entre la macromolécule et la cellule ; le système d'organes est entre l'organe et l'organisme.
+
+---
+
+### SÉQUENCE 9 — LES 9 NIVEAUX, DU PLUS PETIT AU PLUS GRAND  ·  *MNÉMO*
+
+| | |
+|---|---|
+| **A. Durée** | 19 s (04:12 → 04:31) |
+| **Source** | S1-1 p.5 |
+
+**B. Voix off**
+
+> Pour l'ordre, imagine un zoom arrière, de l'atome jusqu'à l'oie, et une phrase : “Au Marché, Mamie Offre Ces Tomates Ou Ses Oignons.”
+>
+> A, atomes. M, molécule. M, macromolécule : d'abord la petite, puis la grande.
+>
+> O, organite. C, cellule.
+>
+> T, tissu. O, organe. S, système d'organes. O, organisme.
+>
+
+**C. Visuel à l'écran**
+
+- Fond vert : la phrase mnémotechnique en grand (initiales en vert), puis une carte par lettre ou par élément.
+- Phrase mnémotechnique : **A**u **M**arché, **M**amie **O**ffre **C**es **T**omates **O**u **S**es **O**ignons
+
+**D. Texte incrusté**
+
+- Titre : **Les 9 niveaux, du plus petit au plus grand**
+- **A**tomes · **M**olécule · **M**acromolécule
+- **O**rganite · **C**ellule
+- **T**issu · **O**rgane · **S**ystème d'organes · **O**rganisme
+
+**E. Animation et mise en scène**
+
+- La phrase « pop », puis chaque correspondance apparaît au rythme de la voix off.
+- **04:19** : apparition de la carte « **A**tomes · **M**olécule · **M**acromolécule »
+- **04:24** : apparition de la carte « **O**rganite · **C**ellule »
+- **04:26** : apparition de la carte « **T**issu · **O**rgane · **S**ystème d'organes · **O**rganisme »
+
+**F. Point de vigilance QCM**
+
+- Les deux M = molécule puis macromolécule ; les trois O de la fin = organe, système d'organes, organisme (sans oublier l'organite en 4e position).
+
+---
+
+### SÉQUENCE 10 — QUELLE DISCIPLINE POUR QUEL NIVEAU ?  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 23 s (04:31 → 04:54) |
+| **Source** | S1-1 p.5 — diapo `S1-1:5h` |
+
+**B. Voix off**
+
+> Sous ce schéma, le cours place les disciplines. La chimie organique, sous les atomes et la molécule. La biochimie, sous la macromolécule.
+>
+> La cytologie, sous l'organite et la cellule. L'histologie, sous le tissu. L'anatomie, sous l'organe et le système d'organes.
+>
+> Et deux flèches qui couvrent plusieurs niveaux : la **biologie moléculaire**, de la macromolécule jusqu'à la cellule, et la **physiologie**, du tissu jusqu'à l'organisme.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:5h** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Quelle discipline pour quel niveau ?**
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **04:31** : zoom sur la zone (0.00, 0.62) → (0.55, 0.95) de la diapo ; surlignage de « Chimie », « Biochimie »
+- **04:39** : zoom sur la zone (0.25, 0.62) → (0.85, 0.95) de la diapo ; surlignage de « Cytologie », « Histologie », « Anatomie »
+- **04:45** : zoom sur la zone (0.10, 0.70) → (0.95, 0.95) de la diapo ; surlignage de « Biologie moléculaire », « Physiologie »
+
+**F. Point de vigilance QCM**
+
+- Cytologie → organite et cellule ; histologie → tissu ; biochimie → macromolécule ; chimie organique → atomes et molécule.
+
+---
+
+### SÉQUENCE 11 — DISCIPLINES ET NIVEAUX  ·  *TABLEAU*
+
+| | |
+|---|---|
+| **A. Durée** | 18 s (04:54 → 05:12) |
+| **Source** | S1-1 p.5 |
+
+**B. Voix off**
+
+> On récapitule.
+>
+> Chimie organique : atomes et molécule.
+>
+> Biochimie : macromolécule.
+>
+> Cytologie : organite et cellule.
+>
+> Histologie : tissu.
+>
+> Anatomie : organe et système d'organes.
+>
+> Biologie moléculaire : de la macromolécule à la cellule.
+>
+> Physiologie : du tissu à l'organisme.
+>
+
+**C. Visuel à l'écran**
+
+- Tableau du cours recréé : ligne d'en-tête colorée, puis les lignes.
+
+**D. Texte incrusté**
+
+- Titre : **Disciplines et niveaux**
+- Chimie organique | atomes, molécule
+- Biochimie | macromolécule
+- **Cytologie** | organite, **cellule**
+- **Histologie** | **tissu**
+- Anatomie | organe, système d'organes
+- Biologie moléculaire | macromolécule → cellule
+- Physiologie | tissu → organisme
+
+**E. Animation et mise en scène**
+
+- Les lignes apparaissent l'une après l'autre, synchronisées avec la voix off.
+- **04:56** : apparition de la carte « Chimie organique | atomes, molécule »
+- **04:58** : apparition de la carte « Biochimie | macromolécule »
+- **05:00** : apparition de la carte « **Cytologie** | organite, **cellule** »
+- **05:02** : apparition de la carte « **Histologie** | **tissu** »
+- **05:03** : apparition de la carte « Anatomie | organe, système d'organes »
+- **05:06** : apparition de la carte « Biologie moléculaire | macromolécule → cellule »
+- **05:09** : apparition de la carte « Physiologie | tissu → organisme »
+
+**F. Point de vigilance QCM**
+
+- —
+
+---
+
+### SÉQUENCE 12 — CYTO OU HISTO ?  ·  *PIÈGE D'EXAMEN*
+
+| | |
+|---|---|
+| **A. Durée** | 18 s (05:12 → 05:30) |
+| **Source** | S1-1 p.5 |
+
+**B. Voix off**
+
+> Le piège classique : inverser cytologie et histologie.
+>
+> “L'histologie se place au niveau de la cellule” : faux.
+>
+> La cytologie, c'est la cellule. L'histologie, c'est le tissu. Astuce : cyto, comme cytoplasme, c'est dans la cellule.
+>
+> Et la biochimie est sous la macromolécule, pas sous les atomes : sous les atomes, c'est la chimie organique.
+>
+
+**C. Visuel à l'écran**
+
+- Fond rouge : tampon « ⚠ PIÈGE D'EXAMEN », puis cartes ✗ (formulation fausse) et ✓ (formulation du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Cyto ou histo ?**
+- ✗ « L'histologie étudie le niveau de la cellule »
+- ✓ **CYTO**logie = **cellule** · **HISTO**logie = **tissu**
+- ✓ Atomes → **chimie organique** · macromolécule → **biochimie**
+
+**E. Animation et mise en scène**
+
+- Le tampon « pop » avec un son d'alerte ; chaque carte ✗ puis ✓ glisse vers le haut au moment où elle est dite.
+- **05:15** : apparition de la carte « ✗ « L'histologie étudie le niveau de la cellule » »
+- **05:18** : apparition de la carte « ✓ **CYTO**logie = **cellule** · **HISTO**logie = **tissu** »
+- **05:24** : apparition de la carte « ✓ Atomes → **chimie organique** · macromolécule → **biochimie** »
+
+**F. Point de vigilance QCM**
+
+- Ne jamais inverser cytologie (cellule) et histologie (tissu).
+
+---
+
+### SÉQUENCE 13 — QUIZ EXPRESS N°2  ·  *QUIZ EXPRESS*
+
+| | |
+|---|---|
+| **A. Durée** | 14 s (05:30 → 05:44) |
+| **Source** | S1-1 p.5 |
+
+**B. Voix off**
+
+> Question rapide : quel niveau se trouve entre la macromolécule et la cellule ?
+>
+> L'organite. Atomes, molécule, macromolécule, **organite**, cellule : Au Marché, Mamie **Offre**…
+>
+
+**C. Visuel à l'écran**
+
+- Quiz express : question en haut, propositions A, B, C… en cartes ; compte à rebours circulaire en haut à droite.
+- Question : Dans l'organisation hiérarchisée, quel niveau se trouve entre la macromolécule et la cellule ?
+  - A. Le tissu (✗)
+  - B. L'organite (✓)
+  - C. La molécule (✗)
+  - D. Le système d'organes (✗)
+
+**D. Texte incrusté**
+
+- Titre : **Quiz express n°2**
+
+**E. Animation et mise en scène**
+
+- Les propositions apparaissent ; le compte à rebours tourne avec un tic par seconde ; à la correction, les bonnes réponses passent en vert (✓) et les fausses en rouge (✗), avec un son « ding ».
+- **05:30** : compte à rebours de 4 s
+- **05:38** : correction (vert/rouge)
+
+**F. Point de vigilance QCM**
+
+- —
+
+---
+
+### SÉQUENCE 14 — THÈME 1 : LA THÉORIE CELLULAIRE  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 40 s (05:44 → 06:24) |
+| **Source** | S1-1 p.5 — diapo `S1-1:5b` |
+
+**B. Voix off**
+
+> Troisième point du chapitre : les thèmes unificateurs de la biologie. Il y en a cinq. Thème un : la théorie cellulaire, en deux énoncés.
+>
+> Premier énoncé : tous les êtres vivants sont constitués d'**une ou plusieurs** cellules.
+>
+> Les chiffres du cours, en nombre de cellules par organisme : une bactérie, **une** seule cellule ; le ver C. elegans, **959** cellules ; l'humain, entre **10 000 et 100 000 milliards**, illustré par une coupe de peau.
+>
+> Deuxième énoncé : toutes les cellules proviennent d'une cellule **préexistante**. Il n'y a **pas de génération spontanée**.
+>
+> L'illustration : les premiers stades du développement d'un embryon humain. Une cellule, deux, quatre, huit, puis la morula, puis le blastocyste. Chaque cellule naît d'une cellule qui existait déjà.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:5b** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Thème 1 : la théorie cellulaire**
+- Tous les êtres vivants sont constitués d'**une ou plusieurs** cellules
+- Bactérie : **1** · C. elegans : **959** · Humain : **10.000 – 100.000 milliards**
+- Toutes les cellules proviennent d'une cellule **préexistante** (pas de génération spontanée)
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **05:44** : vue d'ensemble de la diapo
+- **05:51** : zoom sur la zone (0.05, 0.25) → (0.95, 0.58) de la diapo ; surlignage de « Tous les êtres vivants »
+- **05:56** : zoom sur la zone (0.05, 0.30) → (0.95, 0.58) de la diapo ; surlignage de « 959 », « 100.000 »
+- **06:08** : zoom sur la zone (0.05, 0.60) → (0.95, 0.93) de la diapo ; surlignage de « préexistante »
+- **06:14** : zoom sur la zone (0.15, 0.68) → (0.85, 0.92) de la diapo ; surlignage de « 1-cell », « morula », « blastocyste »
+
+**F. Point de vigilance QCM**
+
+- « Une ou plusieurs » cellules ; 1 / 959 / 10.000 à 100.000 milliards ; pas de génération spontanée.
+
+---
+
+### SÉQUENCE 15 — LES CHIFFRES DE LA THÉORIE CELLULAIRE  ·  *PIÈGE D'EXAMEN*
+
+| | |
+|---|---|
+| **A. Durée** | 26 s (06:24 → 06:49) |
+| **Source** | S1-1 p.5 |
+
+**B. Voix off**
+
+> Trois pièges de chiffres et de mots.
+>
+> “Un humain compte 10 000 à 100 000 millions de cellules” : faux.
+>
+> Ce sont des **milliards** : entre 10 000 et 100 000 milliards. Et pour C. elegans, retiens le chiffre exact : **959**.
+>
+> Enfin, toute proposition qui dit qu'une cellule peut apparaître spontanément contredit le cours : pas de génération spontanée.
+>
+> Petit complément pour les puissances de dix : 10 000 à 100 000 milliards, c'est 10 puissance 13 à 10 puissance 14.
+>
+
+**C. Visuel à l'écran**
+
+- Fond rouge : tampon « ⚠ PIÈGE D'EXAMEN », puis cartes ✗ (formulation fausse) et ✓ (formulation du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Les chiffres de la théorie cellulaire**
+- ✗ « 10.000 à 100.000 **millions** de cellules »
+- ✓ 10.000 à 100.000 **milliards** · C. elegans : **959**
+- ✓ Toute cellule vient d'une cellule **préexistante**
+- 💡 Complément (hors cours) : 10.000 à 100.000 milliards = 10¹³ à 10¹⁴
+
+**E. Animation et mise en scène**
+
+- Le tampon « pop » avec un son d'alerte ; chaque carte ✗ puis ✓ glisse vers le haut au moment où elle est dite.
+- **06:26** : apparition de la carte « ✗ « 10.000 à 100.000 **millions** de cellules » »
+- **06:29** : apparition de la carte « ✓ 10.000 à 100.000 **milliards** · C. elegans : **959** »
+- **06:36** : apparition de la carte « ✓ Toute cellule vient d'une cellule **préexistante** »
+- **06:43** : apparition de la carte « 💡 Complément (hors cours) : 10.000 à 100.000 milliards = 10¹³ à 10¹⁴ »
+
+**F. Point de vigilance QCM**
+
+- Milliards (pas millions) ; 959 exactement ; aucune génération spontanée.
+
+---
+
+### SÉQUENCE 16 — THÈME 2 : LA BASE MOLÉCULAIRE DE L'HÉRÉDITÉ  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 27 s (06:49 → 07:16) |
+| **Source** | S1-1 p.6 — diapo `S1-1:6h` |
+
+**B. Voix off**
+
+> Thème deux : la base moléculaire de l'hérédité. Le “plan” de la cellule est inscrit dans une longue molécule, l'ADN.
+>
+> L'acide désoxyribonucléique : **deux** longues chaînes de nucléotides, **quatre** nucléotides, A, C, G et T, et la **séquence** des nucléotides, c'est l'information.
+>
+> Deuxième message : la continuité de la vie, l'hérédité, dépend de la transmission de l'ADN. Par la réplication de l'ADN **avant** chaque division cellulaire, et par la transmission d'une génération à l'autre.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:6h** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Thème 2 : la base moléculaire de l'hérédité**
+- Le « plan » de la cellule est inscrit dans une longue molécule : l'**ADN**
+- **2** longues chaînes · **4** nucléotides (A, C, G, T) · séquence = **information**
+- Réplication de l'ADN **avant** chaque division · transmission d'une génération à l'autre
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **06:49** : zoom sur la zone (0.00, 0.15) → (1.00, 0.60) de la diapo ; surlignage de « plan »
+- **06:56** : zoom sur la zone (0.20, 0.25) → (1.00, 0.60) de la diapo ; surlignage de « 2 longues », « 4 nucléotides », « séquence des nucléotides »
+- **07:04** : zoom sur la zone (0.00, 0.60) → (1.00, 0.95) de la diapo ; surlignage de « avant chaque division », « génération »
+
+**F. Point de vigilance QCM**
+
+- ADN = 2 chaînes, 4 nucléotides A, C, G, T ; réplication AVANT chaque division.
+
+---
+
+### SÉQUENCE 17 — THÈME 3 : LES CELLULES TRAITENT L'INFORMATION  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 26 s (07:16 → 07:42) |
+| **Source** | S1-1 p.6 — diapo `S1-1:6b` |
+
+**B. Voix off**
+
+> Thème trois : les cellules sont des systèmes de traitement de l'information, dans deux directions.
+>
+> Vers l'intérieur : elles synthétisent les composants cellulaires selon l'information stockée dans l'**ADN**.
+>
+> Vers l'extérieur : elles traitent l'information venant de leur **environnement**.
+>
+> C'est essentiel pour trois choses : l'organisation tissulaire, l'intégration de stimulus, avec sensibilité et mouvement, et l'homéostasie. Tu reconnais deux caractéristiques du vivant : sensibilité et homéostasie.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:6b** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Thème 3 : les cellules traitent l'information**
+- Synthèse des composants selon l'information de l'**ADN**
+- Traitement de l'information de l'**environnement**
+- Essentiel pour : organisation tissulaire · intégration de stimulus (sensibilité, mouvement…) · **homéostasie**
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **07:16** : vue d'ensemble de la diapo
+- **07:21** : surlignage de « Synthétisent »
+- **07:26** : surlignage de « environnement »
+- **07:30** : surlignage de « organisation tissulaire », « intégration de stimulus », « homéostasie »
+
+**F. Point de vigilance QCM**
+
+- Deux sources d'information (ADN et environnement) ; trois domaines où c'est essentiel.
+
+---
+
+### SÉQUENCE 18 — THÈME 4 : LE VIVANT, HORS ÉQUILIBRE  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 24 s (07:42 → 08:06) |
+| **Source** | S1-1 p.7 — diapo `S1-1:7h` |
+
+**B. Voix off**
+
+> Thème quatre : les systèmes vivants sont dans un état de **non-équilibre**. Regarde le schéma : à gauche, à l'équilibre, des billes de trois couleurs éparpillées au hasard.
+>
+> Avec un apport d'énergie, à droite, les mêmes billes s'assemblent en chaînes, en anneaux, en structures organisées : c'est le non-équilibre.
+>
+> Deux points à retenir. Un : c'est vrai à **tous les niveaux**, molécules, cellules, organisme, population. Deux : cela nécessite un apport **constant** d'énergie.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:7h** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Thème 4 : le vivant, hors équilibre**
+- Énergie → billes organisées = **non-équilibre**
+- À tous les niveaux : molécules, cellules, organisme, **population** · apport **constant** d'énergie
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **07:42** : zoom sur la zone (0.00, 0.15) → (0.60, 0.75) de la diapo ; surlignage de « équilibre »
+- **07:51** : zoom sur la zone (0.35, 0.15) → (1.00, 0.75) de la diapo ; surlignage de « énergie », « non-équilibre »
+- **07:58** : zoom sur la zone (0.00, 0.60) → (1.00, 1.00) de la diapo ; surlignage de « tous les niveaux », « constant »
+
+**F. Point de vigilance QCM**
+
+- Non-équilibre ; apport CONSTANT d'énergie ; à tous les niveaux jusqu'à la population.
+
+---
+
+### SÉQUENCE 19 — ADN, RÉPLICATION, ÉNERGIE  ·  *PIÈGE D'EXAMEN*
+
+| | |
+|---|---|
+| **A. Durée** | 19 s (08:06 → 08:25) |
+| **Source** | S1-1 p.6-7 |
+
+**B. Voix off**
+
+> Trois pièges sur les thèmes deux à quatre.
+>
+> “Les quatre nucléotides de l'ADN sont A, C, G et U” : faux. C'est A, C, G et **T**.
+>
+> “La réplication a lieu après la division” : faux. **Avant** chaque division : il faut copier le plan avant de le partager.
+>
+> “Le vivant est à l'équilibre, avec un apport ponctuel d'énergie” : faux. **Non**-équilibre, et apport **constant**.
+>
+
+**C. Visuel à l'écran**
+
+- Fond rouge : tampon « ⚠ PIÈGE D'EXAMEN », puis cartes ✗ (formulation fausse) et ✓ (formulation du cours).
+
+**D. Texte incrusté**
+
+- Titre : **ADN, réplication, énergie**
+- ✗ ADN = A, C, G, U  →  ✓ ADN = A, C, G, **T**
+- ✓ Réplication **AVANT** chaque division cellulaire
+- ✓ **NON**-équilibre · apport **CONSTANT** d'énergie
+
+**E. Animation et mise en scène**
+
+- Le tampon « pop » avec un son d'alerte ; chaque carte ✗ puis ✓ glisse vers le haut au moment où elle est dite.
+- **08:08** : apparition de la carte « ✗ ADN = A, C, G, U  →  ✓ ADN = A, C, G, **T** »
+- **08:13** : apparition de la carte « ✓ Réplication **AVANT** chaque division cellulaire »
+- **08:19** : apparition de la carte « ✓ **NON**-équilibre · apport **CONSTANT** d'énergie »
+
+**F. Point de vigilance QCM**
+
+- A, C, G, T ; avant la division ; non-équilibre ; apport constant.
+
+---
+
+### SÉQUENCE 20 — THÈME 5 : DOMAINES ET RÈGNES  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 23 s (08:25 → 08:48) |
+| **Source** | S1-1 p.7 — diapo `S1-1:7b` |
+
+**B. Voix off**
+
+> Thème cinq : la diversité de la vie naît de changements évolutifs. Le cours classe le vivant en **domaines**, notés D, et en **règnes**, notés R.
+>
+> Trois domaines. D1 : les archées. D2 : les bactéries. Et le cours le précise : D1 et D2, ce sont les **procaryotes**.
+>
+> D3 : les **eucaryotes**, avec quatre règnes : R1, les plantes ; R2, les champignons ; R3, les animaux ; R4, les protistes.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:7b** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Thème 5 : domaines et règnes**
+- D1 **Archées** + D2 **Bactéries** = **procaryotes**
+- D3 **Eucaryotes** : R1 Plantes · R2 Champignons · R3 Animaux · R4 **Protistes**
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **08:25** : vue d'ensemble de la diapo ; surlignage de « domaines », « règnes »
+- **08:33** : zoom sur la zone (0.03, 0.25) → (0.50, 0.82) de la diapo ; surlignage de « D1 et D2 »
+- **08:40** : zoom sur la zone (0.48, 0.25) → (0.95, 0.90) de la diapo
+
+**F. Point de vigilance QCM**
+
+- Procaryotes = D1 archées + D2 bactéries ; protistes = règne R4 des eucaryotes ; domaine ≠ règne.
+
+---
+
+### SÉQUENCE 21 — DOMAINES ET RÈGNES SANS PANIQUER  ·  *MNÉMO*
+
+| | |
+|---|---|
+| **A. Durée** | 20 s (08:48 → 09:08) |
+| **Source** | S1-1 p.7 |
+
+**B. Voix off**
+
+> Les domaines, c'est l'alphabet : A, B, E. Archées, Bactéries, Eucaryotes. Et les deux premières lettres, A et B, sont les procaryotes.
+>
+> Les règnes, dans l'ordre : “Pour Comprendre Avant de Paniquer”. Plantes, Champignons, Animaux, Protistes.
+>
+> Et une image pour les relier : un champignon pousse sur une plante, un animal le mange, puis va boire dans une flaque pleine de protistes.
+>
+
+**C. Visuel à l'écran**
+
+- Fond vert : la phrase mnémotechnique en grand (initiales en vert), puis une carte par lettre ou par élément.
+- Phrase mnémotechnique : Domaines : **A** · **B** · **E** — Règnes : **P**our **C**omprendre **A**vant de **P**aniquer
+
+**D. Texte incrusté**
+
+- Titre : **Domaines et règnes sans paniquer**
+- D1 **A**rchées · D2 **B**actéries → procaryotes · D3 **E**ucaryotes
+- R1 **P**lantes · R2 **C**hampignons · R3 **A**nimaux · R4 **P**rotistes
+- Plante → champignon → animal → flaque de **protistes**
+
+**E. Animation et mise en scène**
+
+- La phrase « pop », puis chaque correspondance apparaît au rythme de la voix off.
+- **08:48** : apparition de la carte « D1 **A**rchées · D2 **B**actéries → procaryotes · D3 **E**ucaryotes »
+- **08:55** : apparition de la carte « R1 **P**lantes · R2 **C**hampignons · R3 **A**nimaux · R4 **P**rotiste »
+- **09:00** : apparition de la carte « Plante → champignon → animal → flaque de **protistes** »
+
+**F. Point de vigilance QCM**
+
+- A et B (archées, bactéries) = procaryotes ; E = eucaryotes ; R1 à R4 = plantes, champignons, animaux, protistes.
+
+---
+
+### SÉQUENCE 22 — L'ARBRE DU VIVANT ET L'ANCÊTRE COMMUN  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 29 s (09:08 → 09:37) |
+| **Source** | S1-1 p.8 — diapo `S1-1:8b` |
+
+**B. Voix off**
+
+> L'arbre du cours relie bactéries, archées, protistes, plantes, aussi appelées Viridiplantae, champignons et animaux à un **ancêtre commun**.
+>
+> Sur cet arbre, les bactéries se séparent en premier ; puis les archées ; champignons et animaux partagent un embranchement, et protistes et plantes un autre.
+>
+> Cet ancêtre commun vivait il y a environ **3,8 milliards d'années**, et c'était un organisme **unicellulaire**.
+>
+> Et la flèche à droite résume l'idée : conservation de composants biologiques essentiels, de l'ancêtre jusqu'à toi.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:8b** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **L'arbre du vivant et l'ancêtre commun**
+- Ancêtre commun : ~**3,8 milliards** d'années · organisme **unicellulaire**
+- Conservation de composants biologiques **essentiels**
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **09:08** : zoom sur la zone (0.00, 0.15) → (0.75, 0.90) de la diapo ; surlignage de « Ancêtre commun »
+- **09:15** : zoom sur la zone (0.00, 0.15) → (0.75, 0.75) de la diapo
+- **09:24** : zoom sur la zone (0.10, 0.60) → (0.90, 1.00) de la diapo ; surlignage de « milliards », « unicellulaire »
+- **09:31** : zoom sur la zone (0.50, 0.15) → (1.00, 0.85) de la diapo ; surlignage de « conservation »
+
+**F. Point de vigilance QCM**
+
+- Ancêtre commun : ~3,8 milliards d'années, organisme unicellulaire ; conservation de composants biologiques essentiels.
+
+---
+
+### SÉQUENCE 23 — DES PROTISTES À L'ORIGINE DE PATHOLOGIES  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 24 s (09:37 → 10:02) |
+| **Source** | S1-1 p.8 — diapo `S1-1:8h` |
+
+**B. Voix off**
+
+> Pour que les protistes ne restent pas abstraits, le cours donne un exemple de protiste à l'origine de pathologies : Naegleria Floweri, une **amibe flagellée**.
+>
+> Elle prolifère dans les eaux **douces et chaudes** : rivières, lacs, piscines.
+>
+> Elle pénètre par les **muqueuses nasales**, et elle s'attaque au **cerveau**.
+>
+> Résultat : une méningo-encéphalite, avec céphalées, coma et décès. La diapo l'illustre par un cas rapporté dans la presse, après une baignade en rivière.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S1-1:8h** (rendu haute définition du PDF du cours).
+- Les photos de personnes réelles présentes sur la diapo sont **floutées** (protection de la vie privée).
+
+**D. Texte incrusté**
+
+- Titre : **Des protistes à l'origine de pathologies**
+- **Naegleria Floweri** (amibe flagellée)
+- Prolifère dans les eaux **douces et chaudes** (rivières, lacs, piscines)
+- Pénètre par les **muqueuses nasales** · s'attaque au **cerveau**
+- ⇒ **méningo-encéphalite** (céphalées, coma, décès)
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **09:37** : zoom sur la zone (0.50, 0.18) → (1.00, 0.58) de la diapo ; surlignage de « amibe flagellée »
+- **09:46** : zoom sur la zone (0.50, 0.18) → (1.00, 0.58) de la diapo ; surlignage de « chaudes »
+- **09:50** : zoom sur la zone (0.50, 0.18) → (1.00, 0.58) de la diapo ; surlignage de « muqueuses nasales », « cerveau »
+- **09:53** : zoom sur la zone (0.50, 0.30) → (1.00, 0.95) de la diapo ; surlignage de « méningo-encéphalite »
+
+**F. Point de vigilance QCM**
+
+- Eaux douces ET chaudes ; muqueuses nasales ; cerveau ; méningo-encéphalite.
+
+---
+
+### SÉQUENCE 24 — PROCARYOTE OU EUCARYOTE ?  ·  *PIÈGE D'EXAMEN*
+
+| | |
+|---|---|
+| **A. Durée** | 26 s (10:02 → 10:28) |
+| **Source** | S1-1 p.7-8 |
+
+**B. Voix off**
+
+> Les derniers pièges de l'épisode.
+>
+> “Les archées sont des eucaryotes” : faux. Archées et bactéries sont les procaryotes.
+>
+> “Les protistes sont des procaryotes” : faux. Les protistes sont le règne R4 du domaine des eucaryotes.
+>
+> Domaine et règne ne sont pas synonymes : les règnes sont des subdivisions du domaine des eucaryotes. Et l'ancêtre commun, c'est 3,8 **milliards** d'années, pas millions.
+>
+> Et Naegleria : un protiste, dans l'eau douce et chaude, qui entre par le nez et atteint le cerveau.
+>
+
+**C. Visuel à l'écran**
+
+- Fond rouge : tampon « ⚠ PIÈGE D'EXAMEN », puis cartes ✗ (formulation fausse) et ✓ (formulation du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Procaryote ou eucaryote ?**
+- ✗ Archées = eucaryotes  →  ✓ Archées = **procaryotes**
+- ✓ Protistes = R4 du domaine D3 = **eucaryotes**
+- ✓ Domaine ≠ règne · ~3,8 **milliards** d'années
+- ✓ Naegleria : protiste · eau **douce et chaude** · voie **nasale** · **cerveau**
+
+**E. Animation et mise en scène**
+
+- Le tampon « pop » avec un son d'alerte ; chaque carte ✗ puis ✓ glisse vers le haut au moment où elle est dite.
+- **10:04** : apparition de la carte « ✗ Archées = eucaryotes  →  ✓ Archées = **procaryotes** »
+- **10:08** : apparition de la carte « ✓ Protistes = R4 du domaine D3 = **eucaryotes** »
+- **10:14** : apparition de la carte « ✓ Domaine ≠ règne · ~3,8 **milliards** d'années »
+- **10:22** : apparition de la carte « ✓ Naegleria : protiste · eau **douce et chaude** · voie **nasale** · *… »
+
+**F. Point de vigilance QCM**
+
+- Archées = procaryotes ; protistes = eucaryotes ; ~3,8 milliards d'années ; Naegleria = protiste, eaux douces et chaudes, voie nasale.
+
+---
+
+### SÉQUENCE 25 — QUIZ EXPRESS N°3  ·  *QUIZ EXPRESS*
+
+| | |
+|---|---|
+| **A. Durée** | 16 s (10:28 → 10:44) |
+| **Source** | S1-1 p.7-8 |
+
+**B. Voix off**
+
+> Dernier quiz express. Laquelle est exacte ?
+>
+> Réponse B : Naegleria pénètre par les muqueuses nasales. Les protistes sont des eucaryotes, l'ancêtre commun était unicellulaire, et les archées sont des procaryotes.
+>
+
+**C. Visuel à l'écran**
+
+- Quiz express : question en haut, propositions A, B, C… en cartes ; compte à rebours circulaire en haut à droite.
+- Question : Laquelle de ces propositions est exacte ?
+  - A. Les protistes appartiennent au domaine des procaryotes. (✗)
+  - B. Naegleria Floweri pénètre par les muqueuses nasales. (✓)
+  - C. L'ancêtre commun était pluricellulaire. (✗)
+  - D. Les archées sont des eucaryotes. (✗)
+
+**D. Texte incrusté**
+
+- Titre : **Quiz express n°3**
+
+**E. Animation et mise en scène**
+
+- Les propositions apparaissent ; le compte à rebours tourne avec un tic par seconde ; à la correction, les bonnes réponses passent en vert (✓) et les fausses en rouge (✗), avec un son « ding ».
+- **10:28** : compte à rebours de 4 s
+- **10:35** : correction (vert/rouge)
+
+**F. Point de vigilance QCM**
+
+- —
+
+---
+
+### SÉQUENCE 26 — RÉCAP : 7 · 9 · 5  ·  *RÉCAP*
+
+| | |
+|---|---|
+| **A. Durée** | 40 s (10:44 → 11:24) |
+| **Source** | S1-1 p.1-8 |
+
+**B. Voix off**
+
+> Récap express.
+>
+> Sept caractéristiques : organisation cellulaire, complexité ordonnée, sensibilité, croissance-développement-reproduction, utilisation d'énergie, homéostasie, adaptation évolutive.
+>
+> Neuf niveaux, des atomes à l'organisme, avec la cytologie pour la cellule et l'histologie pour le tissu.
+>
+> Cinq thèmes : la théorie cellulaire ; la base moléculaire de l'hérédité ; le traitement de l'information ; le non-équilibre ; et la diversité née de l'évolution, avec trois domaines, quatre règnes et un ancêtre commun unicellulaire d'il y a 3,8 milliards d'années.
+>
+> Ce soir, sans la vidéo, essaie de réécrire ces trois listes. Et demain, recommence : c'est ça qui fixe la mémoire.
+>
+
+**C. Visuel à l'écran**
+
+- Fond vert : liste de contrôle ✓ des notions de l'épisode.
+
+**D. Texte incrusté**
+
+- Titre : **Récap : 7 · 9 · 5**
+- **7** : organisation cellulaire · complexité ordonnée · sensibilité · croissance, développement et reproduction · utilisation d'énergie · homéostasie · adaptation évolutive
+- **9** : atomes → … → organisme · cytologie = cellule · histologie = tissu
+- **5** : théorie cellulaire · hérédité (ADN) · traitement de l'information · non-équilibre · diversité évolutive
+- Ce soir : réécris les 3 listes de mémoire · demain : recommence
+
+**E. Animation et mise en scène**
+
+- Chaque ligne ✓ apparaît au rythme de la voix off.
+- **10:45** : apparition de la carte « **7** : organisation cellulaire · complexité ordonnée · sensibilité · … »
+- **10:56** : apparition de la carte « **9** : atomes → … → organisme · cytologie = cellule · histologie = ti… »
+- **11:02** : apparition de la carte « **5** : théorie cellulaire · hérédité (ADN) · traitement de l'informat… »
+- **11:18** : apparition de la carte « Ce soir : réécris les 3 listes de mémoire · demain : recommence »
+
+**F. Point de vigilance QCM**
+
+- —
+
+---
+
+### SÉQUENCE 27 — ÉPISODE 2 : LES ATOMES DU VIVANT  ·  *LA SUITE*
+
+| | |
+|---|---|
+| **A. Durée** | 12 s (11:24 → 11:35) |
+| **Source** | S1-1 p.10 |
+
+**B. Voix off**
+
+> Dans le prochain épisode, on descend tout en bas de ta pyramide : les atomes. Quatre éléments seulement font 96,3 % du poids de ton corps. Lesquels ? Réponse dans l'épisode deux.
+>
+
+**C. Visuel à l'écran**
+
+- Carte « La suite » : teaser de l'épisode suivant avec un chiffre-énigme.
+
+**D. Texte incrusté**
+
+- Titre : **Épisode 2 : les atomes du vivant**
+- Quatre atomes = **96,3 %** du poids de ton corps. Lesquels ?
+
+**E. Animation et mise en scène**
+
+- Le chiffre « pop », puis la phrase-teaser.
+- **11:24** : apparition de la carte « Quatre atomes = **96,3 %** du poids de ton corps. Lesquels ? »
+
+**F. Point de vigilance QCM**
+
+- —
 
 ---
 
 ## 6. Récapitulatif des notions essentielles (fidèle au cours)
 
-**Le cours (S1-1 p.1-2)**
-- WMEDE1152 « Biologie & Embryologie générale », Prof. Charles De Smet. **Partie I** : des molécules jusqu'aux cellules (fonctionnement). **Partie II** : des cellules jusqu'à l'organisme (développement embryonnaire).
-- TP (rapports et interros) **obligatoires** ; interrogation sur la matière vue (~1er novembre) **non cotée** ; monitorats (révision) sur inscription ; Moodle (mon bureau / mes études) et forums.
-- Supports : notes de cours ; dias largement annotées (syllabus CIB pour la partie 1, PDF sur Moodle) ; feuilles d'acquis ; livres de référence : « Biologie » de Raven et « Embryologie humaine » de Larsen (De Boeck). EPI : articles « case report », mise en commun en auditoire.
-
-**Physique, chimie, biologie (p.3)**
-- Matières inanimées = assemblage « simple » d'éléments, atomes (chimie). Systèmes vivants = organisation plus complexe de la matière (biologie). L'énergie vient du soleil (physique).
-
-**Les 7 caractéristiques des êtres vivants (p.4)**
-- Organisation cellulaire · Complexité ordonnée · Sensibilité · Croissance, développement et reproduction · Utilisation d'énergie · Homéostasie · Adaptation évolutive.
-
-**L'organisation hiérarchisée (p.5h)**
-- Atomes → Molécule → Macromolécule → Organite → Cellule (**niveau cellulaire**) → Tissu → Organe → Système d'organes → Organisme (**niveau de l'organisme**, au-dessus des deux derniers).
+- Le cours WMEDE1152 (Prof. Charles De Smet) : Partie I, des molécules jusqu'aux cellules (fonctionnement) ; Partie II, des cellules jusqu'à l'organisme (développement embryonnaire). TP (rapports et interros) obligatoires ; interrogation (~1er novembre) non cotée ; monitorats sur inscription ; Moodle (mon bureau / mes études) et forums ; supports : notes, dias annotées (syllabus CIB, PDF Moodle), feuilles d'acquis ; Raven « Biologie », Larsen « Embryologie humaine » (De Boeck) ; EPI : articles « case report », mise en commun en auditoire.
+- Matières inanimées = assemblage « simple » d'éléments, atomes (chimie) ; systèmes vivants = organisation plus complexe de la matière (biologie) ; énergie apportée par le soleil (physique).
+- 7 caractéristiques des êtres vivants : organisation cellulaire ; complexité ordonnée ; sensibilité ; croissance, développement et reproduction ; utilisation d'énergie ; homéostasie ; adaptation évolutive.
+- Organisation hiérarchisée : atomes → molécule → macromolécule → organite → cellule (niveau cellulaire) → tissu → organe → système d'organes → organisme (niveau de l'organisme). Échelles du schéma : 0,2 µm ; 0,5 µm ; 100 µm.
 - Disciplines : chimie organique (atomes, molécule) ; biochimie (macromolécule) ; cytologie (organite, cellule) ; histologie (tissu) ; anatomie (organe, système d'organes) ; biologie moléculaire (macromolécule → cellule) ; physiologie (tissu → organisme).
-- Échelles de la figure : 0,2 µm (organite) ; 0,5 µm (cellule) ; 100 µm (tissu).
-
-**Les 5 thèmes unificateurs de la biologie (p.5b à 8)**
-1. **La théorie cellulaire** : tous les êtres vivants sont constitués d'une ou plusieurs cellules (bactéries : 1 ; ver *C. elegans* : 959 ; humain : 10.000 à 100.000 milliards) ; toutes les cellules proviennent d'une cellule préexistante (pas de génération spontanée) ; illustration : 1-cell, 2-cell, 4-cell, 8-cell, morula, blastocyste (premiers stades du développement d'un embryon humain).
-2. **La base moléculaire de l'hérédité** : le « plan » de la cellule est inscrit dans une longue molécule, l'ADN (acide désoxyribonucléique) : 2 longues chaînes de nucléotides ; 4 nucléotides (A, C, G, T) ; séquence des nucléotides = information. La continuité de la vie (hérédité) dépend de la transmission de l'ADN : réplication de l'ADN avant chaque division cellulaire ; transmission d'une génération à l'autre.
-3. **Les cellules sont des systèmes de traitement de l'information** : elles synthétisent les composants cellulaires selon l'information stockée dans l'ADN ; elles traitent l'information venant de leur environnement, ce qui est essentiel pour l'organisation tissulaire, l'intégration de stimulus (sensibilité, mouvement…) et l'homéostasie.
-4. **Les systèmes vivants sont dans un état de non-équilibre** : à tous les niveaux (molécules, cellules, organisme, population) ; nécessite un apport constant d'énergie.
-5. **La diversité de la vie naît de changements évolutifs** : 3 domaines (D1 archées, D2 bactéries, D3 eucaryotes ; D1 et D2 = procaryotes) ; 4 règnes chez les eucaryotes (R1 plantes, R2 champignons, R3 animaux, R4 protistes) ; arbre : bactéries, archées, protistes, plantes (Viridiplantae), champignons, animaux, issus d'un **ancêtre commun** (~3,8 milliards d'années, organisme unicellulaire) ; conservation de composants biologiques essentiels.
-
-**Protistes pathogènes (p.8h)**
-- *Naegleria fowleri* (écrit « Floweri » dans le PDF) : amibe flagellée ; prolifère dans les eaux douces et chaudes (rivières, lacs, piscines) ; pénètre par les muqueuses nasales ; s'attaque au cerveau ⇒ méningo-encéphalite (céphalées, coma, décès).
+- Thème 1, la théorie cellulaire : tous les êtres vivants sont constitués d'une ou plusieurs cellules (bactéries : 1 ; ver C. elegans : 959 ; humain : 10.000 à 100.000 milliards) ; toutes les cellules proviennent d'une cellule préexistante (pas de génération spontanée) ; illustration : 1-cell, 2-cell, 4-cell, 8-cell, morula, blastocyste.
+- Thème 2, la base moléculaire de l'hérédité : le « plan » de la cellule est inscrit dans l'ADN (acide désoxyribonucléique : 2 longues chaînes de nucléotides ; 4 nucléotides A, C, G, T ; séquence des nucléotides = information) ; la continuité de la vie (hérédité) dépend de la transmission de l'ADN (réplication avant chaque division cellulaire ; transmission d'une génération à l'autre).
+- Thème 3, les cellules sont des systèmes de traitement de l'information : synthèse des composants selon l'information de l'ADN ; traitement de l'information de l'environnement, essentiel pour l'organisation tissulaire, l'intégration de stimulus (sensibilité, mouvement…) et l'homéostasie.
+- Thème 4, les systèmes vivants sont dans un état de non-équilibre : à tous les niveaux (molécules, cellules, organisme, population) ; nécessite un apport constant d'énergie.
+- Thème 5, la diversité de la vie naît de changements évolutifs : D1 archées, D2 bactéries (D1 et D2 = procaryotes), D3 eucaryotes (R1 plantes, R2 champignons, R3 animaux, R4 protistes) ; arbre : bactéries, archées, protistes, plantes (Viridiplantae), champignons, animaux ; ancêtre commun ~3,8 milliards d'années, organisme unicellulaire ; conservation de composants biologiques essentiels.
+- Naegleria Floweri (amibe flagellée) : prolifère dans les eaux douces et chaudes (rivières, lacs, piscines), pénètre par les muqueuses nasales, s'attaque au cerveau ⇒ méningo-encéphalite (céphalées, coma, décès).
 
 ## 7. Pièges de QCM à connaître
 
 | # | Piège | Ce qu'il faut retenir | Source |
 |---|---|---|---|
-| 1 | « Le cours liste 9 caractéristiques » / « croissance, développement et reproduction = 3 caractéristiques » | **7** caractéristiques ; « croissance, développement et reproduction » n'en forme **qu'une** | p.4b |
-| 2 | « Complexité aléatoire », « adaptation individuelle » | Intitulés exacts : complexité **ordonnée**, adaptation **évolutive** | p.4b |
-| 3 | Inversion cytologie / histologie | **Cytologie** → organite, cellule · **Histologie** → tissu | p.5h |
-| 4 | Biochimie sous les atomes | **Chimie organique** → atomes, molécule · **Biochimie** → macromolécule | p.5h |
-| 5 | Ordre des niveaux | Organite **entre** macromolécule et cellule ; système d'organes **entre** organe et organisme | p.5h |
-| 6 | « 10.000 à 100.000 **millions** de cellules » | **Milliards** | p.5b |
-| 7 | C. elegans « ~1000 cellules » | **959** | p.5b |
-| 8 | « Une cellule peut naître spontanément » | **Pas de génération spontanée** : toute cellule vient d'une cellule préexistante | p.5b |
-| 9 | Théorie cellulaire « en 3 énoncés » à la p.5 | **2** énoncés p.5 ; **3** énoncés p.47 | p.5b / p.47b |
-| 10 | « L'ADN contient A, C, G, U » | ADN = **A, C, G, T** | p.6h |
-| 11 | « Réplication après la division » | Réplication **avant** chaque division cellulaire | p.6h |
-| 12 | Le traitement de l'information ne concernerait que l'ADN | **Deux** sources : l'ADN **et** l'environnement | p.6b |
-| 13 | « Les systèmes vivants sont à l'équilibre » / « apport ponctuel d'énergie » | **Non-équilibre**, apport **constant** d'énergie, à **tous** les niveaux jusqu'à la **population** | p.7h |
-| 14 | « Les archées sont des eucaryotes » | Archées (D1) + bactéries (D2) = **procaryotes** | p.7b |
-| 15 | « Les protistes sont des procaryotes » | Protistes = **R4 du domaine D3**, donc **eucaryotes** | p.7b |
-| 16 | Domaine = règne | Règnes = **subdivisions** du domaine des eucaryotes dans le schéma | p.7b |
-| 17 | « Ancêtre commun il y a 3,8 millions d'années » / « pluricellulaire » | **~3,8 milliards** d'années, **unicellulaire** | p.8b |
-| 18 | *Naegleria* : eau salée, eau froide, ingestion, bactérie | Eau **douce et chaude** ; **muqueuses nasales** ; **cerveau** ; **protiste** (eucaryote) | p.8h |
+| 1 | « Le cours liste 9 caractéristiques » | 7 caractéristiques ; « croissance, développement et reproduction » = une seule | p.4b |
+| 2 | « Complexité aléatoire », « adaptation individuelle » | Complexité ordonnée, adaptation évolutive | p.4b |
+| 3 | Inverser cytologie et histologie | Cytologie → organite, cellule ; histologie → tissu | p.5h |
+| 4 | Biochimie sous les atomes | Chimie organique → atomes, molécule ; biochimie → macromolécule | p.5h |
+| 5 | Ordre des niveaux | Organite entre macromolécule et cellule ; système d'organes entre organe et organisme | p.5h |
+| 6 | « 10.000 à 100.000 millions de cellules » | Milliards | p.5b |
+| 7 | C. elegans « ~1000 cellules » | 959 | p.5b |
+| 8 | « Une cellule peut naître spontanément » | Pas de génération spontanée : toute cellule vient d'une cellule préexistante | p.5b |
+| 9 | « L'ADN contient A, C, G, U » | ADN = A, C, G, T | p.6h |
+| 10 | « Réplication après la division » | Réplication avant chaque division cellulaire | p.6h |
+| 11 | Le traitement de l'information ne concernerait que l'ADN | Deux sources : l'ADN et l'environnement | p.6b |
+| 12 | « Le vivant est à l'équilibre » / « apport ponctuel » | Non-équilibre, apport constant, à tous les niveaux jusqu'à la population | p.7h |
+| 13 | « Les archées sont des eucaryotes » | Archées (D1) + bactéries (D2) = procaryotes | p.7b |
+| 14 | « Les protistes sont des procaryotes » | Protistes = R4 du domaine D3 = eucaryotes | p.7b |
+| 15 | Domaine = règne | Les règnes subdivisent le domaine des eucaryotes | p.7b |
+| 16 | « 3,8 millions d'années » / « pluricellulaire » | ~3,8 milliards d'années, unicellulaire | p.8b |
+| 17 | Naegleria : eau salée, eau froide, ingestion, bactérie | Eaux douces et chaudes ; muqueuses nasales ; cerveau ; protiste (eucaryote) | p.8h |
 
-## 8. Mnémotechniques de l'épisode
+## 8. Mnémotechniques
 
 | Ce qu'il faut retenir | Mnémotechnique | Correspondance exacte |
 |---|---|---|
-| Les 7 caractéristiques (dans l'ordre du cours) | 🐹 « **O**n **C**herche **S**ept **C**ritères : **U**n **H**amster **A**daptable » | O = Organisation cellulaire · C = Complexité ordonnée · S = Sensibilité · C = Croissance, développement et reproduction · U = Utilisation d'énergie · H = Homéostasie · A = Adaptation évolutive |
-| Les 9 niveaux d'organisation | 🛒 « **A**u **M**arché, **M**amie **O**ffre **C**es **T**omates **O**u **S**es **O**ignons » | Atomes · Molécule · Macromolécule · Organite · Cellule · Tissu · Organe · Système d'organes · Organisme |
-| Cytologie vs histologie | Image : **cyto** = la **cellule** sous le microscope ; **histo** = le **tissu** (tissage) | Cytologie → cellule (et organite) · Histologie → tissu |
-| Les 3 domaines | 🔤 **A-B-E**, comme l'alphabet : les deux premières lettres = procaryotes | D1 Archées · D2 Bactéries (= procaryotes) · D3 Eucaryotes |
-| Les 4 règnes eucaryotes (R1 → R4) | 😮‍💨 « **P**our **C**omprendre **A**vant de **P**aniquer » | R1 Plantes · R2 Champignons · R3 Animaux · R4 Protistes |
-| *Naegleria fowleri* | Image : **une piscine chaude → le nez → le cerveau** | Eaux douces et chaudes → muqueuses nasales → cerveau (méningo-encéphalite) |
+| Les 7 caractéristiques | « On Cherche Sept Critères : Un Hamster Adaptable » + l'image du hamster qui coche chaque case (cellules, corps rangé, sursaute, grandit et fait des petits, mange, milieu stable, espèce qui évolue) | Organisation cellulaire · Complexité ordonnée · Sensibilité · Croissance, développement et reproduction · Utilisation d'énergie · Homéostasie · Adaptation évolutive |
+| Les 9 niveaux | « Au Marché, Mamie Offre Ces Tomates Ou Ses Oignons » + zoom arrière de l'atome jusqu'à l'oie | Atomes · Molécule · Macromolécule · Organite · Cellule · Tissu · Organe · Système d'organes · Organisme |
+| Cytologie vs histologie | « Cyto » comme cytoplasme = dans la cellule | Cytologie → cellule (et organite) ; histologie → tissu |
+| Les 3 domaines | A-B-E comme l'alphabet ; A et B = procaryotes | D1 Archées · D2 Bactéries · D3 Eucaryotes |
+| Les 4 règnes | « Pour Comprendre Avant de Paniquer » + plante → champignon → animal → flaque de protistes | R1 Plantes · R2 Champignons · R3 Animaux · R4 Protistes |
+| Naegleria Floweri | Piscine chaude → nez → cerveau | Eaux douces et chaudes → muqueuses nasales → cerveau (méningo-encéphalite) |
 
-## 9. Mini-test de récupération active (avec corrigé détaillé)
+## 9. Mini-test de récupération active (corrigé détaillé)
 
-> Consigne à l'écran (en fin de vidéo ou en post épinglé) : « Une ou plusieurs propositions exactes. Réponds **avant** de lire le corrigé. »
+> Une ou plusieurs propositions exactes. Réponds **avant** de lire le corrigé, puis refais le test 24 h plus tard.
 
-### Question 1 — Les caractéristiques des êtres vivants
+### Question 1
+
 Selon le cours, parmi les propositions suivantes, laquelle ou lesquelles sont exactes ?
+
 - **A.** Le cours énumère sept caractéristiques des êtres vivants.
 - **B.** Croissance, développement et reproduction y constituent trois caractéristiques distinctes.
 - **C.** L'homéostasie fait partie des caractéristiques des êtres vivants.
 - **D.** La « complexité aléatoire » fait partie des caractéristiques des êtres vivants.
 - **E.** L'adaptation évolutive fait partie des caractéristiques des êtres vivants.
 
-**✅ Réponses : A, C, E**
-- **A — VRAI.** La diapo p.4b liste 7 puces.
-- **B — FAUX.** « Croissance, développement et reproduction » forme **une seule** puce, donc une seule caractéristique.
-- **C — VRAI.** « Homéostasie » est la 6e caractéristique.
-- **D — FAUX.** Le cours dit complexité **ordonnée**, ce qui est l'inverse d'une complexité aléatoire.
-- **E — VRAI.** « Adaptation évolutive » est la 7e caractéristique.
+**✅ Réponse(s) : A, C, E**
 
-### Question 2 — L'organisation hiérarchisée
+- **A — VRAI.** La diapo p.4b liste 7 puces.
+- **B — FAUX.** C'est une seule puce, donc une seule caractéristique.
+- **C — VRAI.** 6e caractéristique.
+- **D — FAUX.** Le cours dit complexité ordonnée.
+- **E — VRAI.** 7e caractéristique.
+
+### Question 2
+
 D'après le schéma de l'organisation hiérarchisée des êtres vivants (p.5) :
+
 - **A.** L'organite se situe entre la macromolécule et la cellule.
 - **B.** La cytologie est la discipline placée sous le niveau du tissu.
 - **C.** Le système d'organes se situe entre l'organe et l'organisme.
 - **D.** La flèche « physiologie » s'étend du niveau du tissu jusqu'à celui de l'organisme.
 - **E.** La biochimie est la discipline placée sous le niveau des atomes.
 
-**✅ Réponses : A, C, D**
-- **A — VRAI.** Ordre : … macromolécule → **organite** → cellule …
-- **B — FAUX.** Sous le tissu, on trouve l'**histologie**. La cytologie est sous l'organite et la cellule.
-- **C — VRAI.** Ordre : … organe → **système d'organes** → organisme.
-- **D — VRAI.** Sur le schéma, la flèche « physiologie » part du tissu et va jusqu'à l'organisme.
-- **E — FAUX.** Sous les atomes (et la molécule), c'est la **chimie organique**. La biochimie est sous la macromolécule.
+**✅ Réponse(s) : A, C, D**
 
-### Question 3 — La théorie cellulaire
-- **A.** Selon le cours, un organisme humain compte entre 10.000 et 100.000 milliards de cellules.
-- **B.** Selon le cours, le ver *C. elegans* compte 959 cellules.
-- **C.** La théorie cellulaire présentée p.5 admet une génération spontanée de cellules dans certaines conditions.
+- **A — VRAI.** … macromolécule → organite → cellule …
+- **B — FAUX.** Sous le tissu, c'est l'histologie ; la cytologie est sous l'organite et la cellule.
+- **C — VRAI.** … organe → système d'organes → organisme.
+- **D — VRAI.** C'est l'étendue de la flèche sur le schéma.
+- **E — FAUX.** Sous les atomes et la molécule : chimie organique ; la biochimie est sous la macromolécule.
+
+### Question 3
+
+À propos de la théorie cellulaire présentée p.5 :
+
+- **A.** Un organisme humain compte entre 10.000 et 100.000 milliards de cellules.
+- **B.** Le ver C. elegans compte 959 cellules.
+- **C.** Elle admet une génération spontanée de cellules dans certaines conditions.
 - **D.** Les stades 1-cell, 2-cell, 4-cell, 8-cell, morula et blastocyste illustrent l'énoncé « toutes les cellules proviennent d'une cellule préexistante ».
 - **E.** Une bactérie est un organisme constitué de plusieurs cellules.
 
-**✅ Réponses : A, B, D**
-- **A — VRAI.** Chiffre du tableau de la p.5b (des **milliards**, pas des millions).
-- **B — VRAI.** Chiffre exact du tableau : 959.
-- **C — FAUX.** Le cours précise « **pas de génération spontanée** ».
-- **D — VRAI.** Sur la diapo, la frise des premiers stades du développement d'un embryon humain illustre justement le 2e énoncé.
-- **E — FAUX.** Le tableau donne **1** cellule par organisme pour les bactéries.
+**✅ Réponse(s) : A, B, D**
 
-### Question 4 — Thèmes 2, 3 et 4
+- **A — VRAI.** Chiffre du tableau de la p.5b (milliards).
+- **B — VRAI.** Chiffre exact du tableau.
+- **C — FAUX.** Le cours précise : pas de génération spontanée.
+- **D — VRAI.** C'est l'illustration du 2e énoncé.
+- **E — FAUX.** Le tableau donne 1 cellule par organisme pour les bactéries.
+
+### Question 4
+
+À propos des thèmes 2, 3 et 4 :
+
 - **A.** L'ADN est formé de deux longues chaînes de nucléotides.
 - **B.** Les quatre nucléotides de l'ADN sont A, C, G et U.
 - **C.** L'ADN est répliqué avant chaque division cellulaire.
 - **D.** Le traitement de l'information venant de l'environnement est essentiel pour l'organisation tissulaire, l'intégration de stimulus et l'homéostasie.
-- **E.** Les systèmes vivants sont dans un état d'équilibre, qui ne nécessite qu'un apport ponctuel d'énergie.
+- **E.** Les systèmes vivants sont dans un état d'équilibre qui ne nécessite qu'un apport ponctuel d'énergie.
 
-**✅ Réponses : A, C, D**
+**✅ Réponse(s) : A, C, D**
+
 - **A — VRAI.** « 2 longues chaînes de nucléotides » (p.6h).
-- **B — FAUX.** ADN = A, C, G, **T** (p.6h). Le U est propre à l'ARN (S1-1 p.43-45, épisode 9).
+- **B — FAUX.** ADN = A, C, G, T (p.6h).
 - **C — VRAI.** « Réplication de l'ADN avant chaque division cellulaire » (p.6h).
-- **D — VRAI.** Ce sont les trois éléments listés par la diapo p.6b.
-- **E — FAUX, pour deux raisons.** Le cours parle d'un état de **non-équilibre**, qui nécessite un apport **constant** d'énergie (p.7h).
+- **D — VRAI.** Les trois éléments listés p.6b.
+- **E — FAUX.** Non-équilibre, apport constant d'énergie (p.7h).
 
-### Question 5 — La diversité du vivant et *Naegleria fowleri*
+### Question 5
+
+À propos de la diversité du vivant et de Naegleria Floweri :
+
 - **A.** Les archées et les bactéries sont les deux domaines que le cours regroupe sous le terme de procaryotes.
 - **B.** Les protistes sont des procaryotes.
 - **C.** Le domaine des eucaryotes comprend quatre règnes : plantes, champignons, animaux et protistes.
 - **D.** L'ancêtre commun, unicellulaire, vivait il y a environ 3,8 millions d'années.
-- **E.** *Naegleria fowleri* pénètre dans l'organisme par ingestion d'eau contaminée.
+- **E.** Naegleria Floweri pénètre dans l'organisme par ingestion d'eau contaminée.
 
-**✅ Réponses : A, C**
-- **A — VRAI.** « D1 et D2 : procaryotes », avec D1 = archées et D2 = bactéries (p.7b).
-- **B — FAUX.** Les protistes forment le règne R4 du domaine D3 : ce sont des **eucaryotes**.
-- **C — VRAI.** R1 plantes, R2 champignons, R3 animaux, R4 protistes (p.7b).
-- **D — FAUX.** « Unicellulaire » est exact, mais c'est **~3,8 milliards** d'années, pas millions (p.8b).
-- **E — FAUX.** Le cours indique que *Naegleria* pénètre **par les muqueuses nasales** (p.8h).
+**✅ Réponse(s) : A, C**
 
----
+- **A — VRAI.** « D1 et D2 : procaryotes » (p.7b).
+- **B — FAUX.** Les protistes forment le règne R4 du domaine D3 : ce sont des eucaryotes.
+- **C — VRAI.** R1 à R4 (p.7b).
+- **D — FAUX.** ~3,8 milliards d'années (p.8b).
+- **E — FAUX.** Le cours indique : par les muqueuses nasales (p.8h).
 
-## 10. Contrôle qualité — couverture détaillée de l'épisode 1
+## 10. Contrôle qualité — couverture de l'épisode
 
-| Page | Notion ou information présente dans le PDF | Séquence du script | Statut |
-|---|---|---|---|
-| p.1h | Titre « Biologie & Embryologie Générale », WMEDE1152, Prof. Charles De Smet | 2 | ✅ Intégrée |
-| p.1b | 1re partie : des molécules jusqu'aux cellules (fonctionnement) | 2 | ✅ Intégrée |
-| p.1b | 2e partie : des cellules jusqu'à l'organisme (développement embryonnaire) | 2 | ✅ Intégrée |
-| p.2h | Séances de TP (rapports & interros), obligatoires | 2 | ✅ Intégrée |
-| p.2h | Interrogation sur la matière vue (~1er novembre), non cotée | 2 | ✅ Intégrée |
-| p.2h | Monitorats (révision), sur inscription | 2 | ✅ Intégrée |
-| p.2h | Inscription sur Moodle (mon bureau / mes études) ; forums (matière, organisation) | 2 | ✅ Intégrée |
-| p.2b | Supports : notes ; dias largement annotées (syllabus CIB partie 1, PDF Moodle) ; feuilles d'acquis | 2 | ✅ Intégrée |
-| p.2b | Livres de référence : Raven « Biologie », Larsen « Embryologie humaine » (De Boeck) | 2 | ✅ Intégrée |
-| p.2b | EPI : articles « case report », mise en commun en auditoire | 2 | ✅ Intégrée |
-| p.3h | Titre « Partie I » | 3 | ✅ Intégrée |
-| p.3b | Schéma : physique, énergie, chimie, biologie ; matières inanimées = assemblage « simple » d'éléments, atomes ; systèmes vivants = organisation plus complexe de la matière | 3 | ✅ Intégrée |
-| p.4h | Sommaire du ch. I (3 points) | 4 | ✅ Intégrée |
-| p.4b | 7 caractéristiques des êtres vivants (intitulés exacts) | 4, 5 | ✅ Intégrée |
-| p.5h | 9 niveaux d'organisation ; bandeaux « niveau cellulaire » et « niveau de l'organisme » | 6 | ✅ Intégrée |
-| p.5h | Barres d'échelle 0,2 µm, 0,5 µm, 100 µm ; mention © Ed. De Boeck | 6 | ✅ Intégrée |
-| p.5h | Disciplines : chimie organique, biochimie, cytologie, histologie, anatomie ; flèches biologie moléculaire et physiologie | 7 | ✅ Intégrée |
-| p.5b | Énoncé 1 de la théorie cellulaire + tableau (bactéries 1 ; *C. elegans* 959 ; humain 10.000-100.000 milliards ; image de peau) | 8 | ✅ Intégrée |
-| p.5b | Énoncé 2 (cellule préexistante, pas de génération spontanée) + stades 1-cell → blastocyste | 8 | ✅ Intégrée |
-| p.6h | Le « plan » de la cellule dans l'ADN ; ADN = acide désoxyribonucléique ; 2 longues chaînes ; 4 nucléotides A, C, G, T ; séquence = information | 9 | ✅ Intégrée |
-| p.6h | Continuité de la vie (hérédité) ; réplication avant chaque division ; transmission d'une génération à l'autre | 9 | ✅ Intégrée |
-| p.6b | Synthèse des composants selon l'ADN ; traitement de l'information de l'environnement ; essentiel pour l'organisation tissulaire, l'intégration de stimulus (sensibilité, mouvement…), l'homéostasie | 10 | ✅ Intégrée |
-| p.7h | Schéma équilibre / non-équilibre + énergie ; tous niveaux (molécules, cellules, organisme, population) ; apport constant d'énergie | 11 | ✅ Intégrée |
-| p.7b | D1 Archées, D2 Bactéries, D3 Eucaryotes ; R1 Plantes, R2 Champignons, R3 Animaux, R4 Protistes ; « D1 et D2 : procaryotes » ; « D : domaines, R : règnes » ; © Ed. De Boeck | 12 | ✅ Intégrée |
-| p.8h | *Naegleria* (orthographe du PDF signalée) : amibe flagellée ; eaux douces et chaudes (rivières, lacs, piscines) ; muqueuses nasales ; cerveau ; méningo-encéphalite (céphalées, coma, décès) ; cas de presse ; micrographie | 13 | ✅ Intégrée |
-| p.8b | Arbre : Bactéries, Archées, Protistes, Plantes (Viridiplantae), Champignons, Animaux ; ancêtre commun ~3,8 milliards d'années, unicellulaire ; conservation de composants biologiques essentiels ; © Ed. De Boeck | 12 | ✅ Intégrée |
+| Fichier | Page | Notion ou information du PDF | Séquence | Statut |
+|---|---|---|---|---|
+| S1-1 | p.1h | Titre du cours, WMEDE1152, Prof. Charles De Smet | 2 | ✅ Intégrée |
+| S1-1 | p.1b | Partie I (molécules → cellules, fonctionnement) ; Partie II (cellules → organisme, développement embryonnaire) | 2 | ✅ Intégrée |
+| S1-1 | p.2h | TP obligatoires (rapports & interros) ; interrogation ~1er novembre non cotée ; monitorats sur inscription ; Moodle (mon bureau/mes études), forums | 2 | ✅ Intégrée |
+| S1-1 | p.2b | Supports (notes, dias annotées : syllabus CIB et PDF Moodle, feuilles d'acquis) ; Raven, Larsen (De Boeck) ; EPI (case reports, mise en commun) | 2 | ✅ Intégrée |
+| S1-1 | p.3h | Titre Partie I | 3 | ✅ Intégrée |
+| S1-1 | p.3b | Schéma physique / énergie / chimie / biologie ; matières inanimées vs systèmes vivants | 3 | ✅ Intégrée |
+| S1-1 | p.4h | Sommaire du chapitre I (3 points) | 4 | ✅ Intégrée |
+| S1-1 | p.4b | 7 caractéristiques des êtres vivants | 4 | ✅ Intégrée |
+| S1-1 | p.5h | Organisation hiérarchisée (9 niveaux, bandeaux, échelles) et disciplines (7) | 8 | ✅ Intégrée |
+| S1-1 | p.5b | Théorie cellulaire : 2 énoncés, tableau 1 / 959 / 10.000-100.000 milliards (peau), stades 1-cell → blastocyste | 14 | ✅ Intégrée |
+| S1-1 | p.6h | Base moléculaire de l'hérédité : ADN, 2 chaînes, 4 nucléotides, séquence = information ; réplication avant chaque division ; transmission | 16 | ✅ Intégrée |
+| S1-1 | p.6b | Traitement de l'information : ADN, environnement ; organisation tissulaire, intégration de stimulus, homéostasie | 17 | ✅ Intégrée |
+| S1-1 | p.7h | Non-équilibre : schéma, énergie, tous niveaux (molécules → population), apport constant | 18 | ✅ Intégrée |
+| S1-1 | p.7b | Domaines D1-D3, règnes R1-R4, D1 et D2 procaryotes, D : domaines, R : règnes | 20 | ✅ Intégrée |
+| S1-1 | p.8h | Naegleria Floweri : amibe flagellée, eaux douces et chaudes, muqueuses nasales, cerveau, méningo-encéphalite ; cas de presse | 23 | ✅ Intégrée |
+| S1-1 | p.8b | Arbre du vivant (6 groupes, Viridiplantae), ancêtre commun ~3,8 milliards d'années unicellulaire, conservation de composants essentiels | 22 | ✅ Intégrée |
 
-**Vérifications faites**
-- ✅ Toutes les définitions et tous les intitulés de p.1-8 sont repris mot pour mot dans le texte incrusté 🟦.
-- ✅ Les classifications sont complètes : 7 caractéristiques, 9 niveaux, 7 disciplines, 5 thèmes, 3 domaines, 4 règnes, 6 groupes de l'arbre.
-- ✅ Les 6 figures de ces pages sont exploitées et décrites pour être recréées (schéma p.3, hiérarchie p.5h, tableau et frise p.5b, ADN p.6h, équilibre p.7h, domaines et règnes p.7b, arbre p.8b). La capture de presse p.8h est remplacée par un carton neutre, pour la protection de la vie privée.
-- ✅ Valeurs numériques vérifiées par rapport au PDF : 1 ; 959 ; 10.000-100.000 milliards ; 2 chaînes ; 4 nucléotides ; ~3,8 milliards d'années ; 0,2 µm ; 0,5 µm ; 100 µm ; ~1er novembre.
-- ✅ Les exceptions et nuances sont signalées : 2 vs 3 énoncés de la théorie cellulaire (p.5 vs p.47) ; orthographe « Floweri » ; bandeau « niveau de l'organisme » écrit seulement au-dessus de deux colonnes.
-- ✅ Aucune contradiction avec les épisodes suivants du plan (renvois vers les épisodes 3, 9, 10, 20, 34 et la partie II).
-
-## 11. Compléments hors PDF utilisés dans cet épisode (signalés 💡 à l'écran)
-
-| Séquence | Complément | Pourquoi il est là |
-|---|---|---|
-| 1 | Exemple du feu (accroche) | Montrer qu'il faut des critères précis |
-| 2 | Astuce : les feuilles d'acquis servent à trancher les chiffres contradictoires | Conseil de méthode |
-| 5 | Explication de chaque caractéristique (le PDF ne les définit pas) | Compréhension ; les intitulés restent ceux du cours |
-| 7 | Étymologie : *kutos* = cavité, cellule ; *histos* = tissu | Éviter l'inversion cytologie / histologie |
-| 8 | Conversion : 10.000 à 100.000 milliards = 10¹³ à 10¹⁴ | Les QCM peuvent utiliser les puissances de 10 |
-| 11 | Arrêt définitif de l'énergie → retour vers l'équilibre = mort | Fixer l'idée de non-équilibre |
-| 12 | Beaucoup de protistes sont unicellulaires | Expliquer pourquoi on les confond avec des procaryotes |
-| 13 | Pas d'infection à *Naegleria* en buvant l'eau | Renforcer la notion de porte d'entrée nasale |
-
----
-
-**⏸️ Fin de l'épisode 1.** J'attends ta validation (ou tes remarques sur le ton, la longueur, le découpage 1A/1B, les mnémotechniques…) avant d'écrire l'épisode 2 : « Les atomes du vivant et leurs liaisons » (S1-1 p.9 à 12h).

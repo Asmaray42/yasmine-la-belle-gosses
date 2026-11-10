@@ -1,0 +1,498 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un feu, ça grandit,
+Dialogue: 0,0:00:01.35,0:00:02.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ça consomme de l'oxygène,
+Dialogue: 0,0:00:02.72,0:00:04.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ça peut même se multiplier en
+Dialogue: 0,0:00:04.32,0:00:05.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}projetant des étincelles.
+Dialogue: 0,0:00:05.84,0:00:07.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Alors, un feu, c'est vivant ?
+Dialogue: 0,0:00:07.50,0:00:07.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Non.
+Dialogue: 0,0:00:08.08,0:00:09.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et à l'examen de janvier,
+Dialogue: 0,0:00:09.41,0:00:10.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“je sens que non”,
+Dialogue: 0,0:00:10.27,0:00:11.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ça ne suffit pas :
+Dialogue: 0,0:00:11.23,0:00:13.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il te faut les critères {\c&H66D1FF&}exacts{\c&HFFFFFF&} du cours.
+Dialogue: 0,0:00:13.76,0:00:15.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans cet épisode, on verrouille
+Dialogue: 0,0:00:15.49,0:00:16.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la checklist du vivant :
+Dialogue: 0,0:00:16.83,0:00:18.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}sept{\c&HFFFFFF&} caractéristiques,
+Dialogue: 0,0:00:18.05,0:00:19.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}neuf{\c&HFFFFFF&} niveaux d'organisation,
+Dialogue: 0,0:00:19.61,0:00:21.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cinq{\c&HFFFFFF&} thèmes unificateurs.
+Dialogue: 0,0:00:21.41,0:00:22.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et en bonus, une amibe qui
+Dialogue: 0,0:00:22.67,0:00:23.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'attaque au cerveau.
+Dialogue: 0,0:00:23.83,0:00:24.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On y va.
+Dialogue: 0,0:00:25.03,0:00:27.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours WMEDE1152,
+Dialogue: 0,0:00:27.41,0:00:28.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Biologie et Embryologie
+Dialogue: 0,0:00:28.82,0:00:30.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}générale”, est donné par le
+Dialogue: 0,0:00:30.41,0:00:32.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}professeur Charles De Smet.
+Dialogue: 0,0:00:32.20,0:00:33.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il a deux parties.
+Dialogue: 0,0:00:33.57,0:00:34.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La première partie va {\c&H66D1FF&}des{\c&HFFFFFF&}
+Dialogue: 0,0:00:34.70,0:00:36.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}molécules{\c&HFFFFFF&} {\c&H66D1FF&}jusqu'aux{\c&HFFFFFF&} {\c&H66D1FF&}cellules{\c&HFFFFFF&} :
+Dialogue: 0,0:00:36.05,0:00:37.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le fonctionnement.
+Dialogue: 0,0:00:37.27,0:00:38.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La deuxième va {\c&H66D1FF&}des{\c&HFFFFFF&} {\c&H66D1FF&}cellules{\c&HFFFFFF&}
+Dialogue: 0,0:00:38.67,0:00:39.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}jusqu'à{\c&HFFFFFF&} {\c&H66D1FF&}l'organisme{\c&HFFFFFF&} :
+Dialogue: 0,0:00:39.77,0:00:40.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le développement
+Dialogue: 0,0:00:40.91,0:00:41.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryonnaire.
+Dialogue: 0,0:00:41.99,0:00:43.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les séances de travaux pratiques,
+Dialogue: 0,0:00:43.67,0:00:45.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec rapports et interros,
+Dialogue: 0,0:00:45.00,0:00:45.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont {\c&H66D1FF&}obligatoires{\c&HFFFFFF&} .
+Dialogue: 0,0:00:46.11,0:00:47.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une interrogation sur la matière
+Dialogue: 0,0:00:47.68,0:00:48.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vue a lieu vers le premier
+Dialogue: 0,0:00:48.95,0:00:50.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}novembre : elle est {\c&H66D1FF&}non{\c&HFFFFFF&} {\c&H66D1FF&}cotée{\c&HFFFFFF&} .
+Dialogue: 0,0:00:50.61,0:00:52.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les monitorats de révision se
+Dialogue: 0,0:00:52.13,0:00:53.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}font sur inscription.
+Dialogue: 0,0:00:53.63,0:00:54.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour être informé,
+Dialogue: 0,0:00:54.62,0:00:55.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inscris-toi sur Moodle,
+Dialogue: 0,0:00:55.89,0:00:57.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans “mon bureau, mes études”,
+Dialogue: 0,0:00:57.43,0:00:59.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et utilise les forums pour tes
+Dialogue: 0,0:00:59.09,0:01:00.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}questions sur la matière ou
+Dialogue: 0,0:01:00.57,0:01:01.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organisation.
+Dialogue: 0,0:01:01.80,0:01:03.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tes supports : tes notes de
+Dialogue: 0,0:01:03.22,0:01:04.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cours, les dias largement
+Dialogue: 0,0:01:04.52,0:01:05.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}annotées, c'est-à-dire le
+Dialogue: 0,0:01:05.83,0:01:07.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}syllabus CIB pour la partie 1 et
+Dialogue: 0,0:01:07.67,0:01:08.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les PDF sur Moodle,
+Dialogue: 0,0:01:08.66,0:01:09.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les feuilles d'acquis.
+Dialogue: 0,0:01:10.11,0:01:11.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les livres de référence :
+Dialogue: 0,0:01:11.52,0:01:12.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Biologie” de Raven et
+Dialogue: 0,0:01:12.64,0:01:14.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Embryologie humaine” de Larsen,
+Dialogue: 0,0:01:14.33,0:01:15.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chez De Boeck.
+Dialogue: 0,0:01:15.52,0:01:17.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Enfin, les EPI, les exercices
+Dialogue: 0,0:01:17.38,0:01:18.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}personnels d'intégration :
+Dialogue: 0,0:01:18.94,0:01:20.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on part d'articles de type case
+Dialogue: 0,0:01:20.81,0:01:22.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}report, puis on met en commun en
+Dialogue: 0,0:01:22.73,0:01:23.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}auditoire.
+Dialogue: 0,0:01:23.89,0:01:25.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Premier schéma de la partie un.
+Dialogue: 0,0:01:25.49,0:01:27.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À gauche, les {\c&H66D1FF&}matières{\c&HFFFFFF&} {\c&H66D1FF&}inanimées{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.12,0:01:28.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: le cours les décrit comme un
+Dialogue: 0,0:01:28.64,0:01:30.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}assemblage “simple” d'éléments,
+Dialogue: 0,0:01:30.12,0:01:30.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'atomes.
+Dialogue: 0,0:01:30.98,0:01:32.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À droite, les {\c&H66D1FF&}systèmes{\c&HFFFFFF&} {\c&H66D1FF&}vivants{\c&HFFFFFF&} :
+Dialogue: 0,0:01:32.62,0:01:34.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une organisation {\c&H66D1FF&}plus{\c&HFFFFFF&} {\c&H66D1FF&}complexe{\c&HFFFFFF&} de
+Dialogue: 0,0:01:34.31,0:01:34.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la matière.
+Dialogue: 0,0:01:35.27,0:01:36.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois étiquettes :
+Dialogue: 0,0:01:36.24,0:01:37.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}physique, à côté du soleil ;
+Dialogue: 0,0:01:37.74,0:01:39.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimie, sous la flèche qui va de
+Dialogue: 0,0:01:39.45,0:01:40.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'inanimé vers le vivant ;
+Dialogue: 0,0:01:40.85,0:01:42.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologie, sur le cercle du vivant.
+Dialogue: 0,0:01:42.81,0:01:44.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et du soleil descend une flèche :
+Dialogue: 0,0:01:44.44,0:01:44.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie.
+Dialogue: 0,0:01:45.33,0:01:46.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Retiens l'idée : le vivant,
+Dialogue: 0,0:01:46.79,0:01:48.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est de la matière organisée de
+Dialogue: 0,0:01:48.51,0:01:49.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}façon plus complexe,
+Dialogue: 0,0:01:49.59,0:01:51.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et cette organisation a besoin
+Dialogue: 0,0:01:51.21,0:01:51.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie.
+Dialogue: 0,0:01:51.89,0:01:53.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On la retrouvera dans le thème quatre.
+Dialogue: 0,0:01:54.10,0:01:55.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le chapitre un s'appelle “La
+Dialogue: 0,0:01:55.54,0:01:57.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Biologie, la science de la vie”,
+Dialogue: 0,0:01:57.19,0:01:58.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en trois points : les
+Dialogue: 0,0:01:58.31,0:01:59.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristiques des êtres
+Dialogue: 0,0:01:59.69,0:02:00.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vivants, l'organisation
+Dialogue: 0,0:02:00.92,0:02:02.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hiérarchisée, et les thèmes
+Dialogue: 0,0:02:02.35,0:02:03.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}unificateurs.
+Dialogue: 0,0:02:03.19,0:02:04.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On commence par les
+Dialogue: 0,0:02:04.15,0:02:05.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristiques :
+Dialogue: 0,0:02:05.06,0:02:06.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cours en donne {\c&H66D1FF&}sept{\c&HFFFFFF&} .
+Dialogue: 0,0:02:06.41,0:02:08.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Retiens ces mots-là, exactement.
+Dialogue: 0,0:02:08.47,0:02:09.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : organisation cellulaire.
+Dialogue: 0,0:02:10.33,0:02:11.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : complexité ordonnée.
+Dialogue: 0,0:02:12.16,0:02:13.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : sensibilité.
+Dialogue: 0,0:02:13.66,0:02:14.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre : croissance,
+Dialogue: 0,0:02:14.66,0:02:16.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement et reproduction.
+Dialogue: 0,0:02:16.55,0:02:18.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq : utilisation d'énergie.
+Dialogue: 0,0:02:18.52,0:02:19.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six : homéostasie.
+Dialogue: 0,0:02:19.95,0:02:21.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept : adaptation évolutive.
+Dialogue: 0,0:02:22.08,0:02:23.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour les retenir, une phrase et
+Dialogue: 0,0:02:23.52,0:02:23.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une image.
+Dialogue: 0,0:02:24.12,0:02:25.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La phrase : “On Cherche Sept
+Dialogue: 0,0:02:25.60,0:02:27.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Critères : Un Hamster Adaptable.”
+Dialogue: 0,0:02:27.36,0:02:28.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et l'image : ton hamster,
+Dialogue: 0,0:02:28.74,0:02:29.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui coche chaque case.
+Dialogue: 0,0:02:30.35,0:02:31.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O : il est fait de cellules,
+Dialogue: 0,0:02:31.56,0:02:32.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'organisation cellulaire.
+Dialogue: 0,0:02:33.35,0:02:34.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C : son corps est structuré,
+Dialogue: 0,0:02:34.86,0:02:36.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rangé, c'est la complexité
+Dialogue: 0,0:02:36.27,0:02:36.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ordonnée.
+Dialogue: 0,0:02:37.16,0:02:38.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S : il sursaute quand tu tapes
+Dialogue: 0,0:02:38.73,0:02:39.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur la cage, c'est la
+Dialogue: 0,0:02:39.83,0:02:40.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sensibilité.
+Dialogue: 0,0:02:40.86,0:02:42.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C : il grandit, il se développe
+Dialogue: 0,0:02:42.52,0:02:43.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et il fait des petits,
+Dialogue: 0,0:02:43.69,0:02:45.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est croissance, développement
+Dialogue: 0,0:02:45.35,0:02:47.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et reproduction, un seul critère.
+Dialogue: 0,0:02:47.51,0:02:48.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}U : il mange ses graines pour
+Dialogue: 0,0:02:48.91,0:02:50.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctionner, c'est l'utilisation
+Dialogue: 0,0:02:50.45,0:02:50.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie.
+Dialogue: 0,0:02:51.33,0:02:52.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H : son milieu intérieur reste
+Dialogue: 0,0:02:52.84,0:02:54.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stable, c'est l'homéostasie.
+Dialogue: 0,0:02:54.64,0:02:56.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A : au fil des générations,
+Dialogue: 0,0:02:56.14,0:02:57.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}son espèce évolue,
+Dialogue: 0,0:02:57.13,0:02:58.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'adaptation évolutive.
+Dialogue: 0,0:02:59.30,0:03:00.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Attention, piège classique.
+Dialogue: 0,0:03:01.07,0:03:01.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le cours liste neuf
+Dialogue: 0,0:03:01.99,0:03:03.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristiques” : faux.
+Dialogue: 0,0:03:03.56,0:03:05.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y en a sept, et “croissance,
+Dialogue: 0,0:03:05.09,0:03:06.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement et reproduction”
+Dialogue: 0,0:03:06.56,0:03:07.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n'en forme qu' {\c&H66D1FF&}une{\c&HFFFFFF&} .
+Dialogue: 0,0:03:07.98,0:03:09.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et surveille les adjectifs :
+Dialogue: 0,0:03:09.57,0:03:11.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on dit complexité {\c&H66D1FF&}ordonnée{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:11.16,0:03:12.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}adaptation {\c&H66D1FF&}évolutive{\c&HFFFFFF&} .
+Dialogue: 0,0:03:12.55,0:03:14.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une proposition qui parle de
+Dialogue: 0,0:03:14.16,0:03:15.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complexité aléatoire ne reprend
+Dialogue: 0,0:03:15.95,0:03:16.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas le cours.
+Dialogue: 0,0:03:17.26,0:03:17.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À toi.
+Dialogue: 0,0:03:17.99,0:03:19.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Selon le cours, quelle
+Dialogue: 0,0:03:19.13,0:03:20.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}proposition est exacte ?
+Dialogue: 0,0:03:20.52,0:03:22.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponds avant la fin du compte à
+Dialogue: 0,0:03:22.04,0:03:22.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rebours.
+Dialogue: 0,0:03:26.82,0:03:27.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:27.78,0:03:29.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Croissance, développement et
+Dialogue: 0,0:03:29.26,0:03:30.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reproduction, c'est une seule
+Dialogue: 0,0:03:30.80,0:03:32.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristique sur sept.
+Dialogue: 0,0:03:32.27,0:03:33.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A est faux, il y en a sept.
+Dialogue: 0,0:03:33.61,0:03:35.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C est faux, c'est complexité
+Dialogue: 0,0:03:35.05,0:03:35.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ordonnée.
+Dialogue: 0,0:03:36.07,0:03:37.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deuxième point du chapitre :
+Dialogue: 0,0:03:37.55,0:03:39.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organisation hiérarchisée des
+Dialogue: 0,0:03:39.18,0:03:39.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}êtres vivants.
+Dialogue: 0,0:03:40.06,0:03:41.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le schéma du cours aligne neuf
+Dialogue: 0,0:03:41.51,0:03:43.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}niveaux, du plus petit au plus grand.
+Dialogue: 0,0:03:43.70,0:03:44.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les atomes.
+Dialogue: 0,0:03:44.65,0:03:45.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La molécule.
+Dialogue: 0,0:03:45.69,0:03:47.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La macromolécule, ici une double
+Dialogue: 0,0:03:47.45,0:03:48.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hélice d'ADN.
+Dialogue: 0,0:03:48.73,0:03:50.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'organite, une mitochondrie.
+Dialogue: 0,0:03:50.33,0:03:52.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cellule, une cellule nerveuse.
+Dialogue: 0,0:03:52.20,0:03:53.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces cinq premiers niveaux forment
+Dialogue: 0,0:03:53.69,0:03:54.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}niveau{\c&HFFFFFF&} {\c&H66D1FF&}cellulaire{\c&HFFFFFF&} .
+Dialogue: 0,0:03:55.08,0:03:56.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis le tissu, ici du tissu
+Dialogue: 0,0:03:56.51,0:03:57.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nerveux, et l'organe,
+Dialogue: 0,0:03:57.63,0:03:58.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un cerveau.
+Dialogue: 0,0:03:58.62,0:03:59.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le système d'organes,
+Dialogue: 0,0:03:59.75,0:04:01.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le système nerveux d'une oie,
+Dialogue: 0,0:04:01.30,0:04:02.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'organisme, l'oie entière :
+Dialogue: 0,0:04:02.97,0:04:04.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le {\c&H66D1FF&}niveau{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}l'organisme{\c&HFFFFFF&} .
+Dialogue: 0,0:04:04.83,0:04:06.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le schéma porte aussi des barres
+Dialogue: 0,0:04:06.62,0:04:08.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'échelle : 0,2 micromètre,
+Dialogue: 0,0:04:08.92,0:04:10.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}0,5 micromètre et 100
+Dialogue: 0,0:04:10.93,0:04:11.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}micromètres.
+Dialogue: 0,0:04:12.16,0:04:13.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour l'ordre, imagine un zoom
+Dialogue: 0,0:04:13.70,0:04:15.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}arrière, de l'atome jusqu'à
+Dialogue: 0,0:04:15.13,0:04:16.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'oie, et une phrase :
+Dialogue: 0,0:04:16.30,0:04:17.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Au Marché, Mamie Offre Ces
+Dialogue: 0,0:04:17.68,0:04:18.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tomates Ou Ses Oignons.”
+Dialogue: 0,0:04:19.30,0:04:20.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A, atomes.
+Dialogue: 0,0:04:20.20,0:04:21.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}M, molécule.
+Dialogue: 0,0:04:21.28,0:04:22.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}M, macromolécule :
+Dialogue: 0,0:04:22.34,0:04:23.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'abord la petite,
+Dialogue: 0,0:04:23.39,0:04:24.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis la grande.
+Dialogue: 0,0:04:24.68,0:04:25.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O, organite.
+Dialogue: 0,0:04:25.69,0:04:26.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C, cellule.
+Dialogue: 0,0:04:26.92,0:04:27.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}T, tissu.
+Dialogue: 0,0:04:27.77,0:04:28.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O, organe.
+Dialogue: 0,0:04:28.72,0:04:29.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S, système d'organes.
+Dialogue: 0,0:04:30.11,0:04:31.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O, organisme.
+Dialogue: 0,0:04:31.59,0:04:33.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sous ce schéma, le cours place
+Dialogue: 0,0:04:33.09,0:04:33.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les disciplines.
+Dialogue: 0,0:04:34.03,0:04:35.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chimie organique,
+Dialogue: 0,0:04:35.06,0:04:36.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous les atomes et la molécule.
+Dialogue: 0,0:04:36.79,0:04:37.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La biochimie, sous la
+Dialogue: 0,0:04:37.89,0:04:38.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}macromolécule.
+Dialogue: 0,0:04:39.02,0:04:40.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cytologie, sous l'organite et
+Dialogue: 0,0:04:40.63,0:04:41.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule.
+Dialogue: 0,0:04:41.33,0:04:42.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'histologie, sous le tissu.
+Dialogue: 0,0:04:42.80,0:04:44.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'anatomie, sous l'organe et le
+Dialogue: 0,0:04:44.40,0:04:45.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}système d'organes.
+Dialogue: 0,0:04:45.73,0:04:47.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et deux flèches qui couvrent
+Dialogue: 0,0:04:47.21,0:04:48.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs niveaux :
+Dialogue: 0,0:04:48.21,0:04:49.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}biologie{\c&HFFFFFF&} {\c&H66D1FF&}moléculaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:04:49.53,0:04:51.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la macromolécule jusqu'à la
+Dialogue: 0,0:04:51.12,0:04:52.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule, et la {\c&H66D1FF&}physiologie{\c&HFFFFFF&} ,
+Dialogue: 0,0:04:52.60,0:04:54.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du tissu jusqu'à l'organisme.
+Dialogue: 0,0:04:54.69,0:04:55.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:04:56.10,0:04:57.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chimie organique :
+Dialogue: 0,0:04:57.08,0:04:58.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atomes et molécule.
+Dialogue: 0,0:04:58.53,0:04:59.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Biochimie : macromolécule.
+Dialogue: 0,0:05:00.35,0:05:02.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cytologie : organite et cellule.
+Dialogue: 0,0:05:02.51,0:05:03.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Histologie : tissu.
+Dialogue: 0,0:05:03.95,0:05:05.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Anatomie : organe et système
+Dialogue: 0,0:05:05.50,0:05:06.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'organes.
+Dialogue: 0,0:05:06.46,0:05:07.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Biologie moléculaire :
+Dialogue: 0,0:05:07.65,0:05:09.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la macromolécule à la cellule.
+Dialogue: 0,0:05:09.84,0:05:11.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Physiologie : du tissu à
+Dialogue: 0,0:05:11.15,0:05:11.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organisme.
+Dialogue: 0,0:05:12.36,0:05:13.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège classique :
+Dialogue: 0,0:05:13.44,0:05:15.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inverser cytologie et histologie.
+Dialogue: 0,0:05:15.61,0:05:17.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'histologie se place au niveau
+Dialogue: 0,0:05:17.10,0:05:18.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la cellule” : faux.
+Dialogue: 0,0:05:18.51,0:05:20.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cytologie, c'est la cellule.
+Dialogue: 0,0:05:20.16,0:05:21.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'histologie, c'est le tissu.
+Dialogue: 0,0:05:21.63,0:05:23.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Astuce : cyto, comme cytoplasme,
+Dialogue: 0,0:05:23.21,0:05:24.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est dans la cellule.
+Dialogue: 0,0:05:24.70,0:05:26.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la biochimie est sous la
+Dialogue: 0,0:05:26.04,0:05:27.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}macromolécule, pas sous les
+Dialogue: 0,0:05:27.37,0:05:28.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atomes : sous les atomes,
+Dialogue: 0,0:05:28.61,0:05:29.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la chimie organique.
+Dialogue: 0,0:05:30.45,0:05:32.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Question rapide : quel niveau se
+Dialogue: 0,0:05:32.08,0:05:33.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trouve entre la macromolécule et
+Dialogue: 0,0:05:33.72,0:05:34.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule ?
+Dialogue: 0,0:05:38.73,0:05:39.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'organite.
+Dialogue: 0,0:05:39.68,0:05:41.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Atomes, molécule, macromolécule,
+Dialogue: 0,0:05:41.43,0:05:42.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}organite{\c&HFFFFFF&} , cellule :
+Dialogue: 0,0:05:42.53,0:05:43.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au Marché, Mamie {\c&H66D1FF&}Offre{\c&HFFFFFF&} …
+Dialogue: 0,0:05:44.41,0:05:45.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Troisième point du chapitre :
+Dialogue: 0,0:05:45.93,0:05:47.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les thèmes unificateurs de la
+Dialogue: 0,0:05:47.44,0:05:47.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologie.
+Dialogue: 0,0:05:48.05,0:05:49.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y en a cinq.
+Dialogue: 0,0:05:49.17,0:05:50.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Thème un : la théorie cellulaire,
+Dialogue: 0,0:05:50.72,0:05:51.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en deux énoncés.
+Dialogue: 0,0:05:51.87,0:05:53.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Premier énoncé : tous les êtres
+Dialogue: 0,0:05:53.32,0:05:54.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vivants sont constitués d' {\c&H66D1FF&}une{\c&HFFFFFF&} {\c&H66D1FF&}ou{\c&HFFFFFF&}
+Dialogue: 0,0:05:54.87,0:05:55.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}plusieurs{\c&HFFFFFF&} cellules.
+Dialogue: 0,0:05:56.16,0:05:57.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chiffres du cours,
+Dialogue: 0,0:05:57.28,0:05:58.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en nombre de cellules par
+Dialogue: 0,0:05:58.57,0:05:59.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organisme : une bactérie,
+Dialogue: 0,0:05:59.85,0:06:00.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}une{\c&HFFFFFF&} seule cellule ;
+Dialogue: 0,0:06:00.82,0:06:01.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le ver C. elegans,
+Dialogue: 0,0:06:01.69,0:06:03.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}959{\c&HFFFFFF&} cellules ; l'humain,
+Dialogue: 0,0:06:03.99,0:06:05.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre {\c&H66D1FF&}10{\c&HFFFFFF&} {\c&H66D1FF&}000{\c&HFFFFFF&} {\c&H66D1FF&}et{\c&HFFFFFF&} {\c&H66D1FF&}100{\c&HFFFFFF&} {\c&H66D1FF&}000{\c&HFFFFFF&} {\c&H66D1FF&}milliards{\c&HFFFFFF&}
+Dialogue: 0,0:06:05.99,0:06:07.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, illustré par une coupe de peau.
+Dialogue: 0,0:06:08.08,0:06:09.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deuxième énoncé : toutes les
+Dialogue: 0,0:06:09.48,0:06:10.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules proviennent d'une
+Dialogue: 0,0:06:10.79,0:06:11.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule {\c&H66D1FF&}préexistante{\c&HFFFFFF&} .
+Dialogue: 0,0:06:12.03,0:06:13.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il n'y a {\c&H66D1FF&}pas{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}génération{\c&HFFFFFF&}
+Dialogue: 0,0:06:13.28,0:06:13.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}spontanée{\c&HFFFFFF&} .
+Dialogue: 0,0:06:14.21,0:06:15.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'illustration : les premiers
+Dialogue: 0,0:06:15.54,0:06:16.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stades du développement d'un
+Dialogue: 0,0:06:16.82,0:06:17.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryon humain.
+Dialogue: 0,0:06:17.65,0:06:18.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une cellule, deux,
+Dialogue: 0,0:06:18.60,0:06:20.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre, huit, puis la morula,
+Dialogue: 0,0:06:20.12,0:06:21.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis le blastocyste.
+Dialogue: 0,0:06:21.31,0:06:22.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque cellule naît d'une cellule
+Dialogue: 0,0:06:22.83,0:06:23.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui existait déjà.
+Dialogue: 0,0:06:24.22,0:06:25.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges de chiffres et de mots.
+Dialogue: 0,0:06:26.11,0:06:27.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Un humain compte 10 000 à 100
+Dialogue: 0,0:06:27.46,0:06:28.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}000 millions de cellules” : faux.
+Dialogue: 0,0:06:29.21,0:06:30.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont des {\c&H66D1FF&}milliards{\c&HFFFFFF&} :
+Dialogue: 0,0:06:30.18,0:06:31.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre 10 000 et 100 000
+Dialogue: 0,0:06:31.41,0:06:31.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}milliards.
+Dialogue: 0,0:06:31.98,0:06:32.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pour C. elegans,
+Dialogue: 0,0:06:32.97,0:06:34.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}retiens le chiffre exact :
+Dialogue: 0,0:06:34.40,0:06:35.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}959{\c&HFFFFFF&} .
+Dialogue: 0,0:06:36.24,0:06:37.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Enfin, toute proposition qui dit
+Dialogue: 0,0:06:37.91,0:06:39.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qu'une cellule peut apparaître
+Dialogue: 0,0:06:39.48,0:06:41.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spontanément contredit le cours :
+Dialogue: 0,0:06:41.20,0:06:42.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas de génération spontanée.
+Dialogue: 0,0:06:43.07,0:06:44.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Petit complément pour les
+Dialogue: 0,0:06:44.28,0:06:45.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puissances de dix :
+Dialogue: 0,0:06:45.20,0:06:46.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}10 000 à 100 000 milliards,
+Dialogue: 0,0:06:46.80,0:06:48.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est 10 puissance 13 à 10
+Dialogue: 0,0:06:48.35,0:06:49.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puissance 14.
+Dialogue: 0,0:06:49.83,0:06:51.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Thème deux : la base moléculaire
+Dialogue: 0,0:06:51.36,0:06:52.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'hérédité.
+Dialogue: 0,0:06:52.17,0:06:53.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le “plan” de la cellule est
+Dialogue: 0,0:06:53.49,0:06:55.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inscrit dans une longue molécule, l'ADN.
+Dialogue: 0,0:06:56.15,0:06:57.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'acide désoxyribonucléique :
+Dialogue: 0,0:06:57.76,0:06:59.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}deux{\c&HFFFFFF&} longues chaînes de
+Dialogue: 0,0:06:59.04,0:07:00.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, {\c&H66D1FF&}quatre{\c&HFFFFFF&} nucléotides,
+Dialogue: 0,0:07:00.81,0:07:02.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A, C, G et T, et la {\c&H66D1FF&}séquence{\c&HFFFFFF&} des
+Dialogue: 0,0:07:02.59,0:07:04.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, c'est l'information.
+Dialogue: 0,0:07:04.82,0:07:05.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deuxième message :
+Dialogue: 0,0:07:05.84,0:07:07.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la continuité de la vie,
+Dialogue: 0,0:07:07.19,0:07:08.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hérédité, dépend de la
+Dialogue: 0,0:07:08.55,0:07:09.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmission de l'ADN.
+Dialogue: 0,0:07:10.10,0:07:11.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par la réplication de l'ADN {\c&H66D1FF&}avant{\c&HFFFFFF&}
+Dialogue: 0,0:07:11.96,0:07:13.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaque division cellulaire,
+Dialogue: 0,0:07:13.35,0:07:14.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et par la transmission d'une
+Dialogue: 0,0:07:14.80,0:07:15.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génération à l'autre.
+Dialogue: 0,0:07:16.45,0:07:17.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Thème trois : les cellules sont
+Dialogue: 0,0:07:17.93,0:07:19.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des systèmes de traitement de
+Dialogue: 0,0:07:19.32,0:07:20.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'information, dans deux
+Dialogue: 0,0:07:20.47,0:07:21.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}directions.
+Dialogue: 0,0:07:21.40,0:07:22.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vers l'intérieur :
+Dialogue: 0,0:07:22.25,0:07:23.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles synthétisent les composants
+Dialogue: 0,0:07:23.82,0:07:25.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires selon l'information
+Dialogue: 0,0:07:25.29,0:07:26.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stockée dans l' {\c&H66D1FF&}ADN{\c&HFFFFFF&} .
+Dialogue: 0,0:07:26.78,0:07:27.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vers l'extérieur :
+Dialogue: 0,0:07:27.59,0:07:28.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles traitent l'information
+Dialogue: 0,0:07:28.85,0:07:30.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}venant de leur {\c&H66D1FF&}environnement{\c&HFFFFFF&} .
+Dialogue: 0,0:07:30.60,0:07:32.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est essentiel pour trois choses
+Dialogue: 0,0:07:32.45,0:07:34.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: l'organisation tissulaire,
+Dialogue: 0,0:07:34.01,0:07:35.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intégration de stimulus,
+Dialogue: 0,0:07:35.47,0:07:37.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec sensibilité et mouvement,
+Dialogue: 0,0:07:37.15,0:07:38.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'homéostasie.
+Dialogue: 0,0:07:38.24,0:07:39.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tu reconnais deux
+Dialogue: 0,0:07:39.15,0:07:40.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristiques du vivant :
+Dialogue: 0,0:07:40.64,0:07:42.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sensibilité et homéostasie.
+Dialogue: 0,0:07:42.65,0:07:43.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Thème quatre : les systèmes
+Dialogue: 0,0:07:43.94,0:07:45.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vivants sont dans un état de
+Dialogue: 0,0:07:45.29,0:07:46.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}non-équilibre{\c&HFFFFFF&} .
+Dialogue: 0,0:07:46.14,0:07:47.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Regarde le schéma :
+Dialogue: 0,0:07:47.16,0:07:48.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à gauche, à l'équilibre,
+Dialogue: 0,0:07:48.44,0:07:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des billes de trois couleurs
+Dialogue: 0,0:07:49.93,0:07:51.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}éparpillées au hasard.
+Dialogue: 0,0:07:51.51,0:07:52.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avec un apport d'énergie,
+Dialogue: 0,0:07:52.76,0:07:54.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à droite, les mêmes billes
+Dialogue: 0,0:07:54.07,0:07:55.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'assemblent en chaînes,
+Dialogue: 0,0:07:55.27,0:07:56.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en anneaux, en structures
+Dialogue: 0,0:07:56.52,0:07:57.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organisées : c'est le
+Dialogue: 0,0:07:57.58,0:07:58.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}non-équilibre.
+Dialogue: 0,0:07:58.68,0:07:59.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux points à retenir.
+Dialogue: 0,0:07:59.93,0:08:01.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : c'est vrai à {\c&H66D1FF&}tous{\c&HFFFFFF&} {\c&H66D1FF&}les{\c&HFFFFFF&}
+Dialogue: 0,0:08:01.17,0:08:02.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}niveaux{\c&HFFFFFF&} , molécules,
+Dialogue: 0,0:08:02.12,0:08:03.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules, organisme, population.
+Dialogue: 0,0:08:03.79,0:08:05.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : cela nécessite un apport
+Dialogue: 0,0:08:05.24,0:08:06.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}constant{\c&HFFFFFF&} d'énergie.
+Dialogue: 0,0:08:06.68,0:08:08.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges sur les thèmes deux
+Dialogue: 0,0:08:08.10,0:08:08.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à quatre.
+Dialogue: 0,0:08:08.90,0:08:10.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les quatre nucléotides de l'ADN
+Dialogue: 0,0:08:10.64,0:08:11.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont A, C, G et U” : faux.
+Dialogue: 0,0:08:12.07,0:08:13.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est A, C, G et {\c&H66D1FF&}T{\c&HFFFFFF&} .
+Dialogue: 0,0:08:13.59,0:08:15.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La réplication a lieu après la
+Dialogue: 0,0:08:15.14,0:08:15.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}division” : faux.
+Dialogue: 0,0:08:16.11,0:08:17.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Avant{\c&HFFFFFF&} chaque division :
+Dialogue: 0,0:08:17.26,0:08:18.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il faut copier le plan avant de
+Dialogue: 0,0:08:18.81,0:08:19.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le partager.
+Dialogue: 0,0:08:19.82,0:08:21.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le vivant est à l'équilibre,
+Dialogue: 0,0:08:21.30,0:08:22.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un apport ponctuel
+Dialogue: 0,0:08:22.52,0:08:23.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'énergie” : faux.
+Dialogue: 0,0:08:23.56,0:08:24.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Non{\c&HFFFFFF&} -équilibre, et apport
+Dialogue: 0,0:08:24.82,0:08:25.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}constant{\c&HFFFFFF&} .
+Dialogue: 0,0:08:25.88,0:08:27.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Thème cinq : la diversité de la
+Dialogue: 0,0:08:27.52,0:08:28.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vie naît de changements
+Dialogue: 0,0:08:28.74,0:08:29.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}évolutifs.
+Dialogue: 0,0:08:29.41,0:08:30.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours classe le vivant en
+Dialogue: 0,0:08:30.84,0:08:31.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}domaines{\c&HFFFFFF&} , notés D,
+Dialogue: 0,0:08:31.81,0:08:32.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et en {\c&H66D1FF&}règnes{\c&HFFFFFF&} , notés R.
+Dialogue: 0,0:08:33.39,0:08:34.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois domaines.
+Dialogue: 0,0:08:34.31,0:08:35.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D1 : les archées.
+Dialogue: 0,0:08:35.48,0:08:36.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D2 : les bactéries.
+Dialogue: 0,0:08:36.74,0:08:38.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le cours le précise :
+Dialogue: 0,0:08:38.10,0:08:40.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D1 et D2, ce sont les {\c&H66D1FF&}procaryotes{\c&HFFFFFF&} .
+Dialogue: 0,0:08:40.48,0:08:41.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D3 : les {\c&H66D1FF&}eucaryotes{\c&HFFFFFF&} ,
+Dialogue: 0,0:08:41.86,0:08:43.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec quatre règnes :
+Dialogue: 0,0:08:43.18,0:08:44.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}R1, les plantes ; R2,
+Dialogue: 0,0:08:44.56,0:08:45.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les champignons ; R3,
+Dialogue: 0,0:08:45.94,0:08:48.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les animaux ; R4, les protistes.
+Dialogue: 0,0:08:48.61,0:08:50.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les domaines, c'est l'alphabet :
+Dialogue: 0,0:08:50.03,0:08:50.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A, B, E.
+Dialogue: 0,0:08:50.53,0:08:52.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Archées, Bactéries, Eucaryotes.
+Dialogue: 0,0:08:52.21,0:08:53.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les deux premières lettres,
+Dialogue: 0,0:08:53.62,0:08:55.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A et B, sont les procaryotes.
+Dialogue: 0,0:08:55.40,0:08:56.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les règnes, dans l'ordre :
+Dialogue: 0,0:08:56.64,0:08:57.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Pour Comprendre Avant de
+Dialogue: 0,0:08:57.79,0:08:58.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Paniquer”.
+Dialogue: 0,0:08:58.36,0:08:59.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plantes, Champignons,
+Dialogue: 0,0:08:59.33,0:09:00.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Animaux, Protistes.
+Dialogue: 0,0:09:00.60,0:09:02.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et une image pour les relier :
+Dialogue: 0,0:09:02.19,0:09:03.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un champignon pousse sur une
+Dialogue: 0,0:09:03.68,0:09:05.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plante, un animal le mange,
+Dialogue: 0,0:09:05.12,0:09:06.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis va boire dans une flaque
+Dialogue: 0,0:09:06.66,0:09:07.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pleine de protistes.
+Dialogue: 0,0:09:08.28,0:09:10.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'arbre du cours relie bactéries,
+Dialogue: 0,0:09:10.06,0:09:11.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}archées, protistes,
+Dialogue: 0,0:09:11.08,0:09:12.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plantes, aussi appelées
+Dialogue: 0,0:09:12.32,0:09:13.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Viridiplantae, champignons et
+Dialogue: 0,0:09:13.88,0:09:15.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}animaux à un {\c&H66D1FF&}ancêtre{\c&HFFFFFF&} {\c&H66D1FF&}commun{\c&HFFFFFF&} .
+Dialogue: 0,0:09:15.85,0:09:17.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur cet arbre, les bactéries se
+Dialogue: 0,0:09:17.52,0:09:18.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparent en premier ;
+Dialogue: 0,0:09:18.65,0:09:19.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis les archées ;
+Dialogue: 0,0:09:19.63,0:09:21.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}champignons et animaux partagent
+Dialogue: 0,0:09:21.35,0:09:23.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un embranchement, et protistes et
+Dialogue: 0,0:09:23.13,0:09:24.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plantes un autre.
+Dialogue: 0,0:09:24.45,0:09:26.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cet ancêtre commun vivait il y a
+Dialogue: 0,0:09:26.16,0:09:28.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ {\c&H66D1FF&}3,8{\c&HFFFFFF&} {\c&H66D1FF&}milliards{\c&HFFFFFF&} {\c&H66D1FF&}d'années{\c&HFFFFFF&} ,
+Dialogue: 0,0:09:28.66,0:09:29.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et c'était un organisme
+Dialogue: 0,0:09:29.89,0:09:30.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}unicellulaire{\c&HFFFFFF&} .
+Dialogue: 0,0:09:31.09,0:09:32.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la flèche à droite résume
+Dialogue: 0,0:09:32.63,0:09:33.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'idée : conservation de
+Dialogue: 0,0:09:33.96,0:09:35.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}composants biologiques
+Dialogue: 0,0:09:35.17,0:09:37.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}essentiels, de l'ancêtre jusqu'à toi.
+Dialogue: 0,0:09:37.77,0:09:39.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour que les protistes ne restent
+Dialogue: 0,0:09:39.55,0:09:41.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas abstraits, le cours donne un
+Dialogue: 0,0:09:41.28,0:09:42.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exemple de protiste à l'origine
+Dialogue: 0,0:09:42.95,0:09:44.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de pathologies : Naegleria
+Dialogue: 0,0:09:44.36,0:09:45.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Floweri, une {\c&H66D1FF&}amibe{\c&HFFFFFF&} {\c&H66D1FF&}flagellée{\c&HFFFFFF&} .
+Dialogue: 0,0:09:46.38,0:09:47.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle prolifère dans les eaux
+Dialogue: 0,0:09:47.63,0:09:48.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}douces{\c&HFFFFFF&} {\c&H66D1FF&}et{\c&HFFFFFF&} {\c&H66D1FF&}chaudes{\c&HFFFFFF&} :
+Dialogue: 0,0:09:48.49,0:09:49.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rivières, lacs, piscines.
+Dialogue: 0,0:09:50.01,0:09:51.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle pénètre par les {\c&H66D1FF&}muqueuses{\c&HFFFFFF&}
+Dialogue: 0,0:09:51.31,0:09:52.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}nasales{\c&HFFFFFF&} , et elle s'attaque au
+Dialogue: 0,0:09:52.61,0:09:53.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cerveau{\c&HFFFFFF&} .
+Dialogue: 0,0:09:53.40,0:09:54.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : une
+Dialogue: 0,0:09:54.19,0:09:55.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méningo-encéphalite,
+Dialogue: 0,0:09:55.31,0:09:56.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec céphalées, coma et décès.
+Dialogue: 0,0:09:57.13,0:09:58.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La diapo l'illustre par un cas
+Dialogue: 0,0:09:58.74,0:10:00.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rapporté dans la presse,
+Dialogue: 0,0:10:00.02,0:10:01.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}après une baignade en rivière.
+Dialogue: 0,0:10:02.19,0:10:03.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les derniers pièges de l'épisode.
+Dialogue: 0,0:10:04.20,0:10:05.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les archées sont des eucaryotes”
+Dialogue: 0,0:10:05.62,0:10:05.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux.
+Dialogue: 0,0:10:06.08,0:10:07.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Archées et bactéries sont les
+Dialogue: 0,0:10:07.43,0:10:07.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}procaryotes.
+Dialogue: 0,0:10:08.39,0:10:09.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les protistes sont des
+Dialogue: 0,0:10:09.41,0:10:10.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}procaryotes” : faux.
+Dialogue: 0,0:10:10.43,0:10:12.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protistes sont le règne R4 du
+Dialogue: 0,0:10:12.36,0:10:13.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}domaine des eucaryotes.
+Dialogue: 0,0:10:14.10,0:10:15.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Domaine et règne ne sont pas
+Dialogue: 0,0:10:15.54,0:10:17.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synonymes : les règnes sont des
+Dialogue: 0,0:10:17.12,0:10:18.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}subdivisions du domaine des
+Dialogue: 0,0:10:18.50,0:10:19.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}eucaryotes.
+Dialogue: 0,0:10:19.20,0:10:20.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et l'ancêtre commun,
+Dialogue: 0,0:10:20.07,0:10:21.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est 3,8 {\c&H66D1FF&}milliards{\c&HFFFFFF&} d'années,
+Dialogue: 0,0:10:21.97,0:10:22.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas millions.
+Dialogue: 0,0:10:22.93,0:10:24.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et Naegleria : un protiste,
+Dialogue: 0,0:10:24.27,0:10:25.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'eau douce et chaude,
+Dialogue: 0,0:10:25.61,0:10:27.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui entre par le nez et atteint
+Dialogue: 0,0:10:27.14,0:10:27.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cerveau.
+Dialogue: 0,0:10:28.24,0:10:29.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernier quiz express.
+Dialogue: 0,0:10:29.62,0:10:30.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Laquelle est exacte ?
+Dialogue: 0,0:10:35.16,0:10:36.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B : Naegleria pénètre par
+Dialogue: 0,0:10:36.84,0:10:37.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les muqueuses nasales.
+Dialogue: 0,0:10:38.11,0:10:39.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protistes sont des
+Dialogue: 0,0:10:39.31,0:10:40.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}eucaryotes, l'ancêtre commun
+Dialogue: 0,0:10:40.84,0:10:41.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}était unicellulaire,
+Dialogue: 0,0:10:41.93,0:10:43.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les archées sont des
+Dialogue: 0,0:10:43.19,0:10:43.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}procaryotes.
+Dialogue: 0,0:10:44.40,0:10:45.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Récap express.
+Dialogue: 0,0:10:45.90,0:10:47.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept caractéristiques :
+Dialogue: 0,0:10:47.32,0:10:48.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organisation cellulaire,
+Dialogue: 0,0:10:48.81,0:10:50.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complexité ordonnée,
+Dialogue: 0,0:10:50.04,0:10:50.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sensibilité,
+Dialogue: 0,0:10:50.79,0:10:53.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}croissance-développement-reproduction,
+Dialogue: 0,0:10:53.14,0:10:54.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utilisation d'énergie,
+Dialogue: 0,0:10:54.50,0:10:55.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}homéostasie, adaptation
+Dialogue: 0,0:10:55.93,0:10:56.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}évolutive.
+Dialogue: 0,0:10:56.95,0:10:58.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Neuf niveaux, des atomes à
+Dialogue: 0,0:10:58.40,0:11:00.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organisme, avec la cytologie
+Dialogue: 0,0:11:00.07,0:11:01.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la cellule et l'histologie
+Dialogue: 0,0:11:01.80,0:11:02.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour le tissu.
+Dialogue: 0,0:11:02.98,0:11:03.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq thèmes :
+Dialogue: 0,0:11:03.97,0:11:05.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la théorie cellulaire ;
+Dialogue: 0,0:11:05.28,0:11:06.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la base moléculaire de l'hérédité ;
+Dialogue: 0,0:11:07.12,0:11:08.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le traitement de l'information ;
+Dialogue: 0,0:11:08.74,0:11:09.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le non-équilibre ;
+Dialogue: 0,0:11:09.92,0:11:11.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la diversité née de
+Dialogue: 0,0:11:11.08,0:11:12.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'évolution, avec trois domaines,
+Dialogue: 0,0:11:12.82,0:11:14.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre règnes et un ancêtre
+Dialogue: 0,0:11:14.24,0:11:16.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}commun unicellulaire d'il y a 3,8
+Dialogue: 0,0:11:16.76,0:11:17.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}milliards d'années.
+Dialogue: 0,0:11:18.16,0:11:19.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce soir, sans la vidéo,
+Dialogue: 0,0:11:19.34,0:11:21.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}essaie de réécrire ces trois listes.
+Dialogue: 0,0:11:21.34,0:11:22.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et demain, recommence :
+Dialogue: 0,0:11:22.45,0:11:23.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est ça qui fixe la mémoire.
+Dialogue: 0,0:11:24.42,0:11:25.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le prochain épisode,
+Dialogue: 0,0:11:25.78,0:11:27.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on descend tout en bas de ta
+Dialogue: 0,0:11:27.30,0:11:28.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pyramide : les atomes.
+Dialogue: 0,0:11:28.63,0:11:30.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre éléments seulement font
+Dialogue: 0,0:11:30.00,0:11:32.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}96,3 % du poids de ton corps.
+Dialogue: 0,0:11:33.11,0:11:33.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lesquels ?
+Dialogue: 0,0:11:33.96,0:11:35.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse dans l'épisode deux.
