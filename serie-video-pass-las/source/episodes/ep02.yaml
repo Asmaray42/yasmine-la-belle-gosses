@@ -1,0 +1,338 @@
+title: "Les atomes du vivant et leurs liaisons"
+subtitle: "96,3 % · 3 liaisons · 2 réactions · 3 facteurs de vitesse"
+source: "S1-1 p.9 à 12h"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 1. Les atomes du vivant"
+objectives:
+  - "Citer les 4 points du chapitre II."
+  - "Restituer le tableau des atomes chez l'homme et leur pourcentage du poids total (dont O + C + H + N = 96,3 %)."
+  - "Décrire les conséquences de la carence en iode et son origine historique."
+  - "Comparer les liaisons covalente, ionique et hydrogène (base de l'interaction et force)."
+  - "Écrire les équations de la photosynthèse et de la respiration cellulaire."
+  - "Citer les 3 facteurs qui influencent la vitesse d'une réaction chimique."
+
+scenes:
+  - kind: hook
+    title: "Quatre atomes, et c'est presque tout toi"
+    ref: "S1-1 p.10"
+    big: "96,3 %"
+    beats:
+      - say: "Quatre atomes. Rien que quatre atomes font 96,3 % du poids de ton corps."
+      - say: "Dans cet épisode : les atomes du vivant, les trois liaisons entre atomes, deux réactions qui se répondent, et ce qui accélère une réaction."
+        show: "Atomes · *3* liaisons · *2* réactions · *3* facteurs de vitesse"
+
+  - kind: list
+    title: "Chapitre II : les composés du vivant"
+    ref: "S1-1 p.9"
+    trap: "Le chapitre II compte 4 points ; cet épisode couvre le 1er (les atomes du vivant)."
+    beats:
+      - say: "Chapitre deux : les composés du vivant, en quatre points."
+      - say: "Un, les atomes du vivant."
+        show: "1. Les *atomes* du vivant"
+      - say: "Deux, l'eau."
+        show: "2. L'*eau*"
+      - say: "Trois, la chimie du carbone."
+        show: "3. La chimie du *carbone*"
+      - say: "Quatre, les macromolécules. Aujourd'hui, on fait le point un."
+        show: "4. Les *macromolécules*"
+
+  - kind: figure
+    title: "Les atomes du vivant"
+    ref: "S1-1 p.9"
+    fig: "S1-1:9b"
+    trap: "Les 12 éléments de la légende sont ceux du tableau de la p.10, sans le zinc ni l'iode (traces)."
+    beats:
+      - say: "Le cours part du tableau périodique : les éléments présents dans le vivant y sont mis en couleur."
+        focus: [0.0, 0.15, 0.8, 0.85]
+      - say: "Et la légende en donne la liste : carbone, oxygène, hydrogène, azote, sodium, chlore, calcium, phosphore, potassium, soufre, fer et magnésium."
+        focus: [0.76, 0.2, 1.0, 0.8]
+        show: "C · O · H · N · Na · Cl · Ca · P · K · S · Fe · Mg"
+
+  - kind: figure
+    title: "Les atomes chez l'homme (% du poids total)"
+    ref: "S1-1 p.10"
+    fig: "S1-1:10h"
+    trap: "O 65,0 ; C 18,5 ; H 9,5 ; N 3,3 → 96,3 % à eux quatre."
+    beats:
+      - say: "Chez l'homme, en pourcentage du poids total. L'oxygène : *65,0* %. Le carbone : *18,5*. L'hydrogène : *9,5*. L'azote : *3,3*. À eux quatre : *96,3* %."
+        focus: [0.25, 0.15, 1.0, 0.5]
+        mark: "96,3%"
+        show: "# O *65,0* · C *18,5* · H *9,5* · N *3,3* → *96,3 %*"
+      - say: "Ensuite : calcium, 1,5 ; phosphore, 1,0 ; potassium, 0,4 ; soufre, 0,3."
+        focus: [0.25, 0.4, 1.0, 0.7]
+        show: "Ca *1,5* · P *1,0* · K *0,4* · S *0,3*"
+      - say: "Sodium, 0,2 ; chlore, 0,2 ; magnésium, 0,1 ; et le fer, moins de 0,1 %."
+        focus: [0.25, 0.55, 1.0, 0.85]
+        show: "Na *0,2* · Cl *0,2* · Mg *0,1* · Fe *< 0,1*"
+      - say: "Enfin, le zinc et l'iode : à l'état de *traces*."
+        focus: [0.25, 0.7, 1.0, 0.95]
+        mark: "traces"
+        show: "Zn, I : *traces*"
+
+  - kind: mnemo
+    title: "OCHN : le quatuor du vivant"
+    ref: "S1-1 p.10"
+    phrase: "*O*h ! *C*haque *H*umain *N*age… dans 96,3 %"
+    trap: "Ordre décroissant : O > C > H > N. Contrôle de calcul : 18,5 + 9,5 = 28 ; 65 + 28 + 3,3 = 96,3."
+    beats:
+      - say: "L'ordre des quatre premiers : “Oh ! Chaque Humain Nage.” O, C, H, N, du plus lourd au plus léger."
+      - say: "Pour les chiffres, une astuce de calcul : 18,5 plus 9,5, ça fait 28 tout rond. 65 plus 28, 93. Plus 3,3 : 96,3. Si ton total ne tombe pas juste, un chiffre est faux."
+        show: "18,5 + 9,5 = *28* · 65 + 28 + 3,3 = *96,3*"
+      - say: "Puis le duo calcium 1,5, phosphore 1,0, et une petite famille sous 1 % : potassium, soufre, sodium, chlore, magnésium et fer."
+        show: "Ca *1,5* · P *1,0* puis K, S, Na, Cl, Mg, Fe (< 1 %)"
+
+  - kind: figure
+    title: "La carence en iode"
+    ref: "S1-1 p.10"
+    fig: "S1-1:10b"
+    blur: [[0.44, 0.12, 0.93, 0.99]]
+    trap: "Iode = élément à l'état de traces, mais indispensable : sa carence → manque d'hormones thyroïdiennes."
+    beats:
+      - say: "L'iode n'est présent qu'à l'état de traces, et pourtant sa carence a des conséquences lourdes."
+        focus: [0.0, 0.15, 0.5, 0.95]
+        mark: "Carence en Iode"
+      - say: "Le cours en cite trois : le *crétinisme*, le *retard de croissance* et des *déficiences mentales*."
+        focus: [0.0, 0.25, 0.5, 0.65]
+        mark: ["Crétinisme", "Retard de croissance", "Déficiences mentales"]
+        show: "Crétinisme · retard de croissance · déficiences mentales"
+      - say: "C'était fréquent dans les Alpes jusqu'au début du vingtième siècle, à cause de l'utilisation de sel de gemme pauvre en iode."
+        focus: [0.0, 0.5, 0.5, 0.8]
+        mark: "Alpes"
+        show: "Fréquent dans les *Alpes* jusqu'au début du XXe s. (sel de gemme pauvre en iode)"
+      - say: "Le mécanisme : un manque d'*hormones thyroïdiennes*, qui nécessitent la présence d'atomes d'iode."
+        focus: [0.0, 0.6, 0.5, 0.95]
+        mark: "hormones thyroïdiennes"
+        show: "⇒ manque d'*hormones thyroïdiennes* (elles nécessitent des atomes d'iode)"
+
+  - kind: quiz
+    title: "Quiz express n°1"
+    ref: "S1-1 p.10"
+    question: "Quels quatre atomes représentent ensemble 96,3 % du poids total chez l'homme ?"
+    options:
+      - "O, C, H, N"
+      - "O, C, Ca, P"
+      - "C, H, N, P"
+      - "O, H, Na, Cl"
+    answer: [0]
+    beats:
+      - say: "À toi : quels quatre atomes font ensemble 96,3 % du poids total ?"
+        countdown: 4
+      - say: "Réponse A : oxygène, carbone, hydrogène, azote. Oh ! Chaque Humain Nage."
+        reveal: true
+
+  - kind: figure
+    title: "Les liaisons entre les atomes"
+    ref: "S1-1 p.11"
+    fig: "S1-1:11h"
+    trap: "Covalente = partage de paires d'électrons (+++) ; ionique = attraction de charges opposées (++) ; hydrogène = partage d'atome d'hydrogène (+)."
+    beats:
+      - say: "Comment les atomes tiennent-ils ensemble ? Le cours donne quelques exemples de liaisons, avec la base de l'interaction et leur force."
+        focus: "all"
+      - say: "La liaison *covalente* : un partage de paires d'électrons. Force : trois plus."
+        focus: [0.05, 0.3, 1.0, 0.75]
+        mark: "Liaison covalente"
+        show: "Liaison *covalente* : partage de paires d'électrons — *+++*"
+      - say: "La liaison *ionique* : une attraction de charges opposées. Deux plus."
+        focus: [0.05, 0.3, 1.0, 0.75]
+        mark: "Liaison ionique"
+        show: "Liaison *ionique* : attraction de charges opposées — *++*"
+      - say: "La liaison *hydrogène* : un partage d'atome d'hydrogène. Un seul plus : c'est la plus faible des trois."
+        focus: [0.05, 0.3, 1.0, 0.75]
+        mark: "Liaison hydrogène"
+        show: "Liaison *hydrogène* : partage d'atome d'hydrogène — *+*"
+
+  - kind: mnemo
+    title: "Le couple, les aimants, la poignée de main"
+    ref: "S1-1 p.11"
+    phrase: "*Covalente* = un couple · *Ionique* = des aimants · *Hydrogène* = une poignée de main"
+    trap: "Ordre de force : covalente (+++) > ionique (++) > hydrogène (+)."
+    beats:
+      - say: "Trois images, de la plus forte à la plus faible."
+      - say: "La covalente, c'est un couple qui partage tout : des paires d'électrons. Très solide, trois plus."
+        show: "Couple qui partage tout → *covalente* (paires d'électrons) *+++*"
+      - say: "L'ionique, ce sont deux aimants de charges opposées qui s'attirent. Deux plus."
+        show: "Aimants opposés → *ionique* (charges opposées) *++*"
+      - say: "L'hydrogène, c'est une simple poignée de main : on partage un atome d'hydrogène, et on se lâche vite. Un plus."
+        show: "Poignée de main → *hydrogène* (atome d'H partagé) *+*"
+
+  - kind: trap
+    title: "Ne mélange pas les liaisons"
+    ref: "S1-1 p.11"
+    trap: "Base de l'interaction et force : à connaître pour chacune des trois liaisons."
+    beats:
+      - say: "Deux pièges sur les liaisons."
+      - say: "“La liaison hydrogène est plus forte que la liaison ionique” : faux. Covalente, puis ionique, puis hydrogène."
+        show: "✗ hydrogène > ionique  →  ✓ covalente *+++* > ionique *++* > hydrogène *+*"
+      - say: "“La liaison covalente repose sur l'attraction de charges opposées” : faux, ça, c'est l'ionique. La covalente, c'est le partage de paires d'électrons."
+        show: "✓ Covalente = *partage de paires d'électrons* · ionique = *attraction de charges opposées*"
+
+  - kind: figure
+    title: "Deux réactions qui se répondent"
+    ref: "S1-1 p.11"
+    fig: "S1-1:11b"
+    trap: "Photosynthèse : réactifs 6 H2O + 6 CO2, apport de lumière ; respiration cellulaire : réactifs C6H12O6 + 6 O2, libère de l'énergie."
+    beats:
+      - say: "Une réaction chimique transforme des *réactifs* en *produits*. Le cours en donne deux, qui sont le miroir l'une de l'autre."
+        focus: "all"
+        mark: ["réactifs", "produits"]
+      - say: "La *photosynthèse* : six H2O plus six CO2 donnent C6H12O6, le glucose, plus six O2. Avec un apport de *lumière*."
+        focus: [0.0, 0.1, 1.0, 0.52]
+        mark: ["lumière", "photosynthèse"]
+        show: "*Photosynthèse* : 6 H₂O + 6 CO₂ → C₆H₁₂O₆ + 6 O₂ (*lumière*)"
+      - say: "La *respiration cellulaire* : C6H12O6 plus six O2 donnent six H2O plus six CO2. Et cette fois, la réaction libère de l'*énergie*."
+        focus: [0.0, 0.48, 1.0, 0.95]
+        mark: ["énergie", "respiration cellulaire"]
+        show: "*Respiration cellulaire* : C₆H₁₂O₆ + 6 O₂ → 6 H₂O + 6 CO₂ (*énergie*)"
+
+  - kind: compare
+    title: "Photosynthèse vs respiration cellulaire"
+    ref: "S1-1 p.11"
+    header: ["", "Photosynthèse", "Respiration cellulaire"]
+    beats:
+      - say: "Comparons-les ligne par ligne."
+      - say: "Les réactifs : eau et CO2 pour la photosynthèse ; glucose et O2 pour la respiration."
+        show: "Réactifs | 6 H₂O + 6 CO₂ | C₆H₁₂O₆ + 6 O₂"
+      - say: "Les produits : glucose et O2 d'un côté ; eau et CO2 de l'autre."
+        show: "Produits | C₆H₁₂O₆ + 6 O₂ | 6 H₂O + 6 CO₂"
+      - say: "Et sur le schéma : la lumière pour la photosynthèse, l'énergie libérée pour la respiration cellulaire."
+        show: "Sur le schéma | *lumière* | *énergie*"
+
+  - kind: figure
+    title: "Ce qui influence la vitesse d'une réaction"
+    ref: "S1-1 p.12"
+    fig: "S1-1:12h"
+    trap: "3 facteurs : température ; concentration des réactifs ET des produits ; présence de catalyseurs (enzymes)."
+    beats:
+      - say: "Dernier point : la vitesse d'une réaction chimique est influencée par trois facteurs."
+        focus: "all"
+      - say: "Un, la *température*."
+        mark: "La température"
+        show: "1. La *température*"
+      - say: "Deux, la *concentration* des réactifs *et* des produits."
+        mark: "La concentration"
+        show: "2. La *concentration* des réactifs et produits"
+      - say: "Trois, la présence de *catalyseurs* : les *enzymes*."
+        mark: "catalyseurs"
+        show: "3. La présence de *catalyseurs* (*enzymes*)"
+
+  - kind: mnemo
+    title: "Trois façons d'accélérer la cuisine"
+    ref: "S1-1 p.12"
+    phrase: "*T*empérature · *C*oncentration · *C*atalyseurs = *T C C*"
+    trap: "Concentration des réactifs ET des produits ; catalyseurs = enzymes."
+    beats:
+      - say: "Imagine que tu cuisines. Pour aller plus vite, tu as trois options."
+      - say: "Tu montes le feu : la température."
+        show: "Monter le feu → *température*"
+      - say: "Tu mets plus d'ingrédients dans la casserole : la concentration, des réactifs et des produits."
+        show: "Plus d'ingrédients → *concentration* (réactifs et produits)"
+      - say: "Ou tu appelles un chef qui accélère tout sans être consommé : le catalyseur, c'est-à-dire l'enzyme."
+        show: "Un chef qui accélère → *catalyseur* = *enzyme*"
+
+  - kind: quiz
+    title: "Quiz express n°2"
+    ref: "S1-1 p.11-12"
+    question: "Laquelle de ces propositions est exacte ?"
+    options:
+      - "La liaison hydrogène est la plus forte des trois liaisons du tableau."
+      - "La photosynthèse produit du glucose et de l'O₂ à partir d'eau et de CO₂."
+      - "La respiration cellulaire produit du glucose."
+      - "La température n'influence pas la vitesse d'une réaction."
+    answer: [1]
+    beats:
+      - say: "Dernier quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. La liaison hydrogène est la plus faible, la respiration cellulaire consomme le glucose, et la température est l'un des trois facteurs de vitesse."
+        reveal: true
+
+  - kind: recap
+    title: "Récap de l'épisode"
+    ref: "S1-1 p.9-12"
+    beats:
+      - say: "On récapitule."
+      - say: "O, C, H, N : 65, 18,5, 9,5 et 3,3 %, soit 96,3 % du poids total ; zinc et iode à l'état de traces."
+        show: "O *65,0* · C *18,5* · H *9,5* · N *3,3* = *96,3 %* · Zn, I : traces"
+      - say: "Carence en iode : crétinisme, retard de croissance, déficiences mentales, par manque d'hormones thyroïdiennes."
+        show: "Carence en iode → crétinisme, retard de croissance, déficiences mentales"
+      - say: "Liaisons : covalente, trois plus ; ionique, deux plus ; hydrogène, un plus."
+        show: "Covalente *+++* · ionique *++* · hydrogène *+*"
+      - say: "Photosynthèse et respiration cellulaire, deux équations inverses ; et trois facteurs de vitesse : température, concentration, catalyseurs."
+        show: "Photosynthèse ⇄ respiration · température, concentration, catalyseurs (enzymes)"
+
+  - kind: outro
+    title: "Épisode 3 : l'eau"
+    ref: "S1-1 p.13"
+    big: "2/3"
+    beats:
+      - say: "Prochain épisode : l'eau, qui fait environ deux tiers de la masse des organismes. Et tu vas comprendre pourquoi une acidose est une urgence."
+        show: "L'eau : ± *2/3* de la masse des organismes"
+
+recap:
+  - "Chapitre II « Les composés du vivant » : 1. Les atomes du vivant ; 2. L'eau ; 3. La chimie du carbone ; 4. Les macromolécules."
+  - "Éléments du vivant (légende du tableau périodique, p.9) : carbone, oxygène, hydrogène, azote, sodium, chlore, calcium, phosphore, potassium, soufre, fer, magnésium."
+  - "Atomes chez l'homme (% du poids total) : O 65,0 ; C 18,5 ; H 9,5 ; N 3,3 (ces quatre = 96,3 %) ; Ca 1,5 ; P 1,0 ; K 0,4 ; S 0,3 ; Na 0,2 ; Cl 0,2 ; Mg 0,1 ; Fe < 0,1 ; Zn et I : traces."
+  - "Carence en iode : crétinisme, retard de croissance, déficiences mentales ; fréquente dans les Alpes jusqu'au début du XXe siècle (sel de gemme pauvre en iode) ; manque d'hormones thyroïdiennes, qui nécessitent la présence d'atomes d'iode."
+  - "Liaisons : covalente = partage de paires d'électrons (+++) ; ionique = attraction de charges opposées (++) ; hydrogène = partage d'atome d'hydrogène (+)."
+  - "Réactions : réactifs → produits. Photosynthèse : 6 H2O + 6 CO2 → C6H12O6 + 6 O2 (lumière). Respiration cellulaire : C6H12O6 + 6 O2 → 6 H2O + 6 CO2 (énergie)."
+  - "La vitesse d'une réaction chimique est influencée par : 1. la température ; 2. la concentration des réactifs et produits ; 3. la présence de catalyseurs (enzymes)."
+
+traps:
+  - ["Oublier un des 4 atomes majeurs ou en changer l'ordre", "O 65,0 > C 18,5 > H 9,5 > N 3,3 ; total 96,3 %", "p.10h"]
+  - ["« Le zinc et l'iode représentent 0,1 % »", "Zn et I = traces ; le fer = < 0,1 % ; le magnésium = 0,1 %", "p.10h"]
+  - ["Attribuer la carence en iode à un excès de sel", "Sel de gemme **pauvre en iode** ; manque d'hormones thyroïdiennes", "p.10b"]
+  - ["« Liaison hydrogène plus forte que l'ionique »", "Covalente +++ > ionique ++ > hydrogène +", "p.11h"]
+  - ["Inverser la base des liaisons covalente et ionique", "Covalente = partage de paires d'électrons ; ionique = attraction de charges opposées", "p.11h"]
+  - ["Inverser réactifs et produits de la photosynthèse", "6 H2O + 6 CO2 → C6H12O6 + 6 O2 (lumière)", "p.11b"]
+  - ["« La respiration cellulaire produit du glucose »", "Elle consomme C6H12O6 + 6 O2 et produit 6 H2O + 6 CO2 (énergie)", "p.11b"]
+  - ["Ne citer que la concentration des réactifs", "Concentration des réactifs **et** des produits", "p.12h"]
+
+mnemonics:
+  - ["Les 4 atomes majeurs, dans l'ordre", "« Oh ! Chaque Humain Nage »", "O (65,0) · C (18,5) · H (9,5) · N (3,3)"]
+  - ["Vérifier les pourcentages", "18,5 + 9,5 = 28 ; 65 + 28 + 3,3 = 96,3", "O + C + H + N = 96,3 %"]
+  - ["Les 3 liaisons et leur force", "Couple (partage tout) · aimants (opposés) · poignée de main (vite lâchée)", "Covalente +++ · ionique ++ · hydrogène +"]
+  - ["Les 3 facteurs de vitesse", "Cuisiner plus vite : monter le feu, plus d'ingrédients, appeler un chef", "Température · concentration (réactifs et produits) · catalyseurs (enzymes)"]
+
+quiz:
+  - q: "À propos des atomes du vivant chez l'homme (% du poids total) :"
+    props:
+      - ["L'oxygène représente 65,0 % du poids total.", true, "Valeur du tableau p.10h."]
+      - ["Le carbone représente 9,5 % du poids total.", false, "Le carbone : 18,5 % ; 9,5 % est la valeur de l'hydrogène."]
+      - ["O, C, H et N représentent ensemble 96,3 % du poids total.", true, "65,0 + 18,5 + 9,5 + 3,3 = 96,3 (accolade du tableau)."]
+      - ["Le calcium (1,5 %) est plus abondant que le phosphore (1,0 %).", true, "Ca 1,5 ; P 1,0."]
+      - ["Le fer est présent à l'état de traces, comme le zinc et l'iode.", false, "Le fer est noté < 0,1 % ; les traces concernent le zinc et l'iode."]
+  - q: "À propos de la carence en iode :"
+    props:
+      - ["Elle peut causer un crétinisme.", true, "Première conséquence citée p.10b."]
+      - ["Elle est liée à un manque d'hormones thyroïdiennes.", true, "Les hormones thyroïdiennes nécessitent la présence d'atomes d'iode."]
+      - ["Elle était fréquente dans les Alpes jusqu'au début du XXe siècle.", true, "À cause du sel de gemme pauvre en iode."]
+      - ["Elle s'explique par un sel de gemme trop riche en iode.", false, "Le sel de gemme était pauvre en iode."]
+      - ["Elle provoque un retard de croissance.", true, "Deuxième conséquence citée."]
+  - q: "À propos des liaisons entre les atomes (tableau p.11) :"
+    props:
+      - ["La liaison covalente repose sur le partage de paires d'électrons.", true, "Base de l'interaction du tableau."]
+      - ["La liaison ionique repose sur l'attraction de charges opposées.", true, "Base de l'interaction du tableau."]
+      - ["La liaison hydrogène est la plus forte des trois.", false, "Elle est la plus faible (+)."]
+      - ["La liaison ionique est notée ++.", true, "Covalente +++, ionique ++, hydrogène +."]
+      - ["La liaison hydrogène repose sur le partage de paires d'électrons.", false, "Elle repose sur le partage d'atome d'hydrogène."]
+  - q: "À propos des réactions chimiques (p.11-12) :"
+    props:
+      - ["La photosynthèse s'écrit 6 H2O + 6 CO2 → C6H12O6 + 6 O2.", true, "Équation du cours, avec apport de lumière."]
+      - ["La respiration cellulaire s'écrit C6H12O6 + 6 O2 → 6 H2O + 6 CO2.", true, "Équation du cours, qui libère de l'énergie."]
+      - ["Dans la respiration cellulaire, le glucose est un produit.", false, "Il est un réactif."]
+      - ["La vitesse d'une réaction dépend de la concentration des réactifs et des produits.", true, "2e facteur cité p.12h."]
+      - ["Les enzymes sont citées comme catalyseurs.", true, "« La présence de catalyseurs (enzymes) »."]
+  - q: "Parmi ces facteurs, lesquels le cours cite-t-il comme influençant la vitesse d'une réaction chimique ?"
+    props:
+      - ["La température.", true, "Facteur 1."]
+      - ["La couleur des réactifs.", false, "Non cité."]
+      - ["La concentration des réactifs et produits.", true, "Facteur 2."]
+      - ["La présence de catalyseurs (enzymes).", true, "Facteur 3."]
+      - ["La masse des produits uniquement.", false, "Non cité ; le cours parle de concentration des réactifs et produits."]
+
+coverage:
+  - ["S1-1", "9h", "Sommaire du chapitre II (4 points)", 2]
+  - ["S1-1", "9b", "Tableau périodique et légende des éléments du vivant", 3]
+  - ["S1-1", "10h", "Atomes chez l'homme en % du poids total, 96,3 %, traces", 4]
+  - ["S1-1", "10b", "Carence en iode : crétinisme, retard de croissance, déficiences mentales, Alpes, sel de gemme, hormones thyroïdiennes", 6]
+  - ["S1-1", "11h", "Liaisons covalente, ionique, hydrogène (base, force)", 8]
+  - ["S1-1", "11b", "Réactions chimiques : photosynthèse et respiration cellulaire, réactifs/produits, lumière/énergie", 11]
+  - ["S1-1", "12h", "Vitesse de réaction : température, concentration, catalyseurs (enzymes)", 13]

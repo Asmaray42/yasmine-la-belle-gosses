@@ -1,0 +1,355 @@
+title: "L'eau, la molécule qui rend tout possible"
+subtitle: "Polarité · liaisons H · solvant · pH · tampons · acidose"
+source: "S1-1 p.12b à 17"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 2. L'eau"
+objectives:
+  - "Citer les trois raisons pour lesquelles l'eau est essentielle à la vie selon le cours."
+  - "Expliquer la polarité de l'eau à partir de l'électronégativité de l'oxygène."
+  - "Décrire la liaison hydrogène entre deux molécules d'eau."
+  - "Expliquer pourquoi l'eau est un solvant polaire ; définir solution et soluté ; hydrophile / hydrophobe."
+  - "Écrire l'ionisation de l'eau, donner [OH–] = [H3O+] = 10⁻⁷ mol/L et pH = 7 dans l'eau pure."
+  - "Définir acide, base et tampon ; expliquer le tampon acide carbonique / bicarbonate."
+  - "Décrire l'acidose : définition, causes, seuil de 7,1, traitement d'urgence."
+
+scenes:
+  - kind: hook
+    title: "Pourquoi une acidose est une urgence ?"
+    ref: "S1-1 p.16"
+    big: "pH 7,1"
+    beats:
+      - say: "Le sang a un pH d'environ 7,4. S'il descend sous 7,1, le risque d'arythmie cardiaque devient élevé."
+      - say: "Pour comprendre pourquoi, il faut comprendre l'eau : sa polarité, ses liaisons hydrogène, ses ions, et les tampons."
+        show: "Polarité · liaisons H · ions · pH · *tampons*"
+
+  - kind: figure
+    title: "L'eau, essentielle à la vie"
+    ref: "S1-1 p.13"
+    fig: "S1-1:13h"
+    trap: "Environ 2/3 de la masse des organismes ; la vie a d'abord évolué dans l'eau."
+    beats:
+      - say: "Deuxième point du chapitre deux : l'eau. Le cours lui donne trois caractéristiques."
+        focus: "all"
+      - say: "Elle est *essentielle* à la vie. La vie a *d'abord évolué dans l'eau*. Et elle constitue environ *deux tiers* de la masse des organismes."
+        mark: "Essentielle"
+        focus: [0.1, 0.5, 0.95, 0.85]
+        show: "Essentielle à la vie · la vie a d'abord évolué dans l'eau · ± *2/3* de la masse des organismes"
+
+  - kind: figure
+    title: "Une structure polaire"
+    ref: "S1-1 p.13"
+    fig: "S1-1:13b"
+    trap: "C'est l'oxygène qui a la plus forte électronégativité : il porte les charges partielles négatives (δ–), les hydrogènes les positives (δ+)."
+    beats:
+      - say: "L'eau, c'est deux atomes d'hydrogène liés à un atome d'oxygène : H2O."
+        focus: [0.0, 0.2, 1.0, 0.55]
+        mark: "Deux atomes d'hydrogène"
+        show: "H₂O = 2 atomes d'*hydrogène* liés à 1 atome d'*oxygène*"
+      - say: "L'atome d'oxygène a une plus forte *électronégativité* : il attire les électrons vers lui."
+        mark: "électronégativité"
+        show: "L'oxygène a une plus forte *électronégativité* : il attire les électrons"
+      - say: "Résultat : une répartition déséquilibrée des charges partielles positives et négatives. C'est la *polarité*. Sur le schéma : delta moins du côté de l'oxygène, delta plus sur les hydrogènes."
+        focus: [0.2, 0.45, 0.9, 0.9]
+        mark: "polarité"
+        show: "Charges partielles déséquilibrées = *polarité* : δ– sur O, δ+ sur H"
+
+  - kind: figure
+    title: "La liaison hydrogène entre molécules d'eau"
+    ref: "S1-1 p.14"
+    fig: "S1-1:14h"
+    trap: "Liaisons hydrogène : faibles et éphémères, MAIS très nombreuses dans l'eau."
+    beats:
+      - say: "Cette polarité permet la formation de liaisons hydrogène."
+        focus: "all"
+      - say: "L'extrémité oxygène, delta moins, d'une molécule est attirée vers l'extrémité hydrogène, delta plus, d'une autre molécule d'eau : c'est une *liaison hydrogène*."
+        focus: [0.1, 0.25, 1.0, 0.85]
+        mark: "liaison hydrogène"
+        show: "O (δ–) d'une molécule ↔ H (δ+) d'une autre = *liaison hydrogène*"
+      - say: "Ce sont des liaisons *faibles* et *éphémères*, mais *très nombreuses* dans l'eau."
+        mark: "Liaisons faibles"
+        show: "Faibles · éphémères · mais *très nombreuses*"
+
+  - kind: figure
+    title: "L'eau est un solvant polaire"
+    ref: "S1-1 p.14"
+    fig: "S1-1:14b"
+    trap: "Hydrophiles = polaires (solubilisées) ; hydrophobes = apolaires (exclues/organisées) ; solution = eau + substance solubilisée ; soluté = substance solubilisée."
+    beats:
+      - say: "Première propriété : l'eau est un *solvant polaire*. Ses molécules s'agglutinent autour des ions et des molécules polaires."
+        focus: [0.0, 0.1, 1.0, 0.4]
+        mark: "solvant polaire"
+        show: "Les molécules d'eau s'agglutinent autour des *ions* et des molécules *polaires*"
+      - say: "Sur le schéma : un cristal de sel, dont les ions Na plus et chlorure sont entourés de coquilles d'hydratation."
+        focus: [0.0, 0.35, 0.8, 1.0]
+        mark: "Coquilles"
+      - say: "Conséquences : la solubilisation des sels et des substances polaires, dites *hydrophiles* ; et l'exclusion, ou l'organisation, des substances apolaires, dites *hydrophobes*, comme une goutte d'huile."
+        focus: [0.0, 0.1, 1.0, 0.4]
+        mark: ["hydrophiles", "hydrophobes"]
+        show: "Solubilise les sels et substances polaires *hydrophiles* · exclut/organise les apolaires *hydrophobes* (goutte d'huile)"
+      - say: "Deux définitions : eau plus substance solubilisée, c'est une *solution* ; la substance solubilisée, c'est le *soluté*."
+        focus: [0.55, 0.4, 1.0, 0.7]
+        mark: ["solution", "soluté"]
+        show: "Eau + substance solubilisée = *solution* · substance solubilisée = *soluté*"
+
+  - kind: trap
+    title: "Hydrophile ou hydrophobe ?"
+    ref: "S1-1 p.14"
+    trap: "Polaire = hydrophile ; apolaire = hydrophobe ; le soluté est la substance solubilisée, pas l'eau."
+    beats:
+      - say: "Deux pièges de vocabulaire."
+      - say: "“Les substances apolaires sont hydrophiles” : faux. Apolaire égale hydrophobe, polaire égale hydrophile."
+        show: "✗ apolaire = hydrophile  →  ✓ *polaire* = hydrophile · *apolaire* = hydrophobe"
+      - say: "“Le soluté, c'est l'eau” : faux. Le soluté est la substance solubilisée ; l'eau plus le soluté forment la solution."
+        show: "✓ Soluté = substance *solubilisée* · solution = eau + soluté"
+
+  - kind: figure
+    title: "L'eau forme des ions"
+    ref: "S1-1 p.15"
+    fig: "S1-1:15h"
+    trap: "Dans l'eau pure : [OH–] = [H3O+] = 10⁻⁷ moles/litre ; pH = 7."
+    beats:
+      - say: "Deuxième propriété : l'eau forme des ions. Dans l'eau pure, H2O se dissocie en OH moins plus H plus."
+        focus: [0.0, 0.15, 1.0, 0.45]
+        show: "H₂O ⇌ OH⁻ + H⁺"
+      - say: "Ou, écrit autrement : deux H2O donnent OH moins plus H3O plus. Le schéma montre un H qui passe d'une molécule d'eau à l'autre."
+        focus: [0.15, 0.2, 0.85, 0.6]
+        show: "2 H₂O ⇌ OH⁻ + H₃O⁺"
+      - say: "Dans l'eau pure, la concentration en OH moins est égale à celle en H3O plus : *10 puissance moins 7* moles par litre. Et le pH vaut *7*."
+        focus: [0.3, 0.55, 1.0, 0.95]
+        mark: ["10", "pH = 7"]
+        show: "# Eau pure : [OH⁻] = [H₃O⁺] = *10⁻⁷ mol/L* · *pH = 7*"
+
+  - kind: figure
+    title: "Acides, bases et échelle de pH"
+    ref: "S1-1 p.15"
+    fig: "S1-1:15b"
+    trap: "Acide = augmente la [H+] ; base = diminue la [H+]."
+    beats:
+      - say: "Le pH de l'eau peut être modifié par des solutés."
+        focus: "all"
+      - say: "Un *acide*, c'est tout soluté qui *augmente* la concentration en H plus. Exemple : HCl, qui donne H plus et chlorure."
+        focus: [0.0, 0.1, 0.6, 0.35]
+        mark: "Acides"
+        show: "*Acide* = tout soluté qui *augmente* la [H⁺] — ex. HCl → H⁺ + Cl⁻"
+      - say: "Une *base*, c'est tout soluté qui *diminue* la concentration en H plus. Exemple : NaOH, qui donne Na plus et OH moins."
+        focus: [0.4, 0.1, 1.0, 0.35]
+        mark: "Bases"
+        show: "*Base* = tout soluté qui *diminue* la [H⁺] — ex. NaOH → Na⁺ + OH⁻"
+      - say: "L'échelle du cours va de pH zéro, très acide, à pH quatorze, très basique, avec des concentrations en H plus de 10 puissance zéro à 10 puissance moins 14. Côté acide : l'acide chlorhydrique, le suc gastrique, le jus de citron, le vinaigre, le cola. Au milieu, l'eau pure, à 7. Côté basique : l'eau de mer, le bicarbonate de soude, l'ammoniaque ménager, l'eau de Javel, l'hydroxyde de sodium."
+        focus: [0.15, 0.3, 1.0, 1.0]
+        mark: "Eau pure"
+        show: "pH *0* (acide) … eau pure *7* … *14* (basique)"
+
+  - kind: figure
+    title: "Les tampons stabilisent le pH"
+    ref: "S1-1 p.16"
+    fig: "S1-1:16h"
+    trap: "Un tampon agit dans les deux sens : il libère des H+ si on ajoute une base, il en absorbe si on ajoute un acide."
+    beats:
+      - say: "Troisième propriété : les *tampons* stabilisent le pH."
+        focus: "all"
+      - say: "Un tampon *libère* des H plus si on ajoute une base, et *absorbe* des H plus si on ajoute un acide."
+        focus: [0.1, 0.15, 1.0, 0.45]
+        mark: ["libèrent", "absorbent"]
+        show: "Tampon : *libère* des H⁺ si + base · *absorbe* des H⁺ si + acide"
+      - say: "Exemple dans le sang : l'acide carbonique, H2CO3, en équilibre avec l'ion bicarbonate, HCO3 moins, plus H plus."
+        focus: [0.15, 0.5, 0.95, 0.95]
+        mark: ["acide carbonique", "bicarbonate"]
+        show: "Sang : acide carbonique H₂CO₃ ⇌ ion bicarbonate HCO₃⁻ + H⁺"
+      - say: "On ajoute une base, les H plus diminuent : l'acide carbonique en libère. On ajoute un acide, les H plus augmentent : le bicarbonate les absorbe et redonne de l'acide carbonique."
+        focus: [0.15, 0.5, 0.95, 0.95]
+        mark: ["+ base", "+ acide"]
+
+  - kind: flow
+    title: "Le tampon bicarbonate, pas à pas"
+    ref: "S1-1 p.16"
+    trap: "Sens des réactions : + base → H2CO3 libère H+ ; + acide → HCO3– fixe H+."
+    beats:
+      - say: "Résumons le tampon en étapes."
+      - say: "Équilibre de départ : acide carbonique d'un côté, bicarbonate plus H plus de l'autre."
+        show: "H₂CO₃ ⇌ HCO₃⁻ + H⁺"
+      - say: "Si on ajoute une base, les H plus baissent : l'équilibre se déplace vers la droite, l'acide carbonique libère des H plus."
+        show: "+ base (H⁺ ↓) → H₂CO₃ *libère* des H⁺"
+      - say: "Si on ajoute un acide, les H plus montent : l'équilibre se déplace vers la gauche, le bicarbonate absorbe ces H plus."
+        show: "+ acide (H⁺ ↑) → HCO₃⁻ *absorbe* des H⁺"
+      - say: "Dans les deux cas, le pH reste stable."
+        show: "⇒ pH *stabilisé*"
+
+  - kind: figure
+    title: "Troubles du pH sanguin : l'acidose"
+    ref: "S1-1 p.16-17"
+    fig: "S1-1:17h"
+    trap: "Acidose = diminution du pH = AUGMENTATION de [H+] ; pH normal ± 7,4 ; seuil de risque < 7,1 ; traitement : bicarbonate."
+    beats:
+      - say: "Le pH normal du sang : environ *7,4*."
+        focus: [0.0, 0.15, 1.0, 0.45]
+        mark: "7,4"
+        show: "# pH normal du sang : ± *7,4*"
+      - say: "L'*acidose*, c'est une *diminution* du pH sanguin, c'est-à-dire une *augmentation* de la concentration en H plus."
+        mark: "L'acidose"
+        show: "*Acidose* = *diminution* du pH = *augmentation* de [H⁺]"
+      - say: "Elle peut apparaître suite à une insuffisance respiratoire, un dysfonctionnement des reins, ou une intoxication."
+        focus: [0.0, 0.35, 1.0, 0.65]
+        mark: "insuffisance respiratoire"
+        show: "Causes : insuffisance *respiratoire* · dysfonctionnement des *reins* · *intoxication*"
+      - say: "À un pH inférieur à *7,1* : risque élevé d'*arythmie cardiaque*. Le traitement d'urgence : l'injection d'une solution de *bicarbonate*."
+        focus: [0.0, 0.5, 1.0, 1.0]
+        mark: ["7,1", "bicarbonate"]
+        show: "pH < *7,1* → risque élevé d'*arythmie cardiaque* · urgence : injection de *bicarbonate*"
+      - say: "Pourquoi le bicarbonate ? Sur le schéma, il fixe les H plus en excès et refait de l'acide carbonique : la concentration en H plus redescend."
+        focus: [0.2, 0.75, 1.0, 1.0]
+        mark: "bicarbonate"
+
+  - kind: trap
+    title: "Le piège du sens"
+    ref: "S1-1 p.15-17"
+    trap: "pH et [H+] varient en sens INVERSE."
+    beats:
+      - say: "Le piège le plus fréquent sur le pH."
+      - say: "“L'acidose est une augmentation du pH” : faux."
+        show: "✗ « Acidose = augmentation du pH »"
+      - say: "L'acidose est une *diminution* du pH, donc une *augmentation* des H plus. pH et concentration en H plus varient en sens inverse."
+        show: "✓ Acidose : pH *↓* et [H⁺] *↑* — sens *inverses*"
+      - say: "Et une base *diminue* la concentration en H plus ; un acide l'*augmente*."
+        show: "✓ Base → [H⁺] ↓ · acide → [H⁺] ↑"
+
+  - kind: mnemo
+    title: "Retenir les chiffres du pH"
+    ref: "S1-1 p.15-16"
+    phrase: "*7* l'eau pure · *7,4* le sang · *7,1* l'alarme"
+    trap: "10⁻⁷ mol/L pour OH– ET pour H3O+ dans l'eau pure."
+    beats:
+      - say: "Trois chiffres à aligner, comme trois paliers."
+      - say: "Sept : l'eau pure, avec dix puissance moins sept moles par litre d'OH moins et d'H3O plus."
+        show: "*7* = eau pure ([OH⁻] = [H₃O⁺] = 10⁻⁷ mol/L)"
+      - say: "Sept virgule quatre : le sang normal, légèrement au-dessus."
+        show: "*7,4* = pH normal du sang"
+      - say: "Sept virgule un : l'alarme, risque élevé d'arythmie, on injecte du bicarbonate."
+        show: "*< 7,1* = alarme → bicarbonate"
+
+  - kind: quiz
+    title: "Quiz express n°1"
+    ref: "S1-1 p.14-15"
+    question: "Dans l'eau pure, quelle proposition est exacte ?"
+    options:
+      - "[OH⁻] = [H₃O⁺] = 10⁻⁷ mol/L et le pH vaut 7."
+      - "[H₃O⁺] est supérieure à [OH⁻]."
+      - "Le pH vaut 7,4."
+      - "Il n'y a aucun ion."
+    answer: [0]
+    beats:
+      - say: "Quiz : dans l'eau pure, quelle proposition est exacte ?"
+        countdown: 4
+      - say: "Réponse A : autant d'OH moins que d'H3O plus, dix puissance moins sept moles par litre, et un pH de sept. Sept virgule quatre, c'est le sang."
+        reveal: true
+
+  - kind: quiz
+    title: "Quiz express n°2"
+    ref: "S1-1 p.16"
+    question: "L'acidose correspond à :"
+    options:
+      - "une augmentation du pH sanguin"
+      - "une diminution du pH sanguin, donc une augmentation de [H⁺]"
+      - "une diminution de [H⁺]"
+    answer: [1]
+    beats:
+      - say: "Et l'acidose, c'est quoi ?"
+        countdown: 4
+      - say: "Réponse B : une diminution du pH, donc plus d'H plus. Traitement d'urgence : le bicarbonate."
+        reveal: true
+
+  - kind: recap
+    title: "Récap de l'épisode"
+    ref: "S1-1 p.13-17"
+    beats:
+      - say: "On récapitule."
+      - say: "L'eau : essentielle, berceau de la vie, environ deux tiers de la masse des organismes ; structure polaire, car l'oxygène est plus électronégatif."
+        show: "± *2/3* de la masse · polarité : O plus *électronégatif* (δ–), H (δ+)"
+      - say: "Des liaisons hydrogène faibles et éphémères, mais très nombreuses ; un solvant polaire, qui solubilise les substances hydrophiles et exclut les hydrophobes."
+        show: "Liaisons H faibles, éphémères, très nombreuses · solvant *polaire*"
+      - say: "Eau pure : dix puissance moins sept moles par litre, pH sept. Acide : augmente les H plus ; base : les diminue ; tampon : stabilise le pH."
+        show: "Eau pure : 10⁻⁷ mol/L, pH 7 · acide ↑[H⁺] · base ↓[H⁺] · tampon"
+      - say: "Sang : pH 7,4 ; acidose sous 7,1, risque d'arythmie, traitement par bicarbonate."
+        show: "Sang ± 7,4 · acidose < 7,1 → arythmie → *bicarbonate*"
+
+  - kind: outro
+    title: "Épisode 4 : le carbone"
+    ref: "S1-1 p.18"
+    big: "C"
+    beats:
+      - say: "Prochain épisode : le carbone, la charpente de la majorité des molécules biologiques, ses groupes fonctionnels et le grand tableau des macromolécules."
+        show: "Le *carbone* : tétravalence, groupes fonctionnels, macromolécules"
+
+recap:
+  - "L'eau : essentielle à la vie ; la vie a d'abord évolué dans l'eau ; constitue ± 2/3 de la masse des organismes."
+  - "Structure polaire : deux atomes d'hydrogène liés à un atome d'oxygène (H2O) ; l'oxygène a une plus forte électronégativité et attire les électrons vers lui ⇒ répartition des charges partielles positives/négatives déséquilibrée (= polarité)."
+  - "Liaisons hydrogène : l'extrémité oxygène (δ–) d'une molécule est attirée vers l'extrémité hydrogène (δ+) d'une autre molécule d'eau ; liaisons faibles et éphémères, mais très nombreuses dans l'eau."
+  - "L'eau est un solvant polaire : les molécules d'eau s'agglutinent autour des ions et des molécules polaires ⇒ solubilisation de sels et de substances polaires hydrophiles ; exclusion/organisation de substances apolaires hydrophobes (ex. goutte d'huile). Eau + substance solubilisée = solution ; substance solubilisée = soluté."
+  - "L'eau forme des ions : H2O ⇌ OH– + H+ ; 2 H2O ⇌ OH– + H3O+ ; dans l'eau pure, [OH–] = [H3O+] = 10⁻⁷ moles/litre, pH = 7."
+  - "Le pH peut être modifié par des solutés : acides = tout soluté qui augmente la [H+] (ex. HCl → H+ + Cl–) ; bases = tout soluté qui diminue la [H+] (ex. NaOH → Na+ + OH–). Échelle de pH 0 (acide) à 14 (basique), [H+] de 10⁰ à 10⁻¹⁴, avec des exemples de solutions (acide chlorhydrique, suc gastrique, jus de citron, vinaigre, cola, tomates, café noir, urine, eau pure, eau de mer, bicarbonate de soude, ammoniaque ménager, eau de Javel, hydroxyde de sodium)."
+  - "Les tampons stabilisent le pH : libèrent des H+ si on ajoute une base, absorbent des H+ si on ajoute un acide ; exemple : acide carbonique (sang) H2CO3 ⇌ ion bicarbonate HCO3– + H+."
+  - "Troubles du pH sanguin : pH normal du sang ± 7,4 ; acidose = diminution du pH sanguin (= augmentation [H+]) ; peut apparaître suite à une insuffisance respiratoire, un dysfonctionnement des reins ou une intoxication ; à un pH < 7,1 : risque élevé d'arythmie cardiaque ; traitement d'urgence : injection d'une solution de bicarbonate."
+
+traps:
+  - ["« L'hydrogène est plus électronégatif que l'oxygène »", "C'est l'oxygène (δ–) qui attire les électrons ; les H portent δ+", "p.13b"]
+  - ["« Les liaisons hydrogène sont fortes et durables »", "Faibles et éphémères, mais très nombreuses", "p.14h"]
+  - ["Apolaire = hydrophile", "Polaire = hydrophile (solubilisé) ; apolaire = hydrophobe (exclu/organisé)", "p.14b"]
+  - ["Le soluté = l'eau", "Soluté = substance solubilisée ; solution = eau + substance solubilisée", "p.14b"]
+  - ["Dans l'eau pure, [H3O+] > [OH–]", "[OH–] = [H3O+] = 10⁻⁷ mol/L ; pH = 7", "p.15h"]
+  - ["Base = augmente la [H+]", "Base = diminue la [H+] ; acide = augmente la [H+]", "p.15b"]
+  - ["Un tampon agit dans un seul sens", "Il libère des H+ (ajout de base) et en absorbe (ajout d'acide)", "p.16h"]
+  - ["Acidose = augmentation du pH", "Diminution du pH = augmentation de [H+]", "p.16b"]
+  - ["Seuil d'arythmie à 7,4", "7,4 = pH normal ; risque élevé d'arythmie à pH < 7,1", "p.16b"]
+
+mnemonics:
+  - ["Les chiffres du pH", "« 7 l'eau pure · 7,4 le sang · 7,1 l'alarme »", "Eau pure pH 7 (10⁻⁷ mol/L) ; sang ± 7,4 ; < 7,1 = risque élevé d'arythmie"]
+  - ["Le sens pH / [H+]", "Une balançoire : quand les H+ montent, le pH descend", "Acidose : pH ↓ = [H+] ↑"]
+  - ["Hydrophile / hydrophobe", "philo = qui aime ; phobe = qui craint (l'eau)", "Polaire = hydrophile ; apolaire = hydrophobe"]
+
+quiz:
+  - q: "À propos de la structure de l'eau :"
+    props:
+      - ["La molécule d'eau est formée de deux atomes d'hydrogène liés à un atome d'oxygène.", true, "H2O (p.13b)."]
+      - ["L'atome d'oxygène a une plus forte électronégativité que l'hydrogène.", true, "Il attire les électrons vers lui."]
+      - ["La polarité correspond à une répartition équilibrée des charges partielles.", false, "Elle correspond à une répartition déséquilibrée."]
+      - ["Une liaison hydrogène se forme entre l'extrémité oxygène d'une molécule et l'extrémité hydrogène d'une autre.", true, "δ– ↔ δ+ (p.14h)."]
+      - ["Les liaisons hydrogène de l'eau sont fortes et durables.", false, "Faibles et éphémères, mais très nombreuses."]
+  - q: "À propos de l'eau comme solvant :"
+    props:
+      - ["L'eau est un solvant polaire.", true, "Titre de la propriété p.14b."]
+      - ["Les substances apolaires sont hydrophobes.", true, "Elles sont exclues/organisées (ex. goutte d'huile)."]
+      - ["Les sels sont solubilisés par l'eau.", true, "Les molécules d'eau s'agglutinent autour des ions."]
+      - ["Le soluté désigne l'eau d'une solution.", false, "Le soluté est la substance solubilisée."]
+      - ["Une solution = eau + substance solubilisée.", true, "Définition du cours."]
+  - q: "À propos des ions de l'eau et du pH :"
+    props:
+      - ["Dans l'eau pure, [OH–] = [H3O+] = 10⁻⁷ moles/litre.", true, "p.15h."]
+      - ["Le pH de l'eau pure vaut 7.", true, "p.15h."]
+      - ["Un acide est tout soluté qui diminue la [H+].", false, "Un acide augmente la [H+]."]
+      - ["NaOH est cité comme exemple de base.", true, "NaOH → Na+ + OH–."]
+      - ["HCl est cité comme exemple de base.", false, "HCl est l'exemple d'acide (→ H+ + Cl–)."]
+  - q: "À propos des tampons :"
+    props:
+      - ["Un tampon libère des H+ si on ajoute une base.", true, "p.16h."]
+      - ["Un tampon absorbe des H+ si on ajoute un acide.", true, "p.16h."]
+      - ["L'acide carbonique est l'exemple de tampon du sang cité par le cours.", true, "H2CO3 ⇌ HCO3– + H+."]
+      - ["L'ion bicarbonate s'écrit H2CO3.", false, "L'ion bicarbonate est HCO3– ; H2CO3 est l'acide carbonique."]
+      - ["Un tampon déstabilise le pH.", false, "Les tampons stabilisent le pH."]
+  - q: "À propos de l'acidose :"
+    props:
+      - ["Le pH normal du sang est d'environ 7,4.", true, "p.16b."]
+      - ["L'acidose est une diminution du pH sanguin.", true, "= augmentation de la [H+]."]
+      - ["L'acidose peut apparaître suite à une insuffisance respiratoire.", true, "Avec le dysfonctionnement des reins et l'intoxication."]
+      - ["À un pH < 7,1, le risque d'arythmie cardiaque est élevé.", true, "p.16b."]
+      - ["Le traitement d'urgence est l'injection d'une solution acide.", false, "C'est l'injection d'une solution de bicarbonate."]
+
+coverage:
+  - ["S1-1", "12b", "Sommaire du chapitre II (point 2 : l'eau)", 2]
+  - ["S1-1", "13h", "L'eau : essentielle, la vie a d'abord évolué dans l'eau, ± 2/3 de la masse", 2]
+  - ["S1-1", "13b", "Structure polaire, électronégativité de l'oxygène, polarité", 3]
+  - ["S1-1", "14h", "Formation de liaisons hydrogène (δ–/δ+), faibles, éphémères, très nombreuses", 4]
+  - ["S1-1", "14b", "Solvant polaire, hydrophiles/hydrophobes, goutte d'huile, solution, soluté, coquilles d'hydratation", 5]
+  - ["S1-1", "15h", "Ionisation de l'eau, [OH–] = [H3O+] = 10⁻⁷ mol/L, pH 7", 7]
+  - ["S1-1", "15b", "Acides et bases (HCl, NaOH), échelle de pH et exemples de solutions", 8]
+  - ["S1-1", "16h", "Tampons, acide carbonique / bicarbonate", 9]
+  - ["S1-1", "16b", "Troubles du pH sanguin : acidose, causes, pH < 7,1, bicarbonate", 11]
+  - ["S1-1", "17h", "Acidose (diapo répétée avec l'équilibre du bicarbonate)", 11]

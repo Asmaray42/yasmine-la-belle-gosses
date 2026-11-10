@@ -1,0 +1,565 @@
+title: "Vivant ou pas vivant ?"
+subtitle: "7 caractéristiques · 9 niveaux · 5 thèmes unificateurs"
+source: "S1-1 p.1 à 8"
+chapter: "Partie I — Chapitre I. La Biologie, la science de la vie"
+objectives:
+  - "Situer le cours WMEDE1152 : ses deux parties, son organisation et ses supports."
+  - "Expliquer le schéma physique / chimie / biologie (p.3)."
+  - "Réciter les 7 caractéristiques des êtres vivants avec les intitulés exacts du cours."
+  - "Ordonner les 9 niveaux de l'organisation hiérarchisée et placer les 7 disciplines."
+  - "Énoncer les 5 thèmes unificateurs avec leurs sous-points et leurs chiffres."
+  - "Distinguer domaine et règne, procaryotes et eucaryotes, et lire l'arbre du vivant."
+  - "Décrire Naegleria Floweri : nature, milieu, porte d'entrée, cible, conséquence."
+
+scenes:
+  - kind: hook
+    title: "Un feu, ça grandit… alors c'est vivant ?"
+    ref: "S1-1 p.4-8"
+    big: "VIVANT ?"
+    beats:
+      - say: "Un feu, ça grandit, ça consomme de l'oxygène, ça peut même se multiplier en projetant des étincelles. Alors, un feu, c'est vivant ?"
+      - say: "Non. Et à l'examen de janvier, “je sens que non”, ça ne suffit pas : il te faut les critères *exacts* du cours."
+        show: "Il te faut les critères *exacts* du cours"
+      - say: "Dans cet épisode, on verrouille la checklist du vivant : *sept* caractéristiques, *neuf* niveaux d'organisation, *cinq* thèmes unificateurs."
+        show: "*7* caractéristiques · *9* niveaux · *5* thèmes"
+      - say: "Et en bonus, une amibe qui s'attaque au cerveau. On y va."
+        show: "+ une amibe qui s'attaque au cerveau"
+
+  - kind: intro
+    title: "Le cours en une minute"
+    ref: "S1-1 p.1-2"
+    trap: "Pas de piège d'examen : organisation du cours."
+    beats:
+      - say: "Le cours WMEDE1152, “Biologie et Embryologie générale”, est donné par le professeur Charles De Smet. Il a deux parties."
+        show: "WMEDE1152 · Prof. *Charles De Smet*"
+      - say: "La première partie va *des molécules jusqu'aux cellules* : c'est le fonctionnement. La deuxième va *des cellules jusqu'à l'organisme* : c'est le développement embryonnaire."
+        show: "Partie I : des molécules jusqu'aux cellules (*fonctionnement*) · Partie II : des cellules jusqu'à l'organisme (*développement embryonnaire*)"
+      - say: "Les séances de travaux pratiques, avec rapports et interros, sont *obligatoires*. Une interrogation sur la matière vue a lieu vers le premier novembre : elle est *non cotée*. Les monitorats de révision se font sur inscription."
+        show: "! TP (rapports & interros) *obligatoires* · interro ~1er novembre *non cotée* · monitorats sur inscription"
+      - say: "Pour être informé, inscris-toi sur Moodle, dans “mon bureau, mes études”, et utilise les forums pour tes questions sur la matière ou l'organisation."
+        show: "Moodle (mon bureau / mes études) + forums"
+      - say: "Tes supports : tes notes de cours, les dias largement annotées, c'est-à-dire le syllabus CIB pour la partie 1 et les PDF sur Moodle, et les feuilles d'acquis. Les livres de référence : “Biologie” de Raven et “Embryologie humaine” de Larsen, chez De Boeck."
+        show: "Notes · dias annotées (syllabus CIB, PDF Moodle) · *feuilles d'acquis* · Raven & Larsen (De Boeck)"
+      - say: "Enfin, les EPI, les exercices personnels d'intégration : on part d'articles de type case report, puis on met en commun en auditoire."
+        show: "EPI : articles « case report », mise en commun en auditoire"
+
+  - kind: figure
+    title: "Matière inanimée vs système vivant"
+    ref: "S1-1 p.3"
+    fig: "S1-1:3b"
+    trap: "Formulations exactes : inanimé = assemblage « simple » d'éléments, atomes ; vivant = organisation plus complexe de la matière."
+    beats:
+      - say: "Premier schéma de la partie un. À gauche, les *matières inanimées* : le cours les décrit comme un assemblage “simple” d'éléments, d'atomes."
+        focus: [0.0, 0.25, 0.5, 0.95]
+        mark: "assemblage"
+        show: "Matières inanimées = assemblage *« simple »* d'éléments, atomes"
+      - say: "À droite, les *systèmes vivants* : une organisation *plus complexe* de la matière."
+        focus: [0.5, 0.25, 1.0, 0.95]
+        mark: "organisation"
+        show: "Systèmes vivants = organisation *plus complexe* de la matière"
+      - say: "Trois étiquettes : physique, à côté du soleil ; chimie, sous la flèche qui va de l'inanimé vers le vivant ; biologie, sur le cercle du vivant. Et du soleil descend une flèche : l'énergie."
+        focus: "all"
+        mark: ["physique", "chimie", "biologie", "énergie"]
+        show: "physique · chimie · biologie · *énergie*"
+      - say: "Retiens l'idée : le vivant, c'est de la matière organisée de façon plus complexe, et cette organisation a besoin d'énergie. On la retrouvera dans le thème quatre."
+
+  - kind: list
+    title: "Les 7 caractéristiques des êtres vivants"
+    ref: "S1-1 p.4"
+    trap: "Les adjectifs font partie de l'intitulé : organisation cellulaire, complexité ordonnée, adaptation évolutive."
+    beats:
+      - say: "Le chapitre un s'appelle “La Biologie, la science de la vie”, en trois points : les caractéristiques des êtres vivants, l'organisation hiérarchisée, et les thèmes unificateurs. On commence par les caractéristiques : le cours en donne *sept*. Retiens ces mots-là, exactement."
+      - say: "Un : organisation cellulaire."
+        show: "1. Organisation *cellulaire*"
+      - say: "Deux : complexité ordonnée."
+        show: "2. Complexité *ordonnée*"
+      - say: "Trois : sensibilité."
+        show: "3. Sensibilité"
+      - say: "Quatre : croissance, développement et reproduction."
+        show: "4. Croissance, développement *et* reproduction"
+      - say: "Cinq : utilisation d'énergie."
+        show: "5. Utilisation d'énergie"
+      - say: "Six : homéostasie."
+        show: "6. Homéostasie"
+      - say: "Sept : adaptation évolutive."
+        show: "7. Adaptation *évolutive*"
+
+  - kind: mnemo
+    title: "Le hamster qui coche les 7 cases"
+    ref: "S1-1 p.4"
+    phrase: "*O*n *C*herche *S*ept *C*ritères : *U*n *H*amster *A*daptable"
+    trap: "Le mnémo suit l'ordre du cours ; « Croissance, développement et reproduction » = une seule lettre, un seul critère."
+    beats:
+      - say: "Pour les retenir, une phrase et une image. La phrase : “On Cherche Sept Critères : Un Hamster Adaptable.” Et l'image : ton hamster, qui coche chaque case."
+      - say: "O : il est fait de cellules, c'est l'organisation cellulaire."
+        show: "*O* — Organisation cellulaire : il est fait de cellules"
+      - say: "C : son corps est structuré, rangé, c'est la complexité ordonnée."
+        show: "*C* — Complexité ordonnée : un corps structuré, rangé"
+      - say: "S : il sursaute quand tu tapes sur la cage, c'est la sensibilité."
+        show: "*S* — Sensibilité : il sursaute au bruit"
+      - say: "C : il grandit, il se développe et il fait des petits, c'est croissance, développement et reproduction, un seul critère."
+        show: "*C* — Croissance, développement et reproduction : il grandit et fait des petits"
+      - say: "U : il mange ses graines pour fonctionner, c'est l'utilisation d'énergie."
+        show: "*U* — Utilisation d'énergie : il mange ses graines"
+      - say: "H : son milieu intérieur reste stable, c'est l'homéostasie."
+        show: "*H* — Homéostasie : un milieu intérieur stable"
+      - say: "A : au fil des générations, son espèce évolue, c'est l'adaptation évolutive."
+        show: "*A* — Adaptation évolutive : son espèce évolue au fil des générations"
+
+  - kind: trap
+    title: "Le piège du comptage"
+    ref: "S1-1 p.4"
+    trap: "7 caractéristiques ; « croissance, développement et reproduction » n'en forme qu'une ; complexité ordonnée, adaptation évolutive."
+    beats:
+      - say: "Attention, piège classique."
+      - say: "“Le cours liste neuf caractéristiques” : faux."
+        show: "✗ « Le cours liste 9 caractéristiques »"
+      - say: "Il y en a sept, et “croissance, développement et reproduction” n'en forme qu'*une*."
+        show: "✓ *7* caractéristiques : croissance, développement et reproduction = *1 seule*"
+      - say: "Et surveille les adjectifs : on dit complexité *ordonnée*, adaptation *évolutive*. Une proposition qui parle de complexité aléatoire ne reprend pas le cours."
+        show: "✓ Complexité *ORDONNÉE* · adaptation *ÉVOLUTIVE*"
+
+  - kind: quiz
+    title: "Quiz express n°1"
+    ref: "S1-1 p.4"
+    question: "Selon le cours, quelle proposition est exacte ?"
+    options:
+      - "Le cours liste neuf caractéristiques des êtres vivants."
+      - "« Croissance, développement et reproduction » forment une seule caractéristique."
+      - "La « complexité aléatoire » fait partie des caractéristiques."
+    answer: [1]
+    beats:
+      - say: "À toi. Selon le cours, quelle proposition est exacte ? Réponds avant la fin du compte à rebours."
+        countdown: 4
+      - say: "Réponse B. Croissance, développement et reproduction, c'est une seule caractéristique sur sept. A est faux, il y en a sept. C est faux, c'est complexité ordonnée."
+        reveal: true
+
+  - kind: figure
+    title: "L'organisation hiérarchisée : 9 niveaux"
+    ref: "S1-1 p.5"
+    fig: "S1-1:5h"
+    trap: "Ordre : l'organite est entre la macromolécule et la cellule ; le système d'organes est entre l'organe et l'organisme."
+    beats:
+      - say: "Deuxième point du chapitre : l'organisation hiérarchisée des êtres vivants. Le schéma du cours aligne neuf niveaux, du plus petit au plus grand."
+        focus: "all"
+      - say: "Les atomes. La molécule. La macromolécule, ici une double hélice d'ADN."
+        focus: [0.02, 0.26, 0.27, 0.77]
+        show: "Atomes → Molécule → Macromolécule"
+      - say: "L'organite, une mitochondrie. La cellule, une cellule nerveuse. Ces cinq premiers niveaux forment le *niveau cellulaire*."
+        focus: [0.23, 0.26, 0.53, 0.77]
+        show: "→ Organite → Cellule = *niveau cellulaire*"
+      - say: "Puis le tissu, ici du tissu nerveux, et l'organe, un cerveau."
+        focus: [0.5, 0.26, 0.76, 0.77]
+        show: "→ Tissu → Organe"
+      - say: "Le système d'organes, le système nerveux d'une oie, et l'organisme, l'oie entière : c'est le *niveau de l'organisme*. Le schéma porte aussi des barres d'échelle : 0,2 micromètre, 0,5 micromètre et 100 micromètres."
+        focus: [0.72, 0.26, 0.98, 0.77]
+        show: "→ Système d'organes → Organisme = *niveau de l'organisme*"
+
+  - kind: mnemo
+    title: "Les 9 niveaux, du plus petit au plus grand"
+    ref: "S1-1 p.5"
+    phrase: "*A*u *M*arché, *M*amie *O*ffre *C*es *T*omates *O*u *S*es *O*ignons"
+    trap: "Les deux M = molécule puis macromolécule ; les trois O de la fin = organe, système d'organes, organisme (sans oublier l'organite en 4e position)."
+    beats:
+      - say: "Pour l'ordre, imagine un zoom arrière, de l'atome jusqu'à l'oie, et une phrase : “Au Marché, Mamie Offre Ces Tomates Ou Ses Oignons.”"
+      - say: "A, atomes. M, molécule. M, macromolécule : d'abord la petite, puis la grande."
+        show: "*A*tomes · *M*olécule · *M*acromolécule"
+      - say: "O, organite. C, cellule."
+        show: "*O*rganite · *C*ellule"
+      - say: "T, tissu. O, organe. S, système d'organes. O, organisme."
+        show: "*T*issu · *O*rgane · *S*ystème d'organes · *O*rganisme"
+
+  - kind: figure
+    title: "Quelle discipline pour quel niveau ?"
+    ref: "S1-1 p.5"
+    fig: "S1-1:5h"
+    trap: "Cytologie → organite et cellule ; histologie → tissu ; biochimie → macromolécule ; chimie organique → atomes et molécule."
+    beats:
+      - say: "Sous ce schéma, le cours place les disciplines. La chimie organique, sous les atomes et la molécule. La biochimie, sous la macromolécule."
+        focus: [0.0, 0.62, 0.55, 0.95]
+        mark: ["Chimie", "Biochimie"]
+      - say: "La cytologie, sous l'organite et la cellule. L'histologie, sous le tissu. L'anatomie, sous l'organe et le système d'organes."
+        focus: [0.25, 0.62, 0.85, 0.95]
+        mark: ["Cytologie", "Histologie", "Anatomie"]
+      - say: "Et deux flèches qui couvrent plusieurs niveaux : la *biologie moléculaire*, de la macromolécule jusqu'à la cellule, et la *physiologie*, du tissu jusqu'à l'organisme."
+        focus: [0.1, 0.7, 0.95, 0.95]
+        mark: ["Biologie moléculaire", "Physiologie"]
+
+  - kind: table
+    title: "Disciplines et niveaux"
+    ref: "S1-1 p.5"
+    header: ["Discipline", "Niveau(x) sur le schéma"]
+    beats:
+      - say: "On récapitule."
+      - say: "Chimie organique : atomes et molécule."
+        show: "Chimie organique | atomes, molécule"
+      - say: "Biochimie : macromolécule."
+        show: "Biochimie | macromolécule"
+      - say: "Cytologie : organite et cellule."
+        show: "*Cytologie* | organite, *cellule*"
+      - say: "Histologie : tissu."
+        show: "*Histologie* | *tissu*"
+      - say: "Anatomie : organe et système d'organes."
+        show: "Anatomie | organe, système d'organes"
+      - say: "Biologie moléculaire : de la macromolécule à la cellule."
+        show: "Biologie moléculaire | macromolécule → cellule"
+      - say: "Physiologie : du tissu à l'organisme."
+        show: "Physiologie | tissu → organisme"
+
+  - kind: trap
+    title: "Cyto ou histo ?"
+    ref: "S1-1 p.5"
+    trap: "Ne jamais inverser cytologie (cellule) et histologie (tissu)."
+    beats:
+      - say: "Le piège classique : inverser cytologie et histologie."
+      - say: "“L'histologie se place au niveau de la cellule” : faux."
+        show: "✗ « L'histologie étudie le niveau de la cellule »"
+      - say: "La cytologie, c'est la cellule. L'histologie, c'est le tissu. Astuce : cyto, comme cytoplasme, c'est dans la cellule."
+        show: "✓ *CYTO*logie = *cellule* · *HISTO*logie = *tissu*"
+      - say: "Et la biochimie est sous la macromolécule, pas sous les atomes : sous les atomes, c'est la chimie organique."
+        show: "✓ Atomes → *chimie organique* · macromolécule → *biochimie*"
+
+  - kind: quiz
+    title: "Quiz express n°2"
+    ref: "S1-1 p.5"
+    question: "Dans l'organisation hiérarchisée, quel niveau se trouve entre la macromolécule et la cellule ?"
+    options:
+      - "Le tissu"
+      - "L'organite"
+      - "La molécule"
+      - "Le système d'organes"
+    answer: [1]
+    beats:
+      - say: "Question rapide : quel niveau se trouve entre la macromolécule et la cellule ?"
+        countdown: 4
+      - say: "L'organite. Atomes, molécule, macromolécule, *organite*, cellule : Au Marché, Mamie *Offre*…"
+        reveal: true
+
+  - kind: figure
+    title: "Thème 1 : la théorie cellulaire"
+    ref: "S1-1 p.5"
+    fig: "S1-1:5b"
+    trap: "« Une ou plusieurs » cellules ; 1 / 959 / 10.000 à 100.000 milliards ; pas de génération spontanée."
+    beats:
+      - say: "Troisième point du chapitre : les thèmes unificateurs de la biologie. Il y en a cinq. Thème un : la théorie cellulaire, en deux énoncés."
+        focus: "all"
+      - say: "Premier énoncé : tous les êtres vivants sont constitués d'*une ou plusieurs* cellules."
+        focus: [0.05, 0.25, 0.95, 0.58]
+        mark: "Tous les êtres vivants"
+        show: "Tous les êtres vivants sont constitués d'*une ou plusieurs* cellules"
+      - say: "Les chiffres du cours, en nombre de cellules par organisme : une bactérie, *une* seule cellule ; le ver C. elegans, *959* cellules ; l'humain, entre *10 000 et 100 000 milliards*, illustré par une coupe de peau."
+        focus: [0.05, 0.3, 0.95, 0.58]
+        mark: ["959", "100.000"]
+        show: "# Bactérie : *1* · C. elegans : *959* · Humain : *10.000 – 100.000 milliards*"
+      - say: "Deuxième énoncé : toutes les cellules proviennent d'une cellule *préexistante*. Il n'y a *pas de génération spontanée*."
+        focus: [0.05, 0.6, 0.95, 0.93]
+        mark: "préexistante"
+        show: "Toutes les cellules proviennent d'une cellule *préexistante* (pas de génération spontanée)"
+      - say: "L'illustration : les premiers stades du développement d'un embryon humain. Une cellule, deux, quatre, huit, puis la morula, puis le blastocyste. Chaque cellule naît d'une cellule qui existait déjà."
+        focus: [0.15, 0.68, 0.85, 0.92]
+        mark: ["1-cell", "morula", "blastocyste"]
+
+  - kind: trap
+    title: "Les chiffres de la théorie cellulaire"
+    ref: "S1-1 p.5"
+    trap: "Milliards (pas millions) ; 959 exactement ; aucune génération spontanée."
+    beats:
+      - say: "Trois pièges de chiffres et de mots."
+      - say: "“Un humain compte 10 000 à 100 000 millions de cellules” : faux."
+        show: "✗ « 10.000 à 100.000 *millions* de cellules »"
+      - say: "Ce sont des *milliards* : entre 10 000 et 100 000 milliards. Et pour C. elegans, retiens le chiffre exact : *959*."
+        show: "✓ 10.000 à 100.000 *milliards* · C. elegans : *959*"
+      - say: "Enfin, toute proposition qui dit qu'une cellule peut apparaître spontanément contredit le cours : pas de génération spontanée."
+        show: "✓ Toute cellule vient d'une cellule *préexistante*"
+      - say: "Petit complément pour les puissances de dix : 10 000 à 100 000 milliards, c'est 10 puissance 13 à 10 puissance 14."
+        show: "[C] 10.000 à 100.000 milliards = 10¹³ à 10¹⁴"
+
+  - kind: figure
+    title: "Thème 2 : la base moléculaire de l'hérédité"
+    ref: "S1-1 p.6"
+    fig: "S1-1:6h"
+    trap: "ADN = 2 chaînes, 4 nucléotides A, C, G, T ; réplication AVANT chaque division."
+    beats:
+      - say: "Thème deux : la base moléculaire de l'hérédité. Le “plan” de la cellule est inscrit dans une longue molécule, l'ADN."
+        focus: [0.0, 0.15, 1.0, 0.6]
+        mark: "plan"
+        show: "Le « plan » de la cellule est inscrit dans une longue molécule : l'*ADN*"
+      - say: "L'acide désoxyribonucléique : *deux* longues chaînes de nucléotides, *quatre* nucléotides, A, C, G et T, et la *séquence* des nucléotides, c'est l'information."
+        focus: [0.2, 0.25, 1.0, 0.6]
+        mark: ["2 longues", "4 nucléotides", "séquence des nucléotides"]
+        show: "*2* longues chaînes · *4* nucléotides (A, C, G, T) · séquence = *information*"
+      - say: "Deuxième message : la continuité de la vie, l'hérédité, dépend de la transmission de l'ADN. Par la réplication de l'ADN *avant* chaque division cellulaire, et par la transmission d'une génération à l'autre."
+        focus: [0.0, 0.6, 1.0, 0.95]
+        mark: ["avant chaque division", "génération"]
+        show: "Réplication de l'ADN *avant* chaque division · transmission d'une génération à l'autre"
+
+  - kind: figure
+    title: "Thème 3 : les cellules traitent l'information"
+    ref: "S1-1 p.6"
+    fig: "S1-1:6b"
+    trap: "Deux sources d'information (ADN et environnement) ; trois domaines où c'est essentiel."
+    beats:
+      - say: "Thème trois : les cellules sont des systèmes de traitement de l'information, dans deux directions."
+        focus: "all"
+      - say: "Vers l'intérieur : elles synthétisent les composants cellulaires selon l'information stockée dans l'*ADN*."
+        mark: "Synthétisent"
+        show: "Synthèse des composants selon l'information de l'*ADN*"
+      - say: "Vers l'extérieur : elles traitent l'information venant de leur *environnement*."
+        mark: "environnement"
+        show: "Traitement de l'information de l'*environnement*"
+      - say: "C'est essentiel pour trois choses : l'organisation tissulaire, l'intégration de stimulus, avec sensibilité et mouvement, et l'homéostasie. Tu reconnais deux caractéristiques du vivant : sensibilité et homéostasie."
+        mark: ["organisation tissulaire", "intégration de stimulus", "homéostasie"]
+        show: "Essentiel pour : organisation tissulaire · intégration de stimulus (sensibilité, mouvement…) · *homéostasie*"
+
+  - kind: figure
+    title: "Thème 4 : le vivant, hors équilibre"
+    ref: "S1-1 p.7"
+    fig: "S1-1:7h"
+    trap: "Non-équilibre ; apport CONSTANT d'énergie ; à tous les niveaux jusqu'à la population."
+    beats:
+      - say: "Thème quatre : les systèmes vivants sont dans un état de *non-équilibre*. Regarde le schéma : à gauche, à l'équilibre, des billes de trois couleurs éparpillées au hasard."
+        focus: [0.0, 0.15, 0.6, 0.75]
+        mark: "équilibre"
+      - say: "Avec un apport d'énergie, à droite, les mêmes billes s'assemblent en chaînes, en anneaux, en structures organisées : c'est le non-équilibre."
+        focus: [0.35, 0.15, 1.0, 0.75]
+        mark: ["énergie", "non-équilibre"]
+        show: "Énergie → billes organisées = *non-équilibre*"
+      - say: "Deux points à retenir. Un : c'est vrai à *tous les niveaux*, molécules, cellules, organisme, population. Deux : cela nécessite un apport *constant* d'énergie."
+        focus: [0.0, 0.6, 1.0, 1.0]
+        mark: ["tous les niveaux", "constant"]
+        show: "À tous les niveaux : molécules, cellules, organisme, *population* · apport *constant* d'énergie"
+
+  - kind: trap
+    title: "ADN, réplication, énergie"
+    ref: "S1-1 p.6-7"
+    trap: "A, C, G, T ; avant la division ; non-équilibre ; apport constant."
+    beats:
+      - say: "Trois pièges sur les thèmes deux à quatre."
+      - say: "“Les quatre nucléotides de l'ADN sont A, C, G et U” : faux. C'est A, C, G et *T*."
+        show: "✗ ADN = A, C, G, U  →  ✓ ADN = A, C, G, *T*"
+      - say: "“La réplication a lieu après la division” : faux. *Avant* chaque division : il faut copier le plan avant de le partager."
+        show: "✓ Réplication *AVANT* chaque division cellulaire"
+      - say: "“Le vivant est à l'équilibre, avec un apport ponctuel d'énergie” : faux. *Non*-équilibre, et apport *constant*."
+        show: "✓ *NON*-équilibre · apport *CONSTANT* d'énergie"
+
+  - kind: figure
+    title: "Thème 5 : domaines et règnes"
+    ref: "S1-1 p.7"
+    fig: "S1-1:7b"
+    trap: "Procaryotes = D1 archées + D2 bactéries ; protistes = règne R4 des eucaryotes ; domaine ≠ règne."
+    beats:
+      - say: "Thème cinq : la diversité de la vie naît de changements évolutifs. Le cours classe le vivant en *domaines*, notés D, et en *règnes*, notés R."
+        focus: "all"
+        mark: ["domaines", "règnes"]
+      - say: "Trois domaines. D1 : les archées. D2 : les bactéries. Et le cours le précise : D1 et D2, ce sont les *procaryotes*."
+        focus: [0.03, 0.25, 0.5, 0.82]
+        mark: "D1 et D2"
+        show: "D1 *Archées* + D2 *Bactéries* = *procaryotes*"
+      - say: "D3 : les *eucaryotes*, avec quatre règnes : R1, les plantes ; R2, les champignons ; R3, les animaux ; R4, les protistes."
+        focus: [0.48, 0.25, 0.95, 0.9]
+        show: "D3 *Eucaryotes* : R1 Plantes · R2 Champignons · R3 Animaux · R4 *Protistes*"
+
+  - kind: mnemo
+    title: "Domaines et règnes sans paniquer"
+    ref: "S1-1 p.7"
+    phrase: "Domaines : *A* · *B* · *E* — Règnes : *P*our *C*omprendre *A*vant de *P*aniquer"
+    trap: "A et B (archées, bactéries) = procaryotes ; E = eucaryotes ; R1 à R4 = plantes, champignons, animaux, protistes."
+    beats:
+      - say: "Les domaines, c'est l'alphabet : A, B, E. Archées, Bactéries, Eucaryotes. Et les deux premières lettres, A et B, sont les procaryotes."
+        show: "D1 *A*rchées · D2 *B*actéries → procaryotes · D3 *E*ucaryotes"
+      - say: "Les règnes, dans l'ordre : “Pour Comprendre Avant de Paniquer”. Plantes, Champignons, Animaux, Protistes."
+        show: "R1 *P*lantes · R2 *C*hampignons · R3 *A*nimaux · R4 *P*rotistes"
+      - say: "Et une image pour les relier : un champignon pousse sur une plante, un animal le mange, puis va boire dans une flaque pleine de protistes."
+        show: "Plante → champignon → animal → flaque de *protistes*"
+
+  - kind: figure
+    title: "L'arbre du vivant et l'ancêtre commun"
+    ref: "S1-1 p.8"
+    fig: "S1-1:8b"
+    trap: "Ancêtre commun : ~3,8 milliards d'années, organisme unicellulaire ; conservation de composants biologiques essentiels."
+    beats:
+      - say: "L'arbre du cours relie bactéries, archées, protistes, plantes, aussi appelées Viridiplantae, champignons et animaux à un *ancêtre commun*."
+        focus: [0.0, 0.15, 0.75, 0.9]
+        mark: "Ancêtre commun"
+      - say: "Sur cet arbre, les bactéries se séparent en premier ; puis les archées ; champignons et animaux partagent un embranchement, et protistes et plantes un autre."
+        focus: [0.0, 0.15, 0.75, 0.75]
+      - say: "Cet ancêtre commun vivait il y a environ *3,8 milliards d'années*, et c'était un organisme *unicellulaire*."
+        focus: [0.1, 0.6, 0.9, 1.0]
+        mark: ["milliards", "unicellulaire"]
+        show: "Ancêtre commun : ~*3,8 milliards* d'années · organisme *unicellulaire*"
+      - say: "Et la flèche à droite résume l'idée : conservation de composants biologiques essentiels, de l'ancêtre jusqu'à toi."
+        focus: [0.5, 0.15, 1.0, 0.85]
+        mark: "conservation"
+        show: "Conservation de composants biologiques *essentiels*"
+
+  - kind: figure
+    title: "Des protistes à l'origine de pathologies"
+    ref: "S1-1 p.8"
+    fig: "S1-1:8h"
+    blur: [[0.02, 0.2, 0.53, 0.97]]
+    trap: "Eaux douces ET chaudes ; muqueuses nasales ; cerveau ; méningo-encéphalite."
+    beats:
+      - say: "Pour que les protistes ne restent pas abstraits, le cours donne un exemple de protiste à l'origine de pathologies : Naegleria Floweri, une *amibe flagellée*."
+        focus: [0.5, 0.18, 1.0, 0.58]
+        mark: "amibe flagellée"
+        show: "*Naegleria Floweri* (amibe flagellée)"
+      - say: "Elle prolifère dans les eaux *douces et chaudes* : rivières, lacs, piscines."
+        focus: [0.5, 0.18, 1.0, 0.58]
+        mark: "chaudes"
+        show: "Prolifère dans les eaux *douces et chaudes* (rivières, lacs, piscines)"
+      - say: "Elle pénètre par les *muqueuses nasales*, et elle s'attaque au *cerveau*."
+        focus: [0.5, 0.18, 1.0, 0.58]
+        mark: ["muqueuses nasales", "cerveau"]
+        show: "Pénètre par les *muqueuses nasales* · s'attaque au *cerveau*"
+      - say: "Résultat : une méningo-encéphalite, avec céphalées, coma et décès. La diapo l'illustre par un cas rapporté dans la presse, après une baignade en rivière."
+        focus: [0.5, 0.3, 1.0, 0.95]
+        mark: "méningo-encéphalite"
+        show: "⇒ *méningo-encéphalite* (céphalées, coma, décès)"
+
+  - kind: trap
+    title: "Procaryote ou eucaryote ?"
+    ref: "S1-1 p.7-8"
+    trap: "Archées = procaryotes ; protistes = eucaryotes ; ~3,8 milliards d'années ; Naegleria = protiste, eaux douces et chaudes, voie nasale."
+    beats:
+      - say: "Les derniers pièges de l'épisode."
+      - say: "“Les archées sont des eucaryotes” : faux. Archées et bactéries sont les procaryotes."
+        show: "✗ Archées = eucaryotes  →  ✓ Archées = *procaryotes*"
+      - say: "“Les protistes sont des procaryotes” : faux. Les protistes sont le règne R4 du domaine des eucaryotes."
+        show: "✓ Protistes = R4 du domaine D3 = *eucaryotes*"
+      - say: "Domaine et règne ne sont pas synonymes : les règnes sont des subdivisions du domaine des eucaryotes. Et l'ancêtre commun, c'est 3,8 *milliards* d'années, pas millions."
+        show: "✓ Domaine ≠ règne · ~3,8 *milliards* d'années"
+      - say: "Et Naegleria : un protiste, dans l'eau douce et chaude, qui entre par le nez et atteint le cerveau."
+        show: "✓ Naegleria : protiste · eau *douce et chaude* · voie *nasale* · *cerveau*"
+
+  - kind: quiz
+    title: "Quiz express n°3"
+    ref: "S1-1 p.7-8"
+    question: "Laquelle de ces propositions est exacte ?"
+    options:
+      - "Les protistes appartiennent au domaine des procaryotes."
+      - "Naegleria Floweri pénètre par les muqueuses nasales."
+      - "L'ancêtre commun était pluricellulaire."
+      - "Les archées sont des eucaryotes."
+    answer: [1]
+    beats:
+      - say: "Dernier quiz express. Laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B : Naegleria pénètre par les muqueuses nasales. Les protistes sont des eucaryotes, l'ancêtre commun était unicellulaire, et les archées sont des procaryotes."
+        reveal: true
+
+  - kind: recap
+    title: "Récap : 7 · 9 · 5"
+    ref: "S1-1 p.1-8"
+    beats:
+      - say: "Récap express."
+      - say: "Sept caractéristiques : organisation cellulaire, complexité ordonnée, sensibilité, croissance-développement-reproduction, utilisation d'énergie, homéostasie, adaptation évolutive."
+        show: "*7* : organisation cellulaire · complexité ordonnée · sensibilité · croissance, développement et reproduction · utilisation d'énergie · homéostasie · adaptation évolutive"
+      - say: "Neuf niveaux, des atomes à l'organisme, avec la cytologie pour la cellule et l'histologie pour le tissu."
+        show: "*9* : atomes → … → organisme · cytologie = cellule · histologie = tissu"
+      - say: "Cinq thèmes : la théorie cellulaire ; la base moléculaire de l'hérédité ; le traitement de l'information ; le non-équilibre ; et la diversité née de l'évolution, avec trois domaines, quatre règnes et un ancêtre commun unicellulaire d'il y a 3,8 milliards d'années."
+        show: "*5* : théorie cellulaire · hérédité (ADN) · traitement de l'information · non-équilibre · diversité évolutive"
+      - say: "Ce soir, sans la vidéo, essaie de réécrire ces trois listes. Et demain, recommence : c'est ça qui fixe la mémoire."
+        show: "Ce soir : réécris les 3 listes de mémoire · demain : recommence"
+
+  - kind: outro
+    title: "Épisode 2 : les atomes du vivant"
+    ref: "S1-1 p.10"
+    big: "96,3 %"
+    beats:
+      - say: "Dans le prochain épisode, on descend tout en bas de ta pyramide : les atomes. Quatre éléments seulement font 96,3 % du poids de ton corps. Lesquels ? Réponse dans l'épisode deux."
+        show: "Quatre atomes = *96,3 %* du poids de ton corps. Lesquels ?"
+
+recap:
+  - "Le cours WMEDE1152 (Prof. Charles De Smet) : Partie I, des molécules jusqu'aux cellules (fonctionnement) ; Partie II, des cellules jusqu'à l'organisme (développement embryonnaire). TP (rapports et interros) obligatoires ; interrogation (~1er novembre) non cotée ; monitorats sur inscription ; Moodle (mon bureau / mes études) et forums ; supports : notes, dias annotées (syllabus CIB, PDF Moodle), feuilles d'acquis ; Raven « Biologie », Larsen « Embryologie humaine » (De Boeck) ; EPI : articles « case report », mise en commun en auditoire."
+  - "Matières inanimées = assemblage « simple » d'éléments, atomes (chimie) ; systèmes vivants = organisation plus complexe de la matière (biologie) ; énergie apportée par le soleil (physique)."
+  - "7 caractéristiques des êtres vivants : organisation cellulaire ; complexité ordonnée ; sensibilité ; croissance, développement et reproduction ; utilisation d'énergie ; homéostasie ; adaptation évolutive."
+  - "Organisation hiérarchisée : atomes → molécule → macromolécule → organite → cellule (niveau cellulaire) → tissu → organe → système d'organes → organisme (niveau de l'organisme). Échelles du schéma : 0,2 µm ; 0,5 µm ; 100 µm."
+  - "Disciplines : chimie organique (atomes, molécule) ; biochimie (macromolécule) ; cytologie (organite, cellule) ; histologie (tissu) ; anatomie (organe, système d'organes) ; biologie moléculaire (macromolécule → cellule) ; physiologie (tissu → organisme)."
+  - "Thème 1, la théorie cellulaire : tous les êtres vivants sont constitués d'une ou plusieurs cellules (bactéries : 1 ; ver C. elegans : 959 ; humain : 10.000 à 100.000 milliards) ; toutes les cellules proviennent d'une cellule préexistante (pas de génération spontanée) ; illustration : 1-cell, 2-cell, 4-cell, 8-cell, morula, blastocyste."
+  - "Thème 2, la base moléculaire de l'hérédité : le « plan » de la cellule est inscrit dans l'ADN (acide désoxyribonucléique : 2 longues chaînes de nucléotides ; 4 nucléotides A, C, G, T ; séquence des nucléotides = information) ; la continuité de la vie (hérédité) dépend de la transmission de l'ADN (réplication avant chaque division cellulaire ; transmission d'une génération à l'autre)."
+  - "Thème 3, les cellules sont des systèmes de traitement de l'information : synthèse des composants selon l'information de l'ADN ; traitement de l'information de l'environnement, essentiel pour l'organisation tissulaire, l'intégration de stimulus (sensibilité, mouvement…) et l'homéostasie."
+  - "Thème 4, les systèmes vivants sont dans un état de non-équilibre : à tous les niveaux (molécules, cellules, organisme, population) ; nécessite un apport constant d'énergie."
+  - "Thème 5, la diversité de la vie naît de changements évolutifs : D1 archées, D2 bactéries (D1 et D2 = procaryotes), D3 eucaryotes (R1 plantes, R2 champignons, R3 animaux, R4 protistes) ; arbre : bactéries, archées, protistes, plantes (Viridiplantae), champignons, animaux ; ancêtre commun ~3,8 milliards d'années, organisme unicellulaire ; conservation de composants biologiques essentiels."
+  - "Naegleria Floweri (amibe flagellée) : prolifère dans les eaux douces et chaudes (rivières, lacs, piscines), pénètre par les muqueuses nasales, s'attaque au cerveau ⇒ méningo-encéphalite (céphalées, coma, décès)."
+
+traps:
+  - ["« Le cours liste 9 caractéristiques »", "7 caractéristiques ; « croissance, développement et reproduction » = une seule", "p.4b"]
+  - ["« Complexité aléatoire », « adaptation individuelle »", "Complexité ordonnée, adaptation évolutive", "p.4b"]
+  - ["Inverser cytologie et histologie", "Cytologie → organite, cellule ; histologie → tissu", "p.5h"]
+  - ["Biochimie sous les atomes", "Chimie organique → atomes, molécule ; biochimie → macromolécule", "p.5h"]
+  - ["Ordre des niveaux", "Organite entre macromolécule et cellule ; système d'organes entre organe et organisme", "p.5h"]
+  - ["« 10.000 à 100.000 millions de cellules »", "Milliards", "p.5b"]
+  - ["C. elegans « ~1000 cellules »", "959", "p.5b"]
+  - ["« Une cellule peut naître spontanément »", "Pas de génération spontanée : toute cellule vient d'une cellule préexistante", "p.5b"]
+  - ["« L'ADN contient A, C, G, U »", "ADN = A, C, G, T", "p.6h"]
+  - ["« Réplication après la division »", "Réplication avant chaque division cellulaire", "p.6h"]
+  - ["Le traitement de l'information ne concernerait que l'ADN", "Deux sources : l'ADN et l'environnement", "p.6b"]
+  - ["« Le vivant est à l'équilibre » / « apport ponctuel »", "Non-équilibre, apport constant, à tous les niveaux jusqu'à la population", "p.7h"]
+  - ["« Les archées sont des eucaryotes »", "Archées (D1) + bactéries (D2) = procaryotes", "p.7b"]
+  - ["« Les protistes sont des procaryotes »", "Protistes = R4 du domaine D3 = eucaryotes", "p.7b"]
+  - ["Domaine = règne", "Les règnes subdivisent le domaine des eucaryotes", "p.7b"]
+  - ["« 3,8 millions d'années » / « pluricellulaire »", "~3,8 milliards d'années, unicellulaire", "p.8b"]
+  - ["Naegleria : eau salée, eau froide, ingestion, bactérie", "Eaux douces et chaudes ; muqueuses nasales ; cerveau ; protiste (eucaryote)", "p.8h"]
+
+mnemonics:
+  - ["Les 7 caractéristiques", "« On Cherche Sept Critères : Un Hamster Adaptable » + l'image du hamster qui coche chaque case (cellules, corps rangé, sursaute, grandit et fait des petits, mange, milieu stable, espèce qui évolue)", "Organisation cellulaire · Complexité ordonnée · Sensibilité · Croissance, développement et reproduction · Utilisation d'énergie · Homéostasie · Adaptation évolutive"]
+  - ["Les 9 niveaux", "« Au Marché, Mamie Offre Ces Tomates Ou Ses Oignons » + zoom arrière de l'atome jusqu'à l'oie", "Atomes · Molécule · Macromolécule · Organite · Cellule · Tissu · Organe · Système d'organes · Organisme"]
+  - ["Cytologie vs histologie", "« Cyto » comme cytoplasme = dans la cellule", "Cytologie → cellule (et organite) ; histologie → tissu"]
+  - ["Les 3 domaines", "A-B-E comme l'alphabet ; A et B = procaryotes", "D1 Archées · D2 Bactéries · D3 Eucaryotes"]
+  - ["Les 4 règnes", "« Pour Comprendre Avant de Paniquer » + plante → champignon → animal → flaque de protistes", "R1 Plantes · R2 Champignons · R3 Animaux · R4 Protistes"]
+  - ["Naegleria Floweri", "Piscine chaude → nez → cerveau", "Eaux douces et chaudes → muqueuses nasales → cerveau (méningo-encéphalite)"]
+
+quiz:
+  - q: "Selon le cours, parmi les propositions suivantes, laquelle ou lesquelles sont exactes ?"
+    props:
+      - ["Le cours énumère sept caractéristiques des êtres vivants.", true, "La diapo p.4b liste 7 puces."]
+      - ["Croissance, développement et reproduction y constituent trois caractéristiques distinctes.", false, "C'est une seule puce, donc une seule caractéristique."]
+      - ["L'homéostasie fait partie des caractéristiques des êtres vivants.", true, "6e caractéristique."]
+      - ["La « complexité aléatoire » fait partie des caractéristiques des êtres vivants.", false, "Le cours dit complexité ordonnée."]
+      - ["L'adaptation évolutive fait partie des caractéristiques des êtres vivants.", true, "7e caractéristique."]
+  - q: "D'après le schéma de l'organisation hiérarchisée des êtres vivants (p.5) :"
+    props:
+      - ["L'organite se situe entre la macromolécule et la cellule.", true, "… macromolécule → organite → cellule …"]
+      - ["La cytologie est la discipline placée sous le niveau du tissu.", false, "Sous le tissu, c'est l'histologie ; la cytologie est sous l'organite et la cellule."]
+      - ["Le système d'organes se situe entre l'organe et l'organisme.", true, "… organe → système d'organes → organisme."]
+      - ["La flèche « physiologie » s'étend du niveau du tissu jusqu'à celui de l'organisme.", true, "C'est l'étendue de la flèche sur le schéma."]
+      - ["La biochimie est la discipline placée sous le niveau des atomes.", false, "Sous les atomes et la molécule : chimie organique ; la biochimie est sous la macromolécule."]
+  - q: "À propos de la théorie cellulaire présentée p.5 :"
+    props:
+      - ["Un organisme humain compte entre 10.000 et 100.000 milliards de cellules.", true, "Chiffre du tableau de la p.5b (milliards)."]
+      - ["Le ver C. elegans compte 959 cellules.", true, "Chiffre exact du tableau."]
+      - ["Elle admet une génération spontanée de cellules dans certaines conditions.", false, "Le cours précise : pas de génération spontanée."]
+      - ["Les stades 1-cell, 2-cell, 4-cell, 8-cell, morula et blastocyste illustrent l'énoncé « toutes les cellules proviennent d'une cellule préexistante ».", true, "C'est l'illustration du 2e énoncé."]
+      - ["Une bactérie est un organisme constitué de plusieurs cellules.", false, "Le tableau donne 1 cellule par organisme pour les bactéries."]
+  - q: "À propos des thèmes 2, 3 et 4 :"
+    props:
+      - ["L'ADN est formé de deux longues chaînes de nucléotides.", true, "« 2 longues chaînes de nucléotides » (p.6h)."]
+      - ["Les quatre nucléotides de l'ADN sont A, C, G et U.", false, "ADN = A, C, G, T (p.6h)."]
+      - ["L'ADN est répliqué avant chaque division cellulaire.", true, "« Réplication de l'ADN avant chaque division cellulaire » (p.6h)."]
+      - ["Le traitement de l'information venant de l'environnement est essentiel pour l'organisation tissulaire, l'intégration de stimulus et l'homéostasie.", true, "Les trois éléments listés p.6b."]
+      - ["Les systèmes vivants sont dans un état d'équilibre qui ne nécessite qu'un apport ponctuel d'énergie.", false, "Non-équilibre, apport constant d'énergie (p.7h)."]
+  - q: "À propos de la diversité du vivant et de Naegleria Floweri :"
+    props:
+      - ["Les archées et les bactéries sont les deux domaines que le cours regroupe sous le terme de procaryotes.", true, "« D1 et D2 : procaryotes » (p.7b)."]
+      - ["Les protistes sont des procaryotes.", false, "Les protistes forment le règne R4 du domaine D3 : ce sont des eucaryotes."]
+      - ["Le domaine des eucaryotes comprend quatre règnes : plantes, champignons, animaux et protistes.", true, "R1 à R4 (p.7b)."]
+      - ["L'ancêtre commun, unicellulaire, vivait il y a environ 3,8 millions d'années.", false, "~3,8 milliards d'années (p.8b)."]
+      - ["Naegleria Floweri pénètre dans l'organisme par ingestion d'eau contaminée.", false, "Le cours indique : par les muqueuses nasales (p.8h)."]
+
+coverage:
+  - ["S1-1", "1h", "Titre du cours, WMEDE1152, Prof. Charles De Smet", 2]
+  - ["S1-1", "1b", "Partie I (molécules → cellules, fonctionnement) ; Partie II (cellules → organisme, développement embryonnaire)", 2]
+  - ["S1-1", "2h", "TP obligatoires (rapports & interros) ; interrogation ~1er novembre non cotée ; monitorats sur inscription ; Moodle (mon bureau/mes études), forums", 2]
+  - ["S1-1", "2b", "Supports (notes, dias annotées : syllabus CIB et PDF Moodle, feuilles d'acquis) ; Raven, Larsen (De Boeck) ; EPI (case reports, mise en commun)", 2]
+  - ["S1-1", "3h", "Titre Partie I", 3]
+  - ["S1-1", "3b", "Schéma physique / énergie / chimie / biologie ; matières inanimées vs systèmes vivants", 3]
+  - ["S1-1", "4h", "Sommaire du chapitre I (3 points)", 4]
+  - ["S1-1", "4b", "7 caractéristiques des êtres vivants", 4]
+  - ["S1-1", "5h", "Organisation hiérarchisée (9 niveaux, bandeaux, échelles) et disciplines (7)", 8]
+  - ["S1-1", "5b", "Théorie cellulaire : 2 énoncés, tableau 1 / 959 / 10.000-100.000 milliards (peau), stades 1-cell → blastocyste", 14]
+  - ["S1-1", "6h", "Base moléculaire de l'hérédité : ADN, 2 chaînes, 4 nucléotides, séquence = information ; réplication avant chaque division ; transmission", 16]
+  - ["S1-1", "6b", "Traitement de l'information : ADN, environnement ; organisation tissulaire, intégration de stimulus, homéostasie", 17]
+  - ["S1-1", "7h", "Non-équilibre : schéma, énergie, tous niveaux (molécules → population), apport constant", 18]
+  - ["S1-1", "7b", "Domaines D1-D3, règnes R1-R4, D1 et D2 procaryotes, D : domaines, R : règnes", 20]
+  - ["S1-1", "8h", "Naegleria Floweri : amibe flagellée, eaux douces et chaudes, muqueuses nasales, cerveau, méningo-encéphalite ; cas de presse", 23]
+  - ["S1-1", "8b", "Arbre du vivant (6 groupes, Viridiplantae), ancêtre commun ~3,8 milliards d'années unicellulaire, conservation de composants essentiels", 22]
