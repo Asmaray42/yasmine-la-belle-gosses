@@ -279,13 +279,44 @@
 
 | | |
 |---|---|
-| **A. Durée** | 24 s (02:20 → 02:45) |
-| **Source** | S2-1 p.10 — diapo `S2-1:10` |
+| **A. Durée** | 9 s (02:20 → 02:29) |
+| **Source** | S2-1 p.10 — diapo `S2-1:10h` |
 
 **B. Voix off**
 
 > Du follicule tertiaire au **follicule de Graaf** : augmentation de taille, et vascularisation de la thèque interne, par des capillaires, et externe, par des vaisseaux.
 >
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S2-1:10h** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **Follicule de Graaf et timing**
+- **Graaf** : ↑ taille · thèque interne (capillaires) et externe (vaisseaux)
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **02:20** : surlignage de « Graaf », « vascularisation »
+
+**F. Point de vigilance QCM**
+
+- Primordial → Graaf : PLUSIEURS MOIS ; UN follicule de Graaf par cycle.
+
+---
+
+### SÉQUENCE 8 — LE TIMING DE L'OVOGENÈSE  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 16 s (02:29 → 02:45) |
+| **Source** | S2-1 p.10b — diapo `S2-1:10b` |
+
+**B. Voix off**
+
 > Le timing : la maturation du follicule primordial au follicule de Graaf prend **plusieurs mois** : elle traverse donc plusieurs cycles.
 >
 > À chaque cycle, plusieurs follicules primordiaux s'engagent dans la maturation, mais **un seul** follicule de Graaf atteint la maturité, prêt pour l'ovulation.
@@ -294,29 +325,27 @@
 **C. Visuel à l'écran**
 
 - Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
-- Diapo affichée : **S2-1:10** (rendu haute définition du PDF du cours).
+- Diapo affichée : **S2-1:10b** (rendu haute définition du PDF du cours).
 
 **D. Texte incrusté**
 
-- Titre : **Follicule de Graaf et timing**
-- **Graaf** : ↑ taille · thèque interne (capillaires) et externe (vaisseaux)
+- Titre : **Le timing de l'ovogenèse**
 - Primordial → Graaf : **plusieurs mois** (plusieurs cycles)
 - Chaque cycle : plusieurs engagés · **1** Graaf mature
 
 **E. Animation et mise en scène**
 
 - Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
-- **02:20** : surlignage de « Graaf », « vascularisation »
 - **02:29** : surlignage de « plusieurs mois »
 - **02:36** : surlignage de « un follicule de Graaf »
 
 **F. Point de vigilance QCM**
 
-- Primordial → Graaf : PLUSIEURS MOIS ; UN follicule de Graaf par cycle.
+- Plusieurs mois, donc plusieurs cycles ; UN follicule de Graaf mature par cycle.
 
 ---
 
-### SÉQUENCE 8 — LA CHAÎNE DES FOLLICULES  ·  *MÉCANISME*
+### SÉQUENCE 9 — LA CHAÎNE DES FOLLICULES  ·  *MÉCANISME*
 
 | | |
 |---|---|
@@ -356,7 +385,7 @@
 - Chaque étape apparaît avec sa flèche au moment où elle est expliquée : on suit le mécanisme pas à pas.
 - **02:46** : apparition de la carte « **Primordial** : cellules aplaties »
 - **02:50** : apparition de la carte « **Primaire** : cuboïdales »
-- **02:51** : apparition de la carte « **Secondaire** : granulosa · zone pellucide · thèque »
+- **02:52** : apparition de la carte « **Secondaire** : granulosa · zone pellucide · thèque »
 - **02:54** : apparition de la carte « **Tertiaire** : antre · cumulus · thèques »
 - **02:58** : apparition de la carte « **Graaf** : taille · vascularisation »
 
@@ -366,7 +395,7 @@
 
 ---
 
-### SÉQUENCE 9 — LES PIÈGES DE L'OVOGENÈSE  ·  *PIÈGE D'EXAMEN*
+### SÉQUENCE 10 — LES PIÈGES DE L'OVOGENÈSE  ·  *PIÈGE D'EXAMEN*
 
 | | |
 |---|---|
@@ -408,7 +437,7 @@
 
 ---
 
-### SÉQUENCE 10 — MÉMORISER LES DATES  ·  *MNÉMO*
+### SÉQUENCE 11 — MÉMORISER LES DATES  ·  *MNÉMO*
 
 | | |
 |---|---|
@@ -440,7 +469,7 @@
 
 ---
 
-### SÉQUENCE 11 — QUIZ EXPRESS  ·  *QUIZ EXPRESS*
+### SÉQUENCE 12 — QUIZ EXPRESS  ·  *QUIZ EXPRESS*
 
 | | |
 |---|---|
@@ -479,7 +508,7 @@
 
 ---
 
-### SÉQUENCE 12 — ÉPISODE 45 : L'OVULATION  ·  *LA SUITE*
+### SÉQUENCE 13 — ÉPISODE 45 : L'OVULATION  ·  *LA SUITE*
 
 | | |
 |---|---|
