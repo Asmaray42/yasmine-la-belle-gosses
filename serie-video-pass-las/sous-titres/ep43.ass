@@ -1,0 +1,178 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cent millions de spermatozoïdes
+Dialogue: 0,0:00:01.95,0:00:03.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produits chaque jour,
+Dialogue: 0,0:00:03.06,0:00:04.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et pourtant chacun a mis
+Dialogue: 0,0:00:04.33,0:00:05.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soixante-quatre jours à se
+Dialogue: 0,0:00:05.71,0:00:06.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fabriquer.
+Dialogue: 0,0:00:06.64,0:00:08.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bienvenue dans la Partie II :
+Dialogue: 0,0:00:08.25,0:00:09.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le calendrier du développement,
+Dialogue: 0,0:00:09.96,0:00:11.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis la spermatogenèse.
+Dialogue: 0,0:00:11.79,0:00:12.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Partie II du cours,
+Dialogue: 0,0:00:12.83,0:00:14.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chapitre un : les grandes étapes
+Dialogue: 0,0:00:14.59,0:00:15.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du développement humain.
+Dialogue: 0,0:00:16.05,0:00:17.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La frise distingue trois
+Dialogue: 0,0:00:17.30,0:00:17.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}périodes.
+Dialogue: 0,0:00:18.17,0:00:19.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La période {\c&H66D1FF&}pré-embryonnaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:19.77,0:00:21.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'à la semaine trois :
+Dialogue: 0,0:00:21.21,0:00:22.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fécondation, segmentation,
+Dialogue: 0,0:00:22.64,0:00:23.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}implantation.
+Dialogue: 0,0:00:23.76,0:00:25.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La période {\c&H66D1FF&}embryonnaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:25.14,0:00:26.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'à la semaine huit :
+Dialogue: 0,0:00:26.52,0:00:27.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gastrulation, neurulation,
+Dialogue: 0,0:00:27.95,0:00:28.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organogenèse.
+Dialogue: 0,0:00:29.07,0:00:30.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis la période {\c&H66D1FF&}fœtale{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:30.34,0:00:31.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'au neuvième mois :
+Dialogue: 0,0:00:31.61,0:00:32.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le développement fœtal.
+Dialogue: 0,0:00:33.39,0:00:35.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rappel du cycle de développement,
+Dialogue: 0,0:00:35.21,0:00:36.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vu en Partie I : gamètes
+Dialogue: 0,0:00:36.54,0:00:37.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}haploïdes, fécondation,
+Dialogue: 0,0:00:37.82,0:00:39.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}zygote diploïde, développement,
+Dialogue: 0,0:00:39.53,0:00:41.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis gamétogenèse chez l'adulte.
+Dialogue: 0,0:00:41.71,0:00:43.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au sommaire de ce chapitre sur la
+Dialogue: 0,0:00:43.54,0:00:45.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gamétogenèse : la spermatogenèse,
+Dialogue: 0,0:00:45.38,0:00:47.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovogenèse, puis l'ovulation.
+Dialogue: 0,0:00:47.60,0:00:49.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Gamétogenèse : spermatogenèse
+Dialogue: 0,0:00:49.05,0:00:50.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chez l'homme, ovogenèse chez la femme.
+Dialogue: 0,0:00:51.09,0:00:52.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tout commence par la
+Dialogue: 0,0:00:52.24,0:00:53.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciation et la
+Dialogue: 0,0:00:53.44,0:00:54.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}multiplication de {\c&H66D1FF&}cellules{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.93,0:00:56.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}germinales{\c&HFFFFFF&} {\c&H66D1FF&}primordiales{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:56.36,0:00:57.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les C G P, dans l'embryon
+Dialogue: 0,0:00:57.79,0:00:59.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}précoce, à la gastrulation.
+Dialogue: 0,0:00:59.74,0:01:01.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles migrent vers les {\c&H66D1FF&}gonades{\c&HFFFFFF&}
+Dialogue: 0,0:01:01.12,0:01:02.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}primitives{\c&HFFFFFF&} , et y stimulent les
+Dialogue: 0,0:01:02.55,0:01:03.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules somatiques de soutien.
+Dialogue: 0,0:01:04.37,0:01:05.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Différenciation du sexe à la
+Dialogue: 0,0:01:05.95,0:01:07.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}sixième{\c&HFFFFFF&} {\c&H66D1FF&}semaine{\c&HFFFFFF&} : chez le mâle,
+Dialogue: 0,0:01:07.70,0:01:09.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les C G P deviennent des
+Dialogue: 0,0:01:09.05,0:01:10.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatogonies ; chez la femelle,
+Dialogue: 0,0:01:10.91,0:01:11.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des ovogonies.
+Dialogue: 0,0:01:11.84,0:01:13.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La gonade devient testicule ou ovaire.
+Dialogue: 0,0:01:14.32,0:01:15.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La spermatogenèse :
+Dialogue: 0,0:01:15.38,0:01:16.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des spermatogonies,
+Dialogue: 0,0:01:16.44,0:01:17.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par la méiose, aux
+Dialogue: 0,0:01:17.45,0:01:18.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes.
+Dialogue: 0,0:01:18.42,0:01:19.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle débute à la {\c&H66D1FF&}puberté{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:19.80,0:01:21.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans les {\c&H66D1FF&}tubules{\c&HFFFFFF&} {\c&H66D1FF&}séminifères{\c&HFFFFFF&} des
+Dialogue: 0,0:01:21.49,0:01:22.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}testicules.
+Dialogue: 0,0:01:22.63,0:01:24.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}De la périphérie, contre la lame
+Dialogue: 0,0:01:24.33,0:01:25.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}basale, vers la lumière.
+Dialogue: 0,0:01:25.75,0:01:27.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'abord les {\c&H66D1FF&}spermatogonies{\c&HFFFFFF&} {\c&H66D1FF&}A{\c&HFFFFFF&} {\c&H66D1FF&}dark{\c&HFFFFFF&}
+Dialogue: 0,0:01:27.40,0:01:28.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, diploïdes : ce sont les
+Dialogue: 0,0:01:28.66,0:01:29.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}souches{\c&HFFFFFF&} .
+Dialogue: 0,0:01:29.96,0:01:31.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis les spermatogonies A pâle et
+Dialogue: 0,0:01:31.70,0:01:32.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}B, toujours diploïdes.
+Dialogue: 0,0:01:33.01,0:01:34.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La spermatogonie B donne le
+Dialogue: 0,0:01:34.62,0:01:36.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}spermatocyte{\c&HFFFFFF&} {\c&H66D1FF&}primaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:36.00,0:01:37.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux n, à ADN dupliqué.
+Dialogue: 0,0:01:37.90,0:01:39.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Méiose un : deux {\c&H66D1FF&}spermatocytes{\c&HFFFFFF&}
+Dialogue: 0,0:01:39.45,0:01:40.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}secondaires{\c&HFFFFFF&} , haploïdes,
+Dialogue: 0,0:01:40.70,0:01:42.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à chromosomes encore dupliqués.
+Dialogue: 0,0:01:42.45,0:01:44.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Méiose deux : des {\c&H66D1FF&}spermatides{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:44.10,0:01:45.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}haploïdes, qui subissent la
+Dialogue: 0,0:01:45.54,0:01:47.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermiogenèse pour devenir des
+Dialogue: 0,0:01:47.13,0:01:47.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes.
+Dialogue: 0,0:01:48.33,0:01:49.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tout autour, les {\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.74,0:01:50.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Sertoli{\c&HFFFFFF&} , somatiques,
+Dialogue: 0,0:01:50.81,0:01:52.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soutiennent la lignée germinale.
+Dialogue: 0,0:01:52.99,0:01:54.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernière étape de la
+Dialogue: 0,0:01:54.19,0:01:56.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatogenèse : la {\c&H66D1FF&}spermiogenèse{\c&HFFFFFF&}
+Dialogue: 0,0:01:56.17,0:01:57.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, de la spermatide au
+Dialogue: 0,0:01:57.43,0:01:58.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïde.
+Dialogue: 0,0:01:58.67,0:01:59.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le noyau se condense :
+Dialogue: 0,0:01:59.86,0:02:01.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}protamines{\c&HFFFFFF&} remplacent les
+Dialogue: 0,0:02:01.42,0:02:01.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}histones.
+Dialogue: 0,0:02:02.05,0:02:03.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les vésicules du Golgi forment l'
+Dialogue: 0,0:02:03.82,0:02:05.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}acrosome{\c&HFFFFFF&} , qui contient les
+Dialogue: 0,0:02:05.27,0:02:06.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzymes pour la pénétration de
+Dialogue: 0,0:02:06.89,0:02:07.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovocyte.
+Dialogue: 0,0:02:07.83,0:02:09.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}axonème{\c&HFFFFFF&} , le flagelle,
+Dialogue: 0,0:02:09.25,0:02:11.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se forme à partir du centriole.
+Dialogue: 0,0:02:11.16,0:02:12.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mitochondries forment la
+Dialogue: 0,0:02:12.60,0:02:13.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pièce{\c&HFFFFFF&} {\c&H66D1FF&}intermédiaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:13.67,0:02:14.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie du flagelle.
+Dialogue: 0,0:02:14.94,0:02:16.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le surplus de cytoplasme est
+Dialogue: 0,0:02:16.68,0:02:18.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}éliminé, dans la lumière ou
+Dialogue: 0,0:02:18.19,0:02:19.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phagocyté par les cellules de
+Dialogue: 0,0:02:19.81,0:02:20.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sertoli.
+Dialogue: 0,0:02:20.82,0:02:22.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Divisions des spermatogonies A
+Dialogue: 0,0:02:22.34,0:02:24.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'aux spermatocytes primaires
+Dialogue: 0,0:02:24.02,0:02:24.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: {\c&H66D1FF&}seize{\c&HFFFFFF&} {\c&H66D1FF&}jours{\c&HFFFFFF&} .
+Dialogue: 0,0:02:24.92,0:02:26.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Méiose un : {\c&H66D1FF&}vingt-quatre{\c&HFFFFFF&} {\c&H66D1FF&}jours{\c&HFFFFFF&} .
+Dialogue: 0,0:02:26.78,0:02:28.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Méiose deux : {\c&H66D1FF&}quelques{\c&HFFFFFF&} {\c&H66D1FF&}heures{\c&HFFFFFF&}
+Dialogue: 0,0:02:28.03,0:02:28.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}seulement.
+Dialogue: 0,0:02:28.60,0:02:29.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Spermiogenèse : {\c&H66D1FF&}vingt-quatre{\c&HFFFFFF&}
+Dialogue: 0,0:02:29.97,0:02:30.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}jours{\c&HFFFFFF&} .
+Dialogue: 0,0:02:30.71,0:02:32.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au total : {\c&H66D1FF&}soixante-quatre{\c&HFFFFFF&} {\c&H66D1FF&}jours{\c&HFFFFFF&} .
+Dialogue: 0,0:02:32.96,0:02:34.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cent millions de spermatozoïdes
+Dialogue: 0,0:02:34.46,0:02:35.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont produits {\c&H66D1FF&}chaque{\c&HFFFFFF&} {\c&H66D1FF&}jour{\c&HFFFFFF&} .
+Dialogue: 0,0:02:35.90,0:02:37.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils migrent vers l' {\c&H66D1FF&}épididyme{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:37.44,0:02:39.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}où ils achèvent la spermiogenèse.
+Dialogue: 0,0:02:39.47,0:02:40.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lors de l'éjaculation,
+Dialogue: 0,0:02:40.73,0:02:42.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils sont propulsés vers le canal
+Dialogue: 0,0:02:42.57,0:02:43.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déférent et l'urètre,
+Dialogue: 0,0:02:43.77,0:02:45.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mélangés à des sécrétions
+Dialogue: 0,0:02:45.21,0:02:45.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nutritives.
+Dialogue: 0,0:02:45.98,0:02:47.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le stade ultime de maturation a
+Dialogue: 0,0:02:47.70,0:02:49.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lieu dans les voies génitales de
+Dialogue: 0,0:02:49.47,0:02:51.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la femme : la {\c&H66D1FF&}capacitation{\c&HFFFFFF&} .
+Dialogue: 0,0:02:51.58,0:02:53.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À la puberté, la gonadolibérine,
+Dialogue: 0,0:02:53.68,0:02:55.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou G n R H, augmente.
+Dialogue: 0,0:02:55.20,0:02:57.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle entraîne la sécrétion de
+Dialogue: 0,0:02:57.11,0:02:58.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}folliculostimuline,
+Dialogue: 0,0:02:58.36,0:03:00.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F S H, et de lutéotropine,
+Dialogue: 0,0:03:00.08,0:03:00.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L H.
+Dialogue: 0,0:03:00.74,0:03:02.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La F S H stimule les {\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:03:02.61,0:03:04.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Sertoli{\c&HFFFFFF&} : spermatogenèse.
+Dialogue: 0,0:03:04.20,0:03:05.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La L H stimule les {\c&H66D1FF&}cellules{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:03:05.96,0:03:07.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Leydig{\c&HFFFFFF&} à produire la {\c&H66D1FF&}testostérone{\c&HFFFFFF&}
+Dialogue: 0,0:03:07.90,0:03:10.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: spermatogenèse et caractères mâles.
+Dialogue: 0,0:03:10.48,0:03:12.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux boucles de rétroaction
+Dialogue: 0,0:03:12.26,0:03:14.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}négative : la F S H entraîne l'
+Dialogue: 0,0:03:14.30,0:03:16.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}inhibine{\c&HFFFFFF&} , qui inhibe la G n R H
+Dialogue: 0,0:03:16.42,0:03:18.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la F S H ; la L H entraîne la
+Dialogue: 0,0:03:18.53,0:03:20.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}testostérone, qui inhibe la G n R
+Dialogue: 0,0:03:20.70,0:03:21.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H et la L H.
+Dialogue: 0,0:03:22.05,0:03:22.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:23.29,0:03:24.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La L H stimule les cellules de
+Dialogue: 0,0:03:24.87,0:03:25.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sertoli” : faux.
+Dialogue: 0,0:03:25.80,0:03:27.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F S H, Sertoli ; L H, Leydig.
+Dialogue: 0,0:03:28.34,0:03:29.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les spermatogonies A pâle sont
+Dialogue: 0,0:03:29.87,0:03:30.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules souches” :
+Dialogue: 0,0:03:30.99,0:03:32.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, ce sont les A dark.
+Dialogue: 0,0:03:32.66,0:03:34.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La capacitation a lieu dans
+Dialogue: 0,0:03:34.03,0:03:34.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épididyme” : faux.
+Dialogue: 0,0:03:35.13,0:03:36.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'épididyme, ils achèvent la
+Dialogue: 0,0:03:36.90,0:03:38.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermiogenèse ; la capacitation
+Dialogue: 0,0:03:38.55,0:03:40.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se fait dans les voies génitales
+Dialogue: 0,0:03:40.26,0:03:40.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la femme.
+Dialogue: 0,0:03:41.46,0:03:43.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les hormones : F S H contient un
+Dialogue: 0,0:03:43.27,0:03:44.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S, comme Sertoli.
+Dialogue: 0,0:03:44.37,0:03:45.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L H commence par L,
+Dialogue: 0,0:03:45.57,0:03:46.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme Leydig.
+Dialogue: 0,0:03:46.79,0:03:48.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La durée : seize, vingt-quatre,
+Dialogue: 0,0:03:48.18,0:03:49.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quelques heures, vingt-quatre.
+Dialogue: 0,0:03:49.67,0:03:51.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un seize et deux vingt-quatre
+Dialogue: 0,0:03:51.01,0:03:51.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}font soixante-quatre.
+Dialogue: 0,0:03:52.54,0:03:53.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quelle étape ne dure que
+Dialogue: 0,0:03:53.90,0:03:54.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quelques heures ?
+Dialogue: 0,0:03:59.05,0:03:59.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose deux.
+Dialogue: 0,0:04:00.07,0:04:01.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose un et la spermiogenèse
+Dialogue: 0,0:04:01.73,0:04:03.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}durent vingt-quatre jours
+Dialogue: 0,0:04:03.02,0:04:03.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacune.
+Dialogue: 0,0:04:03.99,0:04:05.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:05.03,0:04:06.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovogenèse, le dictyotène et les
+Dialogue: 0,0:04:06.93,0:04:08.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}follicules, du primordial au
+Dialogue: 0,0:04:08.55,0:04:09.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}follicule de Graaf.

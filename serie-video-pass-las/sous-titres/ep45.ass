@@ -1,0 +1,152 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un pic d'hormone, et un compte à
+Dialogue: 0,0:00:01.88,0:00:02.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rebours commence :
+Dialogue: 0,0:00:02.78,0:00:04.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-huit heures plus tard,
+Dialogue: 0,0:00:04.21,0:00:05.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le follicule se rompt.
+Dialogue: 0,0:00:05.70,0:00:07.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les étapes
+Dialogue: 0,0:00:07.07,0:00:08.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pré-ovulatoires, l'ovulation,
+Dialogue: 0,0:00:08.66,0:00:10.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le contrôle hormonal du cycle.
+Dialogue: 0,0:00:11.02,0:00:12.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ovocyte termine la prophase un
+Dialogue: 0,0:00:12.82,0:00:14.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: du diplotène à la diacinèse.
+Dialogue: 0,0:00:14.91,0:00:16.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}pic{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}L{\c&HFFFFFF&} {\c&H66D1FF&}H{\c&HFFFFFF&} , au jour treize ou
+Dialogue: 0,0:00:16.73,0:00:17.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatorze du cycle,
+Dialogue: 0,0:00:17.73,0:00:19.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entraîne l'accomplissement de la
+Dialogue: 0,0:00:19.49,0:00:21.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}méiose un : un {\c&H66D1FF&}ovocyte{\c&HFFFFFF&} {\c&H66D1FF&}secondaire{\c&HFFFFFF&}
+Dialogue: 0,0:00:21.31,0:00:23.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le {\c&H66D1FF&}premier{\c&HFFFFFF&} {\c&H66D1FF&}globule{\c&HFFFFFF&} {\c&H66D1FF&}polaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:23.02,0:00:23.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n fois deux.
+Dialogue: 0,0:00:23.83,0:00:25.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cytocinèse est incomplète :
+Dialogue: 0,0:00:25.41,0:00:26.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il reste des ponts
+Dialogue: 0,0:00:26.37,0:00:27.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytoplasmiques.
+Dialogue: 0,0:00:27.56,0:00:29.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les extensions cellulaires de la
+Dialogue: 0,0:00:29.33,0:00:30.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}granulosa se rétractent.
+Dialogue: 0,0:00:30.80,0:00:32.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}espace{\c&HFFFFFF&} {\c&H66D1FF&}périvitellin{\c&HFFFFFF&} se forme,
+Dialogue: 0,0:00:32.57,0:00:34.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre l'ovocyte et la zone
+Dialogue: 0,0:00:34.01,0:00:34.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pellucide.
+Dialogue: 0,0:00:34.71,0:00:36.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules de la granulosa se
+Dialogue: 0,0:00:36.30,0:00:37.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dissocient et prolifèrent.
+Dialogue: 0,0:00:38.19,0:00:39.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La granulosa sécrète de la
+Dialogue: 0,0:00:39.57,0:00:41.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}progestérone{\c&HFFFFFF&} , pour la maturation
+Dialogue: 0,0:00:41.34,0:00:43.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'ovocyte et l'attraction des
+Dialogue: 0,0:00:43.04,0:00:44.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes ; et une matrice
+Dialogue: 0,0:00:44.70,0:00:46.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extracellulaire, l' {\c&H66D1FF&}acide{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.03,0:00:47.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}hyaluronique{\c&HFFFFFF&} , qui attire de
+Dialogue: 0,0:00:47.53,0:00:48.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau dans l'antre.
+Dialogue: 0,0:00:48.94,0:00:50.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La dissociation de la granulosa
+Dialogue: 0,0:00:50.75,0:00:51.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}détache l'oophorus.
+Dialogue: 0,0:00:51.99,0:00:53.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans le fluide folliculaire
+Dialogue: 0,0:00:53.47,0:00:55.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}flottent l'ovocyte secondaire et
+Dialogue: 0,0:00:55.22,0:00:56.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le premier globule polaire,
+Dialogue: 0,0:00:56.70,0:00:58.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entourés de la zone pellucide et
+Dialogue: 0,0:00:58.45,0:00:59.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la {\c&H66D1FF&}corona{\c&HFFFFFF&} {\c&H66D1FF&}radiata{\c&HFFFFFF&} .
+Dialogue: 0,0:01:00.06,0:01:01.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ovocyte et le premier globule
+Dialogue: 0,0:01:01.59,0:01:03.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaire entament la méiose deux,
+Dialogue: 0,0:01:03.18,0:01:04.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'en {\c&H66D1FF&}métaphase{\c&HFFFFFF&} {\c&H66D1FF&}deux{\c&HFFFFFF&} .
+Dialogue: 0,0:01:04.98,0:01:06.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ovulation a lieu {\c&H66D1FF&}trente-huit{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.51,0:01:07.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}heures{\c&HFFFFFF&} après le pic de L H.
+Dialogue: 0,0:01:08.03,0:01:09.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le follicule mature forme une
+Dialogue: 0,0:01:09.57,0:01:11.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protubérance à la surface de
+Dialogue: 0,0:01:11.06,0:01:12.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovaire, avec un {\c&H66D1FF&}stigma{\c&HFFFFFF&} :
+Dialogue: 0,0:01:12.44,0:01:13.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une zone de compression des
+Dialogue: 0,0:01:13.88,0:01:14.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vaisseaux sanguins.
+Dialogue: 0,0:01:15.29,0:01:16.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La pression du fluide
+Dialogue: 0,0:01:16.40,0:01:17.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}folliculaire augmente,
+Dialogue: 0,0:01:17.56,0:01:19.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et des enzymes lytiques sont
+Dialogue: 0,0:01:19.04,0:01:20.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produites : le follicule se rompt.
+Dialogue: 0,0:01:21.23,0:01:22.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Légendes : un, la trompe ;
+Dialogue: 0,0:01:22.61,0:01:24.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux, les franges tubaires du
+Dialogue: 0,0:01:24.14,0:01:25.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pavillon ; trois, l'ovaire ;
+Dialogue: 0,0:01:25.62,0:01:26.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre, la protubérance,
+Dialogue: 0,0:01:26.89,0:01:28.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec le follicule sous-jacent ;
+Dialogue: 0,0:01:28.53,0:01:29.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cinq, le stigma.
+Dialogue: 0,0:01:29.94,0:01:31.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les franges du pavillon de la
+Dialogue: 0,0:01:31.41,0:01:33.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trompe utérine s'apposent sur le stigma.
+Dialogue: 0,0:01:33.83,0:01:35.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans la trompe se déversent :
+Dialogue: 0,0:01:35.44,0:01:37.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovocyte secondaire et sa corona
+Dialogue: 0,0:01:37.26,0:01:39.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}radiata ; une substance fibreuse
+Dialogue: 0,0:01:39.02,0:01:40.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et collante, l'acide
+Dialogue: 0,0:01:40.13,0:01:41.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hyaluronique, qui se liquéfie
+Dialogue: 0,0:01:41.73,0:01:43.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}après quelques heures ;
+Dialogue: 0,0:01:43.00,0:01:44.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et de la progestérone,
+Dialogue: 0,0:01:44.21,0:01:45.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui attire les spermatozoïdes.
+Dialogue: 0,0:01:46.27,0:01:47.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les battements ciliaires font
+Dialogue: 0,0:01:47.65,0:01:49.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progresser l'ovocyte dans la trompe.
+Dialogue: 0,0:01:49.49,0:01:51.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'ovaire, la thèque et la
+Dialogue: 0,0:01:51.04,0:01:52.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}granulosa restantes deviennent le
+Dialogue: 0,0:01:52.74,0:01:54.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}corps{\c&HFFFFFF&} {\c&H66D1FF&}jaune{\c&HFFFFFF&} , qui sécrète la
+Dialogue: 0,0:01:54.18,0:01:54.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progestérone.
+Dialogue: 0,0:01:55.41,0:01:56.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Phase {\c&H66D1FF&}folliculaire{\c&HFFFFFF&} :
+Dialogue: 0,0:01:56.60,0:01:58.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la F S H, folliculostimuline,
+Dialogue: 0,0:01:58.32,0:01:59.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimule la maturation des
+Dialogue: 0,0:01:59.81,0:02:00.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}follicules.
+Dialogue: 0,0:02:00.60,0:02:02.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À chaque cycle, un seul évolue en
+Dialogue: 0,0:02:02.35,0:02:03.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}follicule de Graaf.
+Dialogue: 0,0:02:03.76,0:02:05.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Ovulation{\c&HFFFFFF&} : un pic de L H,
+Dialogue: 0,0:02:05.32,0:02:07.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lutéotrophine, induit la rupture
+Dialogue: 0,0:02:07.23,0:02:08.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du follicule de Graaf et la
+Dialogue: 0,0:02:08.84,0:02:10.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}libération de l'ovocyte dans la
+Dialogue: 0,0:02:10.69,0:02:11.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trompe de Fallope.
+Dialogue: 0,0:02:12.17,0:02:13.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Phase {\c&H66D1FF&}lutéale{\c&HFFFFFF&} : le follicule
+Dialogue: 0,0:02:13.79,0:02:15.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}éclaté devient le corps jaune,
+Dialogue: 0,0:02:15.54,0:02:16.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et sécrète œstradiol et
+Dialogue: 0,0:02:16.87,0:02:17.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}progestérone.
+Dialogue: 0,0:02:18.19,0:02:20.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'œstradiol et la progestérone du
+Dialogue: 0,0:02:20.31,0:02:22.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}corps jaune inhibent la synthèse
+Dialogue: 0,0:02:22.37,0:02:23.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de F S H et de L H,
+Dialogue: 0,0:02:23.59,0:02:25.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au niveau de l'hypothalamus,
+Dialogue: 0,0:02:25.39,0:02:26.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par la G n R H, et de
+Dialogue: 0,0:02:26.74,0:02:27.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hypophyse.
+Dialogue: 0,0:02:27.91,0:02:29.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si fécondation, le corps jaune
+Dialogue: 0,0:02:29.60,0:02:30.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est maintenu grâce à la
+Dialogue: 0,0:02:30.90,0:02:32.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}gonadotrophine{\c&HFFFFFF&} {\c&H66D1FF&}chorionique{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:32.47,0:02:34.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la h C G, produite par l' {\c&H66D1FF&}embryon{\c&HFFFFFF&} .
+Dialogue: 0,0:02:34.58,0:02:36.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Donc inhibition de F S H et L H :
+Dialogue: 0,0:02:36.60,0:02:38.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas de maturation folliculaire ni
+Dialogue: 0,0:02:38.61,0:02:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'ovulation.
+Dialogue: 0,0:02:39.75,0:02:41.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En absence de fécondation,
+Dialogue: 0,0:02:41.26,0:02:42.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le corps jaune dégénère,
+Dialogue: 0,0:02:42.65,0:02:44.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le cycle d'ovulation peut
+Dialogue: 0,0:02:44.28,0:02:44.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reprendre.
+Dialogue: 0,0:02:45.42,0:02:47.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Principe de la contraception
+Dialogue: 0,0:02:47.20,0:02:49.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hormonale : la prise d'analogues
+Dialogue: 0,0:02:49.24,0:02:50.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la progestérone et de
+Dialogue: 0,0:02:50.77,0:02:52.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'œstradiol inhibe la synthèse de
+Dialogue: 0,0:02:52.87,0:02:53.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L H et de F S H.
+Dialogue: 0,0:02:54.03,0:02:55.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Donc pas de maturation
+Dialogue: 0,0:02:55.23,0:02:56.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}folliculaire, ni d'ovulation.
+Dialogue: 0,0:02:57.37,0:02:58.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:58.61,0:02:59.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“On ovule un ovule” :
+Dialogue: 0,0:02:59.73,0:03:01.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}selon le cours, c'est un ovocyte
+Dialogue: 0,0:03:01.62,0:03:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}secondaire, bloqué en métaphase
+Dialogue: 0,0:03:03.45,0:03:04.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux, entouré de la corona
+Dialogue: 0,0:03:04.99,0:03:05.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}radiata.
+Dialogue: 0,0:03:05.86,0:03:07.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La h C G est produite par le
+Dialogue: 0,0:03:07.28,0:03:08.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}corps jaune” : faux.
+Dialogue: 0,0:03:08.39,0:03:09.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par l'embryon ; elle maintient le
+Dialogue: 0,0:03:09.85,0:03:10.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}corps jaune.
+Dialogue: 0,0:03:10.78,0:03:12.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'ovulation a lieu au moment du
+Dialogue: 0,0:03:12.46,0:03:13.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pic de L H” : non,
+Dialogue: 0,0:03:13.38,0:03:14.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-huit heures après.
+Dialogue: 0,0:03:15.29,0:03:16.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le pic de L H déclenche trois
+Dialogue: 0,0:03:16.87,0:03:18.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}choses dans l'ordre :
+Dialogue: 0,0:03:18.01,0:03:19.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}finir la méiose un,
+Dialogue: 0,0:03:19.05,0:03:20.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}démarrer la méiose deux jusqu'en
+Dialogue: 0,0:03:20.79,0:03:22.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métaphase, et rompre le follicule
+Dialogue: 0,0:03:22.59,0:03:23.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-huit heures après.
+Dialogue: 0,0:03:24.52,0:03:26.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : qui produit la h C G ?
+Dialogue: 0,0:03:30.51,0:03:31.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'embryon.
+Dialogue: 0,0:03:31.78,0:03:32.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:32.87,0:03:34.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la fécondation, étape par étape,
+Dialogue: 0,0:03:34.81,0:03:36.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la capacitation à la première
+Dialogue: 0,0:03:36.75,0:03:37.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}division.

@@ -1,0 +1,187 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La combustion d'une mole de
+Dialogue: 0,0:00:01.65,0:00:04.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose libère 686 kilocalories.
+Dialogue: 0,0:00:04.49,0:00:05.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si tout partait d'un coup,
+Dialogue: 0,0:00:05.91,0:00:06.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce serait explosif.
+Dialogue: 0,0:00:07.09,0:00:08.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Alors la cellule procède par
+Dialogue: 0,0:00:08.50,0:00:09.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}étapes, avec des détours.
+Dialogue: 0,0:00:10.16,0:00:12.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le principe de la
+Dialogue: 0,0:00:12.14,0:00:13.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiration, le NAD plus,
+Dialogue: 0,0:00:13.80,0:00:15.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la glycolyse, l'oxydation du
+Dialogue: 0,0:00:15.53,0:00:17.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pyruvate et le cycle de Krebs.
+Dialogue: 0,0:00:17.94,0:00:19.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatrième point du chapitre :
+Dialogue: 0,0:00:19.45,0:00:20.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la respiration cellulaire.
+Dialogue: 0,0:00:20.94,0:00:22.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la voie catabolique du
+Dialogue: 0,0:00:22.60,0:00:24.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose, riche en liaisons C H,
+Dialogue: 0,0:00:24.42,0:00:26.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la récupération de l'énergie
+Dialogue: 0,0:00:26.25,0:00:28.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}libérée pour régénérer l'ADP en ATP.
+Dialogue: 0,0:00:29.01,0:00:30.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réaction globale :
+Dialogue: 0,0:00:30.00,0:00:32.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C6H12O6 plus six O2 donnent six
+Dialogue: 0,0:00:32.58,0:00:34.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}CO2, six H2O et de l'énergie,
+Dialogue: 0,0:00:34.71,0:00:37.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un delta G de moins 686
+Dialogue: 0,0:00:37.46,0:00:38.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}kilocalories par mole.
+Dialogue: 0,0:00:39.06,0:00:40.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le principe : transférer les
+Dialogue: 0,0:00:40.63,0:00:41.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}électrons du glucose,
+Dialogue: 0,0:00:41.81,0:00:42.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}riches en énergie,
+Dialogue: 0,0:00:42.81,0:00:44.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vers l'oxygène, où ils perdent
+Dialogue: 0,0:00:44.49,0:00:46.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur énergie : c'est l' {\c&H66D1FF&}oxydation{\c&HFFFFFF&}
+Dialogue: 0,0:00:46.34,0:00:46.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du glucose.
+Dialogue: 0,0:00:47.10,0:00:48.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais pas directement,
+Dialogue: 0,0:00:48.28,0:00:49.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce serait explosif :
+Dialogue: 0,0:00:49.40,0:00:50.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en plusieurs étapes,
+Dialogue: 0,0:00:50.52,0:00:52.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec des accepteurs d'électrons
+Dialogue: 0,0:00:52.25,0:00:53.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intermédiaires.
+Dialogue: 0,0:00:53.49,0:00:55.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La glycolyse a lieu dans le
+Dialogue: 0,0:00:55.02,0:00:56.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cytosol{\c&HFFFFFF&} ; les étapes suivantes,
+Dialogue: 0,0:00:56.78,0:00:58.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}oxydation du pyruvate,
+Dialogue: 0,0:00:58.03,0:00:59.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cycle de Krebs, chaîne de
+Dialogue: 0,0:00:59.44,0:01:00.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport des électrons et
+Dialogue: 0,0:01:00.92,0:01:02.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimiosmose, dans la {\c&H66D1FF&}mitochondrie{\c&HFFFFFF&} .
+Dialogue: 0,0:01:03.30,0:01:04.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux modes de synthèse d'ATP :
+Dialogue: 0,0:01:04.99,0:01:06.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la phosphorylation {\c&H66D1FF&}liée{\c&HFFFFFF&} {\c&H66D1FF&}au{\c&HFFFFFF&}
+Dialogue: 0,0:01:06.41,0:01:08.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}substrat{\c&HFFFFFF&} , où un intermédiaire
+Dialogue: 0,0:01:08.04,0:01:09.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphorylé cède son phosphate à
+Dialogue: 0,0:01:09.79,0:01:10.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATP ;
+Dialogue: 0,0:01:10.42,0:01:12.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la phosphorylation {\c&H66D1FF&}oxydative{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:12.34,0:01:13.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}où une ATP synthase,
+Dialogue: 0,0:01:13.62,0:01:15.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sorte de turbine, est activée par
+Dialogue: 0,0:01:15.54,0:01:17.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un gradient de H plus créé par la
+Dialogue: 0,0:01:17.45,0:01:18.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaîne de transport.
+Dialogue: 0,0:01:19.18,0:01:21.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le NAD plus, nicotinamide adénine
+Dialogue: 0,0:01:21.44,0:01:23.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dinucléotide, intervient à
+Dialogue: 0,0:01:23.12,0:01:24.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs étapes.
+Dialogue: 0,0:01:24.36,0:01:26.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il prend en charge deux électrons
+Dialogue: 0,0:01:26.34,0:01:28.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un H plus, et devient NADH.
+Dialogue: 0,0:01:28.47,0:01:30.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les électrons transférés perdent
+Dialogue: 0,0:01:30.05,0:01:31.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peu de leur énergie potentielle.
+Dialogue: 0,0:01:32.19,0:01:33.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Vue d'ensemble, en cinq étapes.
+Dialogue: 0,0:01:34.33,0:01:36.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La glycolyse : un glucose à six
+Dialogue: 0,0:01:36.08,0:01:37.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbones donne deux pyruvates à
+Dialogue: 0,0:01:37.83,0:01:39.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois carbones, avec des
+Dialogue: 0,0:01:39.18,0:01:40.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transferts d'électrons au NAD
+Dialogue: 0,0:01:40.93,0:01:42.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus et des transferts de
+Dialogue: 0,0:01:42.34,0:01:43.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate à l'ATP.
+Dialogue: 0,0:01:43.87,0:01:45.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'oxydation du pyruvate :
+Dialogue: 0,0:01:45.32,0:01:46.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pyruvate, trois carbones,
+Dialogue: 0,0:01:46.78,0:01:47.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donne l'acétyl-CoA,
+Dialogue: 0,0:01:47.88,0:01:49.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux carbones, et du CO2,
+Dialogue: 0,0:01:49.62,0:01:51.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un transfert d'électrons au
+Dialogue: 0,0:01:51.48,0:01:52.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}NAD plus.
+Dialogue: 0,0:01:52.52,0:01:53.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cycle de Krebs :
+Dialogue: 0,0:01:53.63,0:01:55.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transferts d'électrons au NAD
+Dialogue: 0,0:01:55.44,0:01:57.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus et au FAD, transferts de
+Dialogue: 0,0:01:57.25,0:01:58.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate à l'ATP,
+Dialogue: 0,0:01:58.42,0:01:59.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et production de CO2.
+Dialogue: 0,0:02:00.34,0:02:01.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chaîne de transport
+Dialogue: 0,0:02:01.55,0:02:03.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'électrons : les électrons
+Dialogue: 0,0:02:03.02,0:02:05.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}amenés par NADH et FADH2 passent
+Dialogue: 0,0:02:05.32,0:02:06.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un intermédiaire à l'autre
+Dialogue: 0,0:02:06.85,0:02:08.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'à l'O2, qui devient H2O.
+Dialogue: 0,0:02:09.12,0:02:10.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'énergie libérée crée un
+Dialogue: 0,0:02:10.38,0:02:11.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gradient de H plus.
+Dialogue: 0,0:02:11.74,0:02:13.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La chimiosmose : le gradient de H
+Dialogue: 0,0:02:13.63,0:02:15.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus active l'ATP synthase,
+Dialogue: 0,0:02:15.28,0:02:16.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'ATP est synthétisé.
+Dialogue: 0,0:02:17.33,0:02:18.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La glycolyse a lieu dans le
+Dialogue: 0,0:02:18.85,0:02:20.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytosol : un glucose,
+Dialogue: 0,0:02:20.03,0:02:21.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}six carbones, est scindé en deux
+Dialogue: 0,0:02:21.83,0:02:23.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pyruvates, trois carbones.
+Dialogue: 0,0:02:23.44,0:02:25.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il faut une enzyme à chaque étape.
+Dialogue: 0,0:02:25.21,0:02:26.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois phases.
+Dialogue: 0,0:02:26.42,0:02:27.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, l'activation :
+Dialogue: 0,0:02:27.44,0:02:29.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux phosphates sont ajoutés au
+Dialogue: 0,0:02:29.19,0:02:30.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose pour augmenter sa
+Dialogue: 0,0:02:30.60,0:02:32.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réactivité ; deux ATP sont
+Dialogue: 0,0:02:32.19,0:02:32.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}consommés.
+Dialogue: 0,0:02:32.89,0:02:33.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, la scission :
+Dialogue: 0,0:02:33.85,0:02:35.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux molécules à trois carbones,
+Dialogue: 0,0:02:35.47,0:02:36.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacune avec un phosphate.
+Dialogue: 0,0:02:37.18,0:02:38.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, oxydation et transfert de
+Dialogue: 0,0:02:38.96,0:02:40.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate : un phosphate
+Dialogue: 0,0:02:40.30,0:02:42.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inorganique est ajouté à chaque
+Dialogue: 0,0:02:42.03,0:02:43.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécule ; deux fois une
+Dialogue: 0,0:02:43.36,0:02:44.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}oxydation, avec transfert
+Dialogue: 0,0:02:44.75,0:02:46.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'électrons vers le NADH ;
+Dialogue: 0,0:02:46.37,0:02:48.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et deux fois deux transferts de
+Dialogue: 0,0:02:48.10,0:02:49.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate vers l'ATP.
+Dialogue: 0,0:02:49.78,0:02:51.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bilan : moins deux ATP,
+Dialogue: 0,0:02:51.25,0:02:53.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus quatre ATP, soit {\c&H66D1FF&}plus{\c&HFFFFFF&} {\c&H66D1FF&}deux{\c&HFFFFFF&}
+Dialogue: 0,0:02:53.20,0:02:54.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}ATP{\c&HFFFFFF&} , et {\c&H66D1FF&}plus{\c&HFFFFFF&} {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}NADH{\c&HFFFFFF&} .
+Dialogue: 0,0:02:55.53,0:02:56.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans la mitochondrie.
+Dialogue: 0,0:02:56.71,0:02:58.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un carboxyle est éliminé,
+Dialogue: 0,0:02:58.22,0:02:59.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec libération de CO2.
+Dialogue: 0,0:03:00.05,0:03:01.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le fragment restant,
+Dialogue: 0,0:03:01.23,0:03:02.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux carbones, est oxydé,
+Dialogue: 0,0:03:02.71,0:03:04.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et ses électrons passent au NAD
+Dialogue: 0,0:03:04.67,0:03:06.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus, qui devient NADH.
+Dialogue: 0,0:03:06.34,0:03:07.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le fragment oxydé,
+Dialogue: 0,0:03:07.38,0:03:08.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acétyl, est attaché à la
+Dialogue: 0,0:03:08.88,0:03:10.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}coenzyme A : c'est l'acétyl-CoA.
+Dialogue: 0,0:03:11.13,0:03:12.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bilan, pour une molécule de
+Dialogue: 0,0:03:12.77,0:03:14.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose : un NADH fois deux,
+Dialogue: 0,0:03:14.65,0:03:16.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soit plus deux NADH.
+Dialogue: 0,0:03:16.61,0:03:17.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cycle de Krebs,
+Dialogue: 0,0:03:17.61,0:03:18.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou cycle du citrate,
+Dialogue: 0,0:03:18.72,0:03:19.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la mitochondrie.
+Dialogue: 0,0:03:20.03,0:03:21.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A : le groupe acétyl,
+Dialogue: 0,0:03:21.28,0:03:22.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux carbones, se combine à
+Dialogue: 0,0:03:22.88,0:03:24.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'oxaloacétate, quatre carbones,
+Dialogue: 0,0:03:24.78,0:03:26.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour former le citrate,
+Dialogue: 0,0:03:26.15,0:03:26.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}six carbones.
+Dialogue: 0,0:03:27.32,0:03:29.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}B : transferts d'électrons vers
+Dialogue: 0,0:03:29.06,0:03:31.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le NADH, perte de deux CO2 pour
+Dialogue: 0,0:03:31.24,0:03:32.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reformer une molécule à quatre
+Dialogue: 0,0:03:32.91,0:03:34.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbones, et transfert d'un
+Dialogue: 0,0:03:34.42,0:03:35.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate vers l'ATP.
+Dialogue: 0,0:03:35.85,0:03:37.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C : deux oxydations,
+Dialogue: 0,0:03:37.04,0:03:38.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec transferts d'électrons vers
+Dialogue: 0,0:03:38.94,0:03:40.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le NADH et le FADH2,
+Dialogue: 0,0:03:40.72,0:03:42.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un autre accepteur d'électrons.
+Dialogue: 0,0:03:42.96,0:03:44.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bilan, pour une molécule de
+Dialogue: 0,0:03:44.60,0:03:46.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose : trois NADH fois deux,
+Dialogue: 0,0:03:46.65,0:03:49.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soit six NADH ; un FADH2 fois
+Dialogue: 0,0:03:49.01,0:03:50.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux, soit deux FADH2 ;
+Dialogue: 0,0:03:50.83,0:03:53.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un ATP fois deux, soit deux ATP.
+Dialogue: 0,0:03:53.57,0:03:55.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Récapitulons par glucose.
+Dialogue: 0,0:03:55.46,0:03:56.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glycolyse : cytosol,
+Dialogue: 0,0:03:56.75,0:03:58.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus deux ATP net,
+Dialogue: 0,0:03:58.04,0:03:59.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus deux NADH.
+Dialogue: 0,0:03:59.60,0:04:01.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Oxydation du pyruvate :
+Dialogue: 0,0:04:01.06,0:04:03.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondrie, plus deux NADH.
+Dialogue: 0,0:04:03.48,0:04:05.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cycle de Krebs : mitochondrie,
+Dialogue: 0,0:04:05.33,0:04:07.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus deux ATP, plus six NADH,
+Dialogue: 0,0:04:07.42,0:04:08.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus deux FADH2.
+Dialogue: 0,0:04:09.39,0:04:10.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:04:10.63,0:04:12.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La glycolyse a lieu dans la
+Dialogue: 0,0:04:12.04,0:04:13.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondrie” : faux,
+Dialogue: 0,0:04:13.08,0:04:13.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le cytosol.
+Dialogue: 0,0:04:14.31,0:04:16.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La glycolyse produit quatre ATP
+Dialogue: 0,0:04:16.10,0:04:17.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au total” : attention,
+Dialogue: 0,0:04:17.24,0:04:18.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre ATP produits,
+Dialogue: 0,0:04:18.43,0:04:19.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais deux consommés :
+Dialogue: 0,0:04:19.57,0:04:20.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bilan, plus deux.
+Dialogue: 0,0:04:20.89,0:04:22.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le cycle de Krebs produit trois
+Dialogue: 0,0:04:22.66,0:04:23.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}NADH par glucose” :
+Dialogue: 0,0:04:23.86,0:04:25.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, trois par tour,
+Dialogue: 0,0:04:25.06,0:04:26.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et deux tours par glucose : six.
+Dialogue: 0,0:04:27.44,0:04:29.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : combien de FADH2 par
+Dialogue: 0,0:04:29.38,0:04:31.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose dans le cycle de Krebs ?
+Dialogue: 0,0:04:35.61,0:04:36.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : un par tour,
+Dialogue: 0,0:04:36.45,0:04:37.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fois deux tours.
+Dialogue: 0,0:04:37.72,0:04:38.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:38.79,0:04:40.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la chaîne de transport,
+Dialogue: 0,0:04:40.16,0:04:42.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATP synthase, le bilan de 36
+Dialogue: 0,0:04:42.55,0:04:44.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ATP théoriques, la fermentation
+Dialogue: 0,0:04:44.52,0:04:45.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la photosynthèse.

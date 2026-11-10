@@ -1,0 +1,195 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans chaque mitochondrie tourne
+Dialogue: 0,0:00:01.85,0:00:03.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une turbine moléculaire.
+Dialogue: 0,0:00:03.18,0:00:04.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est elle qui fabrique la
+Dialogue: 0,0:00:04.61,0:00:05.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}majorité de ton ATP.
+Dialogue: 0,0:00:06.23,0:00:07.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : la chaîne de
+Dialogue: 0,0:00:07.79,0:00:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport, la chimiosmose,
+Dialogue: 0,0:00:09.30,0:00:10.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le bilan de la respiration,
+Dialogue: 0,0:00:10.87,0:00:12.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la fermentation, puis le soleil
+Dialogue: 0,0:00:12.67,0:00:13.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la photosynthèse.
+Dialogue: 0,0:00:14.39,0:00:16.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les électrons portés par le NADH
+Dialogue: 0,0:00:16.44,0:00:18.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le FADH2 sont cédés à un
+Dialogue: 0,0:00:18.44,0:00:19.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}accepteur contenu dans un
+Dialogue: 0,0:00:19.91,0:00:21.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ensemble de complexes protéiques
+Dialogue: 0,0:00:21.78,0:00:23.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}insérés dans la {\c&H66D1FF&}membrane{\c&HFFFFFF&} {\c&H66D1FF&}interne{\c&HFFFFFF&}
+Dialogue: 0,0:00:23.66,0:00:24.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la mitochondrie.
+Dialogue: 0,0:00:25.18,0:00:26.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par une succession de réactions
+Dialogue: 0,0:00:26.83,0:00:27.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'oxydo-réduction,
+Dialogue: 0,0:00:27.79,0:00:29.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les électrons passent d'un
+Dialogue: 0,0:00:29.18,0:00:30.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}accepteur à l'autre,
+Dialogue: 0,0:00:30.25,0:00:31.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et finalement à l'O2,
+Dialogue: 0,0:00:31.58,0:00:32.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui donne H2O.
+Dialogue: 0,0:00:32.73,0:00:34.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À chaque étape, ils perdent un
+Dialogue: 0,0:00:34.15,0:00:35.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peu de leur énergie.
+Dialogue: 0,0:00:35.49,0:00:37.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'énergie libérée actionne des
+Dialogue: 0,0:00:37.14,0:00:38.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pompes à H plus, qui concentrent
+Dialogue: 0,0:00:38.91,0:00:40.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les H plus dans l' {\c&H66D1FF&}espace{\c&HFFFFFF&}
+Dialogue: 0,0:00:40.29,0:00:41.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}intermembranaire{\c&HFFFFFF&} .
+Dialogue: 0,0:00:41.68,0:00:43.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les électrons amenés par le NADH
+Dialogue: 0,0:00:43.73,0:00:45.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}activent {\c&H66D1FF&}trois{\c&HFFFFFF&} {\c&H66D1FF&}pompes{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:45.07,0:00:47.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soit le passage d'environ trois H
+Dialogue: 0,0:00:47.00,0:00:48.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus utiles à la respiration.
+Dialogue: 0,0:00:48.84,0:00:50.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ceux amenés par le FADH2 activent
+Dialogue: 0,0:00:50.97,0:00:52.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}pompes{\c&HFFFFFF&} , environ deux H plus.
+Dialogue: 0,0:00:53.34,0:00:55.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ATP synthase est un complexe
+Dialogue: 0,0:00:55.19,0:00:56.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzymatique inséré dans la
+Dialogue: 0,0:00:56.69,0:00:57.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane interne de la
+Dialogue: 0,0:00:57.95,0:00:58.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondrie.
+Dialogue: 0,0:00:59.10,0:01:00.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le gradient généré par la chaîne
+Dialogue: 0,0:01:00.91,0:01:02.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiratoire permet un flux de H
+Dialogue: 0,0:01:02.72,0:01:04.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus, qui actionne une {\c&H66D1FF&}rotation{\c&HFFFFFF&}
+Dialogue: 0,0:01:04.47,0:01:05.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'ATP synthase.
+Dialogue: 0,0:01:05.86,0:01:07.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'énergie de cette rotation
+Dialogue: 0,0:01:07.49,0:01:08.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}permet la phosphorylation
+Dialogue: 0,0:01:08.99,0:01:10.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}oxydative d'ADP en ATP.
+Dialogue: 0,0:01:11.02,0:01:12.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Selon le cours : à chaque passage
+Dialogue: 0,0:01:12.78,0:01:14.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un H plus, une molécule d'ATP
+Dialogue: 0,0:01:14.54,0:01:15.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est synthétisée.
+Dialogue: 0,0:01:15.79,0:01:17.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La capacité maximale de la
+Dialogue: 0,0:01:17.30,0:01:19.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimiosmose est théoriquement de
+Dialogue: 0,0:01:19.17,0:01:21.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}32{\c&HFFFFFF&} {\c&H66D1FF&}ATP{\c&HFFFFFF&} par molécule de glucose.
+Dialogue: 0,0:01:21.75,0:01:23.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La majorité de l'ATP est donc
+Dialogue: 0,0:01:23.49,0:01:24.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produite à cette étape.
+Dialogue: 0,0:01:25.35,0:01:26.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le bilan, au départ d'une
+Dialogue: 0,0:01:26.67,0:01:27.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécule de glucose.
+Dialogue: 0,0:01:27.88,0:01:29.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Côté dépenses : moins quatre ATP,
+Dialogue: 0,0:01:29.83,0:01:31.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux pour l'activation de la
+Dialogue: 0,0:01:31.39,0:01:32.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycolyse et deux pour le
+Dialogue: 0,0:01:32.79,0:01:34.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport du NADH vers la
+Dialogue: 0,0:01:34.35,0:01:35.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondrie.
+Dialogue: 0,0:01:35.47,0:01:37.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Côté gains : quatre ATP de la
+Dialogue: 0,0:01:37.31,0:01:39.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycolyse ; les deux NADH de la
+Dialogue: 0,0:01:39.33,0:01:40.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycolyse et les deux de
+Dialogue: 0,0:01:40.75,0:01:42.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'oxydation du pyruvate,
+Dialogue: 0,0:01:42.17,0:01:43.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à trois ATP chacun ;
+Dialogue: 0,0:01:43.48,0:01:45.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux ATP du cycle de Krebs ;
+Dialogue: 0,0:01:45.26,0:01:47.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ses six NADH, dix-huit ATP ;
+Dialogue: 0,0:01:47.22,0:01:48.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et ses deux FADH2,
+Dialogue: 0,0:01:48.70,0:01:49.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à deux ATP chacun.
+Dialogue: 0,0:01:50.02,0:01:51.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Total : plus quarante.
+Dialogue: 0,0:01:51.63,0:01:53.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au départ d'une molécule de
+Dialogue: 0,0:01:53.05,0:01:55.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose, {\c&H66D1FF&}36{\c&HFFFFFF&} {\c&H66D1FF&}ATP{\c&HFFFFFF&} peuvent donc
+Dialogue: 0,0:01:55.04,0:01:56.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}théoriquement être produits.
+Dialogue: 0,0:01:56.91,0:01:58.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des pertes de rendement sont
+Dialogue: 0,0:01:58.43,0:02:00.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}observées : {\c&H66D1FF&}30{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}32{\c&HFFFFFF&} {\c&H66D1FF&}ATP{\c&HFFFFFF&} en
+Dialogue: 0,0:02:00.66,0:02:01.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réalité.
+Dialogue: 0,0:02:01.24,0:02:02.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles varient en fonction du type
+Dialogue: 0,0:02:02.73,0:02:03.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire.
+Dialogue: 0,0:02:03.78,0:02:05.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Reprenons ligne par ligne.
+Dialogue: 0,0:02:05.40,0:02:06.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glycolyse : moins deux,
+Dialogue: 0,0:02:06.60,0:02:07.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus quatre ATP directs.
+Dialogue: 0,0:02:08.36,0:02:09.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ses deux NADH : plus six ;
+Dialogue: 0,0:02:09.99,0:02:11.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais leur transport vers la
+Dialogue: 0,0:02:11.50,0:02:13.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondrie coûte deux ATP.
+Dialogue: 0,0:02:13.59,0:02:15.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Oxydation du pyruvate :
+Dialogue: 0,0:02:15.08,0:02:16.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux NADH, plus six.
+Dialogue: 0,0:02:16.97,0:02:18.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cycle de Krebs : deux ATP
+Dialogue: 0,0:02:18.71,0:02:20.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}directs, six NADH pour dix-huit,
+Dialogue: 0,0:02:20.96,0:02:22.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux FADH2 pour quatre.
+Dialogue: 0,0:02:23.45,0:02:24.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Parfois, l'apport d'O2 se fait
+Dialogue: 0,0:02:24.97,0:02:25.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rare dans la cellule.
+Dialogue: 0,0:02:26.31,0:02:27.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par exemple, dans les cellules
+Dialogue: 0,0:02:27.88,0:02:29.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}musculaires lors d'un effort
+Dialogue: 0,0:02:29.35,0:02:30.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}important, la dégradation du
+Dialogue: 0,0:02:30.82,0:02:32.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose est plus rapide que
+Dialogue: 0,0:02:32.24,0:02:33.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'apport d'O2.
+Dialogue: 0,0:02:33.58,0:02:35.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le catabolisme du glucose peut
+Dialogue: 0,0:02:35.18,0:02:36.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}alors s'orienter vers une autre
+Dialogue: 0,0:02:36.82,0:02:38.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}voie, qui n'utilise pas d'O2 :
+Dialogue: 0,0:02:38.63,0:02:40.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}fermentation{\c&HFFFFFF&} {\c&H66D1FF&}lactique{\c&HFFFFFF&} .
+Dialogue: 0,0:02:40.41,0:02:42.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle permet la {\c&H66D1FF&}régénération{\c&HFFFFFF&} {\c&H66D1FF&}du{\c&HFFFFFF&}
+Dialogue: 0,0:02:42.13,0:02:43.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}NAD{\c&HFFFFFF&} {\c&H66D1FF&}plus{\c&HFFFFFF&} , pour poursuivre la
+Dialogue: 0,0:02:43.91,0:02:44.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycolyse.
+Dialogue: 0,0:02:44.88,0:02:46.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certains organismes utilisent la
+Dialogue: 0,0:02:46.67,0:02:48.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}fermentation{\c&HFFFFFF&} {\c&H66D1FF&}alcoolique{\c&HFFFFFF&} :
+Dialogue: 0,0:02:48.07,0:02:49.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle produit deux éthanol au lieu
+Dialogue: 0,0:02:49.92,0:02:50.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du lactate.
+Dialogue: 0,0:02:50.67,0:02:52.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : les levures utilisées
+Dialogue: 0,0:02:52.31,0:02:53.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la bière et le vin.
+Dialogue: 0,0:02:54.14,0:02:55.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les lipides : le glycérol et les
+Dialogue: 0,0:02:55.91,0:02:57.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acides gras, produits de la
+Dialogue: 0,0:02:57.41,0:02:58.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}digestion des triglycérides,
+Dialogue: 0,0:02:58.96,0:03:00.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont transformés et peuvent
+Dialogue: 0,0:03:00.46,0:03:02.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entrer à différents niveaux dans
+Dialogue: 0,0:03:02.23,0:03:03.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la respiration cellulaire.
+Dialogue: 0,0:03:04.07,0:03:05.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines : les acides aminés
+Dialogue: 0,0:03:05.82,0:03:07.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peuvent être convertis,
+Dialogue: 0,0:03:07.05,0:03:08.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}notamment via l'élimination du
+Dialogue: 0,0:03:08.64,0:03:10.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe amine, pour s'intégrer à
+Dialogue: 0,0:03:10.29,0:03:11.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents niveaux dans la
+Dialogue: 0,0:03:11.67,0:03:12.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiration cellulaire.
+Dialogue: 0,0:03:13.45,0:03:14.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le soleil fournit l'énergie
+Dialogue: 0,0:03:14.97,0:03:16.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utilisée par la majorité des
+Dialogue: 0,0:03:16.54,0:03:17.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organismes vivants.
+Dialogue: 0,0:03:18.01,0:03:19.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les plantes, les algues et
+Dialogue: 0,0:03:19.41,0:03:21.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}certaines bactéries captent cette
+Dialogue: 0,0:03:21.19,0:03:22.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}énergie et l'utilisent pour
+Dialogue: 0,0:03:22.64,0:03:24.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}former des molécules complexes,
+Dialogue: 0,0:03:24.31,0:03:26.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des glucides, au départ de CO2 :
+Dialogue: 0,0:03:26.30,0:03:27.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}photosynthèse{\c&HFFFFFF&} .
+Dialogue: 0,0:03:27.73,0:03:29.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces organismes sont à la base de
+Dialogue: 0,0:03:29.50,0:03:30.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la chaîne alimentaire.
+Dialogue: 0,0:03:31.12,0:03:32.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On distingue les {\c&H66D1FF&}autotrophes{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:32.70,0:03:33.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}capables de synthétiser
+Dialogue: 0,0:03:33.91,0:03:35.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ensemble des molécules
+Dialogue: 0,0:03:35.18,0:03:36.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organiques qui les composent,
+Dialogue: 0,0:03:36.71,0:03:37.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les {\c&H66D1FF&}hétérotrophes{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:37.87,0:03:39.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui puisent leurs molécules
+Dialogue: 0,0:03:39.29,0:03:41.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organiques en consommant d'autres
+Dialogue: 0,0:03:41.03,0:03:41.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organismes.
+Dialogue: 0,0:03:42.17,0:03:43.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La photosynthèse produit de
+Dialogue: 0,0:03:43.70,0:03:45.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'oxygène au départ d'H2O.
+Dialogue: 0,0:03:45.86,0:03:47.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les organismes photosynthétiques,
+Dialogue: 0,0:03:47.64,0:03:49.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}cyanobactéries{\c&HFFFFFF&} en premier,
+Dialogue: 0,0:03:49.26,0:03:51.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y a environ 3,8 milliards
+Dialogue: 0,0:03:51.59,0:03:53.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'années, sont responsables de la
+Dialogue: 0,0:03:53.37,0:03:55.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}présence d'O2 sur la Terre,
+Dialogue: 0,0:03:55.05,0:03:56.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui en était dépourvue à
+Dialogue: 0,0:03:56.35,0:03:56.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'origine.
+Dialogue: 0,0:03:57.29,0:03:58.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les organismes {\c&H66D1FF&}aérobies{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:58.66,0:04:00.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui utilisent l'O2 pour leur
+Dialogue: 0,0:04:00.41,0:04:02.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiration, sont une adaptation
+Dialogue: 0,0:04:02.16,0:04:04.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à la présence d'oxygène sur la Terre.
+Dialogue: 0,0:04:04.75,0:04:05.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:04:05.99,0:04:08.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La chimiosmose produit 36 ATP” : faux.
+Dialogue: 0,0:04:08.48,0:04:10.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trente-deux au maximum pour la
+Dialogue: 0,0:04:10.04,0:04:11.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimiosmose ; trente-six pour
+Dialogue: 0,0:04:11.56,0:04:12.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toute la respiration,
+Dialogue: 0,0:04:12.65,0:04:13.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en théorie.
+Dialogue: 0,0:04:13.63,0:04:15.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le FADH2 active trois pompes” :
+Dialogue: 0,0:04:15.53,0:04:16.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, deux.
+Dialogue: 0,0:04:16.24,0:04:18.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le NADH qui en active trois.
+Dialogue: 0,0:04:18.61,0:04:20.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La fermentation alcoolique
+Dialogue: 0,0:04:20.04,0:04:21.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produit du lactate” :
+Dialogue: 0,0:04:21.15,0:04:22.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, deux éthanol au lieu de
+Dialogue: 0,0:04:22.75,0:04:23.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lactate.
+Dialogue: 0,0:04:23.75,0:04:25.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour retrouver 36 :
+Dialogue: 0,0:04:25.23,0:04:27.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}NADH vaut trois, FADH2 vaut deux.
+Dialogue: 0,0:04:27.74,0:04:29.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dix NADH, trente ;
+Dialogue: 0,0:04:29.01,0:04:30.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux FADH2, quatre ;
+Dialogue: 0,0:04:30.65,0:04:32.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus six ATP directs,
+Dialogue: 0,0:04:32.05,0:04:33.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quarante ; moins quatre,
+Dialogue: 0,0:04:33.50,0:04:34.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-six.
+Dialogue: 0,0:04:34.73,0:04:36.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : combien d'ATP théoriques
+Dialogue: 0,0:04:36.48,0:04:37.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par glucose ?
+Dialogue: 0,0:04:41.57,0:04:43.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trente-six : quarante produits,
+Dialogue: 0,0:04:43.02,0:04:44.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moins quatre consommés.
+Dialogue: 0,0:04:44.23,0:04:45.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En réalité, trente à trente-deux.
+Dialogue: 0,0:04:46.35,0:04:47.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fin de la Partie I.
+Dialogue: 0,0:04:47.60,0:04:48.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:48.73,0:04:50.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la Partie II commence,
+Dialogue: 0,0:04:50.10,0:04:51.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la reproduction et
+Dialogue: 0,0:04:51.54,0:04:52.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryologie.

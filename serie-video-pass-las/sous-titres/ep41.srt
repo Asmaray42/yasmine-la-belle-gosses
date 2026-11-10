@@ -1,0 +1,695 @@
+1
+00:00:00,300 --> 00:00:01,649
+La combustion d'une mole de
+
+2
+00:00:01,649 --> 00:00:04,348
+glucose libère 686 kilocalories.
+
+3
+00:00:04,487 --> 00:00:05,912
+Si tout partait d'un coup,
+
+4
+00:00:05,912 --> 00:00:06,953
+ce serait explosif.
+
+5
+00:00:07,093 --> 00:00:08,504
+Alors la cellule procède par
+
+6
+00:00:08,504 --> 00:00:09,764
+étapes, avec des détours.
+
+7
+00:00:10,164 --> 00:00:12,138
+Au programme : le principe de la
+
+8
+00:00:12,138 --> 00:00:13,804
+respiration, le NAD plus,
+
+9
+00:00:13,804 --> 00:00:15,531
+la glycolyse, l'oxydation du
+
+10
+00:00:15,531 --> 00:00:17,382
+pyruvate et le cycle de Krebs.
+
+11
+00:00:17,942 --> 00:00:19,450
+Quatrième point du chapitre :
+
+12
+00:00:19,450 --> 00:00:20,802
+la respiration cellulaire.
+
+13
+00:00:20,942 --> 00:00:22,595
+C'est la voie catabolique du
+
+14
+00:00:22,595 --> 00:00:24,424
+glucose, riche en liaisons C H,
+
+15
+00:00:24,424 --> 00:00:26,253
+et la récupération de l'énergie
+
+16
+00:00:26,253 --> 00:00:28,614
+libérée pour régénérer l'ADP en ATP.
+
+17
+00:00:29,014 --> 00:00:30,000
+Réaction globale :
+
+18
+00:00:30,000 --> 00:00:32,576
+C6H12O6 plus six O2 donnent six
+
+19
+00:00:32,576 --> 00:00:34,714
+CO2, six H2O et de l'énergie,
+
+20
+00:00:34,714 --> 00:00:37,455
+avec un delta G de moins 686
+
+21
+00:00:37,455 --> 00:00:38,661
+kilocalories par mole.
+
+22
+00:00:39,060 --> 00:00:40,629
+Le principe : transférer les
+
+23
+00:00:40,629 --> 00:00:41,805
+électrons du glucose,
+
+24
+00:00:41,805 --> 00:00:42,814
+riches en énergie,
+
+25
+00:00:42,814 --> 00:00:44,494
+vers l'oxygène, où ils perdent
+
+26
+00:00:44,494 --> 00:00:46,343
+leur énergie : c'est l' oxydation
+
+27
+00:00:46,343 --> 00:00:46,959
+du glucose.
+
+28
+00:00:47,099 --> 00:00:48,275
+Mais pas directement,
+
+29
+00:00:48,275 --> 00:00:49,395
+ce serait explosif :
+
+30
+00:00:49,395 --> 00:00:50,516
+en plusieurs étapes,
+
+31
+00:00:50,516 --> 00:00:52,252
+avec des accepteurs d'électrons
+
+32
+00:00:52,252 --> 00:00:53,092
+intermédiaires.
+
+33
+00:00:53,492 --> 00:00:55,023
+La glycolyse a lieu dans le
+
+34
+00:00:55,023 --> 00:00:56,780
+cytosol ; les étapes suivantes,
+
+35
+00:00:56,780 --> 00:00:58,026
+oxydation du pyruvate,
+
+36
+00:00:58,026 --> 00:00:59,443
+cycle de Krebs, chaîne de
+
+37
+00:00:59,443 --> 00:01:00,917
+transport des électrons et
+
+38
+00:01:00,917 --> 00:01:02,901
+chimiosmose, dans la mitochondrie .
+
+39
+00:01:03,301 --> 00:01:04,847
+Deux modes de synthèse d'ATP :
+
+40
+00:01:04,987 --> 00:01:06,406
+la phosphorylation liée au
+
+41
+00:01:06,406 --> 00:01:08,043
+substrat , où un intermédiaire
+
+42
+00:01:08,043 --> 00:01:09,790
+phosphorylé cède son phosphate à
+
+43
+00:01:09,790 --> 00:01:10,281
+l'ATP ;
+
+44
+00:01:10,421 --> 00:01:12,339
+et la phosphorylation oxydative ,
+
+45
+00:01:12,339 --> 00:01:13,618
+où une ATP synthase,
+
+46
+00:01:13,618 --> 00:01:15,536
+sorte de turbine, est activée par
+
+47
+00:01:15,536 --> 00:01:17,453
+un gradient de H plus créé par la
+
+48
+00:01:17,453 --> 00:01:18,616
+chaîne de transport.
+
+49
+00:01:19,176 --> 00:01:21,437
+Le NAD plus, nicotinamide adénine
+
+50
+00:01:21,437 --> 00:01:23,117
+dinucléotide, intervient à
+
+51
+00:01:23,117 --> 00:01:24,215
+plusieurs étapes.
+
+52
+00:01:24,355 --> 00:01:26,341
+Il prend en charge deux électrons
+
+53
+00:01:26,341 --> 00:01:28,326
+et un H plus, et devient NADH.
+
+54
+00:01:28,466 --> 00:01:30,046
+Les électrons transférés perdent
+
+55
+00:01:30,046 --> 00:01:31,625
+peu de leur énergie potentielle.
+
+56
+00:01:32,185 --> 00:01:33,928
+Vue d'ensemble, en cinq étapes.
+
+57
+00:01:34,328 --> 00:01:36,078
+La glycolyse : un glucose à six
+
+58
+00:01:36,078 --> 00:01:37,828
+carbones donne deux pyruvates à
+
+59
+00:01:37,828 --> 00:01:39,183
+trois carbones, avec des
+
+60
+00:01:39,183 --> 00:01:40,932
+transferts d'électrons au NAD
+
+61
+00:01:40,932 --> 00:01:42,343
+plus et des transferts de
+
+62
+00:01:42,343 --> 00:01:43,472
+phosphate à l'ATP.
+
+63
+00:01:43,872 --> 00:01:45,324
+L'oxydation du pyruvate :
+
+64
+00:01:45,324 --> 00:01:46,776
+pyruvate, trois carbones,
+
+65
+00:01:46,776 --> 00:01:47,879
+donne l'acétyl-CoA,
+
+66
+00:01:47,879 --> 00:01:49,622
+deux carbones, et du CO2,
+
+67
+00:01:49,622 --> 00:01:51,480
+avec un transfert d'électrons au
+
+68
+00:01:51,480 --> 00:01:52,119
+NAD plus.
+
+69
+00:01:52,519 --> 00:01:53,629
+Le cycle de Krebs :
+
+70
+00:01:53,629 --> 00:01:55,442
+transferts d'électrons au NAD
+
+71
+00:01:55,442 --> 00:01:57,254
+plus et au FAD, transferts de
+
+72
+00:01:57,254 --> 00:01:58,423
+phosphate à l'ATP,
+
+73
+00:01:58,423 --> 00:01:59,943
+et production de CO2.
+
+74
+00:02:00,343 --> 00:02:01,545
+La chaîne de transport
+
+75
+00:02:01,545 --> 00:02:03,021
+d'électrons : les électrons
+
+76
+00:02:03,021 --> 00:02:05,316
+amenés par NADH et FADH2 passent
+
+77
+00:02:05,316 --> 00:02:06,847
+d'un intermédiaire à l'autre
+
+78
+00:02:06,847 --> 00:02:08,978
+jusqu'à l'O2, qui devient H2O.
+
+79
+00:02:09,118 --> 00:02:10,382
+L'énergie libérée crée un
+
+80
+00:02:10,382 --> 00:02:11,342
+gradient de H plus.
+
+81
+00:02:11,742 --> 00:02:13,626
+La chimiosmose : le gradient de H
+
+82
+00:02:13,626 --> 00:02:15,282
+plus active l'ATP synthase,
+
+83
+00:02:15,282 --> 00:02:16,767
+et l'ATP est synthétisé.
+
+84
+00:02:17,327 --> 00:02:18,847
+La glycolyse a lieu dans le
+
+85
+00:02:18,847 --> 00:02:20,029
+cytosol : un glucose,
+
+86
+00:02:20,029 --> 00:02:21,831
+six carbones, est scindé en deux
+
+87
+00:02:21,831 --> 00:02:23,295
+pyruvates, trois carbones.
+
+88
+00:02:23,435 --> 00:02:25,072
+Il faut une enzyme à chaque étape.
+
+89
+00:02:25,212 --> 00:02:26,017
+Trois phases.
+
+90
+00:02:26,417 --> 00:02:27,435
+Un, l'activation :
+
+91
+00:02:27,435 --> 00:02:29,189
+deux phosphates sont ajoutés au
+
+92
+00:02:29,189 --> 00:02:30,603
+glucose pour augmenter sa
+
+93
+00:02:30,603 --> 00:02:32,187
+réactivité ; deux ATP sont
+
+94
+00:02:32,187 --> 00:02:32,753
+consommés.
+
+95
+00:02:32,893 --> 00:02:33,851
+Deux, la scission :
+
+96
+00:02:33,851 --> 00:02:35,466
+deux molécules à trois carbones,
+
+97
+00:02:35,466 --> 00:02:36,778
+chacune avec un phosphate.
+
+98
+00:02:37,178 --> 00:02:38,961
+Trois, oxydation et transfert de
+
+99
+00:02:38,961 --> 00:02:40,298
+phosphate : un phosphate
+
+100
+00:02:40,298 --> 00:02:42,025
+inorganique est ajouté à chaque
+
+101
+00:02:42,025 --> 00:02:43,362
+molécule ; deux fois une
+
+102
+00:02:43,362 --> 00:02:44,754
+oxydation, avec transfert
+
+103
+00:02:44,754 --> 00:02:46,370
+d'électrons vers le NADH ;
+
+104
+00:02:46,370 --> 00:02:48,097
+et deux fois deux transferts de
+
+105
+00:02:48,097 --> 00:02:49,378
+phosphate vers l'ATP.
+
+106
+00:02:49,778 --> 00:02:51,253
+Bilan : moins deux ATP,
+
+107
+00:02:51,253 --> 00:02:53,199
+plus quatre ATP, soit plus deux
+
+108
+00:02:53,199 --> 00:02:54,968
+ATP , et plus deux NADH .
+
+109
+00:02:55,528 --> 00:02:56,567
+Dans la mitochondrie.
+
+110
+00:02:56,707 --> 00:02:58,218
+Un carboxyle est éliminé,
+
+111
+00:02:58,218 --> 00:02:59,911
+avec libération de CO2.
+
+112
+00:03:00,051 --> 00:03:01,234
+Le fragment restant,
+
+113
+00:03:01,234 --> 00:03:02,713
+deux carbones, est oxydé,
+
+114
+00:03:02,713 --> 00:03:04,665
+et ses électrons passent au NAD
+
+115
+00:03:04,665 --> 00:03:06,203
+plus, qui devient NADH.
+
+116
+00:03:06,343 --> 00:03:07,382
+Le fragment oxydé,
+
+117
+00:03:07,382 --> 00:03:08,882
+l'acétyl, est attaché à la
+
+118
+00:03:08,882 --> 00:03:10,729
+coenzyme A : c'est l'acétyl-CoA.
+
+119
+00:03:11,129 --> 00:03:12,768
+Bilan, pour une molécule de
+
+120
+00:03:12,768 --> 00:03:14,650
+glucose : un NADH fois deux,
+
+121
+00:03:14,650 --> 00:03:16,046
+soit plus deux NADH.
+
+122
+00:03:16,606 --> 00:03:17,608
+Le cycle de Krebs,
+
+123
+00:03:17,608 --> 00:03:18,722
+ou cycle du citrate,
+
+124
+00:03:18,722 --> 00:03:19,892
+dans la mitochondrie.
+
+125
+00:03:20,032 --> 00:03:21,279
+A : le groupe acétyl,
+
+126
+00:03:21,279 --> 00:03:22,883
+deux carbones, se combine à
+
+127
+00:03:22,883 --> 00:03:24,783
+l'oxaloacétate, quatre carbones,
+
+128
+00:03:24,783 --> 00:03:26,149
+pour former le citrate,
+
+129
+00:03:26,149 --> 00:03:26,921
+six carbones.
+
+130
+00:03:27,321 --> 00:03:29,055
+B : transferts d'électrons vers
+
+131
+00:03:29,055 --> 00:03:31,236
+le NADH, perte de deux CO2 pour
+
+132
+00:03:31,236 --> 00:03:32,913
+reformer une molécule à quatre
+
+133
+00:03:32,913 --> 00:03:34,423
+carbones, et transfert d'un
+
+134
+00:03:34,423 --> 00:03:35,709
+phosphate vers l'ATP.
+
+135
+00:03:35,849 --> 00:03:37,038
+C : deux oxydations,
+
+136
+00:03:37,038 --> 00:03:38,939
+avec transferts d'électrons vers
+
+137
+00:03:38,939 --> 00:03:40,722
+le NADH et le FADH2,
+
+138
+00:03:40,722 --> 00:03:42,564
+un autre accepteur d'électrons.
+
+139
+00:03:42,964 --> 00:03:44,598
+Bilan, pour une molécule de
+
+140
+00:03:44,598 --> 00:03:46,654
+glucose : trois NADH fois deux,
+
+141
+00:03:46,654 --> 00:03:49,014
+soit six NADH ; un FADH2 fois
+
+142
+00:03:49,014 --> 00:03:50,828
+deux, soit deux FADH2 ;
+
+143
+00:03:50,828 --> 00:03:53,006
+un ATP fois deux, soit deux ATP.
+
+144
+00:03:53,566 --> 00:03:55,055
+Récapitulons par glucose.
+
+145
+00:03:55,455 --> 00:03:56,748
+Glycolyse : cytosol,
+
+146
+00:03:56,748 --> 00:03:58,041
+plus deux ATP net,
+
+147
+00:03:58,041 --> 00:03:59,204
+plus deux NADH.
+
+148
+00:03:59,604 --> 00:04:01,057
+Oxydation du pyruvate :
+
+149
+00:04:01,057 --> 00:04:03,078
+mitochondrie, plus deux NADH.
+
+150
+00:04:03,478 --> 00:04:05,325
+Cycle de Krebs : mitochondrie,
+
+151
+00:04:05,325 --> 00:04:07,418
+plus deux ATP, plus six NADH,
+
+152
+00:04:07,418 --> 00:04:08,834
+plus deux FADH2.
+
+153
+00:04:09,394 --> 00:04:10,230
+Trois pièges.
+
+154
+00:04:10,630 --> 00:04:12,035
+“La glycolyse a lieu dans la
+
+155
+00:04:12,035 --> 00:04:13,076
+mitochondrie” : faux,
+
+156
+00:04:13,076 --> 00:04:13,909
+dans le cytosol.
+
+157
+00:04:14,309 --> 00:04:16,098
+“La glycolyse produit quatre ATP
+
+158
+00:04:16,098 --> 00:04:17,236
+au total” : attention,
+
+159
+00:04:17,236 --> 00:04:18,429
+quatre ATP produits,
+
+160
+00:04:18,429 --> 00:04:19,568
+mais deux consommés :
+
+161
+00:04:19,568 --> 00:04:20,489
+bilan, plus deux.
+
+162
+00:04:20,889 --> 00:04:22,658
+“Le cycle de Krebs produit trois
+
+163
+00:04:22,658 --> 00:04:23,857
+NADH par glucose” :
+
+164
+00:04:23,857 --> 00:04:25,055
+faux, trois par tour,
+
+165
+00:04:25,055 --> 00:04:26,881
+et deux tours par glucose : six.
+
+166
+00:04:27,441 --> 00:04:29,384
+Quiz : combien de FADH2 par
+
+167
+00:04:29,384 --> 00:04:31,212
+glucose dans le cycle de Krebs ?
+
+168
+00:04:35,612 --> 00:04:36,450
+Deux : un par tour,
+
+169
+00:04:36,450 --> 00:04:37,155
+fois deux tours.
+
+170
+00:04:37,715 --> 00:04:38,789
+Prochain épisode :
+
+171
+00:04:38,789 --> 00:04:40,161
+la chaîne de transport,
+
+172
+00:04:40,161 --> 00:04:42,548
+l'ATP synthase, le bilan de 36
+
+173
+00:04:42,548 --> 00:04:44,518
+ATP théoriques, la fermentation
+
+174
+00:04:44,518 --> 00:04:45,711
+et la photosynthèse.

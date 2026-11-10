@@ -1,0 +1,659 @@
+1
+00:00:00,300 --> 00:00:01,945
+Cent millions de spermatozoïdes
+
+2
+00:00:01,945 --> 00:00:03,059
+produits chaque jour,
+
+3
+00:00:03,059 --> 00:00:04,333
+et pourtant chacun a mis
+
+4
+00:00:04,333 --> 00:00:05,712
+soixante-quatre jours à se
+
+5
+00:00:05,712 --> 00:00:06,243
+fabriquer.
+
+6
+00:00:06,643 --> 00:00:08,246
+Bienvenue dans la Partie II :
+
+7
+00:00:08,246 --> 00:00:09,960
+le calendrier du développement,
+
+8
+00:00:09,960 --> 00:00:11,232
+puis la spermatogenèse.
+
+9
+00:00:11,792 --> 00:00:12,834
+Partie II du cours,
+
+10
+00:00:12,834 --> 00:00:14,589
+chapitre un : les grandes étapes
+
+11
+00:00:14,589 --> 00:00:15,906
+du développement humain.
+
+12
+00:00:16,046 --> 00:00:17,296
+La frise distingue trois
+
+13
+00:00:17,296 --> 00:00:17,765
+périodes.
+
+14
+00:00:18,165 --> 00:00:19,768
+La période pré-embryonnaire ,
+
+15
+00:00:19,768 --> 00:00:21,205
+jusqu'à la semaine trois :
+
+16
+00:00:21,205 --> 00:00:22,642
+fécondation, segmentation,
+
+17
+00:00:22,642 --> 00:00:23,360
+implantation.
+
+18
+00:00:23,760 --> 00:00:25,138
+La période embryonnaire ,
+
+19
+00:00:25,138 --> 00:00:26,516
+jusqu'à la semaine huit :
+
+20
+00:00:26,516 --> 00:00:27,948
+gastrulation, neurulation,
+
+21
+00:00:27,948 --> 00:00:28,665
+organogenèse.
+
+22
+00:00:29,065 --> 00:00:30,336
+Puis la période fœtale ,
+
+23
+00:00:30,336 --> 00:00:31,607
+jusqu'au neuvième mois :
+
+24
+00:00:31,607 --> 00:00:32,826
+le développement fœtal.
+
+25
+00:00:33,386 --> 00:00:35,213
+Rappel du cycle de développement,
+
+26
+00:00:35,213 --> 00:00:36,542
+vu en Partie I : gamètes
+
+27
+00:00:36,542 --> 00:00:37,816
+haploïdes, fécondation,
+
+28
+00:00:37,816 --> 00:00:39,533
+zygote diploïde, développement,
+
+29
+00:00:39,533 --> 00:00:41,305
+puis gamétogenèse chez l'adulte.
+
+30
+00:00:41,705 --> 00:00:43,540
+Au sommaire de ce chapitre sur la
+
+31
+00:00:43,540 --> 00:00:45,375
+gamétogenèse : la spermatogenèse,
+
+32
+00:00:45,375 --> 00:00:47,043
+l'ovogenèse, puis l'ovulation.
+
+33
+00:00:47,603 --> 00:00:49,053
+Gamétogenèse : spermatogenèse
+
+34
+00:00:49,053 --> 00:00:50,953
+chez l'homme, ovogenèse chez la femme.
+
+35
+00:00:51,093 --> 00:00:52,238
+Tout commence par la
+
+36
+00:00:52,238 --> 00:00:53,441
+différenciation et la
+
+37
+00:00:53,441 --> 00:00:54,929
+multiplication de cellules
+
+38
+00:00:54,929 --> 00:00:56,361
+germinales primordiales ,
+
+39
+00:00:56,361 --> 00:00:57,792
+les C G P, dans l'embryon
+
+40
+00:00:57,792 --> 00:00:59,338
+précoce, à la gastrulation.
+
+41
+00:00:59,738 --> 00:01:01,119
+Elles migrent vers les gonades
+
+42
+00:01:01,119 --> 00:01:02,547
+primitives , et y stimulent les
+
+43
+00:01:02,547 --> 00:01:03,974
+cellules somatiques de soutien.
+
+44
+00:01:04,374 --> 00:01:05,952
+Différenciation du sexe à la
+
+45
+00:01:05,952 --> 00:01:07,699
+sixième semaine : chez le mâle,
+
+46
+00:01:07,699 --> 00:01:09,052
+les C G P deviennent des
+
+47
+00:01:09,052 --> 00:01:10,912
+spermatogonies ; chez la femelle,
+
+48
+00:01:10,912 --> 00:01:11,701
+des ovogonies.
+
+49
+00:01:11,841 --> 00:01:13,763
+La gonade devient testicule ou ovaire.
+
+50
+00:01:14,323 --> 00:01:15,383
+La spermatogenèse :
+
+51
+00:01:15,383 --> 00:01:16,443
+des spermatogonies,
+
+52
+00:01:16,443 --> 00:01:17,448
+par la méiose, aux
+
+53
+00:01:17,448 --> 00:01:18,285
+spermatozoïdes.
+
+54
+00:01:18,424 --> 00:01:19,797
+Elle débute à la puberté ,
+
+55
+00:01:19,797 --> 00:01:21,486
+dans les tubules séminifères des
+
+56
+00:01:21,486 --> 00:01:22,067
+testicules.
+
+57
+00:01:22,627 --> 00:01:24,330
+De la périphérie, contre la lame
+
+58
+00:01:24,330 --> 00:01:25,607
+basale, vers la lumière.
+
+59
+00:01:25,747 --> 00:01:27,404
+D'abord les spermatogonies A dark
+
+60
+00:01:27,404 --> 00:01:28,659
+, diploïdes : ce sont les
+
+61
+00:01:28,659 --> 00:01:29,563
+cellules souches .
+
+62
+00:01:29,963 --> 00:01:31,704
+Puis les spermatogonies A pâle et
+
+63
+00:01:31,704 --> 00:01:32,865
+B, toujours diploïdes.
+
+64
+00:01:33,005 --> 00:01:34,621
+La spermatogonie B donne le
+
+65
+00:01:34,621 --> 00:01:35,998
+spermatocyte primaire ,
+
+66
+00:01:35,998 --> 00:01:37,495
+deux n, à ADN dupliqué.
+
+67
+00:01:37,895 --> 00:01:39,454
+Méiose un : deux spermatocytes
+
+68
+00:01:39,454 --> 00:01:40,701
+secondaires , haploïdes,
+
+69
+00:01:40,701 --> 00:01:42,312
+à chromosomes encore dupliqués.
+
+70
+00:01:42,452 --> 00:01:44,099
+Méiose deux : des spermatides ,
+
+71
+00:01:44,099 --> 00:01:45,535
+haploïdes, qui subissent la
+
+72
+00:01:45,535 --> 00:01:47,130
+spermiogenèse pour devenir des
+
+73
+00:01:47,130 --> 00:01:47,927
+spermatozoïdes.
+
+74
+00:01:48,327 --> 00:01:49,744
+Tout autour, les cellules de
+
+75
+00:01:49,744 --> 00:01:50,807
+Sertoli , somatiques,
+
+76
+00:01:50,807 --> 00:01:52,427
+soutiennent la lignée germinale.
+
+77
+00:01:52,987 --> 00:01:54,187
+Dernière étape de la
+
+78
+00:01:54,187 --> 00:01:56,168
+spermatogenèse : la spermiogenèse
+
+79
+00:01:56,168 --> 00:01:57,428
+, de la spermatide au
+
+80
+00:01:57,428 --> 00:01:58,269
+spermatozoïde.
+
+81
+00:01:58,669 --> 00:01:59,856
+Le noyau se condense :
+
+82
+00:01:59,856 --> 00:02:01,422
+les protamines remplacent les
+
+83
+00:02:01,422 --> 00:02:01,908
+histones.
+
+84
+00:02:02,048 --> 00:02:03,823
+Les vésicules du Golgi forment l'
+
+85
+00:02:03,823 --> 00:02:05,274
+acrosome , qui contient les
+
+86
+00:02:05,274 --> 00:02:06,887
+enzymes pour la pénétration de
+
+87
+00:02:06,887 --> 00:02:07,425
+l'ovocyte.
+
+88
+00:02:07,825 --> 00:02:09,252
+L' axonème , le flagelle,
+
+89
+00:02:09,252 --> 00:02:11,021
+se forme à partir du centriole.
+
+90
+00:02:11,161 --> 00:02:12,597
+Les mitochondries forment la
+
+91
+00:02:12,597 --> 00:02:13,674
+pièce intermédiaire ,
+
+92
+00:02:13,674 --> 00:02:14,802
+l'énergie du flagelle.
+
+93
+00:02:14,942 --> 00:02:16,676
+Et le surplus de cytoplasme est
+
+94
+00:02:16,676 --> 00:02:18,187
+éliminé, dans la lumière ou
+
+95
+00:02:18,187 --> 00:02:19,809
+phagocyté par les cellules de
+
+96
+00:02:19,809 --> 00:02:20,257
+Sertoli.
+
+97
+00:02:20,817 --> 00:02:22,342
+Divisions des spermatogonies A
+
+98
+00:02:22,342 --> 00:02:24,020
+jusqu'aux spermatocytes primaires
+
+99
+00:02:24,020 --> 00:02:24,783
+: seize jours .
+
+100
+00:02:24,923 --> 00:02:26,383
+Méiose un : vingt-quatre jours .
+
+101
+00:02:26,783 --> 00:02:28,033
+Méiose deux : quelques heures
+
+102
+00:02:28,033 --> 00:02:28,464
+seulement.
+
+103
+00:02:28,604 --> 00:02:29,966
+Spermiogenèse : vingt-quatre
+
+104
+00:02:29,966 --> 00:02:30,306
+jours .
+
+105
+00:02:30,706 --> 00:02:32,395
+Au total : soixante-quatre jours .
+
+106
+00:02:32,955 --> 00:02:34,455
+Cent millions de spermatozoïdes
+
+107
+00:02:34,455 --> 00:02:35,762
+sont produits chaque jour .
+
+108
+00:02:35,902 --> 00:02:37,436
+Ils migrent vers l' épididyme ,
+
+109
+00:02:37,436 --> 00:02:39,070
+où ils achèvent la spermiogenèse.
+
+110
+00:02:39,470 --> 00:02:40,732
+Lors de l'éjaculation,
+
+111
+00:02:40,732 --> 00:02:42,569
+ils sont propulsés vers le canal
+
+112
+00:02:42,569 --> 00:02:43,774
+déférent et l'urètre,
+
+113
+00:02:43,774 --> 00:02:45,209
+mélangés à des sécrétions
+
+114
+00:02:45,209 --> 00:02:45,840
+nutritives.
+
+115
+00:02:45,980 --> 00:02:47,695
+Le stade ultime de maturation a
+
+116
+00:02:47,695 --> 00:02:49,466
+lieu dans les voies génitales de
+
+117
+00:02:49,466 --> 00:02:51,015
+la femme : la capacitation .
+
+118
+00:02:51,575 --> 00:02:53,677
+À la puberté, la gonadolibérine,
+
+119
+00:02:53,677 --> 00:02:55,056
+ou G n R H, augmente.
+
+120
+00:02:55,196 --> 00:02:57,110
+Elle entraîne la sécrétion de
+
+121
+00:02:57,110 --> 00:02:58,364
+folliculostimuline,
+
+122
+00:02:58,364 --> 00:03:00,080
+F S H, et de lutéotropine,
+
+123
+00:03:00,080 --> 00:03:00,344
+L H.
+
+124
+00:03:00,744 --> 00:03:02,605
+La F S H stimule les cellules de
+
+125
+00:03:02,605 --> 00:03:04,059
+Sertoli : spermatogenèse.
+
+126
+00:03:04,199 --> 00:03:05,963
+La L H stimule les cellules de
+
+127
+00:03:05,963 --> 00:03:07,903
+Leydig à produire la testostérone
+
+128
+00:03:07,903 --> 00:03:10,077
+: spermatogenèse et caractères mâles.
+
+129
+00:03:10,477 --> 00:03:12,259
+Deux boucles de rétroaction
+
+130
+00:03:12,259 --> 00:03:14,304
+négative : la F S H entraîne l'
+
+131
+00:03:14,304 --> 00:03:16,415
+inhibine , qui inhibe la G n R H
+
+132
+00:03:16,415 --> 00:03:18,526
+et la F S H ; la L H entraîne la
+
+133
+00:03:18,526 --> 00:03:20,703
+testostérone, qui inhibe la G n R
+
+134
+00:03:20,703 --> 00:03:21,494
+H et la L H.
+
+135
+00:03:22,054 --> 00:03:22,891
+Trois pièges.
+
+136
+00:03:23,291 --> 00:03:24,870
+“La L H stimule les cellules de
+
+137
+00:03:24,870 --> 00:03:25,659
+Sertoli” : faux.
+
+138
+00:03:25,799 --> 00:03:27,941
+F S H, Sertoli ; L H, Leydig.
+
+139
+00:03:28,341 --> 00:03:29,869
+“Les spermatogonies A pâle sont
+
+140
+00:03:29,869 --> 00:03:30,989
+les cellules souches” :
+
+141
+00:03:30,989 --> 00:03:32,263
+faux, ce sont les A dark.
+
+142
+00:03:32,663 --> 00:03:34,031
+“La capacitation a lieu dans
+
+143
+00:03:34,031 --> 00:03:34,994
+l'épididyme” : faux.
+
+144
+00:03:35,134 --> 00:03:36,895
+Dans l'épididyme, ils achèvent la
+
+145
+00:03:36,895 --> 00:03:38,550
+spermiogenèse ; la capacitation
+
+146
+00:03:38,550 --> 00:03:40,258
+se fait dans les voies génitales
+
+147
+00:03:40,258 --> 00:03:40,899
+de la femme.
+
+148
+00:03:41,459 --> 00:03:43,269
+Les hormones : F S H contient un
+
+149
+00:03:43,269 --> 00:03:44,230
+S, comme Sertoli.
+
+150
+00:03:44,370 --> 00:03:45,567
+L H commence par L,
+
+151
+00:03:45,567 --> 00:03:46,386
+comme Leydig.
+
+152
+00:03:46,786 --> 00:03:48,180
+La durée : seize, vingt-quatre,
+
+153
+00:03:48,180 --> 00:03:49,529
+quelques heures, vingt-quatre.
+
+154
+00:03:49,669 --> 00:03:51,012
+Un seize et deux vingt-quatre
+
+155
+00:03:51,012 --> 00:03:51,984
+font soixante-quatre.
+
+156
+00:03:52,544 --> 00:03:53,901
+Quiz : quelle étape ne dure que
+
+157
+00:03:53,901 --> 00:03:54,646
+quelques heures ?
+
+158
+00:03:59,046 --> 00:03:59,931
+La méiose deux.
+
+159
+00:04:00,071 --> 00:04:01,726
+La méiose un et la spermiogenèse
+
+160
+00:04:01,726 --> 00:04:03,019
+durent vingt-quatre jours
+
+161
+00:04:03,019 --> 00:04:03,432
+chacune.
+
+162
+00:04:03,992 --> 00:04:05,031
+Prochain épisode :
+
+163
+00:04:05,031 --> 00:04:06,934
+l'ovogenèse, le dictyotène et les
+
+164
+00:04:06,934 --> 00:04:08,549
+follicules, du primordial au
+
+165
+00:04:08,549 --> 00:04:09,645
+follicule de Graaf.

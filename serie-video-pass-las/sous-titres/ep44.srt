@@ -1,0 +1,599 @@
+1
+00:00:00,300 --> 00:00:01,704
+À ta naissance, si tu es une
+
+2
+00:00:01,704 --> 00:00:03,008
+fille, tous tes follicules
+
+3
+00:00:03,008 --> 00:00:04,463
+primordiaux sont déjà formés.
+
+4
+00:00:04,603 --> 00:00:06,257
+Et leurs ovocytes sont figés en
+
+5
+00:00:06,257 --> 00:00:08,124
+pleine méiose depuis la vie fœtale.
+
+6
+00:00:08,524 --> 00:00:10,248
+Au programme : les phases fœtales
+
+7
+00:00:10,248 --> 00:00:11,450
+de l'ovogenèse, puis la
+
+8
+00:00:11,450 --> 00:00:12,808
+maturation des follicules,
+
+9
+00:00:12,808 --> 00:00:14,271
+jusqu'au follicule de Graaf.
+
+10
+00:00:14,831 --> 00:00:15,969
+Dans l'ovaire fœtal,
+
+11
+00:00:15,969 --> 00:00:17,334
+les C G P deviennent des
+
+12
+00:00:17,334 --> 00:00:17,903
+ovogonies.
+
+13
+00:00:18,043 --> 00:00:19,411
+Phase de prolifération des
+
+14
+00:00:19,411 --> 00:00:20,780
+ovogonies : semaines six à
+
+15
+00:00:20,780 --> 00:00:21,359
+vingt-deux.
+
+16
+00:00:21,759 --> 00:00:23,122
+Dès la douzième semaine ,
+
+17
+00:00:23,122 --> 00:00:24,595
+différenciation en ovocytes
+
+18
+00:00:24,595 --> 00:00:26,286
+primaires : amorce de la méiose
+
+19
+00:00:26,286 --> 00:00:27,323
+jusqu'au diplotène,
+
+20
+00:00:27,323 --> 00:00:28,414
+puis arrêt prolongé,
+
+21
+00:00:28,414 --> 00:00:29,451
+appelé dictyotène .
+
+22
+00:00:29,591 --> 00:00:31,153
+Diplotène, deux n fois deux.
+
+23
+00:00:31,553 --> 00:00:33,005
+Leur noyau est volumineux :
+
+24
+00:00:33,005 --> 00:00:34,671
+c'est la vésicule germinative .
+
+25
+00:00:35,071 --> 00:00:36,142
+Les ovocytes primaires
+
+26
+00:00:36,142 --> 00:00:37,261
+s'entourent de cellules
+
+27
+00:00:37,261 --> 00:00:38,673
+folliculaires : formation des
+
+28
+00:00:38,673 --> 00:00:39,841
+follicules primordiaux .
+
+29
+00:00:39,981 --> 00:00:41,408
+De l'ovogonie au follicule
+
+30
+00:00:41,408 --> 00:00:42,891
+primordial : environ quatre
+
+31
+00:00:42,891 --> 00:00:43,440
+semaines .
+
+32
+00:00:43,580 --> 00:00:45,203
+Ce processus se poursuit jusqu'à
+
+33
+00:00:45,203 --> 00:00:46,370
+la naissance : tous les
+
+34
+00:00:46,370 --> 00:00:48,450
+follicules primordiaux sont alors formés.
+
+35
+00:00:49,010 --> 00:00:51,095
+Dès la puberté, la maturation est
+
+36
+00:00:51,095 --> 00:00:52,548
+stimulée par les cycles
+
+37
+00:00:52,548 --> 00:00:54,569
+menstruels, avec augmentation de
+
+38
+00:00:54,569 --> 00:00:55,580
+F S H et de L H.
+
+39
+00:00:55,980 --> 00:00:56,971
+Au cours d'un cycle,
+
+40
+00:00:56,971 --> 00:00:58,112
+un groupe de follicules
+
+41
+00:00:58,112 --> 00:00:59,252
+primordiaux devient des
+
+42
+00:00:59,252 --> 00:01:00,342
+follicules primaires :
+
+43
+00:01:00,342 --> 00:01:01,730
+leurs cellules folliculaires
+
+44
+00:01:01,730 --> 00:01:03,416
+passent d' aplaties à cuboïdales .
+
+45
+00:01:03,816 --> 00:01:05,236
+Les follicules primaires qui
+
+46
+00:01:05,236 --> 00:01:06,911
+survivent, cinq à douze par cycle
+
+47
+00:01:06,911 --> 00:01:08,281
+, deviennent des follicules
+
+48
+00:01:08,281 --> 00:01:09,600
+secondaires : les cellules
+
+49
+00:01:09,600 --> 00:01:10,971
+folliculaires deviennent la
+
+50
+00:01:10,971 --> 00:01:12,594
+granulosa , et la zone pellucide
+
+51
+00:01:12,594 --> 00:01:13,254
+est sécrétée.
+
+52
+00:01:13,814 --> 00:01:14,938
+La zone pellucide ,
+
+53
+00:01:14,938 --> 00:01:16,416
+numéro deux : du matériel
+
+54
+00:01:16,416 --> 00:01:17,599
+extracellulaire, des
+
+55
+00:01:17,599 --> 00:01:19,373
+glycoprotéines, sécrété par l'
+
+56
+00:01:19,373 --> 00:01:20,852
+ovocyte et la granulosa .
+
+57
+00:01:20,992 --> 00:01:22,274
+Elle protège l'ovocyte.
+
+58
+00:01:22,674 --> 00:01:24,077
+Elle est traversée par des
+
+59
+00:01:24,077 --> 00:01:25,804
+extensions cellulaires venant de
+
+60
+00:01:25,804 --> 00:01:27,531
+la granulosa, avec des jonctions
+
+61
+00:01:27,531 --> 00:01:29,258
+communicantes : signalisation et
+
+62
+00:01:29,258 --> 00:01:30,283
+apport métabolique.
+
+63
+00:01:30,683 --> 00:01:32,163
+La thèque , numéro quatre :
+
+64
+00:01:32,163 --> 00:01:33,971
+recrutement de cellules du stroma
+
+65
+00:01:33,971 --> 00:01:35,779
+ovarien, autour de la lame basale
+
+66
+00:01:35,779 --> 00:01:37,149
+qui entoure la granulosa.
+
+67
+00:01:37,289 --> 00:01:38,487
+Elle sécrète des hormones.
+
+68
+00:01:39,047 --> 00:01:39,933
+Les légendes.
+
+69
+00:01:40,073 --> 00:01:41,346
+Un, le stroma de l'ovaire.
+
+70
+00:01:41,486 --> 00:01:43,047
+Deux, un follicule primordial.
+
+71
+00:01:43,187 --> 00:01:44,544
+Trois, un follicule primaire.
+
+72
+00:01:44,944 --> 00:01:46,657
+Puis le follicule secondaire :
+
+73
+00:01:46,657 --> 00:01:47,741
+quatre, la thèque ;
+
+74
+00:01:47,741 --> 00:01:49,225
+cinq, la membrane basale ;
+
+75
+00:01:49,225 --> 00:01:50,253
+six, la granulosa,
+
+76
+00:01:50,253 --> 00:01:51,566
+pluristratifiée ; sept,
+
+77
+00:01:51,566 --> 00:01:52,650
+la zone pellucide ;
+
+78
+00:01:52,650 --> 00:01:54,248
+huit, le noyau de l'ovocyte.
+
+79
+00:01:54,808 --> 00:01:56,130
+Le follicule tertiaire :
+
+80
+00:01:56,130 --> 00:01:57,616
+une cavité apparaît dans la
+
+81
+00:01:57,616 --> 00:01:58,772
+granulosa, l' antre ,
+
+82
+00:01:58,772 --> 00:01:59,378
+numéro six.
+
+83
+00:01:59,518 --> 00:02:01,455
+Un monticule de cellules persiste
+
+84
+00:02:01,455 --> 00:02:02,687
+autour de l'ovocyte :
+
+85
+00:02:02,687 --> 00:02:03,919
+le cumulus oophorus ,
+
+86
+00:02:03,919 --> 00:02:04,623
+numéro sept.
+
+87
+00:02:05,023 --> 00:02:06,277
+La thèque se divise :
+
+88
+00:02:06,277 --> 00:02:07,710
+interne , numéro quatre,
+
+89
+00:02:07,710 --> 00:02:09,441
+qui sécrète la progestérone ;
+
+90
+00:02:09,441 --> 00:02:10,933
+et externe , numéro cinq,
+
+91
+00:02:10,933 --> 00:02:12,664
+en transition avec le stroma.
+
+92
+00:02:13,064 --> 00:02:14,759
+Selon le cours, la progestérone
+
+93
+00:02:14,759 --> 00:02:16,070
+passe dans la granulosa,
+
+94
+00:02:16,070 --> 00:02:17,492
+où elle est transformée en
+
+95
+00:02:17,492 --> 00:02:18,749
+œstradiol , qui stimule
+
+96
+00:02:18,749 --> 00:02:20,224
+l'ovogenèse et l'ovulation.
+
+97
+00:02:20,784 --> 00:02:22,098
+Du follicule tertiaire au
+
+98
+00:02:22,098 --> 00:02:23,149
+follicule de Graaf :
+
+99
+00:02:23,149 --> 00:02:24,358
+augmentation de taille,
+
+100
+00:02:24,358 --> 00:02:25,987
+et vascularisation de la thèque
+
+101
+00:02:25,987 --> 00:02:27,511
+interne, par des capillaires,
+
+102
+00:02:27,511 --> 00:02:29,088
+et externe, par des vaisseaux.
+
+103
+00:02:29,488 --> 00:02:30,966
+Le timing : la maturation du
+
+104
+00:02:30,966 --> 00:02:32,708
+follicule primordial au follicule
+
+105
+00:02:32,708 --> 00:02:34,344
+de Graaf prend plusieurs mois :
+
+106
+00:02:34,344 --> 00:02:36,244
+elle traverse donc plusieurs cycles.
+
+107
+00:02:36,644 --> 00:02:37,955
+À chaque cycle, plusieurs
+
+108
+00:02:37,955 --> 00:02:39,685
+follicules primordiaux s'engagent
+
+109
+00:02:39,685 --> 00:02:40,682
+dans la maturation,
+
+110
+00:02:40,682 --> 00:02:42,307
+mais un seul follicule de Graaf
+
+111
+00:02:42,307 --> 00:02:43,356
+atteint la maturité,
+
+112
+00:02:43,356 --> 00:02:44,510
+prêt pour l'ovulation.
+
+113
+00:02:45,070 --> 00:02:46,139
+Résumons la chaîne.
+
+114
+00:02:46,539 --> 00:02:48,156
+Primordial : ovocyte primaire et
+
+115
+00:02:48,156 --> 00:02:49,774
+cellules folliculaires aplaties.
+
+116
+00:02:50,174 --> 00:02:51,586
+Primaire : cellules cuboïdales.
+
+117
+00:02:51,986 --> 00:02:53,176
+Secondaire : granulosa,
+
+118
+00:02:53,176 --> 00:02:54,366
+zone pellucide, thèque.
+
+119
+00:02:54,766 --> 00:02:55,787
+Tertiaire : antre,
+
+120
+00:02:55,787 --> 00:02:57,603
+cumulus oophorus, thèque interne
+
+121
+00:02:57,603 --> 00:02:58,227
+et externe.
+
+122
+00:02:58,627 --> 00:03:00,128
+Graaf : grande taille et thèques
+
+123
+00:03:00,128 --> 00:03:00,784
+vascularisées.
+
+124
+00:03:01,344 --> 00:03:02,181
+Trois pièges.
+
+125
+00:03:02,581 --> 00:03:04,046
+“Le dictyotène est un arrêt en
+
+126
+00:03:04,046 --> 00:03:04,904
+métaphase” : faux.
+
+127
+00:03:05,044 --> 00:03:06,441
+C'est un arrêt prolongé en
+
+128
+00:03:06,441 --> 00:03:07,998
+diplotène, de la prophase un.
+
+129
+00:03:08,398 --> 00:03:09,925
+“La zone pellucide est sécrétée
+
+130
+00:03:09,925 --> 00:03:10,994
+par la thèque” : faux.
+
+131
+00:03:11,134 --> 00:03:12,599
+Par l'ovocyte et la granulosa.
+
+132
+00:03:12,999 --> 00:03:14,411
+“Le cumulus oophorus est une
+
+133
+00:03:14,411 --> 00:03:15,144
+cavité” : faux.
+
+134
+00:03:15,284 --> 00:03:16,669
+La cavité, c'est l'antre ;
+
+135
+00:03:16,669 --> 00:03:18,268
+le cumulus est le monticule de
+
+136
+00:03:18,268 --> 00:03:19,814
+cellules autour de l'ovocyte.
+
+137
+00:03:20,374 --> 00:03:21,628
+Six, douze, vingt-deux :
+
+138
+00:03:21,628 --> 00:03:23,142
+à six semaines, les ovogonies
+
+139
+00:03:23,142 --> 00:03:24,291
+prolifèrent ; à douze,
+
+140
+00:03:24,291 --> 00:03:25,806
+elles deviennent des ovocytes
+
+141
+00:03:25,806 --> 00:03:27,111
+primaires ; à vingt-deux,
+
+142
+00:03:27,111 --> 00:03:28,469
+la prolifération s'arrête.
+
+143
+00:03:29,029 --> 00:03:30,355
+Quiz : combien de follicules
+
+144
+00:03:30,355 --> 00:03:31,822
+primaires survivent par cycle ?
+
+145
+00:03:36,222 --> 00:03:37,161
+Cinq à douze.
+
+146
+00:03:37,301 --> 00:03:38,822
+Et un seul follicule de Graaf
+
+147
+00:03:38,822 --> 00:03:39,871
+atteint la maturité.
+
+148
+00:03:40,431 --> 00:03:41,496
+Prochain épisode :
+
+149
+00:03:41,496 --> 00:03:43,094
+le pic de L H, la fin de la
+
+150
+00:03:43,094 --> 00:03:44,573
+méiose un et l'ovulation.
