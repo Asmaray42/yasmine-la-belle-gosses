@@ -7,7 +7,7 @@
 | Vidéo verticale 9:16 (1080×1920, 30 i/s, sous-titres incrustés) | [`videos/ep43.mp4`](videos/ep43.mp4) |
 | Voix off seule | [`voix-off/ep43.m4a`](voix-off/ep43.m4a) |
 | Sous-titres | [`sous-titres/ep43.srt`](sous-titres/ep43.srt) · [`.ass`](sous-titres/ep43.ass) |
-| Durée réelle | 4.2 min (04:10) |
+| Durée réelle | 4.3 min (04:15) |
 
 ## 1. Titre de l'épisode
 
@@ -227,8 +227,8 @@
 
 | | |
 |---|---|
-| **A. Durée** | 30 s (01:22 → 01:52) |
-| **Source** | S2-1 p.4 — diapo `S2-1:4` |
+| **A. Durée** | 20 s (01:22 → 01:42) |
+| **Source** | S2-1 p.4 — diapo `S2-1:4h` |
 
 **B. Voix off**
 
@@ -236,31 +236,27 @@
 >
 > Puis les spermatogonies A pâle et B, toujours diploïdes. La spermatogonie B donne le **spermatocyte primaire**, deux n, à ADN dupliqué.
 >
-> Méiose un : deux **spermatocytes secondaires**, haploïdes, à chromosomes encore dupliqués. Méiose deux : des **spermatides**, haploïdes, qui subissent la spermiogenèse pour devenir des spermatozoïdes.
->
 > Tout autour, les **cellules de Sertoli**, somatiques, soutiennent la lignée germinale.
 >
 
 **C. Visuel à l'écran**
 
 - Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
-- Diapo affichée : **S2-1:4** (rendu haute définition du PDF du cours).
+- Diapo affichée : **S2-1:4h** (rendu haute définition du PDF du cours).
 
 **D. Texte incrusté**
 
 - Titre : **Contenu des tubules séminifères**
 - **A dark** (2n) = **cellules souches**
 - A pâle (2n) → B (2n) → **spermatocyte I** (2n, ×2)
-- Méiose 1 → **spermatocytes II** (n, ×2) · méiose 2 → **spermatides** (n) → spermatozoïdes
 - **Sertoli** : cellule **somatique** de soutien
 
 **E. Animation et mise en scène**
 
 - Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
-- **01:22** : surlignage de « Spermatogonies A dark (2n) », « (cellules souches) »
+- **01:22** : surlignage de « Spermatogonie A dark (2n) »
 - **01:29** : surlignage de « Spermatogonies A pale (2n) », « Spermatocyte primaire (2n, x2) »
-- **01:37** : surlignage de « Spermatocytes secondaires (n, x2) », « Spermatides (n) »
-- **01:48** : surlignage de « Cellule de Sertoli (somatique) »
+- **01:37** : surlignage de « Cellule de Sertoli (somatique) »
 
 **F. Point de vigilance QCM**
 
@@ -268,11 +264,48 @@
 
 ---
 
-### SÉQUENCE 7 — LA SPERMIOGENÈSE  ·  *LA DIAPO DU COURS*
+### SÉQUENCE 7 — DE LA CELLULE SOUCHE AU SPERMATOZOÏDE  ·  *LA DIAPO DU COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 28 s (01:52 → 02:20) |
+| **A. Durée** | 15 s (01:42 → 01:57) |
+| **Source** | S2-1 p.4b — diapo `S2-1:4b` |
+
+**B. Voix off**
+
+> La lignée complète : A dark, A pâle, B, puis le spermatocyte primaire.
+>
+> Méiose un : deux **spermatocytes secondaires**, haploïdes, à chromosomes encore dupliqués. Méiose deux : des **spermatides**, haploïdes, qui subissent la spermiogenèse pour devenir des spermatozoïdes.
+>
+
+**C. Visuel à l'écran**
+
+- Diapo originale du cours affichée dans un cadre arrondi (proportions conservées) ; légendes en cartes sous la diapo.
+- Diapo affichée : **S2-1:4b** (rendu haute définition du PDF du cours).
+
+**D. Texte incrusté**
+
+- Titre : **De la cellule souche au spermatozoïde**
+- A dark → A pâle → B → **spermatocyte I**
+- Méiose 1 → **spermatocytes II** (n, ×2) · méiose 2 → **spermatides** (n)
+
+**E. Animation et mise en scène**
+
+- Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
+- **01:42** : surlignage de « Spermatogonies A dark (2n) », « Spermatocyte primaire (2n, x2) »
+- **01:46** : surlignage de « Spermatocytes secondaires (n, x2) », « Spermatides (n) »
+
+**F. Point de vigilance QCM**
+
+- Méiose 1 → spermatocytes II (n, ×2) ; méiose 2 → spermatides (n).
+
+---
+
+### SÉQUENCE 8 — LA SPERMIOGENÈSE  ·  *LA DIAPO DU COURS*
+
+| | |
+|---|---|
+| **A. Durée** | 28 s (01:57 → 02:25) |
 | **Source** | S2-1 p.5h — diapo `S2-1:5h` |
 
 **B. Voix off**
@@ -299,8 +332,8 @@
 **E. Animation et mise en scène**
 
 - Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
-- **01:58** : surlignage de « protamines », « acrosome »
-- **02:07** : surlignage de « axonème », « pièce intermédiaire », « Surplus de cytoplasme »
+- **02:03** : surlignage de « protamines », « acrosome »
+- **02:12** : surlignage de « axonème », « pièce intermédiaire », « Surplus de cytoplasme »
 
 **F. Point de vigilance QCM**
 
@@ -308,11 +341,11 @@
 
 ---
 
-### SÉQUENCE 8 — DURÉE DE LA SPERMATOGENÈSE  ·  *LA DIAPO DU COURS*
+### SÉQUENCE 9 — DURÉE DE LA SPERMATOGENÈSE  ·  *LA DIAPO DU COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 12 s (02:20 → 02:32) |
+| **A. Durée** | 12 s (02:25 → 02:37) |
 | **Source** | S2-1 p.5b — diapo `S2-1:5b` |
 
 **B. Voix off**
@@ -339,9 +372,9 @@
 **E. Animation et mise en scène**
 
 - Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
-- **02:20** : surlignage de « 16 jours », « 24 jours »
-- **02:26** : surlignage de « quelques heures »
-- **02:30** : surlignage de « 64 jours »
+- **02:25** : surlignage de « 16 jours », « 24 jours »
+- **02:31** : surlignage de « quelques heures »
+- **02:35** : surlignage de « 64 jours »
 
 **F. Point de vigilance QCM**
 
@@ -349,11 +382,11 @@
 
 ---
 
-### SÉQUENCE 9 — PRODUCTION ET MATURATION  ·  *LA DIAPO DU COURS*
+### SÉQUENCE 10 — PRODUCTION ET MATURATION  ·  *LA DIAPO DU COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 19 s (02:32 → 02:51) |
+| **A. Durée** | 19 s (02:37 → 02:55) |
 | **Source** | S2-1 p.6h — diapo `S2-1:6h` |
 
 **B. Voix off**
@@ -377,8 +410,8 @@
 **E. Animation et mise en scène**
 
 - Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
-- **02:32** : surlignage de « 100 millions », « épididyme »
-- **02:39** : surlignage de « canal déférent », « capacitation »
+- **02:37** : surlignage de « 100 millions », « épididyme »
+- **02:43** : surlignage de « canal déférent », « capacitation »
 
 **F. Point de vigilance QCM**
 
@@ -386,11 +419,11 @@
 
 ---
 
-### SÉQUENCE 10 — CONTRÔLE HORMONAL DE LA SPERMATOGENÈSE  ·  *LA DIAPO DU COURS*
+### SÉQUENCE 11 — CONTRÔLE HORMONAL DE LA SPERMATOGENÈSE  ·  *LA DIAPO DU COURS*
 
 | | |
 |---|---|
-| **A. Durée** | 30 s (02:51 → 03:22) |
+| **A. Durée** | 30 s (02:55 → 03:26) |
 | **Source** | S2-1 p.6b — diapo `S2-1:6b` |
 
 **B. Voix off**
@@ -417,9 +450,9 @@
 **E. Animation et mise en scène**
 
 - Zoom et recadrage animés (0,7 s) vers la zone dont parle la voix off, léger zoom continu ; surlignage jaune animé du texte cité ; les légendes apparaissent au rythme de la voix off.
-- **02:51** : surlignage de « GnRH », « FSH », « LH »
-- **03:00** : surlignage de « cellules de Sertoli », « cellules de Leydig »
-- **03:10** : surlignage de « rétroaction négatives »
+- **02:55** : surlignage de « GnRH », « FSH », « LH »
+- **03:05** : surlignage de « cellules de Sertoli », « cellules de Leydig »
+- **03:14** : surlignage de « rétroaction négatives »
 
 **F. Point de vigilance QCM**
 
@@ -427,11 +460,11 @@
 
 ---
 
-### SÉQUENCE 11 — LES PIÈGES DE LA SPERMATOGENÈSE  ·  *PIÈGE D'EXAMEN*
+### SÉQUENCE 12 — LES PIÈGES DE LA SPERMATOGENÈSE  ·  *PIÈGE D'EXAMEN*
 
 | | |
 |---|---|
-| **A. Durée** | 19 s (03:22 → 03:41) |
+| **A. Durée** | 19 s (03:26 → 03:45) |
 | **Source** | S2-1 p.3-6 |
 
 **B. Voix off**
@@ -459,9 +492,9 @@
 **E. Animation et mise en scène**
 
 - Le tampon « pop » avec un son d'alerte ; chaque carte ✗ puis ✓ glisse vers le haut au moment où elle est dite.
-- **03:23** : apparition de la carte « ✓ FSH → **Sertoli** · LH → **Leydig** »
-- **03:28** : apparition de la carte « ✓ Cellules souches = **A dark** »
-- **03:32** : apparition de la carte « ✓ Épididyme : fin de spermiogenèse · **capacitation** : voies génitale… »
+- **03:27** : apparition de la carte « ✓ FSH → **Sertoli** · LH → **Leydig** »
+- **03:32** : apparition de la carte « ✓ Cellules souches = **A dark** »
+- **03:37** : apparition de la carte « ✓ Épididyme : fin de spermiogenèse · **capacitation** : voies génitale… »
 
 **F. Point de vigilance QCM**
 
@@ -469,11 +502,11 @@
 
 ---
 
-### SÉQUENCE 12 — MÉMORISER  ·  *MNÉMO*
+### SÉQUENCE 13 — MÉMORISER  ·  *MNÉMO*
 
 | | |
 |---|---|
-| **A. Durée** | 11 s (03:41 → 03:52) |
+| **A. Durée** | 11 s (03:45 → 03:56) |
 | **Source** | S2-1 p.5-6 |
 
 **B. Voix off**
@@ -496,8 +529,8 @@
 **E. Animation et mise en scène**
 
 - La phrase « pop », puis chaque correspondance apparaît au rythme de la voix off.
-- **03:41** : apparition de la carte « FSH → **S**ertoli · **L**H → **L**eydig »
-- **03:46** : apparition de la carte « 16 + 24 + (h) + 24 = **64** »
+- **03:45** : apparition de la carte « FSH → **S**ertoli · **L**H → **L**eydig »
+- **03:51** : apparition de la carte « 16 + 24 + (h) + 24 = **64** »
 
 **F. Point de vigilance QCM**
 
@@ -505,11 +538,11 @@
 
 ---
 
-### SÉQUENCE 13 — QUIZ EXPRESS  ·  *QUIZ EXPRESS*
+### SÉQUENCE 14 — QUIZ EXPRESS  ·  *QUIZ EXPRESS*
 
 | | |
 |---|---|
-| **A. Durée** | 11 s (03:52 → 04:03) |
+| **A. Durée** | 11 s (03:56 → 04:08) |
 | **Source** | S2-1 p.5b |
 
 **B. Voix off**
@@ -535,8 +568,8 @@
 **E. Animation et mise en scène**
 
 - Les propositions apparaissent ; le compte à rebours tourne avec un tic par seconde ; à la correction, les bonnes réponses passent en vert (✓) et les fausses en rouge (✗), avec un son « ding ».
-- **03:52** : compte à rebours de 4 s
-- **03:59** : correction (vert/rouge)
+- **03:56** : compte à rebours de 4 s
+- **04:03** : correction (vert/rouge)
 
 **F. Point de vigilance QCM**
 
@@ -544,11 +577,11 @@
 
 ---
 
-### SÉQUENCE 14 — ÉPISODE 44 : L'OVOGENÈSE  ·  *LA SUITE*
+### SÉQUENCE 15 — ÉPISODE 44 : L'OVOGENÈSE  ·  *LA SUITE*
 
 | | |
 |---|---|
-| **A. Durée** | 6 s (04:03 → 04:10) |
+| **A. Durée** | 6 s (04:08 → 04:14) |
 | **Source** | S2-1 p.7 |
 
 **B. Voix off**
@@ -568,7 +601,7 @@
 **E. Animation et mise en scène**
 
 - Le chiffre « pop », puis la phrase-teaser.
-- **04:03** : apparition de la carte « Ovogenèse · **dictyotène** · follicules »
+- **04:08** : apparition de la carte « Ovogenèse · **dictyotène** · follicules »
 
 **F. Point de vigilance QCM**
 
