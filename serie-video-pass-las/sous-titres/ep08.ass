@@ -1,0 +1,164 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un œuf cuit ne redevient jamais cru.
+Dialogue: 0,0:00:02.25,0:00:03.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ses protéines se sont dépliées,
+Dialogue: 0,0:00:03.89,0:00:04.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le cours le dit :
+Dialogue: 0,0:00:04.95,0:00:06.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la renaturation est souvent
+Dialogue: 0,0:00:06.38,0:00:06.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}impossible.
+Dialogue: 0,0:00:07.36,0:00:09.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les quatre niveaux
+Dialogue: 0,0:00:09.10,0:00:10.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de structure, les domaines,
+Dialogue: 0,0:00:10.53,0:00:11.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protéines chaperons,
+Dialogue: 0,0:00:11.79,0:00:12.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la dénaturation.
+Dialogue: 0,0:00:13.35,0:00:14.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Structure {\c&H66D1FF&}primaire{\c&HFFFFFF&} :
+Dialogue: 0,0:00:14.42,0:00:15.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la séquence des acides aminés
+Dialogue: 0,0:00:15.97,0:00:17.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le polypeptide.
+Dialogue: 0,0:00:17.44,0:00:18.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Structure {\c&H66D1FF&}secondaire{\c&HFFFFFF&} :
+Dialogue: 0,0:00:18.54,0:00:20.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le premier niveau de repliements,
+Dialogue: 0,0:00:20.20,0:00:21.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hélice alpha et le feuillet
+Dialogue: 0,0:00:21.66,0:00:22.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plissé bêta.
+Dialogue: 0,0:00:22.66,0:00:23.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Structure {\c&H66D1FF&}tertiaire{\c&HFFFFFF&} :
+Dialogue: 0,0:00:23.78,0:00:24.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le deuxième niveau de
+Dialogue: 0,0:00:24.91,0:00:26.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}repliements, qui donne la forme
+Dialogue: 0,0:00:26.56,0:00:27.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}finale du polypeptide.
+Dialogue: 0,0:00:28.14,0:00:29.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Structure {\c&H66D1FF&}quaternaire{\c&HFFFFFF&} :
+Dialogue: 0,0:00:29.38,0:00:30.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'association de plusieurs
+Dialogue: 0,0:00:30.79,0:00:32.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptides, quand la protéine
+Dialogue: 0,0:00:32.47,0:00:33.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en contient plusieurs.
+Dialogue: 0,0:00:34.22,0:00:35.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La structure primaire,
+Dialogue: 0,0:00:35.37,0:00:36.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la séquence ;
+Dialogue: 0,0:00:36.36,0:00:37.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la nature des acides aminés
+Dialogue: 0,0:00:37.93,0:00:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}présents détermine tous les
+Dialogue: 0,0:00:39.35,0:00:40.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autres niveaux de structure.
+Dialogue: 0,0:00:41.21,0:00:43.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La structure secondaire se forme
+Dialogue: 0,0:00:43.02,0:00:44.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}via des {\c&H66D1FF&}ponts{\c&HFFFFFF&} {\c&H66D1FF&}hydrogène{\c&HFFFFFF&} entre les
+Dialogue: 0,0:00:44.88,0:00:46.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}N H et les C double liaison O des
+Dialogue: 0,0:00:46.74,0:00:47.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}chaînes{\c&HFFFFFF&} {\c&H66D1FF&}principales{\c&HFFFFFF&} .
+Dialogue: 0,0:00:48.32,0:00:49.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le feuillet plissé bêta,
+Dialogue: 0,0:00:49.60,0:00:50.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont deux segments du
+Dialogue: 0,0:00:50.89,0:00:52.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptide alignés côte à côte.
+Dialogue: 0,0:00:52.73,0:00:54.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hélice alpha, un segment en
+Dialogue: 0,0:00:54.25,0:00:54.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spirale.
+Dialogue: 0,0:00:54.81,0:00:56.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et un polypeptide peut contenir
+Dialogue: 0,0:00:56.40,0:00:57.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs de chacune.
+Dialogue: 0,0:00:58.03,0:00:59.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La structure tertiaire ajoute des
+Dialogue: 0,0:00:59.72,0:01:01.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}repliements pour donner la
+Dialogue: 0,0:01:01.06,0:01:01.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure finale.
+Dialogue: 0,0:01:02.07,0:01:03.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle découle des interactions
+Dialogue: 0,0:01:03.50,0:01:04.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre les {\c&H66D1FF&}groupes{\c&HFFFFFF&} {\c&H66D1FF&}R{\c&HFFFFFF&} .
+Dialogue: 0,0:01:04.67,0:01:05.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y en a cinq.
+Dialogue: 0,0:01:06.04,0:01:07.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, l' {\c&H66D1FF&}exclusion{\c&HFFFFFF&} {\c&H66D1FF&}hydrophobe{\c&HFFFFFF&} :
+Dialogue: 0,0:01:07.61,0:01:09.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les acides aminés hydrophobes au centre.
+Dialogue: 0,0:01:09.90,0:01:11.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, des {\c&H66D1FF&}liaisons{\c&HFFFFFF&} {\c&H66D1FF&}hydrogène{\c&HFFFFFF&}
+Dialogue: 0,0:01:11.19,0:01:12.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre groupes R polaires.
+Dialogue: 0,0:01:12.74,0:01:14.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, des {\c&H66D1FF&}ponts{\c&HFFFFFF&} {\c&H66D1FF&}disulfure{\c&HFFFFFF&} entre
+Dialogue: 0,0:01:14.18,0:01:14.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux cystéines.
+Dialogue: 0,0:01:15.00,0:01:16.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre, des {\c&H66D1FF&}liaisons{\c&HFFFFFF&} {\c&H66D1FF&}ioniques{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.43,0:01:17.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre groupes R de charge
+Dialogue: 0,0:01:17.66,0:01:18.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}opposée.
+Dialogue: 0,0:01:18.20,0:01:19.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq, des {\c&H66D1FF&}attractions{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}van{\c&HFFFFFF&} {\c&H66D1FF&}der{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.86,0:01:21.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Waals{\c&HFFFFFF&} entre groupes R apolaires.
+Dialogue: 0,0:01:22.08,0:01:23.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Elle Habille Deux Invités VIP.”
+Dialogue: 0,0:01:24.00,0:01:25.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exclusion hydrophobe,
+Dialogue: 0,0:01:25.20,0:01:26.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaisons hydrogène,
+Dialogue: 0,0:01:26.29,0:01:27.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ponts disulfure, liaisons
+Dialogue: 0,0:01:27.72,0:01:29.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ioniques, van der Waals.
+Dialogue: 0,0:01:29.66,0:01:31.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La structure quaternaire est
+Dialogue: 0,0:01:31.20,0:01:33.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}facultative{\c&HFFFFFF&} : c'est l'association
+Dialogue: 0,0:01:33.03,0:01:34.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de plusieurs polypeptides,
+Dialogue: 0,0:01:34.46,0:01:36.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les sous-unités, pour former la
+Dialogue: 0,0:01:36.17,0:01:37.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine fonctionnelle.
+Dialogue: 0,0:01:37.58,0:01:38.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces sous-unités peuvent être
+Dialogue: 0,0:01:38.91,0:01:40.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques ou différentes.
+Dialogue: 0,0:01:40.69,0:01:42.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La structure tertiaire mène à la
+Dialogue: 0,0:01:42.56,0:01:43.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}formation de {\c&H66D1FF&}domaines{\c&HFFFFFF&}
+Dialogue: 0,0:01:43.78,0:01:45.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}fonctionnels{\c&HFFFFFF&} : des acides aminés
+Dialogue: 0,0:01:45.64,0:01:47.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rapprochés dans une structure 3D
+Dialogue: 0,0:01:47.50,0:01:49.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}compatible avec une fonction.
+Dialogue: 0,0:01:49.59,0:01:51.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une protéine en a souvent
+Dialogue: 0,0:01:51.00,0:01:52.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs : un domaine
+Dialogue: 0,0:01:52.24,0:01:53.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzymatique, un domaine de
+Dialogue: 0,0:01:53.71,0:01:55.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reconnaissance du substrat,
+Dialogue: 0,0:01:55.24,0:01:57.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un domaine d'interaction avec une
+Dialogue: 0,0:01:57.10,0:01:57.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autre protéine.
+Dialogue: 0,0:01:58.09,0:01:59.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la relation entre structure
+Dialogue: 0,0:01:59.68,0:02:00.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et fonction.
+Dialogue: 0,0:02:00.82,0:02:02.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La plupart des protéines
+Dialogue: 0,0:02:02.07,0:02:03.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}néo-synthétisées sont capables de
+Dialogue: 0,0:02:03.79,0:02:05.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se replier d'elles-mêmes.
+Dialogue: 0,0:02:05.23,0:02:06.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'autres nécessitent la présence
+Dialogue: 0,0:02:06.96,0:02:08.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une {\c&H66D1FF&}protéine{\c&HFFFFFF&} {\c&H66D1FF&}chaperon{\c&HFFFFFF&} pour
+Dialogue: 0,0:02:08.47,0:02:10.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}adopter la bonne conformation.
+Dialogue: 0,0:02:10.65,0:02:12.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : le virus Ebola,
+Dialogue: 0,0:02:12.12,0:02:13.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}responsable d'une fièvre
+Dialogue: 0,0:02:13.53,0:02:15.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hémorragique souvent mortelle,
+Dialogue: 0,0:02:15.29,0:02:16.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmise via les fluides
+Dialogue: 0,0:02:16.76,0:02:17.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}corporels.
+Dialogue: 0,0:02:17.49,0:02:18.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La dernière épidémie,
+Dialogue: 0,0:02:18.59,0:02:19.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en Afrique de l'Ouest,
+Dialogue: 0,0:02:19.74,0:02:22.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de 2013 à 2016, a fait plus de
+Dialogue: 0,0:02:22.62,0:02:23.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dix mille décès.
+Dialogue: 0,0:02:23.85,0:02:25.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certaines protéines du virus ont
+Dialogue: 0,0:02:25.62,0:02:27.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}besoin d'un chaperon fourni par
+Dialogue: 0,0:02:27.33,0:02:28.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}cellule{\c&HFFFFFF&} {\c&H66D1FF&}infectée{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:28.48,0:02:30.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}HSPA5, pour bien se replier.
+Dialogue: 0,0:02:30.55,0:02:31.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'inhiber par un agent
+Dialogue: 0,0:02:31.77,0:02:33.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pharmacologique semble diminuer
+Dialogue: 0,0:02:33.48,0:02:34.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la virulence.
+Dialogue: 0,0:02:34.76,0:02:36.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certaines conditions font se
+Dialogue: 0,0:02:36.21,0:02:37.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déplier les protéines :
+Dialogue: 0,0:02:37.41,0:02:38.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}dénaturation{\c&HFFFFFF&} .
+Dialogue: 0,0:02:38.74,0:02:40.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois causes : un changement de
+Dialogue: 0,0:02:40.40,0:02:41.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pH, un changement de
+Dialogue: 0,0:02:41.80,0:02:42.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentration ionique,
+Dialogue: 0,0:02:42.98,0:02:44.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une augmentation de la
+Dialogue: 0,0:02:44.17,0:02:44.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}température.
+Dialogue: 0,0:02:45.21,0:02:46.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La renaturation, reprendre sa
+Dialogue: 0,0:02:46.84,0:02:48.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}forme après dénaturation,
+Dialogue: 0,0:02:48.24,0:02:49.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est possible pour certaines
+Dialogue: 0,0:02:49.76,0:02:51.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, mais souvent
+Dialogue: 0,0:02:51.05,0:02:51.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}impossible.
+Dialogue: 0,0:02:52.22,0:02:53.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La conservation des aliments
+Dialogue: 0,0:02:53.83,0:02:55.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}repose sur la dénaturation des
+Dialogue: 0,0:02:55.55,0:02:57.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines, y compris celles des
+Dialogue: 0,0:02:57.33,0:02:58.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}micro-organismes.
+Dialogue: 0,0:02:58.70,0:03:00.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le vinaigre agit sur le pH.
+Dialogue: 0,0:03:00.78,0:03:02.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La salaison, sur la concentration
+Dialogue: 0,0:03:02.70,0:03:03.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ionique.
+Dialogue: 0,0:03:03.56,0:03:05.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cuisson, sur la température.
+Dialogue: 0,0:03:05.91,0:03:07.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:11.69,0:03:12.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:12.64,0:03:14.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La secondaire dépend des ponts H
+Dialogue: 0,0:03:14.46,0:03:15.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la chaîne principale ;
+Dialogue: 0,0:03:15.88,0:03:17.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la quaternaire est facultative ;
+Dialogue: 0,0:03:17.70,0:03:19.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la renaturation est souvent
+Dialogue: 0,0:03:19.24,0:03:19.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}impossible.
+Dialogue: 0,0:03:20.42,0:03:21.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:03:21.84,0:03:23.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Primaire, la séquence ;
+Dialogue: 0,0:03:23.15,0:03:24.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}secondaire, hélice alpha et
+Dialogue: 0,0:03:24.69,0:03:26.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}feuillet bêta par ponts H de la
+Dialogue: 0,0:03:26.45,0:03:27.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaîne principale ;
+Dialogue: 0,0:03:27.54,0:03:29.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tertiaire, forme finale par
+Dialogue: 0,0:03:29.08,0:03:30.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interactions entre groupes R ;
+Dialogue: 0,0:03:30.79,0:03:32.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quaternaire, facultative.
+Dialogue: 0,0:03:32.61,0:03:33.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Domaines fonctionnels,
+Dialogue: 0,0:03:33.80,0:03:35.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaperons comme HSPA5 pour Ebola.
+Dialogue: 0,0:03:36.36,0:03:38.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dénaturation par le pH,
+Dialogue: 0,0:03:38.04,0:03:39.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la concentration ionique et la
+Dialogue: 0,0:03:39.78,0:03:41.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}température : vinaigre,
+Dialogue: 0,0:03:41.12,0:03:42.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}salaison, cuisson.
+Dialogue: 0,0:03:42.73,0:03:43.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:43.79,0:03:45.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les acides nucléiques,
+Dialogue: 0,0:03:45.09,0:03:47.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ADN et ARN, et le sens 5 prime
+Dialogue: 0,0:03:47.28,0:03:49.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vers 3 prime que tu retrouveras
+Dialogue: 0,0:03:49.35,0:03:49.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}partout.

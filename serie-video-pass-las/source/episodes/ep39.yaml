@@ -1,0 +1,182 @@
+title: "Gènes liés, hérédité liée au sexe et inactivation de l'X"
+subtitle: "Recombinaison · centimorgan · hémizygote · hémophilie · corpuscule de Barr · mosaïque"
+source: "S1-4 p.10 à 13h"
+chapter: "Partie I — Chapitre X. Génétique et hérédité — 5. Gènes liés · 6. Hérédité liée au sexe"
+objectives:
+  - "Définir les gènes liés et expliquer la recombinaison par crossing-over."
+  - "Relier fréquence de recombinaison et distance ; définir le centimorgan."
+  - "Expliquer l'hérédité liée à l'X (hémizygotie, hémophilie)."
+  - "Décrire l'inactivation d'un chromosome X chez la femme."
+
+scenes:
+  - kind: hook
+    title: "La maladie des familles royales"
+    ref: "S1-4 p.12"
+    big: "X"
+    beats:
+      - say: "La reine Victoria d'Angleterre était porteuse d'un allèle muté, et l'hémophilie s'est propagée dans plusieurs familles royales d'Europe, presque uniquement chez des garçons. Pourquoi ? Le chromosome X."
+      - say: "Au programme : les gènes liés, le centimorgan, l'hérédité liée au sexe, et l'inactivation de l'X."
+        show: "Gènes liés · *centimorgan* · hémophilie · *corpuscule de Barr*"
+
+  - kind: figure
+    title: "Les gènes liés"
+    ref: "S1-4 p.10"
+    fig: "S1-4:10h"
+    trap: "Gènes liés = localisés sur le MÊME chromosome."
+    beats:
+      - say: "Cas particulier : les *gènes liés*, deux gènes situés sur le même chromosome. Quelles sont alors les règles de transmission en dihybridisme ?"
+        focus: "all"
+        mark: "gènes liés"
+        show: "*Gènes liés* = sur le *même* chromosome"
+
+  - kind: figure
+    title: "La recombinaison entre gènes liés"
+    ref: "S1-4 p.10"
+    fig: "S1-4:10b"
+    trap: "Grâce au crossing-over, toutes les combinaisons A.G, A.g, a.G, a.g sont possibles."
+    beats:
+      - say: "Grâce au crossing-over, des recombinaisons entre gènes liés sont possibles. On peut donc voir apparaître des gamètes avec toutes les combinaisons d'allèles des gènes A et G : A G, A g, a G, a g."
+        mark: ["crossing-over", "A.G"]
+        show: "Crossing-over → gamètes A.G · A.g · a.G · a.g"
+      - say: "Mais avec quelle fréquence ? Quelle est la chance qu'un crossing-over ait lieu entre les deux gènes ?"
+        mark: "fréquence de"
+
+  - kind: figure
+    title: "Fréquence de recombinaison et centimorgan"
+    ref: "S1-4 p.11"
+    fig: "S1-4:11"
+    trap: "1 cM = 1 % de recombinaison ; max 50 (= comme des gènes non liés)."
+    beats:
+      - say: "La fréquence de recombinaison entre deux gènes liés dépend de la distance qui les sépare : plus ils sont éloignés, plus un crossing-over a de chances de tomber entre eux. Ce principe a servi à cartographier les gènes sur les chromosomes."
+        mark: ["distance", "cartographier"]
+        show: "Fréquence de recombinaison ∝ *distance* → *cartographie* des gènes"
+      - say: "L'unité : le *centimorgan*. Un centimorgan, c'est un pour cent de recombinaison. La valeur atteint au maximum cinquante pour les gènes les plus éloignés : cinquante pour cent de recombinaison, comme pour des gènes non liés."
+        mark: ["centimorgan", "max 50"]
+        show: "# *1 cM = 1 %* de recombinaison · max *50* (= gènes non liés)"
+
+  - kind: figure
+    title: "L'hérédité liée au sexe"
+    ref: "S1-4 p.12"
+    fig: "S1-4:12h"
+    trap: "Homme HÉMIZYGOTE pour la majorité des gènes de l'X (sauf régions pseudoautosomales)."
+    beats:
+      - say: "La majorité des gènes du chromosome X, à l'exception de quelques gènes des régions pseudoautosomales, communes à X et Y, ne sont présents qu'en une seule copie chez l'homme, X Y. L'homme est dit *hémizygote* pour ces gènes."
+        mark: ["hémizygote", "pseudoautosomales"]
+        show: "Homme XY : *1 seule copie* des gènes de l'X → *hémizygote* (sauf régions pseudoautosomales)"
+      - say: "L'hérédité des gènes de l'X dépend donc du sexe de l'enfant. Exemple : une maladie due à un allèle récessif a d'un gène de l'X, avec une mère hétérozygote, saine mais porteuse."
+        mark: ["sexe de l’enfant", "porteuse"]
+        show: "Mère *porteuse* saine (Xᴬ Xᵃ) : les fils peuvent être atteints"
+
+  - kind: figure
+    title: "L'hémophilie"
+    ref: "S1-4 p.12"
+    fig: "S1-4:12b"
+    trap: "Hémophilie : récessive liée à l'X ; gène d'un facteur de coagulation ; reine Victoria porteuse."
+    beats:
+      - say: "Exemple de maladie récessive liée au sexe : l'*hémophilie*, avec des hémorragies persistantes. Le gène responsable est sur le chromosome X, et code un facteur de coagulation."
+        mark: ["hémophilie", "coagulation"]
+        show: "*Hémophilie* : récessive liée à l'*X* · facteur de *coagulation*"
+      - say: "Le pédigrée de la famille de la reine Victoria d'Angleterre, elle-même porteuse d'un allèle muté, montre la transmission à travers plusieurs générations."
+        mark: "reine Victoria"
+        show: "Pédigrée : *reine Victoria*, porteuse"
+
+  - kind: figure
+    title: "L'inactivation d'un X chez la femme"
+    ref: "S1-4 p.13"
+    fig: "S1-4:13h"
+    trap: "Inactivation AU HASARD (X paternel ou maternel) pendant l'embryogenèse → MOSAÏQUE ; X inactivé = corpuscule de Barr."
+    beats:
+      - say: "Chez la femme, un des deux X est inactivé, pour éviter une double dose des protéines codées par l'X par rapport aux hommes : c'est la *compensation de dosage*."
+        mark: "compensation de dosage"
+        show: "Inactivation d'un X → *compensation de dosage*"
+      - say: "Le X inactivé est compacté, et apparaît sous la forme d'un *corpuscule de Barr*."
+        mark: "corpuscule de Barr"
+        show: "X inactivé compacté = *corpuscule de Barr*"
+      - say: "L'inactivation a lieu pendant l'embryogenèse, au hasard, sur le X paternel ou maternel. La femme adulte est donc une *mosaïque* de cellules, avec le X paternel ou le X maternel inactivé. Au total, son corps exprime les deux allèles des gènes de ses X."
+        mark: ["embryogenèse", "mosaïque"]
+        show: "Pendant l'*embryogenèse*, *au hasard* → *mosaïque* · le corps exprime *les deux* allèles"
+
+  - kind: trap
+    title: "Les pièges des chromosomes sexuels"
+    ref: "S1-4 p.11-13"
+    trap: "Max 50 cM ; hémizygote ; inactivation aléatoire."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Deux gènes liés très éloignés peuvent atteindre 100 centimorgans de recombinaison” : faux, le cours donne un maximum de 50."
+        show: "✓ Max *50* cM (= 50 % = gènes non liés)"
+      - say: "“C'est toujours l'X paternel qui est inactivé” : faux, l'inactivation est aléatoire."
+        show: "✓ Inactivation *au hasard* (paternel ou maternel) → mosaïque"
+      - say: "“L'homme est hétérozygote pour les gènes de l'X” : faux, il est hémizygote."
+        show: "✓ Homme = *hémizygote* pour l'X"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.11-13"
+    question: "Que vaut 1 centimorgan ?"
+    options:
+      - "1 % de recombinaison"
+      - "10 % de recombinaison"
+      - "50 % de recombinaison"
+      - "1 million de paires de bases"
+    answer: [0]
+    beats:
+      - say: "Quiz : que vaut un centimorgan ?"
+        countdown: 4
+      - say: "Un pour cent de recombinaison. Le maximum, cinquante, correspond aux gènes non liés."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 40 : métabolisme et enzymes"
+    ref: "S1-4 p.13"
+    big: "ΔG < 0"
+    beats:
+      - say: "On termine la partie un avec le métabolisme. Prochain épisode : l'énergie, l'ATP, et comment les enzymes accélèrent les réactions sans changer leur bilan."
+        show: "Métabolisme · *ATP* · enzymes"
+
+recap:
+  - "Gènes liés : localisés sur le même chromosome ; grâce au crossing-over, recombinaisons possibles → gamètes avec toutes les combinaisons (A.G, A.g, a.G, a.g) ; la fréquence de recombinaison dépend de la distance entre les gènes ; principe utilisé pour cartographier les gènes ; unité : centimorgan (1 cM = 1 % de recombinaison ; max 50 pour les gènes les plus éloignés = 50 % de recombinaison, comme des gènes non liés)."
+  - "Hérédité liée au sexe : la majorité des gènes de l'X (sauf régions pseudoautosomales, communes à X et Y) ne sont présents qu'en une copie chez l'homme (XY), hémizygote ; l'hérédité des gènes de l'X est influencée par le sexe de l'enfant (ex. maladie due à un allèle récessif a de l'X, mère hétérozygote saine porteuse). Hémophilie : maladie récessive liée au sexe (hémorragies persistantes), gène d'un facteur de coagulation sur l'X ; pédigrée de la famille de la reine Victoria (porteuse)."
+  - "Inactivation d'un X chez la femme : évite un double dosage des protéines codées par l'X (compensation de dosage) ; X inactivé compacté = corpuscule de Barr ; pendant l'embryogenèse, au hasard sur le X paternel ou maternel ⇒ mosaïque de cellules ; dans son ensemble, le corps exprime les deux allèles des gènes de l'X."
+
+traps:
+  - ["Gènes liés = toujours transmis ensemble", "Recombinaison possible par crossing-over", "p.10b"]
+  - ["Fréquence indépendante de la distance", "Elle dépend de la distance", "p.11"]
+  - ["1 cM = 10 %", "1 cM = 1 % ; max 50", "p.11"]
+  - ["Homme hétérozygote pour l'X", "Hémizygote (sauf régions pseudoautosomales)", "p.12h"]
+  - ["Hémophilie dominante", "Récessive liée au sexe", "p.12b"]
+  - ["X paternel toujours inactivé", "Au hasard → mosaïque", "p.13h"]
+
+mnemonics:
+  - ["Centimorgan", "« Centi = 1/100 » : 1 cM = 1 % ; plafond à 50 comme un pile ou face", "1 cM = 1 % · max 50 %"]
+  - ["Hémizygote", "« Hémi = moitié » : une seule copie du gène", "Homme XY pour les gènes de l'X"]
+
+quiz:
+  - q: "Gènes liés :"
+    props:
+      - ["Deux gènes liés sont situés sur le même chromosome.", true, "p.10h."]
+      - ["Le crossing-over permet des recombinaisons entre gènes liés.", true, "p.10b."]
+      - ["La fréquence de recombinaison est indépendante de la distance.", false, "Elle en dépend."]
+      - ["1 centimorgan correspond à 1 % de recombinaison.", true, "p.11."]
+      - ["La fréquence de recombinaison sert à cartographier les gènes.", true, "p.11."]
+  - q: "Hérédité liée au sexe :"
+    props:
+      - ["L'homme est hémizygote pour la majorité des gènes de l'X.", true, "p.12h."]
+      - ["Les régions pseudoautosomales sont communes à X et Y.", true, "p.12h."]
+      - ["L'hémophilie est due à un gène situé sur le chromosome Y.", false, "Sur le chromosome X."]
+      - ["Le gène de l'hémophilie code un facteur de coagulation.", true, "p.12b."]
+      - ["La reine Victoria était porteuse d'un allèle muté.", true, "p.12b."]
+  - q: "Inactivation de l'X :"
+    props:
+      - ["Elle permet une compensation de dosage.", true, "p.13h."]
+      - ["Le X inactivé forme le corpuscule de Barr.", true, "p.13h."]
+      - ["Elle a lieu à la puberté.", false, "Pendant l'embryogenèse."]
+      - ["La femme adulte est une mosaïque de cellules.", true, "p.13h."]
+      - ["Le corps de la femme exprime les deux allèles des gènes de l'X.", true, "Dans son ensemble."]
+
+coverage:
+  - ["S1-4", "10h", "Gènes liés", 2]
+  - ["S1-4", "10b", "Transmission de gènes liés, recombinaison", 3]
+  - ["S1-4", "11", "Fréquence de recombinaison, distance, centimorgan", 4]
+  - ["S1-4", "12h", "Hérédité liée au sexe, hémizygote", 5]
+  - ["S1-4", "12b", "Hémophilie, reine Victoria", 6]
+  - ["S1-4", "13h", "Inactivation d'un X, corpuscule de Barr, mosaïque", 7]

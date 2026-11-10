@@ -1,0 +1,204 @@
+title: "Procaryotes, virus et génome"
+subtitle: "Code universel · ARNm polycistroniques · virus · 1,5 % codant · taille ≠ complexité"
+source: "S1-3 p.23 à 27"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 7. Procaryotes · 8. Virus · 9. Gènes et génome"
+objectives:
+  - "Comparer la synthèse des protéines chez les procaryotes et les eucaryotes."
+  - "Décrire les virus et leur cycle de reproduction."
+  - "Décrire la composition du génome humain (3 catégories et pourcentages)."
+  - "Relier taille du génome, nombre de gènes et complexité ; lire la répartition des fonctions des gènes humains."
+
+scenes:
+  - kind: hook
+    title: "Plus de 98 % de ton ADN ne code pas de protéine"
+    ref: "S1-3 p.26"
+    big: "1,5 %"
+    beats:
+      - say: "Seulement 1,5 % de ton génome est transcrit et code des protéines. Et une plante japonaise a un génome presque cinquante fois plus grand que le tien."
+      - say: "Au programme : les procaryotes, les virus, et le génome."
+        show: "Procaryotes · *virus* · génome"
+
+  - kind: compare
+    title: "Synthèse des protéines : procaryotes vs eucaryotes"
+    ref: "S1-3 p.23"
+    header: ["", "Procaryotes", "Eucaryotes"]
+    beats:
+      - say: "Le code génétique est le même : il est universel. Les mécanismes de transcription et de traduction sont presque identiques, sauf sur quatre points."
+      - say: "Pas de maturation de l'ARN messager chez les procaryotes, car pas d'intron."
+        show: "Maturation | *aucune* (pas d'intron) | épissage, coiffe, poly-A"
+      - say: "Transcription et traduction dans le même compartiment, sans noyau, et quasi simultanées : les ribosomes se fixent sur l'ARN messager en cours de transcription."
+        show: "Lieu / timing | *même compartiment*, quasi *simultanées* | noyau puis cytoplasme"
+      - say: "Des ARN messagers *polycistroniques* : ils codent plusieurs protéines, avec plusieurs cadres de lecture à la suite."
+        show: "ARNm | *polycistroniques* (plusieurs protéines) | —"
+      - say: "Et des acteurs semblables mais pas identiques : les ribosomes sont plus petits. Ces différences sont à la base de certains antibiotiques qui inhibent les ribosomes bactériens, comme les tétracyclines."
+        show: "Ribosomes | *plus petits* → cibles d'antibiotiques (*tétracyclines*) | —"
+
+  - kind: figure
+    title: "Les virus"
+    ref: "S1-3 p.24"
+    fig: "S1-3:24h"
+    trap: "Virus : < 0,25 µm ; PAS des organismes vivants (pas de reproduction autonome) ; parasites cellulaires."
+    beats:
+      - say: "Les virus sont de très petite taille, moins de 0,25 micromètre. Ce ne sont *pas* des organismes vivants : ils sont incapables de se reproduire de façon autonome."
+        mark: ["0,25", "ne sont pas"]
+        show: "# < *0,25 µm* · *pas* des organismes vivants (pas de reproduction autonome)"
+      - say: "Ce sont des parasites cellulaires : ils infectent des cellules cibles spécifiques, animales, végétales ou bactériennes, et utilisent les machineries de réplication, de transcription et de traduction de la cellule infectée."
+        mark: ["parasites cellulaires", "machineries"]
+        show: "*Parasites cellulaires* : cibles spécifiques · utilisent les machineries de la cellule"
+
+  - kind: figure
+    title: "Le matériel des virus"
+    ref: "S1-3 p.24"
+    fig: "S1-3:24b"
+    trap: "ADN OU ARN ; capside ; enveloppe lipidique « volée » à la cellule (pour certains)."
+    beats:
+      - say: "Les virus contiennent un petit matériel génétique, sous forme d'ADN ou d'ARN, qui code des protéines de la *capside*, la capsule qui protège ce matériel, et des protéines qui interfèrent avec les fonctions de la cellule infectée."
+        mark: ["ADN ou d’ARN", "capside"]
+        show: "ADN *ou* ARN → protéines de la *capside* + protéines qui interfèrent avec la cellule"
+      - say: "Certains sont enveloppés d'une membrane lipidique, volée à la cellule dans laquelle ils se sont reproduits."
+        mark: "membrane lipidique"
+        show: "Certains : *enveloppe lipidique* volée à la cellule"
+
+  - kind: figure
+    title: "Le cycle d'un virus à ADN"
+    ref: "S1-3 p.25"
+    fig: "S1-3:25h"
+    trap: "Les nouvelles particules virales infectent d'autres cellules : amplification."
+    beats:
+      - say: "Pour se reproduire, le virus utilise les machineries de réplication, de transcription et de traduction de la cellule infectée. Les nouvelles particules virales vont infecter d'autres cellules : c'est l'amplification de l'infection."
+        focus: "all"
+        mark: ["machineries", "amplification"]
+        show: "Machineries cellulaires → nouvelles particules → *amplification* de l'infection"
+
+  - kind: figure
+    title: "Le génome humain"
+    ref: "S1-3 p.26"
+    fig: "S1-3:26h"
+    trap: "1,5 % transcrit et codant ; 20-25 % transcrit non codant ; 70-75 % non transcrit."
+    beats:
+      - say: "Le génome, c'est l'ensemble du matériel génétique d'un organisme. Pour l'homme : environ 3,2 milliards de paires de bases, réparties sur 23 chromosomes."
+        mark: ["3,2 milliards", "23 chromosomes"]
+        show: "Génome humain : ~*3,2 milliards* bp · *23* chromosomes"
+      - say: "Trois catégories. L'ADN transcrit et codant, les exons, parties traduites : seulement *1,5 %* du génome."
+        mark: "1,5%"
+        show: "# Transcrit et *codant* (exons traduits) : *1,5 %*"
+      - say: "L'ADN transcrit non codant, *20 à 25 %* : les régions 5 prime et 3 prime non traduites des exons, les introns, les longs ARN non codants, les micro-ARN, les ARNt et ARNr."
+        mark: "20-25%"
+        show: "Transcrit *non codant* (*20–25 %*) : UTR 5'/3' · introns · longs ARN non codants · microARNs · ARNt, ARNr"
+      - say: "L'ADN non transcrit, *70 à 75 %* : l'ADN de structure, comme les centromères, les régions intergéniques, les promoteurs, les pseudogènes, et les séquences répétées “parasites”, héritage d'intégrations virales."
+        mark: "70-75%"
+        show: "*Non transcrit* (*70–75 %*) : centromères · intergénique · promoteurs · pseudogènes · séquences répétées"
+
+  - kind: figure
+    title: "Taille du génome et complexité"
+    ref: "S1-3 p.26-27"
+    fig: "S1-3:27h"
+    trap: "Taille du génome et nombre de gènes ≠ complexité (le riz a plus de gènes que l'homme)."
+    beats:
+      - say: "Les génomes eucaryotes sont généralement plus grands, avec plus de gènes, que ceux des procaryotes. Mais la taille du génome et le nombre de gènes ne sont pas toujours liés à la complexité : l'homme a moins de gènes que la plante de riz."
+        show: "Taille et nb de gènes *≠* complexité (homme < *riz* en gènes)"
+      - say: "Comparez : Homo sapiens, 3,2 gigabases, avec 99 % d'identité avec le génome du chimpanzé. Protopterus aethiopicus, un poisson, 130 gigabases. Et Paris japonica, une plante, 150 gigabases."
+        mark: ["3,2 Gb", "130 Gb", "150 Gb"]
+        show: "*Homo sapiens* 3,2 Gb (99 % = chimpanzé) · *Protopterus aethiopicus* 130 Gb · *Paris japonica* 150 Gb"
+
+  - kind: figure
+    title: "La fonction des gènes humains"
+    ref: "S1-3 p.27"
+    fig: "S1-3:27b"
+    trap: "Facteurs de transcription : 2067 gènes (12,0 %) ; 23,6 % non classés."
+    beats:
+      - say: "Le camembert du cours répartit les gènes humains par fonction. Les non classés : 23,6 %. Les facteurs de transcription, encadrés : 2067 gènes, 12 %. Les transporteurs, encadrés : 6,4 %. Les protéines du cytosquelette, encadrées : 2,6 %. Et aussi les transférases, 8,8 %, la liaison aux acides nucléiques, 8,5 %, les récepteurs, 6,3 %."
+        focus: "all"
+        mark: ["transcription factors", "transporters", "cytoskeletal"]
+        show: "Non classés *23,6 %* · facteurs de transcription *12 %* (2067) · transporteurs *6,4 %* · cytosquelette *2,6 %*"
+
+  - kind: trap
+    title: "Les pièges du génome"
+    ref: "S1-3 p.23-27"
+    trap: "Virus non vivants ; UTR = transcrit non codant ; pseudogènes = non transcrit."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les virus sont des organismes vivants” : faux selon le cours, ils ne se reproduisent pas de façon autonome."
+        show: "✓ Virus = *pas* des organismes vivants"
+      - say: "“Les régions 5 prime et 3 prime non traduites sont de l'ADN non transcrit” : faux, elles sont transcrites, mais non codantes."
+        show: "✓ UTR 5'/3' = transcrit *non codant*"
+      - say: "“Plus de gènes, plus d'organisme complexe” : faux, le riz a plus de gènes que l'homme."
+        show: "✓ Nb de gènes *≠* complexité"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.23-26"
+    question: "Quelle part du génome humain est transcrite et codante ?"
+    options:
+      - "1,5 %"
+      - "20-25 %"
+      - "70-75 %"
+      - "99 %"
+    answer: [0]
+    beats:
+      - say: "Quiz : quelle part du génome humain est transcrite et codante ?"
+        countdown: 4
+      - say: "1,5 %. 20 à 25 %, c'est le transcrit non codant ; 70 à 75 %, le non transcrit."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 35 : mutations et polymorphisme"
+    ref: "S1-3 p.28"
+    big: "1 / 1250"
+    beats:
+      - say: "Prochain épisode : pourquoi nous sommes tous différents avec le même génome. Un nucléotide sur 1250, les mutations, et la thérapie génique."
+        show: "Polymorphisme · *mutations* · thérapie génique"
+
+recap:
+  - "Procaryotes : même code génétique (universel) ; mécanismes presque identiques, sauf : pas de maturation de l'ARNm (pas d'intron) ; transcription et traduction dans le même compartiment (pas de noyau), quasi simultanées (ribosomes fixés sur l'ARNm en cours de transcription) ; ARNm polycistroniques (plusieurs cadres de lecture) ; acteurs semblables mais pas identiques : ribosomes plus petits (base de certains antibiotiques, ex. tétracyclines)."
+  - "Virus : très petite taille (< 0,25 µm) ; pas des organismes vivants (incapables de se reproduire de façon autonome) ; parasites cellulaires (cibles spécifiques : animales, végétales, bactéries ; utilisent les machineries de réplication, transcription et traduction) ; matériel génétique de petite taille, ADN ou ARN, codant les protéines de la capside et des protéines interférant avec la cellule ; certains enveloppés d'une membrane lipidique volée à la cellule ; cycle d'un virus à ADN : nouvelles particules infectant d'autres cellules (amplification)."
+  - "Génome = ensemble du matériel génétique ; humain ~3,2 milliards de bp sur 23 chromosomes ; ADN transcrit et codant (exons traduits) : 1,5 % ; ADN transcrit non codant (exons 5' et 3' non traduits, longs ARN non codants, microARNs, ARNt, ARNr, introns) : 20-25 % ; ADN non transcrit (ADN de structure/centromères, régions intergéniques, promoteurs, pseudogènes, séquences répétées « parasites » héritées d'intégrations virales) : 70-75 %."
+  - "Génomes eucaryotes généralement plus grands et plus riches en gènes que les procaryotes, mais taille et nombre de gènes pas toujours liés à la complexité (l'homme a moins de gènes que le riz) ; Homo sapiens 3,2 Gb (99 % d'identité avec le chimpanzé), Protopterus aethiopicus 130 Gb, Paris japonica 150 Gb. Fonction des gènes humains : non classés 23,6 % ; facteurs de transcription 2067 (12,0 %) ; transporteurs 6,4 % ; protéines du cytosquelette 2,6 % ; transférases 8,8 % ; liaison aux acides nucléiques 8,5 % ; récepteurs 6,3 %…"
+
+traps:
+  - ["Code génétique différent chez les procaryotes", "Même code (universel)", "p.23b"]
+  - ["ARNm monocistronique chez les procaryotes", "ARNm polycistroniques", "p.23b"]
+  - ["Ribosomes bactériens plus grands", "Plus petits (cibles des tétracyclines)", "p.23b"]
+  - ["Virus = organismes vivants", "Pas des organismes vivants", "p.24h"]
+  - ["Virus = ADN uniquement", "ADN ou ARN", "p.24b"]
+  - ["Introns = non transcrits", "Introns = transcrits non codants", "p.26h"]
+  - ["Plus de gènes = plus complexe", "Pas toujours lié (riz > homme)", "p.26b"]
+
+mnemonics:
+  - ["Génome humain", "« 1,5 – 25 – 75 » : un petit codant, un quart transcrit non codant, trois quarts non transcrits", "1,5 % · 20-25 % · 70-75 %"]
+  - ["Procaryotes", "« Pas d'intron, pas de noyau, plusieurs protéines par ARN »", "Pas de maturation · simultané · polycistronique"]
+
+quiz:
+  - q: "Procaryotes :"
+    props:
+      - ["Le code génétique est universel.", true, "p.23b."]
+      - ["Les ARNm procaryotes subissent un épissage.", false, "Pas de maturation (pas d'intron)."]
+      - ["Transcription et traduction y sont quasi simultanées.", true, "p.23b."]
+      - ["Les ribosomes procaryotes sont plus petits.", true, "p.23b."]
+      - ["Les tétracyclines ciblent les ribosomes bactériens.", true, "p.23b."]
+  - q: "Virus :"
+    props:
+      - ["Les virus mesurent moins de 0,25 µm.", true, "p.24h."]
+      - ["Les virus se reproduisent de façon autonome.", false, "Ils en sont incapables."]
+      - ["La capside protège le matériel génétique.", true, "p.24b."]
+      - ["Certains virus possèdent une enveloppe lipidique volée à la cellule.", true, "p.24b."]
+      - ["Leur matériel génétique peut être de l'ARN.", true, "ADN ou ARN."]
+  - q: "Génome :"
+    props:
+      - ["Le génome humain compte environ 3,2 milliards de paires de bases.", true, "p.26h."]
+      - ["L'ADN transcrit et codant représente 1,5 % du génome.", true, "p.26h."]
+      - ["Les pseudogènes font partie de l'ADN transcrit codant.", false, "ADN non transcrit."]
+      - ["Paris japonica a un génome de 150 Gb.", true, "p.27h."]
+      - ["Les facteurs de transcription représentent 12 % des gènes humains.", true, "2067 gènes (p.27b)."]
+
+coverage:
+  - ["S1-3", "23h", "Sommaire du chapitre VIII (7. procaryotes)", 2]
+  - ["S1-3", "23b", "Synthèse des protéines chez les procaryotes", 2]
+  - ["S1-3", "24h", "Les virus : taille, non vivants, parasites", 3]
+  - ["S1-3", "24b", "Matériel des virus, capside, enveloppe", 4]
+  - ["S1-3", "25h", "Cycle de reproduction d'un virus à ADN", 5]
+  - ["S1-3", "25b", "Sommaire du chapitre VIII (9. gènes et génome)", 6]
+  - ["S1-3", "26h", "Génome humain : 3 catégories et pourcentages", 6]
+  - ["S1-3", "26b", "Taille du génome et complexité (riz)", 7]
+  - ["S1-3", "27h", "Homo sapiens, Protopterus aethiopicus, Paris japonica", 7]
+  - ["S1-3", "27b", "Fonction des gènes humains (camembert)", 8]

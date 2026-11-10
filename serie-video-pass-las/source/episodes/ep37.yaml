@@ -1,0 +1,172 @@
+title: "Maladies monogéniques et dihybridisme"
+subtitle: "Mucoviscidose (récessive) · glaucome juvénile (dominant) · RRYY × rryy · 9:3:3:1"
+source: "S1-4 p.5 à 7h"
+chapter: "Partie I — Chapitre X. Génétique et hérédité — 2. Monohybrides (maladies) · 3. Croisements polyhybrides"
+objectives:
+  - "Décrire la mucoviscidose et lire l'arbre généalogique du cours."
+  - "Décrire le glaucome juvénile."
+  - "Interpréter un croisement dihybride et ses conditions."
+
+scenes:
+  - kind: hook
+    title: "Un Européen sur 25"
+    ref: "S1-4 p.5"
+    big: "1 / 25"
+    beats:
+      - say: "En Europe, une personne sur vingt-cinq porte un allèle muté de la mucoviscidose, sans être malade. Comment est-ce possible ? La transmission récessive."
+      - say: "Au programme : une maladie récessive, une dominante, puis le croisement dihybride."
+        show: "Mucoviscidose · glaucome juvénile · *9 : 3 : 3 : 1*"
+
+  - kind: figure
+    title: "La mucoviscidose, maladie récessive"
+    ref: "S1-4 p.5"
+    fig: "S1-4:5h"
+    trap: "1/2500 enfants ; CFTR sur le chromosome 7 (canal à chlore) ; 1 Européen sur 25 porteur hétérozygote."
+    beats:
+      - say: "La mucoviscidose est une maladie d'origine génétique assez fréquente en Europe : un enfant sur deux mille cinq cents."
+        mark: "2500"
+        show: "# Mucoviscidose : *1 enfant / 2500* en Europe"
+      - say: "Le mucus des voies respiratoires et digestives devient plus visqueux. Les symptômes, respiratoires et digestifs, apparaissent dès la petite enfance, et l'espérance de vie est réduite, environ cinquante ans."
+        mark: ["viscosité", "50 ans"]
+        show: "Mucus *visqueux* (respiratoire, digestif) · dès la petite enfance · espérance de vie ± *50 ans*"
+      - say: "Le gène en cause : *CFTR*, sur le chromosome *sept*. Il code une protéine de canal ionique, qui transporte le chlore."
+        mark: ["CFTR", "chr. 7"]
+        show: "Gène *CFTR* (chr. *7*) : *canal ionique* (chlore)"
+      - say: "Un allèle muté code une protéine inactive, et cause la maladie de manière *récessive*. En Europe, une personne sur vingt-cinq est porteuse hétérozygote."
+        mark: ["récessive", "1 individu sur 25"]
+        show: "Allèle muté → maladie *récessive* · *1/25* porteur hétérozygote"
+      - say: "Sur l'arbre du cours, on déduit que les individus I.1 et I.2 sont hétérozygotes, porteurs d'un allèle muté ; que leur fils II.6 est aussi porteur ; et qu'il a malheureusement épousé une femme elle-même porteuse."
+        focus: [0.4, 0.4, 1.0, 1.0]
+        mark: ["I.1", "II.6"]
+        show: "Arbre : I.1 et I.2 *hétérozygotes* · II.6 porteur · épouse porteuse"
+
+  - kind: figure
+    title: "Le glaucome juvénile, maladie dominante"
+    ref: "S1-4 p.6"
+    fig: "S1-4:6h"
+    trap: "1/10 000 ; MYOC ; protéine sécrétée dans le liquide intra-oculaire ; allèles DOMINANTS ; symptômes entre 3 et 40 ans."
+    beats:
+      - say: "Le glaucome juvénile : maladie génétique rare, une personne sur dix mille. La vision s'altère, avec un rétrécissement progressif du champ de vision. Les symptômes apparaissent entre trois et quarante ans."
+        mark: ["10 000", "3 et 40 ans"]
+        show: "# Glaucome juvénile : *1/10 000* · champ visuel qui rétrécit · *3 à 40 ans*"
+      - say: "Le gène en cause : *MYOC*, qui code une protéine sécrétée dans le liquide intra-oculaire. Certains allèles causent la maladie de manière *dominante* : défaut de sécrétion, et accumulation de la protéine mutée dans les cellules."
+        mark: ["MYOC", "dominante"]
+        show: "Gène *MYOC* (protéine du liquide intra-oculaire) · allèles *dominants* · accumulation de la protéine mutée"
+
+  - kind: compare
+    title: "Mucoviscidose vs glaucome juvénile"
+    ref: "S1-4 p.5-6"
+    header: ["", "Mucoviscidose", "Glaucome juvénile"]
+    beats:
+      - say: "Côte à côte."
+      - say: "Mode : récessif pour la mucoviscidose, dominant pour le glaucome juvénile."
+        show: "Mode | *récessif* | *dominant*"
+      - say: "Fréquence : un sur deux mille cinq cents, contre un sur dix mille."
+        show: "Fréquence | 1/2500 (Europe) | 1/10 000"
+      - say: "Gène : CFTR, sur le chromosome sept, un canal à chlore ; contre MYOC, une protéine sécrétée."
+        show: "Gène | *CFTR* (chr. 7), canal Cl⁻ | *MYOC*, protéine sécrétée"
+
+  - kind: figure
+    title: "Le croisement dihybride"
+    ref: "S1-4 p.6"
+    fig: "S1-4:6b"
+    trap: "RRYY × rryy → F1 RrYy (ronds et jaunes) : rond et jaune sont dominants."
+    beats:
+      - say: "Croisement *dihybride* : on suit deux caractères, chacun avec deux phénotypes. Caractère un, la forme du pois : rond, R majuscule, ou ridé, r minuscule. Caractère deux, la couleur : jaune, Y majuscule, ou vert, y minuscule."
+        mark: ["dihybride", "rond (R)", "jaune (Y)"]
+        show: "*Dihybride* : forme (*R* rond / r ridé) · couleur (*Y* jaune / y vert)"
+      - say: "On croise des pois ronds et jaunes, R R Y Y, avec des pois ridés et verts, r r y y. Les gamètes sont R Y et r y. En F1, toutes les plantes sont R r Y y, à pois ronds et jaunes : ces deux formes sont dominantes."
+        mark: ["RRYY", "RrYy"]
+        show: "RRYY × rryy → F1 *RrYy* : ronds et jaunes (dominants)"
+
+  - kind: figure
+    title: "La F2 : 9, 3, 3, 1"
+    ref: "S1-4 p.7"
+    fig: "S1-4:7h"
+    trap: "9/16 · 3/16 · 3/16 · 1/16 — SEULEMENT si les gènes sont transmis indépendamment (chromosomes différents)."
+    beats:
+      - say: "L'autofécondation des F1 donne une F2 variée : neuf seizièmes ronds et jaunes, trois seizièmes ronds et verts, trois seizièmes ridés et jaunes, un seizième ridés et verts."
+        mark: ["9/16", "1/16"]
+        show: "F2 : *9/16* ronds jaunes · *3/16* ronds verts · *3/16* ridés jaunes · *1/16* ridés verts"
+      - say: "Condition : les gènes doivent être transmis de manière *indépendante*, c'est-à-dire être localisés sur des chromosomes différents."
+        mark: "indépendante"
+        show: "Condition : gènes *indépendants* (chromosomes *différents*)"
+
+  - kind: mnemo
+    title: "9, 3, 3, 1 sans calcul"
+    ref: "S1-4 p.7"
+    phrase: "*3/4* × *3/4* = *9/16*"
+    trap: "Le 1/16 = double récessif (ridé ET vert)."
+    beats:
+      - say: "Astuce de calcul, cohérente avec le cours : chaque caractère suit trois quarts, un quart. Rond et jaune : trois quarts fois trois quarts, neuf seizièmes. Rond et vert, ou ridé et jaune : trois quarts fois un quart, trois seizièmes. Ridé et vert : un quart fois un quart, un seizième."
+        show: "¾ × ¾ = *9/16* · ¾ × ¼ = *3/16* (×2) · ¼ × ¼ = *1/16*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.5-7"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Le gène CFTR est situé sur le chromosome 11."
+      - "Le glaucome juvénile se transmet de manière dominante."
+      - "En F2 dihybride, on obtient 9/16 de pois ridés et verts."
+      - "La mucoviscidose touche 1 enfant sur 25 en Europe."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. CFTR est sur le chromosome sept, les ridés verts font un seizième, et un sur vingt-cinq, c'est la fréquence des porteurs, pas des malades."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 38 : au-delà de Mendel"
+    ref: "S1-4 p.7"
+    big: "AB × AO"
+    beats:
+      - say: "Prochain épisode : quand Mendel ne suffit plus. Codominance, dominance incomplète, groupes sanguins, et un exercice de probabilités."
+        show: "Codominance · *ABO* · probabilités"
+
+recap:
+  - "Mucoviscidose : maladie génétique assez fréquente en Europe (1 enfant/2500) ; augmentation de la viscosité du mucus (voies respiratoires et digestives) ; symptômes (troubles respiratoires et digestifs) dès la petite enfance ; espérance de vie réduite (± 50 ans) ; gène CFTR (chromosome 7), protéine de canal ionique (transport du chlore) ; allèle muté (protéine inactive) → transmission récessive ; en Europe, 1 individu sur 25 porteur hétérozygote. Arbre : I.1 et I.2 hétérozygotes ; leur fils II.6 porteur, marié à une femme porteuse."
+  - "Glaucome juvénile : maladie génétique rare (1/10 000) ; altération de la vision (rétrécissement progressif du champ de vision) ; symptômes entre 3 et 40 ans ; gène MYOC (protéine sécrétée dans le liquide intra-oculaire) ; allèles causant la maladie de manière dominante (défaut de sécrétion, accumulation de la protéine mutée dans les cellules)."
+  - "Croisement dihybride : deux caractères à deux phénotypes (forme : rond R / ridé r ; couleur : jaune Y / vert y) ; RRYY × rryy (gamètes RY, ry) → F1 RrYy ronds et jaunes (formes dominantes) ; F2 : 9/16 ronds jaunes, 3/16 ronds verts, 3/16 ridés jaunes, 1/16 ridés verts ; condition : gènes transmis de manière indépendante (chromosomes différents)."
+
+traps:
+  - ["Mucoviscidose dominante", "Récessive ; glaucome juvénile dominant", "p.5-6"]
+  - ["CFTR sur le chromosome 11", "Chromosome 7 (11 = insuline)", "p.5"]
+  - ["1/25 malades", "1/2500 malades ; 1/25 porteurs hétérozygotes", "p.5"]
+  - ["MYOC = canal ionique", "MYOC = protéine sécrétée dans le liquide intra-oculaire ; CFTR = canal", "p.6h"]
+  - ["9:3:3:1 pour des gènes sur le même chromosome", "Seulement si transmis indépendamment (chromosomes différents)", "p.7h"]
+
+mnemonics:
+  - ["Récessif vs dominant", "Muco = mucus caché chez les porteurs (récessif) ; glaucome = visible dès un allèle (dominant)", "Mucoviscidose récessive (CFTR, chr. 7) · glaucome juvénile dominant (MYOC)"]
+  - ["9:3:3:1", "¾ × ¾, ¾ × ¼, ¼ × ¾, ¼ × ¼", "9/16, 3/16, 3/16, 1/16"]
+
+quiz:
+  - q: "Mucoviscidose :"
+    props:
+      - ["Elle touche environ 1 enfant sur 2500 en Europe.", true, "p.5."]
+      - ["Le gène CFTR code une protéine de canal ionique transportant le chlore.", true, "p.5."]
+      - ["La mucoviscidose se transmet de manière dominante.", false, "Récessive."]
+      - ["En Europe, 1 individu sur 25 est porteur hétérozygote.", true, "p.5."]
+      - ["L'espérance de vie est d'environ 50 ans.", true, "p.5."]
+  - q: "Glaucome juvénile :"
+    props:
+      - ["Il concerne environ 1 personne sur 10 000.", true, "p.6h."]
+      - ["Les symptômes apparaissent entre 3 et 40 ans.", true, "p.6h."]
+      - ["Le gène en cause est MYOC.", true, "p.6h."]
+      - ["Il se transmet de manière récessive.", false, "Dominante."]
+      - ["La protéine mutée s'accumule dans les cellules.", true, "Défaut de sécrétion."]
+  - q: "Dihybridisme :"
+    props:
+      - ["Le croisement RRYY × rryy donne des F1 RrYy.", true, "p.6b."]
+      - ["Les F1 ont des pois ridés et verts.", false, "Ronds et jaunes."]
+      - ["La F2 comprend 9/16 de pois ronds et jaunes.", true, "p.7h."]
+      - ["La F2 comprend 1/16 de pois ridés et verts.", true, "p.7h."]
+      - ["Ces proportions supposent des gènes sur des chromosomes différents.", true, "Transmission indépendante."]
+
+coverage:
+  - ["S1-4", "5h", "Mucoviscidose : fréquence, symptômes, CFTR, récessive, porteurs, arbre", 2]
+  - ["S1-4", "5b", "Mucoviscidose (diapo répétée avec l'arbre)", 2]
+  - ["S1-4", "6h", "Glaucome juvénile : MYOC, dominant", 3]
+  - ["S1-4", "6b", "Croisement dihybride RRYY × rryy → F1 RrYy", 5]
+  - ["S1-4", "7h", "F2 9/16, 3/16, 3/16, 1/16 ; condition d'indépendance", 6]

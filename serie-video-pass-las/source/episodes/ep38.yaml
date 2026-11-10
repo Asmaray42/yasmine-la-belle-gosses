@@ -1,0 +1,180 @@
+title: "Au-delà de Mendel : groupes ABO et probabilités"
+subtitle: "Polygénique · pléiotropique · multiallélisme · dominance incomplète · codominance · transfusions · Maria et Théo"
+source: "S1-4 p.7b à 9"
+chapter: "Partie I — Chapitre X. Génétique et hérédité — 4. Au-delà des lois de Mendel"
+objectives:
+  - "Citer la condition des lois de Mendel et les 5 situations qui s'en écartent."
+  - "Décrire le système ABO (allèles, sucres, génotypes, phénotypes) et la compatibilité transfusionnelle."
+  - "Résoudre les exercices de probabilité du cours."
+
+scenes:
+  - kind: hook
+    title: "Ni dominant, ni récessif"
+    ref: "S1-4 p.7"
+    big: "AB"
+    beats:
+      - say: "Un groupe sanguin AB, c'est un allèle A et un allèle B qui s'expriment tous les deux. Ni l'un ni l'autre ne domine : Mendel ne suffit plus."
+      - say: "Au programme : les exceptions aux lois de Mendel, le système ABO, et deux exercices."
+        show: "Codominance · *ABO* · transfusions · probabilités"
+
+  - kind: figure
+    title: "Au-delà des lois de Mendel"
+    ref: "S1-4 p.7"
+    fig: "S1-4:7b"
+    trap: "Dominance INCOMPLÈTE = phénotype intermédiaire (rose) ; CODOMINANCE = addition des caractères (AB)."
+    beats:
+      - say: "Les lois de Mendel ne s'appliquent que si chaque caractère dépend d'un seul gène, avec deux allèles, l'un dominant, l'autre récessif. En réalité, cinq situations s'en écartent."
+        mark: "ne s’appliquent que si"
+        show: "Mendel : *1 gène*, *2 allèles* (dominant/récessif)"
+      - say: "L'*hérédité polygénique* : plusieurs gènes pour un caractère, comme la taille chez l'homme. Le gène *pléiotropique* : un même gène influence plusieurs caractères."
+        mark: ["polygénique", "pléiotropique"]
+        show: "*Polygénique* : plusieurs gènes (taille) · *pléiotropique* : 1 gène, plusieurs caractères"
+      - say: "Plus de deux allèles dans une population, même si chaque individu n'en a jamais plus de deux : c'est le cas des groupes ABO."
+        mark: "plus que deux allèles"
+        show: "> 2 allèles dans la population (max 2 par individu) : *ABO*"
+      - say: "La *dominance incomplète* : l'hétérozygote a un phénotype intermédiaire. Une belle-de-nuit rouge croisée avec une blanche donne des fleurs roses."
+        mark: ["dominance incomplète", "roses"]
+        show: "*Dominance incomplète* : intermédiaire (rouge × blanc → *rose*)"
+      - say: "La *codominance* : pas de dominance, chaque allèle a son effet propre, et l'hétérozygote additionne les caractères des deux homozygotes. Exemple : les groupes ABO."
+        mark: "codominants"
+        show: "*Codominance* : les deux s'expriment, *addition* (ABO)"
+
+  - kind: figure
+    title: "Les groupes sanguins ABO"
+    ref: "S1-4 p.8"
+    fig: "S1-4:8h"
+    trap: "IA → galactosamine ; IB → galactose ; IO → perte de fonction ; IA et IB codominants, IO récessif."
+    beats:
+      - say: "Le gène des groupes ABO code une enzyme qui ajoute des molécules de sucre à la surface des érythrocytes. Trois allèles : I A ajoute de la galactosamine ; I B, du galactose ; I O, c'est une perte de fonction."
+        mark: ["galactosamine", "galactose", "perte de fonction"]
+        show: "*IA* → galactosamine · *IB* → galactose · *IO* → perte de fonction"
+      - say: "I A et I B sont codominants ; I O est récessif. Quatre phénotypes : groupe A, I A I A ou I A I O ; groupe B, I B I B ou I B I O ; groupe AB, I A I B ; groupe O, I O I O."
+        mark: ["co-dominants", "Groupe AB"]
+        show: "A : IAIA, IAIO · B : IBIB, IBIO · *AB* : IAIB · *O* : IOIO"
+
+  - kind: figure
+    title: "Exercice : maman AB, papa A"
+    ref: "S1-4 p.8"
+    fig: "S1-4:8b"
+    trap: "IAIB × IAIO → A 50 % · B 25 % · AB 25 % · O 0 %."
+    beats:
+      - say: "Une maman de groupe AB, I A I B, et un papa de groupe A, I A I O. Quelles fréquences attendre chez leurs enfants ?"
+        mark: "maman de groupe AB"
+      - say: "Les enfants reçoivent I A ou I B de la maman, I A ou I O du papa. Résultat : groupe A, 50 % ; groupe B, 25 % ; groupe AB, 25 % ; groupe O, zéro."
+        mark: ["50%", "0%"]
+        show: "A *50 %* · B *25 %* · AB *25 %* · O *0 %*"
+
+  - kind: table
+    title: "Compatibilité lors des transfusions"
+    ref: "S1-4 p.9"
+    header: ["Groupe", "Sucres présents", "Donneurs et receveurs"]
+    beats:
+      - say: "Si on reçoit un sang portant des sucres qu'on ne possède pas, le système immunitaire l'attaque, comme étranger. Les combinaisons sont donc limitées."
+      - say: "Groupe A : galactosamine. Il reçoit A et O, il donne à A et AB."
+        show: "A | galactosamine | reçoit A et O · donne à A et AB"
+      - say: "Groupe B : galactose. Il reçoit B et O, il donne à B et AB."
+        show: "B | galactose | reçoit B et O · donne à B et AB"
+      - say: "Groupe AB : les deux sucres. C'est le receveur universel, et il donne à AB."
+        show: "AB | galactose + galactosamine | *receveur universel* · donne à AB"
+      - say: "Groupe O : aucun sucre. Il reçoit O, et c'est le donneur universel."
+        show: "O | *aucun* | reçoit O · *donneur universel*"
+
+  - kind: flow
+    title: "Le cas de Maria et Théo"
+    ref: "S1-4 p.9"
+    trap: "Probabilités indépendantes → on MULTIPLIE : 1/4 × 1/2 × 1/2 = 1/16."
+    beats:
+      - say: "Maria et Théo, tous deux sains mais porteurs de la bêta-thalassémie, maladie du sang récessive : génotype H normal, h muté. Maria a aussi une brachydactylie, des doigts courts, à transmission dominante : d normal, D muté. Ils sont tous deux de groupe AB, et voudraient pouvoir donner leur sang à leur enfant s'il est malade. Quelle probabilité d'un enfant qui cumule le pire ?"
+        show: "Maria : Hh, dD, AB · Théo : Hh, dd, AB"
+      - say: "Bêta-thalassémie : H h croisé avec H h donne un quart de h h, malade."
+        show: "β-thalassémie : Hh × Hh → *1/4* hh"
+      - say: "Brachydactylie : d D croisé avec d d donne moitié d D, atteint."
+        show: "Brachydactylie : dD × dd → *1/2* dD"
+      - say: "Groupe : I A I B croisé avec I A I B donne moitié de groupes non AB, I A I A ou I B I B, incompatibles avec les parents, car seul AB est compatible."
+        show: "Groupe non AB (incompatible) : IAIB × IAIB → *1/2*"
+      - say: "Les trois événements sont indépendants : on multiplie. Un quart fois un demi fois un demi : un seizième."
+        show: "¼ × ½ × ½ = *1/16*"
+
+  - kind: trap
+    title: "Incomplète ou codominance ?"
+    ref: "S1-4 p.7-9"
+    trap: "Intermédiaire = incomplète ; addition = codominance ; O = donneur universel ; AB = receveur universel."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les groupes ABO sont un exemple de dominance incomplète” : faux, de codominance. La dominance incomplète, c'est la belle-de-nuit rose."
+        show: "✓ ABO = *codominance* · belle-de-nuit rose = *dominance incomplète*"
+      - say: "“Le groupe AB est donneur universel” : faux, receveur universel. Le donneur universel, c'est O."
+        show: "✓ *O* donneur universel · *AB* receveur universel"
+      - say: "“Un individu peut porter trois allèles du gène ABO” : faux, jamais plus de deux, même s'il en existe trois dans la population."
+        show: "✓ Max *2* allèles par individu"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.8"
+    question: "Maman AB (IAIB) × papa A (IAIO) : quelle est la probabilité d'un enfant de groupe O ?"
+    options:
+      - "0 %"
+      - "25 %"
+      - "50 %"
+    answer: [0]
+    beats:
+      - say: "Quiz : maman AB, papa A I A I O. Probabilité d'un enfant de groupe O ?"
+        countdown: 5
+      - say: "Zéro : la maman ne peut pas transmettre d'I O."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 39 : gènes liés et chromosome X"
+    ref: "S1-4 p.10"
+    big: "1 cM = 1 %"
+    beats:
+      - say: "Prochain épisode : les gènes liés, le centimorgan, l'hémophilie de la reine Victoria, et l'inactivation de l'X."
+        show: "Gènes liés · *centimorgan* · hémophilie · X inactivé"
+
+recap:
+  - "Lois de Mendel valables seulement si chaque caractère dépend d'un seul gène à deux allèles (dominant/récessif). En réalité : hérédité polygénique (plusieurs gènes, ex. taille) ; gène pléiotropique (plusieurs caractères) ; plus de deux allèles dans une population, jamais plus de deux par individu (ex. ABO) ; dominance incomplète (hétérozygote intermédiaire, ex. belle-de-nuit rouge × blanche → rose) ; codominance (chaque allèle a son effet, l'hétérozygote additionne, ex. ABO)."
+  - "Groupes ABO : enzyme ajoutant des sucres à la surface des érythrocytes ; IA → galactosamine, IB → galactose, IO → perte de fonction ; IA et IB codominants, IO récessif ; A (IAIA ou IAIO), B (IBIB ou IBIO), AB (IAIB), O (IOIO). Exercice : mère AB (IAIB) × père A (IAIO) → A 50 %, B 25 %, AB 25 %, O 0 %."
+  - "Transfusions : recevoir un sang portant des sucres qu'on ne possède pas → attaque immunitaire. A (galactosamine) : reçoit A et O, donne à A et AB ; B (galactose) : reçoit B et O, donne à B et AB ; AB (galactose et galactosamine) : receveur universel, donne à AB ; O (aucun) : reçoit O, donneur universel."
+  - "Maria et Théo : porteurs de β-thalassémie (récessive ; Hh × Hh → 1/4 hh) ; Maria brachydactylie (dominante ; dD × dd → 1/2) ; tous deux AB (seul AB compatible ; IAIB × IAIB → 1/2 non AB) ⇒ 1/4 × 1/2 × 1/2 = 1/16."
+
+traps:
+  - ["ABO = dominance incomplète", "ABO = codominance ; belle-de-nuit rose = dominance incomplète", "p.7b"]
+  - ["3 allèles ABO par individu", "3 dans la population, max 2 par individu", "p.7b"]
+  - ["IO = galactose", "IA galactosamine ; IB galactose ; IO perte de fonction", "p.8h"]
+  - ["AB × AO → 25 % O", "0 % O", "p.8b"]
+  - ["AB donneur universel", "O donneur universel ; AB receveur universel", "p.9h"]
+  - ["Additionner les probabilités", "Multiplier (événements indépendants) : 1/16", "p.9b"]
+
+mnemonics:
+  - ["Incomplète vs codominance", "Incomplète = mélange de peinture (rose) ; codominance = deux drapeaux côte à côte (A et B)", "Intermédiaire vs addition"]
+  - ["Transfusions", "O = « O-ffre à tous » ; AB = « Accepte Beaucoup »", "O donneur universel · AB receveur universel"]
+
+quiz:
+  - q: "Au-delà de Mendel :"
+    props:
+      - ["La taille chez l'homme est un exemple d'hérédité polygénique.", true, "p.7b."]
+      - ["Un gène pléiotropique influence plusieurs caractères.", true, "p.7b."]
+      - ["Un individu peut posséder trois allèles d'un même gène.", false, "Jamais plus de deux."]
+      - ["Dans la dominance incomplète, l'hétérozygote a un phénotype intermédiaire.", true, "Belle-de-nuit rose."]
+      - ["Les groupes ABO illustrent la codominance.", true, "IA et IB."]
+  - q: "Système ABO :"
+    props:
+      - ["L'allèle IA ajoute de la galactosamine.", true, "p.8h."]
+      - ["L'allèle IO est dominant.", false, "Récessif."]
+      - ["Le groupe O correspond au génotype IOIO.", true, "p.8h."]
+      - ["Un individu IAIO est de groupe A.", true, "p.8h."]
+      - ["Le groupe AB est receveur universel.", true, "p.9h."]
+  - q: "Probabilités :"
+    props:
+      - ["Mère IAIB × père IAIO : 50 % d'enfants de groupe A.", true, "p.8b."]
+      - ["Mère IAIB × père IAIO : 25 % d'enfants de groupe O.", false, "0 %."]
+      - ["Hh × Hh donne 1/4 de hh.", true, "p.9b."]
+      - ["dD × dd donne 1/2 d'enfants atteints de brachydactylie.", true, "Transmission dominante."]
+      - ["La probabilité cumulée du cas Maria/Théo est de 1/16.", true, "1/4 × 1/2 × 1/2."]
+
+coverage:
+  - ["S1-4", "7b", "Au-delà de Mendel : polygénique, pléiotropique, multiallélisme, dominance incomplète, codominance", 2]
+  - ["S1-4", "8h", "Groupes ABO : allèles, sucres, génotypes, phénotypes", 3]
+  - ["S1-4", "8b", "Exercice AB × AO", 4]
+  - ["S1-4", "9h", "Compatibilité transfusionnelle (tableau)", 5]
+  - ["S1-4", "9b", "Cas Maria et Théo (1/16)", 6]

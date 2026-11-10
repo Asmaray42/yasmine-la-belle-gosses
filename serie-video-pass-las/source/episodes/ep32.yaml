@@ -1,0 +1,142 @@
+title: "Adressage : SRP, RER et trafic des protéines"
+subtitle: "Peptide signal · particule de reconnaissance du signal · séquences d'adressage · tableau de tri"
+source: "S1-3 p.17 à 18"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 5. Trafic des protéines"
+objectives:
+  - "Décrire la synthèse des protéines dans le RER (peptide signal, SRP)."
+  - "Expliquer les deux aiguillages du trafic des protéines."
+  - "Restituer le tableau synthèse → tri → destination."
+
+scenes:
+  - kind: hook
+    title: "Toute protéine démarre au même endroit"
+    ref: "S1-3 p.17"
+    big: "cytosol"
+    beats:
+      - say: "Qu'elle soit destinée à être sécrétée, au noyau ou aux lysosomes, toute protéine commence sa traduction au même endroit : le cytosol. Puis un petit signal change tout."
+      - say: "Au programme : le peptide signal, la SRP, et le tri des protéines."
+        show: "Peptide signal · *SRP* · tri des protéines"
+
+  - kind: flow
+    title: "Synthèse de protéines dans le RER"
+    ref: "S1-3 p.17-18"
+    trap: "Peptide signal : ± 20 aa HYDROPHOBES, N-TERMINAUX ; il reste dans la membrane du RER puis est coupé par une enzyme."
+    beats:
+      - say: "Le parcours d'une protéine du RER."
+      - say: "La traduction de l'ARN messager venu du noyau débute toujours dans le cytosol."
+        show: "Traduction débute *toujours* dans le *cytosol*"
+      - say: "Si le polypeptide naissant a un *peptide signal*, environ vingt acides aminés hydrophobes à l'extrémité N-terminale, celui-ci est reconnu par la *particule de reconnaissance du signal*, la SRP."
+        show: "*Peptide signal* (± 20 aa hydrophobes, *N-terminal*) reconnu par la *SRP*"
+      - say: "La liaison de la SRP interrompt l'élongation, et fixe le ribosome sur la membrane du RER. La SRP dirige l'ensemble vers un complexe de protéines de la membrane, qui comprend un canal à protéines."
+        show: "SRP : *arrête* l'élongation · fixe le ribosome au *RER* · vers un *canal*"
+      - say: "La SRP se détache, et la synthèse reprend vers la lumière du RER. Le peptide signal reste attaché à la membrane, puis une enzyme coupe la séquence signal."
+        show: "SRP se détache · synthèse vers la *lumière* · une enzyme *coupe* le signal"
+      - say: "Le polypeptide achevé se détache du ribosome et adopte sa structure tertiaire. Les polypeptides sans peptide signal, eux, poursuivent leur synthèse dans le cytosol."
+        show: "Structure tertiaire · *sans* peptide signal → reste dans le *cytosol*"
+
+  - kind: figure
+    title: "Le trafic des protéines"
+    ref: "S1-3 p.18"
+    fig: "S1-3:18b"
+    trap: "1er aiguillage = lieu de synthèse ; tri au Golgi ; mitochondries : la PLUPART des protéines importées."
+    beats:
+      - say: "Les protéines doivent être là où elles sont nécessaires : d'où un système complexe de trafic. Le lieu de synthèse, cytosol ou RER, est un premier aiguillage. Des séquences d'adressage dirigent ensuite les protéines vers leur destination. À partir du RER, c'est dans le Golgi que se fait le tri."
+        mark: ["premier aiguillage", "séquences d’adressage", "Golgi"]
+        show: "Lieu de synthèse = *1er aiguillage* · *séquences d'adressage* · tri dans le *Golgi*"
+      - say: "Quelques protéines mitochondriales sont synthétisées sur place, mais la plupart sont importées depuis le cytosol."
+        mark: "quelques protéines mitochondriales"
+        show: "Mitochondries : *quelques* protéines sur place, la *plupart* importées"
+
+  - kind: table
+    title: "Synthèse → tri → destination"
+    ref: "S1-3 p.18"
+    header: ["Synthèse", "Tri", "Destination"]
+    beats:
+      - say: "Le tableau du cours."
+      - say: "Synthèse dans les mitochondries : destination, les mitochondries."
+        show: "Mitochondries | — | mitochondries"
+      - say: "Synthèse dans le cytosol : destinations, les mitochondries, le cytosol, et le noyau, sauf son enveloppe."
+        show: "Cytosol | — | mitochondries · cytosol · *noyau* (sauf enveloppe)"
+      - say: "Si peptide signal, synthèse dans le RER, tri dans le Golgi : destinations, les protéines membranaires, les lysosomes, les protéines sécrétées, et le REL."
+        show: "*RER* (si peptide signal) | *Golgi* | protéines membranaires · lysosomes · sécrétées · REL"
+
+  - kind: trap
+    title: "Les pièges de l'adressage"
+    ref: "S1-3 p.17-18"
+    trap: "Toujours démarrée dans le cytosol ; peptide signal N-terminal ; protéines du noyau synthétisées dans le cytosol."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les protéines sécrétées commencent leur traduction dans le RER” : faux, toujours dans le cytosol, puis le ribosome est amené au RER."
+        show: "✓ Traduction débute *toujours* dans le cytosol"
+      - say: "“Le peptide signal est C-terminal” : faux, il est N-terminal."
+        show: "✓ Peptide signal *N-terminal* (± 20 aa hydrophobes)"
+      - say: "“Les protéines du noyau passent par le Golgi” : faux, elles sont synthétisées dans le cytosol, sauf celles de l'enveloppe."
+        show: "✓ Noyau (sauf enveloppe) ← *cytosol*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.17-18"
+    question: "Quel est le rôle de la SRP ?"
+    options:
+      - "Couper la séquence signal."
+      - "Reconnaître le peptide signal et amener le ribosome au RER."
+      - "Ajouter des chaînes glucidiques."
+      - "Importer les protéines dans les mitochondries."
+    answer: [1]
+    beats:
+      - say: "Quiz : quel est le rôle de la SRP ?"
+        countdown: 4
+      - say: "Elle reconnaît le peptide signal, stoppe l'élongation et amène le ribosome au RER. C'est une enzyme qui coupe ensuite la séquence signal."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 33 : la régulation des gènes"
+    ref: "S1-3 p.19"
+    big: "± 2000"
+    beats:
+      - say: "Prochain épisode : comment allumer ou éteindre un gène, avec environ deux mille facteurs de transcription, et comment détruire une protéine avec l'ubiquitine."
+        show: "Facteurs de transcription · *ubiquitine* · protéasome"
+
+recap:
+  - "La traduction de l'ARNm débute toujours dans le cytosol ; si le polypeptide naissant comporte un peptide signal (± 20 aa hydrophobes N-terminaux), celui-ci est reconnu par la particule de reconnaissance du signal (SRP) ; la liaison de la SRP interrompt l'élongation et fixe le ribosome sur la membrane du RER ; la SRP dirige l'ensemble vers un complexe de protéines membranaires comprenant un canal ; la SRP se détache ; la synthèse se poursuit vers la lumière du RER (le peptide signal reste attaché à la membrane) ; une enzyme coupe la séquence signal ; le polypeptide se détache et adopte sa structure tertiaire. Sans peptide signal, la synthèse se poursuit dans le cytosol."
+  - "Trafic : le lieu de synthèse (cytosol ou RER) = premier aiguillage ; séquences d'adressage ; à partir du RER, tri dans le Golgi ; quelques protéines mitochondriales synthétisées sur place, la plupart importées du cytosol. Tableau : mitochondries → mitochondries ; cytosol → mitochondries, cytosol, noyau (sauf enveloppe) ; RER (si peptide signal) → Golgi → protéines membranaires, lysosomes, protéines sécrétées, REL."
+
+traps:
+  - ["Traduction démarrée dans le RER", "Toujours dans le cytosol", "p.17b"]
+  - ["Peptide signal C-terminal, hydrophile", "± 20 aa hydrophobes N-terminaux", "p.17b"]
+  - ["La SRP coupe le peptide signal", "La SRP reconnaît le signal ; une enzyme coupe la séquence signal", "p.18h"]
+  - ["Toutes les protéines mitochondriales importées", "Quelques-unes synthétisées sur place, la plupart importées", "p.18b"]
+  - ["Protéines nucléaires via le Golgi", "Synthétisées dans le cytosol (sauf enveloppe)", "p.18b"]
+
+mnemonics:
+  - ["SRP", "« Stop, Ramène au Pont » : elle stoppe l'élongation et ramène le ribosome au RER", "Particule de reconnaissance du signal"]
+  - ["Destinations via RER-Golgi", "« Membrane, Lysosome, Sécrétion (+ REL) » = « MLS »", "Protéines membranaires · lysosomes · sécrétées · REL"]
+
+quiz:
+  - q: "Synthèse dans le RER :"
+    props:
+      - ["La traduction débute toujours dans le cytosol.", true, "p.17b."]
+      - ["Le peptide signal comprend ± 20 acides aminés hydrophobes N-terminaux.", true, "p.17b."]
+      - ["La liaison de la SRP accélère l'élongation.", false, "Elle l'interrompt."]
+      - ["Le peptide signal reste attaché à la membrane du RER avant d'être coupé.", true, "p.18h."]
+      - ["Les polypeptides sans peptide signal poursuivent leur synthèse dans le cytosol.", true, "p.17b."]
+  - q: "Trafic des protéines :"
+    props:
+      - ["Le lieu de synthèse constitue un premier aiguillage.", true, "p.18b."]
+      - ["À partir du RER, le tri est effectué dans le Golgi.", true, "p.18b."]
+      - ["Toutes les protéines mitochondriales sont synthétisées dans la mitochondrie.", false, "La plupart sont importées du cytosol."]
+      - ["Les protéines lysosomiales passent par le RER et le Golgi.", true, "Tableau p.18b."]
+      - ["Les protéines du noyau (sauf enveloppe) sont synthétisées dans le cytosol.", true, "Tableau p.18b."]
+  - q: "SRP et séquences :"
+    props:
+      - ["SRP signifie particule de reconnaissance du signal.", true, "p.17b."]
+      - ["Des séquences d'adressage dirigent les protéines vers leur destination.", true, "p.18b."]
+      - ["La SRP reste fixée en permanence au ribosome.", false, "Elle se détache."]
+      - ["Le complexe membranaire du RER comprend un canal à protéines.", true, "p.18h."]
+      - ["Après la coupure du signal, le polypeptide adopte sa structure tertiaire.", true, "p.18h."]
+
+coverage:
+  - ["S1-3", "17h", "Sommaire du chapitre VIII (5. trafic des protéines)", 2]
+  - ["S1-3", "17b", "Synthèse dans le RER : peptide signal, SRP", 2]
+  - ["S1-3", "18h", "SRP (suite), canal, coupure de la séquence signal", 2]
+  - ["S1-3", "18b", "Trafic des protéines : aiguillages, tableau", 3]

@@ -1,0 +1,219 @@
+title: "Respiration cellulaire (1) : glycolyse, pyruvate, Krebs"
+subtitle: "ΔG –686 kcal/mole · NAD+ · 5 étapes · glycolyse · acétyl-CoA · cycle du citrate"
+source: "S1-4 p.20 à 23h"
+chapter: "Partie I — Chapitre VII. Métabolisme cellulaire — 4. La respiration cellulaire"
+objectives:
+  - "Écrire la réaction globale de la respiration et son ΔG ; expliquer le principe de l'oxydation par étapes."
+  - "Distinguer phosphorylation liée au substrat et phosphorylation oxydative ; décrire le rôle du NAD+."
+  - "Décrire les 5 étapes et leur localisation."
+  - "Donner le bilan de la glycolyse, de l'oxydation du pyruvate et du cycle de Krebs."
+
+scenes:
+  - kind: hook
+    title: "Brûler du glucose sans exploser"
+    ref: "S1-4 p.20"
+    big: "–686"
+    beats:
+      - say: "La combustion d'une mole de glucose libère 686 kilocalories. Si tout partait d'un coup, ce serait explosif. Alors la cellule procède par étapes, avec des détours."
+      - say: "Au programme : le principe de la respiration, le NAD plus, la glycolyse, l'oxydation du pyruvate et le cycle de Krebs."
+        show: "Glycolyse · oxydation du pyruvate · *cycle de Krebs*"
+
+  - kind: figure
+    title: "La respiration cellulaire"
+    ref: "S1-4 p.20"
+    fig: "S1-4:20h"
+    trap: "Glycolyse dans le CYTOSOL ; le reste dans la MITOCHONDRIE ; 2 modes de synthèse d'ATP."
+    beats:
+      - say: "Quatrième point du chapitre : la respiration cellulaire. C'est la voie catabolique du glucose, riche en liaisons C H, et la récupération de l'énergie libérée pour régénérer l'ADP en ATP."
+        mark: "Voie catabolique"
+        show: "Catabolisme du *glucose* → régénère l'*ATP*"
+      - say: "Réaction globale : C6H12O6 plus six O2 donnent six CO2, six H2O et de l'énergie, avec un delta G de moins 686 kilocalories par mole."
+        mark: "686"
+        show: "# C₆H₁₂O₆ + 6 O₂ → 6 CO₂ + 6 H₂O + énergie · *ΔG –686 kcal/mole*"
+      - say: "Le principe : transférer les électrons du glucose, riches en énergie, vers l'oxygène, où ils perdent leur énergie : c'est l'*oxydation* du glucose. Mais pas directement, ce serait explosif : en plusieurs étapes, avec des accepteurs d'électrons intermédiaires."
+        mark: ["oxydation du glucose", "explosif"]
+        show: "e⁻ du glucose → O₂ = *oxydation* · par *étapes* (accepteurs intermédiaires)"
+      - say: "La glycolyse a lieu dans le *cytosol* ; les étapes suivantes, oxydation du pyruvate, cycle de Krebs, chaîne de transport des électrons et chimiosmose, dans la *mitochondrie*."
+        mark: ["cytosol", "mitochondrie"]
+        show: "Glycolyse : *cytosol* · le reste : *mitochondrie*"
+      - say: "Deux modes de synthèse d'ATP : la phosphorylation *liée au substrat*, où un intermédiaire phosphorylé cède son phosphate à l'ATP ; et la phosphorylation *oxydative*, où une ATP synthase, sorte de turbine, est activée par un gradient de H plus créé par la chaîne de transport."
+        mark: ["liée au substrat", "oxydative"]
+        show: "Phosphorylation *liée au substrat* · phosphorylation *oxydative* (ATP synthase + gradient H⁺)"
+
+  - kind: figure
+    title: "Le NAD⁺, transporteur d'électrons"
+    ref: "S1-4 p.20-21"
+    fig: "S1-4:20b"
+    trap: "NAD+ prend 2 e– et 1 H+ → NADH ; les e– perdent PEU d'énergie."
+    beats:
+      - say: "Le NAD plus, nicotinamide adénine dinucléotide, intervient à plusieurs étapes. Il prend en charge deux électrons et un H plus, et devient NADH. Les électrons transférés perdent peu de leur énergie potentielle."
+        mark: ["2 e", "NADH"]
+        show: "*NAD⁺* + 2 e⁻ + 1 H⁺ → *NADH* · e⁻ perdent *peu* d'énergie"
+
+  - kind: flow
+    title: "Les 5 étapes de la respiration"
+    ref: "S1-4 p.21"
+    trap: "Ordre : glycolyse → oxydation du pyruvate → Krebs → chaîne de transport → chimiosmose."
+    beats:
+      - say: "Vue d'ensemble, en cinq étapes."
+      - say: "La glycolyse : un glucose à six carbones donne deux pyruvates à trois carbones, avec des transferts d'électrons au NAD plus et des transferts de phosphate à l'ATP."
+        show: "*Glycolyse* : glucose (6C) → 2 pyruvates (3C) · e⁻ → NAD⁺ · P → ATP"
+      - say: "L'oxydation du pyruvate : pyruvate, trois carbones, donne l'acétyl-CoA, deux carbones, et du CO2, avec un transfert d'électrons au NAD plus."
+        show: "*Oxydation du pyruvate* : pyruvate (3C) → acétyl-CoA (2C) + CO₂ · e⁻ → NAD⁺"
+      - say: "Le cycle de Krebs : transferts d'électrons au NAD plus et au FAD, transferts de phosphate à l'ATP, et production de CO2."
+        show: "*Krebs* : e⁻ → NAD⁺ et FAD · P → ATP · CO₂"
+      - say: "La chaîne de transport d'électrons : les électrons amenés par NADH et FADH2 passent d'un intermédiaire à l'autre jusqu'à l'O2, qui devient H2O. L'énergie libérée crée un gradient de H plus."
+        show: "*Chaîne de transport* : NADH, FADH₂ → … → O₂ (→ H₂O) · gradient de *H⁺*"
+      - say: "La chimiosmose : le gradient de H plus active l'ATP synthase, et l'ATP est synthétisé."
+        show: "*Chimiosmose* : gradient H⁺ → *ATP synthase* → ATP"
+
+  - kind: figure
+    title: "La glycolyse"
+    ref: "S1-4 p.22"
+    fig: "S1-4:22h"
+    trap: "Bilan : – 2 ATP + 4 ATP = + 2 ATP, et + 2 NADH."
+    beats:
+      - say: "La glycolyse a lieu dans le cytosol : un glucose, six carbones, est scindé en deux pyruvates, trois carbones. Il faut une enzyme à chaque étape. Trois phases."
+        mark: ["dans le cytosol", "pyruvate"]
+        show: "*Cytosol* : glucose (6C) → *2 pyruvates* (3C) · une enzyme par étape"
+      - say: "Un, l'activation : deux phosphates sont ajoutés au glucose pour augmenter sa réactivité ; deux ATP sont consommés. Deux, la scission : deux molécules à trois carbones, chacune avec un phosphate."
+        mark: ["activation", "scission"]
+        show: "1. *Activation* : 2 P ajoutés, *– 2 ATP* · 2. *Scission* : 2 × (3C + P)"
+      - say: "Trois, oxydation et transfert de phosphate : un phosphate inorganique est ajouté à chaque molécule ; deux fois une oxydation, avec transfert d'électrons vers le NADH ; et deux fois deux transferts de phosphate vers l'ATP."
+        mark: "oxydation et transfert"
+        show: "3. *Oxydation* : 2 × NADH · 2 × 2 P → *+ 4 ATP*"
+      - say: "Bilan : moins deux ATP, plus quatre ATP, soit *plus deux ATP*, et *plus deux NADH*."
+        mark: "Bilan"
+        show: "# Bilan glycolyse : *+ 2 ATP* · *+ 2 NADH*"
+
+  - kind: figure
+    title: "L'oxydation du pyruvate"
+    ref: "S1-4 p.22"
+    fig: "S1-4:22b"
+    trap: "Dans la mitochondrie ; + 1 NADH par pyruvate → + 2 NADH par glucose."
+    beats:
+      - say: "Dans la mitochondrie. Un carboxyle est éliminé, avec libération de CO2. Le fragment restant, deux carbones, est oxydé, et ses électrons passent au NAD plus, qui devient NADH. Le fragment oxydé, l'acétyl, est attaché à la coenzyme A : c'est l'acétyl-CoA."
+        mark: ["CO2", "coenzyme A"]
+        show: "*Mitochondrie* : – COO⁻ (CO₂) · oxydation → NADH · acétyl + *CoA* = *acétyl-CoA*"
+      - say: "Bilan, pour une molécule de glucose : un NADH fois deux, soit plus deux NADH."
+        mark: "+2 NADH"
+        show: "# Bilan : (+1 NADH) × 2 = *+ 2 NADH*"
+
+  - kind: figure
+    title: "Le cycle de Krebs"
+    ref: "S1-4 p.23"
+    fig: "S1-4:23h"
+    trap: "Acétyl (2C) + oxaloacétate (4C) → citrate (6C) ; bilan par glucose : + 6 NADH, + 2 FADH2, + 2 ATP."
+    beats:
+      - say: "Le cycle de Krebs, ou cycle du citrate, dans la mitochondrie. A : le groupe acétyl, deux carbones, se combine à l'oxaloacétate, quatre carbones, pour former le citrate, six carbones."
+        mark: ["oxaloacétate", "citrate"]
+        show: "A : acétyl (*2C*) + oxaloacétate (*4C*) → *citrate* (*6C*)"
+      - say: "B : transferts d'électrons vers le NADH, perte de deux CO2 pour reformer une molécule à quatre carbones, et transfert d'un phosphate vers l'ATP. C : deux oxydations, avec transferts d'électrons vers le NADH et le FADH2, un autre accepteur d'électrons."
+        mark: ["2 CO2", "FADH2"]
+        show: "B : NADH · *– 2 CO₂* · 1 ATP · C : NADH et *FADH₂*"
+      - say: "Bilan, pour une molécule de glucose : trois NADH fois deux, soit six NADH ; un FADH2 fois deux, soit deux FADH2 ; un ATP fois deux, soit deux ATP."
+        mark: "Bilan"
+        show: "# Bilan Krebs : *+ 6 NADH* · *+ 2 FADH₂* · *+ 2 ATP*"
+
+  - kind: table
+    title: "Bilan des 3 premières étapes (par glucose)"
+    ref: "S1-4 p.22-23"
+    header: ["Étape", "Lieu", "ATP", "NADH", "FADH₂"]
+    beats:
+      - say: "Récapitulons par glucose."
+      - say: "Glycolyse : cytosol, plus deux ATP net, plus deux NADH."
+        show: "Glycolyse | cytosol | *+ 2* (– 2 + 4) | *+ 2* | 0"
+      - say: "Oxydation du pyruvate : mitochondrie, plus deux NADH."
+        show: "Oxydation du pyruvate | mitochondrie | 0 | *+ 2* | 0"
+      - say: "Cycle de Krebs : mitochondrie, plus deux ATP, plus six NADH, plus deux FADH2."
+        show: "Cycle de Krebs | mitochondrie | *+ 2* | *+ 6* | *+ 2*"
+
+  - kind: trap
+    title: "Les pièges des bilans"
+    ref: "S1-4 p.20-23"
+    trap: "Tout × 2 par glucose ; glycolyse dans le cytosol ; FADH2 seulement dans Krebs."
+    beats:
+      - say: "Trois pièges."
+      - say: "“La glycolyse a lieu dans la mitochondrie” : faux, dans le cytosol."
+        show: "✓ Glycolyse = *cytosol*"
+      - say: "“La glycolyse produit quatre ATP au total” : attention, quatre ATP produits, mais deux consommés : bilan, plus deux."
+        show: "✓ Glycolyse : – 2 + 4 = *+ 2 ATP*"
+      - say: "“Le cycle de Krebs produit trois NADH par glucose” : faux, trois par tour, et deux tours par glucose : six."
+        show: "✓ Krebs : 3 NADH × 2 = *6 NADH* par glucose"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.22-23"
+    question: "Combien de FADH₂ le cycle de Krebs produit-il par molécule de glucose ?"
+    options:
+      - "1"
+      - "2"
+      - "6"
+      - "0"
+    answer: [1]
+    beats:
+      - say: "Quiz : combien de FADH2 par glucose dans le cycle de Krebs ?"
+        countdown: 4
+      - say: "Deux : un par tour, fois deux tours."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 42 : chaîne, chimiosmose et bilan"
+    ref: "S1-4 p.23"
+    big: "36 ATP"
+    beats:
+      - say: "Prochain épisode : la chaîne de transport, l'ATP synthase, le bilan de 36 ATP théoriques, la fermentation et la photosynthèse."
+        show: "Chimiosmose · *36 ATP* · fermentation · photosynthèse"
+
+recap:
+  - "Respiration cellulaire : voie catabolique du glucose (nombreuses liaisons C–H) et récupération de l'énergie pour régénérer l'ATP ; C6H12O6 + 6 O2 → 6 CO2 + 6 H2O + énergie (ΔG –686 kcal/mole) ; transfert des e– du glucose (riches en énergie) vers l'O2 (perte d'énergie) = oxydation du glucose ; transfert par étapes, avec accepteurs intermédiaires ; glycolyse dans le cytosol ; oxydation du pyruvate, cycle de Krebs, chaîne de transport et chimiosmose dans la mitochondrie."
+  - "Deux modes de synthèse d'ATP : phosphorylation liée au substrat (un intermédiaire phosphorylé cède son P à l'ATP) ; phosphorylation oxydative (ATP synthase activée par un gradient de H+ généré par la chaîne de transport). NAD+ (nicotinamide adénine dinucléotide) : prend 2 e– et 1 H+ (→ NADH) ; les e– perdent peu d'énergie potentielle."
+  - "Étapes : glycolyse (glucose 6C → 2 pyruvates 3C ; e– au NAD+ ; P à l'ATP) ; oxydation du pyruvate (pyruvate 3C → acétyl-CoA 2C + CO2 ; e– au NAD+) ; cycle de Krebs (e– au NAD+ et au FAD ; P à l'ATP ; CO2) ; chaîne de transport (e– de NADH et FADH2 → intermédiaires → O2 → H2O ; gradient de H+) ; chimiosmose (gradient → ATP synthase → ATP)."
+  - "Glycolyse (cytosol, une enzyme à chaque étape) : 1. activation (2 P ajoutés ; –2 ATP) ; 2. scission (2 molécules à 3C + P) ; 3. oxydation et transfert de P (P inorganique ajouté ; 2 × oxydation → NADH ; 2 × deux transferts de P → ATP) ; bilan : –2 ATP, +4 ATP, +2 NADH (net +2 ATP, +2 NADH)."
+  - "Oxydation du pyruvate (mitochondrie) : élimination d'un carboxyle (CO2) ; oxydation du fragment 2C (NAD+ → NADH) ; attachement de l'acétyl à la coenzyme A (acétyl-CoA) ; bilan par glucose : +2 NADH."
+  - "Cycle de Krebs (cycle du citrate, mitochondrie) : A. acétyl (2C) + oxaloacétate (4C) → citrate (6C) ; B. NADH, perte de 2 CO2 (→ molécule à 4C), P → ATP ; C. deux oxydations, NADH et FADH2 ; bilan par glucose : +6 NADH, +2 FADH2, +2 ATP."
+
+traps:
+  - ["ΔG +686", "ΔG –686 kcal/mole", "p.20h"]
+  - ["Glycolyse dans la mitochondrie", "Dans le cytosol", "p.20h, 22h"]
+  - ["NAD+ prend 1 électron", "2 e– et 1 H+", "p.20b"]
+  - ["Glycolyse : +4 ATP net", "–2 + 4 = +2 ATP net ; +2 NADH", "p.22h"]
+  - ["Oxydation du pyruvate dans le cytosol", "Dans la mitochondrie", "p.22b"]
+  - ["Citrate à 4C", "Acétyl 2C + oxaloacétate 4C → citrate 6C", "p.23h"]
+  - ["Krebs : 3 NADH par glucose", "6 NADH, 2 FADH2, 2 ATP par glucose", "p.23h"]
+
+mnemonics:
+  - ["Ordre des 5 étapes", "« Gros Poulet Kebab, Chaîne Chimique » : Glycolyse, Pyruvate, Krebs, Chaîne, Chimiosmose", "Glycolyse · oxydation du pyruvate · Krebs · chaîne de transport · chimiosmose"]
+  - ["Bilans", "« 2-2 / 2 / 6-2-2 » : glycolyse 2 ATP 2 NADH · pyruvate 2 NADH · Krebs 6 NADH 2 FADH2 2 ATP", "Par glucose"]
+
+quiz:
+  - q: "Principe de la respiration :"
+    props:
+      - ["Le ΔG de la respiration est de –686 kcal/mole.", true, "p.20h."]
+      - ["Les électrons du glucose sont transférés directement à l'O2.", false, "Par étapes, avec des accepteurs intermédiaires."]
+      - ["La glycolyse a lieu dans le cytosol.", true, "p.20h."]
+      - ["Le cycle de Krebs a lieu dans la mitochondrie.", true, "p.23h."]
+      - ["Le NAD+ prend en charge 2 électrons et 1 H+.", true, "p.20b."]
+  - q: "Glycolyse et pyruvate :"
+    props:
+      - ["La glycolyse scinde un glucose en deux pyruvates.", true, "p.22h."]
+      - ["La phase d'activation consomme 2 ATP.", true, "p.22h."]
+      - ["Le bilan net de la glycolyse est de +4 ATP.", false, "+2 ATP net (–2 + 4)."]
+      - ["L'oxydation du pyruvate libère du CO2.", true, "p.22b."]
+      - ["L'oxydation du pyruvate produit +2 NADH par glucose.", true, "p.22b."]
+  - q: "Cycle de Krebs :"
+    props:
+      - ["L'acétyl se combine à l'oxaloacétate pour former le citrate.", true, "p.23h."]
+      - ["Le citrate possède 6 carbones.", true, "p.23h."]
+      - ["Le cycle de Krebs produit 6 NADH par glucose.", true, "p.23h."]
+      - ["Le cycle de Krebs ne produit pas de FADH2.", false, "+2 FADH2 par glucose."]
+      - ["Le cycle de Krebs produit 2 ATP par glucose.", true, "p.23h."]
+
+coverage:
+  - ["S1-4", "20h", "Respiration : définition, équation, ΔG, oxydation, localisation, 2 modes de phosphorylation", 2]
+  - ["S1-4", "20b", "NAD+ : transporteur d'électrons", 3]
+  - ["S1-4", "21h", "Structure du NAD+", 3]
+  - ["S1-4", "21b", "Vue d'ensemble des 5 étapes", 4]
+  - ["S1-4", "22h", "Glycolyse : 3 phases, bilan", 5]
+  - ["S1-4", "22b", "Oxydation du pyruvate", 6]
+  - ["S1-4", "23h", "Cycle de Krebs", 7]

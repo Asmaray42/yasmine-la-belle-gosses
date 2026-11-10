@@ -1,0 +1,196 @@
+title: "Mendel et le monohybridisme"
+subtitle: "Génotype · phénotype · dominant/récessif · F1, F2 · 1:2:1 et 3:1 · croisement Vv × vv"
+source: "S1-4 p.1 à 4"
+chapter: "Partie I — Chapitre X. Génétique et hérédité — 1. Expériences de Mendel · 2. Croisements monohybrides"
+objectives:
+  - "Citer les 6 points du chapitre X et définir hérédité, génotype, phénotype."
+  - "Expliquer les avantages du petit pois pour Mendel."
+  - "Interpréter un croisement monohybride (F1, F2, 1:2:1, 3:1)."
+  - "Prévoir le résultat du croisement Vv × vv."
+
+scenes:
+  - kind: hook
+    title: "Le blanc qui disparaît puis revient"
+    ref: "S1-4 p.2"
+    big: "3 : 1"
+    beats:
+      - say: "Mendel croise une fleur violette et une fleur blanche : toutes les filles sont violettes. Le blanc a disparu. Puis, à la génération suivante, il revient, dans un quart des fleurs."
+      - say: "Au programme : génotype, phénotype, et les règles du monohybridisme."
+        show: "Génotype · phénotype · *F1, F2* · 3 : 1"
+
+  - kind: figure
+    title: "Hérédité, génotype, phénotype"
+    ref: "S1-4 p.1"
+    fig: "S1-4:1b"
+    trap: "Génotype = mélange d'allèles ; phénotype = apparence et caractéristiques (expression combinée des allèles)."
+    beats:
+      - say: "Chapitre dix : génétique et hérédité, en six points : expériences de Mendel, croisements monohybrides, croisements polyhybrides, au-delà des lois de Mendel, gènes liés, et hérédité liée au sexe."
+        show: "Mendel · monohybrides · polyhybrides · au-delà de Mendel · gènes liés · liée au sexe"
+      - say: "L'hérédité, c'est la transmission des gènes des parents à la descendance. Chaque parent transmet une des deux copies, les allèles, qu'il possède pour chaque gène. L'enfant reçoit donc une copie de sa mère et une de son père."
+        mark: ["transmission des gènes", "une des deux copies"]
+        show: "Hérédité : chaque parent transmet *1 des 2 allèles* de chaque gène"
+      - say: "Le mélange particulier d'allèles de l'enfant, c'est son *génotype*. Son apparence physique et ses autres caractéristiques, résultat de l'expression combinée de ses allèles, c'est son *phénotype*."
+        mark: ["génotype", "phénotype"]
+        show: "*Génotype* = mélange d'allèles · *phénotype* = apparence (expression des allèles)"
+
+  - kind: figure
+    title: "Pourquoi le petit pois ?"
+    ref: "S1-4 p.2"
+    fig: "S1-4:2h"
+    trap: "4 avantages : cycle court, caractères à 2 variantes, autofécondation, fertilisation contrôlée."
+    beats:
+      - say: "Mendel, mille huit cent vingt-deux à mille huit cent quatre-vingt-quatre, étudie la transmission des caractères chez le petit pois. Quatre avantages : un cycle de reproduction court ; des caractères à deux variantes faciles à observer, fleur violette ou blanche, pois vert ou jaune, lisse ou ridé."
+        mark: ["cycle de reproduction court", "deux variantes"]
+        show: "Mendel (1822-1884) : cycle *court* · caractères à *2 variantes*"
+      - say: "La capacité d'autofécondation, car la fleur porte les organes mâles et femelles ; et la possibilité de fertilisation contrôlée : on élimine les organes mâles d'une fleur violette, et on y dépose le pollen d'une fleur blanche."
+        mark: ["autofécondation", "fertilisation contrôlée"]
+        show: "*Autofécondation* · *fertilisation contrôlée* (pollen blanc → fleur violette castrée)"
+
+  - kind: figure
+    title: "Le croisement monohybride"
+    ref: "S1-4 p.2"
+    fig: "S1-4:2b"
+    trap: "F1 : 100 % violet (pas d'intermédiaire) ; F2 : 75 % violet, 25 % blanc."
+    beats:
+      - say: "Un croisement *monohybride* ne concerne que deux phénotypes d'un seul caractère : ici, la couleur de la fleur, violette ou blanche."
+        mark: "monohybride"
+        show: "*Monohybride* : 1 caractère, 2 phénotypes"
+      - say: "Violet croisé avec blanc : en première génération, F1, uniquement des fleurs violettes, sans couleur intermédiaire. Le violet est *dominant*, le blanc *récessif*."
+        mark: ["dominante", "récessive"]
+        show: "F1 : *100 % violet* → violet *dominant*, blanc *récessif*"
+      - say: "L'autofécondation des F1 donne une F2 avec 75 % de fleurs violettes et 25 % de blanches."
+        mark: "75%"
+        show: "# F2 : *75 %* violet · *25 %* blanc"
+
+  - kind: figure
+    title: "Les bases génétiques"
+    ref: "S1-4 p.3"
+    fig: "S1-4:3h"
+    trap: "En F1, tous Vv ; en F2, VV, Vv, vV → violet ; vv → blanc."
+    beats:
+      - say: "La couleur est déterminée par un gène, V, avec deux allèles : V majuscule, dominant, pour le violet, et v minuscule, récessif, pour le blanc."
+        mark: "deux allèles"
+        show: "Gène *V* : *V* dominant (violet) · *v* récessif (blanc)"
+      - say: "En F1, toutes les plantes sont V v : l'allèle dominant impose le violet. En F2, les plantes reçoivent au hasard les allèles des gamètes F1 : V V, V v ou v V donnent du violet ; v v donne du blanc."
+        mark: ["Vv", "vv"]
+        show: "F1 : tous *Vv* · F2 : VV, Vv, vV → violet · *vv* → blanc"
+
+  - kind: figure
+    title: "Homozygotes, hétérozygotes et rapports"
+    ref: "S1-4 p.3"
+    fig: "S1-4:3b"
+    trap: "Génotypes 1:2:1 ; phénotypes 3:1."
+    beats:
+      - say: "V V et v v sont *homozygotes* : deux allèles identiques. V v et v V sont *hétérozygotes* : deux allèles différents."
+        mark: ["homozygotes", "hétérozygotes"]
+        show: "*Homozygotes* : VV, vv · *hétérozygotes* : Vv = vV"
+      - say: "Trois génotypes, donc, dans le rapport un quart V V, deux quarts V v, un quart v v : un, deux, un. Et deux phénotypes : trois quarts violet, un quart blanc."
+        mark: ["1:2:1", "3/4"]
+        show: "Génotypes *1 : 2 : 1* · phénotypes *3 : 1* (3/4 violet, 1/4 blanc)"
+
+  - kind: figure
+    title: "Le croisement Vv × vv"
+    ref: "S1-4 p.4"
+    fig: "S1-4:4h"
+    trap: "Vv × vv → 1/2 Vv (violet), 1/2 vv (blanc)."
+    beats:
+      - say: "Si on croise un hétérozygote V v avec un homozygote récessif v v, on obtient deux quarts de V v et deux quarts de v v. En phénotype : moitié violet, moitié blanc."
+        focus: "all"
+        mark: ["2/4"]
+        show: "Vv × vv → *1/2* Vv (violet) · *1/2* vv (blanc)"
+
+  - kind: figure
+    title: "Maladies génétiques liées à un seul gène"
+    ref: "S1-4 p.4"
+    fig: "S1-4:4b"
+    trap: "Le mode (récessif ou dominant) se déduit de l'ARBRE GÉNÉALOGIQUE."
+    beats:
+      - say: "Chez l'homme, plusieurs maladies liées à un allèle défectueux ont été identifiées. Certaines se transmettent de manière récessive, d'autres de manière dominante. C'est l'histoire des familles, l'*arbre généalogique*, qui permet de déterminer le mode de transmission."
+        mark: ["récessive", "arbre généalogique"]
+        show: "Maladies monogéniques : *récessives* ou *dominantes* · mode déduit de l'*arbre généalogique*"
+
+  - kind: trap
+    title: "1:2:1 ou 3:1 ?"
+    ref: "S1-4 p.3"
+    trap: "Ne pas confondre rapport génotypique et phénotypique."
+    beats:
+      - say: "Le piège."
+      - say: "“En F2, le rapport génotypique est trois pour un” : faux. Trois pour un, c'est le phénotype. Le génotype est un, deux, un."
+        show: "✓ Génotypes *1 : 2 : 1* · phénotypes *3 : 1*"
+      - say: "“En F1, on obtient des fleurs roses” : faux, toutes violettes ici, sans couleur intermédiaire."
+        show: "✓ F1 : 100 % violet, *pas* d'intermédiaire"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.3-4"
+    question: "Quel est le résultat phénotypique du croisement Vv × vv ?"
+    options:
+      - "100 % violet"
+      - "3/4 violet, 1/4 blanc"
+      - "1/2 violet, 1/2 blanc"
+      - "100 % blanc"
+    answer: [2]
+    beats:
+      - say: "Quiz : résultat phénotypique de V v croisé avec v v ?"
+        countdown: 4
+      - say: "Moitié violet, moitié blanc."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 37 : maladies monogéniques et dihybridisme"
+    ref: "S1-4 p.5"
+    big: "9:3:3:1"
+    beats:
+      - say: "Prochain épisode : la mucoviscidose, le glaucome juvénile, et le rapport neuf, trois, trois, un."
+        show: "Mucoviscidose · glaucome juvénile · *9 : 3 : 3 : 1*"
+
+recap:
+  - "Chapitre X : 1. Expériences de Mendel ; 2. Croisements monohybrides ; 3. Croisements polyhybrides ; 4. Au-delà des lois de Mendel ; 5. Gènes liés ; 6. Hérédité liée au sexe."
+  - "Hérédité : transmission des gènes des parents à la descendance ; chaque parent transmet une des deux copies (allèles) qu'il possède pour tous les gènes ; génotype = mélange particulier d'allèles ; phénotype = apparence physique et autres caractéristiques (expression combinée des allèles)."
+  - "Mendel (1822-1884), petit pois : cycle de reproduction court ; caractères à deux variantes (fleur violette ou blanche, pois vert ou jaune, lisse ou ridé) ; autofécondation ; fertilisation contrôlée (organes mâles d'une fleur violette éliminés, pollen d'une fleur blanche)."
+  - "Croisement monohybride (deux phénotypes d'un seul caractère) : F1 uniquement violette (violet dominant, blanc récessif, pas d'intermédiaire) ; F2 : 75 % violet, 25 % blanc. Gène V : allèle V dominant (violet), v récessif (blanc) ; F1 = Vv ; F2 : VV, Vv, vV → violet ; vv → blanc. Homozygotes VV, vv ; hétérozygotes Vv, vV ; génotypes 1/4 VV, 2/4 Vv, 1/4 vv (1:2:1) ; phénotypes 3/4 violet, 1/4 blanc."
+  - "Croisement Vv × vv : Vv 2/4, vv 2/4 ; violet 2/4, blanc 2/4. Maladies liées à un seul gène : transmission récessive ou dominante, déterminée d'après l'arbre généalogique."
+
+traps:
+  - ["Génotype = apparence", "Génotype = allèles ; phénotype = apparence", "p.1b"]
+  - ["F1 rose", "F1 100 % violet, pas d'intermédiaire", "p.2b"]
+  - ["F2 50/50", "F2 75 % / 25 %", "p.2b"]
+  - ["Génotypes 3:1", "Génotypes 1:2:1 ; phénotypes 3:1", "p.3b"]
+  - ["Vv × vv → 3/4 violet", "1/2 violet, 1/2 blanc", "p.4h"]
+
+mnemonics:
+  - ["Rapports de F2", "« 1-2-1 pour les gènes, 3-1 pour les yeux » (ce qu'on voit = phénotype)", "Génotypes 1:2:1 · phénotypes 3:1"]
+  - ["Avantages du petit pois", "« Court, Clair, Seul, Contrôlé »", "Cycle court · 2 variantes nettes · autofécondation · fertilisation contrôlée"]
+
+quiz:
+  - q: "Mendel :"
+    props:
+      - ["Mendel a étudié le petit pois.", true, "p.2h."]
+      - ["La fleur du petit pois porte les organes mâles et femelles.", true, "Autofécondation possible."]
+      - ["Le cycle de reproduction du petit pois est long.", false, "Il est court."]
+      - ["La fertilisation contrôlée est possible chez le petit pois.", true, "p.2h."]
+      - ["Le génotype désigne l'apparence physique.", false, "C'est le phénotype."]
+  - q: "Monohybridisme :"
+    props:
+      - ["En F1, toutes les fleurs sont violettes.", true, "p.2b."]
+      - ["Le blanc est récessif.", true, "p.2b."]
+      - ["En F2, on obtient 25 % de fleurs blanches.", true, "p.2b."]
+      - ["Les plantes F1 sont homozygotes VV.", false, "Elles sont Vv."]
+      - ["Le rapport génotypique en F2 est 1:2:1.", true, "p.3b."]
+  - q: "Croisements :"
+    props:
+      - ["Vv et vV sont génétiquement équivalents.", true, "p.3b."]
+      - ["Vv × vv donne 1/2 de vv.", true, "p.4h."]
+      - ["Vv × vv donne 3/4 de fleurs violettes.", false, "1/2."]
+      - ["Le mode de transmission d'une maladie se déduit de l'arbre généalogique.", true, "p.4b."]
+      - ["Les plantes vv ont des fleurs blanches.", true, "p.3h."]
+
+coverage:
+  - ["S1-4", "1h", "Sommaire du chapitre X", 2]
+  - ["S1-4", "1b", "Hérédité, génotype, phénotype", 2]
+  - ["S1-4", "2h", "Mendel, petit pois, avantages, fertilisation contrôlée", 3]
+  - ["S1-4", "2b", "Croisement monohybride, F1, F2", 4]
+  - ["S1-4", "3h", "Bases génétiques (V, v)", 5]
+  - ["S1-4", "3b", "Homozygotes, hétérozygotes, 1:2:1, 3:1", 6]
+  - ["S1-4", "4h", "Croisement Vv × vv", 7]
+  - ["S1-4", "4b", "Maladies génétiques monogéniques, arbre généalogique", 8]

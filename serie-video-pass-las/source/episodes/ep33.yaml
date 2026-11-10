@@ -1,0 +1,206 @@
+title: "Allumer ou éteindre un gène : la régulation"
+subtitle: "Programme d'expression · facteurs de transcription · séquences cis · post-transcriptionnel · ubiquitine"
+source: "S1-3 p.19 à 22"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 6. Contrôle de l'expression des gènes"
+objectives:
+  - "Définir le programme d'expression génique."
+  - "Décrire les facteurs de transcription, les séquences cis et le promoteur."
+  - "Citer les 3 modes de régulation des facteurs de transcription."
+  - "Décrire la régulation post-transcriptionnelle et la dégradation des protéines (ubiquitine, protéasome)."
+
+scenes:
+  - kind: hook
+    title: "Même ADN, cellules différentes"
+    ref: "S1-3 p.19"
+    big: "± 2000"
+    beats:
+      - say: "Ta cellule de foie et ton neurone ont le même ADN. Pourtant, ils n'utilisent pas les mêmes gènes. Le chef d'orchestre : environ deux mille facteurs de transcription."
+      - say: "Au programme : le contrôle de la transcription, puis la régulation après la transcription."
+        show: "Facteurs de transcription · séquences *cis* · *ubiquitine*"
+
+  - kind: figure
+    title: "Contrôle de la transcription"
+    ref: "S1-3 p.19"
+    fig: "S1-3:19b"
+    trap: "Seule une PARTIE des gènes est transcrite dans une cellule donnée = son programme d'expression génique."
+    beats:
+      - say: "Sixième point du chapitre : le contrôle de l'expression des gènes. Seule une partie des gènes est transcrite dans une cellule donnée : c'est son *programme d'expression génique*."
+        mark: ["une partie seulement", "programme"]
+        show: "Une *partie* des gènes transcrits = *programme d'expression génique*"
+      - say: "Ce programme varie d'un type cellulaire à l'autre, et peut être influencé par des stimuli extérieurs. Des mécanismes de régulation permettent d'activer ou d'inactiver les gènes."
+        mark: ["varie", "stimuli"]
+        show: "Varie selon le *type cellulaire* · influencé par des *stimuli extérieurs*"
+
+  - kind: figure
+    title: "Facteurs de transcription et promoteur"
+    ref: "S1-3 p.20"
+    fig: "S1-3:20h"
+    trap: "Séquences cis = sur l'ADN (le plus souvent juste devant le 1er exon) ; région = promoteur ; facteurs = protéines."
+    beats:
+      - say: "La transcription est régulée par des *facteurs de transcription*, des protéines qui se fixent sur des séquences d'ADN spécifiques, les *séquences cis*, situées le plus souvent juste devant le premier exon."
+        mark: ["facteurs de transcription", "séquences cis"]
+        show: "*Facteurs de transcription* (protéines) → *séquences cis* (ADN, devant le 1er exon)"
+      - say: "Cette région du gène s'appelle le *promoteur*. Les facteurs de transcription positionnent l'ARN polymérase et stimulent son activité."
+        mark: ["promoteur", "positionner"]
+        show: "Région = *promoteur* · positionnent et stimulent l'*ARN polymérase*"
+
+  - kind: figure
+    title: "Les facteurs de transcription"
+    ref: "S1-3 p.20"
+    fig: "S1-3:20b"
+    trap: "± 2000 facteurs chez l'homme ; 2 domaines : liaison à l'ADN + trans-activateur."
+    beats:
+      - say: "Chez l'homme, environ deux mille facteurs de transcription différents, chacun dirigé vers ses séquences cis spécifiques."
+        mark: "2000"
+        show: "# ± *2000* facteurs de transcription chez l'homme"
+      - say: "Ils ont deux domaines : un domaine de *liaison à l'ADN*, qui fixe l'ADN, et un domaine *trans-activateur*, qui stimule la transcription."
+        mark: ["domaine de liaison", "trans-activateur"]
+        show: "Domaine de *liaison à l'ADN* + domaine *trans-activateur*"
+      - say: "Le cours donne des exemples avec leur séquence cis : AP1, TGAGTCA ; ETS1, CCATGGC ; OCT4, ATTTGCAT ; EGR1, CGCCCCCGC ; E2F1, TTTCC/GCGC ; HES1, CACNAG ; et CREB."
+        focus: [0.0, 0.45, 1.0, 1.0]
+        mark: ["AP1", "OCT4"]
+        show: "AP1 · ETS1 · OCT4 · EGR1 · E2F1 · HES1 · CREB (+ séquences cis)"
+
+  - kind: figure
+    title: "Trois modes de régulation"
+    ref: "S1-3 p.21"
+    fig: "S1-3:21h"
+    trap: "Expression (présent ou non) · activation (modification ou ligand) · localisation (transport dans le noyau)."
+    beats:
+      - say: "Chaque type cellulaire possède un contenu spécifique en facteurs de transcription, qui détermine les gènes transcrits. Trois modes de régulation."
+        mark: "contenu spécifique"
+      - say: "L'*expression* : le facteur est présent, exprimé, ou non dans la cellule."
+        mark: "Expression"
+        show: "*Expression* : le facteur est présent ou non"
+      - say: "L'*activation* : le facteur est toujours présent, mais une modification, comme une phosphorylation, ou un ligand, détermine s'il est actif."
+        mark: "Activation"
+        show: "*Activation* : toujours présent · phosphorylation ou ligand → actif/inactif"
+      - say: "La *localisation* : le facteur est toujours présent, mais une modification ou un ligand est nécessaire pour qu'il soit transporté dans le noyau."
+        mark: "Localisation"
+        show: "*Localisation* : modification ou ligand → transport dans le *noyau*"
+
+  - kind: figure
+    title: "Facteurs de transcription et signaux extérieurs"
+    ref: "S1-3 p.21"
+    fig: "S1-3:21b"
+    trap: "E2F → transition G1/S."
+    beats:
+      - say: "L'activité des facteurs de transcription peut être modifiée par des signaux extérieurs. Exemple : la progression du cycle cellulaire implique à chaque étape l'activation de facteurs spécifiques, notamment E2F pour la transition G1/S."
+        mark: ["E2F", "G1/S"]
+        show: "Cycle cellulaire : *E2F* pour la transition *G1/S*"
+
+  - kind: figure
+    title: "Régulation post-transcriptionnelle"
+    ref: "S1-3 p.22"
+    fig: "S1-3:22h"
+    trap: "3 niveaux : épissage · synthèse protéique (protéines, microARNs) · dégradation."
+    beats:
+      - say: "Même si l'ARN d'un gène est transcrit, la production de la protéine peut être régulée à trois niveaux."
+      - say: "L'épissage : son taux peut être régulé, ce qui contrôle la quantité d'ARN messager. La synthèse protéique : des protéines ou des micro-ARN régulateurs se lient à l'ARN messager et contrôlent le taux de traduction. Et la dégradation : une fois produites, les protéines peuvent être marquées pour être détruites."
+        mark: ["Epissage", "microARNs", "Dégradation"]
+        show: "*Épissage* · *synthèse protéique* (protéines, *microARNs*) · *dégradation*"
+
+  - kind: figure
+    title: "La dégradation des protéines"
+    ref: "S1-3 p.22"
+    fig: "S1-3:22b"
+    trap: "Ubiquitine = protéine de 76 aa ; protéasome tubulaire, dans le NOYAU et le CYTOSOL."
+    beats:
+      - say: "Deux rôles : contrôler le niveau de certaines protéines, comme les régulatrices du cycle cellulaire ; et éliminer les protéines mal repliées ou non fonctionnelles."
+        mark: ["contrôle du niveau", "mal repliées"]
+        show: "Rôles : contrôle du niveau (cycle cellulaire) · élimination des protéines *mal repliées*"
+      - say: "Le mécanisme : la protéine à dégrader est marquée par des molécules d'*ubiquitine*, une protéine de 76 acides aminés. Elle entre dans le *protéasome*, un complexe tubulaire à activité protéolytique, et en ressort en fragments peptidiques, ensuite dégradables en acides aminés."
+        mark: ["ubiquitine", "76 aa", "protéasome"]
+        show: "Marquage par l'*ubiquitine* (*76 aa*) → *protéasome* (tubulaire) → fragments"
+      - say: "Les protéasomes sont très abondants, dans le noyau et dans le cytosol."
+        mark: "très abondants"
+        show: "Protéasomes très abondants : *noyau* et *cytosol*"
+
+  - kind: trap
+    title: "Cis ou facteur ?"
+    ref: "S1-3 p.20-22"
+    trap: "Séquence cis = ADN ; facteur de transcription = protéine ; ubiquitine = marqueur, protéasome = destructeur."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Les séquences cis sont des protéines” : faux, ce sont des séquences d'ADN. Les facteurs de transcription sont les protéines."
+        show: "✓ *Cis* = ADN · *facteur* = protéine"
+      - say: "“L'ubiquitine détruit les protéines” : non, elle les marque. C'est le protéasome qui les dégrade."
+        show: "✓ *Ubiquitine* marque · *protéasome* dégrade"
+      - say: "“Les protéasomes sont uniquement dans le cytosol” : faux, aussi dans le noyau."
+        show: "✓ Protéasomes : noyau *et* cytosol"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.20-22"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "On compte environ 200 facteurs de transcription chez l'homme."
+      - "L'ubiquitine est une protéine de 76 acides aminés."
+      - "Le promoteur est situé le plus souvent après le dernier exon."
+      - "E2F intervient dans la transition G2/M."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Il y a environ deux mille facteurs, le promoteur est le plus souvent juste devant le premier exon, et E2F intervient à la transition G1/S."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 34 : procaryotes, virus et génome"
+    ref: "S1-3 p.23"
+    big: "1,5 %"
+    beats:
+      - say: "Prochain épisode : les procaryotes, les virus, et une surprise : seulement 1,5 % de ton génome code des protéines."
+        show: "Procaryotes · virus · génome (*1,5 %* codant)"
+
+recap:
+  - "Contrôle de la transcription : une partie seulement des gènes est transcrite dans une cellule donnée (programme d'expression génique) ; varie selon le type cellulaire, influencé par des stimuli extérieurs ; mécanismes d'activation/inactivation."
+  - "Facteurs de transcription (protéines) fixés sur des séquences cis (ADN), le plus souvent juste devant le premier exon ; cette région = promoteur ; ils positionnent l'ARN polymérase et stimulent son activité ; ± 2000 facteurs chez l'homme ; domaine de liaison à l'ADN + domaine trans-activateur ; exemples : AP1 (5'-TGAGTCA-3'), ETS1 (5'-CCATGGC-3'), OCT4 (5'-ATTTGCAT-3'), EGR1 (5'-CGCCCCCGC-3'), E2F1 (5'-TTTCC/GCGC-3'), HES1 (5'-CACNAG-3'), CREB (5'-GTGACGTA/CA/G-3')."
+  - "Chaque type cellulaire a un contenu spécifique en facteurs de transcription. Modes de régulation : expression (présent ou non) ; activation (toujours présent, modification — ex. phosphorylation — ou ligand) ; localisation (modification ou ligand nécessaire pour le transport dans le noyau). Signaux extérieurs : ex. E2F pour la transition G1/S."
+  - "Régulation post-transcriptionnelle : épissage (taux régulé → quantité d'ARNm) ; synthèse protéique (protéines ou microARNs régulateurs liés à l'ARNm → taux de traduction) ; dégradation des protéines."
+  - "Dégradation des protéines : rôles : contrôle du niveau de certaines protéines (ex. régulatrices du cycle), élimination des protéines mal repliées ou non fonctionnelles ; mécanisme : marquage par l'ubiquitine (protéine de 76 aa) → protéasome (complexe tubulaire à activité protéolytique) → fragments peptidiques (puis acides aminés) ; protéasomes très abondants (noyau et cytosol)."
+
+traps:
+  - ["Toutes les cellules transcrivent tous leurs gènes", "Une partie seulement (programme d'expression)", "p.19b"]
+  - ["Séquences cis = protéines", "Séquences d'ADN ; facteurs = protéines", "p.20h"]
+  - ["Promoteur après le dernier exon", "Le plus souvent juste devant le premier exon", "p.20h"]
+  - ["± 200 facteurs", "± 2000", "p.20b"]
+  - ["E2F → G2/M", "E2F → G1/S", "p.21b"]
+  - ["Ubiquitine = enzyme protéolytique", "Ubiquitine = marqueur (76 aa) ; protéasome = activité protéolytique", "p.22b"]
+
+mnemonics:
+  - ["3 modes de régulation", "« Être là, être allumé, être au bon endroit »", "Expression · activation · localisation"]
+  - ["Ubiquitine / protéasome", "L'ubiquitine colle l'étiquette « à jeter », le protéasome est la broyeuse", "Marquage (76 aa) → protéasome"]
+
+quiz:
+  - q: "Transcription :"
+    props:
+      - ["Le programme d'expression génique varie selon le type cellulaire.", true, "p.19b."]
+      - ["Les facteurs de transcription se fixent sur des séquences cis.", true, "p.20h."]
+      - ["Le promoteur est la région où se fixent les facteurs de transcription.", true, "p.20h."]
+      - ["Les facteurs de transcription inhibent toujours l'ARN polymérase.", false, "Ils la positionnent et stimulent son activité."]
+      - ["Un facteur de transcription possède un domaine trans-activateur.", true, "p.20b."]
+  - q: "Régulation des facteurs :"
+    props:
+      - ["Un facteur peut être activé par phosphorylation.", true, "p.21h."]
+      - ["Certains facteurs nécessitent un ligand pour être transportés dans le noyau.", true, "Localisation."]
+      - ["E2F intervient dans la transition G1/S.", true, "p.21b."]
+      - ["Tous les types cellulaires ont le même contenu en facteurs de transcription.", false, "Contenu spécifique à chaque type."]
+      - ["L'activité des facteurs peut être modifiée par des signaux extérieurs.", true, "p.21b."]
+  - q: "Post-transcriptionnel :"
+    props:
+      - ["Le taux d'épissage peut être régulé.", true, "p.22h."]
+      - ["Des microARNs peuvent contrôler le taux de traduction.", true, "p.22h."]
+      - ["L'ubiquitine est une protéine de 76 acides aminés.", true, "p.22b."]
+      - ["Le protéasome est présent uniquement dans le noyau.", false, "Noyau et cytosol."]
+      - ["Les protéines mal repliées peuvent être éliminées.", true, "p.22b."]
+
+coverage:
+  - ["S1-3", "19h", "Sommaire du chapitre VIII (6. contrôle de l'expression)", 2]
+  - ["S1-3", "19b", "Contrôle de la transcription, programme d'expression", 2]
+  - ["S1-3", "20h", "Facteurs de transcription, séquences cis, promoteur", 3]
+  - ["S1-3", "20b", "± 2000 facteurs, 2 domaines, tableau des séquences cis", 4]
+  - ["S1-3", "21h", "Modes de régulation : expression, activation, localisation", 5]
+  - ["S1-3", "21b", "Signaux extérieurs, E2F et G1/S", 6]
+  - ["S1-3", "22h", "Régulation post-transcriptionnelle", 7]
+  - ["S1-3", "22b", "Dégradation des protéines : ubiquitine, protéasome", 8]

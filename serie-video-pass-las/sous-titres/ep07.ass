@@ -1,0 +1,151 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Environ trente mille protéines
+Dialogue: 0,0:00:01.75,0:00:02.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes chez l'homme,
+Dialogue: 0,0:00:02.97,0:00:04.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toutes écrites avec seulement
+Dialogue: 0,0:00:04.37,0:00:06.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt lettres : les acides aminés.
+Dialogue: 0,0:00:06.42,0:00:08.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les sept fonctions
+Dialogue: 0,0:00:08.27,0:00:10.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines, les acides aminés,
+Dialogue: 0,0:00:10.13,0:00:11.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les essentiels, et la liaison
+Dialogue: 0,0:00:11.75,0:00:12.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peptidique.
+Dialogue: 0,0:00:12.93,0:00:14.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sixième point des macromolécules
+Dialogue: 0,0:00:14.56,0:00:15.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les protéines.
+Dialogue: 0,0:00:15.52,0:00:16.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Grande diversité chimique,
+Dialogue: 0,0:00:16.90,0:00:18.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ trente mille protéines
+Dialogue: 0,0:00:18.49,0:00:19.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes chez l'homme,
+Dialogue: 0,0:00:19.82,0:00:21.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une grande variété de
+Dialogue: 0,0:00:21.09,0:00:21.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctions.
+Dialogue: 0,0:00:22.02,0:00:23.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, la {\c&H66D1FF&}catalyse{\c&HFFFFFF&} {\c&H66D1FF&}enzymatique{\c&HFFFFFF&} :
+Dialogue: 0,0:00:23.62,0:00:24.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faciliter des réactions
+Dialogue: 0,0:00:24.89,0:00:25.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimiques.
+Dialogue: 0,0:00:25.58,0:00:26.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, la {\c&H66D1FF&}défense{\c&HFFFFFF&} :
+Dialogue: 0,0:00:26.57,0:00:28.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reconnaître des microorganismes
+Dialogue: 0,0:00:28.28,0:00:29.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}étrangers, c'est le système
+Dialogue: 0,0:00:29.77,0:00:30.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}immunitaire.
+Dialogue: 0,0:00:30.83,0:00:32.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, le {\c&H66D1FF&}transport{\c&HFFFFFF&} de petites
+Dialogue: 0,0:00:32.32,0:00:33.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules : l'hémoglobine
+Dialogue: 0,0:00:33.55,0:00:35.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transporte l'O2 dans le sang.
+Dialogue: 0,0:00:35.32,0:00:36.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre, le {\c&H66D1FF&}soutien{\c&HFFFFFF&} :
+Dialogue: 0,0:00:36.31,0:00:37.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines fibreuses,
+Dialogue: 0,0:00:37.50,0:00:38.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la peau, les ligaments,
+Dialogue: 0,0:00:38.88,0:00:39.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les os.
+Dialogue: 0,0:00:39.63,0:00:40.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq, le {\c&H66D1FF&}mouvement{\c&HFFFFFF&} :
+Dialogue: 0,0:00:40.63,0:00:42.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaire, ou contractions
+Dialogue: 0,0:00:42.23,0:00:42.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}musculaires.
+Dialogue: 0,0:00:42.97,0:00:44.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six, la {\c&H66D1FF&}régulation{\c&HFFFFFF&} :
+Dialogue: 0,0:00:44.11,0:00:45.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récepteurs de surface ou
+Dialogue: 0,0:00:45.49,0:00:47.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaires, messagers
+Dialogue: 0,0:00:47.04,0:00:48.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intercellulaires.
+Dialogue: 0,0:00:48.15,0:00:49.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept, le {\c&H66D1FF&}stockage{\c&HFFFFFF&} :
+Dialogue: 0,0:00:49.25,0:00:50.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}calcium et fer fixés sur des
+Dialogue: 0,0:00:50.87,0:00:51.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines.
+Dialogue: 0,0:00:52.01,0:00:53.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'ordre du cours :
+Dialogue: 0,0:00:53.27,0:00:54.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Cathy Défend Ton Sac,
+Dialogue: 0,0:00:54.43,0:00:55.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais Reste Sage.”
+Dialogue: 0,0:00:55.71,0:00:56.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Catalyse, défense,
+Dialogue: 0,0:00:56.66,0:00:57.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transport, soutien,
+Dialogue: 0,0:00:57.67,0:00:59.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mouvement, régulation, stockage.
+Dialogue: 0,0:00:59.93,0:01:01.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines sont des polymères
+Dialogue: 0,0:01:01.53,0:01:02.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'acides aminés.
+Dialogue: 0,0:01:02.47,0:01:04.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il en existe {\c&H66D1FF&}vingt{\c&HFFFFFF&} différents,
+Dialogue: 0,0:01:04.04,0:01:05.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et chaque protéine est
+Dialogue: 0,0:01:05.20,0:01:06.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractérisée par une séquence
+Dialogue: 0,0:01:06.72,0:01:08.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifique d'acides aminés.
+Dialogue: 0,0:01:08.54,0:01:10.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque acide aminé porte une
+Dialogue: 0,0:01:10.11,0:01:12.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}amine{\c&HFFFFFF&} , qui à pH 7 devient N H 3
+Dialogue: 0,0:01:12.63,0:01:13.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus, et un {\c&H66D1FF&}carboxyle{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:13.93,0:01:16.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acide, qui à pH 7 devient C O O moins.
+Dialogue: 0,0:01:16.96,0:01:18.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et un groupement {\c&H66D1FF&}R{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:18.03,0:01:19.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le groupement fonctionnel,
+Dialogue: 0,0:01:19.42,0:01:20.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de vingt types différents,
+Dialogue: 0,0:01:20.82,0:01:22.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui donne à chaque acide aminé sa
+Dialogue: 0,0:01:22.58,0:01:24.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}propriété chimique spécifique.
+Dialogue: 0,0:01:24.75,0:01:26.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les acides aminés se classent en
+Dialogue: 0,0:01:26.36,0:01:27.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apolaires, polaires et chargés.
+Dialogue: 0,0:01:28.06,0:01:29.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours donne la liste des
+Dialogue: 0,0:01:29.38,0:01:30.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt, avec le code à une lettre,
+Dialogue: 0,0:01:30.99,0:01:32.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à trois lettres, et le nom.
+Dialogue: 0,0:01:32.71,0:01:34.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Parmi eux, neuf sont {\c&H66D1FF&}essentiels{\c&HFFFFFF&}
+Dialogue: 0,0:01:34.30,0:01:35.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chez l'homme : ils ne sont pas
+Dialogue: 0,0:01:35.84,0:01:37.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synthétisés par l'organisme,
+Dialogue: 0,0:01:37.28,0:01:38.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils doivent être fournis par
+Dialogue: 0,0:01:38.72,0:01:39.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'alimentation.
+Dialogue: 0,0:01:39.89,0:01:42.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours les résume en un mot :
+Dialogue: 0,0:01:42.12,0:01:43.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F L I K h M W T V.
+Dialogue: 0,0:01:43.55,0:01:44.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Phénylalanine, leucine,
+Dialogue: 0,0:01:44.98,0:01:46.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}isoleucine, lysine,
+Dialogue: 0,0:01:46.16,0:01:47.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}histidine, méthionine,
+Dialogue: 0,0:01:47.53,0:01:49.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tryptophane, thréonine, valine.
+Dialogue: 0,0:01:49.86,0:01:51.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le h est en minuscule :
+Dialogue: 0,0:01:51.01,0:01:52.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'histidine est essentielle
+Dialogue: 0,0:01:52.37,0:01:53.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}uniquement{\c&HFFFFFF&} {\c&H66D1FF&}chez{\c&HFFFFFF&} {\c&H66D1FF&}le{\c&HFFFFFF&} {\c&H66D1FF&}nourrisson{\c&HFFFFFF&} .
+Dialogue: 0,0:01:54.48,0:01:56.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour retenir F L I K h M W T V :
+Dialogue: 0,0:01:56.46,0:01:57.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Film Libre : Il Kiffe,
+Dialogue: 0,0:01:57.82,0:01:59.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hein, Mais Walter Tourne Vite.”
+Dialogue: 0,0:01:59.68,0:02:00.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le “hein” minuscule,
+Dialogue: 0,0:02:00.79,0:02:02.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'histidine du nourrisson.
+Dialogue: 0,0:02:03.17,0:02:04.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les codes pièges :
+Dialogue: 0,0:02:04.41,0:02:05.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}K, c'est la lysine ;
+Dialogue: 0,0:02:05.60,0:02:06.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}W, le tryptophane ;
+Dialogue: 0,0:02:06.72,0:02:07.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F, la phénylalanine.
+Dialogue: 0,0:02:08.47,0:02:10.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les acides aminés s'associent par
+Dialogue: 0,0:02:10.19,0:02:11.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}liaisons{\c&HFFFFFF&} {\c&H66D1FF&}peptidiques{\c&HFFFFFF&} pour
+Dialogue: 0,0:02:11.71,0:02:12.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}former un {\c&H66D1FF&}polypeptide{\c&HFFFFFF&} .
+Dialogue: 0,0:02:13.05,0:02:14.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La formation d'une liaison
+Dialogue: 0,0:02:14.45,0:02:16.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peptidique est une réaction de
+Dialogue: 0,0:02:16.06,0:02:16.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}déshydratation{\c&HFFFFFF&} .
+Dialogue: 0,0:02:17.32,0:02:18.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une protéine, c'est un seul
+Dialogue: 0,0:02:18.86,0:02:20.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptide, ou une association
+Dialogue: 0,0:02:20.62,0:02:22.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de plusieurs polypeptides.
+Dialogue: 0,0:02:22.66,0:02:23.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans un polypeptide,
+Dialogue: 0,0:02:23.73,0:02:25.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}chaîne{\c&HFFFFFF&} {\c&H66D1FF&}principale{\c&HFFFFFF&} est
+Dialogue: 0,0:02:25.01,0:02:26.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}constante, et les {\c&H66D1FF&}groupes{\c&HFFFFFF&} {\c&H66D1FF&}R{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:26.56,0:02:27.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou chaînes latérales,
+Dialogue: 0,0:02:27.68,0:02:28.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont variables.
+Dialogue: 0,0:02:28.88,0:02:30.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À ses extrémités, tout
+Dialogue: 0,0:02:30.21,0:02:31.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptide a une extrémité
+Dialogue: 0,0:02:31.85,0:02:33.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}amino-terminale{\c&HFFFFFF&} , N H 3 plus,
+Dialogue: 0,0:02:33.84,0:02:35.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un côté, et une extrémité
+Dialogue: 0,0:02:35.48,0:02:36.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}carboxy-terminale{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:36.62,0:02:38.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C O O moins, de l'autre.
+Dialogue: 0,0:02:38.64,0:02:39.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La longueur moyenne des
+Dialogue: 0,0:02:39.78,0:02:41.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptides chez l'homme :
+Dialogue: 0,0:02:41.13,0:02:43.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}485{\c&HFFFFFF&} acides aminés.
+Dialogue: 0,0:02:43.46,0:02:45.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avec vingt lettres possibles à
+Dialogue: 0,0:02:45.10,0:02:46.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaque position, la diversité des
+Dialogue: 0,0:02:46.90,0:02:48.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séquences est énorme :
+Dialogue: 0,0:02:48.11,0:02:49.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ trente mille polypeptides
+Dialogue: 0,0:02:49.91,0:02:51.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents chez l'homme.
+Dialogue: 0,0:02:51.79,0:02:52.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:53.02,0:02:54.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'histidine est essentielle chez
+Dialogue: 0,0:02:54.57,0:02:55.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'adulte selon le cours” :
+Dialogue: 0,0:02:55.79,0:02:56.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, uniquement chez le
+Dialogue: 0,0:02:56.95,0:02:57.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nourrisson.
+Dialogue: 0,0:02:57.88,0:02:59.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La liaison peptidique se forme
+Dialogue: 0,0:02:59.52,0:03:00.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par hydrolyse” : faux,
+Dialogue: 0,0:03:00.67,0:03:01.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par déshydratation.
+Dialogue: 0,0:03:02.11,0:03:03.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'extrémité amino-terminale
+Dialogue: 0,0:03:03.65,0:03:04.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porte C O O moins” :
+Dialogue: 0,0:03:04.73,0:03:06.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, elle porte N H 3 plus.
+Dialogue: 0,0:03:07.11,0:03:08.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:12.89,0:03:14.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B : 485.
+Dialogue: 0,0:03:15.09,0:03:16.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y a vingt acides aminés,
+Dialogue: 0,0:03:16.86,0:03:19.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'amine devient N H 3 plus à pH
+Dialogue: 0,0:03:19.56,0:03:21.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}7, et la valine, le V de F L I K
+Dialogue: 0,0:03:21.86,0:03:23.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}h M W T V, est essentielle.
+Dialogue: 0,0:03:24.19,0:03:25.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:25.13,0:03:26.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comment cette chaîne se replie,
+Dialogue: 0,0:03:26.73,0:03:28.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en quatre niveaux de structure,
+Dialogue: 0,0:03:28.34,0:03:29.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et pourquoi la cuisson dénature
+Dialogue: 0,0:03:29.95,0:03:30.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protéines.

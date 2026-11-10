@@ -1,0 +1,206 @@
+title: "Mutations, polymorphisme et thérapie génique"
+subtitle: "1 nucléotide sur 1250 · allèles · substitution, délétion, insertion · germinal vs somatique · SCID"
+source: "S1-3 p.28 à 32"
+chapter: "Partie I — Chapitre VIII. Du gène à la protéine — 10. Mutations et polymorphisme"
+objectives:
+  - "Définir le polymorphisme et les allèles ; donner les chiffres du cours."
+  - "Comparer chromatides sœurs et chromosomes homologues."
+  - "Classer les mutations et leurs conséquences (régions codantes et non codantes)."
+  - "Citer les causes de mutations ; distinguer mutations germinales et somatiques."
+  - "Décrire la SCID et sa thérapie génique."
+
+scenes:
+  - kind: hook
+    title: "Même génome, tous différents"
+    ref: "S1-3 p.28"
+    big: "1 / 1250"
+    beats:
+      - say: "Entre toi et ton voisin, un nucléotide sur 1250 diffère. C'est peu, et pourtant ça fait environ deux millions et demi de différences."
+      - say: "Au programme : le polymorphisme, les mutations, et la thérapie génique."
+        show: "Polymorphisme · allèles · *mutations* · thérapie génique"
+
+  - kind: figure
+    title: "Le polymorphisme"
+    ref: "S1-3 p.28"
+    fig: "S1-3:28h"
+    trap: "1 nt sur 1250 ; 2,5 × 10⁶ différences ; 99,9 % identique, 0,1 % polymorphique."
+    beats:
+      - say: "Les différences entre individus sont dues au *polymorphisme* : la variation normale de la séquence d'ADN au sein d'une espèce."
+        mark: "polymorphisme"
+        show: "*Polymorphisme* = variation *normale* de la séquence d'ADN dans une espèce"
+      - say: "Chez l'homme, un nucléotide sur 1250 diffère entre deux individus, soit 2,5 fois dix puissance six différences au total. Autrement dit, 99,9 % de la séquence est identique, et 0,1 % polymorphique."
+        mark: ["1250", "99,9%"]
+        show: "# *1/1250* nucléotides · *2,5 × 10⁶* différences · *99,9 %* identique, *0,1 %* polymorphique"
+      - say: "Un gène peut donc exister sous différentes versions : on appelle *allèles* les différentes versions d'un même gène dans une espèce."
+        mark: "allèles"
+        show: "*Allèles* = versions d'un même gène"
+
+  - kind: figure
+    title: "Chromatides sœurs et homologues"
+    ref: "S1-3 p.28"
+    fig: "S1-3:28b"
+    trap: "Chromatides sœurs : 100 % identiques ; homologues : 99,9 % (un du père, un de la mère)."
+    beats:
+      - say: "Prenons deux chromosomes homologues en métaphase de mitose. Les chromatides sœurs d'un chromosome sont identiques à 100 % : elles viennent de la réplication."
+        mark: "100%"
+        show: "Chromatides sœurs : *100 %* identiques (réplication)"
+      - say: "Les homologues, eux, ne sont pas parfaitement identiques, 99,9 % : l'un vient du père, l'autre de la mère, avec des variations de séquence. Dans l'exemple, le chromosome paternel, en bleu, porte l'allèle un du gène X, et le maternel, en rouge, l'allèle deux."
+        mark: ["99,9%", "allèle 1"]
+        show: "Homologues : *99,9 %* · paternel (bleu) allèle 1 · maternel (rouge) allèle 2"
+
+  - kind: figure
+    title: "Trois types de mutations"
+    ref: "S1-3 p.29"
+    fig: "S1-3:29h"
+    trap: "Le polymorphisme RÉSULTE de mutations transmises."
+    beats:
+      - say: "Le polymorphisme résulte de mutations de la séquence d'ADN, transmises aux générations suivantes. Trois types : la *substitution*, un nucléotide remplacé par un autre ; la *délétion*, un ou plusieurs nucléotides perdus ; et l'*insertion*, un ou plusieurs nucléotides ajoutés."
+        mark: ["substitution", "délétion", "insertion"]
+        show: "*Substitution* (remplacé) · *délétion* (perdu) · *insertion* (ajouté)"
+
+  - kind: table
+    title: "Conséquences d'une mutation"
+    ref: "S1-3 p.29"
+    header: ["Où ?", "Conséquence possible"]
+    beats:
+      - say: "Les conséquences sont variables."
+      - say: "Dans la région codante, une substitution peut être sans effet sur la protéine, grâce à la dégénérescence du code. Exemple : G C C devient G C G, deux codons de l'alanine."
+        show: "Région codante | *sans effet* (dégénérescence : GCC → GCG = alanine)"
+      - say: "Elle peut changer un ou plusieurs acides aminés : l'effet dépend de l'importance de ces acides aminés pour la fonction."
+        show: "Région codante | *changement d'acide(s) aminé(s)* → effet selon leur rôle"
+      - say: "Ou décaler le cadre de lecture, ce qui modifie beaucoup la protéine, et mène le plus souvent à une perte de fonction."
+        show: "Région codante | *décalage du cadre de lecture* → le plus souvent *perte de fonction*"
+      - say: "Dans une région non codante, promoteur, régions non traduites, introns, les conséquences sont moins prévisibles : un changement du niveau d'expression, si un site de fixation d'un facteur de transcription est touché, ou un défaut d'épissage, près d'une jonction intron-exon."
+        show: "Non codante | *niveau d'expression* (site d'un facteur) · défaut d'*épissage* (jonction intron/exon)"
+
+  - kind: figure
+    title: "Causes et conséquences physiologiques"
+    ref: "S1-3 p.30"
+    fig: "S1-3:30b"
+    trap: "Causes : erreurs de l'ADN polymérase, radiations ionisantes (UV, rayons X, radioactivité), agents toxiques."
+    beats:
+      - say: "Les conséquences physiologiques sont variables : sans effet, à la base des différences entre individus, ou à l'origine d'une pathologie."
+        show: "Sans effet · différences entre individus · *pathologie*"
+      - say: "Les causes : de nombreuses mutations viennent d'erreurs de l'ADN polymérase pendant la réplication. Et les radiations ionisantes, ultra-violets, rayons X et radioactivité, ainsi que certains agents toxiques, peuvent endommager l'ADN."
+        mark: ["ADN polymérase", "radiations ionisantes"]
+        show: "Causes : erreurs de l'*ADN polymérase* · radiations ionisantes (UV, rayons X, radioactivité) · toxiques"
+
+  - kind: compare
+    title: "Mutation germinale vs somatique"
+    ref: "S1-3 p.31"
+    header: ["", "Cellule germinale", "Cellule somatique"]
+    beats:
+      - say: "Tout dépend de la cellule touchée."
+      - say: "Dans une cellule germinale, et si elle n'est pas létale, la mutation peut être transmise à la descendance. Dans une cellule somatique, elle n'est pas transmise."
+        show: "Transmission | *oui* (si non létale) | *non*"
+      - say: "Germinale : elle génère un nouveau polymorphisme, peut causer une maladie génétique transmissible, ou apporter un avantage sélectif, facteur d'évolution. Somatique : elle peut être à la base d'une pathologie chez l'individu, et de nombreuses mutations sont détectées dans les cellules cancéreuses."
+        show: "Effets | polymorphisme · maladie transmissible · *avantage sélectif* | pathologie individuelle · *cancers*"
+
+  - kind: figure
+    title: "La thérapie génique et la SCID"
+    ref: "S1-3 p.31-32"
+    fig: "S1-3:31b"
+    trap: "SCID : récessive, 1/100 000 ; gène ADA possible ; lymphocytes ; traitement : greffe de moelle."
+    beats:
+      - say: "La *thérapie génique* : introduire une copie normale d'un gène déficient dans les cellules d'un patient."
+        mark: "Introduire une copie normale"
+        show: "*Thérapie génique* = introduire une copie *normale* du gène déficient"
+      - say: "Exemple : l'immunodéficience combinée sévère, la SCID. Maladie héréditaire récessive, rare, un sur cent mille. Plusieurs gènes possibles, par exemple le gène ADA, qui code une enzyme du catabolisme des purines."
+        mark: ["100 000", "ADA"]
+        show: "*SCID* : récessive, *1/100 000* · ex. gène *ADA* (catabolisme des purines)"
+      - say: "Les lymphocytes se développent mal : déficience immunitaire sévère, l'enfant vit dans un environnement stérile, l'enfant-bulle. Traitement : une greffe de moelle osseuse, qui contient les cellules souches des lymphocytes, si un donneur compatible existe."
+        mark: ["lymphocytes", "moëlle osseuse"]
+        show: "Défaut des *lymphocytes* · *enfant-bulle* · greffe de *moelle osseuse* (si donneur)"
+      - say: "La thérapie génique de l'ADA-SCID : une trentaine de patients traités, avec une amélioration clinique, la restauration des fonctions immunitaires, dans la majorité des cas. Mais une inquiétude : l'émergence de cellules de type leucémique."
+        show: "ADA-SCID : ~*30* patients · amélioration majoritaire · inquiétude : cellules de type *leucémique*"
+
+  - kind: trap
+    title: "Les pièges des mutations"
+    ref: "S1-3 p.28-31"
+    trap: "Somatique = non transmise ; substitution parfois sans effet ; décalage → perte de fonction."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Une mutation somatique se transmet à la descendance” : faux, seule une mutation germinale peut se transmettre."
+        show: "✓ *Somatique* = non transmise · *germinale* = transmissible"
+      - say: "“Une substitution change toujours la protéine” : faux, elle peut être sans effet grâce à la dégénérescence du code."
+        show: "✓ Substitution parfois *sans effet* (code dégénéré)"
+      - say: "“Les chromosomes homologues sont identiques à 100 %” : faux, 99,9 %. Ce sont les chromatides sœurs qui sont identiques à 100 %."
+        show: "✓ Sœurs *100 %* · homologues *99,9 %*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-3 p.28-31"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Un décalage du cadre de lecture mène le plus souvent à une perte de fonction."
+      - "Deux individus diffèrent en moyenne d'un nucléotide sur 125."
+      - "La SCID est une maladie dominante fréquente."
+      - "Une mutation dans un intron n'a jamais de conséquence."
+    answer: [0]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse A. C'est un sur 1250, la SCID est récessive et rare, et une mutation dans un intron peut causer un défaut d'épissage."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 36 : Mendel"
+    ref: "S1-4 p.1"
+    big: "3 : 1"
+    beats:
+      - say: "On attaque la génétique. Prochain épisode : Mendel, les petits pois, et le célèbre rapport trois pour un."
+        show: "Génotype · phénotype · *3 : 1*"
+
+recap:
+  - "Polymorphisme : variation normale de la séquence d'ADN au sein d'une espèce ; chez l'homme, 1 nucléotide sur 1250 diffère entre deux individus (2,5 × 10⁶ différences) ; 99,9 % identique, 0,1 % polymorphique ; allèles = versions d'un même gène dans une espèce."
+  - "Chromatides sœurs : 100 % identiques (réplication) ; homologues : 99,9 % (père / mère, variations de séquence) ; ex. allèle 1 du gène X sur le chromosome paternel (bleu), allèle 2 sur le maternel (rouge)."
+  - "Le polymorphisme résulte de mutations transmises ; types : substitution, délétion, insertion. Région codante : sans effet (substitution, dégénérescence, ex. GCC → GCG = Ala), changement d'aa (effet selon leur importance), décalage du cadre de lecture (le plus souvent perte de fonction). Région non codante (promoteur, 5'/3' non traduits, introns) : changement du niveau d'expression (site de fixation d'un facteur de transcription), défauts d'épissage (jonction intron/exon)."
+  - "Conséquences physiologiques : sans effet, différences entre individus, ou pathologie. Causes : erreurs de l'ADN polymérase lors de la réplication ; radiations ionisantes (ultra-violet, rayons X, radioactivité) ; certains agents toxiques."
+  - "Mutation dans une cellule germinale non létale → transmise : nouveau polymorphisme, maladie génétique transmissible, avantage sélectif (évolution, sélection naturelle). Mutation dans une cellule somatique → non transmise : pathologie chez l'individu ; nombreuses mutations dans les cellules cancéreuses."
+  - "Thérapie génique : introduire une copie normale d'un gène déficient. SCID : héréditaire récessive, rare (1/100 000), plusieurs gènes possibles (ex. ADA, enzyme du catabolisme des purines) ; défaut des lymphocytes ; déficience immunitaire sévère (enfant-bulle) ; traitement : greffe de moelle osseuse (cellules souches des lymphocytes) si donneur compatible. Thérapie génique de l'ADA-SCID : une trentaine de patients, amélioration clinique dans la majorité des cas ; inquiétude : émergence de cellules de type leucémique."
+
+traps:
+  - ["1 nucléotide sur 125", "1 sur 1250 (2,5 × 10⁶ différences)", "p.28h"]
+  - ["Allèle = gène différent", "Allèle = version d'un même gène", "p.28h"]
+  - ["Homologues 100 % identiques", "Sœurs 100 % ; homologues 99,9 %", "p.28b"]
+  - ["Substitution toujours délétère", "Peut être sans effet (dégénérescence)", "p.29b"]
+  - ["Mutation somatique transmise", "Non transmise ; germinale transmissible", "p.31h"]
+  - ["SCID dominante", "Récessive, 1/100 000", "p.31b"]
+
+mnemonics:
+  - ["3 types de mutations", "« SDI » : Substitution (on remplace), Délétion (on efface), Insertion (on ajoute)", "Substitution · délétion · insertion"]
+  - ["Germinale / somatique", "Germinale = graine (passe aux enfants) ; somatique = soma, le corps (reste chez l'individu)", "Transmise · non transmise"]
+
+quiz:
+  - q: "Polymorphisme :"
+    props:
+      - ["Le polymorphisme est une variation normale de la séquence d'ADN.", true, "p.28h."]
+      - ["99,9 % de la séquence d'ADN est identique entre deux individus.", true, "p.28h."]
+      - ["Les allèles sont des versions d'un même gène.", true, "p.28h."]
+      - ["Les chromatides sœurs d'un chromosome sont identiques à 99,9 %.", false, "100 %."]
+      - ["On compte environ 2,5 × 10⁶ différences entre deux individus.", true, "p.28h."]
+  - q: "Mutations :"
+    props:
+      - ["Une délétion correspond à la perte d'un ou plusieurs nucléotides.", true, "p.29h."]
+      - ["GCC → GCG ne change pas l'acide aminé.", true, "Deux codons de l'alanine."]
+      - ["Une mutation dans le promoteur peut modifier le niveau d'expression.", true, "p.29b."]
+      - ["Les erreurs de l'ADN polymérase sont une cause de mutations.", true, "p.30b."]
+      - ["Une mutation somatique est transmise à la descendance.", false, "Non transmise."]
+  - q: "Thérapie génique :"
+    props:
+      - ["Elle consiste à introduire une copie normale d'un gène déficient.", true, "p.31b."]
+      - ["La SCID touche le développement des lymphocytes.", true, "p.31b."]
+      - ["Le gène ADA code une enzyme du catabolisme des purines.", true, "p.31b."]
+      - ["La greffe de moelle osseuse est possible sans donneur compatible.", false, "Si un donneur compatible existe."]
+      - ["Une inquiétude concerne l'émergence de cellules de type leucémique.", true, "p.32."]
+
+coverage:
+  - ["S1-3", "28h", "Polymorphisme, chiffres, allèles", 2]
+  - ["S1-3", "28b", "Chromatides sœurs vs homologues, allèles 1 et 2", 3]
+  - ["S1-3", "29h", "Types de mutations", 4]
+  - ["S1-3", "29b", "Conséquences des mutations (codant, non codant)", 5]
+  - ["S1-3", "30h", "Conséquences physiologiques", 6]
+  - ["S1-3", "30b", "Causes des mutations", 6]
+  - ["S1-3", "31h", "Mutation germinale vs somatique", 7]
+  - ["S1-3", "31b", "Thérapie génique, SCID", 8]
+  - ["S1-3", "32", "Thérapie génique de l'ADA-SCID", 8]

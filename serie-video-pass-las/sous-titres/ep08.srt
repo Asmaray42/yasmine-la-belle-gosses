@@ -1,0 +1,603 @@
+1
+00:00:00,300 --> 00:00:02,108
+Un œuf cuit ne redevient jamais cru.
+
+2
+00:00:02,248 --> 00:00:03,890
+Ses protéines se sont dépliées,
+
+3
+00:00:03,890 --> 00:00:04,950
+et le cours le dit :
+
+4
+00:00:04,950 --> 00:00:06,380
+la renaturation est souvent
+
+5
+00:00:06,380 --> 00:00:06,963
+impossible.
+
+6
+00:00:07,363 --> 00:00:09,103
+Au programme : les quatre niveaux
+
+7
+00:00:09,103 --> 00:00:10,527
+de structure, les domaines,
+
+8
+00:00:10,527 --> 00:00:11,792
+les protéines chaperons,
+
+9
+00:00:11,792 --> 00:00:12,794
+et la dénaturation.
+
+10
+00:00:13,354 --> 00:00:14,422
+Structure primaire :
+
+11
+00:00:14,422 --> 00:00:15,972
+la séquence des acides aminés
+
+12
+00:00:15,972 --> 00:00:17,040
+dans le polypeptide.
+
+13
+00:00:17,440 --> 00:00:18,544
+Structure secondaire :
+
+14
+00:00:18,544 --> 00:00:20,201
+le premier niveau de repliements,
+
+15
+00:00:20,201 --> 00:00:21,656
+l'hélice alpha et le feuillet
+
+16
+00:00:21,656 --> 00:00:22,259
+plissé bêta.
+
+17
+00:00:22,659 --> 00:00:23,782
+Structure tertiaire :
+
+18
+00:00:23,782 --> 00:00:24,905
+le deuxième niveau de
+
+19
+00:00:24,905 --> 00:00:26,563
+repliements, qui donne la forme
+
+20
+00:00:26,563 --> 00:00:27,740
+finale du polypeptide.
+
+21
+00:00:28,140 --> 00:00:29,384
+Structure quaternaire :
+
+22
+00:00:29,384 --> 00:00:30,790
+l'association de plusieurs
+
+23
+00:00:30,790 --> 00:00:32,467
+polypeptides, quand la protéine
+
+24
+00:00:32,467 --> 00:00:33,657
+en contient plusieurs.
+
+25
+00:00:34,217 --> 00:00:35,368
+La structure primaire,
+
+26
+00:00:35,368 --> 00:00:36,362
+c'est la séquence ;
+
+27
+00:00:36,362 --> 00:00:37,932
+et la nature des acides aminés
+
+28
+00:00:37,932 --> 00:00:39,345
+présents détermine tous les
+
+29
+00:00:39,345 --> 00:00:40,810
+autres niveaux de structure.
+
+30
+00:00:41,210 --> 00:00:43,015
+La structure secondaire se forme
+
+31
+00:00:43,015 --> 00:00:44,876
+via des ponts hydrogène entre les
+
+32
+00:00:44,876 --> 00:00:46,737
+N H et les C double liaison O des
+
+33
+00:00:46,737 --> 00:00:47,922
+chaînes principales .
+
+34
+00:00:48,322 --> 00:00:49,603
+Le feuillet plissé bêta,
+
+35
+00:00:49,603 --> 00:00:50,885
+ce sont deux segments du
+
+36
+00:00:50,885 --> 00:00:52,593
+polypeptide alignés côte à côte.
+
+37
+00:00:52,733 --> 00:00:54,254
+L'hélice alpha, un segment en
+
+38
+00:00:54,254 --> 00:00:54,673
+spirale.
+
+39
+00:00:54,813 --> 00:00:56,396
+Et un polypeptide peut contenir
+
+40
+00:00:56,396 --> 00:00:57,469
+plusieurs de chacune.
+
+41
+00:00:58,028 --> 00:00:59,722
+La structure tertiaire ajoute des
+
+42
+00:00:59,722 --> 00:01:01,056
+repliements pour donner la
+
+43
+00:01:01,056 --> 00:01:01,929
+structure finale.
+
+44
+00:01:02,069 --> 00:01:03,496
+Elle découle des interactions
+
+45
+00:01:03,496 --> 00:01:04,530
+entre les groupes R .
+
+46
+00:01:04,670 --> 00:01:05,643
+Il y en a cinq.
+
+47
+00:01:06,043 --> 00:01:07,605
+Un, l' exclusion hydrophobe :
+
+48
+00:01:07,605 --> 00:01:09,760
+les acides aminés hydrophobes au centre.
+
+49
+00:01:09,900 --> 00:01:11,189
+Deux, des liaisons hydrogène
+
+50
+00:01:11,189 --> 00:01:12,339
+entre groupes R polaires.
+
+51
+00:01:12,739 --> 00:01:14,182
+Trois, des ponts disulfure entre
+
+52
+00:01:14,182 --> 00:01:14,858
+deux cystéines.
+
+53
+00:01:14,998 --> 00:01:16,429
+Quatre, des liaisons ioniques
+
+54
+00:01:16,429 --> 00:01:17,663
+entre groupes R de charge
+
+55
+00:01:17,663 --> 00:01:18,058
+opposée.
+
+56
+00:01:18,198 --> 00:01:19,859
+Cinq, des attractions de van der
+
+57
+00:01:19,859 --> 00:01:21,521
+Waals entre groupes R apolaires.
+
+58
+00:01:22,081 --> 00:01:23,595
+“Elle Habille Deux Invités VIP.”
+
+59
+00:01:23,995 --> 00:01:25,199
+Exclusion hydrophobe,
+
+60
+00:01:25,199 --> 00:01:26,289
+liaisons hydrogène,
+
+61
+00:01:26,289 --> 00:01:27,722
+ponts disulfure, liaisons
+
+62
+00:01:27,722 --> 00:01:29,098
+ioniques, van der Waals.
+
+63
+00:01:29,658 --> 00:01:31,204
+La structure quaternaire est
+
+64
+00:01:31,204 --> 00:01:33,025
+facultative : c'est l'association
+
+65
+00:01:33,025 --> 00:01:34,460
+de plusieurs polypeptides,
+
+66
+00:01:34,460 --> 00:01:36,171
+les sous-unités, pour former la
+
+67
+00:01:36,171 --> 00:01:37,441
+protéine fonctionnelle.
+
+68
+00:01:37,581 --> 00:01:38,905
+Ces sous-unités peuvent être
+
+69
+00:01:38,905 --> 00:01:40,134
+identiques ou différentes.
+
+70
+00:01:40,694 --> 00:01:42,556
+La structure tertiaire mène à la
+
+71
+00:01:42,556 --> 00:01:43,777
+formation de domaines
+
+72
+00:01:43,777 --> 00:01:45,639
+fonctionnels : des acides aminés
+
+73
+00:01:45,639 --> 00:01:47,500
+rapprochés dans une structure 3D
+
+74
+00:01:47,500 --> 00:01:49,187
+compatible avec une fonction.
+
+75
+00:01:49,587 --> 00:01:51,000
+Une protéine en a souvent
+
+76
+00:01:51,000 --> 00:01:52,242
+plusieurs : un domaine
+
+77
+00:01:52,242 --> 00:01:53,711
+enzymatique, un domaine de
+
+78
+00:01:53,711 --> 00:01:55,236
+reconnaissance du substrat,
+
+79
+00:01:55,236 --> 00:01:57,100
+un domaine d'interaction avec une
+
+80
+00:01:57,100 --> 00:01:57,948
+autre protéine.
+
+81
+00:01:58,088 --> 00:01:59,682
+C'est la relation entre structure
+
+82
+00:01:59,682 --> 00:02:00,261
+et fonction.
+
+83
+00:02:00,821 --> 00:02:02,071
+La plupart des protéines
+
+84
+00:02:02,071 --> 00:02:03,789
+néo-synthétisées sont capables de
+
+85
+00:02:03,789 --> 00:02:05,091
+se replier d'elles-mêmes.
+
+86
+00:02:05,231 --> 00:02:06,958
+D'autres nécessitent la présence
+
+87
+00:02:06,958 --> 00:02:08,469
+d'une protéine chaperon pour
+
+88
+00:02:08,469 --> 00:02:10,088
+adopter la bonne conformation.
+
+89
+00:02:10,648 --> 00:02:12,117
+Exemple : le virus Ebola,
+
+90
+00:02:12,117 --> 00:02:13,527
+responsable d'une fièvre
+
+91
+00:02:13,527 --> 00:02:15,289
+hémorragique souvent mortelle,
+
+92
+00:02:15,289 --> 00:02:16,758
+transmise via les fluides
+
+93
+00:02:16,758 --> 00:02:17,346
+corporels.
+
+94
+00:02:17,486 --> 00:02:18,585
+La dernière épidémie,
+
+95
+00:02:18,585 --> 00:02:19,737
+en Afrique de l'Ouest,
+
+96
+00:02:19,737 --> 00:02:22,616
+de 2013 à 2016, a fait plus de
+
+97
+00:02:22,616 --> 00:02:23,454
+dix mille décès.
+
+98
+00:02:23,854 --> 00:02:25,617
+Certaines protéines du virus ont
+
+99
+00:02:25,617 --> 00:02:27,325
+besoin d'un chaperon fourni par
+
+100
+00:02:27,325 --> 00:02:28,482
+la cellule infectée ,
+
+101
+00:02:28,482 --> 00:02:30,411
+HSPA5, pour bien se replier.
+
+102
+00:02:30,551 --> 00:02:31,768
+L'inhiber par un agent
+
+103
+00:02:31,768 --> 00:02:33,482
+pharmacologique semble diminuer
+
+104
+00:02:33,482 --> 00:02:34,201
+la virulence.
+
+105
+00:02:34,761 --> 00:02:36,213
+Certaines conditions font se
+
+106
+00:02:36,213 --> 00:02:37,405
+déplier les protéines :
+
+107
+00:02:37,405 --> 00:02:38,597
+c'est la dénaturation .
+
+108
+00:02:38,737 --> 00:02:40,404
+Trois causes : un changement de
+
+109
+00:02:40,404 --> 00:02:41,802
+pH, un changement de
+
+110
+00:02:41,802 --> 00:02:42,984
+concentration ionique,
+
+111
+00:02:42,984 --> 00:02:44,167
+une augmentation de la
+
+112
+00:02:44,167 --> 00:02:44,812
+température.
+
+113
+00:02:45,212 --> 00:02:46,839
+La renaturation, reprendre sa
+
+114
+00:02:46,839 --> 00:02:48,241
+forme après dénaturation,
+
+115
+00:02:48,241 --> 00:02:49,756
+est possible pour certaines
+
+116
+00:02:49,756 --> 00:02:51,046
+protéines, mais souvent
+
+117
+00:02:51,046 --> 00:02:51,663
+impossible.
+
+118
+00:02:52,223 --> 00:02:53,829
+La conservation des aliments
+
+119
+00:02:53,829 --> 00:02:55,551
+repose sur la dénaturation des
+
+120
+00:02:55,551 --> 00:02:57,329
+protéines, y compris celles des
+
+121
+00:02:57,329 --> 00:02:58,304
+micro-organismes.
+
+122
+00:02:58,704 --> 00:03:00,380
+Le vinaigre agit sur le pH.
+
+123
+00:03:00,780 --> 00:03:02,699
+La salaison, sur la concentration
+
+124
+00:03:02,699 --> 00:03:03,164
+ionique.
+
+125
+00:03:03,564 --> 00:03:05,348
+La cuisson, sur la température.
+
+126
+00:03:05,908 --> 00:03:07,288
+Quiz : laquelle est exacte ?
+
+127
+00:03:11,688 --> 00:03:12,502
+Réponse B.
+
+128
+00:03:12,642 --> 00:03:14,462
+La secondaire dépend des ponts H
+
+129
+00:03:14,462 --> 00:03:15,883
+de la chaîne principale ;
+
+130
+00:03:15,883 --> 00:03:17,702
+la quaternaire est facultative ;
+
+131
+00:03:17,702 --> 00:03:19,237
+la renaturation est souvent
+
+132
+00:03:19,237 --> 00:03:19,863
+impossible.
+
+133
+00:03:20,423 --> 00:03:21,435
+On récapitule.
+
+134
+00:03:21,835 --> 00:03:23,147
+Primaire, la séquence ;
+
+135
+00:03:23,147 --> 00:03:24,687
+secondaire, hélice alpha et
+
+136
+00:03:24,687 --> 00:03:26,454
+feuillet bêta par ponts H de la
+
+137
+00:03:26,454 --> 00:03:27,538
+chaîne principale ;
+
+138
+00:03:27,538 --> 00:03:29,078
+tertiaire, forme finale par
+
+139
+00:03:29,078 --> 00:03:30,788
+interactions entre groupes R ;
+
+140
+00:03:30,788 --> 00:03:32,214
+quaternaire, facultative.
+
+141
+00:03:32,614 --> 00:03:33,800
+Domaines fonctionnels,
+
+142
+00:03:33,800 --> 00:03:35,956
+chaperons comme HSPA5 pour Ebola.
+
+143
+00:03:36,356 --> 00:03:38,041
+Dénaturation par le pH,
+
+144
+00:03:38,041 --> 00:03:39,784
+la concentration ionique et la
+
+145
+00:03:39,784 --> 00:03:41,120
+température : vinaigre,
+
+146
+00:03:41,120 --> 00:03:42,166
+salaison, cuisson.
+
+147
+00:03:42,726 --> 00:03:43,791
+Prochain épisode :
+
+148
+00:03:43,791 --> 00:03:45,092
+les acides nucléiques,
+
+149
+00:03:45,092 --> 00:03:47,281
+ADN et ARN, et le sens 5 prime
+
+150
+00:03:47,281 --> 00:03:49,351
+vers 3 prime que tu retrouveras
+
+151
+00:03:49,351 --> 00:03:49,824
+partout.

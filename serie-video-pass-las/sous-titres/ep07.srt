@@ -1,0 +1,551 @@
+1
+00:00:00,300 --> 00:00:01,754
+Environ trente mille protéines
+
+2
+00:00:01,754 --> 00:00:02,965
+différentes chez l'homme,
+
+3
+00:00:02,965 --> 00:00:04,371
+toutes écrites avec seulement
+
+4
+00:00:04,371 --> 00:00:06,019
+vingt lettres : les acides aminés.
+
+5
+00:00:06,419 --> 00:00:08,272
+Au programme : les sept fonctions
+
+6
+00:00:08,272 --> 00:00:10,125
+des protéines, les acides aminés,
+
+7
+00:00:10,125 --> 00:00:11,754
+les essentiels, et la liaison
+
+8
+00:00:11,754 --> 00:00:12,371
+peptidique.
+
+9
+00:00:12,931 --> 00:00:14,564
+Sixième point des macromolécules
+
+10
+00:00:14,564 --> 00:00:15,380
+: les protéines.
+
+11
+00:00:15,520 --> 00:00:16,900
+Grande diversité chimique,
+
+12
+00:00:16,900 --> 00:00:18,492
+environ trente mille protéines
+
+13
+00:00:18,492 --> 00:00:19,818
+différentes chez l'homme,
+
+14
+00:00:19,818 --> 00:00:21,092
+et une grande variété de
+
+15
+00:00:21,092 --> 00:00:21,623
+fonctions.
+
+16
+00:00:22,023 --> 00:00:23,619
+Un, la catalyse enzymatique :
+
+17
+00:00:23,619 --> 00:00:24,886
+faciliter des réactions
+
+18
+00:00:24,886 --> 00:00:25,436
+chimiques.
+
+19
+00:00:25,576 --> 00:00:26,570
+Deux, la défense :
+
+20
+00:00:26,570 --> 00:00:28,280
+reconnaître des microorganismes
+
+21
+00:00:28,280 --> 00:00:29,770
+étrangers, c'est le système
+
+22
+00:00:29,770 --> 00:00:30,432
+immunitaire.
+
+23
+00:00:30,832 --> 00:00:32,315
+Trois, le transport de petites
+
+24
+00:00:32,315 --> 00:00:33,550
+molécules : l'hémoglobine
+
+25
+00:00:33,550 --> 00:00:35,180
+transporte l'O2 dans le sang.
+
+26
+00:00:35,320 --> 00:00:36,310
+Quatre, le soutien :
+
+27
+00:00:36,310 --> 00:00:37,498
+des protéines fibreuses,
+
+28
+00:00:37,498 --> 00:00:38,883
+dans la peau, les ligaments,
+
+29
+00:00:38,883 --> 00:00:39,230
+les os.
+
+30
+00:00:39,630 --> 00:00:40,628
+Cinq, le mouvement :
+
+31
+00:00:40,628 --> 00:00:42,226
+intracellulaire, ou contractions
+
+32
+00:00:42,226 --> 00:00:42,825
+musculaires.
+
+33
+00:00:42,965 --> 00:00:44,112
+Six, la régulation :
+
+34
+00:00:44,112 --> 00:00:45,488
+récepteurs de surface ou
+
+35
+00:00:45,488 --> 00:00:47,036
+intracellulaires, messagers
+
+36
+00:00:47,036 --> 00:00:48,011
+intercellulaires.
+
+37
+00:00:48,151 --> 00:00:49,249
+Sept, le stockage :
+
+38
+00:00:49,249 --> 00:00:50,869
+calcium et fer fixés sur des
+
+39
+00:00:50,869 --> 00:00:51,447
+protéines.
+
+40
+00:00:52,007 --> 00:00:53,271
+Dans l'ordre du cours :
+
+41
+00:00:53,271 --> 00:00:54,426
+“Cathy Défend Ton Sac,
+
+42
+00:00:54,426 --> 00:00:55,305
+Mais Reste Sage.”
+
+43
+00:00:55,705 --> 00:00:56,660
+Catalyse, défense,
+
+44
+00:00:56,660 --> 00:00:57,669
+transport, soutien,
+
+45
+00:00:57,669 --> 00:00:59,367
+mouvement, régulation, stockage.
+
+46
+00:00:59,927 --> 00:01:01,529
+Les protéines sont des polymères
+
+47
+00:01:01,529 --> 00:01:02,330
+d'acides aminés.
+
+48
+00:01:02,470 --> 00:01:04,044
+Il en existe vingt différents,
+
+49
+00:01:04,044 --> 00:01:05,198
+et chaque protéine est
+
+50
+00:01:05,198 --> 00:01:06,720
+caractérisée par une séquence
+
+51
+00:01:06,720 --> 00:01:08,137
+spécifique d'acides aminés.
+
+52
+00:01:08,537 --> 00:01:10,108
+Chaque acide aminé porte une
+
+53
+00:01:10,108 --> 00:01:12,634
+amine , qui à pH 7 devient N H 3
+
+54
+00:01:12,634 --> 00:01:13,925
+plus, et un carboxyle ,
+
+55
+00:01:13,925 --> 00:01:16,562
+acide, qui à pH 7 devient C O O moins.
+
+56
+00:01:16,962 --> 00:01:18,033
+Et un groupement R ,
+
+57
+00:01:18,033 --> 00:01:19,424
+le groupement fonctionnel,
+
+58
+00:01:19,424 --> 00:01:20,815
+de vingt types différents,
+
+59
+00:01:20,815 --> 00:01:22,581
+qui donne à chaque acide aminé sa
+
+60
+00:01:22,581 --> 00:01:24,187
+propriété chimique spécifique.
+
+61
+00:01:24,747 --> 00:01:26,361
+Les acides aminés se classent en
+
+62
+00:01:26,361 --> 00:01:27,924
+apolaires, polaires et chargés.
+
+63
+00:01:28,064 --> 00:01:29,381
+Le cours donne la liste des
+
+64
+00:01:29,381 --> 00:01:30,990
+vingt, avec le code à une lettre,
+
+65
+00:01:30,990 --> 00:01:32,307
+à trois lettres, et le nom.
+
+66
+00:01:32,707 --> 00:01:34,300
+Parmi eux, neuf sont essentiels
+
+67
+00:01:34,300 --> 00:01:35,841
+chez l'homme : ils ne sont pas
+
+68
+00:01:35,841 --> 00:01:37,280
+synthétisés par l'organisme,
+
+69
+00:01:37,280 --> 00:01:38,719
+ils doivent être fournis par
+
+70
+00:01:38,719 --> 00:01:39,490
+l'alimentation.
+
+71
+00:01:39,890 --> 00:01:42,118
+Le cours les résume en un mot :
+
+72
+00:01:42,118 --> 00:01:43,412
+F L I K h M W T V.
+
+73
+00:01:43,552 --> 00:01:44,982
+Phénylalanine, leucine,
+
+74
+00:01:44,982 --> 00:01:46,163
+isoleucine, lysine,
+
+75
+00:01:46,163 --> 00:01:47,531
+histidine, méthionine,
+
+76
+00:01:47,531 --> 00:01:49,458
+tryptophane, thréonine, valine.
+
+77
+00:01:49,858 --> 00:01:51,011
+Le h est en minuscule :
+
+78
+00:01:51,011 --> 00:01:52,365
+l'histidine est essentielle
+
+79
+00:01:52,365 --> 00:01:53,919
+uniquement chez le nourrisson .
+
+80
+00:01:54,479 --> 00:01:56,458
+Pour retenir F L I K h M W T V :
+
+81
+00:01:56,458 --> 00:01:57,819
+“Film Libre : Il Kiffe,
+
+82
+00:01:57,819 --> 00:01:59,675
+hein, Mais Walter Tourne Vite.”
+
+83
+00:01:59,675 --> 00:02:00,788
+Le “hein” minuscule,
+
+84
+00:02:00,788 --> 00:02:02,767
+c'est l'histidine du nourrisson.
+
+85
+00:02:03,167 --> 00:02:04,411
+Et les codes pièges :
+
+86
+00:02:04,411 --> 00:02:05,596
+K, c'est la lysine ;
+
+87
+00:02:05,596 --> 00:02:06,722
+W, le tryptophane ;
+
+88
+00:02:06,722 --> 00:02:07,906
+F, la phénylalanine.
+
+89
+00:02:08,466 --> 00:02:10,193
+Les acides aminés s'associent par
+
+90
+00:02:10,193 --> 00:02:11,711
+des liaisons peptidiques pour
+
+91
+00:02:11,711 --> 00:02:12,914
+former un polypeptide .
+
+92
+00:02:13,054 --> 00:02:14,451
+La formation d'une liaison
+
+93
+00:02:14,451 --> 00:02:16,064
+peptidique est une réaction de
+
+94
+00:02:16,064 --> 00:02:16,924
+déshydratation .
+
+95
+00:02:17,324 --> 00:02:18,860
+Une protéine, c'est un seul
+
+96
+00:02:18,860 --> 00:02:20,624
+polypeptide, ou une association
+
+97
+00:02:20,624 --> 00:02:22,104
+de plusieurs polypeptides.
+
+98
+00:02:22,664 --> 00:02:23,731
+Dans un polypeptide,
+
+99
+00:02:23,731 --> 00:02:25,012
+la chaîne principale est
+
+100
+00:02:25,012 --> 00:02:26,559
+constante, et les groupes R ,
+
+101
+00:02:26,559 --> 00:02:27,680
+ou chaînes latérales,
+
+102
+00:02:27,680 --> 00:02:28,480
+sont variables.
+
+103
+00:02:28,880 --> 00:02:30,211
+À ses extrémités, tout
+
+104
+00:02:30,211 --> 00:02:31,845
+polypeptide a une extrémité
+
+105
+00:02:31,845 --> 00:02:33,841
+amino-terminale , N H 3 plus,
+
+106
+00:02:33,841 --> 00:02:35,475
+d'un côté, et une extrémité
+
+107
+00:02:35,475 --> 00:02:36,624
+carboxy-terminale ,
+
+108
+00:02:36,624 --> 00:02:38,076
+C O O moins, de l'autre.
+
+109
+00:02:38,636 --> 00:02:39,782
+La longueur moyenne des
+
+110
+00:02:39,782 --> 00:02:41,126
+polypeptides chez l'homme :
+
+111
+00:02:41,126 --> 00:02:43,317
+485 acides aminés.
+
+112
+00:02:43,457 --> 00:02:45,099
+Avec vingt lettres possibles à
+
+113
+00:02:45,099 --> 00:02:46,904
+chaque position, la diversité des
+
+114
+00:02:46,904 --> 00:02:48,108
+séquences est énorme :
+
+115
+00:02:48,108 --> 00:02:49,913
+environ trente mille polypeptides
+
+116
+00:02:49,913 --> 00:02:51,227
+différents chez l'homme.
+
+117
+00:02:51,787 --> 00:02:52,623
+Trois pièges.
+
+118
+00:02:53,023 --> 00:02:54,574
+“L'histidine est essentielle chez
+
+119
+00:02:54,574 --> 00:02:55,785
+l'adulte selon le cours” :
+
+120
+00:02:55,785 --> 00:02:56,948
+faux, uniquement chez le
+
+121
+00:02:56,948 --> 00:02:57,481
+nourrisson.
+
+122
+00:02:57,881 --> 00:02:59,522
+“La liaison peptidique se forme
+
+123
+00:02:59,522 --> 00:03:00,670
+par hydrolyse” : faux,
+
+124
+00:03:00,670 --> 00:03:01,709
+par déshydratation.
+
+125
+00:03:02,109 --> 00:03:03,646
+“L'extrémité amino-terminale
+
+126
+00:03:03,646 --> 00:03:04,727
+porte C O O moins” :
+
+127
+00:03:04,727 --> 00:03:06,548
+faux, elle porte N H 3 plus.
+
+128
+00:03:07,108 --> 00:03:08,488
+Quiz : laquelle est exacte ?
+
+129
+00:03:12,888 --> 00:03:14,948
+Réponse B : 485.
+
+130
+00:03:15,088 --> 00:03:16,863
+Il y a vingt acides aminés,
+
+131
+00:03:16,863 --> 00:03:19,557
+l'amine devient N H 3 plus à pH
+
+132
+00:03:19,557 --> 00:03:21,857
+7, et la valine, le V de F L I K
+
+133
+00:03:21,857 --> 00:03:23,631
+h M W T V, est essentielle.
+
+134
+00:03:24,191 --> 00:03:25,125
+Prochain épisode :
+
+135
+00:03:25,125 --> 00:03:26,733
+comment cette chaîne se replie,
+
+136
+00:03:26,733 --> 00:03:28,341
+en quatre niveaux de structure,
+
+137
+00:03:28,341 --> 00:03:29,950
+et pourquoi la cuisson dénature
+
+138
+00:03:29,950 --> 00:03:30,676
+les protéines.

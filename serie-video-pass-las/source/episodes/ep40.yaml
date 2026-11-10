@@ -1,0 +1,254 @@
+title: "Métabolisme, énergie et enzymes"
+subtitle: "Catabolisme · anabolisme · ΔG · ATP · énergie d'activation · site actif · régulation"
+source: "S1-4 p.13b à 19"
+chapter: "Partie I — Chapitre VII. Métabolisme cellulaire — 1. Aperçu · 2. Énergie et réactions chimiques · 3. Les enzymes"
+objectives:
+  - "Définir métabolisme et voie métabolique ; distinguer catabolisme et anabolisme."
+  - "Relier ΔG, réaction exergonique et endergonique ; expliquer le couplage avec l'ATP."
+  - "Expliquer l'énergie d'activation et l'action des enzymes (site actif)."
+  - "Citer les facteurs de régulation de l'activité enzymatique et l'organisation des voies."
+
+scenes:
+  - kind: hook
+    title: "Possible ne veut pas dire rapide"
+    ref: "S1-4 p.17-18"
+    big: "ΔG"
+    beats:
+      - say: "Une réaction peut être spontanée et pourtant ne presque jamais se produire. Il lui manque une poussée : l'énergie d'activation. Les enzymes abaissent cette barrière, sans changer le bilan."
+      - say: "Au programme : le métabolisme, l'ATP, et les enzymes."
+        show: "Métabolisme · *ATP* · *enzymes*"
+
+  - kind: figure
+    title: "Le métabolisme"
+    ref: "S1-4 p.14"
+    fig: "S1-4:14h"
+    trap: "Métabolisme = ENSEMBLE des réactions ; voie métabolique = SÉQUENCE de réactions modifiant une molécule."
+    beats:
+      - say: "Chapitre sept : le métabolisme cellulaire, en cinq points : aperçu général, énergie et réactions chimiques, enzymes, respiration cellulaire, photosynthèse. Des milliers de réactions ont lieu en permanence dans chaque cellule : synthèse, production d'énergie, transport, mouvements."
+        show: "Aperçu · énergie · enzymes · respiration · photosynthèse"
+      - say: "Le *métabolisme*, c'est l'ensemble des réactions chimiques d'un organisme. Une *voie métabolique*, c'est une séquence de réactions au cours de laquelle une molécule initiale est progressivement modifiée jusqu'au produit final. Exemple du cours : la voie de synthèse des pigments de la peau et des cheveux, l'eumélanine et la phéomélanine."
+        mark: ["ensemble des réactions", "voie métabolique"]
+        show: "*Métabolisme* = ensemble des réactions · *voie métabolique* = séquence (ex. eumélanine, phéomélanine)"
+
+  - kind: compare
+    title: "Catabolisme vs anabolisme"
+    ref: "S1-4 p.15"
+    header: ["", "Voies cataboliques", "Voies anaboliques"]
+    beats:
+      - say: "Métabolisme et flux d'énergie."
+      - say: "Les voies cataboliques libèrent de l'énergie en décomposant des molécules riches en énergie. Les voies anaboliques nécessitent un apport d'énergie pour fabriquer des molécules complexes à partir de molécules simples."
+        show: "Énergie | *libèrent* (décomposition) | *nécessitent* (synthèse)"
+      - say: "Exemples : la décomposition du glucose en présence d'O2 en CO2 et eau ; la synthèse d'une chaîne d'ADN à partir de nucléotides libres."
+        show: "Exemple | glucose + O₂ → CO₂ + H₂O | synthèse d'ADN (nucléotides)"
+      - say: "Et l'énergie libérée par le catabolisme peut servir aux réactions anaboliques."
+        show: "Lien | énergie libérée → | → utilisée"
+
+  - kind: figure
+    title: "Énergie libre et ΔG"
+    ref: "S1-4 p.15"
+    fig: "S1-4:15b"
+    trap: "Spontanée seulement si ΔG < 0 (exergonique, libère de l'énergie) ; sinon endergonique (apport nécessaire)."
+    beats:
+      - say: "Toute molécule a un certain niveau d'énergie, son énergie libre, G. Une réaction ne se fait spontanément que si le G du produit est plus petit que celui de la molécule initiale : le delta G est négatif, de l'énergie est libérée. C'est une réaction *exergonique*."
+        mark: ["énergie libre", "exergonique"]
+        show: "*ΔG < 0* → spontanée, libère de l'énergie = *exergonique*"
+      - say: "Dans le cas contraire, la réaction est *endergonique* : elle n'a lieu que si de l'énergie est apportée."
+        mark: "endergonique"
+        show: "Sinon *endergonique* : nécessite un *apport* d'énergie"
+
+  - kind: figure
+    title: "L'ATP, fournisseur d'énergie"
+    ref: "S1-4 p.16"
+    fig: "S1-4:16h"
+    trap: "Énergie de l'ATP dans les liaisons des 2 DERNIERS phosphates ; le plus souvent couplage avec ATP → ADP."
+    beats:
+      - say: "L'énergie nécessaire aux réactions endergoniques est apportée par couplage avec une réaction exergonique. Le plus souvent, c'est l'hydrolyse de l'ATP, la monnaie énergétique."
+        mark: ["couplage", "monnaie énergétique"]
+        show: "Couplage avec une réaction exergonique : le plus souvent l'*hydrolyse de l'ATP*"
+      - say: "L'énergie de l'ATP réside dans les liaisons des deux derniers groupes phosphate : leur hydrolyse libère beaucoup d'énergie. C'est surtout l'hydrolyse de l'ATP en ADP qui est couplée aux réactions endergoniques."
+        mark: ["deux derniers groupes phosphate", "ADP"]
+        show: "Énergie dans les liaisons des *2 derniers phosphates* · surtout *ATP → ADP*"
+
+  - kind: figure
+    title: "Le couplage par transfert de phosphate"
+    ref: "S1-4 p.16"
+    fig: "S1-4:16b"
+    trap: "Le phosphate (et sa liaison de haute énergie) est transféré sur le RÉACTIF, dont le G augmente."
+    beats:
+      - say: "Le couplage passe souvent par le transfert d'un phosphate de l'ATP, avec sa liaison de haute énergie, sur le réactif. L'énergie libre du réactif augmente, et la réaction, dont le delta G devient négatif, devient possible."
+        mark: ["transfert", "devient possible"]
+        show: "Phosphate transféré sur le *réactif* → G ↑ → *ΔG < 0* → réaction possible"
+
+  - kind: figure
+    title: "Le cycle de l'ATP"
+    ref: "S1-4 p.17"
+    fig: "S1-4:17h"
+    trap: "ATP régénéré par les voies CATABOLIQUES, principalement la RESPIRATION cellulaire."
+    beats:
+      - say: "L'hydrolyse de l'ATP en ADP sert de monnaie énergétique pour les voies anaboliques et les activités cellulaires, mouvements, transport. L'ATP est régénéré grâce aux voies cataboliques qui fournissent l'énergie de phosphorylation de l'ADP, principalement par la respiration cellulaire."
+        mark: ["régénéré", "respiration cellulaire"]
+        show: "ATP → ADP (anabolisme, mouvements, transport) · ADP → ATP (*catabolisme*, surtout *respiration*)"
+
+  - kind: figure
+    title: "L'énergie d'activation"
+    ref: "S1-4 p.17"
+    fig: "S1-4:17b"
+    trap: "Même possible, une réaction ne se produit souvent pas instantanément : il faut l'énergie d'activation (état de transition)."
+    beats:
+      - say: "Même si une réaction est possible, elle ne se produit souvent pas instantanément : il faut rompre des liaisons existantes, et cette rupture n'arrive qu'occasionnellement."
+        mark: "pas instantanément"
+        show: "Possible ≠ *instantanée* : la rupture des liaisons est rare"
+      - say: "Une *énergie d'activation* est nécessaire pour déformer les réactifs et rendre leurs liaisons plus instables : c'est l'*état de transition*."
+        mark: ["énergie d’activation", "état de transition"]
+        show: "*Énergie d'activation* → réactifs déformés = *état de transition*"
+
+  - kind: figure
+    title: "Les enzymes abaissent l'énergie d'activation"
+    ref: "S1-4 p.18"
+    fig: "S1-4:18h"
+    trap: "L'enzyme accélère la réaction MAIS ne modifie PAS le ΔG."
+    beats:
+      - say: "Une réaction peut être accélérée, catalysée, par une *enzyme* spécifique, le plus souvent une protéine, qui diminue l'énergie d'activation nécessaire."
+        mark: ["catalysée", "diminuer l’énergie"]
+        show: "*Enzyme* (le plus souvent une protéine) : *↓ énergie d'activation*"
+      - say: "Attention : l'enzyme accélère la réaction, mais elle ne modifie *pas* le delta G."
+        mark: "ne modifie pas"
+        show: "! L'enzyme *ne modifie pas le ΔG*"
+
+  - kind: figure
+    title: "Le site actif"
+    ref: "S1-4 p.18"
+    fig: "S1-4:18b"
+    trap: "Substrat(s) accueilli(s) dans le SITE ACTIF ; positionnement optimal + déstabilisation des liaisons."
+    beats:
+      - say: "Les enzymes ont des structures tridimensionnelles qui leur permettent d'interagir avec des réactifs spécifiques, leurs *substrats*. La région qui accueille le substrat s'appelle le *site actif*."
+        mark: ["substrats", "site actif"]
+        show: "*Substrats* accueillis dans le *site actif*"
+      - say: "Elles abaissent l'énergie d'activation en positionnant les substrats de façon optimale, et en déstabilisant certaines de leurs liaisons."
+        mark: "positionnant"
+        show: "Positionnement *optimal* + *déstabilisation* des liaisons"
+
+  - kind: figure
+    title: "Régulation de l'activité des enzymes"
+    ref: "S1-4 p.19"
+    fig: "S1-4:19h"
+    trap: "Compétitif = SITE ACTIF ; allostérique = HORS du site actif (inhibe ou active en changeant la conformation)."
+    beats:
+      - say: "La température : la plupart des enzymes ont une activité maximale entre 35 et 40 degrés. Le pH : optimal entre 6 et 8 pour la plupart, avec des exceptions, comme la pepsine, qui dégrade les protéines dans l'estomac, à pH 2."
+        mark: ["35 et 40", "pH = 2"]
+        show: "# T° optimale *35–40 °C* · pH *6–8* (sauf *pepsine* : pH *2*)"
+      - say: "Des modifications chimiques, comme la phosphorylation, modulent leur activité."
+        mark: "modifications chimiques"
+        show: "Modifications chimiques (ex. *phosphorylation*)"
+      - say: "Et des substances qui se fixent sur l'enzyme : les inhibiteurs *compétitifs*, en compétition avec le substrat au site actif ; les inhibiteurs *allostériques*, fixés en dehors du site actif, qui inhibent en modifiant la conformation ; et les activateurs allostériques, fixés eux aussi en dehors du site actif, qui activent l'enzyme."
+        mark: ["compétitifs", "allostériques"]
+        show: "Inhibiteur *compétitif* (site actif) · inhibiteur/activateur *allostérique* (hors site actif)"
+
+  - kind: figure
+    title: "Enzymes et voies métaboliques"
+    ref: "S1-4 p.19"
+    fig: "S1-4:19b"
+    trap: "Rétroaction négative : le produit FINAL inhibe l'enzyme de la PREMIÈRE étape."
+    beats:
+      - say: "Les organismes contiennent des milliers d'enzymes. Une voie métabolique, c'est une série d'étapes enzymatiques séquentielles, et ses enzymes sont souvent rassemblées dans un compartiment, une membrane, la matrice mitochondriale."
+        mark: ["séquentielles", "compartiment"]
+        show: "Étapes enzymatiques *séquentielles* · enzymes rassemblées dans un *compartiment*"
+      - say: "Parfois, le produit final d'une voie inhibe l'enzyme de la première étape : c'est la *rétroaction négative*."
+        mark: "rétroaction négative"
+        show: "Produit *final* inhibe l'enzyme de la *1re* étape = *rétroaction négative*"
+
+  - kind: trap
+    title: "Les pièges de l'énergie et des enzymes"
+    ref: "S1-4 p.15-19"
+    trap: "ΔG inchangé par l'enzyme ; exergonique = ΔG négatif ; compétitif vs allostérique."
+    beats:
+      - say: "Trois pièges."
+      - say: "“Une enzyme rend le delta G plus négatif” : faux, elle ne modifie pas le delta G, elle abaisse l'énergie d'activation."
+        show: "✓ Enzyme : ↓ énergie d'activation · *ΔG inchangé*"
+      - say: "“Une réaction exergonique a un delta G positif” : faux, négatif."
+        show: "✓ Exergonique : *ΔG < 0* · endergonique : apport d'énergie"
+      - say: "“Un inhibiteur allostérique se fixe au site actif” : faux, ailleurs. C'est l'inhibiteur compétitif qui occupe le site actif."
+        show: "✓ *Compétitif* = site actif · *allostérique* = ailleurs"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-4 p.18-19"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Une enzyme modifie le ΔG de la réaction."
+      - "La pepsine a un pH optimal de 2."
+      - "La plupart des enzymes ont une activité maximale vers 60 °C."
+      - "Un inhibiteur compétitif se fixe en dehors du site actif."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. L'enzyme ne change pas le delta G, l'optimum est entre 35 et 40 degrés, et l'inhibiteur compétitif se fixe au site actif."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 41 : la respiration cellulaire (1)"
+    ref: "S1-4 p.20"
+    big: "–686"
+    beats:
+      - say: "Prochain épisode : la respiration cellulaire. Delta G moins 686 kilocalories par mole, la glycolyse, et le cycle de Krebs."
+        show: "Glycolyse · pyruvate · *Krebs*"
+
+recap:
+  - "Chapitre VII : 1. Aperçu général ; 2. Énergie et réactions chimiques ; 3. Les enzymes ; 4. La respiration cellulaire ; 5. La photosynthèse. Des milliers de réactions en permanence (synthèse, production d'énergie, transport, mouvements) ; métabolisme = ensemble des réactions chimiques d'un organisme ; voie métabolique = séquence de réactions modifiant progressivement une molécule initiale jusqu'au produit final (ex. synthèse des pigments de la peau et des cheveux : eumélanine, phéomélanine)."
+  - "Voies cataboliques : libèrent de l'énergie en décomposant des molécules riches en énergie (ex. glucose + O2 → CO2 + eau) ; voies anaboliques : nécessitent un apport d'énergie pour produire des molécules complexes (ex. synthèse d'ADN à partir de nucléotides) ; l'énergie du catabolisme peut servir à l'anabolisme."
+  - "Énergie libre G : réaction spontanée seulement si G(produit) < G(initial), ΔG négatif, libération d'énergie (exergonique) ; sinon endergonique (apport d'énergie nécessaire)."
+  - "ATP : couplage des réactions endergoniques avec une réaction exergonique, le plus souvent l'hydrolyse de l'ATP (« monnaie énergétique ») ; énergie dans les liaisons des deux derniers phosphates ; surtout ATP → ADP ; transfert d'un phosphate sur le réactif (G augmente, ΔG devient négatif). Cycle de l'ATP : hydrolyse pour l'anabolisme et les activités (mouvements, transport) ; régénération par les voies cataboliques (principalement la respiration)."
+  - "Énergie d'activation : même possible, une réaction ne se produit souvent pas instantanément (rupture occasionnelle des liaisons) ; énergie nécessaire pour déformer les réactifs (état de transition). Enzymes (le plus souvent protéines) : diminuent l'énergie d'activation, accélèrent la réaction sans modifier le ΔG ; structure 3D, substrats spécifiques, site actif ; positionnement optimal et déstabilisation des liaisons."
+  - "Régulation : température (maximum 35-40 °C pour la plupart) ; pH (6-8 pour la plupart ; pepsine pH 2 dans l'estomac) ; modifications chimiques (ex. phosphorylation) ; inhibiteurs compétitifs (site actif), inhibiteurs allostériques et activateurs allostériques (hors site actif, modifient la conformation). Voies : milliers d'enzymes, étapes séquentielles, enzymes souvent rassemblées dans un compartiment (membrane, matrice mitochondriale) ; rétroaction négative (produit final inhibant l'enzyme de la première étape)."
+
+traps:
+  - ["Catabolisme = synthèse", "Catabolisme libère de l'énergie (décomposition) ; anabolisme en consomme (synthèse)", "p.15h"]
+  - ["Exergonique = ΔG positif", "ΔG négatif, libère de l'énergie", "p.15b"]
+  - ["Énergie dans le 1er phosphate", "Dans les liaisons des deux derniers phosphates", "p.16h"]
+  - ["Enzyme modifie le ΔG", "Ne modifie pas le ΔG ; abaisse l'énergie d'activation", "p.18h"]
+  - ["Optimum 60 °C, pH 2 pour la plupart", "35-40 °C, pH 6-8 (pepsine pH 2)", "p.19h"]
+  - ["Allostérique = site actif", "Compétitif = site actif ; allostérique = ailleurs", "p.19h"]
+  - ["Rétroaction : produit final active la 1re enzyme", "Il l'inhibe (rétroaction négative)", "p.19b"]
+
+mnemonics:
+  - ["Exergonique / endergonique", "EXergonique : l'énergie sort (exo = dehors) ; ENdergonique : l'énergie entre (endo = dedans)", "ΔG < 0 · apport d'énergie"]
+  - ["Compétitif / allostérique", "Compétitif = squatte la place ; allo = « autre » endroit", "Site actif · hors site actif"]
+
+quiz:
+  - q: "Énergie et ATP :"
+    props:
+      - ["Une réaction spontanée a un ΔG négatif.", true, "p.15b."]
+      - ["Une réaction endergonique libère de l'énergie.", false, "Elle nécessite un apport d'énergie."]
+      - ["L'énergie de l'ATP réside dans les liaisons des deux derniers phosphates.", true, "p.16h."]
+      - ["L'ATP est régénéré principalement par la respiration cellulaire.", true, "p.17h."]
+      - ["Le couplage implique souvent le transfert d'un phosphate sur le réactif.", true, "p.16b."]
+  - q: "Enzymes :"
+    props:
+      - ["Les enzymes diminuent l'énergie d'activation.", true, "p.18h."]
+      - ["Les enzymes modifient le ΔG des réactions.", false, "Elles ne le modifient pas."]
+      - ["Le substrat se fixe dans le site actif.", true, "p.18b."]
+      - ["La plupart des enzymes ont une activité maximale entre 35 et 40 °C.", true, "p.19h."]
+      - ["La pepsine fonctionne à pH 2.", true, "Dans l'estomac."]
+  - q: "Régulation :"
+    props:
+      - ["Un inhibiteur compétitif entre en compétition avec le substrat au site actif.", true, "p.19h."]
+      - ["Un activateur allostérique se fixe en dehors du site actif.", true, "p.19h."]
+      - ["La phosphorylation peut moduler l'activité d'une enzyme.", true, "p.19h."]
+      - ["Dans la rétroaction négative, le produit final inhibe l'enzyme de la dernière étape.", false, "Celle de la première étape."]
+      - ["Les enzymes d'une voie sont souvent rassemblées dans un même compartiment.", true, "p.19b."]
+
+coverage:
+  - ["S1-4", "13b", "Sommaire du chapitre VII", 2]
+  - ["S1-4", "14h", "Métabolisme, voie métabolique (mélanines)", 2]
+  - ["S1-4", "14b", "Complexité des voies métaboliques", 2]
+  - ["S1-4", "15h", "Voies cataboliques et anaboliques", 3]
+  - ["S1-4", "15b", "Énergie libre, ΔG, exergonique, endergonique", 4]
+  - ["S1-4", "16h", "L'ATP, monnaie énergétique, ATP → ADP", 5]
+  - ["S1-4", "16b", "Couplage par transfert de phosphate", 6]
+  - ["S1-4", "17h", "Cycle de l'ATP", 7]
+  - ["S1-4", "17b", "Énergie d'activation, état de transition", 8]
+  - ["S1-4", "18h", "Les enzymes diminuent l'énergie d'activation, ΔG inchangé", 9]
+  - ["S1-4", "18b", "Site actif, substrats", 10]
+  - ["S1-4", "19h", "Régulation : température, pH, modifications, inhibiteurs, activateurs", 11]
+  - ["S1-4", "19b", "Voies métaboliques, compartiments, rétroaction négative", 12]

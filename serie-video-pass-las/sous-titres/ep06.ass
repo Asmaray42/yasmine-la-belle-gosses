@@ -1,0 +1,179 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le beurre est solide à
+Dialogue: 0,0:00:01.40,0:00:02.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}température ambiante,
+Dialogue: 0,0:00:02.46,0:00:03.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'huile d'olive est liquide.
+Dialogue: 0,0:00:04.00,0:00:05.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La raison tient à une double
+Dialogue: 0,0:00:05.30,0:00:05.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison.
+Dialogue: 0,0:00:06.07,0:00:07.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les triglycérides,
+Dialogue: 0,0:00:07.79,0:00:09.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les phospholipides et la
+Dialogue: 0,0:00:09.04,0:00:10.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicouche, puis quatre autres
+Dialogue: 0,0:00:10.50,0:00:11.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}familles de lipides.
+Dialogue: 0,0:00:12.10,0:00:13.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les lipides forment un groupe
+Dialogue: 0,0:00:13.70,0:00:15.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}diversifié de molécules.
+Dialogue: 0,0:00:15.16,0:00:16.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leur caractéristique commune :
+Dialogue: 0,0:00:16.60,0:00:17.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l' {\c&H66D1FF&}insolubilité{\c&HFFFFFF&} {\c&H66D1FF&}dans{\c&HFFFFFF&} {\c&H66D1FF&}l'eau{\c&HFFFFFF&} .
+Dialogue: 0,0:00:18.35,0:00:20.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils ont une proportion élevée de
+Dialogue: 0,0:00:20.11,0:00:21.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaisons C H apolaires,
+Dialogue: 0,0:00:21.37,0:00:22.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc hydrophobes.
+Dialogue: 0,0:00:22.44,0:00:23.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En contact avec l'eau,
+Dialogue: 0,0:00:23.49,0:00:24.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils ont tendance à s'agréger,
+Dialogue: 0,0:00:24.88,0:00:26.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme des gouttelettes d'huile.
+Dialogue: 0,0:00:26.50,0:00:27.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et ce sont les principaux
+Dialogue: 0,0:00:27.68,0:00:28.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}constituants des membranes
+Dialogue: 0,0:00:28.91,0:00:29.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires.
+Dialogue: 0,0:00:30.03,0:00:31.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un triglycéride, c'est un
+Dialogue: 0,0:00:31.41,0:00:33.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}glycérol{\c&HFFFFFF&} auquel sont liés {\c&H66D1FF&}trois{\c&HFFFFFF&}
+Dialogue: 0,0:00:33.12,0:00:33.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}acides{\c&HFFFFFF&} {\c&H66D1FF&}gras{\c&HFFFFFF&} .
+Dialogue: 0,0:00:34.40,0:00:35.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux types de triglycérides.
+Dialogue: 0,0:00:36.34,0:00:37.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Saturés : tous les carbones des
+Dialogue: 0,0:00:37.73,0:00:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaînes sont liés à au moins deux H.
+Dialogue: 0,0:00:39.49,0:00:40.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Insaturés : une ou plusieurs
+Dialogue: 0,0:00:40.75,0:00:42.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paires de carbones reliées par
+Dialogue: 0,0:00:42.09,0:00:42.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une double liaison.
+Dialogue: 0,0:00:43.34,0:00:44.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S'il n'y a qu'une double liaison,
+Dialogue: 0,0:00:44.98,0:00:46.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est mono-insaturé ;
+Dialogue: 0,0:00:46.03,0:00:47.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'il y en a plusieurs,
+Dialogue: 0,0:00:47.13,0:00:47.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}poly-insaturé.
+Dialogue: 0,0:00:48.23,0:00:49.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les chaînes saturées sont
+Dialogue: 0,0:00:49.47,0:00:49.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}alignées.
+Dialogue: 0,0:00:50.06,0:00:51.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les doubles liaisons forment des
+Dialogue: 0,0:00:51.49,0:00:52.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}coudes : les chaînes ne sont pas
+Dialogue: 0,0:00:52.92,0:00:53.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}alignées.
+Dialogue: 0,0:00:53.72,0:00:55.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'où le point de fusion :
+Dialogue: 0,0:00:55.06,0:00:56.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}élevé pour les saturés,
+Dialogue: 0,0:00:56.29,0:00:57.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}solides à température ambiante,
+Dialogue: 0,0:00:57.94,0:00:59.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont les graisses ;
+Dialogue: 0,0:00:59.12,0:01:00.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peu élevé pour les insaturés,
+Dialogue: 0,0:01:00.66,0:01:02.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liquides, ce sont les huiles.
+Dialogue: 0,0:01:02.61,0:01:04.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemples : graisses animales et
+Dialogue: 0,0:01:04.26,0:01:05.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}beurre, car la plupart des
+Dialogue: 0,0:01:05.64,0:01:07.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}triglycérides animaux sont
+Dialogue: 0,0:01:07.03,0:01:08.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saturés ; huiles végétales et
+Dialogue: 0,0:01:08.57,0:01:09.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}huiles de poisson pour les
+Dialogue: 0,0:01:09.95,0:01:10.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}insaturés.
+Dialogue: 0,0:01:11.05,0:01:12.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leurs nombreuses liaisons C H
+Dialogue: 0,0:01:12.60,0:01:14.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}riches en énergie en font des
+Dialogue: 0,0:01:14.16,0:01:15.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}réserves{\c&HFFFFFF&} {\c&H66D1FF&}énergétiques{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:15.40,0:01:17.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus efficaces que les glucides.
+Dialogue: 0,0:01:17.52,0:01:19.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En cas de suralimentation en
+Dialogue: 0,0:01:19.10,0:01:20.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucides, ceux-ci sont
+Dialogue: 0,0:01:20.34,0:01:22.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transformés en triglycérides pour
+Dialogue: 0,0:01:22.21,0:01:22.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus tard.
+Dialogue: 0,0:01:22.91,0:01:24.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils sont stockés dans les
+Dialogue: 0,0:01:24.09,0:01:24.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules adipeuses,
+Dialogue: 0,0:01:24.98,0:01:26.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et forment une couche d'isolant
+Dialogue: 0,0:01:26.44,0:01:26.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}thermique.
+Dialogue: 0,0:01:27.47,0:01:28.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}phospholipides{\c&HFFFFFF&} :
+Dialogue: 0,0:01:28.49,0:01:29.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au glycérol sont liés {\c&H66D1FF&}deux{\c&HFFFFFF&}
+Dialogue: 0,0:01:29.81,0:01:31.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chaînes d'acides gras et {\c&H66D1FF&}un{\c&HFFFFFF&}
+Dialogue: 0,0:01:31.18,0:01:32.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe phosphate.
+Dialogue: 0,0:01:32.44,0:01:34.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le phosphate est souvent lié à un
+Dialogue: 0,0:01:34.25,0:01:35.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupement chargé ou polaire,
+Dialogue: 0,0:01:35.84,0:01:37.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par exemple la choline,
+Dialogue: 0,0:01:37.10,0:01:38.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un groupe amine positif.
+Dialogue: 0,0:01:38.56,0:01:39.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la lécithine,
+Dialogue: 0,0:01:39.90,0:01:41.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou phosphatidylcholine.
+Dialogue: 0,0:01:41.63,0:01:43.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : une {\c&H66D1FF&}tête{\c&HFFFFFF&} {\c&H66D1FF&}polaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:43.02,0:01:44.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophile, et {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}queues{\c&HFFFFFF&}
+Dialogue: 0,0:01:44.26,0:01:45.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}apolaires{\c&HFFFFFF&} , hydrophobes.
+Dialogue: 0,0:01:45.97,0:01:47.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette structure, tête polaire et
+Dialogue: 0,0:01:47.57,0:01:49.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}queues apolaires, entraîne dans
+Dialogue: 0,0:01:49.12,0:01:50.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau la formation d'une
+Dialogue: 0,0:01:50.32,0:01:51.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure complexe :
+Dialogue: 0,0:01:51.33,0:01:52.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}bicouche{\c&HFFFFFF&} , têtes vers l'eau,
+Dialogue: 0,0:01:52.88,0:01:54.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}queues cachées au centre.
+Dialogue: 0,0:01:54.53,0:01:55.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et cette bicouche est la base de
+Dialogue: 0,0:01:55.94,0:01:57.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}toutes{\c&HFFFFFF&} les membranes dans les
+Dialogue: 0,0:01:57.22,0:01:57.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules.
+Dialogue: 0,0:01:58.18,0:01:59.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège des chiffres.
+Dialogue: 0,0:01:59.73,0:02:01.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Un phospholipide porte trois
+Dialogue: 0,0:02:01.03,0:02:01.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acides gras” : faux.
+Dialogue: 0,0:02:02.06,0:02:03.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux acides gras, plus un
+Dialogue: 0,0:02:03.39,0:02:03.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate.
+Dialogue: 0,0:02:04.06,0:02:05.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, c'est le triglycéride.
+Dialogue: 0,0:02:05.84,0:02:07.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les triglycérides saturés sont
+Dialogue: 0,0:02:07.29,0:02:08.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liquides” : faux.
+Dialogue: 0,0:02:08.20,0:02:09.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Saturés, solides ;
+Dialogue: 0,0:02:09.14,0:02:10.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}insaturés, liquides.
+Dialogue: 0,0:02:10.74,0:02:12.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}terpènes{\c&HFFFFFF&} , faits de chaînes
+Dialogue: 0,0:02:12.48,0:02:14.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de carbone : des pigments comme
+Dialogue: 0,0:02:14.21,0:02:15.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la chlorophylle, le carotène,
+Dialogue: 0,0:02:15.83,0:02:17.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le rétinal, le pigment visuel ;
+Dialogue: 0,0:02:17.56,0:02:19.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le caoutchouc et les résines ;
+Dialogue: 0,0:02:19.23,0:02:20.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des essences végétales comme le
+Dialogue: 0,0:02:20.97,0:02:22.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}citronellol, le limonène,
+Dialogue: 0,0:02:22.36,0:02:24.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}parfum d'orange, et l'eucalyptol.
+Dialogue: 0,0:02:24.61,0:02:26.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}stéroïdes{\c&HFFFFFF&} , quatre cycles de
+Dialogue: 0,0:02:26.35,0:02:27.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbone associés :
+Dialogue: 0,0:02:27.33,0:02:29.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cholestérol, présent dans la
+Dialogue: 0,0:02:29.01,0:02:30.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane des cellules animales ;
+Dialogue: 0,0:02:30.75,0:02:31.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les acides biliaires,
+Dialogue: 0,0:02:31.89,0:02:33.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui aident à la digestion des
+Dialogue: 0,0:02:33.47,0:02:34.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lipides ; et des hormones,
+Dialogue: 0,0:02:34.89,0:02:36.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la testostérone et l'œstrogène.
+Dialogue: 0,0:02:36.97,0:02:38.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}prostaglandines{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:38.14,0:02:39.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux queues apolaires fixées sur
+Dialogue: 0,0:02:39.91,0:02:41.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un cycle à cinq carbones :
+Dialogue: 0,0:02:41.35,0:02:42.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ vingt espèces,
+Dialogue: 0,0:02:42.57,0:02:43.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des messagers chimiques,
+Dialogue: 0,0:02:43.90,0:02:45.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la vasodilatation ou la
+Dialogue: 0,0:02:45.45,0:02:46.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contraction de l'utérus.
+Dialogue: 0,0:02:47.19,0:02:48.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les {\c&H66D1FF&}glycolipides{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:48.32,0:02:50.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux chaînes d'acides gras et un
+Dialogue: 0,0:02:50.04,0:02:51.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucide : les gangliosides et
+Dialogue: 0,0:02:51.61,0:02:53.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cérébrosides, dans la membrane
+Dialogue: 0,0:02:53.23,0:02:53.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des cellules.
+Dialogue: 0,0:02:54.49,0:02:55.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un exemple concret :
+Dialogue: 0,0:02:55.68,0:02:57.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le rétinal, un dérivé de terpène,
+Dialogue: 0,0:02:57.65,0:02:59.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est à la base de la vision.
+Dialogue: 0,0:02:59.82,0:03:01.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une image par famille.
+Dialogue: 0,0:03:01.46,0:03:02.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Terpènes : la palette de
+Dialogue: 0,0:03:02.78,0:03:04.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}couleurs, chlorophylle verte,
+Dialogue: 0,0:03:04.38,0:03:05.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carotène orange, et le parfum
+Dialogue: 0,0:03:05.98,0:03:07.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'orange du limonène.
+Dialogue: 0,0:03:07.54,0:03:08.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Stéroïdes : les quatre anneaux
+Dialogue: 0,0:03:08.95,0:03:09.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}olympiques… moins un.
+Dialogue: 0,0:03:10.08,0:03:10.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre cycles.
+Dialogue: 0,0:03:11.32,0:03:13.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prostaglandines : un facteur qui
+Dialogue: 0,0:03:13.07,0:03:14.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porte le message, avec un cycle à
+Dialogue: 0,0:03:14.87,0:03:16.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cinq, comme les cinq doigts de la
+Dialogue: 0,0:03:16.67,0:03:17.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}main qui distribue.
+Dialogue: 0,0:03:18.11,0:03:19.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Glycolipides : glyco,
+Dialogue: 0,0:03:19.33,0:03:21.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le sucre : deux acides gras
+Dialogue: 0,0:03:21.24,0:03:22.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus un glucide.
+Dialogue: 0,0:03:22.73,0:03:24.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:28.51,0:03:29.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:29.46,0:03:31.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A décrit les prostaglandines ;
+Dialogue: 0,0:03:31.11,0:03:32.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un phospholipide a deux acides
+Dialogue: 0,0:03:32.76,0:03:34.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gras ; et les insaturés ont un
+Dialogue: 0,0:03:34.41,0:03:35.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}point de fusion peu élevé.
+Dialogue: 0,0:03:36.40,0:03:37.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:03:37.82,0:03:39.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lipides : insolubles dans l'eau,
+Dialogue: 0,0:03:39.39,0:03:40.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}principaux constituants des
+Dialogue: 0,0:03:40.72,0:03:41.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranes.
+Dialogue: 0,0:03:41.61,0:03:43.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Triglycérides : glycérol plus
+Dialogue: 0,0:03:43.27,0:03:44.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois acides gras ;
+Dialogue: 0,0:03:44.36,0:03:45.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saturés solides, insaturés
+Dialogue: 0,0:03:45.85,0:03:47.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liquides ; réserves d'énergie.
+Dialogue: 0,0:03:47.97,0:03:49.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Phospholipides : deux acides gras
+Dialogue: 0,0:03:49.66,0:03:51.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un phosphate, tête polaire,
+Dialogue: 0,0:03:51.19,0:03:52.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}queues apolaires, bicouche.
+Dialogue: 0,0:03:52.97,0:03:54.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Terpènes, stéroïdes,
+Dialogue: 0,0:03:54.14,0:03:55.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prostaglandines, glycolipides.
+Dialogue: 0,0:03:56.45,0:03:57.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:57.38,0:03:58.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protéines.
+Dialogue: 0,0:03:58.25,0:03:59.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et ce mot bizarre,
+Dialogue: 0,0:03:59.48,0:04:00.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F L I K h M W T V,
+Dialogue: 0,0:04:00.71,0:04:02.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}va te faire gagner des points.
