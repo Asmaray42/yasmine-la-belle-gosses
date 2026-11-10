@@ -1,0 +1,583 @@
+1
+00:00:00,300 --> 00:00:01,331
+Un groupe sanguin AB,
+
+2
+00:00:01,331 --> 00:00:02,904
+c'est un allèle A et un allèle B
+
+3
+00:00:02,904 --> 00:00:04,378
+qui s'expriment tous les deux.
+
+4
+00:00:04,518 --> 00:00:05,941
+Ni l'un ni l'autre ne domine :
+
+5
+00:00:05,941 --> 00:00:06,984
+Mendel ne suffit plus.
+
+6
+00:00:07,384 --> 00:00:09,216
+Au programme : les exceptions aux
+
+7
+00:00:09,216 --> 00:00:10,937
+lois de Mendel, le système ABO,
+
+8
+00:00:10,937 --> 00:00:11,937
+et deux exercices.
+
+9
+00:00:12,497 --> 00:00:13,631
+Les lois de Mendel ne
+
+10
+00:00:13,631 --> 00:00:15,036
+s'appliquent que si chaque
+
+11
+00:00:15,036 --> 00:00:16,764
+caractère dépend d'un seul gène,
+
+12
+00:00:16,764 --> 00:00:17,737
+avec deux allèles,
+
+13
+00:00:17,737 --> 00:00:19,465
+l'un dominant, l'autre récessif.
+
+14
+00:00:19,605 --> 00:00:21,386
+En réalité, cinq situations s'en
+
+15
+00:00:21,386 --> 00:00:21,887
+écartent.
+
+16
+00:00:22,287 --> 00:00:23,502
+L' hérédité polygénique :
+
+17
+00:00:23,502 --> 00:00:24,620
+plusieurs gènes pour un
+
+18
+00:00:24,620 --> 00:00:26,127
+caractère, comme la taille chez
+
+19
+00:00:26,127 --> 00:00:26,516
+l'homme.
+
+20
+00:00:26,656 --> 00:00:27,893
+Le gène pléiotropique :
+
+21
+00:00:27,893 --> 00:00:29,615
+un même gène influence plusieurs
+
+22
+00:00:29,615 --> 00:00:30,207
+caractères.
+
+23
+00:00:30,607 --> 00:00:32,071
+Plus de deux allèles dans une
+
+24
+00:00:32,071 --> 00:00:33,383
+population, même si chaque
+
+25
+00:00:33,383 --> 00:00:34,897
+individu n'en a jamais plus de
+
+26
+00:00:34,897 --> 00:00:36,713
+deux : c'est le cas des groupes ABO.
+
+27
+00:00:37,113 --> 00:00:38,485
+La dominance incomplète :
+
+28
+00:00:38,485 --> 00:00:40,075
+l'hétérozygote a un phénotype
+
+29
+00:00:40,075 --> 00:00:40,843
+intermédiaire.
+
+30
+00:00:40,983 --> 00:00:42,418
+Une belle-de-nuit rouge croisée
+
+31
+00:00:42,418 --> 00:00:44,271
+avec une blanche donne des fleurs roses.
+
+32
+00:00:44,671 --> 00:00:45,899
+La codominance : pas de
+
+33
+00:00:45,899 --> 00:00:47,501
+dominance, chaque allèle a son
+
+34
+00:00:47,501 --> 00:00:49,157
+effet propre, et l'hétérozygote
+
+35
+00:00:49,157 --> 00:00:50,705
+additionne les caractères des
+
+36
+00:00:50,705 --> 00:00:51,613
+deux homozygotes.
+
+37
+00:00:51,753 --> 00:00:53,223
+Exemple : les groupes ABO.
+
+38
+00:00:53,783 --> 00:00:55,559
+Le gène des groupes ABO code une
+
+39
+00:00:55,559 --> 00:00:57,280
+enzyme qui ajoute des molécules
+
+40
+00:00:57,280 --> 00:00:58,668
+de sucre à la surface des
+
+41
+00:00:58,668 --> 00:00:59,389
+érythrocytes.
+
+42
+00:00:59,529 --> 00:01:01,337
+Trois allèles : I A ajoute de la
+
+43
+00:01:01,337 --> 00:01:02,466
+galactosamine ; I B,
+
+44
+00:01:02,466 --> 00:01:03,539
+du galactose ; I O,
+
+45
+00:01:03,539 --> 00:01:05,121
+c'est une perte de fonction.
+
+46
+00:01:05,521 --> 00:01:07,030
+I A et I B sont codominants ;
+
+47
+00:01:07,030 --> 00:01:07,914
+I O est récessif.
+
+48
+00:01:08,054 --> 00:01:09,271
+Quatre phénotypes :
+
+49
+00:01:09,271 --> 00:01:11,193
+groupe A, I A I A ou I A I O ;
+
+50
+00:01:11,193 --> 00:01:13,115
+groupe B, I B I B ou I B I O ;
+
+51
+00:01:13,115 --> 00:01:14,396
+groupe AB, I A I B ;
+
+52
+00:01:14,396 --> 00:01:15,549
+groupe O, I O I O.
+
+53
+00:01:16,109 --> 00:01:17,433
+Une maman de groupe AB,
+
+54
+00:01:17,433 --> 00:01:19,274
+I A I B, et un papa de groupe A,
+
+55
+00:01:19,274 --> 00:01:19,734
+I A I O.
+
+56
+00:01:19,874 --> 00:01:21,211
+Quelles fréquences attendre chez
+
+57
+00:01:21,211 --> 00:01:21,838
+leurs enfants ?
+
+58
+00:01:22,238 --> 00:01:23,983
+Les enfants reçoivent I A ou I B
+
+59
+00:01:23,983 --> 00:01:25,729
+de la maman, I A ou I O du papa.
+
+60
+00:01:25,869 --> 00:01:26,893
+Résultat : groupe A,
+
+61
+00:01:26,893 --> 00:01:29,659
+50 % ; groupe B, 25 % ;
+
+62
+00:01:29,659 --> 00:01:32,170
+groupe AB, 25 % ; groupe O, zéro.
+
+63
+00:01:32,730 --> 00:01:34,335
+Si on reçoit un sang portant des
+
+64
+00:01:34,335 --> 00:01:35,740
+sucres qu'on ne possède pas,
+
+65
+00:01:35,740 --> 00:01:37,396
+le système immunitaire l'attaque,
+
+66
+00:01:37,396 --> 00:01:38,148
+comme étranger.
+
+67
+00:01:38,288 --> 00:01:39,521
+Les combinaisons sont donc
+
+68
+00:01:39,521 --> 00:01:39,948
+limitées.
+
+69
+00:01:40,348 --> 00:01:41,701
+Groupe A : galactosamine.
+
+70
+00:01:41,841 --> 00:01:43,848
+Il reçoit A et O, il donne à A et AB.
+
+71
+00:01:44,248 --> 00:01:45,482
+Groupe B : galactose.
+
+72
+00:01:45,622 --> 00:01:47,768
+Il reçoit B et O, il donne à B et AB.
+
+73
+00:01:48,168 --> 00:01:49,482
+Groupe AB : les deux sucres.
+
+74
+00:01:49,622 --> 00:01:51,184
+C'est le receveur universel,
+
+75
+00:01:51,184 --> 00:01:52,132
+et il donne à AB.
+
+76
+00:01:52,532 --> 00:01:53,746
+Groupe O : aucun sucre.
+
+77
+00:01:53,886 --> 00:01:55,544
+Il reçoit O, et c'est le donneur
+
+78
+00:01:55,544 --> 00:01:56,062
+universel.
+
+79
+00:01:56,622 --> 00:01:58,080
+Les croisements polyhybrides :
+
+80
+00:01:58,080 --> 00:01:59,975
+on suit plusieurs caractères à la fois.
+
+81
+00:02:00,115 --> 00:02:01,514
+Le cours en donne un cas de
+
+82
+00:02:01,514 --> 00:02:02,447
+conseil génétique.
+
+83
+00:02:02,587 --> 00:02:04,164
+Inquiets de leurs antécédents
+
+84
+00:02:04,164 --> 00:02:05,469
+familiaux, Maria et Théo
+
+85
+00:02:05,469 --> 00:02:07,209
+consultent un médecin généticien
+
+86
+00:02:07,209 --> 00:02:08,785
+pour connaître la probabilité
+
+87
+00:02:08,785 --> 00:02:10,417
+d'avoir un enfant qui réunisse
+
+88
+00:02:10,417 --> 00:02:11,613
+les pires conditions :
+
+89
+00:02:11,753 --> 00:02:13,132
+atteint des deux affections,
+
+90
+00:02:13,132 --> 00:02:14,216
+et d'un groupe sanguin
+
+91
+00:02:14,216 --> 00:02:15,497
+incompatible avec le leur,
+
+92
+00:02:15,497 --> 00:02:16,777
+puisqu'ils souhaitent être
+
+93
+00:02:16,777 --> 00:02:17,221
+donneurs.
+
+94
+00:02:17,621 --> 00:02:19,389
+Maria et Théo, tous deux sains
+
+95
+00:02:19,389 --> 00:02:20,508
+mais porteurs de la
+
+96
+00:02:20,508 --> 00:02:22,453
+bêta-thalassémie, maladie du sang
+
+97
+00:02:22,453 --> 00:02:24,221
+récessive : génotype H normal,
+
+98
+00:02:24,221 --> 00:02:24,633
+h muté.
+
+99
+00:02:24,774 --> 00:02:26,655
+Maria a aussi une brachydactylie,
+
+100
+00:02:26,655 --> 00:02:27,681
+des doigts courts,
+
+101
+00:02:27,681 --> 00:02:29,164
+à transmission dominante :
+
+102
+00:02:29,164 --> 00:02:30,133
+d normal, D muté.
+
+103
+00:02:30,273 --> 00:02:31,791
+Ils sont tous deux de groupe AB,
+
+104
+00:02:31,791 --> 00:02:33,357
+et voudraient pouvoir donner leur
+
+105
+00:02:33,357 --> 00:02:35,017
+sang à leur enfant s'il est malade.
+
+106
+00:02:35,157 --> 00:02:36,598
+Quelle probabilité d'un enfant
+
+107
+00:02:36,598 --> 00:02:37,559
+qui cumule le pire ?
+
+108
+00:02:37,959 --> 00:02:39,083
+Bêta-thalassémie :
+
+109
+00:02:39,083 --> 00:02:40,832
+H h croisé avec H h donne un
+
+110
+00:02:40,832 --> 00:02:42,143
+quart de h h, malade.
+
+111
+00:02:42,543 --> 00:02:44,443
+Brachydactylie : d D croisé avec
+
+112
+00:02:44,443 --> 00:02:46,225
+d d donne moitié d D, atteint.
+
+113
+00:02:46,625 --> 00:02:48,548
+Groupe : I A I B croisé avec I A
+
+114
+00:02:48,548 --> 00:02:50,410
+I B donne moitié de groupes non
+
+115
+00:02:50,410 --> 00:02:51,792
+AB, I A I A ou I B I B,
+
+116
+00:02:51,792 --> 00:02:53,655
+incompatibles avec les parents,
+
+117
+00:02:53,655 --> 00:02:55,278
+car seul AB est compatible.
+
+118
+00:02:55,678 --> 00:02:56,867
+Les trois événements sont
+
+119
+00:02:56,867 --> 00:02:58,200
+indépendants : on multiplie.
+
+120
+00:02:58,340 --> 00:02:59,841
+Un quart fois un demi fois un
+
+121
+00:02:59,841 --> 00:03:00,824
+demi : un seizième.
+
+122
+00:03:01,384 --> 00:03:02,220
+Trois pièges.
+
+123
+00:03:02,620 --> 00:03:04,418
+“Les groupes ABO sont un exemple
+
+124
+00:03:04,418 --> 00:03:05,868
+de dominance incomplète” :
+
+125
+00:03:05,868 --> 00:03:07,086
+faux, de codominance.
+
+126
+00:03:07,226 --> 00:03:08,432
+La dominance incomplète,
+
+127
+00:03:08,432 --> 00:03:09,840
+c'est la belle-de-nuit rose.
+
+128
+00:03:10,240 --> 00:03:11,638
+“Le groupe AB est donneur
+
+129
+00:03:11,638 --> 00:03:12,628
+universel” : faux,
+
+130
+00:03:12,628 --> 00:03:13,735
+receveur universel.
+
+131
+00:03:13,875 --> 00:03:15,010
+Le donneur universel,
+
+132
+00:03:15,010 --> 00:03:15,443
+c'est O.
+
+133
+00:03:15,843 --> 00:03:17,396
+“Un individu peut porter trois
+
+134
+00:03:17,396 --> 00:03:18,521
+allèles du gène ABO” :
+
+135
+00:03:18,521 --> 00:03:19,914
+faux, jamais plus de deux,
+
+136
+00:03:19,914 --> 00:03:21,682
+même s'il en existe trois dans la
+
+137
+00:03:21,682 --> 00:03:22,271
+population.
+
+138
+00:03:22,831 --> 00:03:24,672
+Quiz : maman AB, papa A I A I O.
+
+139
+00:03:24,812 --> 00:03:26,466
+Probabilité d'un enfant de groupe
+
+140
+00:03:26,466 --> 00:03:26,617
+O ?
+
+141
+00:03:32,017 --> 00:03:33,306
+Zéro : la maman ne peut pas
+
+142
+00:03:33,306 --> 00:03:34,165
+transmettre d'I O.
+
+143
+00:03:34,725 --> 00:03:35,744
+Prochain épisode :
+
+144
+00:03:35,744 --> 00:03:37,499
+les gènes liés, le centimorgan,
+
+145
+00:03:37,499 --> 00:03:38,858
+l'hémophilie de la reine
+
+146
+00:03:38,858 --> 00:03:40,839
+Victoria, et l'inactivation de l'X.

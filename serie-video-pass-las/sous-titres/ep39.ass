@@ -1,0 +1,125 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La reine Victoria d'Angleterre
+Dialogue: 0,0:00:01.84,0:00:03.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}était porteuse d'un allèle muté,
+Dialogue: 0,0:00:03.48,0:00:05.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'hémophilie s'est propagée
+Dialogue: 0,0:00:05.01,0:00:06.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans plusieurs familles royales
+Dialogue: 0,0:00:06.60,0:00:08.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'Europe, presque uniquement chez
+Dialogue: 0,0:00:08.29,0:00:08.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des garçons.
+Dialogue: 0,0:00:09.04,0:00:09.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pourquoi ?
+Dialogue: 0,0:00:09.82,0:00:10.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le chromosome X.
+Dialogue: 0,0:00:11.37,0:00:13.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les gènes liés,
+Dialogue: 0,0:00:13.02,0:00:14.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le centimorgan, l'hérédité liée
+Dialogue: 0,0:00:14.73,0:00:16.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au sexe, et l'inactivation de l'X.
+Dialogue: 0,0:00:17.17,0:00:18.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cas particulier : les {\c&H66D1FF&}gènes{\c&HFFFFFF&} {\c&H66D1FF&}liés{\c&HFFFFFF&}
+Dialogue: 0,0:00:18.81,0:00:20.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, deux gènes situés sur le même
+Dialogue: 0,0:00:20.41,0:00:20.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosome.
+Dialogue: 0,0:00:21.12,0:00:22.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quelles sont alors les règles de
+Dialogue: 0,0:00:22.65,0:00:24.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmission en dihybridisme ?
+Dialogue: 0,0:00:24.65,0:00:25.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Grâce au crossing-over,
+Dialogue: 0,0:00:25.85,0:00:27.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des recombinaisons entre gènes
+Dialogue: 0,0:00:27.43,0:00:28.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liés sont possibles.
+Dialogue: 0,0:00:28.61,0:00:30.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On peut donc voir apparaître des
+Dialogue: 0,0:00:30.37,0:00:31.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gamètes avec toutes les
+Dialogue: 0,0:00:31.63,0:00:33.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}combinaisons d'allèles des gènes
+Dialogue: 0,0:00:33.39,0:00:34.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A et G : A G, A g,
+Dialogue: 0,0:00:34.38,0:00:34.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}a G, a g.
+Dialogue: 0,0:00:35.27,0:00:36.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais avec quelle fréquence ?
+Dialogue: 0,0:00:36.78,0:00:37.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quelle est la chance qu'un
+Dialogue: 0,0:00:37.87,0:00:39.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crossing-over ait lieu entre les
+Dialogue: 0,0:00:39.22,0:00:39.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux gènes ?
+Dialogue: 0,0:00:40.28,0:00:41.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La fréquence de recombinaison
+Dialogue: 0,0:00:41.82,0:00:43.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre deux gènes liés dépend de
+Dialogue: 0,0:00:43.46,0:00:44.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la distance qui les sépare :
+Dialogue: 0,0:00:44.94,0:00:46.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus ils sont éloignés,
+Dialogue: 0,0:00:46.16,0:00:47.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus un crossing-over a de
+Dialogue: 0,0:00:47.53,0:00:49.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chances de tomber entre eux.
+Dialogue: 0,0:00:49.16,0:00:50.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce principe a servi à
+Dialogue: 0,0:00:50.31,0:00:52.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cartographier les gènes sur les
+Dialogue: 0,0:00:52.00,0:00:52.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes.
+Dialogue: 0,0:00:53.06,0:00:54.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'unité : le {\c&H66D1FF&}centimorgan{\c&HFFFFFF&} .
+Dialogue: 0,0:00:54.60,0:00:56.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un centimorgan, c'est un pour
+Dialogue: 0,0:00:56.11,0:00:57.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cent de recombinaison.
+Dialogue: 0,0:00:57.39,0:00:58.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La valeur atteint au maximum
+Dialogue: 0,0:00:58.86,0:01:00.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cinquante pour les gènes les plus
+Dialogue: 0,0:01:00.59,0:01:02.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}éloignés : cinquante pour cent de
+Dialogue: 0,0:01:02.33,0:01:03.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}recombinaison, comme pour des
+Dialogue: 0,0:01:03.85,0:01:04.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gènes non liés.
+Dialogue: 0,0:01:05.20,0:01:06.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La majorité des gènes du
+Dialogue: 0,0:01:06.64,0:01:08.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosome X, à l'exception de
+Dialogue: 0,0:01:08.45,0:01:10.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quelques gènes des régions
+Dialogue: 0,0:01:10.01,0:01:11.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pseudoautosomales,
+Dialogue: 0,0:01:11.10,0:01:12.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}communes à X et Y,
+Dialogue: 0,0:01:12.18,0:01:14.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ne sont présents qu'en une seule
+Dialogue: 0,0:01:14.11,0:01:15.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}copie chez l'homme,
+Dialogue: 0,0:01:15.25,0:01:15.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}X Y.
+Dialogue: 0,0:01:15.63,0:01:16.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'homme est dit {\c&H66D1FF&}hémizygote{\c&HFFFFFF&} pour
+Dialogue: 0,0:01:16.94,0:01:17.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ces gènes.
+Dialogue: 0,0:01:17.76,0:01:19.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hérédité des gènes de l'X
+Dialogue: 0,0:01:19.21,0:01:20.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dépend donc du sexe de l'enfant.
+Dialogue: 0,0:01:21.07,0:01:22.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : une maladie due à un
+Dialogue: 0,0:01:22.82,0:01:24.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}allèle récessif a d'un gène de
+Dialogue: 0,0:01:24.57,0:01:26.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'X, avec une mère hétérozygote,
+Dialogue: 0,0:01:26.44,0:01:27.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}saine mais porteuse.
+Dialogue: 0,0:01:28.17,0:01:30.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple de maladie récessive liée
+Dialogue: 0,0:01:30.01,0:01:31.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au sexe : l' {\c&H66D1FF&}hémophilie{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:31.40,0:01:32.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec des hémorragies
+Dialogue: 0,0:01:32.52,0:01:33.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}persistantes.
+Dialogue: 0,0:01:33.38,0:01:35.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le gène responsable est sur le
+Dialogue: 0,0:01:35.23,0:01:37.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosome X, et code un facteur
+Dialogue: 0,0:01:37.20,0:01:38.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de coagulation.
+Dialogue: 0,0:01:38.53,0:01:40.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le pédigrée de la famille de la
+Dialogue: 0,0:01:40.19,0:01:41.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}reine Victoria d'Angleterre,
+Dialogue: 0,0:01:41.70,0:01:43.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle-même porteuse d'un allèle
+Dialogue: 0,0:01:43.32,0:01:44.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}muté, montre la transmission à
+Dialogue: 0,0:01:44.93,0:01:46.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}travers plusieurs générations.
+Dialogue: 0,0:01:47.11,0:01:48.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez la femme, un des deux X est
+Dialogue: 0,0:01:48.82,0:01:50.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inactivé, pour éviter une double
+Dialogue: 0,0:01:50.53,0:01:52.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dose des protéines codées par l'X
+Dialogue: 0,0:01:52.30,0:01:53.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par rapport aux hommes :
+Dialogue: 0,0:01:53.59,0:01:55.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}compensation{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}dosage{\c&HFFFFFF&} .
+Dialogue: 0,0:01:55.76,0:01:57.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le X inactivé est compacté,
+Dialogue: 0,0:01:57.27,0:01:58.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et apparaît sous la forme d'un
+Dialogue: 0,0:01:58.94,0:02:00.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}corpuscule{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}Barr{\c&HFFFFFF&} .
+Dialogue: 0,0:02:00.46,0:02:02.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'inactivation a lieu pendant
+Dialogue: 0,0:02:02.19,0:02:03.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryogenèse, au hasard,
+Dialogue: 0,0:02:03.73,0:02:05.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur le X paternel ou maternel.
+Dialogue: 0,0:02:05.66,0:02:07.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La femme adulte est donc une
+Dialogue: 0,0:02:07.40,0:02:08.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}mosaïque{\c&HFFFFFF&} de cellules,
+Dialogue: 0,0:02:08.71,0:02:10.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec le X paternel ou le X
+Dialogue: 0,0:02:10.33,0:02:11.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternel inactivé.
+Dialogue: 0,0:02:11.59,0:02:13.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au total, son corps exprime les
+Dialogue: 0,0:02:13.20,0:02:14.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux allèles des gènes de ses X.
+Dialogue: 0,0:02:15.42,0:02:16.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:16.65,0:02:18.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Deux gènes liés très éloignés
+Dialogue: 0,0:02:18.25,0:02:19.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peuvent atteindre 100
+Dialogue: 0,0:02:19.46,0:02:21.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}centimorgans de recombinaison” :
+Dialogue: 0,0:02:21.17,0:02:22.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, le cours donne un maximum
+Dialogue: 0,0:02:22.87,0:02:23.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de 50.
+Dialogue: 0,0:02:23.99,0:02:25.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“C'est toujours l'X paternel qui
+Dialogue: 0,0:02:25.72,0:02:26.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est inactivé” : faux,
+Dialogue: 0,0:02:26.83,0:02:28.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'inactivation est aléatoire.
+Dialogue: 0,0:02:28.85,0:02:30.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'homme est hétérozygote pour
+Dialogue: 0,0:02:30.32,0:02:31.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les gènes de l'X” :
+Dialogue: 0,0:02:31.23,0:02:32.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, il est hémizygote.
+Dialogue: 0,0:02:33.01,0:02:34.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : que vaut un centimorgan ?
+Dialogue: 0,0:02:38.91,0:02:40.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un pour cent de recombinaison.
+Dialogue: 0,0:02:40.53,0:02:41.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le maximum, cinquante,
+Dialogue: 0,0:02:41.68,0:02:43.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}correspond aux gènes non liés.
+Dialogue: 0,0:02:43.80,0:02:45.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On termine la partie un avec le
+Dialogue: 0,0:02:45.60,0:02:46.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}métabolisme.
+Dialogue: 0,0:02:46.43,0:02:47.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:47.38,0:02:49.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie, l'ATP, et comment les
+Dialogue: 0,0:02:49.17,0:02:50.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzymes accélèrent les réactions
+Dialogue: 0,0:02:50.85,0:02:52.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sans changer leur bilan.

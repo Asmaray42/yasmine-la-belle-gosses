@@ -1,0 +1,743 @@
+1
+00:00:00,300 --> 00:00:01,963
+Une réaction peut être spontanée
+
+2
+00:00:01,963 --> 00:00:03,627
+et pourtant ne presque jamais se
+
+3
+00:00:03,627 --> 00:00:04,095
+produire.
+
+4
+00:00:04,235 --> 00:00:05,549
+Il lui manque une poussée :
+
+5
+00:00:05,549 --> 00:00:06,668
+l'énergie d'activation.
+
+6
+00:00:06,808 --> 00:00:08,061
+Les enzymes abaissent cette
+
+7
+00:00:08,061 --> 00:00:09,546
+barrière, sans changer le bilan.
+
+8
+00:00:09,946 --> 00:00:11,488
+Au programme : le métabolisme,
+
+9
+00:00:11,488 --> 00:00:12,721
+l'ATP, et les enzymes.
+
+10
+00:00:13,281 --> 00:00:15,070
+Chapitre sept : le métabolisme
+
+11
+00:00:15,070 --> 00:00:16,741
+cellulaire, en cinq points :
+
+12
+00:00:16,741 --> 00:00:18,292
+aperçu général, énergie et
+
+13
+00:00:18,292 --> 00:00:19,485
+réactions chimiques,
+
+14
+00:00:19,485 --> 00:00:21,394
+enzymes, respiration cellulaire,
+
+15
+00:00:21,394 --> 00:00:22,230
+photosynthèse.
+
+16
+00:00:22,370 --> 00:00:23,817
+Des milliers de réactions ont
+
+17
+00:00:23,817 --> 00:00:25,314
+lieu en permanence dans chaque
+
+18
+00:00:25,314 --> 00:00:26,262
+cellule : synthèse,
+
+19
+00:00:26,262 --> 00:00:27,310
+production d'énergie,
+
+20
+00:00:27,310 --> 00:00:28,408
+transport, mouvements.
+
+21
+00:00:28,808 --> 00:00:30,574
+Le métabolisme , c'est l'ensemble
+
+22
+00:00:30,574 --> 00:00:32,072
+des réactions chimiques d'un
+
+23
+00:00:32,072 --> 00:00:32,607
+organisme.
+
+24
+00:00:32,747 --> 00:00:33,904
+Une voie métabolique ,
+
+25
+00:00:33,904 --> 00:00:35,535
+c'est une séquence de réactions
+
+26
+00:00:35,535 --> 00:00:37,271
+au cours de laquelle une molécule
+
+27
+00:00:37,271 --> 00:00:38,744
+initiale est progressivement
+
+28
+00:00:38,744 --> 00:00:40,427
+modifiée jusqu'au produit final.
+
+29
+00:00:40,567 --> 00:00:41,519
+Exemple du cours :
+
+30
+00:00:41,519 --> 00:00:43,212
+la voie de synthèse des pigments
+
+31
+00:00:43,212 --> 00:00:44,588
+de la peau et des cheveux,
+
+32
+00:00:44,588 --> 00:00:46,280
+l'eumélanine et la phéomélanine.
+
+33
+00:00:46,840 --> 00:00:48,395
+Métabolisme et flux d'énergie.
+
+34
+00:00:48,795 --> 00:00:50,368
+Les voies cataboliques libèrent
+
+35
+00:00:50,368 --> 00:00:51,942
+de l'énergie en décomposant des
+
+36
+00:00:51,942 --> 00:00:53,364
+molécules riches en énergie.
+
+37
+00:00:53,504 --> 00:00:55,324
+Les voies anaboliques nécessitent
+
+38
+00:00:55,324 --> 00:00:56,648
+un apport d'énergie pour
+
+39
+00:00:56,648 --> 00:00:58,468
+fabriquer des molécules complexes
+
+40
+00:00:58,468 --> 00:01:00,123
+à partir de molécules simples.
+
+41
+00:01:00,523 --> 00:01:02,197
+Exemples : la décomposition du
+
+42
+00:01:02,197 --> 00:01:04,430
+glucose en présence d'O2 en CO2
+
+43
+00:01:04,430 --> 00:01:06,271
+et eau ; la synthèse d'une chaîne
+
+44
+00:01:06,271 --> 00:01:08,504
+d'ADN à partir de nucléotides libres.
+
+45
+00:01:08,904 --> 00:01:10,394
+Et l'énergie libérée par le
+
+46
+00:01:10,394 --> 00:01:11,883
+catabolisme peut servir aux
+
+47
+00:01:11,883 --> 00:01:13,098
+réactions anaboliques.
+
+48
+00:01:13,658 --> 00:01:15,105
+Toute molécule a un certain
+
+49
+00:01:15,105 --> 00:01:16,659
+niveau d'énergie, son énergie
+
+50
+00:01:16,659 --> 00:01:17,142
+libre, G.
+
+51
+00:01:17,282 --> 00:01:18,574
+Une réaction ne se fait
+
+52
+00:01:18,574 --> 00:01:20,090
+spontanément que si le G du
+
+53
+00:01:20,090 --> 00:01:21,887
+produit est plus petit que celui
+
+54
+00:01:21,887 --> 00:01:23,291
+de la molécule initiale :
+
+55
+00:01:23,291 --> 00:01:24,583
+le delta G est négatif,
+
+56
+00:01:24,583 --> 00:01:25,987
+de l'énergie est libérée.
+
+57
+00:01:26,127 --> 00:01:27,745
+C'est une réaction exergonique .
+
+58
+00:01:28,145 --> 00:01:29,281
+Dans le cas contraire,
+
+59
+00:01:29,281 --> 00:01:30,830
+la réaction est endergonique :
+
+60
+00:01:30,830 --> 00:01:32,534
+elle n'a lieu que si de l'énergie
+
+61
+00:01:32,534 --> 00:01:33,205
+est apportée.
+
+62
+00:01:33,765 --> 00:01:35,175
+L'énergie nécessaire aux
+
+63
+00:01:35,175 --> 00:01:36,761
+réactions endergoniques est
+
+64
+00:01:36,761 --> 00:01:38,523
+apportée par couplage avec une
+
+65
+00:01:38,523 --> 00:01:39,757
+réaction exergonique.
+
+66
+00:01:39,897 --> 00:01:40,999
+Le plus souvent, c'est
+
+67
+00:01:40,999 --> 00:01:42,150
+l'hydrolyse de l'ATP,
+
+68
+00:01:42,150 --> 00:01:43,301
+la monnaie énergétique.
+
+69
+00:01:43,701 --> 00:01:45,369
+L'énergie de l'ATP réside dans
+
+70
+00:01:45,369 --> 00:01:46,933
+les liaisons des deux derniers
+
+71
+00:01:46,933 --> 00:01:47,923
+groupes phosphate :
+
+72
+00:01:47,923 --> 00:01:49,487
+leur hydrolyse libère beaucoup
+
+73
+00:01:49,487 --> 00:01:50,008
+d'énergie.
+
+74
+00:01:50,148 --> 00:01:51,652
+C'est surtout l'hydrolyse de
+
+75
+00:01:51,652 --> 00:01:53,586
+l'ATP en ADP qui est couplée aux
+
+76
+00:01:53,586 --> 00:01:54,875
+réactions endergoniques.
+
+77
+00:01:55,435 --> 00:01:57,198
+Le couplage passe souvent par le
+
+78
+00:01:57,198 --> 00:01:58,685
+transfert d'un phosphate de
+
+79
+00:01:58,685 --> 00:02:00,503
+l'ATP, avec sa liaison de haute
+
+80
+00:02:00,503 --> 00:02:01,825
+énergie, sur le réactif.
+
+81
+00:02:01,965 --> 00:02:03,505
+L'énergie libre du réactif
+
+82
+00:02:03,505 --> 00:02:04,986
+augmente, et la réaction,
+
+83
+00:02:04,986 --> 00:02:06,882
+dont le delta G devient négatif,
+
+84
+00:02:06,882 --> 00:02:07,890
+devient possible.
+
+85
+00:02:08,450 --> 00:02:10,432
+L'hydrolyse de l'ATP en ADP sert
+
+86
+00:02:10,432 --> 00:02:12,140
+de monnaie énergétique pour les
+
+87
+00:02:12,140 --> 00:02:13,462
+voies anaboliques et les
+
+88
+00:02:13,462 --> 00:02:14,674
+activités cellulaires,
+
+89
+00:02:14,674 --> 00:02:15,886
+mouvements, transport.
+
+90
+00:02:16,026 --> 00:02:17,672
+L'ATP est régénéré grâce aux
+
+91
+00:02:17,672 --> 00:02:18,879
+voies cataboliques qui
+
+92
+00:02:18,879 --> 00:02:20,196
+fournissent l'énergie de
+
+93
+00:02:20,196 --> 00:02:21,677
+phosphorylation de l'ADP,
+
+94
+00:02:21,677 --> 00:02:23,488
+principalement par la respiration
+
+95
+00:02:23,488 --> 00:02:24,092
+cellulaire.
+
+96
+00:02:24,652 --> 00:02:25,884
+Même si une réaction est
+
+97
+00:02:25,884 --> 00:02:27,322
+possible, elle ne se produit
+
+98
+00:02:27,322 --> 00:02:28,759
+souvent pas instantanément :
+
+99
+00:02:28,759 --> 00:02:30,146
+il faut rompre des liaisons
+
+100
+00:02:30,146 --> 00:02:31,583
+existantes, et cette rupture
+
+101
+00:02:31,583 --> 00:02:33,124
+n'arrive qu'occasionnellement.
+
+102
+00:02:33,524 --> 00:02:35,029
+Une énergie d'activation est
+
+103
+00:02:35,029 --> 00:02:36,534
+nécessaire pour déformer les
+
+104
+00:02:36,534 --> 00:02:38,307
+réactifs et rendre leurs liaisons
+
+105
+00:02:38,307 --> 00:02:40,081
+plus instables : c'est l' état de
+
+106
+00:02:40,081 --> 00:02:40,726
+transition .
+
+107
+00:02:41,286 --> 00:02:43,175
+Une réaction peut être accélérée,
+
+108
+00:02:43,175 --> 00:02:44,606
+catalysée, par une enzyme
+
+109
+00:02:44,606 --> 00:02:46,381
+spécifique, le plus souvent une
+
+110
+00:02:46,381 --> 00:02:48,156
+protéine, qui diminue l'énergie
+
+111
+00:02:48,156 --> 00:02:49,530
+d'activation nécessaire.
+
+112
+00:02:49,930 --> 00:02:51,635
+Attention : l'enzyme accélère la
+
+113
+00:02:51,635 --> 00:02:53,234
+réaction, mais elle ne modifie
+
+114
+00:02:53,234 --> 00:02:54,033
+pas le delta G.
+
+115
+00:02:54,593 --> 00:02:56,235
+Les enzymes ont des structures
+
+116
+00:02:56,235 --> 00:02:57,712
+tridimensionnelles qui leur
+
+117
+00:02:57,712 --> 00:02:59,408
+permettent d'interagir avec des
+
+118
+00:02:59,408 --> 00:03:00,557
+réactifs spécifiques,
+
+119
+00:03:00,557 --> 00:03:01,487
+leurs substrats .
+
+120
+00:03:01,627 --> 00:03:02,936
+La région qui accueille le
+
+121
+00:03:02,936 --> 00:03:04,646
+substrat s'appelle le site actif .
+
+122
+00:03:05,046 --> 00:03:06,363
+Elles abaissent l'énergie
+
+123
+00:03:06,363 --> 00:03:08,049
+d'activation en positionnant les
+
+124
+00:03:08,049 --> 00:03:09,524
+substrats de façon optimale,
+
+125
+00:03:09,524 --> 00:03:11,209
+et en déstabilisant certaines de
+
+126
+00:03:11,209 --> 00:03:11,999
+leurs liaisons.
+
+127
+00:03:12,559 --> 00:03:14,351
+La température : la plupart des
+
+128
+00:03:14,351 --> 00:03:16,258
+enzymes ont une activité maximale
+
+129
+00:03:16,258 --> 00:03:18,396
+entre 35 et 40 degrés.
+
+130
+00:03:18,536 --> 00:03:20,876
+Le pH : optimal entre 6 et 8 pour
+
+131
+00:03:20,876 --> 00:03:22,577
+la plupart, avec des exceptions,
+
+132
+00:03:22,577 --> 00:03:24,332
+comme la pepsine, qui dégrade les
+
+133
+00:03:24,332 --> 00:03:25,661
+protéines dans l'estomac,
+
+134
+00:03:25,661 --> 00:03:26,512
+à pH 2.
+
+135
+00:03:26,912 --> 00:03:28,397
+Des modifications chimiques,
+
+136
+00:03:28,397 --> 00:03:29,724
+comme la phosphorylation,
+
+137
+00:03:29,724 --> 00:03:30,944
+modulent leur activité.
+
+138
+00:03:31,344 --> 00:03:32,772
+Et des substances qui se fixent
+
+139
+00:03:32,772 --> 00:03:33,417
+sur l'enzyme :
+
+140
+00:03:33,557 --> 00:03:35,195
+les inhibiteurs compétitifs ,
+
+141
+00:03:35,195 --> 00:03:36,945
+en compétition avec le substrat
+
+142
+00:03:36,945 --> 00:03:37,792
+au site actif ;
+
+143
+00:03:37,932 --> 00:03:39,615
+les inhibiteurs allostériques ,
+
+144
+00:03:39,615 --> 00:03:41,243
+fixés en dehors du site actif,
+
+145
+00:03:41,243 --> 00:03:42,762
+qui inhibent en modifiant la
+
+146
+00:03:42,762 --> 00:03:43,522
+conformation ;
+
+147
+00:03:43,662 --> 00:03:45,402
+et les activateurs allostériques,
+
+148
+00:03:45,402 --> 00:03:47,142
+fixés eux aussi en dehors du site
+
+149
+00:03:47,142 --> 00:03:48,671
+actif, qui activent l'enzyme.
+
+150
+00:03:49,231 --> 00:03:50,646
+Les organismes contiennent des
+
+151
+00:03:50,646 --> 00:03:51,542
+milliers d'enzymes.
+
+152
+00:03:51,682 --> 00:03:52,846
+Une voie métabolique,
+
+153
+00:03:52,846 --> 00:03:54,176
+c'est une série d'étapes
+
+154
+00:03:54,176 --> 00:03:55,673
+enzymatiques séquentielles,
+
+155
+00:03:55,673 --> 00:03:57,169
+et ses enzymes sont souvent
+
+156
+00:03:57,169 --> 00:03:58,998
+rassemblées dans un compartiment,
+
+157
+00:03:58,998 --> 00:04:00,328
+une membrane, la matrice
+
+158
+00:04:00,328 --> 00:04:01,160
+mitochondriale.
+
+159
+00:04:01,560 --> 00:04:03,242
+Parfois, le produit final d'une
+
+160
+00:04:03,242 --> 00:04:04,652
+voie inhibe l'enzyme de la
+
+161
+00:04:04,652 --> 00:04:06,009
+première étape : c'est la
+
+162
+00:04:06,009 --> 00:04:07,202
+rétroaction négative .
+
+163
+00:04:07,762 --> 00:04:08,598
+Trois pièges.
+
+164
+00:04:08,998 --> 00:04:10,688
+“Une enzyme rend le delta G plus
+
+165
+00:04:10,688 --> 00:04:12,377
+négatif” : faux, elle ne modifie
+
+166
+00:04:12,377 --> 00:04:13,903
+pas le delta G, elle abaisse
+
+167
+00:04:13,903 --> 00:04:15,156
+l'énergie d'activation.
+
+168
+00:04:15,556 --> 00:04:17,350
+“Une réaction exergonique a un
+
+169
+00:04:17,350 --> 00:04:18,401
+delta G positif” :
+
+170
+00:04:18,401 --> 00:04:19,267
+faux, négatif.
+
+171
+00:04:19,667 --> 00:04:21,197
+“Un inhibiteur allostérique se
+
+172
+00:04:21,197 --> 00:04:22,253
+fixe au site actif” :
+
+173
+00:04:22,253 --> 00:04:23,044
+faux, ailleurs.
+
+174
+00:04:23,184 --> 00:04:24,986
+C'est l'inhibiteur compétitif qui
+
+175
+00:04:24,986 --> 00:04:26,132
+occupe le site actif.
+
+176
+00:04:26,692 --> 00:04:28,072
+Quiz : laquelle est exacte ?
+
+177
+00:04:32,472 --> 00:04:33,287
+Réponse B.
+
+178
+00:04:33,427 --> 00:04:35,257
+L'enzyme ne change pas le delta
+
+179
+00:04:35,257 --> 00:04:37,971
+G, l'optimum est entre 35 et 40
+
+180
+00:04:37,971 --> 00:04:39,329
+degrés, et l'inhibiteur
+
+181
+00:04:39,329 --> 00:04:41,277
+compétitif se fixe au site actif.
+
+182
+00:04:41,837 --> 00:04:42,802
+Prochain épisode :
+
+183
+00:04:42,802 --> 00:04:44,196
+la respiration cellulaire.
+
+184
+00:04:44,336 --> 00:04:47,288
+Delta G moins 686 kilocalories
+
+185
+00:04:47,288 --> 00:04:48,594
+par mole, la glycolyse,
+
+186
+00:04:48,594 --> 00:04:49,786
+et le cycle de Krebs.

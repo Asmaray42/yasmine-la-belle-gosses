@@ -1,0 +1,487 @@
+1
+00:00:00,300 --> 00:00:01,773
+Mendel croise une fleur violette
+
+2
+00:00:01,773 --> 00:00:02,786
+et une fleur blanche :
+
+3
+00:00:02,786 --> 00:00:04,306
+toutes les filles sont violettes.
+
+4
+00:00:04,446 --> 00:00:05,507
+Le blanc a disparu.
+
+5
+00:00:05,647 --> 00:00:07,206
+Puis, à la génération suivante,
+
+6
+00:00:07,206 --> 00:00:09,068
+il revient, dans un quart des fleurs.
+
+7
+00:00:09,468 --> 00:00:10,754
+Au programme : génotype,
+
+8
+00:00:10,754 --> 00:00:12,201
+phénotype, et les règles du
+
+9
+00:00:12,201 --> 00:00:13,005
+monohybridisme.
+
+10
+00:00:13,565 --> 00:00:15,062
+Chapitre dix : génétique et
+
+11
+00:00:15,062 --> 00:00:16,447
+hérédité, en six points :
+
+12
+00:00:16,447 --> 00:00:17,666
+expériences de Mendel,
+
+13
+00:00:17,666 --> 00:00:19,051
+croisements monohybrides,
+
+14
+00:00:19,051 --> 00:00:20,437
+croisements polyhybrides,
+
+15
+00:00:20,437 --> 00:00:21,933
+au-delà des lois de Mendel,
+
+16
+00:00:21,933 --> 00:00:23,983
+gènes liés, et hérédité liée au sexe.
+
+17
+00:00:24,383 --> 00:00:26,012
+L'hérédité, c'est la transmission
+
+18
+00:00:26,012 --> 00:00:27,296
+des gènes des parents à la
+
+19
+00:00:27,296 --> 00:00:27,889
+descendance.
+
+20
+00:00:28,029 --> 00:00:29,483
+Chaque parent transmet une des
+
+21
+00:00:29,483 --> 00:00:30,696
+deux copies, les allèles,
+
+22
+00:00:30,696 --> 00:00:32,199
+qu'il possède pour chaque gène.
+
+23
+00:00:32,339 --> 00:00:34,029
+L'enfant reçoit donc une copie de
+
+24
+00:00:34,029 --> 00:00:35,412
+sa mère et une de son père.
+
+25
+00:00:35,812 --> 00:00:37,386
+Le mélange particulier d'allèles
+
+26
+00:00:37,386 --> 00:00:39,008
+de l'enfant, c'est son génotype .
+
+27
+00:00:39,148 --> 00:00:40,667
+Son apparence physique et ses
+
+28
+00:00:40,667 --> 00:00:41,924
+autres caractéristiques,
+
+29
+00:00:41,924 --> 00:00:43,652
+résultat de l'expression combinée
+
+30
+00:00:43,652 --> 00:00:44,962
+de ses allèles, c'est son
+
+31
+00:00:44,962 --> 00:00:45,538
+phénotype .
+
+32
+00:00:46,098 --> 00:00:47,244
+Mendel, mille huit cent
+
+33
+00:00:47,244 --> 00:00:48,639
+vingt-deux à mille huit cent
+
+34
+00:00:48,639 --> 00:00:49,635
+quatre-vingt-quatre,
+
+35
+00:00:49,635 --> 00:00:50,930
+étudie la transmission des
+
+36
+00:00:50,930 --> 00:00:52,425
+caractères chez le petit pois.
+
+37
+00:00:52,565 --> 00:00:53,568
+Quatre avantages :
+
+38
+00:00:53,568 --> 00:00:55,350
+un cycle de reproduction court ;
+
+39
+00:00:55,350 --> 00:00:57,078
+des caractères à deux variantes
+
+40
+00:00:57,078 --> 00:00:58,136
+faciles à observer,
+
+41
+00:00:58,136 --> 00:00:59,585
+fleur violette ou blanche,
+
+42
+00:00:59,585 --> 00:01:00,643
+pois vert ou jaune,
+
+43
+00:01:00,643 --> 00:01:01,423
+lisse ou ridé.
+
+44
+00:01:01,823 --> 00:01:03,526
+La capacité d'autofécondation,
+
+45
+00:01:03,526 --> 00:01:05,229
+car la fleur porte les organes
+
+46
+00:01:05,229 --> 00:01:06,308
+mâles et femelles ;
+
+47
+00:01:06,308 --> 00:01:07,443
+et la possibilité de
+
+48
+00:01:07,443 --> 00:01:08,862
+fertilisation contrôlée :
+
+49
+00:01:08,862 --> 00:01:10,452
+on élimine les organes mâles
+
+50
+00:01:10,452 --> 00:01:11,644
+d'une fleur violette,
+
+51
+00:01:11,644 --> 00:01:13,347
+et on y dépose le pollen d'une
+
+52
+00:01:13,347 --> 00:01:14,141
+fleur blanche.
+
+53
+00:01:14,701 --> 00:01:16,259
+Un croisement monohybride ne
+
+54
+00:01:16,259 --> 00:01:18,094
+concerne que deux phénotypes d'un
+
+55
+00:01:18,094 --> 00:01:19,262
+seul caractère : ici,
+
+56
+00:01:19,262 --> 00:01:20,541
+la couleur de la fleur,
+
+57
+00:01:20,541 --> 00:01:21,653
+violette ou blanche.
+
+58
+00:01:22,053 --> 00:01:23,461
+Violet croisé avec blanc :
+
+59
+00:01:23,461 --> 00:01:24,707
+en première génération,
+
+60
+00:01:24,707 --> 00:01:26,061
+F1, uniquement des fleurs
+
+61
+00:01:26,061 --> 00:01:27,307
+violettes, sans couleur
+
+62
+00:01:27,307 --> 00:01:28,065
+intermédiaire.
+
+63
+00:01:28,205 --> 00:01:29,427
+Le violet est dominant ,
+
+64
+00:01:29,427 --> 00:01:30,395
+le blanc récessif .
+
+65
+00:01:30,795 --> 00:01:32,449
+L'autofécondation des F1 donne
+
+66
+00:01:32,449 --> 00:01:35,040
+une F2 avec 75 % de fleurs
+
+67
+00:01:35,040 --> 00:01:37,576
+violettes et 25 % de blanches.
+
+68
+00:01:38,136 --> 00:01:39,972
+La couleur est déterminée par un
+
+69
+00:01:39,972 --> 00:01:41,579
+gène, V, avec deux allèles :
+
+70
+00:01:41,579 --> 00:01:42,842
+V majuscule, dominant,
+
+71
+00:01:42,842 --> 00:01:44,621
+pour le violet, et v minuscule,
+
+72
+00:01:44,621 --> 00:01:45,998
+récessif, pour le blanc.
+
+73
+00:01:46,398 --> 00:01:48,037
+En F1, toutes les plantes sont V
+
+74
+00:01:48,037 --> 00:01:50,035
+v : l'allèle dominant impose le violet.
+
+75
+00:01:50,175 --> 00:01:51,902
+En F2, les plantes reçoivent au
+
+76
+00:01:51,902 --> 00:01:53,740
+hasard les allèles des gamètes F1
+
+77
+00:01:53,740 --> 00:01:55,301
+: V V, V v ou v V donnent du
+
+78
+00:01:55,301 --> 00:01:56,861
+violet ; v v donne du blanc.
+
+79
+00:01:57,421 --> 00:01:59,061
+V V et v v sont homozygotes :
+
+80
+00:01:59,061 --> 00:02:00,418
+deux allèles identiques.
+
+81
+00:02:00,558 --> 00:02:02,299
+V v et v V sont hétérozygotes :
+
+82
+00:02:02,299 --> 00:02:03,648
+deux allèles différents.
+
+83
+00:02:04,048 --> 00:02:05,220
+Trois génotypes, donc,
+
+84
+00:02:05,220 --> 00:02:06,765
+dans le rapport un quart V V,
+
+85
+00:02:06,765 --> 00:02:08,417
+deux quarts V v, un quart v v :
+
+86
+00:02:08,417 --> 00:02:09,110
+un, deux, un.
+
+87
+00:02:09,250 --> 00:02:10,184
+Et deux phénotypes :
+
+88
+00:02:10,184 --> 00:02:11,119
+trois quarts violet,
+
+89
+00:02:11,119 --> 00:02:11,820
+un quart blanc.
+
+90
+00:02:12,380 --> 00:02:14,351
+Si on croise un hétérozygote V v
+
+91
+00:02:14,351 --> 00:02:16,322
+avec un homozygote récessif v v,
+
+92
+00:02:16,322 --> 00:02:18,293
+on obtient deux quarts de V v et
+
+93
+00:02:18,293 --> 00:02:19,464
+deux quarts de v v.
+
+94
+00:02:19,604 --> 00:02:21,146
+En phénotype : moitié violet,
+
+95
+00:02:21,146 --> 00:02:21,838
+moitié blanc.
+
+96
+00:02:22,398 --> 00:02:24,019
+Chez l'homme, plusieurs maladies
+
+97
+00:02:24,019 --> 00:02:25,640
+liées à un allèle défectueux ont
+
+98
+00:02:25,640 --> 00:02:26,451
+été identifiées.
+
+99
+00:02:26,591 --> 00:02:28,063
+Certaines se transmettent de
+
+100
+00:02:28,063 --> 00:02:29,009
+manière récessive,
+
+101
+00:02:29,009 --> 00:02:30,586
+d'autres de manière dominante.
+
+102
+00:02:30,726 --> 00:02:32,280
+C'est l'histoire des familles,
+
+103
+00:02:32,280 --> 00:02:33,472
+l' arbre généalogique ,
+
+104
+00:02:33,472 --> 00:02:35,129
+qui permet de déterminer le mode
+
+105
+00:02:35,129 --> 00:02:35,958
+de transmission.
+
+106
+00:02:36,518 --> 00:02:37,302
+Le piège.
+
+107
+00:02:37,702 --> 00:02:39,134
+“En F2, le rapport génotypique
+
+108
+00:02:39,134 --> 00:02:40,368
+est trois pour un” : faux.
+
+109
+00:02:40,508 --> 00:02:41,545
+Trois pour un, c'est le
+
+110
+00:02:41,545 --> 00:02:41,996
+phénotype.
+
+111
+00:02:42,136 --> 00:02:43,092
+Le génotype est un,
+
+112
+00:02:43,092 --> 00:02:43,544
+deux, un.
+
+113
+00:02:43,944 --> 00:02:45,379
+“En F1, on obtient des fleurs
+
+114
+00:02:45,379 --> 00:02:46,917
+roses” : faux, toutes violettes
+
+115
+00:02:46,917 --> 00:02:48,558
+ici, sans couleur intermédiaire.
+
+116
+00:02:49,118 --> 00:02:51,129
+Quiz : résultat phénotypique de V
+
+117
+00:02:51,129 --> 00:02:52,287
+v croisé avec v v ?
+
+118
+00:02:56,687 --> 00:02:58,171
+Moitié violet, moitié blanc.
+
+119
+00:02:58,731 --> 00:02:59,746
+Prochain épisode :
+
+120
+00:02:59,746 --> 00:03:01,383
+la mucoviscidose, le glaucome
+
+121
+00:03:01,383 --> 00:03:03,019
+juvénile, et le rapport neuf,
+
+122
+00:03:03,019 --> 00:03:03,978
+trois, trois, un.

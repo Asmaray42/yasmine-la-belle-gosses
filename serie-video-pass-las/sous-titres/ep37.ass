@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En Europe, une personne sur
+Dialogue: 0,0:00:01.79,0:00:03.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt-cinq porte un allèle muté
+Dialogue: 0,0:00:03.50,0:00:04.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la mucoviscidose,
+Dialogue: 0,0:00:04.60,0:00:05.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sans être malade.
+Dialogue: 0,0:00:05.68,0:00:06.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comment est-ce possible ?
+Dialogue: 0,0:00:06.88,0:00:08.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La transmission récessive.
+Dialogue: 0,0:00:08.77,0:00:10.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : une maladie
+Dialogue: 0,0:00:10.14,0:00:11.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récessive, une dominante,
+Dialogue: 0,0:00:11.45,0:00:12.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis le croisement dihybride.
+Dialogue: 0,0:00:13.53,0:00:15.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La mucoviscidose est une maladie
+Dialogue: 0,0:00:15.26,0:00:16.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'origine génétique assez
+Dialogue: 0,0:00:16.61,0:00:17.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fréquente en Europe :
+Dialogue: 0,0:00:17.74,0:00:19.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un enfant sur deux mille cinq cents.
+Dialogue: 0,0:00:20.09,0:00:21.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le mucus des voies respiratoires
+Dialogue: 0,0:00:21.76,0:00:23.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et digestives devient plus
+Dialogue: 0,0:00:23.12,0:00:23.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}visqueux.
+Dialogue: 0,0:00:23.73,0:00:25.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les symptômes, respiratoires et
+Dialogue: 0,0:00:25.47,0:00:27.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}digestifs, apparaissent dès la
+Dialogue: 0,0:00:27.15,0:00:29.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}petite enfance, et l'espérance de
+Dialogue: 0,0:00:29.00,0:00:30.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vie est réduite, environ
+Dialogue: 0,0:00:30.35,0:00:31.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cinquante ans.
+Dialogue: 0,0:00:31.54,0:00:32.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le gène en cause :
+Dialogue: 0,0:00:32.63,0:00:34.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}CFTR{\c&HFFFFFF&} , sur le chromosome {\c&H66D1FF&}sept{\c&HFFFFFF&} .
+Dialogue: 0,0:00:34.83,0:00:36.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il code une protéine de canal
+Dialogue: 0,0:00:36.41,0:00:38.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ionique, qui transporte le chlore.
+Dialogue: 0,0:00:38.68,0:00:40.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un allèle muté code une protéine
+Dialogue: 0,0:00:40.53,0:00:42.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inactive, et cause la maladie de
+Dialogue: 0,0:00:42.38,0:00:43.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}manière {\c&H66D1FF&}récessive{\c&HFFFFFF&} .
+Dialogue: 0,0:00:43.62,0:00:45.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En Europe, une personne sur
+Dialogue: 0,0:00:45.08,0:00:46.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vingt-cinq est porteuse
+Dialogue: 0,0:00:46.33,0:00:47.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hétérozygote.
+Dialogue: 0,0:00:47.43,0:00:48.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur l'arbre du cours,
+Dialogue: 0,0:00:48.58,0:00:50.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on déduit que les individus I.1
+Dialogue: 0,0:00:50.34,0:00:51.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et I.2 sont hétérozygotes,
+Dialogue: 0,0:00:51.92,0:00:53.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porteurs d'un allèle muté ;
+Dialogue: 0,0:00:53.40,0:00:55.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}que leur fils II.6 est aussi
+Dialogue: 0,0:00:55.05,0:00:56.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}porteur ; et qu'il a
+Dialogue: 0,0:00:56.14,0:00:57.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}malheureusement épousé une femme
+Dialogue: 0,0:00:57.89,0:00:58.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle-même porteuse.
+Dialogue: 0,0:00:59.50,0:01:00.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le glaucome juvénile :
+Dialogue: 0,0:01:00.70,0:01:01.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maladie génétique rare,
+Dialogue: 0,0:01:01.97,0:01:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une personne sur dix mille.
+Dialogue: 0,0:01:03.59,0:01:04.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La vision s'altère,
+Dialogue: 0,0:01:04.64,0:01:06.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec un rétrécissement progressif
+Dialogue: 0,0:01:06.46,0:01:07.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du champ de vision.
+Dialogue: 0,0:01:07.64,0:01:09.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les symptômes apparaissent entre
+Dialogue: 0,0:01:09.18,0:01:10.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois et quarante ans.
+Dialogue: 0,0:01:10.64,0:01:11.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le gène en cause :
+Dialogue: 0,0:01:11.62,0:01:13.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}MYOC{\c&HFFFFFF&} , qui code une protéine
+Dialogue: 0,0:01:13.15,0:01:14.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrétée dans le liquide
+Dialogue: 0,0:01:14.46,0:01:15.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intra-oculaire.
+Dialogue: 0,0:01:15.43,0:01:16.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certains allèles causent la
+Dialogue: 0,0:01:16.85,0:01:18.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maladie de manière {\c&H66D1FF&}dominante{\c&HFFFFFF&} :
+Dialogue: 0,0:01:18.44,0:01:19.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}défaut de sécrétion,
+Dialogue: 0,0:01:19.50,0:01:21.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et accumulation de la protéine
+Dialogue: 0,0:01:21.09,0:01:22.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mutée dans les cellules.
+Dialogue: 0,0:01:22.92,0:01:23.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Côte à côte.
+Dialogue: 0,0:01:24.20,0:01:25.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mode : récessif pour la
+Dialogue: 0,0:01:25.51,0:01:27.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mucoviscidose, dominant pour le
+Dialogue: 0,0:01:27.28,0:01:28.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glaucome juvénile.
+Dialogue: 0,0:01:28.70,0:01:30.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fréquence : un sur deux mille
+Dialogue: 0,0:01:30.05,0:01:31.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cinq cents, contre un sur dix mille.
+Dialogue: 0,0:01:32.12,0:01:34.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Gène : CFTR, sur le chromosome
+Dialogue: 0,0:01:34.12,0:01:35.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept, un canal à chlore ;
+Dialogue: 0,0:01:35.63,0:01:37.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contre MYOC, une protéine
+Dialogue: 0,0:01:37.15,0:01:37.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sécrétée.
+Dialogue: 0,0:01:38.26,0:01:39.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Croisement {\c&H66D1FF&}dihybride{\c&HFFFFFF&} :
+Dialogue: 0,0:01:39.36,0:01:40.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on suit deux caractères,
+Dialogue: 0,0:01:40.57,0:01:41.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chacun avec deux phénotypes.
+Dialogue: 0,0:01:42.11,0:01:43.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Caractère un, la forme du pois :
+Dialogue: 0,0:01:43.95,0:01:44.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rond, R majuscule,
+Dialogue: 0,0:01:44.98,0:01:46.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou ridé, r minuscule.
+Dialogue: 0,0:01:46.33,0:01:47.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Caractère deux, la couleur :
+Dialogue: 0,0:01:47.76,0:01:48.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jaune, Y majuscule,
+Dialogue: 0,0:01:48.73,0:01:49.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou vert, y minuscule.
+Dialogue: 0,0:01:50.20,0:01:51.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On croise des pois ronds et
+Dialogue: 0,0:01:51.87,0:01:53.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jaunes, R R Y Y, avec des pois
+Dialogue: 0,0:01:53.72,0:01:55.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ridés et verts, r r y y.
+Dialogue: 0,0:01:55.35,0:01:57.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les gamètes sont R Y et r y.
+Dialogue: 0,0:01:57.26,0:01:58.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En F1, toutes les plantes sont R
+Dialogue: 0,0:01:58.98,0:02:00.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}r Y y, à pois ronds et jaunes :
+Dialogue: 0,0:02:00.65,0:02:02.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ces deux formes sont dominantes.
+Dialogue: 0,0:02:02.94,0:02:04.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'autofécondation des F1 donne
+Dialogue: 0,0:02:04.57,0:02:06.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une F2 variée : neuf seizièmes
+Dialogue: 0,0:02:06.20,0:02:07.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ronds et jaunes, trois seizièmes
+Dialogue: 0,0:02:07.94,0:02:09.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ronds et verts, trois seizièmes
+Dialogue: 0,0:02:09.63,0:02:11.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ridés et jaunes, un seizième
+Dialogue: 0,0:02:11.16,0:02:11.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ridés et verts.
+Dialogue: 0,0:02:12.37,0:02:13.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Condition : les gènes doivent
+Dialogue: 0,0:02:13.86,0:02:15.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}être transmis de manière
+Dialogue: 0,0:02:15.09,0:02:16.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}indépendante{\c&HFFFFFF&} , c'est-à-dire être
+Dialogue: 0,0:02:16.73,0:02:18.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}localisés sur des chromosomes
+Dialogue: 0,0:02:18.22,0:02:18.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents.
+Dialogue: 0,0:02:19.34,0:02:20.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Astuce de calcul, cohérente avec
+Dialogue: 0,0:02:20.96,0:02:22.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cours : chaque caractère suit
+Dialogue: 0,0:02:22.58,0:02:23.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois quarts, un quart.
+Dialogue: 0,0:02:23.89,0:02:25.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rond et jaune : trois quarts fois
+Dialogue: 0,0:02:25.40,0:02:26.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois quarts, neuf seizièmes.
+Dialogue: 0,0:02:26.87,0:02:28.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rond et vert, ou ridé et jaune :
+Dialogue: 0,0:02:28.48,0:02:29.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois quarts fois un quart,
+Dialogue: 0,0:02:29.85,0:02:30.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois seizièmes.
+Dialogue: 0,0:02:30.79,0:02:32.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ridé et vert : un quart fois un
+Dialogue: 0,0:02:32.45,0:02:33.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quart, un seizième.
+Dialogue: 0,0:02:34.03,0:02:35.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:02:39.81,0:02:40.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:02:40.77,0:02:42.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}CFTR est sur le chromosome sept,
+Dialogue: 0,0:02:42.77,0:02:44.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les ridés verts font un seizième,
+Dialogue: 0,0:02:44.65,0:02:45.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un sur vingt-cinq,
+Dialogue: 0,0:02:45.85,0:02:47.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la fréquence des porteurs,
+Dialogue: 0,0:02:47.68,0:02:48.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas des malades.
+Dialogue: 0,0:02:49.15,0:02:50.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:50.07,0:02:51.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quand Mendel ne suffit plus.
+Dialogue: 0,0:02:51.63,0:02:52.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Codominance, dominance
+Dialogue: 0,0:02:52.89,0:02:54.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}incomplète, groupes sanguins,
+Dialogue: 0,0:02:54.55,0:02:56.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un exercice de probabilités.

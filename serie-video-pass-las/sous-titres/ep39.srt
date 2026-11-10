@@ -1,0 +1,447 @@
+1
+00:00:00,300 --> 00:00:01,836
+La reine Victoria d'Angleterre
+
+2
+00:00:01,836 --> 00:00:03,475
+était porteuse d'un allèle muté,
+
+3
+00:00:03,475 --> 00:00:05,012
+et l'hémophilie s'est propagée
+
+4
+00:00:05,012 --> 00:00:06,600
+dans plusieurs familles royales
+
+5
+00:00:06,600 --> 00:00:08,290
+d'Europe, presque uniquement chez
+
+6
+00:00:08,290 --> 00:00:08,904
+des garçons.
+
+7
+00:00:09,044 --> 00:00:09,682
+Pourquoi ?
+
+8
+00:00:09,822 --> 00:00:10,970
+Le chromosome X.
+
+9
+00:00:11,370 --> 00:00:13,024
+Au programme : les gènes liés,
+
+10
+00:00:13,024 --> 00:00:14,733
+le centimorgan, l'hérédité liée
+
+11
+00:00:14,733 --> 00:00:16,607
+au sexe, et l'inactivation de l'X.
+
+12
+00:00:17,167 --> 00:00:18,814
+Cas particulier : les gènes liés
+
+13
+00:00:18,814 --> 00:00:20,409
+, deux gènes situés sur le même
+
+14
+00:00:20,409 --> 00:00:20,975
+chromosome.
+
+15
+00:00:21,115 --> 00:00:22,649
+Quelles sont alors les règles de
+
+16
+00:00:22,649 --> 00:00:24,087
+transmission en dihybridisme ?
+
+17
+00:00:24,647 --> 00:00:25,853
+Grâce au crossing-over,
+
+18
+00:00:25,853 --> 00:00:27,426
+des recombinaisons entre gènes
+
+19
+00:00:27,426 --> 00:00:28,474
+liés sont possibles.
+
+20
+00:00:28,614 --> 00:00:30,371
+On peut donc voir apparaître des
+
+21
+00:00:30,371 --> 00:00:31,634
+gamètes avec toutes les
+
+22
+00:00:31,634 --> 00:00:33,391
+combinaisons d'allèles des gènes
+
+23
+00:00:33,391 --> 00:00:34,379
+A et G : A G, A g,
+
+24
+00:00:34,379 --> 00:00:34,873
+a G, a g.
+
+25
+00:00:35,273 --> 00:00:36,635
+Mais avec quelle fréquence ?
+
+26
+00:00:36,775 --> 00:00:37,870
+Quelle est la chance qu'un
+
+27
+00:00:37,870 --> 00:00:39,217
+crossing-over ait lieu entre les
+
+28
+00:00:39,217 --> 00:00:39,723
+deux gènes ?
+
+29
+00:00:40,283 --> 00:00:41,817
+La fréquence de recombinaison
+
+30
+00:00:41,817 --> 00:00:43,458
+entre deux gènes liés dépend de
+
+31
+00:00:43,458 --> 00:00:44,940
+la distance qui les sépare :
+
+32
+00:00:44,940 --> 00:00:46,157
+plus ils sont éloignés,
+
+33
+00:00:46,157 --> 00:00:47,533
+plus un crossing-over a de
+
+34
+00:00:47,533 --> 00:00:49,015
+chances de tomber entre eux.
+
+35
+00:00:49,155 --> 00:00:50,305
+Ce principe a servi à
+
+36
+00:00:50,305 --> 00:00:52,002
+cartographier les gènes sur les
+
+37
+00:00:52,002 --> 00:00:52,659
+chromosomes.
+
+38
+00:00:53,059 --> 00:00:54,462
+L'unité : le centimorgan .
+
+39
+00:00:54,602 --> 00:00:56,106
+Un centimorgan, c'est un pour
+
+40
+00:00:56,106 --> 00:00:57,247
+cent de recombinaison.
+
+41
+00:00:57,387 --> 00:00:58,859
+La valeur atteint au maximum
+
+42
+00:00:58,859 --> 00:01:00,593
+cinquante pour les gènes les plus
+
+43
+00:01:00,593 --> 00:01:02,328
+éloignés : cinquante pour cent de
+
+44
+00:01:02,328 --> 00:01:03,852
+recombinaison, comme pour des
+
+45
+00:01:03,852 --> 00:01:04,640
+gènes non liés.
+
+46
+00:01:05,200 --> 00:01:06,644
+La majorité des gènes du
+
+47
+00:01:06,644 --> 00:01:08,450
+chromosome X, à l'exception de
+
+48
+00:01:08,450 --> 00:01:10,014
+quelques gènes des régions
+
+49
+00:01:10,014 --> 00:01:11,097
+pseudoautosomales,
+
+50
+00:01:11,097 --> 00:01:12,180
+communes à X et Y,
+
+51
+00:01:12,180 --> 00:01:14,105
+ne sont présents qu'en une seule
+
+52
+00:01:14,105 --> 00:01:15,249
+copie chez l'homme,
+
+53
+00:01:15,249 --> 00:01:15,489
+X Y.
+
+54
+00:01:15,629 --> 00:01:16,940
+L'homme est dit hémizygote pour
+
+55
+00:01:16,940 --> 00:01:17,363
+ces gènes.
+
+56
+00:01:17,763 --> 00:01:19,211
+L'hérédité des gènes de l'X
+
+57
+00:01:19,211 --> 00:01:20,927
+dépend donc du sexe de l'enfant.
+
+58
+00:01:21,067 --> 00:01:22,820
+Exemple : une maladie due à un
+
+59
+00:01:22,820 --> 00:01:24,572
+allèle récessif a d'un gène de
+
+60
+00:01:24,572 --> 00:01:26,442
+l'X, avec une mère hétérozygote,
+
+61
+00:01:26,442 --> 00:01:27,610
+saine mais porteuse.
+
+62
+00:01:28,170 --> 00:01:30,010
+Exemple de maladie récessive liée
+
+63
+00:01:30,010 --> 00:01:31,403
+au sexe : l' hémophilie ,
+
+64
+00:01:31,403 --> 00:01:32,518
+avec des hémorragies
+
+65
+00:01:32,518 --> 00:01:33,243
+persistantes.
+
+66
+00:01:33,383 --> 00:01:35,230
+Le gène responsable est sur le
+
+67
+00:01:35,230 --> 00:01:37,201
+chromosome X, et code un facteur
+
+68
+00:01:37,201 --> 00:01:38,125
+de coagulation.
+
+69
+00:01:38,525 --> 00:01:40,193
+Le pédigrée de la famille de la
+
+70
+00:01:40,193 --> 00:01:41,700
+reine Victoria d'Angleterre,
+
+71
+00:01:41,700 --> 00:01:43,315
+elle-même porteuse d'un allèle
+
+72
+00:01:43,315 --> 00:01:44,930
+muté, montre la transmission à
+
+73
+00:01:44,930 --> 00:01:46,545
+travers plusieurs générations.
+
+74
+00:01:47,105 --> 00:01:48,819
+Chez la femme, un des deux X est
+
+75
+00:01:48,819 --> 00:01:50,534
+inactivé, pour éviter une double
+
+76
+00:01:50,534 --> 00:01:52,302
+dose des protéines codées par l'X
+
+77
+00:01:52,302 --> 00:01:53,588
+par rapport aux hommes :
+
+78
+00:01:53,588 --> 00:01:55,356
+c'est la compensation de dosage .
+
+79
+00:01:55,756 --> 00:01:57,266
+Le X inactivé est compacté,
+
+80
+00:01:57,266 --> 00:01:58,943
+et apparaît sous la forme d'un
+
+81
+00:01:58,943 --> 00:02:00,061
+corpuscule de Barr .
+
+82
+00:02:00,461 --> 00:02:02,186
+L'inactivation a lieu pendant
+
+83
+00:02:02,186 --> 00:02:03,733
+l'embryogenèse, au hasard,
+
+84
+00:02:03,733 --> 00:02:05,518
+sur le X paternel ou maternel.
+
+85
+00:02:05,658 --> 00:02:07,402
+La femme adulte est donc une
+
+86
+00:02:07,402 --> 00:02:08,711
+mosaïque de cellules,
+
+87
+00:02:08,711 --> 00:02:10,331
+avec le X paternel ou le X
+
+88
+00:02:10,331 --> 00:02:11,453
+maternel inactivé.
+
+89
+00:02:11,593 --> 00:02:13,198
+Au total, son corps exprime les
+
+90
+00:02:13,198 --> 00:02:14,856
+deux allèles des gènes de ses X.
+
+91
+00:02:15,416 --> 00:02:16,252
+Trois pièges.
+
+92
+00:02:16,652 --> 00:02:18,249
+“Deux gènes liés très éloignés
+
+93
+00:02:18,249 --> 00:02:19,460
+peuvent atteindre 100
+
+94
+00:02:19,460 --> 00:02:21,166
+centimorgans de recombinaison” :
+
+95
+00:02:21,166 --> 00:02:22,873
+faux, le cours donne un maximum
+
+96
+00:02:22,873 --> 00:02:23,588
+de 50.
+
+97
+00:02:23,988 --> 00:02:25,716
+“C'est toujours l'X paternel qui
+
+98
+00:02:25,716 --> 00:02:26,830
+est inactivé” : faux,
+
+99
+00:02:26,830 --> 00:02:28,446
+l'inactivation est aléatoire.
+
+100
+00:02:28,846 --> 00:02:30,319
+“L'homme est hétérozygote pour
+
+101
+00:02:30,319 --> 00:02:31,233
+les gènes de l'X” :
+
+102
+00:02:31,233 --> 00:02:32,452
+faux, il est hémizygote.
+
+103
+00:02:33,012 --> 00:02:34,506
+Quiz : que vaut un centimorgan ?
+
+104
+00:02:38,906 --> 00:02:40,391
+Un pour cent de recombinaison.
+
+105
+00:02:40,531 --> 00:02:41,679
+Le maximum, cinquante,
+
+106
+00:02:41,679 --> 00:02:43,244
+correspond aux gènes non liés.
+
+107
+00:02:43,804 --> 00:02:45,598
+On termine la partie un avec le
+
+108
+00:02:45,598 --> 00:02:46,292
+métabolisme.
+
+109
+00:02:46,432 --> 00:02:47,378
+Prochain épisode :
+
+110
+00:02:47,378 --> 00:02:49,165
+l'énergie, l'ATP, et comment les
+
+111
+00:02:49,165 --> 00:02:50,847
+enzymes accélèrent les réactions
+
+112
+00:02:50,847 --> 00:02:52,108
+sans changer leur bilan.

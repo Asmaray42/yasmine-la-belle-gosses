@@ -1,0 +1,159 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un groupe sanguin AB,
+Dialogue: 0,0:00:01.33,0:00:02.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est un allèle A et un allèle B
+Dialogue: 0,0:00:02.90,0:00:04.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui s'expriment tous les deux.
+Dialogue: 0,0:00:04.52,0:00:05.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ni l'un ni l'autre ne domine :
+Dialogue: 0,0:00:05.94,0:00:06.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mendel ne suffit plus.
+Dialogue: 0,0:00:07.38,0:00:09.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les exceptions aux
+Dialogue: 0,0:00:09.22,0:00:10.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lois de Mendel, le système ABO,
+Dialogue: 0,0:00:10.94,0:00:11.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et deux exercices.
+Dialogue: 0,0:00:12.50,0:00:13.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les lois de Mendel ne
+Dialogue: 0,0:00:13.63,0:00:15.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'appliquent que si chaque
+Dialogue: 0,0:00:15.04,0:00:16.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractère dépend d'un seul gène,
+Dialogue: 0,0:00:16.76,0:00:17.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec deux allèles,
+Dialogue: 0,0:00:17.74,0:00:19.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'un dominant, l'autre récessif.
+Dialogue: 0,0:00:19.61,0:00:21.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En réalité, cinq situations s'en
+Dialogue: 0,0:00:21.39,0:00:21.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}écartent.
+Dialogue: 0,0:00:22.29,0:00:23.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}hérédité{\c&HFFFFFF&} {\c&H66D1FF&}polygénique{\c&HFFFFFF&} :
+Dialogue: 0,0:00:23.50,0:00:24.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plusieurs gènes pour un
+Dialogue: 0,0:00:24.62,0:00:26.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractère, comme la taille chez
+Dialogue: 0,0:00:26.13,0:00:26.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'homme.
+Dialogue: 0,0:00:26.66,0:00:27.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le gène {\c&H66D1FF&}pléiotropique{\c&HFFFFFF&} :
+Dialogue: 0,0:00:27.89,0:00:29.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un même gène influence plusieurs
+Dialogue: 0,0:00:29.62,0:00:30.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractères.
+Dialogue: 0,0:00:30.61,0:00:32.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plus de deux allèles dans une
+Dialogue: 0,0:00:32.07,0:00:33.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}population, même si chaque
+Dialogue: 0,0:00:33.38,0:00:34.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}individu n'en a jamais plus de
+Dialogue: 0,0:00:34.90,0:00:36.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux : c'est le cas des groupes ABO.
+Dialogue: 0,0:00:37.11,0:00:38.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}dominance{\c&HFFFFFF&} {\c&H66D1FF&}incomplète{\c&HFFFFFF&} :
+Dialogue: 0,0:00:38.49,0:00:40.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hétérozygote a un phénotype
+Dialogue: 0,0:00:40.08,0:00:40.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intermédiaire.
+Dialogue: 0,0:00:40.98,0:00:42.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une belle-de-nuit rouge croisée
+Dialogue: 0,0:00:42.42,0:00:44.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec une blanche donne des fleurs roses.
+Dialogue: 0,0:00:44.67,0:00:45.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}codominance{\c&HFFFFFF&} : pas de
+Dialogue: 0,0:00:45.90,0:00:47.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dominance, chaque allèle a son
+Dialogue: 0,0:00:47.50,0:00:49.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}effet propre, et l'hétérozygote
+Dialogue: 0,0:00:49.16,0:00:50.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}additionne les caractères des
+Dialogue: 0,0:00:50.71,0:00:51.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux homozygotes.
+Dialogue: 0,0:00:51.75,0:00:53.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : les groupes ABO.
+Dialogue: 0,0:00:53.78,0:00:55.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le gène des groupes ABO code une
+Dialogue: 0,0:00:55.56,0:00:57.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enzyme qui ajoute des molécules
+Dialogue: 0,0:00:57.28,0:00:58.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de sucre à la surface des
+Dialogue: 0,0:00:58.67,0:00:59.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}érythrocytes.
+Dialogue: 0,0:00:59.53,0:01:01.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois allèles : I A ajoute de la
+Dialogue: 0,0:01:01.34,0:01:02.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}galactosamine ; I B,
+Dialogue: 0,0:01:02.47,0:01:03.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du galactose ; I O,
+Dialogue: 0,0:01:03.54,0:01:05.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est une perte de fonction.
+Dialogue: 0,0:01:05.52,0:01:07.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}I A et I B sont codominants ;
+Dialogue: 0,0:01:07.03,0:01:07.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}I O est récessif.
+Dialogue: 0,0:01:08.05,0:01:09.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre phénotypes :
+Dialogue: 0,0:01:09.27,0:01:11.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe A, I A I A ou I A I O ;
+Dialogue: 0,0:01:11.19,0:01:13.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe B, I B I B ou I B I O ;
+Dialogue: 0,0:01:13.12,0:01:14.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe AB, I A I B ;
+Dialogue: 0,0:01:14.40,0:01:15.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe O, I O I O.
+Dialogue: 0,0:01:16.11,0:01:17.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une maman de groupe AB,
+Dialogue: 0,0:01:17.43,0:01:19.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}I A I B, et un papa de groupe A,
+Dialogue: 0,0:01:19.27,0:01:19.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}I A I O.
+Dialogue: 0,0:01:19.87,0:01:21.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quelles fréquences attendre chez
+Dialogue: 0,0:01:21.21,0:01:21.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leurs enfants ?
+Dialogue: 0,0:01:22.24,0:01:23.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les enfants reçoivent I A ou I B
+Dialogue: 0,0:01:23.98,0:01:25.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la maman, I A ou I O du papa.
+Dialogue: 0,0:01:25.87,0:01:26.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : groupe A,
+Dialogue: 0,0:01:26.89,0:01:29.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}50 % ; groupe B, 25 % ;
+Dialogue: 0,0:01:29.66,0:01:32.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe AB, 25 % ; groupe O, zéro.
+Dialogue: 0,0:01:32.73,0:01:34.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si on reçoit un sang portant des
+Dialogue: 0,0:01:34.34,0:01:35.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sucres qu'on ne possède pas,
+Dialogue: 0,0:01:35.74,0:01:37.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le système immunitaire l'attaque,
+Dialogue: 0,0:01:37.40,0:01:38.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme étranger.
+Dialogue: 0,0:01:38.29,0:01:39.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les combinaisons sont donc
+Dialogue: 0,0:01:39.52,0:01:39.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}limitées.
+Dialogue: 0,0:01:40.35,0:01:41.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Groupe A : galactosamine.
+Dialogue: 0,0:01:41.84,0:01:43.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il reçoit A et O, il donne à A et AB.
+Dialogue: 0,0:01:44.25,0:01:45.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Groupe B : galactose.
+Dialogue: 0,0:01:45.62,0:01:47.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il reçoit B et O, il donne à B et AB.
+Dialogue: 0,0:01:48.17,0:01:49.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Groupe AB : les deux sucres.
+Dialogue: 0,0:01:49.62,0:01:51.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le receveur universel,
+Dialogue: 0,0:01:51.18,0:01:52.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et il donne à AB.
+Dialogue: 0,0:01:52.53,0:01:53.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Groupe O : aucun sucre.
+Dialogue: 0,0:01:53.89,0:01:55.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il reçoit O, et c'est le donneur
+Dialogue: 0,0:01:55.54,0:01:56.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}universel.
+Dialogue: 0,0:01:56.62,0:01:58.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}croisements{\c&HFFFFFF&} {\c&H66D1FF&}polyhybrides{\c&HFFFFFF&} :
+Dialogue: 0,0:01:58.08,0:01:59.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on suit plusieurs caractères à la fois.
+Dialogue: 0,0:02:00.12,0:02:01.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours en donne un cas de
+Dialogue: 0,0:02:01.51,0:02:02.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}conseil génétique.
+Dialogue: 0,0:02:02.59,0:02:04.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Inquiets de leurs antécédents
+Dialogue: 0,0:02:04.16,0:02:05.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}familiaux, Maria et Théo
+Dialogue: 0,0:02:05.47,0:02:07.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}consultent un médecin généticien
+Dialogue: 0,0:02:07.21,0:02:08.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour connaître la probabilité
+Dialogue: 0,0:02:08.79,0:02:10.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'avoir un enfant qui réunisse
+Dialogue: 0,0:02:10.42,0:02:11.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les pires conditions :
+Dialogue: 0,0:02:11.75,0:02:13.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atteint des deux affections,
+Dialogue: 0,0:02:13.13,0:02:14.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et d'un groupe sanguin
+Dialogue: 0,0:02:14.22,0:02:15.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}incompatible avec le leur,
+Dialogue: 0,0:02:15.50,0:02:16.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puisqu'ils souhaitent être
+Dialogue: 0,0:02:16.78,0:02:17.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donneurs.
+Dialogue: 0,0:02:17.62,0:02:19.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Maria et Théo, tous deux sains
+Dialogue: 0,0:02:19.39,0:02:20.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais porteurs de la
+Dialogue: 0,0:02:20.51,0:02:22.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bêta-thalassémie, maladie du sang
+Dialogue: 0,0:02:22.45,0:02:24.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récessive : génotype H normal,
+Dialogue: 0,0:02:24.22,0:02:24.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}h muté.
+Dialogue: 0,0:02:24.77,0:02:26.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Maria a aussi une brachydactylie,
+Dialogue: 0,0:02:26.66,0:02:27.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des doigts courts,
+Dialogue: 0,0:02:27.68,0:02:29.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à transmission dominante :
+Dialogue: 0,0:02:29.16,0:02:30.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d normal, D muté.
+Dialogue: 0,0:02:30.27,0:02:31.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils sont tous deux de groupe AB,
+Dialogue: 0,0:02:31.79,0:02:33.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et voudraient pouvoir donner leur
+Dialogue: 0,0:02:33.36,0:02:35.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sang à leur enfant s'il est malade.
+Dialogue: 0,0:02:35.16,0:02:36.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quelle probabilité d'un enfant
+Dialogue: 0,0:02:36.60,0:02:37.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui cumule le pire ?
+Dialogue: 0,0:02:37.96,0:02:39.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Bêta-thalassémie :
+Dialogue: 0,0:02:39.08,0:02:40.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H h croisé avec H h donne un
+Dialogue: 0,0:02:40.83,0:02:42.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quart de h h, malade.
+Dialogue: 0,0:02:42.54,0:02:44.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Brachydactylie : d D croisé avec
+Dialogue: 0,0:02:44.44,0:02:46.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d d donne moitié d D, atteint.
+Dialogue: 0,0:02:46.63,0:02:48.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Groupe : I A I B croisé avec I A
+Dialogue: 0,0:02:48.55,0:02:50.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}I B donne moitié de groupes non
+Dialogue: 0,0:02:50.41,0:02:51.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}AB, I A I A ou I B I B,
+Dialogue: 0,0:02:51.79,0:02:53.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}incompatibles avec les parents,
+Dialogue: 0,0:02:53.66,0:02:55.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}car seul AB est compatible.
+Dialogue: 0,0:02:55.68,0:02:56.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les trois événements sont
+Dialogue: 0,0:02:56.87,0:02:58.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}indépendants : on multiplie.
+Dialogue: 0,0:02:58.34,0:02:59.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un quart fois un demi fois un
+Dialogue: 0,0:02:59.84,0:03:00.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}demi : un seizième.
+Dialogue: 0,0:03:01.38,0:03:02.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:02.62,0:03:04.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les groupes ABO sont un exemple
+Dialogue: 0,0:03:04.42,0:03:05.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de dominance incomplète” :
+Dialogue: 0,0:03:05.87,0:03:07.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, de codominance.
+Dialogue: 0,0:03:07.23,0:03:08.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La dominance incomplète,
+Dialogue: 0,0:03:08.43,0:03:09.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la belle-de-nuit rose.
+Dialogue: 0,0:03:10.24,0:03:11.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le groupe AB est donneur
+Dialogue: 0,0:03:11.64,0:03:12.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}universel” : faux,
+Dialogue: 0,0:03:12.63,0:03:13.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}receveur universel.
+Dialogue: 0,0:03:13.88,0:03:15.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le donneur universel,
+Dialogue: 0,0:03:15.01,0:03:15.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est O.
+Dialogue: 0,0:03:15.84,0:03:17.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Un individu peut porter trois
+Dialogue: 0,0:03:17.40,0:03:18.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}allèles du gène ABO” :
+Dialogue: 0,0:03:18.52,0:03:19.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, jamais plus de deux,
+Dialogue: 0,0:03:19.91,0:03:21.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}même s'il en existe trois dans la
+Dialogue: 0,0:03:21.68,0:03:22.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}population.
+Dialogue: 0,0:03:22.83,0:03:24.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : maman AB, papa A I A I O.
+Dialogue: 0,0:03:24.81,0:03:26.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Probabilité d'un enfant de groupe
+Dialogue: 0,0:03:26.47,0:03:26.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O ?
+Dialogue: 0,0:03:32.02,0:03:33.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Zéro : la maman ne peut pas
+Dialogue: 0,0:03:33.31,0:03:34.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transmettre d'I O.
+Dialogue: 0,0:03:34.73,0:03:35.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:35.74,0:03:37.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les gènes liés, le centimorgan,
+Dialogue: 0,0:03:37.50,0:03:38.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hémophilie de la reine
+Dialogue: 0,0:03:38.86,0:03:40.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Victoria, et l'inactivation de l'X.
