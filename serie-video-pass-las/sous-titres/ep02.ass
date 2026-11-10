@@ -1,0 +1,208 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre atomes.
+Dialogue: 0,0:00:01.31,0:00:04.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rien que quatre atomes font 96,3
+Dialogue: 0,0:00:04.12,0:00:05.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}% du poids de ton corps.
+Dialogue: 0,0:00:06.01,0:00:06.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans cet épisode :
+Dialogue: 0,0:00:06.99,0:00:08.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les atomes du vivant,
+Dialogue: 0,0:00:08.13,0:00:09.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les trois liaisons entre atomes,
+Dialogue: 0,0:00:09.87,0:00:11.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux réactions qui se répondent,
+Dialogue: 0,0:00:11.62,0:00:13.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et ce qui accélère une réaction.
+Dialogue: 0,0:00:13.92,0:00:15.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre deux : les composés du
+Dialogue: 0,0:00:15.36,0:00:16.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vivant, en quatre points.
+Dialogue: 0,0:00:16.93,0:00:18.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, les atomes du vivant.
+Dialogue: 0,0:00:18.51,0:00:19.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, l'eau.
+Dialogue: 0,0:00:19.56,0:00:20.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, la chimie du carbone.
+Dialogue: 0,0:00:21.30,0:00:22.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre, les macromolécules.
+Dialogue: 0,0:00:22.73,0:00:24.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Aujourd'hui, on fait le point un.
+Dialogue: 0,0:00:24.68,0:00:25.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours part du tableau
+Dialogue: 0,0:00:25.86,0:00:27.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}périodique : les éléments
+Dialogue: 0,0:00:27.08,0:00:28.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}présents dans le vivant y sont
+Dialogue: 0,0:00:28.55,0:00:29.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mis en couleur.
+Dialogue: 0,0:00:29.69,0:00:31.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la légende en donne la liste :
+Dialogue: 0,0:00:31.79,0:00:33.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbone, oxygène, hydrogène,
+Dialogue: 0,0:00:33.57,0:00:34.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}azote, sodium, chlore,
+Dialogue: 0,0:00:34.97,0:00:36.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}calcium, phosphore,
+Dialogue: 0,0:00:36.17,0:00:37.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}potassium, soufre,
+Dialogue: 0,0:00:37.32,0:00:38.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fer et magnésium.
+Dialogue: 0,0:00:38.96,0:00:40.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme, en pourcentage du
+Dialogue: 0,0:00:40.43,0:00:41.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}poids total.
+Dialogue: 0,0:00:41.14,0:00:43.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'oxygène : {\c&H66D1FF&}65,0{\c&HFFFFFF&} %.
+Dialogue: 0,0:00:44.01,0:00:45.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le carbone : {\c&H66D1FF&}18,5{\c&HFFFFFF&} .
+Dialogue: 0,0:00:45.99,0:00:47.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hydrogène : {\c&H66D1FF&}9,5{\c&HFFFFFF&} .
+Dialogue: 0,0:00:47.78,0:00:49.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'azote : {\c&H66D1FF&}3,3{\c&HFFFFFF&} .
+Dialogue: 0,0:00:49.32,0:00:51.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À eux quatre : {\c&H66D1FF&}96,3{\c&HFFFFFF&} %.
+Dialogue: 0,0:00:52.17,0:00:53.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ensuite : calcium,
+Dialogue: 0,0:00:53.24,0:00:55.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}1,5 ; phosphore, 1,0 ;
+Dialogue: 0,0:00:55.98,0:00:59.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}potassium, 0,4 ; soufre, 0,3.
+Dialogue: 0,0:00:59.95,0:01:01.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sodium, 0,2 ; chlore,
+Dialogue: 0,0:01:01.96,0:01:04.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}0,2 ; magnésium, 0,1 ;
+Dialogue: 0,0:01:04.71,0:01:07.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le fer, moins de 0,1 %.
+Dialogue: 0,0:01:07.74,0:01:09.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Enfin, le zinc et l'iode :
+Dialogue: 0,0:01:09.03,0:01:10.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à l'état de {\c&H66D1FF&}traces{\c&HFFFFFF&} .
+Dialogue: 0,0:01:10.59,0:01:12.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ordre des quatre premiers :
+Dialogue: 0,0:01:12.01,0:01:12.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Oh !
+Dialogue: 0,0:01:12.34,0:01:13.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque Humain Nage.” O,
+Dialogue: 0,0:01:13.49,0:01:15.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C, H, N, du plus lourd au plus léger.
+Dialogue: 0,0:01:15.82,0:01:16.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour les chiffres,
+Dialogue: 0,0:01:16.71,0:01:17.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une astuce de calcul :
+Dialogue: 0,0:01:17.80,0:01:21.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}18,5 plus 9,5, ça fait 28 tout rond.
+Dialogue: 0,0:01:21.64,0:01:23.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}65 plus 28, 93.
+Dialogue: 0,0:01:24.09,0:01:26.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plus 3,3 : 96,3.
+Dialogue: 0,0:01:26.90,0:01:28.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si ton total ne tombe pas juste,
+Dialogue: 0,0:01:28.49,0:01:29.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un chiffre est faux.
+Dialogue: 0,0:01:29.89,0:01:32.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis le duo calcium 1,5,
+Dialogue: 0,0:01:32.04,0:01:34.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphore 1,0, et une petite
+Dialogue: 0,0:01:34.42,0:01:36.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}famille sous 1 % :
+Dialogue: 0,0:01:36.03,0:01:37.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}potassium, soufre,
+Dialogue: 0,0:01:37.10,0:01:39.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sodium, chlore, magnésium et fer.
+Dialogue: 0,0:01:39.63,0:01:41.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'iode n'est présent qu'à l'état
+Dialogue: 0,0:01:41.20,0:01:42.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de traces, et pourtant sa carence
+Dialogue: 0,0:01:42.82,0:01:44.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}a des conséquences lourdes.
+Dialogue: 0,0:01:44.55,0:01:45.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours en cite trois :
+Dialogue: 0,0:01:45.86,0:01:47.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}crétinisme{\c&HFFFFFF&} , le {\c&H66D1FF&}retard{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:01:47.38,0:01:48.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}croissance{\c&HFFFFFF&} et des {\c&H66D1FF&}déficiences{\c&HFFFFFF&}
+Dialogue: 0,0:01:48.97,0:01:49.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}mentales{\c&HFFFFFF&} .
+Dialogue: 0,0:01:49.91,0:01:51.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'était fréquent dans les Alpes
+Dialogue: 0,0:01:51.62,0:01:53.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'au début du vingtième
+Dialogue: 0,0:01:53.10,0:01:54.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}siècle, à cause de l'utilisation
+Dialogue: 0,0:01:54.86,0:01:56.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de sel de gemme pauvre en iode.
+Dialogue: 0,0:01:56.97,0:01:58.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le mécanisme : un manque d'
+Dialogue: 0,0:01:58.39,0:01:59.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}hormones{\c&HFFFFFF&} {\c&H66D1FF&}thyroïdiennes{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:59.66,0:02:01.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui nécessitent la présence
+Dialogue: 0,0:02:01.08,0:02:01.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'atomes d'iode.
+Dialogue: 0,0:02:02.48,0:02:04.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À toi : quels quatre atomes font
+Dialogue: 0,0:02:04.04,0:02:07.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ensemble 96,3 % du poids total ?
+Dialogue: 0,0:02:11.75,0:02:12.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A : oxygène,
+Dialogue: 0,0:02:12.90,0:02:14.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbone, hydrogène, azote.
+Dialogue: 0,0:02:14.53,0:02:15.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Oh !
+Dialogue: 0,0:02:15.14,0:02:16.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque Humain Nage.
+Dialogue: 0,0:02:16.67,0:02:17.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comment les atomes tiennent-ils
+Dialogue: 0,0:02:17.97,0:02:18.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ensemble ?
+Dialogue: 0,0:02:18.53,0:02:20.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours donne quelques exemples
+Dialogue: 0,0:02:20.24,0:02:21.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de liaisons, avec la base de
+Dialogue: 0,0:02:21.74,0:02:23.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'interaction et leur force.
+Dialogue: 0,0:02:23.63,0:02:24.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La liaison {\c&H66D1FF&}covalente{\c&HFFFFFF&} :
+Dialogue: 0,0:02:24.78,0:02:26.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un partage de paires d'électrons.
+Dialogue: 0,0:02:26.65,0:02:27.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Force : trois plus.
+Dialogue: 0,0:02:28.00,0:02:28.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La liaison {\c&H66D1FF&}ionique{\c&HFFFFFF&} :
+Dialogue: 0,0:02:28.96,0:02:30.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une attraction de charges
+Dialogue: 0,0:02:30.16,0:02:30.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}opposées.
+Dialogue: 0,0:02:30.74,0:02:31.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux plus.
+Dialogue: 0,0:02:31.80,0:02:33.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La liaison {\c&H66D1FF&}hydrogène{\c&HFFFFFF&} :
+Dialogue: 0,0:02:33.04,0:02:34.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un partage d'atome d'hydrogène.
+Dialogue: 0,0:02:34.92,0:02:36.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un seul plus : c'est la plus
+Dialogue: 0,0:02:36.26,0:02:37.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faible des trois.
+Dialogue: 0,0:02:37.63,0:02:39.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois images, de la plus forte à
+Dialogue: 0,0:02:39.33,0:02:40.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la plus faible.
+Dialogue: 0,0:02:40.53,0:02:42.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La covalente, c'est un couple qui
+Dialogue: 0,0:02:42.16,0:02:43.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}partage tout : des paires
+Dialogue: 0,0:02:43.39,0:02:43.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'électrons.
+Dialogue: 0,0:02:44.12,0:02:45.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Très solide, trois plus.
+Dialogue: 0,0:02:45.67,0:02:47.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ionique, ce sont deux aimants
+Dialogue: 0,0:02:47.06,0:02:48.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de charges opposées qui
+Dialogue: 0,0:02:48.09,0:02:48.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'attirent.
+Dialogue: 0,0:02:48.72,0:02:49.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux plus.
+Dialogue: 0,0:02:49.79,0:02:51.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hydrogène, c'est une simple
+Dialogue: 0,0:02:51.35,0:02:53.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}poignée de main : on partage un
+Dialogue: 0,0:02:53.03,0:02:54.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atome d'hydrogène,
+Dialogue: 0,0:02:54.00,0:02:55.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et on se lâche vite.
+Dialogue: 0,0:02:55.23,0:02:55.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un plus.
+Dialogue: 0,0:02:56.33,0:02:57.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux pièges sur les liaisons.
+Dialogue: 0,0:02:57.99,0:02:59.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La liaison hydrogène est plus
+Dialogue: 0,0:02:59.41,0:03:01.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}forte que la liaison ionique” : faux.
+Dialogue: 0,0:03:01.32,0:03:02.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Covalente, puis ionique,
+Dialogue: 0,0:03:02.64,0:03:03.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis hydrogène.
+Dialogue: 0,0:03:03.86,0:03:05.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La liaison covalente repose sur
+Dialogue: 0,0:03:05.42,0:03:07.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'attraction de charges opposées”
+Dialogue: 0,0:03:07.04,0:03:08.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux, ça, c'est l'ionique.
+Dialogue: 0,0:03:08.59,0:03:10.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La covalente, c'est le partage de
+Dialogue: 0,0:03:10.33,0:03:11.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paires d'électrons.
+Dialogue: 0,0:03:11.88,0:03:13.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une réaction chimique transforme
+Dialogue: 0,0:03:13.49,0:03:14.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}réactifs{\c&HFFFFFF&} en {\c&H66D1FF&}produits{\c&HFFFFFF&} .
+Dialogue: 0,0:03:14.93,0:03:16.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours en donne deux,
+Dialogue: 0,0:03:16.01,0:03:17.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui sont le miroir l'une de
+Dialogue: 0,0:03:17.29,0:03:17.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'autre.
+Dialogue: 0,0:03:18.07,0:03:19.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}photosynthèse{\c&HFFFFFF&} :
+Dialogue: 0,0:03:19.15,0:03:21.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}six H2O plus six CO2 donnent
+Dialogue: 0,0:03:21.44,0:03:23.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C6H12O6, le glucose,
+Dialogue: 0,0:03:23.37,0:03:24.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus six O2.
+Dialogue: 0,0:03:24.47,0:03:25.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Avec un apport de {\c&H66D1FF&}lumière{\c&HFFFFFF&} .
+Dialogue: 0,0:03:26.15,0:03:27.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}respiration{\c&HFFFFFF&} {\c&H66D1FF&}cellulaire{\c&HFFFFFF&} :
+Dialogue: 0,0:03:27.62,0:03:30.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C6H12O6 plus six O2 donnent six
+Dialogue: 0,0:03:30.17,0:03:31.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H2O plus six CO2.
+Dialogue: 0,0:03:31.78,0:03:33.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et cette fois, la réaction libère
+Dialogue: 0,0:03:33.28,0:03:33.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l' {\c&H66D1FF&}énergie{\c&HFFFFFF&} .
+Dialogue: 0,0:03:34.52,0:03:35.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comparons-les ligne par ligne.
+Dialogue: 0,0:03:36.23,0:03:38.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les réactifs : eau et CO2 pour la
+Dialogue: 0,0:03:38.32,0:03:40.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}photosynthèse ; glucose et O2
+Dialogue: 0,0:03:40.13,0:03:41.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pour la respiration.
+Dialogue: 0,0:03:41.63,0:03:43.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les produits : glucose et O2 d'un
+Dialogue: 0,0:03:43.41,0:03:45.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}côté ; eau et CO2 de l'autre.
+Dialogue: 0,0:03:45.45,0:03:46.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et sur le schéma :
+Dialogue: 0,0:03:46.44,0:03:48.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la lumière pour la photosynthèse,
+Dialogue: 0,0:03:48.25,0:03:49.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'énergie libérée pour la
+Dialogue: 0,0:03:49.62,0:03:50.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiration cellulaire.
+Dialogue: 0,0:03:51.44,0:03:53.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernier point : la vitesse d'une
+Dialogue: 0,0:03:53.06,0:03:54.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réaction chimique est influencée
+Dialogue: 0,0:03:54.68,0:03:55.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par trois facteurs.
+Dialogue: 0,0:03:56.04,0:03:57.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, la {\c&H66D1FF&}température{\c&HFFFFFF&} .
+Dialogue: 0,0:03:57.62,0:03:58.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, la {\c&H66D1FF&}concentration{\c&HFFFFFF&} des
+Dialogue: 0,0:03:58.87,0:04:00.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réactifs {\c&H66D1FF&}et{\c&HFFFFFF&} des produits.
+Dialogue: 0,0:04:00.47,0:04:02.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, la présence de {\c&H66D1FF&}catalyseurs{\c&HFFFFFF&}
+Dialogue: 0,0:04:02.06,0:04:02.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les {\c&H66D1FF&}enzymes{\c&HFFFFFF&} .
+Dialogue: 0,0:04:03.35,0:04:04.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Imagine que tu cuisines.
+Dialogue: 0,0:04:04.85,0:04:05.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour aller plus vite,
+Dialogue: 0,0:04:05.77,0:04:06.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tu as trois options.
+Dialogue: 0,0:04:07.04,0:04:08.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tu montes le feu :
+Dialogue: 0,0:04:08.00,0:04:08.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la température.
+Dialogue: 0,0:04:09.20,0:04:10.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tu mets plus d'ingrédients dans
+Dialogue: 0,0:04:10.70,0:04:12.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la casserole : la concentration,
+Dialogue: 0,0:04:12.25,0:04:13.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des réactifs et des produits.
+Dialogue: 0,0:04:14.05,0:04:15.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ou tu appelles un chef qui
+Dialogue: 0,0:04:15.43,0:04:17.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}accélère tout sans être consommé
+Dialogue: 0,0:04:17.13,0:04:18.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: le catalyseur, c'est-à-dire
+Dialogue: 0,0:04:18.68,0:04:19.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'enzyme.
+Dialogue: 0,0:04:19.72,0:04:21.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dernier quiz : laquelle est
+Dialogue: 0,0:04:21.17,0:04:21.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exacte ?
+Dialogue: 0,0:04:26.00,0:04:26.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:04:26.96,0:04:28.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La liaison hydrogène est la plus
+Dialogue: 0,0:04:28.78,0:04:30.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faible, la respiration cellulaire
+Dialogue: 0,0:04:30.66,0:04:31.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}consomme le glucose,
+Dialogue: 0,0:04:31.80,0:04:33.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la température est l'un des
+Dialogue: 0,0:04:33.51,0:04:35.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois facteurs de vitesse.
+Dialogue: 0,0:04:35.56,0:04:36.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:04:36.97,0:04:39.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}O, C, H, N : 65, 18,5,
+Dialogue: 0,0:04:39.70,0:04:45.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}9,5 et 3,3 %, soit 96,3 % du
+Dialogue: 0,0:04:45.27,0:04:46.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}poids total ; zinc et iode à
+Dialogue: 0,0:04:46.80,0:04:47.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'état de traces.
+Dialogue: 0,0:04:48.12,0:04:49.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Carence en iode : crétinisme,
+Dialogue: 0,0:04:49.76,0:04:50.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}retard de croissance,
+Dialogue: 0,0:04:50.94,0:04:52.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déficiences mentales,
+Dialogue: 0,0:04:52.13,0:04:53.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par manque d'hormones
+Dialogue: 0,0:04:53.31,0:04:54.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}thyroïdiennes.
+Dialogue: 0,0:04:54.50,0:04:55.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Liaisons : covalente,
+Dialogue: 0,0:04:55.48,0:04:56.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois plus ; ionique,
+Dialogue: 0,0:04:56.46,0:04:57.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux plus ; hydrogène,
+Dialogue: 0,0:04:57.48,0:04:57.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un plus.
+Dialogue: 0,0:04:58.25,0:04:59.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Photosynthèse et respiration
+Dialogue: 0,0:04:59.89,0:05:01.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire, deux équations
+Dialogue: 0,0:05:01.42,0:05:03.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inverses ; et trois facteurs de
+Dialogue: 0,0:05:03.23,0:05:04.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vitesse : température,
+Dialogue: 0,0:05:04.52,0:05:06.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentration, catalyseurs.
+Dialogue: 0,0:05:06.66,0:05:07.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:05:07.57,0:05:08.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau, qui fait environ deux
+Dialogue: 0,0:05:08.98,0:05:10.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tiers de la masse des organismes.
+Dialogue: 0,0:05:10.78,0:05:12.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et tu vas comprendre pourquoi une
+Dialogue: 0,0:05:12.44,0:05:13.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acidose est une urgence.

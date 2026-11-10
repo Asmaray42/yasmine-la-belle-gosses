@@ -1,0 +1,197 @@
+title: "Les jonctions cellulaires"
+subtitle: "Étanche · adhérente · desmosome · communicante · utérus"
+source: "S1-2 p.3 à 6"
+chapter: "Partie I — Chapitre III. Structure de la cellule eucaryote — 8. Interactions cellulaires"
+objectives:
+  - "Définir les jonctions cellulaires et citer les 3 types."
+  - "Décrire la jonction étanche, la jonction adhérente et le desmosome."
+  - "Décrire les jonctions communicantes et leur rôle dans l'utérus."
+
+scenes:
+  - kind: hook
+    title: "Comment l'utérus se contracte d'un seul coup ?"
+    ref: "S1-2 p.6"
+    big: "24 h"
+    beats:
+      - say: "Vingt-quatre heures avant l'accouchement, les cellules musculaires de l'utérus multiplient de minuscules canaux entre elles. Résultat : une contraction coordonnée."
+      - say: "Au programme : les trois types de jonctions cellulaires, et leurs protéines."
+        show: "Étanche · adhérente (desmosome) · *communicante*"
+
+  - kind: figure
+    title: "Les interactions cellulaires"
+    ref: "S1-2 p.3"
+    fig: "S1-2:3b"
+    trap: "Jonctions = connexions DURABLES entre cellules voisines (contact permanent)."
+    beats:
+      - say: "Huitième point du chapitre trois. Dans les organismes pluricellulaires, la plupart des cellules s'associent avec leurs voisines, en contact permanent, pour former un tissu structuré. Exemple : un épithélium dans le rein."
+        mark: ["tissu structuré", "rein"]
+        show: "Cellules voisines en contact *permanent* → tissu structuré (ex. épithélium du rein)"
+      - say: "Les connexions qui les relient durablement s'appellent les *jonctions cellulaires*."
+        mark: "jonctions cellulaires"
+        show: "Connexions durables = *jonctions cellulaires*"
+
+  - kind: figure
+    title: "Trois types de jonctions"
+    ref: "S1-2 p.4"
+    fig: "S1-2:4h"
+    trap: "Les 3 types peuvent CO-EXISTER au sein d'une même cellule."
+    beats:
+      - say: "Trois types : la jonction étanche, la jonction adhérente, la jonction communicante. Et elles peuvent coexister au sein d'une même cellule."
+        mark: ["jonction étanche", "jonction adhérente", "jonction communicante", "co-exister"]
+        show: "*Étanche* · *adhérente* · *communicante* — peuvent *coexister* dans une cellule"
+
+  - kind: figure
+    title: "La jonction étanche"
+    ref: "S1-2 p.4"
+    fig: "S1-2:4b"
+    trap: "Étanche = serrée = zona occludens ; claudines ; étanche même aux PETITES molécules."
+    beats:
+      - say: "La *jonction étanche*, aussi appelée jonction serrée, ou *zona occludens*."
+        mark: ["jonction serrée", "zona occludens"]
+        show: "*Jonction étanche* = jonction *serrée* = *zona occludens*"
+      - say: "Elle est constituée d'un assemblage de protéines membranaires, par exemple les *claudines*, qui induisent une fusion partielle des deux membranes contiguës. Elle assure une étanchéité, même pour les petites molécules."
+        mark: ["claudines", "même pour les petites"]
+        show: "*Claudines* → fusion partielle des membranes · étanche *même aux petites molécules*"
+
+  - kind: figure
+    title: "Jonction adhérente et desmosome"
+    ref: "S1-2 p.5"
+    fig: "S1-2:5h"
+    trap: "Adhérente → ACTINE ; desmosome (desmoplakine) → FILAMENTS INTERMÉDIAIRES."
+    beats:
+      - say: "La *jonction adhérente* : des protéines transmembranaires, les *cadhérines*, associées côté cytoplasme à une plaque protéique, elle-même rattachée aux microfilaments d'*actine*."
+        mark: ["cadhérines", "actine"]
+        show: "*Adhérente* : *cadhérines* → plaque protéique → microfilaments d'*actine*"
+      - say: "Les cadhérines s'associent entre elles : un attachement entre cellules, connecté au cytosquelette."
+        mark: "s’associent entre-elles"
+        show: "Cadhérines associées entre elles = attachement relié au cytosquelette"
+      - say: "Le *desmosome* est une variante plus rigide, surtout dans l'épiderme et le cœur. Sa plaque contient une protéine spécifique, la *desmoplakine*, qui la rattache aux *filaments intermédiaires*, kératine et vimentine."
+        mark: ["desmosome", "desmoplakine", "filaments intermédiaires"]
+        show: "*Desmosome* (épiderme, cœur) : *desmoplakine* → *filaments intermédiaires* (kératine, vimentine)"
+
+  - kind: figure
+    title: "Kératodermie palmoplantaire striée héréditaire"
+    ref: "S1-2 p.5"
+    fig: "S1-2:5b"
+    trap: "Défaut de la DESMOPLAKINE (desmosome)."
+    beats:
+      - say: "Une maladie héréditaire rare : la kératodermie palmoplantaire striée héréditaire, due à un défaut de la desmoplakine."
+        mark: ["Maladie héréditaire rare", "desmoplakine"]
+        show: "Maladie héréditaire *rare* · défaut de la *desmoplakine*"
+      - say: "Les symptômes apparaissent chez l'enfant : épaississement et fissures de la peau des paumes et des plantes de pieds, cheveux d'aspect laineux, et risque d'affections cardiaques."
+        mark: ["paumes", "laineux", "cardiaques"]
+        show: "Enfant : peau épaissie et fissurée (paumes, plantes) · cheveux *laineux* · risque *cardiaque*"
+
+  - kind: figure
+    title: "Les jonctions communicantes"
+    ref: "S1-2 p.6"
+    fig: "S1-2:6h"
+    trap: "Passent : ions, acides aminés, sucres — PAS les protéines ; canal de 1,5 nm."
+    beats:
+      - say: "Les *jonctions communicantes* sont faites de complexes protéiques transmembranaires, les *connexons*, qui forment de petits canaux. Une jonction s'établit quand deux connexons se font face : le canal fait 1,5 nanomètre de diamètre."
+        mark: ["connexons", "deux connexons", "1,5 nm"]
+        show: "*Connexons* face à face → canal de *1,5 nm*"
+      - say: "Elles laissent circuler de petites molécules entre deux cellules voisines, ions, acides aminés, sucres, mais *pas* les protéines. Elles peuvent servir à propager une signalisation dans un tissu."
+        mark: ["pas", "propagation"]
+        show: "Passage : ions, acides aminés, sucres · *pas les protéines* · propagation d'un signal"
+
+  - kind: flow
+    title: "Jonctions communicantes et accouchement"
+    ref: "S1-2 p.6"
+    trap: "AUGMENTATION du nombre de connexons avant l'accouchement → contractilité coordonnée."
+    beats:
+      - say: "L'exemple de l'utérus, en trois temps."
+      - say: "Pendant la gestation, les cellules musculaires de l'utérus ont peu de connexons."
+        show: "Pendant la gestation : peu de *connexons*"
+      - say: "Vingt-quatre heures avant l'accouchement, le nombre de connexons augmente."
+        show: "24 h avant l'accouchement : *augmentation* du nombre de connexons"
+      - say: "Pendant l'accouchement : la contractilité est coordonnée, la contraction utérine se propage."
+        show: "Pendant l'accouchement : contractilité *coordonnée*"
+
+  - kind: trap
+    title: "Ne mélange pas les protéines des jonctions"
+    ref: "S1-2 p.4-6"
+    trap: "Claudines (étanche) · cadhérines (adhérente) · desmoplakine (desmosome) · connexons (communicante)."
+    beats:
+      - say: "Le piège : associer la bonne protéine à la bonne jonction."
+      - say: "Claudines : étanche. Cadhérines : adhérente. Desmoplakine : desmosome. Connexons : communicante."
+        show: "*Claudines* étanche · *cadhérines* adhérente · *desmoplakine* desmosome · *connexons* communicante"
+      - say: "“La jonction adhérente se rattache aux filaments intermédiaires” : faux, à l'actine. C'est le desmosome qui se rattache aux filaments intermédiaires."
+        show: "✓ Adhérente → *actine* · desmosome → *filaments intermédiaires*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.4-6"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Les jonctions communicantes laissent passer les protéines."
+      - "La zona occludens est une jonction étanche."
+      - "Le desmosome contient des claudines."
+      - "Une cellule ne possède qu'un seul type de jonction."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Les protéines ne passent pas, le desmosome contient la desmoplakine, et les trois types peuvent coexister."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 16 : la membrane plasmique"
+    ref: "S1-2 p.7"
+    big: "4 composants"
+    beats:
+      - say: "Prochain épisode : la membrane plasmique, ses quatre composants et les fonctions de ses protéines."
+        show: "Membrane plasmique : *4* composants"
+
+recap:
+  - "Dans les organismes pluricellulaires, la plupart des cellules s'associent avec leurs voisines (contact permanent) pour former un tissu structuré (ex. épithélium du rein) ; les connexions durables = jonctions cellulaires."
+  - "Trois types : jonction étanche, adhérente, communicante ; elles peuvent coexister au sein d'une cellule."
+  - "Jonction étanche (= jonction serrée, zona occludens) : assemblage de protéines membranaires (ex. claudines) qui induisent une fusion partielle des deux membranes contiguës ; étanchéité, même pour les petites molécules."
+  - "Jonction adhérente : cadhérines (protéines transmembranaires) associées, côté cytoplasme, à une plaque protéique rattachée aux microfilaments (actine) ; les cadhérines s'associent entre elles. Desmosome : variante plus rigide (surtout épiderme et cœur), plaque contenant la desmoplakine, qui rattache la jonction aux filaments intermédiaires (kératine, vimentine)."
+  - "Kératodermie palmoplantaire striée héréditaire : maladie héréditaire rare, défaut de la desmoplakine ; chez l'enfant : épaississement et fissures de la peau des paumes et plantes, cheveux d'aspect laineux, risque d'affections cardiaques."
+  - "Jonctions communicantes : complexes protéiques transmembranaires (connexons) formant de petits canaux (canal de 1,5 nm entre deux connexons face à face) ; circulation de petites molécules (ions, acides aminés, sucres, mais pas protéines) ; propagation d'une signalisation. Utérus : augmentation du nombre de connexons (24 h avant l'accouchement) → contractilité coordonnée pendant l'accouchement."
+
+traps:
+  - ["Les jonctions s'excluent", "Elles peuvent coexister dans une cellule", "p.4h"]
+  - ["Jonction étanche laisse passer les petites molécules", "Étanche même pour les petites molécules", "p.4b"]
+  - ["Adhérente → filaments intermédiaires", "Adhérente → actine ; desmosome → filaments intermédiaires", "p.5h"]
+  - ["Desmoplakine dans la jonction étanche", "Desmoplakine = desmosome", "p.5h"]
+  - ["Protéines à travers les jonctions communicantes", "Pas les protéines", "p.6h"]
+  - ["Diminution des connexons avant l'accouchement", "Augmentation", "p.6b"]
+
+mnemonics:
+  - ["Protéines des jonctions", "« CLAUde ferme la porte (étanche), CADHérine tient la main (adhérente), DESMOplakine soude fort (desmosome), CONNEXon connecte (communicante) »", "Claudines · cadhérines · desmoplakine · connexons"]
+  - ["Adhérente vs desmosome", "Desmosome = Dur (rigide) → filaments intermédiaires", "Adhérente → actine ; desmosome → filaments intermédiaires"]
+
+quiz:
+  - q: "À propos des jonctions étanches et adhérentes :"
+    props:
+      - ["La jonction étanche est aussi appelée zona occludens.", true, "p.4b."]
+      - ["Les claudines induisent une fusion partielle des membranes.", true, "p.4b."]
+      - ["Les cadhérines sont des protéines transmembranaires de la jonction adhérente.", true, "p.5h."]
+      - ["La jonction adhérente est rattachée aux filaments intermédiaires.", false, "Aux microfilaments d'actine."]
+      - ["Le desmosome est surtout présent dans l'épiderme et le cœur.", true, "p.5h."]
+  - q: "Desmoplakine et kératodermie :"
+    props:
+      - ["La desmoplakine rattache le desmosome aux filaments intermédiaires.", true, "Kératine, vimentine."]
+      - ["La kératodermie palmoplantaire striée est due à un défaut de la desmoplakine.", true, "p.5b."]
+      - ["Ses symptômes apparaissent chez l'adulte âgé.", false, "Chez l'enfant."]
+      - ["Elle comporte un risque d'affections cardiaques.", true, "p.5b."]
+      - ["C'est une maladie fréquente.", false, "Maladie héréditaire rare."]
+  - q: "Jonctions communicantes :"
+    props:
+      - ["Elles sont formées de connexons.", true, "p.6h."]
+      - ["Une jonction s'établit quand deux connexons se font face.", true, "p.6h."]
+      - ["Elles laissent passer les protéines.", false, "Pas les protéines."]
+      - ["Leur nombre augmente dans l'utérus avant l'accouchement.", true, "p.6b."]
+      - ["Elles permettent la propagation d'une signalisation dans un tissu.", true, "p.6h."]
+
+coverage:
+  - ["S1-2", "3h", "Sommaire du chapitre III (8. interactions cellulaires)", 2]
+  - ["S1-2", "3b", "Interactions cellulaires : tissu, jonctions, épithélium du rein", 2]
+  - ["S1-2", "4h", "Trois types de jonctions, coexistence", 3]
+  - ["S1-2", "4b", "Jonction étanche (serrée, zona occludens, claudines)", 4]
+  - ["S1-2", "5h", "Jonction adhérente (cadhérines, actine) et desmosome (desmoplakine)", 5]
+  - ["S1-2", "5b", "Kératodermie palmoplantaire striée héréditaire", 6]
+  - ["S1-2", "6h", "Jonctions communicantes (connexons, 1,5 nm, pas les protéines)", 7]
+  - ["S1-2", "6b", "Jonctions communicantes et contractilité de l'utérus", 8]

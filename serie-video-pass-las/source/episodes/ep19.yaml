@@ -1,0 +1,176 @@
+title: "Transport en vrac : endocytose, exocytose et cellule intestinale"
+subtitle: "Phagocytose · pinocytose · endocytose via récepteur · LDL · exocytose · SGLT1/GLUT2"
+source: "S1-2 p.18 à 20h"
+chapter: "Partie I — Chapitre IV. La membrane plasmique et ses fonctions — 6. Endocytose et exocytose"
+objectives:
+  - "Distinguer endocytose et exocytose et leurs rôles."
+  - "Décrire les 3 types d'endocytose."
+  - "Expliquer le devenir des vésicules d'endocytose et l'hypercholestérolémie familiale."
+  - "Décrire l'exocytose et le transport du Na+ et du glucose dans la cellule intestinale."
+
+scenes:
+  - kind: hook
+    title: "Le cholestérol qui reste dans le sang"
+    ref: "S1-2 p.19"
+    big: "LDL"
+    beats:
+      - say: "Dans l'hypercholestérolémie familiale, le cholestérol s'accumule jusque dans les paupières et les artères. La cause : une porte d'entrée cassée, le récepteur du LDL."
+      - say: "Au programme : endocytose, exocytose, et le trajet du glucose dans la cellule intestinale."
+        show: "Endocytose · exocytose · *cellule intestinale*"
+
+  - kind: figure
+    title: "Endocytose et exocytose : le transport en vrac"
+    ref: "S1-2 p.18"
+    fig: "S1-2:18h"
+    trap: "Macromolécules et micro-organismes traversent via des VÉSICULES."
+    beats:
+      - say: "Les macromolécules, protéines, polysaccharides, lipides, ainsi que les micro-organismes et autres particules, traversent la membrane via la formation de vésicules."
+        mark: "formation de vésicules"
+        show: "Macromolécules et particules → *vésicules*"
+      - say: "L'*endocytose*, pour l'entrée : importante pour la nutrition cellulaire et l'incorporation de macromolécules, et impliquée dans la destruction de micro-organismes par des cellules immunitaires."
+        mark: ["endocytose", "nutrition cellulaire"]
+        show: "*Endocytose* = entrée : nutrition · incorporation · destruction de micro-organismes"
+      - say: "L'*exocytose*, pour l'exportation : impliquée dans la sécrétion d'hormones et d'autres substances."
+        mark: "exocytose"
+        show: "*Exocytose* = exportation : sécrétion d'*hormones*…"
+
+  - kind: compare
+    title: "Trois types d'endocytose"
+    ref: "S1-2 p.18"
+    header: ["Type", "Pour quoi ?", "Mécanisme"]
+    beats:
+      - say: "Trois types."
+      - say: "La phagocytose : pour les particules, cellules, micro-organismes, fragments organiques. La membrane entoure la particule puis se referme en vésicule."
+        show: "*Phagocytose* | particules (cellules, micro-organismes) | la membrane *entoure* puis se referme"
+      - say: "La pinocytose : pour les substances dissoutes, capturées en gouttelettes de fluide, par invagination de la membrane."
+        show: "*Pinocytose* | substances *dissoutes* (gouttelettes) | *invagination*"
+      - say: "L'endocytose via récepteur : pour des macromolécules spécifiques, la transferrine, qui transporte le fer, ou les LDL, qui transportent le cholestérol. Elles se fixent d'abord sur des récepteurs, qui les attirent même peu concentrées, dans une région où le feuillet interne est recouvert de clathrine. Invagination, puis vésicule enrobée de clathrine."
+        show: "*Via récepteur* | macromolécules spécifiques (*transferrine*, *LDL*) | récepteurs + *clathrine*"
+
+  - kind: figure
+    title: "Devenir des vésicules et hypercholestérolémie familiale"
+    ref: "S1-2 p.19"
+    fig: "S1-2:19h"
+    trap: "La plupart des vésicules → LYSOSOMES ; certaines → Golgi."
+    beats:
+      - say: "Destination : la plupart des macromolécules et particules ingérées finiront dégradées dans des lysosomes, et les produits pourront passer dans le cytosol. Certaines vésicules s'associent au Golgi, qui dirige les molécules vers des compartiments spécifiques."
+        mark: ["lysosomes", "Golgi"]
+        show: "La *plupart* → *lysosomes* (dégradation) · certaines → *Golgi*"
+      - say: "L'*hypercholestérolémie familiale* : un dysfonctionnement du récepteur nécessaire à l'endocytose de la lipoprotéine LDL. Le LDL chargé de cholestérol reste dans le sang, et le cholestérol se dépose dans différentes parties du corps, comme les paupières, et dans les artères, avec des risques cardiovasculaires."
+        mark: ["Hypercholestérolémie", "paupières"]
+        show: "*Hypercholestérolémie familiale* : récepteur du *LDL* défectueux → dépôts (paupières, *artères*)"
+
+  - kind: figure
+    title: "L'exocytose"
+    ref: "S1-2 p.19"
+    fig: "S1-2:19b"
+    trap: "Vésicules de sécrétion issues du GOLGI ; 5 types de molécules sécrétées."
+    beats:
+      - say: "Les molécules destinées à la sécrétion sont incluses dans des vésicules dérivées du Golgi, qui migrent vers la membrane plasmique, fusionnent avec elle, et libèrent leur contenu à l'extérieur."
+        mark: ["dérivant du Golgi", "fusionnent"]
+        show: "Vésicules du *Golgi* → membrane plasmique → *fusion* → libération"
+      - say: "Molécules sécrétées : des hormones, pour la transmission de messages à distance ; des neurotransmetteurs, d'une cellule nerveuse à l'autre ; des composants de la matrice extracellulaire ; du mucus ; et d'autres composants et métabolites."
+        mark: ["hormones", "neurotransmetteur", "mucus"]
+        show: "*Hormones* · *neurotransmetteurs* · composants de *MEC* · *mucus* · autres métabolites"
+
+  - kind: figure
+    title: "Transport dans la cellule de l'intestin"
+    ref: "S1-2 p.20"
+    fig: "S1-2:20h"
+    trap: "Na+ : PASSIF à l'apical (SGLT1), ACTIF au baso-latéral (pompe) ; glucose : ACTIF à l'apical (SGLT1), PASSIF au baso-latéral (GLUT2)."
+    beats:
+      - say: "Une synthèse de tout le chapitre : le flux de Na plus et de glucose, de la lumière intestinale vers le milieu intra-corporel, à travers les cellules de l'épithélium intestinal."
+        focus: "all"
+        mark: "Flux de Na"
+      - say: "Le Na plus : transport *passif* par SGLT1 du côté apical, puis transport *actif* par la pompe sodium potassium du côté baso-latéral."
+        mark: "Na+: transport passif"
+        show: "Na⁺ : *passif* (SGLT1) apical → *actif* (pompe Na⁺/K⁺) baso-latéral"
+      - say: "Le glucose : transport *actif* par SGLT1 du côté apical, puis transport *passif* par GLUT2 du côté baso-latéral, plus de l'exocytose."
+        mark: "Glucose: transport actif"
+        show: "Glucose : *actif* (SGLT1) apical → *passif* (GLUT2) baso-latéral (+ exocytose)"
+      - say: "Il s'ensuit un flux d'eau par osmose, indispensable à la bonne hydratation. D'où la solution de réhydratation : un mélange de Na plus et de glucose."
+        mark: ["osmose", "réhydratation"]
+        show: "→ flux d'*eau* (osmose) ⇒ solution de *réhydratation* = Na⁺ + glucose"
+
+  - kind: trap
+    title: "Le piège de la cellule intestinale"
+    ref: "S1-2 p.20"
+    trap: "Même transporteur SGLT1 : Na+ passif, glucose actif."
+    beats:
+      - say: "Le piège favori."
+      - say: "“Au pôle apical, le glucose entre par transport passif” : faux. Par SGLT1, le Na plus est passif et le glucose est actif."
+        show: "✗ glucose passif à l'apical  →  ✓ SGLT1 : Na⁺ *passif*, glucose *actif*"
+      - say: "Et au pôle baso-latéral, c'est l'inverse : le Na plus est actif, par la pompe, et le glucose passif, par GLUT2."
+        show: "✓ Baso-latéral : Na⁺ *actif* (pompe) · glucose *passif* (GLUT2)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.18-20"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "La pinocytose concerne des particules comme les bactéries."
+      - "L'endocytose via récepteur se fait dans une région recouverte de clathrine."
+      - "La plupart des vésicules d'endocytose vont vers le noyau."
+      - "GLUT2 réalise un transport actif du glucose."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. La pinocytose capte des substances dissoutes, la plupart des vésicules vont aux lysosomes, et GLUT2 est passif."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 20 : la communication cellulaire"
+    ref: "S1-2 p.20"
+    big: "paracrine ?"
+    beats:
+      - say: "Prochain épisode : comment les cellules se parlent, de près ou de loin, et la cascade de l'insuline."
+        show: "Paracrine · synaptique · *endocrine* · insuline"
+
+recap:
+  - "Les macromolécules (protéines, polysaccharides, lipides), micro-organismes et particules traversent la membrane via des vésicules. Endocytose : entrée ; nutrition cellulaire, incorporation de macromolécules ; destruction de micro-organismes par des cellules immunitaires. Exocytose : exportation ; sécrétion d'hormones et d'autres substances."
+  - "Phagocytose : particules (cellules, micro-organismes, fragments organiques) ; la membrane entoure la particule puis se referme. Pinocytose : substances dissoutes, gouttelettes de fluide, invagination. Endocytose via récepteur : macromolécules spécifiques (transferrine/fer ; LDL/cholestérol) ; fixation préalable sur des récepteurs (attirent même à faible concentration) ; région dont le feuillet interne est recouvert de clathrine ; vésicule enrobée de clathrine."
+  - "Destination : la plupart dégradées dans des lysosomes (produits → cytosol) ; certaines vésicules s'associent au Golgi (→ compartiments spécifiques). Hypercholestérolémie familiale : dysfonctionnement du récepteur du LDL ; LDL chargé de cholestérol reste dans le sang ; dépôts (ex. paupières) et dans les artères (risques cardiovasculaires)."
+  - "Exocytose : vésicules dérivant du Golgi, migrent vers la membrane plasmique, fusionnent, libèrent leur contenu ; molécules sécrétées : hormones (messages à distance), neurotransmetteurs, composants de la MEC, mucus, autres métabolites."
+  - "Cellule intestinale : flux de Na+ et de glucose de la lumière vers le milieu intra-corporel ; Na+ : passif (SGLT1) apical, actif (pompe Na+/K+) baso-latéral ; glucose : actif (SGLT1) apical, passif (GLUT2) baso-latéral (+ exocytose) ; flux d'eau (osmose) ⇒ solution de réhydratation = mélange Na+ et glucose."
+
+traps:
+  - ["Pinocytose = particules", "Pinocytose = substances dissoutes ; phagocytose = particules", "p.18b"]
+  - ["Clathrine dans la phagocytose", "Clathrine = endocytose via récepteur", "p.18b"]
+  - ["Vésicules → noyau", "La plupart → lysosomes ; certaines → Golgi", "p.19h"]
+  - ["Hypercholestérolémie = excès de récepteurs", "Dysfonctionnement du récepteur du LDL", "p.19h"]
+  - ["Glucose passif à l'apical", "SGLT1 : Na+ passif, glucose actif ; baso-latéral : Na+ actif, glucose passif (GLUT2)", "p.20h"]
+
+mnemonics:
+  - ["Phago / pino", "Phago = manger (particules) ; pino = boire (gouttelettes)", "Phagocytose particules · pinocytose substances dissoutes"]
+  - ["Cellule intestinale", "« Le sodium entre en douceur et sort de force ; le glucose entre de force et sort en douceur »", "Na+ passif puis actif · glucose actif puis passif"]
+
+quiz:
+  - q: "Endocytose :"
+    props:
+      - ["La phagocytose concerne des particules comme des micro-organismes.", true, "p.18b."]
+      - ["La pinocytose capture des substances dissoutes.", true, "p.18b."]
+      - ["L'endocytose via récepteur concerne la transferrine et les LDL.", true, "p.18b."]
+      - ["Les vésicules d'endocytose via récepteur sont enrobées de clathrine.", true, "p.18b."]
+      - ["L'endocytose ne joue aucun rôle dans l'immunité.", false, "Destruction de micro-organismes par des cellules immunitaires."]
+  - q: "Devenir des vésicules et exocytose :"
+    props:
+      - ["La plupart des macromolécules endocytées sont dégradées dans les lysosomes.", true, "p.19h."]
+      - ["L'hypercholestérolémie familiale est due à un dysfonctionnement du récepteur du LDL.", true, "p.19h."]
+      - ["Les vésicules de sécrétion dérivent du Golgi.", true, "p.19b."]
+      - ["Le mucus fait partie des molécules sécrétées par exocytose.", true, "p.19b."]
+      - ["Dans l'hypercholestérolémie familiale, le LDL est capté en excès par les cellules.", false, "Il reste dans le sang."]
+  - q: "Cellule intestinale :"
+    props:
+      - ["Au pôle apical, le Na+ entre par transport passif via SGLT1.", true, "p.20h."]
+      - ["Au pôle baso-latéral, le Na+ sort par transport actif via la pompe Na+/K+.", true, "p.20h."]
+      - ["Le glucose sort au pôle baso-latéral par transport actif via GLUT2.", false, "Transport passif via GLUT2."]
+      - ["Un flux d'eau par osmose accompagne ces transports.", true, "p.20h."]
+      - ["La solution de réhydratation est un mélange de Na+ et de glucose.", true, "p.20h."]
+
+coverage:
+  - ["S1-2", "18h", "Endocytose et exocytose : transport en vrac, rôles", 2]
+  - ["S1-2", "18b", "Trois types d'endocytose (phagocytose, pinocytose, via récepteur, clathrine)", 3]
+  - ["S1-2", "19h", "Destination des vésicules ; hypercholestérolémie familiale", 4]
+  - ["S1-2", "19b", "Exocytose et molécules sécrétées", 5]
+  - ["S1-2", "20h", "Transport dans la cellule intestinale (SGLT1, pompe, GLUT2, osmose, réhydratation)", 6]

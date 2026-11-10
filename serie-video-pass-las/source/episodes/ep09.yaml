@@ -1,0 +1,242 @@
+title: "Acides nucléiques : ADN, ARN et nucléotides"
+subtitle: "Nucléotide · 5 bases · liaison phosphodiester · double hélice · ADN humain · ATP"
+source: "S1-1 p.42 à 46h"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 4. Les macromolécules — 7. Les acides nucléiques"
+objectives:
+  - "Décrire la structure d'un nucléotide et les 5 bases azotées."
+  - "Expliquer la liaison phosphodiester et l'orientation 5' → 3'."
+  - "Comparer ADN et ARN (sucre, brins, bases, rôle, stabilité)."
+  - "Donner les chiffres de l'ADN humain et les autres fonctions des nucléotides (ATP, NAD+, FAD)."
+
+scenes:
+  - kind: hook
+    title: "Un seul brin possible en face"
+    ref: "S1-1 p.44"
+    big: "A–T · C–G"
+    beats:
+      - say: "Donne-moi un brin d'ADN, et je te donne le brin d'en face, sans hésiter : il n'en existe qu'un seul possible."
+      - say: "Au programme : les nucléotides, la liaison phosphodiester, l'ADN, l'ARN, et l'ATP."
+        show: "Nucléotides · *5' → 3'* · ADN vs ARN · ATP"
+
+  - kind: figure
+    title: "Les acides nucléiques"
+    ref: "S1-1 p.42"
+    fig: "S1-1:42h"
+    trap: "Deux formes : ADN et ARN ; capacité à être retranscrit / recopié."
+    beats:
+      - say: "Septième point des macromolécules : les acides nucléiques. De longs polymères de nucléotides, sous deux formes : l'ADN et l'ARN."
+        mark: ["longs polymères", "deux formes"]
+        show: "Longs polymères de *nucléotides* · 2 formes : *ADN*, *ARN*"
+      - say: "Ils contiennent l'information pour la synthèse des protéines, ont la capacité d'être retranscrits ou recopiés, et sont transmis au cours des divisions cellulaires et dans la descendance."
+        mark: ["synthèse des protéines", "retranscrit"]
+        show: "Information pour la synthèse des protéines · retranscrits / recopiés · transmis (divisions, descendance)"
+
+  - kind: figure
+    title: "Le nucléotide"
+    ref: "S1-1 p.42"
+    fig: "S1-1:42b"
+    trap: "Ribose → ARN ; désoxyribose → ADN ; la base azotée est la partie variable."
+    beats:
+      - say: "Un nucléotide comprend trois parties : un sucre à cinq carbones, un groupe phosphate, et une base azotée, la partie variable."
+        mark: "sucre à 5 carbones"
+        show: "Nucléotide = sucre à *5 C* + *phosphate* + *base azotée* (variable)"
+      - say: "Le sucre est le *ribose* dans l'ARN, acide ribonucléique, et le *désoxyribose* dans l'ADN, acide désoxyribonucléique."
+        mark: ["ribose dans l", "désoxyribose"]
+        show: "*Ribose* → ARN (acide ribonucléique) · *désoxyribose* → ADN (acide désoxyribonucléique)"
+
+  - kind: figure
+    title: "Cinq bases azotées"
+    ref: "S1-1 p.43"
+    fig: "S1-1:43h"
+    trap: "ADN : A, C, G, T ; ARN : A, C, G, U."
+    beats:
+      - say: "Il existe cinq bases azotées : l'adénine A, la guanine G, la cytosine C, la thymine T, et l'uracile U."
+        focus: "all"
+        show: "5 bases : *A* · *G* · *C* · *T* · *U*"
+      - say: "D'où quatre nucléotides dans l'ADN, A, C, G ou T, avec le désoxyribose ; et quatre dans l'ARN, A, C, G ou U, avec le ribose."
+        mark: ["4 nucléotides dans l", "4 nucléotides dans l'ARN"]
+        show: "ADN : A, C, G, *T* (désoxyribose) · ARN : A, C, G, *U* (ribose)"
+
+  - kind: figure
+    title: "La liaison phosphodiester et le sens 5' → 3'"
+    ref: "S1-1 p.43"
+    fig: "S1-1:43b"
+    trap: "OH en 3' + phosphate en 5' ; la chaîne commence par un phosphate en 5' et finit par un OH en 3'."
+    beats:
+      - say: "Pour polymériser, le groupe hydroxyle O H lié au carbone *3 prime* du sucre d'un nucléotide réagit avec le groupe phosphate lié au carbone *5 prime* du nucléotide suivant : c'est la *liaison phosphodiester*."
+        mark: ["3’", "phosphodiester"]
+        show: "OH en *3'* + phosphate en *5'* du suivant = liaison *phosphodiester*"
+      - say: "La chaîne commence donc par un phosphate en position 5 prime et se termine par un hydroxyle en position 3 prime : c'est l'orientation 5 prime vers 3 prime."
+        mark: "orientation"
+        show: "Début : phosphate en *5'* · fin : OH en *3'* ⇒ orientation *5' → 3'*"
+
+  - kind: figure
+    title: "L'ADN, une double hélice"
+    ref: "S1-1 p.44"
+    fig: "S1-1:44h"
+    trap: "Brins complémentaires ET antiparallèles ; appariement STRICT ; unité = paire de bases (bp)."
+    beats:
+      - say: "L'ADN est constitué de deux chaînes, deux brins de nucléotides, *complémentaires* et *antiparallèles* : c'est le duplex d'ADN, en double hélice."
+        mark: ["anti-parallèles", "double"]
+        show: "2 brins *complémentaires* et *antiparallèles* · double hélice (duplex)"
+      - say: "Les deux brins sont appariés au niveau de leurs bases par des liaisons hydrogène, avec une règle stricte : A avec T, C avec G."
+        mark: ["liaisons hydrogène", "A s’associe avec T"]
+        show: "Appariement par *liaisons H* · règle stricte : *A–T*, *C–G*"
+      - say: "Conséquence : à un brin d'ADN ne peut correspondre qu'un seul brin complémentaire. Et l'unité de longueur de l'ADN, c'est la paire de bases, b p."
+        mark: ["un seul brin", "paire"]
+        show: "1 brin → *un seul* complémentaire · unité = *paire de bases* (bp)"
+
+  - kind: figure
+    title: "L'ARN"
+    ref: "S1-1 p.44"
+    fig: "S1-1:44b"
+    trap: "ARN simple brin, pas d'hélice ; U complémentaire de A."
+    beats:
+      - say: "L'ARN est *simple brin*, sans structure en hélice. C'est une retranscription d'une portion de séquence d'un brin d'ADN."
+        mark: ["simple-brin", "re-transcription"]
+        show: "ARN *simple brin*, pas d'hélice · retranscription d'une portion d'un brin d'ADN"
+      - say: "La transcription repose aussi sur la complémentarité des bases, sauf que U, dans l'ARN, remplace T : U est complémentaire de A."
+        mark: "U complémentaire de A"
+        show: "*U* remplace T : U complémentaire de *A*"
+
+  - kind: compare
+    title: "ADN vs ARN"
+    ref: "S1-1 p.45"
+    header: ["", "ADN", "ARN"]
+    beats:
+      - say: "Le tableau comparatif du cours."
+      - say: "Sucre : désoxyribose pour l'ADN, ribose pour l'ARN."
+        show: "Sucre | désoxyribose | ribose"
+      - say: "Brins : deux brins complémentaires, contre un simple brin."
+        show: "Brins | 2 complémentaires | simple brin"
+      - say: "Bases : A, C, G, T contre A, C, G, U."
+        show: "Bases | A, C, G, *T* | A, C, G, *U*"
+      - say: "Rôle : l'ADN stocke l'information ; l'ARN est transcrit à partir de l'ADN et sert à la synthèse d'une protéine."
+        show: "Rôle | stockage de l'information | transcrit de l'ADN, synthèse d'une protéine"
+      - say: "Stabilité : grande pour l'ADN ; l'ARN est fragile, avec un temps de vie assez court."
+        show: "Stabilité | *grande* | *fragile*, vie courte"
+      - say: "Et l'ADN peut être recopié, une molécule donnant deux molécules identiques, c'est la réplication, et il est transmis au cours des divisions et à la descendance."
+        show: "Copie | réplication (1 → 2 identiques), transmission | —"
+
+  - kind: figure
+    title: "L'ADN humain en chiffres"
+    ref: "S1-1 p.45"
+    fig: "S1-1:45b"
+    trap: "23 molécules différentes ; 48 à 250 millions de bp ; 3,2 milliards de bp ; en double."
+    beats:
+      - say: "L'ADN humain : *23* molécules différentes, les chromosomes, de *48 à 250 millions* de paires de bases chacun, soit au total *3,2 milliards* de paires de bases."
+        mark: ["23 molécules", "3,2"]
+        show: "# *23* chromosomes · *48 – 250 millions* bp chacun · total *3,2 milliards* bp"
+      - say: "Le tout en double dans la plupart des cellules : une copie de maman, une copie de papa."
+        mark: "double"
+        show: "En *double* dans la plupart des cellules (maman + papa)"
+
+  - kind: figure
+    title: "Autres fonctions des nucléotides"
+    ref: "S1-1 p.46"
+    fig: "S1-1:46h"
+    trap: "ATP = monnaie d'échange d'énergie ; NAD+ et FAD = transport d'électrons."
+    beats:
+      - say: "Les nucléotides ont d'autres fonctions. L'*adénosine triphosphate*, l'ATP : une molécule chargée d'énergie, la monnaie d'échange d'énergie de la cellule, qui alimente les réactions chimiques."
+        mark: ["ATP", "monnaie"]
+        show: "*ATP* (adénosine triphosphate) = *monnaie d'échange d'énergie*"
+      - say: "La nicotinamide adénine dinucléotide, NAD plus, et la flavine adénine dinucléotide, FAD, servent au *transport d'électrons*."
+        mark: ["NAD", "FAD", "transport d"]
+        show: "*NAD⁺* et *FAD* : *transport d'électrons*"
+
+  - kind: trap
+    title: "Les pièges ADN / ARN"
+    ref: "S1-1 p.42-45"
+    trap: "Sucre, bases, brins, stabilité : ne jamais inverser ADN et ARN."
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'ARN contient du désoxyribose” : faux, du ribose."
+        show: "✗ ARN = désoxyribose  →  ✓ ARN = *ribose*"
+      - say: "“Les deux brins d'ADN sont parallèles” : faux, antiparallèles."
+        show: "✓ Brins *antiparallèles* et complémentaires"
+      - say: "“L'ARN est très stable” : faux, il est fragile, avec un temps de vie court. C'est l'ADN qui est très stable."
+        show: "✓ ADN *stable* · ARN *fragile*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.43-45"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Dans l'ARN, U est complémentaire de A."
+      - "La chaîne de nucléotides se termine par un phosphate en 3'."
+      - "L'ADN humain compte au total 3,2 millions de paires de bases."
+      - "L'ADN est simple brin."
+    answer: [0]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse A. La chaîne finit par un hydroxyle en 3 prime, c'est 3,2 milliards de paires de bases, et l'ADN est double brin."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 10 : entrer dans la cellule"
+    ref: "S1-1 p.46-50"
+    big: "1665"
+    beats:
+      - say: "On a fini les molécules. Prochain épisode : on entre dans la cellule, avec Robert Hooke, en 1665, et un bout de liège."
+        show: "Chapitre III : la *cellule eucaryote*"
+
+recap:
+  - "Acides nucléiques : longs polymères de nucléotides ; deux formes, ADN et ARN ; contiennent l'information pour la synthèse des protéines ; capacité à être retranscrits/recopiés ; transmis au cours des divisions cellulaires et dans la descendance."
+  - "Nucléotide : sucre à 5 carbones (ribose dans l'ARN, désoxyribose dans l'ADN), groupe phosphate, base azotée (variable). ADN = acide désoxyribonucléique ; ARN = acide ribonucléique."
+  - "Cinq bases azotées (A, G, C, T, U) ⇒ 4 nucléotides dans l'ADN (A, C, G, T, avec désoxyribose) ; 4 dans l'ARN (A, C, G, U, avec ribose)."
+  - "Polymérisation : l'OH lié au carbone 3' du sucre d'un nucléotide réagit avec le phosphate lié au carbone 5' du suivant (liaison phosphodiester) ; la chaîne commence par un phosphate en 5' et se termine par un OH en 3' (orientation 5' → 3')."
+  - "ADN : deux brins complémentaires et antiparallèles (duplex), double hélice ; appariés par liaisons hydrogène au niveau des bases ; règle stricte A–T, C–G ⇒ à un brin ne peut correspondre qu'un seul brin complémentaire ; unité de longueur = paire de bases (bp)."
+  - "ARN : simple brin, pas d'hélice ; retranscription d'une portion de séquence d'un brin d'ADN ; complémentarité des bases, U remplaçant T (U complémentaire de A)."
+  - "ADN vs ARN : désoxyribose / ribose ; deux brins complémentaires / simple brin ; A, C, G, T / A, C, G, U ; stockage de l'information / transcrit à partir de l'ADN, sert à la synthèse d'une protéine ; grande stabilité / fragile, temps de vie assez court ; l'ADN peut être recopié (1 molécule → 2 identiques = réplication) et est transmis au cours des divisions et à la descendance."
+  - "ADN humain : 23 molécules différentes (chromosomes) ; 48 à 250 millions de bp par chromosome ; au total 3,2 milliards de bp ; en double dans la plupart des cellules (une copie de maman, une de papa)."
+  - "Autres fonctions : ATP (adénosine triphosphate), molécule chargée d'énergie, monnaie d'échange d'énergie de la cellule ; NAD+ (nicotinamide adénine dinucléotide) et FAD (flavine adénine dinucléotide) servent au transport d'électrons."
+
+traps:
+  - ["ARN = désoxyribose", "ARN = ribose ; ADN = désoxyribose", "p.42b"]
+  - ["T dans l'ARN", "U remplace T dans l'ARN", "p.43h, 44b"]
+  - ["Liaison entre 5' et 5'", "OH en 3' + phosphate en 5' (phosphodiester)", "p.43b"]
+  - ["Brins parallèles", "Complémentaires et antiparallèles", "p.44h"]
+  - ["A–C, G–T", "A–T, C–G (règle stricte)", "p.44h"]
+  - ["ARN stable", "ARN fragile ; ADN grande stabilité", "p.45h"]
+  - ["3,2 millions de bp", "3,2 milliards de bp", "p.45b"]
+  - ["ATP = transport d'électrons", "ATP = monnaie d'énergie ; NAD+ et FAD = transport d'électrons", "p.46h"]
+
+mnemonics:
+  - ["Appariement des bases", "« AT-CG » : A Tient, C Garde", "A–T, C–G"]
+  - ["Désoxyribose", "« dés-oxy » = il manque un oxygène : le sucre de l'ADN", "Désoxyribose (ADN) · ribose (ARN)"]
+  - ["U ou T", "U pour Une seule chaîne (ARN simple brin)", "U dans l'ARN, T dans l'ADN"]
+
+quiz:
+  - q: "À propos des nucléotides :"
+    props:
+      - ["Un nucléotide comprend un sucre à 5 carbones, un phosphate et une base azotée.", true, "p.42b."]
+      - ["Il existe cinq bases azotées différentes.", true, "A, G, C, T, U."]
+      - ["L'uracile se trouve dans l'ADN.", false, "Il se trouve dans l'ARN."]
+      - ["La liaison phosphodiester relie l'OH en 3' au phosphate en 5' du nucléotide suivant.", true, "p.43b."]
+      - ["La chaîne commence par un OH en 5'.", false, "Elle commence par un phosphate en 5' et se termine par un OH en 3'."]
+  - q: "À propos de l'ADN et de l'ARN :"
+    props:
+      - ["Les deux brins de l'ADN sont complémentaires et antiparallèles.", true, "p.44h."]
+      - ["La règle d'appariement est A avec T et C avec G.", true, "p.44h."]
+      - ["L'ARN présente une structure en double hélice.", false, "Simple brin, pas d'hélice."]
+      - ["L'ARN est fragile, avec un temps de vie assez court.", true, "p.45h."]
+      - ["L'unité de longueur de l'ADN est la paire de bases.", true, "bp."]
+  - q: "ADN humain et autres nucléotides :"
+    props:
+      - ["L'ADN humain comprend 23 molécules différentes.", true, "Les chromosomes."]
+      - ["Un chromosome humain mesure entre 48 et 250 millions de paires de bases.", true, "p.45b."]
+      - ["L'ADN humain total compte 3,2 milliards de paires de bases.", true, "p.45b."]
+      - ["L'ATP sert au transport d'électrons.", false, "Monnaie d'échange d'énergie ; NAD+ et FAD transportent les électrons."]
+      - ["Le FAD est la flavine adénine dinucléotide.", true, "p.46h."]
+
+coverage:
+  - ["S1-1", "42h", "Acides nucléiques : polymères, ADN/ARN, information, transmission", 2]
+  - ["S1-1", "42b", "Structure du nucléotide ; ribose/désoxyribose", 3]
+  - ["S1-1", "43h", "5 bases azotées ; 4 nucléotides ADN et ARN", 4]
+  - ["S1-1", "43b", "Liaison phosphodiester ; orientation 5' → 3'", 5]
+  - ["S1-1", "44h", "ADN : double hélice, complémentaires, antiparallèles, A–T/C–G, bp", 6]
+  - ["S1-1", "44b", "ARN : simple brin, retranscription, U complémentaire de A", 7]
+  - ["S1-1", "45h", "Tableau comparatif ADN / ARN", 8]
+  - ["S1-1", "45b", "ADN humain : 23 molécules, 48-250 Mbp, 3,2 milliards de bp, en double", 9]
+  - ["S1-1", "46h", "ATP, NAD+, FAD", 10]

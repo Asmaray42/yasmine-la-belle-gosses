@@ -1,0 +1,216 @@
+title: "Les protéines (1) : fonctions et acides aminés"
+subtitle: "7 fonctions · 20 acides aminés · 9 essentiels · liaison peptidique"
+source: "S1-1 p.33 à 36h"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 4. Les macromolécules — 6. Les protéines"
+objectives:
+  - "Citer les 7 fonctions des protéines avec leurs exemples."
+  - "Décrire la structure d'un acide aminé et son état à pH 7."
+  - "Connaître les 20 acides aminés (codes) et les 9 essentiels « FLIKhMWTV »."
+  - "Expliquer la liaison peptidique, le polypeptide, les extrémités N- et C-terminales."
+
+scenes:
+  - kind: hook
+    title: "30 000 protéines, 20 lettres"
+    ref: "S1-1 p.33"
+    big: "20"
+    beats:
+      - say: "Environ trente mille protéines différentes chez l'homme, toutes écrites avec seulement vingt lettres : les acides aminés."
+      - say: "Au programme : les sept fonctions des protéines, les acides aminés, les essentiels, et la liaison peptidique."
+        show: "*7* fonctions · *20* acides aminés · *9* essentiels"
+
+  - kind: figure
+    title: "Sept fonctions des protéines"
+    ref: "S1-1 p.33"
+    fig: "S1-1:33h"
+    trap: "7 fonctions ; exemples : hémoglobine (transport d'O2), calcium et fer fixés (stockage)."
+    beats:
+      - say: "Sixième point des macromolécules : les protéines. Grande diversité chimique, environ trente mille protéines différentes chez l'homme, et une grande variété de fonctions."
+        mark: "30,000"
+        show: "# ± *30 000* protéines différentes chez l'homme"
+      - say: "Un, la *catalyse enzymatique* : faciliter des réactions chimiques. Deux, la *défense* : reconnaître des microorganismes étrangers, c'est le système immunitaire."
+        mark: ["catalyse enzymatique", "défense"]
+        show: "1. *Catalyse* enzymatique · 2. *Défense* (système immunitaire)"
+      - say: "Trois, le *transport* de petites molécules : l'hémoglobine transporte l'O2 dans le sang. Quatre, le *soutien* : des protéines fibreuses, dans la peau, les ligaments, les os."
+        mark: ["transport", "soutien"]
+        show: "3. *Transport* (hémoglobine → O₂) · 4. *Soutien* (peau, ligaments, os)"
+      - say: "Cinq, le *mouvement* : intracellulaire, ou contractions musculaires. Six, la *régulation* : récepteurs de surface ou intracellulaires, messagers intercellulaires. Sept, le *stockage* : calcium et fer fixés sur des protéines."
+        mark: ["mouvement", "régulation", "stockage"]
+        show: "5. *Mouvement* · 6. *Régulation* (récepteurs, messagers) · 7. *Stockage* (Ca, Fe)"
+
+  - kind: mnemo
+    title: "Sept fonctions en une phrase"
+    ref: "S1-1 p.33"
+    phrase: "*Ca*thy *D*éfend *T*on *S*ac, *M*ais *R*este *S*age"
+    trap: "Catalyse · Défense · Transport · Soutien · Mouvement · Régulation · Stockage."
+    beats:
+      - say: "Dans l'ordre du cours : “Cathy Défend Ton Sac, Mais Reste Sage.”"
+      - say: "Catalyse, défense, transport, soutien, mouvement, régulation, stockage."
+        show: "*Ca*talyse · *D*éfense · *T*ransport · *S*outien · *M*ouvement · *R*égulation · *S*tockage"
+
+  - kind: figure
+    title: "L'acide aminé, brique des protéines"
+    ref: "S1-1 p.33"
+    fig: "S1-1:33b"
+    trap: "À pH 7 : amine → NH3+, carboxyle → COO– ; R = 20 types."
+    beats:
+      - say: "Les protéines sont des polymères d'acides aminés. Il en existe *vingt* différents, et chaque protéine est caractérisée par une séquence spécifique d'acides aminés."
+        mark: ["20 acides aminés", "séquence spécifique"]
+        show: "*20* acides aminés · chaque protéine = séquence *spécifique*"
+      - say: "Chaque acide aminé porte une *amine*, qui à pH 7 devient N H 3 plus, et un *carboxyle*, acide, qui à pH 7 devient C O O moins."
+        mark: ["amine", "carboxyle"]
+        show: "Amine → *NH₃⁺* à pH 7 · carboxyle → *COO⁻* à pH 7"
+      - say: "Et un groupement *R*, le groupement fonctionnel, de vingt types différents, qui donne à chaque acide aminé sa propriété chimique spécifique."
+        mark: "R = groupement fonctionnel"
+        show: "*R* = groupement fonctionnel : 20 types → propriété chimique *spécifique*"
+
+  - kind: figure
+    title: "Les vingt acides aminés"
+    ref: "S1-1 p.34"
+    fig: "S1-1:34b"
+    trap: "9 essentiels « FLIKhMWTV » ; h = histidine, uniquement chez le nourrisson."
+    beats:
+      - say: "Les acides aminés se classent en apolaires, polaires et chargés. Le cours donne la liste des vingt, avec le code à une lettre, à trois lettres, et le nom."
+        focus: "all"
+      - say: "Parmi eux, neuf sont *essentiels* chez l'homme : ils ne sont pas synthétisés par l'organisme, ils doivent être fournis par l'alimentation."
+        mark: "essentiels"
+        show: "*Essentiels* = non synthétisés par l'organisme → fournis par l'*alimentation*"
+      - say: "Le cours les résume en un mot : F L I K h M W T V. Phénylalanine, leucine, isoleucine, lysine, histidine, méthionine, tryptophane, thréonine, valine."
+        mark: "FLIKhMWTV"
+        show: "« *FLIKhMWTV* » : Phe · Leu · Ile · Lys · *his* · Met · Trp · Thr · Val"
+      - say: "Le h est en minuscule : l'histidine est essentielle *uniquement chez le nourrisson*."
+        mark: "nourisson"
+        show: "! h minuscule : histidine essentielle *uniquement chez le nourrisson*"
+
+  - kind: mnemo
+    title: "FLIKhMWTV, prononcé à voix haute"
+    ref: "S1-1 p.34"
+    phrase: "*F*ilm *L*ibre : *I*l *K*iffe (*h*) *M*ais *W*alter *T*ourne *V*ite"
+    trap: "Les codes à une lettre : F Phe, L Leu, I Ile, K Lys, H His, M Met, W Trp, T Thr, V Val."
+    beats:
+      - say: "Pour retenir F L I K h M W T V : “Film Libre : Il Kiffe, hein, Mais Walter Tourne Vite.” Le “hein” minuscule, c'est l'histidine du nourrisson."
+      - say: "Et les codes pièges : K, c'est la lysine ; W, le tryptophane ; F, la phénylalanine."
+        show: "! *K* = lysine · *W* = tryptophane · *F* = phénylalanine"
+
+  - kind: figure
+    title: "La liaison peptidique"
+    ref: "S1-1 p.35"
+    fig: "S1-1:35h"
+    trap: "Liaison peptidique = réaction de DÉSHYDRATATION ; protéine = 1 ou plusieurs polypeptides."
+    beats:
+      - say: "Les acides aminés s'associent par des *liaisons peptidiques* pour former un *polypeptide*. La formation d'une liaison peptidique est une réaction de *déshydratation*."
+        mark: ["liaisons peptidiques", "déshydratation"]
+        show: "Liaisons *peptidiques* → *polypeptide* · réaction de *déshydratation*"
+      - say: "Une protéine, c'est un seul polypeptide, ou une association de plusieurs polypeptides."
+        mark: "une protéine"
+        show: "Protéine = 1 polypeptide *ou* association de plusieurs"
+
+  - kind: figure
+    title: "Chaîne principale et extrémités"
+    ref: "S1-1 p.35"
+    fig: "S1-1:35b"
+    trap: "Amino-terminale = NH3+ ; carboxy-terminale = COO–."
+    beats:
+      - say: "Dans un polypeptide, la *chaîne principale* est constante, et les *groupes R*, ou chaînes latérales, sont variables."
+        mark: ["chaîne principale", "variables"]
+        show: "Chaîne principale *constante* · groupes R (chaînes latérales) *variables*"
+      - say: "À ses extrémités, tout polypeptide a une extrémité *amino-terminale*, N H 3 plus, d'un côté, et une extrémité *carboxy-terminale*, C O O moins, de l'autre."
+        mark: ["amino-terminale", "carboxy-terminale"]
+        show: "Extrémité *amino-terminale* (NH₃⁺) · extrémité *carboxy-terminale* (COO⁻)"
+
+  - kind: figure
+    title: "Une diversité énorme"
+    ref: "S1-1 p.36"
+    fig: "S1-1:36h"
+    trap: "Longueur moyenne : 485 acides aminés ; ± 30 000 polypeptides différents."
+    beats:
+      - say: "La longueur moyenne des polypeptides chez l'homme : *485* acides aminés. Avec vingt lettres possibles à chaque position, la diversité des séquences est énorme : environ trente mille polypeptides différents chez l'homme."
+        mark: ["485", "30,000"]
+        show: "# Longueur moyenne : *485* acides aminés · ± *30 000* polypeptides"
+
+  - kind: trap
+    title: "Les pièges des protéines"
+    ref: "S1-1 p.33-36"
+    trap: "pH 7 ; déshydratation ; histidine ; N-term NH3+ / C-term COO–."
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'histidine est essentielle chez l'adulte selon le cours” : faux, uniquement chez le nourrisson."
+        show: "✓ Histidine (h) : essentielle *uniquement chez le nourrisson*"
+      - say: "“La liaison peptidique se forme par hydrolyse” : faux, par déshydratation."
+        show: "✗ hydrolyse  →  ✓ liaison peptidique = *déshydratation*"
+      - say: "“L'extrémité amino-terminale porte C O O moins” : faux, elle porte N H 3 plus."
+        show: "✓ N-terminale = *NH₃⁺* · C-terminale = *COO⁻*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.33-36"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Il existe 30 acides aminés différents."
+      - "La longueur moyenne des polypeptides humains est de 485 acides aminés."
+      - "À pH 7, le groupe amine est sous forme NH₂."
+      - "La valine n'est pas un acide aminé essentiel."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B : 485. Il y a vingt acides aminés, l'amine devient N H 3 plus à pH 7, et la valine, le V de F L I K h M W T V, est essentielle."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 8 : le repliement des protéines"
+    ref: "S1-1 p.36-41"
+    big: "4"
+    beats:
+      - say: "Prochain épisode : comment cette chaîne se replie, en quatre niveaux de structure, et pourquoi la cuisson dénature les protéines."
+        show: "*4* niveaux de structure · dénaturation"
+
+recap:
+  - "Protéines : grande diversité chimique (± 30 000 protéines différentes chez l'homme) ; fonctions : catalyse enzymatique ; défense (système immunitaire) ; transport (ex. hémoglobine/O2) ; soutien (protéines fibreuses : peau, ligaments, os) ; mouvement (intracellulaire, contractions musculaires) ; régulation (récepteurs de surface, intracellulaires, messagers intercellulaires) ; stockage (calcium et fer fixés sur des protéines)."
+  - "Polymères d'acides aminés ; 20 acides aminés différents ; chaque protéine est caractérisée par une séquence spécifique d'acides aminés. Acide aminé : amine (à pH 7 → NH3+), carboxyle acide (à pH 7 → COO–), groupement R (20 types → propriété chimique spécifique). Classes : apolaire, polaire, chargé."
+  - "Les 20 acides aminés (code 1 lettre / 3 lettres / nom) ; essentiels chez l'homme (non synthétisés, fournis par l'alimentation) : « FLIKhMWTV » = phénylalanine, leucine, isoleucine, lysine, histidine (uniquement chez le nourrisson), méthionine, tryptophane, thréonine, valine."
+  - "Liaisons peptidiques (réaction de déshydratation) → polypeptide ; protéine = un seul polypeptide ou association de plusieurs. Chaîne principale constante, groupes R (chaînes latérales) variables ; extrémité amino-terminale (NH3+) et carboxy-terminale (COO–)."
+  - "Longueur moyenne des polypeptides chez l'homme : 485 acides aminés ; énorme diversité de séquences ; ± 30 000 polypeptides différents."
+
+traps:
+  - ["Oublier une des 7 fonctions", "Catalyse, défense, transport, soutien, mouvement, régulation, stockage", "p.33h"]
+  - ["Amine sous forme NH2 à pH 7", "NH3+ ; carboxyle sous forme COO–", "p.33b"]
+  - ["Histidine essentielle chez l'adulte", "Uniquement chez le nourrisson (h minuscule)", "p.34b"]
+  - ["Liaison peptidique par hydrolyse", "Par déshydratation", "p.35h"]
+  - ["N-terminal = COO–", "N-terminal = NH3+ ; C-terminal = COO–", "p.35b"]
+  - ["Longueur moyenne 1000 aa", "485 acides aminés", "p.36h"]
+
+mnemonics:
+  - ["Les 7 fonctions", "« Cathy Défend Ton Sac, Mais Reste Sage »", "Catalyse · Défense · Transport · Soutien · Mouvement · Régulation · Stockage"]
+  - ["Les 9 essentiels", "« Film Libre : Il Kiffe (hein) Mais Walter Tourne Vite »", "F Phe · L Leu · I Ile · K Lys · h His (nourrisson) · M Met · W Trp · T Thr · V Val"]
+
+quiz:
+  - q: "À propos des fonctions des protéines :"
+    props:
+      - ["L'hémoglobine est un exemple de protéine de transport.", true, "Elle transporte l'O2 dans le sang."]
+      - ["Le stockage du calcium et du fer fait partie des fonctions des protéines.", true, "p.33h."]
+      - ["Les protéines n'ont pas de rôle de régulation.", false, "Récepteurs, messagers intercellulaires."]
+      - ["La défense correspond à la reconnaissance de microorganismes étrangers.", true, "Système immunitaire."]
+      - ["On compte environ 3 000 protéines différentes chez l'homme.", false, "± 30 000."]
+  - q: "À propos des acides aminés :"
+    props:
+      - ["Il existe 20 acides aminés différents.", true, "p.33b."]
+      - ["À pH 7, le carboxyle est sous forme COO–.", true, "p.33b."]
+      - ["Le tryptophane est essentiel.", true, "W de FLIKhMWTV."]
+      - ["Les acides aminés essentiels sont synthétisés par l'organisme.", false, "Non synthétisés, fournis par l'alimentation."]
+      - ["L'histidine est essentielle uniquement chez le nourrisson.", true, "h minuscule."]
+  - q: "À propos des polypeptides :"
+    props:
+      - ["La liaison peptidique se forme par une réaction de déshydratation.", true, "p.35h."]
+      - ["Une protéine peut être formée de plusieurs polypeptides.", true, "p.35h."]
+      - ["Les groupes R forment la chaîne principale constante.", false, "La chaîne principale est constante ; les groupes R sont variables."]
+      - ["L'extrémité carboxy-terminale porte COO–.", true, "p.35b."]
+      - ["La longueur moyenne des polypeptides humains est de 485 acides aminés.", true, "p.36h."]
+
+coverage:
+  - ["S1-1", "33h", "Protéines : diversité (± 30 000), 7 fonctions", 2]
+  - ["S1-1", "33b", "Polymères d'acides aminés, 20 aa, structure (amine, carboxyle, R), pH 7", 4]
+  - ["S1-1", "34h", "Exemples d'acides aminés apolaires, polaires, chargés", 5]
+  - ["S1-1", "34b", "Tableau des 20 acides aminés ; essentiels FLIKhMWTV ; histidine nourrisson", 5]
+  - ["S1-1", "35h", "Liaison peptidique (déshydratation), polypeptide, protéine", 7]
+  - ["S1-1", "35b", "Chaîne principale, groupes R, extrémités amino- et carboxy-terminales", 8]
+  - ["S1-1", "36h", "Longueur moyenne 485 aa ; diversité ; ± 30 000 polypeptides", 9]

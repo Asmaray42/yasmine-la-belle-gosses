@@ -1,0 +1,779 @@
+1
+00:00:00,300 --> 00:00:01,168
+Quatre atomes.
+
+2
+00:00:01,308 --> 00:00:04,115
+Rien que quatre atomes font 96,3
+
+3
+00:00:04,115 --> 00:00:05,612
+% du poids de ton corps.
+
+4
+00:00:06,012 --> 00:00:06,991
+Dans cet épisode :
+
+5
+00:00:06,991 --> 00:00:08,134
+les atomes du vivant,
+
+6
+00:00:08,134 --> 00:00:09,874
+les trois liaisons entre atomes,
+
+7
+00:00:09,874 --> 00:00:11,615
+deux réactions qui se répondent,
+
+8
+00:00:11,615 --> 00:00:13,356
+et ce qui accélère une réaction.
+
+9
+00:00:13,916 --> 00:00:15,364
+Chapitre deux : les composés du
+
+10
+00:00:15,364 --> 00:00:16,531
+vivant, en quatre points.
+
+11
+00:00:16,931 --> 00:00:18,106
+Un, les atomes du vivant.
+
+12
+00:00:18,506 --> 00:00:19,162
+Deux, l'eau.
+
+13
+00:00:19,562 --> 00:00:20,904
+Trois, la chimie du carbone.
+
+14
+00:00:21,304 --> 00:00:22,593
+Quatre, les macromolécules.
+
+15
+00:00:22,733 --> 00:00:24,118
+Aujourd'hui, on fait le point un.
+
+16
+00:00:24,678 --> 00:00:25,855
+Le cours part du tableau
+
+17
+00:00:25,855 --> 00:00:27,081
+périodique : les éléments
+
+18
+00:00:27,081 --> 00:00:28,552
+présents dans le vivant y sont
+
+19
+00:00:28,552 --> 00:00:29,287
+mis en couleur.
+
+20
+00:00:29,687 --> 00:00:31,785
+Et la légende en donne la liste :
+
+21
+00:00:31,785 --> 00:00:33,566
+carbone, oxygène, hydrogène,
+
+22
+00:00:33,566 --> 00:00:34,965
+azote, sodium, chlore,
+
+23
+00:00:34,965 --> 00:00:36,173
+calcium, phosphore,
+
+24
+00:00:36,173 --> 00:00:37,317
+potassium, soufre,
+
+25
+00:00:37,317 --> 00:00:38,398
+fer et magnésium.
+
+26
+00:00:38,958 --> 00:00:40,432
+Chez l'homme, en pourcentage du
+
+27
+00:00:40,432 --> 00:00:41,003
+poids total.
+
+28
+00:00:41,143 --> 00:00:43,872
+L'oxygène : 65,0 %.
+
+29
+00:00:44,012 --> 00:00:45,847
+Le carbone : 18,5 .
+
+30
+00:00:45,987 --> 00:00:47,636
+L'hydrogène : 9,5 .
+
+31
+00:00:47,776 --> 00:00:49,183
+L'azote : 3,3 .
+
+32
+00:00:49,323 --> 00:00:51,767
+À eux quatre : 96,3 %.
+
+33
+00:00:52,167 --> 00:00:53,239
+Ensuite : calcium,
+
+34
+00:00:53,239 --> 00:00:55,979
+1,5 ; phosphore, 1,0 ;
+
+35
+00:00:55,979 --> 00:00:59,553
+potassium, 0,4 ; soufre, 0,3.
+
+36
+00:00:59,953 --> 00:01:01,957
+Sodium, 0,2 ; chlore,
+
+37
+00:01:01,957 --> 00:01:04,705
+0,2 ; magnésium, 0,1 ;
+
+38
+00:01:04,705 --> 00:01:07,338
+et le fer, moins de 0,1 %.
+
+39
+00:01:07,738 --> 00:01:09,033
+Enfin, le zinc et l'iode :
+
+40
+00:01:09,033 --> 00:01:10,028
+à l'état de traces .
+
+41
+00:01:10,588 --> 00:01:12,008
+L'ordre des quatre premiers :
+
+42
+00:01:12,008 --> 00:01:12,204
+“Oh !
+
+43
+00:01:12,344 --> 00:01:13,492
+Chaque Humain Nage.” O,
+
+44
+00:01:13,492 --> 00:01:15,422
+C, H, N, du plus lourd au plus léger.
+
+45
+00:01:15,822 --> 00:01:16,711
+Pour les chiffres,
+
+46
+00:01:16,711 --> 00:01:17,798
+une astuce de calcul :
+
+47
+00:01:17,798 --> 00:01:21,502
+18,5 plus 9,5, ça fait 28 tout rond.
+
+48
+00:01:21,642 --> 00:01:23,946
+65 plus 28, 93.
+
+49
+00:01:24,086 --> 00:01:26,761
+Plus 3,3 : 96,3.
+
+50
+00:01:26,901 --> 00:01:28,494
+Si ton total ne tombe pas juste,
+
+51
+00:01:28,494 --> 00:01:29,489
+un chiffre est faux.
+
+52
+00:01:29,889 --> 00:01:32,035
+Puis le duo calcium 1,5,
+
+53
+00:01:32,035 --> 00:01:34,419
+phosphore 1,0, et une petite
+
+54
+00:01:34,419 --> 00:01:36,028
+famille sous 1 % :
+
+55
+00:01:36,028 --> 00:01:37,101
+potassium, soufre,
+
+56
+00:01:37,101 --> 00:01:39,068
+sodium, chlore, magnésium et fer.
+
+57
+00:01:39,628 --> 00:01:41,201
+L'iode n'est présent qu'à l'état
+
+58
+00:01:41,201 --> 00:01:42,822
+de traces, et pourtant sa carence
+
+59
+00:01:42,822 --> 00:01:44,149
+a des conséquences lourdes.
+
+60
+00:01:44,549 --> 00:01:45,858
+Le cours en cite trois :
+
+61
+00:01:45,858 --> 00:01:47,384
+le crétinisme , le retard de
+
+62
+00:01:47,384 --> 00:01:48,966
+croissance et des déficiences
+
+63
+00:01:48,966 --> 00:01:49,511
+mentales .
+
+64
+00:01:49,911 --> 00:01:51,617
+C'était fréquent dans les Alpes
+
+65
+00:01:51,617 --> 00:01:53,103
+jusqu'au début du vingtième
+
+66
+00:01:53,103 --> 00:01:54,864
+siècle, à cause de l'utilisation
+
+67
+00:01:54,864 --> 00:01:56,571
+de sel de gemme pauvre en iode.
+
+68
+00:01:56,971 --> 00:01:58,393
+Le mécanisme : un manque d'
+
+69
+00:01:58,393 --> 00:01:59,658
+hormones thyroïdiennes ,
+
+70
+00:01:59,658 --> 00:02:01,080
+qui nécessitent la présence
+
+71
+00:02:01,080 --> 00:02:01,923
+d'atomes d'iode.
+
+72
+00:02:02,483 --> 00:02:04,040
+À toi : quels quatre atomes font
+
+73
+00:02:04,040 --> 00:02:07,347
+ensemble 96,3 % du poids total ?
+
+74
+00:02:11,747 --> 00:02:12,896
+Réponse A : oxygène,
+
+75
+00:02:12,896 --> 00:02:14,388
+carbone, hydrogène, azote.
+
+76
+00:02:14,528 --> 00:02:14,995
+Oh !
+
+77
+00:02:15,135 --> 00:02:16,111
+Chaque Humain Nage.
+
+78
+00:02:16,671 --> 00:02:17,970
+Comment les atomes tiennent-ils
+
+79
+00:02:17,970 --> 00:02:18,388
+ensemble ?
+
+80
+00:02:18,528 --> 00:02:20,239
+Le cours donne quelques exemples
+
+81
+00:02:20,239 --> 00:02:21,736
+de liaisons, avec la base de
+
+82
+00:02:21,736 --> 00:02:23,233
+l'interaction et leur force.
+
+83
+00:02:23,633 --> 00:02:24,782
+La liaison covalente :
+
+84
+00:02:24,782 --> 00:02:26,505
+un partage de paires d'électrons.
+
+85
+00:02:26,645 --> 00:02:27,598
+Force : trois plus.
+
+86
+00:02:27,998 --> 00:02:28,961
+La liaison ionique :
+
+87
+00:02:28,961 --> 00:02:30,164
+une attraction de charges
+
+88
+00:02:30,164 --> 00:02:30,597
+opposées.
+
+89
+00:02:30,737 --> 00:02:31,402
+Deux plus.
+
+90
+00:02:31,802 --> 00:02:33,037
+La liaison hydrogène :
+
+91
+00:02:33,037 --> 00:02:34,778
+un partage d'atome d'hydrogène.
+
+92
+00:02:34,918 --> 00:02:36,259
+Un seul plus : c'est la plus
+
+93
+00:02:36,259 --> 00:02:37,074
+faible des trois.
+
+94
+00:02:37,634 --> 00:02:39,330
+Trois images, de la plus forte à
+
+95
+00:02:39,330 --> 00:02:40,125
+la plus faible.
+
+96
+00:02:40,525 --> 00:02:42,156
+La covalente, c'est un couple qui
+
+97
+00:02:42,156 --> 00:02:43,391
+partage tout : des paires
+
+98
+00:02:43,391 --> 00:02:43,983
+d'électrons.
+
+99
+00:02:44,123 --> 00:02:45,273
+Très solide, trois plus.
+
+100
+00:02:45,673 --> 00:02:47,059
+L'ionique, ce sont deux aimants
+
+101
+00:02:47,059 --> 00:02:48,088
+de charges opposées qui
+
+102
+00:02:48,088 --> 00:02:48,580
+s'attirent.
+
+103
+00:02:48,720 --> 00:02:49,385
+Deux plus.
+
+104
+00:02:49,785 --> 00:02:51,353
+L'hydrogène, c'est une simple
+
+105
+00:02:51,353 --> 00:02:53,030
+poignée de main : on partage un
+
+106
+00:02:53,030 --> 00:02:54,003
+atome d'hydrogène,
+
+107
+00:02:54,003 --> 00:02:55,085
+et on se lâche vite.
+
+108
+00:02:55,225 --> 00:02:55,768
+Un plus.
+
+109
+00:02:56,328 --> 00:02:57,588
+Deux pièges sur les liaisons.
+
+110
+00:02:57,988 --> 00:02:59,413
+“La liaison hydrogène est plus
+
+111
+00:02:59,413 --> 00:03:01,181
+forte que la liaison ionique” : faux.
+
+112
+00:03:01,321 --> 00:03:02,635
+Covalente, puis ionique,
+
+113
+00:03:02,635 --> 00:03:03,457
+puis hydrogène.
+
+114
+00:03:03,857 --> 00:03:05,422
+“La liaison covalente repose sur
+
+115
+00:03:05,422 --> 00:03:07,038
+l'attraction de charges opposées”
+
+116
+00:03:07,038 --> 00:03:08,452
+: faux, ça, c'est l'ionique.
+
+117
+00:03:08,592 --> 00:03:10,326
+La covalente, c'est le partage de
+
+118
+00:03:10,326 --> 00:03:11,324
+paires d'électrons.
+
+119
+00:03:11,884 --> 00:03:13,485
+Une réaction chimique transforme
+
+120
+00:03:13,485 --> 00:03:14,786
+des réactifs en produits .
+
+121
+00:03:14,926 --> 00:03:16,013
+Le cours en donne deux,
+
+122
+00:03:16,013 --> 00:03:17,288
+qui sont le miroir l'une de
+
+123
+00:03:17,288 --> 00:03:17,666
+l'autre.
+
+124
+00:03:18,066 --> 00:03:19,151
+La photosynthèse :
+
+125
+00:03:19,151 --> 00:03:21,440
+six H2O plus six CO2 donnent
+
+126
+00:03:21,440 --> 00:03:23,367
+C6H12O6, le glucose,
+
+127
+00:03:23,367 --> 00:03:24,331
+plus six O2.
+
+128
+00:03:24,471 --> 00:03:25,751
+Avec un apport de lumière .
+
+129
+00:03:26,151 --> 00:03:27,619
+La respiration cellulaire :
+
+130
+00:03:27,619 --> 00:03:30,174
+C6H12O6 plus six O2 donnent six
+
+131
+00:03:30,174 --> 00:03:31,642
+H2O plus six CO2.
+
+132
+00:03:31,782 --> 00:03:33,277
+Et cette fois, la réaction libère
+
+133
+00:03:33,277 --> 00:03:33,956
+de l' énergie .
+
+134
+00:03:34,516 --> 00:03:35,826
+Comparons-les ligne par ligne.
+
+135
+00:03:36,226 --> 00:03:38,315
+Les réactifs : eau et CO2 pour la
+
+136
+00:03:38,315 --> 00:03:40,129
+photosynthèse ; glucose et O2
+
+137
+00:03:40,129 --> 00:03:41,228
+pour la respiration.
+
+138
+00:03:41,628 --> 00:03:43,412
+Les produits : glucose et O2 d'un
+
+139
+00:03:43,412 --> 00:03:45,050
+côté ; eau et CO2 de l'autre.
+
+140
+00:03:45,450 --> 00:03:46,438
+Et sur le schéma :
+
+141
+00:03:46,438 --> 00:03:48,248
+la lumière pour la photosynthèse,
+
+142
+00:03:48,248 --> 00:03:49,620
+l'énergie libérée pour la
+
+143
+00:03:49,620 --> 00:03:50,882
+respiration cellulaire.
+
+144
+00:03:51,442 --> 00:03:53,061
+Dernier point : la vitesse d'une
+
+145
+00:03:53,061 --> 00:03:54,680
+réaction chimique est influencée
+
+146
+00:03:54,680 --> 00:03:55,641
+par trois facteurs.
+
+147
+00:03:56,041 --> 00:03:57,223
+Un, la température .
+
+148
+00:03:57,623 --> 00:03:58,871
+Deux, la concentration des
+
+149
+00:03:58,871 --> 00:04:00,071
+réactifs et des produits.
+
+150
+00:04:00,471 --> 00:04:02,063
+Trois, la présence de catalyseurs
+
+151
+00:04:02,063 --> 00:04:02,787
+: les enzymes .
+
+152
+00:04:03,347 --> 00:04:04,707
+Imagine que tu cuisines.
+
+153
+00:04:04,847 --> 00:04:05,766
+Pour aller plus vite,
+
+154
+00:04:05,766 --> 00:04:06,640
+tu as trois options.
+
+155
+00:04:07,040 --> 00:04:07,998
+Tu montes le feu :
+
+156
+00:04:07,998 --> 00:04:08,797
+la température.
+
+157
+00:04:09,197 --> 00:04:10,697
+Tu mets plus d'ingrédients dans
+
+158
+00:04:10,697 --> 00:04:12,246
+la casserole : la concentration,
+
+159
+00:04:12,246 --> 00:04:13,650
+des réactifs et des produits.
+
+160
+00:04:14,050 --> 00:04:15,433
+Ou tu appelles un chef qui
+
+161
+00:04:15,433 --> 00:04:17,134
+accélère tout sans être consommé
+
+162
+00:04:17,134 --> 00:04:18,677
+: le catalyseur, c'est-à-dire
+
+163
+00:04:18,677 --> 00:04:19,155
+l'enzyme.
+
+164
+00:04:19,715 --> 00:04:21,172
+Dernier quiz : laquelle est
+
+165
+00:04:21,172 --> 00:04:21,603
+exacte ?
+
+166
+00:04:26,003 --> 00:04:26,818
+Réponse B.
+
+167
+00:04:26,958 --> 00:04:28,782
+La liaison hydrogène est la plus
+
+168
+00:04:28,782 --> 00:04:30,663
+faible, la respiration cellulaire
+
+169
+00:04:30,663 --> 00:04:31,803
+consomme le glucose,
+
+170
+00:04:31,803 --> 00:04:33,513
+et la température est l'un des
+
+171
+00:04:33,513 --> 00:04:34,995
+trois facteurs de vitesse.
+
+172
+00:04:35,555 --> 00:04:36,567
+On récapitule.
+
+173
+00:04:36,967 --> 00:04:39,697
+O, C, H, N : 65, 18,5,
+
+174
+00:04:39,697 --> 00:04:45,267
+9,5 et 3,3 %, soit 96,3 % du
+
+175
+00:04:45,267 --> 00:04:46,796
+poids total ; zinc et iode à
+
+176
+00:04:46,796 --> 00:04:47,724
+l'état de traces.
+
+177
+00:04:48,124 --> 00:04:49,759
+Carence en iode : crétinisme,
+
+178
+00:04:49,759 --> 00:04:50,942
+retard de croissance,
+
+179
+00:04:50,942 --> 00:04:52,126
+déficiences mentales,
+
+180
+00:04:52,126 --> 00:04:53,309
+par manque d'hormones
+
+181
+00:04:53,309 --> 00:04:54,098
+thyroïdiennes.
+
+182
+00:04:54,498 --> 00:04:55,477
+Liaisons : covalente,
+
+183
+00:04:55,477 --> 00:04:56,455
+trois plus ; ionique,
+
+184
+00:04:56,455 --> 00:04:57,480
+deux plus ; hydrogène,
+
+185
+00:04:57,480 --> 00:04:57,853
+un plus.
+
+186
+00:04:58,253 --> 00:04:59,894
+Photosynthèse et respiration
+
+187
+00:04:59,894 --> 00:05:01,417
+cellulaire, deux équations
+
+188
+00:05:01,417 --> 00:05:03,233
+inverses ; et trois facteurs de
+
+189
+00:05:03,233 --> 00:05:04,522
+vitesse : température,
+
+190
+00:05:04,522 --> 00:05:06,103
+concentration, catalyseurs.
+
+191
+00:05:06,663 --> 00:05:07,569
+Prochain épisode :
+
+192
+00:05:07,569 --> 00:05:08,977
+l'eau, qui fait environ deux
+
+193
+00:05:08,977 --> 00:05:10,636
+tiers de la masse des organismes.
+
+194
+00:05:10,776 --> 00:05:12,441
+Et tu vas comprendre pourquoi une
+
+195
+00:05:12,441 --> 00:05:13,651
+acidose est une urgence.

@@ -1,0 +1,282 @@
+title: "Les glucides : sucres, réserves et structures"
+subtitle: "Mono-, di-, polysaccharides · sucrase et lactase · α vs β"
+source: "S1-1 p.22b à 26"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 4. Les macromolécules — 4. Les glucides"
+objectives:
+  - "Définir les glucides et leurs trois formes."
+  - "Décrire le glucose et ses isomères (fructose, galactose), les sucres à 3 et 5 carbones."
+  - "Connaître les disaccharides, leur composition et leur digestion (sucrase, lactase)."
+  - "Décrire les polysaccharides : amidon, glycogène (α-glucose) et cellulose (β-glucose)."
+
+scenes:
+  - kind: hook
+    title: "Une lettre grecque sépare la patate du céleri"
+    ref: "S1-1 p.26"
+    big: "α / β"
+    beats:
+      - say: "L'amidon de ta patate et la cellulose du céleri sont faits du même sucre : le glucose. La différence tient en une lettre : alpha ou bêta."
+      - say: "Au programme : les glucides, du monosaccharide au polysaccharide, et deux enzymes qui expliquent les intolérances."
+        show: "Mono · di · *polysaccharides* · sucrase · lactase"
+
+  - kind: figure
+    title: "Les glucides : définition"
+    ref: "S1-1 p.22"
+    fig: "S1-1:22b"
+    trap: "Une fonction carbonyle, PLUSIEURS fonctions hydroxyle ; très solubles ; 3 formes."
+    beats:
+      - say: "Glucides, sucres, hydrates de carbone : trois noms pour la même famille."
+        mark: "hydrates de carbone"
+        show: "Glucides = sucres = *hydrates de carbone*"
+      - say: "Ils portent *une* fonction carbonyle et *plusieurs* fonctions hydroxyle. Ils sont très solubles dans l'eau, et ce sont des sources d'énergie, grâce à leurs nombreuses liaisons C H."
+        mark: ["une fonction carbonyle", "très solubles"]
+        show: "*1* carbonyle + *plusieurs* hydroxyles · très solubles · sources d'énergie (liaisons C–H)"
+      - say: "Ils existent sous trois formes : monosaccharides, disaccharides, polysaccharides."
+        mark: "monosaccharides"
+        show: "Monosaccharides · disaccharides · polysaccharides"
+      - say: "Exemple de monosaccharide : le glucose, C6H12O6. Il forme un cycle, c'est un réservoir d'énergie avec sept liaisons C H, et il existe en deux stéréoisomères : l'alpha-glucose et le bêta-glucose."
+        focus: [0.1, 0.38, 1.0, 0.95]
+        mark: ["7 liaisons", "stéréo"]
+        show: "Glucose C₆H₁₂O₆ : cycle · *7 liaisons C–H* · stéréoisomères *α* et *β*"
+
+  - kind: figure
+    title: "Les isomères du glucose"
+    ref: "S1-1 p.23"
+    fig: "S1-1:23h"
+    trap: "Fructose = isomère de STRUCTURE du glucose ; galactose = STÉRÉO-isomère."
+    beats:
+      - say: "Le glucose a d'autres isomères, de même formule C6H12O6. Le fructose est un *isomère de structure* : son groupe C double liaison O n'est pas au même endroit."
+        focus: [0.05, 0.25, 0.65, 0.95]
+        mark: "Fructose"
+        show: "*Fructose* = isomère de *structure* du glucose"
+      - say: "Le galactose est un *stéréo-isomère* : mêmes liaisons, mais un groupe O H orienté autrement."
+        focus: [0.4, 0.25, 1.0, 0.95]
+        mark: "Galactose"
+        show: "*Galactose* = *stéréo*-isomère du glucose"
+
+  - kind: table
+    title: "Les sucres à 6 carbones"
+    ref: "S1-1 p.23"
+    header: ["Sucre", "Ce qu'en dit le cours"]
+    beats:
+      - say: "Ces trois sucres à six carbones ont chacun leur rôle."
+      - say: "Le glucose est produit par les végétaux, et c'est la principale source d'énergie chez les animaux."
+        show: "*Glucose* | produit par les végétaux · *principale source d'énergie* chez les animaux"
+      - say: "Le fructose est abondant dans les fruits, avec un goût plus sucré."
+        show: "*Fructose* | abondant dans les fruits · goût *plus sucré*"
+      - say: "Le galactose est dans le lait, et associé à d'autres biomolécules, par exemple les groupes sanguins."
+        show: "*Galactose* | dans le *lait* · associé à d'autres biomolécules (ex. *groupes sanguins*)"
+
+  - kind: figure
+    title: "Autres monosaccharides : 3 et 5 carbones"
+    ref: "S1-1 p.24"
+    fig: "S1-1:24h"
+    trap: "Ribose → ARN ; désoxyribose → ADN ; glycéraldéhyde = sucre à 3 carbones."
+    beats:
+      - say: "Il existe des sucres plus petits. À trois carbones : le *glycéraldéhyde*."
+        mark: "Glycéraldéhyde"
+        show: "3 C : *glycéraldéhyde*"
+      - say: "À cinq carbones : le *ribose* et le *désoxyribose*, les sucres de l'ARN et de l'ADN."
+        mark: ["Ribose", "Désoxyribose"]
+        show: "5 C : *ribose* (ARN) · *désoxyribose* (ADN)"
+
+  - kind: figure
+    title: "Les disaccharides"
+    ref: "S1-1 p.24"
+    fig: "S1-1:24b"
+    trap: "Saccharose = glucose–fructose ; lactose = glucose–galactose ; maltose = glucose–glucose."
+    beats:
+      - say: "Un disaccharide, c'est deux monosaccharides liés. Chez les plantes, ils servent au transport des glucides, car ils sont plus stables que les monosaccharides."
+        mark: ["deux monosaccharides", "transport"]
+        show: "2 monosaccharides liés · *transport* des glucides chez les plantes (+ stables)"
+      - say: "Le *saccharose*, c'est le sucre de table : glucose plus fructose."
+        mark: "saccharose"
+        show: "*Saccharose* = sucre de table (glucose–fructose)"
+      - say: "Le *lactose* : glucose plus galactose, dans le lait. Le *maltose* : glucose plus glucose, dans les graines germées."
+        mark: ["lactose", "maltose"]
+        show: "*Lactose* = glucose–galactose (lait) · *maltose* = glucose–glucose (graines germées)"
+
+  - kind: mnemo
+    title: "Trois disaccharides, trois couples"
+    ref: "S1-1 p.24"
+    phrase: "Le *glucose* est dans tous les couples"
+    trap: "Le glucose est toujours présent ; seul le partenaire change."
+    beats:
+      - say: "Le glucose est dans les trois couples ; seul son partenaire change."
+      - say: "Saccharose : il est avec le fructose, le sucre des fruits, comme dans ton sucre de table."
+        show: "*Sacc*harose : glucose + *fructose* (sucre de table)"
+      - say: "Lactose : lacté, le lait, donc avec le galactose. Gala comme le lait en grec."
+        show: "*Lact*ose : glucose + *gala*ctose (lait)"
+      - say: "Maltose : le malt, des graines germées, glucose plus glucose : un couple de jumeaux."
+        show: "*Malt*ose : glucose + *glucose* (graines germées)"
+
+  - kind: figure
+    title: "Digestion : sucrase et lactase"
+    ref: "S1-1 p.25"
+    fig: "S1-1:25h"
+    trap: "Lactase maximale chez le NOURRISSON ; maintien chez l'adulte grâce à une mutation (5 000-10 000 ans)."
+    beats:
+      - say: "La *sucrase* clive le saccharose en glucose plus fructose. C'est une enzyme sécrétée par la muqueuse intestinale."
+        mark: ["Sucrase", "muqueuse intestinale"]
+        show: "*Sucrase* : saccharose → glucose + fructose · sécrétée par la *muqueuse intestinale*"
+      - say: "Son déficit est une maladie héréditaire rare : diarrhées, douleur abdominale, perte de poids, avec des symptômes qui apparaissent quand on introduit le saccharose dans l'alimentation. Traitement : un régime sans saccharose, et le Sucraid, une enzyme de substitution."
+        mark: ["maladie héréditaire rare", "Sucraid"]
+        show: "Déficit : héréditaire *rare* · diarrhées, douleurs, perte de poids · régime sans saccharose, *Sucraid*"
+      - say: "La *lactase* clive le lactose en glucose plus galactose. Sa production est maximale chez le *nourrisson*."
+        mark: ["Lactase", "nourrisson"]
+        show: "*Lactase* : lactose → glucose + galactose · maximale chez le *nourrisson*"
+      - say: "Grâce à une mutation apparue il y a 5 000 à 10 000 ans, avec la domestication du bétail, l'enzyme se maintient chez l'adulte : 90 % des Européens du Nord tolèrent le lactose, beaucoup moins en Afrique et en Asie."
+        mark: ["5 000", "90%"]
+        show: "# Mutation il y a *5 000 – 10 000 ans* (bétail) · *90 %* tolérants en Europe du Nord"
+      - say: "Et une intolérance au lactose peut aussi être induite par des facteurs environnementaux, comme un virus : flatulences, diarrhées, douleurs abdominales."
+        mark: "environnementaux"
+        show: "Intolérance *induite* possible (virus…) : flatulences, diarrhées, douleurs"
+
+  - kind: figure
+    title: "Les polysaccharides"
+    ref: "S1-1 p.25"
+    fig: "S1-1:25b"
+    trap: "Polysaccharides : INSOLUBLES et SANS pouvoir sucrant (contrairement aux sucres simples)."
+    beats:
+      - say: "Les polysaccharides sont de longs polymères de monosaccharides, linéaires ou ramifiés."
+        mark: "long polymères"
+        show: "Longs polymères de monosaccharides · linéaires ou ramifiés"
+      - say: "Attention : ils sont *insolubles* dans l'eau et n'ont *pas de pouvoir sucrant*. Ils servent au stockage d'énergie, ou de composant de structure."
+        mark: ["insolubles", "pas de pouvoir sucrant"]
+        show: "*Insolubles* · *pas* de pouvoir sucrant · stockage d'énergie *ou* structure"
+
+  - kind: figure
+    title: "Amidon et glycogène : l'α-glucose en réserve"
+    ref: "S1-1 p.26"
+    fig: "S1-1:26h"
+    trap: "Amidon = plantes ; glycogène = animaux ; tous deux en α-glucose (liaisons α1→4 et α1→6) ; stockage."
+    beats:
+      - say: "L'amidon et le glycogène sont des polymères d'*alpha*-glucose, reliés par des liaisons alpha 1-4, et alpha 1-6 aux ramifications."
+        focus: [0.0, 0.15, 0.55, 0.9]
+        mark: "polymères de"
+        show: "Polymères d'*α-glucose* · liaisons α1→4 (et α1→6 aux ramifications)"
+      - say: "L'amidon chez les *plantes*, avec l'amylose et l'amylopectine ; le glycogène chez les *animaux*. Fonction : le *stockage d'énergie*."
+        focus: [0.5, 0.15, 1.0, 0.95]
+        mark: ["amidon", "glycogène", "stockage"]
+        show: "*Amidon* = plantes · *glycogène* = animaux · fonction : *stockage d'énergie*"
+
+  - kind: figure
+    title: "La cellulose : le β-glucose en structure"
+    ref: "S1-1 p.26"
+    fig: "S1-1:26b"
+    trap: "Cellulose = β-glucose, NON ramifiée, fonction de STRUCTURE."
+    beats:
+      - say: "La cellulose est un polymère de *bêta*-glucose, *non ramifié*, avec des liaisons bêta 1-4."
+        mark: "polymères de"
+        show: "Polymère de *β-glucose*, *non ramifié* (liaison β1→4)"
+      - say: "Elle forme des fibres résistantes, avec une fonction de *structure* : les parois cellulaires végétales."
+        mark: ["fibres résistantes", "fonction de structure"]
+        show: "Fibres résistantes · fonction de *structure* (parois cellulaires végétales)"
+
+  - kind: trap
+    title: "Alpha, bêta et les fonctions"
+    ref: "S1-1 p.25-26"
+    trap: "α → stockage (amidon, glycogène) ; β → structure (cellulose)."
+    beats:
+      - say: "Les pièges classiques."
+      - say: "“La cellulose est un polymère d'alpha-glucose” : faux, c'est du bêta-glucose."
+        show: "✗ cellulose = α  →  ✓ cellulose = *β-glucose*, non ramifiée"
+      - say: "“Le glycogène est la réserve des plantes” : faux. Glycogène chez les animaux, amidon chez les plantes."
+        show: "✓ *Amidon* = plantes · *glycogène* = animaux"
+      - say: "“Les polysaccharides ont un goût sucré et sont solubles” : faux. Insolubles, sans pouvoir sucrant."
+        show: "✓ Polysaccharides : *insolubles*, *pas* de pouvoir sucrant"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.24-26"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Le maltose est formé de glucose et de galactose."
+      - "La lactase a une production maximale chez le nourrisson."
+      - "La cellulose est un polymère ramifié d'α-glucose."
+      - "Les polysaccharides sont très solubles dans l'eau."
+    answer: [1]
+    beats:
+      - say: "Quiz : quelle proposition est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Le maltose, c'est glucose plus glucose ; la cellulose est du bêta-glucose non ramifié ; et les polysaccharides sont insolubles."
+        reveal: true
+
+  - kind: recap
+    title: "Récap de l'épisode"
+    ref: "S1-1 p.22-26"
+    beats:
+      - say: "On récapitule."
+      - say: "Glucides : une fonction carbonyle, plusieurs hydroxyles, très solubles ; mono, di et polysaccharides."
+        show: "1 carbonyle + plusieurs OH · mono / di / poly"
+      - say: "Glucose, fructose, galactose à six carbones ; glycéraldéhyde à trois ; ribose et désoxyribose à cinq."
+        show: "6 C : glucose, fructose, galactose · 3 C : glycéraldéhyde · 5 C : ribose, désoxyribose"
+      - say: "Saccharose, lactose, maltose ; sucrase et lactase."
+        show: "Saccharose (glc–fru) · lactose (glc–gal) · maltose (glc–glc)"
+      - say: "Amidon et glycogène, alpha-glucose, stockage ; cellulose, bêta-glucose, structure."
+        show: "*α* : amidon (plantes), glycogène (animaux) · *β* : cellulose"
+
+  - kind: outro
+    title: "Épisode 6 : les lipides"
+    ref: "S1-1 p.27"
+    big: "3 vs 2"
+    beats:
+      - say: "Prochain épisode : les lipides. Trois acides gras d'un côté, deux de l'autre : tu sauras pourquoi ça change tout pour tes membranes."
+        show: "Triglycéride *3* acides gras · phospholipide *2*"
+
+recap:
+  - "Glucides = sucres = hydrates de carbone : une fonction carbonyle, plusieurs fonctions hydroxyle ; très solubles dans l'eau ; sources d'énergie (nombreuses liaisons C–H) ; existent sous forme de monosaccharides, disaccharides, polysaccharides."
+  - "Monosaccharide, ex. le glucose C6H12O6 : cycle ; réservoir d'énergie (7 liaisons C–H) ; stéréoisomères α-glucose et β-glucose. Autres isomères : fructose (isomère de structure), galactose (stéréo-isomère)."
+  - "Sucres à 6 carbones : glucose (produit par les végétaux ; principale source d'énergie chez les animaux), fructose (abondant dans les fruits ; goût plus sucré), galactose (dans le lait ; associé à d'autres biomolécules, ex. groupes sanguins). Sucre à 3 carbones : glycéraldéhyde. Sucres à 5 carbones : ribose, désoxyribose (ARN et ADN)."
+  - "Disaccharides : liaison de deux monosaccharides ; transport des glucides dans les plantes (+ stables que les monosaccharides) ; saccharose = sucre de table (glucose–fructose) ; lactose = glucose–galactose (lait) ; maltose = glucose–glucose (graines germées)."
+  - "Sucrase : clivage du saccharose (→ glucose + fructose) ; enzyme sécrétée par la muqueuse intestinale ; déficience = maladie héréditaire rare (diarrhées, douleur abdominale, perte de poids ; symptômes lors de l'introduction de saccharose dans l'alimentation) ; traitement : régime sans saccharose, Sucraid (enzyme de substitution)."
+  - "Lactase : clivage du lactose (→ glucose + galactose) ; production maximale chez le nourrisson ; une mutation apparue il y a 5 000 – 10 000 ans (domestication du bétail) maintient l'enzyme chez l'adulte ; 90 % de la population d'Europe du Nord tolérante (fréquence beaucoup plus faible en Afrique et en Asie) ; intolérance induite possible par des facteurs environnementaux (virus…) : flatulences, diarrhées, douleurs abdominales."
+  - "Polysaccharides : longs polymères de monosaccharides, linéaires ou ramifiés, insolubles dans l'eau, sans pouvoir sucrant ; stockage d'énergie ou composant de structure."
+  - "Amidon (plantes ; amylose, amylopectine) et glycogène (animaux) : polymères d'α-glucose (liaisons α1→4, α1→6) ; fonction : stockage d'énergie. Cellulose : polymère de β-glucose (non ramifiée, liaison β1→4) ; fibres résistantes ; fonction de structure (parois cellulaires végétales)."
+
+traps:
+  - ["« Une seule fonction hydroxyle »", "Une fonction carbonyle, plusieurs fonctions hydroxyle", "p.22b"]
+  - ["Fructose = stéréo-isomère", "Fructose = isomère de structure ; galactose = stéréo-isomère", "p.23h"]
+  - ["Maltose = glucose–galactose", "Maltose = glucose–glucose ; lactose = glucose–galactose", "p.24b"]
+  - ["Lactase maximale chez l'adulte", "Maximale chez le nourrisson ; maintien chez l'adulte par mutation", "p.25h"]
+  - ["Sucrase sécrétée par le pancréas", "Sécrétée par la muqueuse intestinale", "p.25h"]
+  - ["Polysaccharides solubles et sucrés", "Insolubles, sans pouvoir sucrant", "p.25b"]
+  - ["Glycogène = réserve végétale", "Amidon = plantes ; glycogène = animaux", "p.26h"]
+  - ["Cellulose = α-glucose ramifié", "β-glucose, non ramifiée ; structure", "p.26b"]
+
+mnemonics:
+  - ["Les 3 disaccharides", "Le glucose est dans tous les couples : sacc + fructose, lact (lait) + galactose, malt + glucose (jumeaux)", "Saccharose glc–fru · lactose glc–gal · maltose glc–glc"]
+  - ["α ou β", "α comme « à garder » (réserve) ; β comme « bâtir » (structure)", "α : amidon, glycogène (stockage) · β : cellulose (structure)"]
+
+quiz:
+  - q: "À propos des monosaccharides et disaccharides :"
+    props:
+      - ["Le glucose possède 7 liaisons C–H.", true, "« réservoir d'énergie (7 liaisons C–H) » p.22b."]
+      - ["Le fructose a un goût plus sucré que le glucose.", true, "p.23b."]
+      - ["Le ribose est un sucre à 6 carbones.", false, "Sucre à 5 carbones (ARN)."]
+      - ["Le saccharose est formé de glucose et de fructose.", true, "Sucre de table."]
+      - ["Les disaccharides sont moins stables que les monosaccharides.", false, "Plus stables, d'où leur rôle de transport chez les plantes."]
+  - q: "À propos de la digestion des disaccharides :"
+    props:
+      - ["La sucrase est sécrétée par la muqueuse intestinale.", true, "p.25h."]
+      - ["Le déficit en sucrase est une maladie héréditaire fréquente.", false, "Maladie héréditaire rare."]
+      - ["Le Sucraid est une enzyme de substitution.", true, "Avec le régime sans saccharose."]
+      - ["90 % de la population d'Europe du Nord tolère le lactose.", true, "Grâce à la mutation qui maintient la lactase."]
+      - ["Une intolérance au lactose peut être induite par un virus.", true, "Facteurs environnementaux."]
+  - q: "À propos des polysaccharides :"
+    props:
+      - ["Ils sont insolubles dans l'eau.", true, "p.25b."]
+      - ["L'amidon et le glycogène sont des polymères d'α-glucose.", true, "p.26h."]
+      - ["Le glycogène est la forme de stockage des plantes.", false, "Glycogène = animaux ; amidon = plantes."]
+      - ["La cellulose est un polymère de β-glucose non ramifié.", true, "p.26b."]
+      - ["La cellulose a une fonction de stockage d'énergie.", false, "Fonction de structure (parois cellulaires végétales)."]
+
+coverage:
+  - ["S1-1", "22b", "Glucides : définition, carbonyle/hydroxyles, solubilité, 3 formes, glucose (cycle, 7 liaisons C–H, stéréoisomères)", 2]
+  - ["S1-1", "23h", "Autres isomères du glucose : fructose (structure), galactose (stéréo)", 3]
+  - ["S1-1", "23b", "Sucres à 6 carbones : glucose, fructose, galactose et leurs rôles", 4]
+  - ["S1-1", "24h", "Autres monosaccharides : glycéraldéhyde, ribose, désoxyribose", 5]
+  - ["S1-1", "24b", "Disaccharides : saccharose, lactose, maltose", 6]
+  - ["S1-1", "25h", "Digestion : sucrase et lactase", 8]
+  - ["S1-1", "25b", "Polysaccharides : propriétés", 9]
+  - ["S1-1", "26h", "Amidon et glycogène (α-glucose, stockage)", 10]
+  - ["S1-1", "26b", "Cellulose (β-glucose, structure)", 11]

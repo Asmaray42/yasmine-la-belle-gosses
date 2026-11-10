@@ -1,0 +1,210 @@
+title: "Mitochondries, endosymbiose et cytosquelette"
+subtitle: "2 membranes · ADN propre · endosymbiose · 3 fibres · centrioles"
+source: "S1-1 p.57 à 59"
+chapter: "Partie I — Chapitre III. Structure de la cellule eucaryote — 5. Mitochondries · 6. Le cytosquelette"
+objectives:
+  - "Décrire la structure des mitochondries et leur autonomie partielle."
+  - "Expliquer la théorie de l'endosymbiose."
+  - "Comparer microfilaments, microtubules et filaments intermédiaires (unités, diamètres, fonctions)."
+  - "Décrire les centrioles et le centrosome."
+
+scenes:
+  - kind: hook
+    title: "Une bactérie avalée il y a très longtemps"
+    ref: "S1-1 p.58"
+    big: "ADN propre"
+    beats:
+      - say: "Tes mitochondries ont leur propre ADN, leurs propres ribosomes, et deux membranes. Le cours explique pourquoi : la théorie de l'endosymbiose."
+      - say: "Puis le squelette de la cellule : trois types de fibres, et les centrioles."
+        show: "Mitochondries · *endosymbiose* · *3 fibres* · centrioles"
+
+  - kind: figure
+    title: "Les mitochondries"
+    ref: "S1-1 p.57"
+    fig: "S1-1:57h"
+    trap: "Membrane INTERNE repliée, qui renferme la MATRICE ; espace intermembranaire entre les deux."
+    beats:
+      - say: "Les mitochondries ont deux membranes, externe et interne, séparées par l'*espace intermembranaire*."
+        mark: ["deux membranes", "espace intermembranaire"]
+        show: "*2 membranes* (externe, interne) → *espace intermembranaire*"
+      - say: "La membrane interne, qui présente de nombreux replis, renferme la *matrice*."
+        mark: ["replis", "matrice"]
+        show: "Membrane *interne* repliée → renferme la *matrice*"
+      - say: "Elles possèdent leur propre ADN et leurs propres ribosomes : elles synthétisent elles-mêmes certaines protéines. D'autres, encodées par l'ADN nucléaire, sont importées depuis le cytosol."
+        mark: ["propre ADN", "importées"]
+        show: "ADN + ribosomes propres → *certaines* protéines · d'autres *importées* du cytosol"
+      - say: "Elles sont responsables de la respiration cellulaire, qui utilise de l'O2 et produit de l'ATP riche en énergie."
+        mark: "respiration cellulaire"
+        show: "*Respiration cellulaire* : O₂ → *ATP*"
+
+  - kind: figure
+    title: "ADN et division des mitochondries"
+    ref: "S1-1 p.57"
+    fig: "S1-1:57b"
+    trap: "Division mitochondriale PAS totalement autonome (protéines encodées par le noyau)."
+    beats:
+      - say: "L'ADN mitochondrial, présent en plusieurs copies, peut être répliqué."
+        mark: ["répliqué", "plusieurs copies"]
+        show: "ADN mitochondrial (*plusieurs copies*) répliqué"
+      - say: "Les mitochondries se divisent, ce qui maintient leur nombre au cours des divisions cellulaires. Mais cette division n'est pas totalement autonome : elle nécessite des protéines encodées par le noyau cellulaire."
+        mark: ["se divisent", "pas totalement autonome"]
+        show: "Elles se *divisent* · mais *pas totalement autonome* (protéines du noyau)"
+
+  - kind: figure
+    title: "L'origine des mitochondries : l'endosymbiose"
+    ref: "S1-1 p.58"
+    fig: "S1-1:58h"
+    trap: "Endosymbiose : phagocytose par une cellule originelle ; explique la double membrane ET l'ADN propre."
+    beats:
+      - say: "La *symbiose*, c'est une association étroite entre deux espèces différentes vivant ensemble, pour un bénéfice mutuel."
+        mark: "symbiose"
+        show: "*Symbiose* = association étroite de 2 espèces, bénéfice *mutuel*"
+      - say: "La théorie de l'*endosymbiose* explique l'origine des mitochondries et des chloroplastes : une phagocytose par une cellule originelle. Elle explique la double membrane, et l'ADN propre."
+        mark: ["endosymbiose", "phagocytose", "double membrane"]
+        show: "*Endosymbiose* : phagocytose par une cellule originelle → *double membrane* + *ADN propre*"
+
+  - kind: figure
+    title: "Le cytosquelette"
+    ref: "S1-1 p.58"
+    fig: "S1-1:58b"
+    trap: "Fibre = polymérisation de sous-unités IDENTIQUES ; système DYNAMIQUE ; 3 types."
+    beats:
+      - say: "Le cytosquelette est un réseau de fibres protéiques dans le cytosol. Il assure la forme de la cellule et l'ancrage des organites, et intervient dans les mouvements intracellulaires et les mouvements des cellules."
+        mark: ["réseau de fibres", "forme de la cellule"]
+        show: "Fibres protéiques : *forme* · ancrage des organites · *mouvements*"
+      - say: "Une fibre est un assemblage, une polymérisation, de sous-unités protéiques identiques. C'est un système dynamique : assemblage, désassemblage. Il y a trois types de fibres."
+        mark: ["identiques", "dynamique", "trois types"]
+        show: "Polymérisation de sous-unités *identiques* · système *dynamique* · *3* types"
+
+  - kind: table
+    title: "Les 3 fibres du cytosquelette"
+    ref: "S1-1 p.59"
+    header: ["Fibre", "Structure / unité", "Ø", "Fonctions"]
+    beats:
+      - say: "Les trois fibres, avec leurs diamètres."
+      - say: "Les microfilaments : deux chaînes protéiques entrelacées, faites d'actine, sept nanomètres. Fonctions : mouvements cellulaires, contraction musculaire."
+        show: "*Microfilaments* | 2 chaînes entrelacées · *actine* | *7 nm* | mouvements cellulaires, contraction musculaire"
+      - say: "Les microtubules : des tubes creux de treize protofilaments en couronne, chacun fait de tubuline alpha et tubuline bêta, vingt-cinq nanomètres. Fonctions : mouvements cellulaires, cils et flagelles, et intracellulaires."
+        show: "*Microtubules* | tubes creux · *13* protofilaments · tubuline *α* et *β* | *25 nm* | cils, flagelles, mouvements intracellulaires"
+      - say: "Les filaments intermédiaires : des câbles de protéines fibreuses entrelacées, très stables, de plusieurs types : vimentine, kératine, lamine. Huit à dix nanomètres. Fonctions : structure cellulaire, lamina, cheveux et ongles avec la kératine."
+        show: "*Filaments intermédiaires* | câbles très *stables* · vimentine, kératine, lamine | *8–10 nm* | structure, *lamina*, cheveux et ongles"
+
+  - kind: mnemo
+    title: "Les diamètres, du plus fin au plus gros"
+    ref: "S1-1 p.59"
+    phrase: "*M*icro*F*il *7* < *F*il *I*ntermédiaire *8–10* < *M*icro*T*ube *25*"
+    trap: "Le filament INTERMÉDIAIRE porte bien son nom : diamètre intermédiaire."
+    beats:
+      - say: "Le filament intermédiaire porte bien son nom : son diamètre est entre les deux autres."
+      - say: "Microfilament, le plus fin, sept nanomètres. Filament intermédiaire, huit à dix. Microtubule, le plus gros, un tube de vingt-cinq."
+        show: "*7* nm microfilament < *8–10* intermédiaire < *25* microtubule"
+      - say: "Et treize protofilaments dans un microtubule : un tube de treize, comme une couronne à treize perles."
+        show: "Microtubule = couronne de *13* protofilaments"
+
+  - kind: figure
+    title: "Centrioles et centrosome"
+    ref: "S1-1 p.59"
+    fig: "S1-1:59b"
+    trap: "Centriole = 9 TRIPLETS de microtubules ; pas de centriole chez les végétaux ; extrémités + et –."
+    beats:
+      - say: "Les centrioles sont des organites cylindriques, par paire, disposés à angle droit. Chaque cylindre est un assemblage de microtubules : *neuf triplets*."
+        mark: ["par paire", "9 triplets"]
+        show: "Centrioles : par *paire*, à angle droit · *9 triplets* de microtubules"
+      - say: "Avec le matériel péricentriolaire, ils forment le *centrosome*."
+        mark: ["centrosome", "pericentriolaire"]
+        show: "Centrioles + matériel péricentriolaire = *centrosome*"
+      - say: "Fonctions : site d'initiation de la polymérisation, la nucléation, des microtubules, et réorganisation des microtubules lors de la division cellulaire. Les microtubules ont une extrémité moins et une extrémité plus, avec une polymérisation et dépolymérisation dynamique."
+        mark: ["nucléation", "réorganisation"]
+        show: "*Nucléation* des microtubules · réorganisation à la *division* · extrémités *–* et *+*"
+      - say: "Attention : il n'y a pas de centriole dans les cellules végétales."
+        mark: "pas de centriole"
+        show: "! *Pas de centriole* dans les cellules végétales"
+
+  - kind: trap
+    title: "Les pièges du cytosquelette"
+    ref: "S1-1 p.57-59"
+    trap: "Lamine = filament intermédiaire ; actine = microfilament ; tubuline = microtubule."
+    beats:
+      - say: "Trois pièges."
+      - say: "“La lamine est un microtubule” : faux, c'est un filament intermédiaire, comme la vimentine et la kératine."
+        show: "✓ Lamine, kératine, vimentine = *filaments intermédiaires*"
+      - say: "“Le centriole est formé de neuf paires de microtubules” : faux, neuf triplets."
+        show: "✗ 9 paires  →  ✓ centriole = *9 triplets*"
+      - say: "“La division mitochondriale est totalement autonome” : faux, elle dépend de protéines encodées par le noyau."
+        show: "✓ Division mitochondriale *pas totalement autonome*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.59"
+    question: "Quel est le diamètre d'un microtubule selon le cours ?"
+    options:
+      - "7 nm"
+      - "8–10 nm"
+      - "25 nm"
+      - "0,2 nm"
+    answer: [2]
+    beats:
+      - say: "Quiz : quel est le diamètre d'un microtubule ?"
+        countdown: 4
+      - say: "Vingt-cinq nanomètres. Sept, c'est le microfilament ; huit à dix, le filament intermédiaire."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 14 : le cytosquelette en action"
+    ref: "S1-1 p.60"
+    big: "– ou + ?"
+    beats:
+      - say: "Prochain épisode : les moteurs moléculaires, dynéine et kinésine, qui roulent dans des sens opposés, puis la matrice extracellulaire."
+        show: "Dynéine · kinésine · *matrice extracellulaire*"
+
+recap:
+  - "Mitochondries : deux membranes (externe et interne) → espace intermembranaire ; la membrane interne (nombreux replis) renferme la matrice ; ADN propre + ribosomes → synthèse autonome de certaines protéines (d'autres, encodées par l'ADN nucléaire, sont importées depuis le cytosol) ; respiration cellulaire (utilise de l'O2, produit de l'ATP riche en énergie)."
+  - "ADN mitochondrial (plusieurs copies) répliqué ; les mitochondries se divisent (maintien de leur nombre au cours des divisions cellulaires) ; division pas totalement autonome (protéines encodées par le noyau)."
+  - "Symbiose : association étroite entre deux espèces différentes vivant ensemble pour un bénéfice mutuel. Théorie de l'endosymbiose (origine des mitochondries et chloroplastes) : phagocytose par une cellule originelle ; explique la double membrane et l'ADN propre."
+  - "Cytosquelette : réseau de fibres protéiques dans le cytosol ; forme de la cellule, ancrage des organites, mouvements intracellulaires et des cellules ; fibre = polymérisation de sous-unités protéiques identiques ; système dynamique (assemblage-désassemblage) ; trois types de fibres."
+  - "Microfilaments : deux chaînes protéiques entrelacées, actine, Ø 7 nm ; mouvements cellulaires, contraction musculaire. Microtubules : tubes creux de 13 protofilaments en couronne (tubuline α et β), Ø 25 nm ; mouvements cellulaires (cils, flagelles) et intracellulaires. Filaments intermédiaires : câbles de protéines fibreuses entrelacées, très stables ; vimentine, kératine, lamine ; Ø 8-10 nm ; structure cellulaire, lamina, cheveux et ongles (kératine)."
+  - "Centrioles : organites cylindriques, par paire, à angle droit ; 9 triplets de microtubules ; avec le matériel péricentriolaire, forment le centrosome ; site d'initiation de la polymérisation (nucléation) des microtubules et réorganisation lors de la division ; pas de centriole dans les cellules végétales. Microtubules : extrémités – et +, polymérisation/dépolymérisation dynamique."
+
+traps:
+  - ["Matrice entre les deux membranes", "Matrice renfermée par la membrane interne ; espace intermembranaire entre les deux", "p.57h"]
+  - ["Toutes les protéines mitochondriales sont produites sur place", "Certaines seulement ; d'autres importées du cytosol", "p.57h"]
+  - ["Division mitochondriale autonome", "Pas totalement autonome", "p.57b"]
+  - ["Diamètres inversés", "Microfilament 7 nm ; intermédiaire 8-10 nm ; microtubule 25 nm", "p.59h"]
+  - ["Lamine = microtubule", "Lamine = filament intermédiaire", "p.59h"]
+  - ["Centriole = 9 paires + 2", "9 triplets (9 paires + 2 = cils et flagelles)", "p.59b"]
+  - ["Centrioles chez les végétaux", "Pas de centriole dans les cellules végétales", "p.59b"]
+
+mnemonics:
+  - ["Les diamètres", "Le filament intermédiaire est… intermédiaire : 7 < 8-10 < 25", "Microfilament 7 nm · filament intermédiaire 8-10 nm · microtubule 25 nm"]
+  - ["Unités des fibres", "« Acti-Fil, Tubu-Tube, KéraVimLam » ", "Actine = microfilament · tubuline = microtubule · kératine, vimentine, lamine = intermédiaires"]
+
+quiz:
+  - q: "À propos des mitochondries :"
+    props:
+      - ["Elles possèdent deux membranes.", true, "p.57h."]
+      - ["La matrice est renfermée par la membrane interne.", true, "p.57h."]
+      - ["Elles produisent elles-mêmes toutes leurs protéines.", false, "Certaines sont importées depuis le cytosol."]
+      - ["Leur division nécessite des protéines encodées par le noyau.", true, "Pas totalement autonome."]
+      - ["La théorie de l'endosymbiose explique leur double membrane et leur ADN propre.", true, "p.58h."]
+  - q: "À propos des fibres du cytosquelette :"
+    props:
+      - ["Les microfilaments sont formés d'actine.", true, "p.59h."]
+      - ["Les microtubules sont formés de 13 protofilaments.", true, "Tubuline α et β."]
+      - ["Les filaments intermédiaires sont très instables.", false, "Très stables."]
+      - ["La kératine est un filament intermédiaire.", true, "Cheveux et ongles."]
+      - ["Le diamètre d'un microfilament est de 25 nm.", false, "7 nm ; 25 nm = microtubule."]
+  - q: "Centrioles et centrosome :"
+    props:
+      - ["Les centrioles sont disposés par paire, à angle droit.", true, "p.59b."]
+      - ["Chaque centriole est formé de 9 triplets de microtubules.", true, "p.59b."]
+      - ["Les cellules végétales possèdent des centrioles.", false, "Pas de centriole dans les cellules végétales."]
+      - ["Le centrosome est le site de nucléation des microtubules.", true, "Initiation de la polymérisation."]
+      - ["Le cytosquelette est un système dynamique.", true, "Assemblage-désassemblage."]
+
+coverage:
+  - ["S1-1", "57h", "Mitochondries : structure, ADN, ribosomes, respiration", 2]
+  - ["S1-1", "57b", "ADN mitochondrial, division", 3]
+  - ["S1-1", "58h", "Symbiose, théorie de l'endosymbiose", 4]
+  - ["S1-1", "58b", "Cytosquelette : définition, rôles, 3 types", 5]
+  - ["S1-1", "59h", "Microfilaments, microtubules, filaments intermédiaires", 6]
+  - ["S1-1", "59b", "Centrioles, centrosome, nucléation, végétaux", 8]

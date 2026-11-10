@@ -1,0 +1,253 @@
+title: "Les lipides : graisses, membranes et messagers"
+subtitle: "Triglycérides · phospholipides · bicouche · terpènes, stéroïdes, prostaglandines, glycolipides"
+source: "S1-1 p.27 à 32"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 4. Les macromolécules — 5. Les lipides"
+objectives:
+  - "Donner la caractéristique commune des lipides et leurs propriétés."
+  - "Décrire les triglycérides, saturés et insaturés, et leurs rôles."
+  - "Décrire les phospholipides et la formation de la bicouche."
+  - "Classer les autres lipides : terpènes, stéroïdes, prostaglandines, glycolipides, avec leurs exemples."
+
+scenes:
+  - kind: hook
+    title: "Pourquoi le beurre est solide et l'huile liquide ?"
+    ref: "S1-1 p.28"
+    big: "SOLIDE ?"
+    beats:
+      - say: "Le beurre est solide à température ambiante, l'huile d'olive est liquide. La raison tient à une double liaison."
+      - say: "Au programme : les triglycérides, les phospholipides et la bicouche, puis quatre autres familles de lipides."
+        show: "Triglycérides · *phospholipides* · bicouche · 4 autres familles"
+
+  - kind: figure
+    title: "Les lipides : un point commun"
+    ref: "S1-1 p.27"
+    fig: "S1-1:27h"
+    trap: "Caractéristique COMMUNE = insolubilité dans l'eau."
+    beats:
+      - say: "Les lipides forment un groupe diversifié de molécules. Leur caractéristique commune : l'*insolubilité dans l'eau*."
+        mark: ["diversifié", "insolubilité"]
+        show: "Groupe *diversifié* · point commun : *insolubilité dans l'eau*"
+      - say: "Ils ont une proportion élevée de liaisons C H apolaires, donc hydrophobes. En contact avec l'eau, ils ont tendance à s'agréger, comme des gouttelettes d'huile. Et ce sont les principaux constituants des membranes cellulaires."
+        mark: ["apolaires", "aggrégation", "membranes"]
+        show: "Liaisons C–H *apolaires* (hydrophobes) · agrégation (gouttelettes) · principal constituant des *membranes*"
+
+  - kind: figure
+    title: "Les triglycérides"
+    ref: "S1-1 p.27"
+    fig: "S1-1:27b"
+    trap: "Triglycéride = 1 glycérol + 3 acides gras."
+    beats:
+      - say: "Un triglycéride, c'est un *glycérol* auquel sont liés *trois acides gras*."
+        focus: "all"
+        mark: ["glycérol", "acide gras", "triglycéride"]
+        show: "*Triglycéride* = glycérol + *3* acides gras"
+
+  - kind: compare
+    title: "Saturés vs insaturés"
+    ref: "S1-1 p.28"
+    header: ["", "Saturés", "Insaturés"]
+    beats:
+      - say: "Deux types de triglycérides."
+      - say: "Saturés : tous les carbones des chaînes sont liés à au moins deux H. Insaturés : une ou plusieurs paires de carbones reliées par une double liaison."
+        show: "Liaisons | tous les C liés à ≥ 2 H | ≥ 1 double liaison C=C"
+      - say: "S'il n'y a qu'une double liaison, c'est mono-insaturé ; s'il y en a plusieurs, poly-insaturé."
+        show: "Nombre de C=C | aucune | 1 = *mono*insaturé · plusieurs = *poly*insaturé"
+      - say: "Les chaînes saturées sont alignées. Les doubles liaisons forment des coudes : les chaînes ne sont pas alignées."
+        show: "Chaînes | *alignées* | *coudes*, non alignées"
+      - say: "D'où le point de fusion : élevé pour les saturés, solides à température ambiante, ce sont les graisses ; peu élevé pour les insaturés, liquides, ce sont les huiles."
+        show: "Point de fusion | *élevé* → solide (graisse) | *peu élevé* → liquide (huile)"
+      - say: "Exemples : graisses animales et beurre, car la plupart des triglycérides animaux sont saturés ; huiles végétales et huiles de poisson pour les insaturés."
+        show: "Exemples | graisses animales, beurre | huiles végétales, huiles de poisson"
+
+  - kind: figure
+    title: "Les rôles des triglycérides"
+    ref: "S1-1 p.29"
+    fig: "S1-1:29h"
+    trap: "Réserves PLUS efficaces que les glucides ; excès de glucides → triglycérides."
+    beats:
+      - say: "Leurs nombreuses liaisons C H riches en énergie en font des *réserves énergétiques*, plus efficaces que les glucides."
+        mark: ["réserves énergétiques", "plus efficace"]
+        show: "Réserves énergétiques *plus efficaces* que les glucides"
+      - say: "En cas de suralimentation en glucides, ceux-ci sont transformés en triglycérides pour plus tard. Ils sont stockés dans les cellules adipeuses, et forment une couche d'isolant thermique."
+        mark: ["suralimentation", "cellules adipeuses", "isolant thermique"]
+        show: "Excès de glucides → triglycérides · cellules *adipeuses* · *isolant thermique*"
+
+  - kind: figure
+    title: "Les phospholipides"
+    ref: "S1-1 p.29"
+    fig: "S1-1:29b"
+    trap: "Phospholipide = glycérol + 2 acides gras + 1 phosphate ; tête polaire hydrophile, 2 queues apolaires hydrophobes."
+    beats:
+      - say: "Les *phospholipides* : au glycérol sont liés *deux* chaînes d'acides gras et *un* groupe phosphate."
+        mark: ["2 chaînes", "1 groupe phosphate"]
+        show: "Glycérol + *2* acides gras + *1* phosphate"
+      - say: "Le phosphate est souvent lié à un groupement chargé ou polaire, par exemple la choline, un groupe amine positif. Exemple : la lécithine, ou phosphatidylcholine."
+        mark: ["choline", "lécithine"]
+        show: "Phosphate lié à un groupe chargé/polaire (ex. *choline*) · ex. *lécithine* = phosphatidylcholine"
+      - say: "Résultat : une *tête polaire*, hydrophile, et *deux queues apolaires*, hydrophobes."
+        mark: ["tête polaire", "queues apolaires"]
+        show: "*Tête* polaire hydrophile · *2 queues* apolaires hydrophobes"
+
+  - kind: figure
+    title: "La bicouche, base de toutes les membranes"
+    ref: "S1-1 p.31"
+    fig: "S1-1:31h"
+    trap: "La bicouche est la base de TOUTES les membranes de la cellule."
+    beats:
+      - say: "Cette structure, tête polaire et queues apolaires, entraîne dans l'eau la formation d'une structure complexe : la *bicouche*, têtes vers l'eau, queues cachées au centre."
+        focus: "all"
+        mark: "bicouche"
+        show: "Dans l'eau : *bicouche* de phospholipides (têtes vers l'eau, queues au centre)"
+      - say: "Et cette bicouche est la base de *toutes* les membranes dans les cellules."
+        mark: "toutes les membranes"
+        show: "Base de *toutes* les membranes cellulaires"
+
+  - kind: trap
+    title: "Trois ou deux ?"
+    ref: "S1-1 p.27-29"
+    trap: "Triglycéride : 3 acides gras ; phospholipide : 2 acides gras + phosphate."
+    beats:
+      - say: "Le piège des chiffres."
+      - say: "“Un phospholipide porte trois acides gras” : faux. Deux acides gras, plus un phosphate. Trois, c'est le triglycéride."
+        show: "✓ Tri-glycéride = *3* acides gras · phospholipide = *2* + phosphate"
+      - say: "“Les triglycérides saturés sont liquides” : faux. Saturés, solides ; insaturés, liquides."
+        show: "✗ saturé = liquide  →  ✓ saturé = *solide* (graisse)"
+
+  - kind: figure
+    title: "Les autres lipides"
+    ref: "S1-1 p.31-32"
+    fig: "S1-1:31b"
+    trap: "Stéroïdes = 4 cycles ; prostaglandines = 2 queues sur un cycle à 5 C ; glycolipides = 2 acides gras + 1 glucide ; terpènes = chaînes de carbone."
+    beats:
+      - say: "Les *terpènes*, faits de chaînes de carbone : des pigments comme la chlorophylle, le carotène, le rétinal, le pigment visuel ; le caoutchouc et les résines ; des essences végétales comme le citronellol, le limonène, parfum d'orange, et l'eucalyptol."
+        mark: "Terpènes"
+        show: "*Terpènes* (chaînes de C) : chlorophylle, carotène, *rétinal* · caoutchouc, résines · citronellol, limonène, eucalyptol"
+      - say: "Les *stéroïdes*, quatre cycles de carbone associés : le cholestérol, présent dans la membrane des cellules animales ; les acides biliaires, qui aident à la digestion des lipides ; et des hormones, la testostérone et l'œstrogène."
+        mark: "Stéroïdes"
+        show: "*Stéroïdes* (*4 cycles*) : cholestérol (membranes animales) · acides biliaires · testostérone, œstrogène"
+      - say: "Les *prostaglandines*, deux queues apolaires fixées sur un cycle à cinq carbones : environ vingt espèces, des messagers chimiques, pour la vasodilatation ou la contraction de l'utérus."
+        mark: "Prostaglandines"
+        show: "*Prostaglandines* (2 queues + cycle à *5 C*) : ± *20* espèces, messagers (vasodilatation, contraction utérus)"
+      - say: "Et les *glycolipides*, deux chaînes d'acides gras et un glucide : les gangliosides et cérébrosides, dans la membrane des cellules."
+        mark: "Glycolipides"
+        show: "*Glycolipides* (2 acides gras + 1 glucide) : gangliosides, cérébrosides (membranes)"
+
+  - kind: figure
+    title: "Le rétinal et la vision"
+    ref: "S1-1 p.32"
+    fig: "S1-1:32b"
+    trap: "Le rétinal est un dérivé de TERPÈNE."
+    beats:
+      - say: "Un exemple concret : le rétinal, un dérivé de terpène, est à la base de la vision."
+        focus: "all"
+        show: "Le *rétinal* : dérivé de *terpène*, à la base de la vision"
+
+  - kind: mnemo
+    title: "Quatre familles, quatre images"
+    ref: "S1-1 p.31"
+    phrase: "*Ter*pène = couleur · *Sté*roïde = 4 anneaux · *Prosta* = messager · *Glyco* = sucre"
+    trap: "Ne pas mélanger les structures : 4 cycles (stéroïdes) vs cycle à 5 C (prostaglandines)."
+    beats:
+      - say: "Une image par famille."
+      - say: "Terpènes : la palette de couleurs, chlorophylle verte, carotène orange, et le parfum d'orange du limonène."
+        show: "*Terpènes* = couleurs et parfums"
+      - say: "Stéroïdes : les quatre anneaux olympiques… moins un. Quatre cycles."
+        show: "*Stéroïdes* = *4* anneaux"
+      - say: "Prostaglandines : un facteur qui porte le message, avec un cycle à cinq, comme les cinq doigts de la main qui distribue."
+        show: "*Prostaglandines* = messager, cycle à *5*"
+      - say: "Glycolipides : glyco, c'est le sucre : deux acides gras plus un glucide."
+        show: "*Glyco*lipides = lipide + *sucre*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.27-31"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Les stéroïdes sont formés de deux queues apolaires sur un cycle à 5 carbones."
+      - "Le cholestérol est présent dans la membrane des cellules animales."
+      - "Un phospholipide comporte trois acides gras."
+      - "Les triglycérides insaturés ont un point de fusion élevé."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. A décrit les prostaglandines ; un phospholipide a deux acides gras ; et les insaturés ont un point de fusion peu élevé."
+        reveal: true
+
+  - kind: recap
+    title: "Récap de l'épisode"
+    ref: "S1-1 p.27-32"
+    beats:
+      - say: "On récapitule."
+      - say: "Lipides : insolubles dans l'eau, principaux constituants des membranes."
+        show: "Point commun : *insolubilité dans l'eau*"
+      - say: "Triglycérides : glycérol plus trois acides gras ; saturés solides, insaturés liquides ; réserves d'énergie."
+        show: "Triglycéride : 3 AG · saturé solide / insaturé liquide · réserve"
+      - say: "Phospholipides : deux acides gras et un phosphate, tête polaire, queues apolaires, bicouche."
+        show: "Phospholipide : 2 AG + phosphate → *bicouche*"
+      - say: "Terpènes, stéroïdes, prostaglandines, glycolipides."
+        show: "Terpènes · stéroïdes (4 cycles) · prostaglandines (cycle 5 C) · glycolipides"
+
+  - kind: outro
+    title: "Épisode 7 : les protéines"
+    ref: "S1-1 p.33"
+    big: "FLIKhMWTV"
+    beats:
+      - say: "Prochain épisode : les protéines. Et ce mot bizarre, F L I K h M W T V, va te faire gagner des points."
+        show: "Les acides aminés *essentiels*"
+
+recap:
+  - "Lipides : groupe diversifié ; caractéristique commune : insolubilité dans l'eau ; proportion élevée de liaisons C–H apolaires (hydrophobes) ; tendance à l'agrégation dans l'eau (gouttelettes d'huile) ; principal constituant des membranes cellulaires."
+  - "Triglycérides : glycérol + 3 acides gras. Saturés : tous les carbones liés à au moins deux H, chaînes alignées, point de fusion élevé (solides : graisses ; la plupart des triglycérides animaux ; ex. graisses animales, beurre). Insaturés : une ou plusieurs doubles liaisons C=C (mono-/polyinsaturés), coudes, chaînes non alignées, point de fusion peu élevé (liquides : huiles ; ex. huiles végétales, huiles de poisson)."
+  - "Rôles des triglycérides : nombreuses liaisons C–H riches en énergie ; réserves énergétiques plus efficaces que les glucides ; en cas de suralimentation en glucides, ceux-ci sont transformés en triglycérides ; stockés dans les cellules adipeuses ; couche d'isolant thermique."
+  - "Phospholipides : glycérol + 2 chaînes d'acides gras + 1 groupe phosphate, souvent lié à un groupement chargé ou polaire (ex. choline, groupe amine +) ; tête polaire (hydrophile), deux queues apolaires (hydrophobes) ; ex. lécithine (phosphatidylcholine). Dans l'eau : bicouche, base de toutes les membranes dans les cellules."
+  - "Autres lipides : terpènes (chaînes de carbone ; pigments : chlorophylle, carotène, rétinal ; caoutchouc, résines ; essences végétales : citronellol, limonène, eucalyptol) ; stéroïdes (quatre cycles de carbone ; cholestérol, acides biliaires, testostérone, œstrogène) ; prostaglandines (deux queues apolaires sur un cycle à 5 carbones ; ± 20 espèces ; messagers chimiques : vasodilatation, contraction de l'utérus) ; glycolipides (deux chaînes d'acides gras et un glucide ; gangliosides, cérébrosides). Le rétinal, dérivé de terpène, est à la base de la vision."
+
+traps:
+  - ["Phospholipide à 3 acides gras", "Phospholipide = 2 acides gras + 1 phosphate ; triglycéride = 3 acides gras", "p.27b, 29b"]
+  - ["Saturés = liquides", "Saturés = point de fusion élevé, solides ; insaturés = liquides", "p.28"]
+  - ["Glucides = meilleures réserves", "Triglycérides = réserves plus efficaces que les glucides", "p.29h"]
+  - ["Tête hydrophobe", "Tête polaire hydrophile ; queues apolaires hydrophobes", "p.29b"]
+  - ["Stéroïdes = cycle à 5 C", "Stéroïdes = 4 cycles ; prostaglandines = cycle à 5 C", "p.31b"]
+  - ["Rétinal = stéroïde", "Rétinal = dérivé de terpène", "p.32b"]
+
+mnemonics:
+  - ["Tri vs phospho", "Tri = trois acides gras ; phospho = 2 acides gras + phosphate", "Triglycéride 3 AG ; phospholipide 2 AG"]
+  - ["Les 4 autres familles", "Terpène = couleurs/parfums · stéroïde = 4 anneaux · prostaglandine = messager (cycle à 5) · glycolipide = sucre", "Terpènes · stéroïdes · prostaglandines · glycolipides"]
+
+quiz:
+  - q: "À propos des triglycérides :"
+    props:
+      - ["Un triglycéride est formé d'un glycérol et de trois acides gras.", true, "p.27b."]
+      - ["Les triglycérides saturés sont liquides à température ambiante.", false, "Point de fusion élevé : solides."]
+      - ["La plupart des triglycérides animaux sont saturés.", true, "p.28."]
+      - ["Les doubles liaisons forment des coudes dans les chaînes.", true, "Insaturés : chaînes non alignées."]
+      - ["Les triglycérides sont des réserves moins efficaces que les glucides.", false, "Plus efficaces."]
+  - q: "À propos des phospholipides :"
+    props:
+      - ["Ils comportent deux chaînes d'acides gras et un groupe phosphate.", true, "p.29b."]
+      - ["Leur tête est apolaire.", false, "Tête polaire hydrophile."]
+      - ["La lécithine est aussi appelée phosphatidylcholine.", true, "p.29b."]
+      - ["Ils forment spontanément une bicouche dans l'eau.", true, "p.31h."]
+      - ["La bicouche est la base de toutes les membranes cellulaires.", true, "p.31h."]
+  - q: "À propos des autres lipides :"
+    props:
+      - ["Les stéroïdes sont formés de quatre cycles de carbone associés.", true, "p.31b."]
+      - ["La testostérone est un terpène.", false, "C'est une hormone stéroïde."]
+      - ["Les prostaglandines sont des messagers chimiques.", true, "Vasodilatation, contraction de l'utérus."]
+      - ["Les glycolipides contiennent un glucide.", true, "Deux chaînes d'acides gras + un glucide."]
+      - ["Le rétinal est un dérivé de terpène.", true, "p.32b."]
+
+coverage:
+  - ["S1-1", "27h", "Lipides : définition et propriétés communes", 2]
+  - ["S1-1", "27b", "Triglycérides : glycérol + 3 acides gras", 3]
+  - ["S1-1", "28h", "Triglycérides saturés", 4]
+  - ["S1-1", "28b", "Triglycérides insaturés", 4]
+  - ["S1-1", "29h", "Rôles des triglycérides", 5]
+  - ["S1-1", "29b", "Phospholipides : structure, choline, lécithine, tête/queues", 6]
+  - ["S1-1", "30h", "Phospholipides (schéma, diapo répétée)", 6]
+  - ["S1-1", "30b", "Phospholipides (diapo répétée)", 6]
+  - ["S1-1", "31h", "Bicouche de phospholipides", 7]
+  - ["S1-1", "31b", "Autres lipides : terpènes, stéroïdes, prostaglandines, glycolipides", 9]
+  - ["S1-1", "32h", "Autres lipides (diapo répétée)", 9]
+  - ["S1-1", "32b", "Le rétinal, dérivé de terpène, base de la vision", 10]

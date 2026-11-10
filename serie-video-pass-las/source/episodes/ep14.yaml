@@ -1,0 +1,193 @@
+title: "Le cytosquelette en action et la matrice extracellulaire"
+subtitle: "Moteurs moléculaires · reptation · cils et flagelles · MEC · Ehlers-Danlos"
+source: "S1-1 p.60 et S1-2 p.1 à 2"
+chapter: "Partie I — Chapitre III. Structure de la cellule eucaryote — 6. Le cytosquelette (fin) · 7. Structures extra-cellulaires"
+objectives:
+  - "Associer chaque mouvement intracellulaire à la fibre impliquée."
+  - "Comparer les couples dynactine-dynéine et kinectine-kinésine."
+  - "Décrire la reptation, les cils et les flagelles."
+  - "Décrire la matrice extracellulaire, ses fonctions et le syndrome d'Ehlers-Danlos."
+
+scenes:
+  - kind: hook
+    title: "Des camions sur des rails"
+    ref: "S1-1 p.60"
+    big: "– ou + ?"
+    beats:
+      - say: "Dans ta cellule, des vésicules voyagent sur des rails, tirées par des moteurs. Deux moteurs, deux sens opposés. Lequel va où ?"
+      - say: "Au programme : les mouvements, les moteurs moléculaires, la reptation, les cils, puis la matrice extracellulaire."
+        show: "Moteurs · reptation · cils · *matrice extracellulaire*"
+
+  - kind: table
+    title: "Mouvements intracellulaires : qui fait quoi ?"
+    ref: "S1-1 p.60"
+    header: ["Mouvement", "Fibre"]
+    beats:
+      - say: "Les mouvements intracellulaires sont orchestrés par les microfilaments et les microtubules. Cinq exemples."
+      - say: "La répartition des chromosomes lors de la division : microtubules."
+        show: "Répartition des chromosomes (division) | *microtubules*"
+      - say: "La séparation des cellules filles : microfilaments."
+        show: "Séparation des cellules filles | *microfilaments*"
+      - say: "La contraction des cellules musculaires : microfilaments, avec la myosine."
+        show: "Contraction musculaire | *microfilaments* (myosine)"
+      - say: "Le positionnement d'enzymes dans la cellule : microfilaments."
+        show: "Positionnement d'enzymes | *microfilaments*"
+      - say: "Et le mouvement des vésicules : microtubules."
+        show: "Mouvement des vésicules | *microtubules*"
+
+  - kind: compare
+    title: "Les moteurs moléculaires"
+    ref: "S1-1 p.60"
+    header: ["", "Dynactine – dynéine", "Kinectine – kinésine"]
+    beats:
+      - say: "Deux couples de moteurs, qui roulent sur un microtubule, le rail."
+      - say: "La dynactine fixe les vésicules ; la kinectine fixe les vésicules du réticulum endoplasmique."
+        show: "Fixation | *dynactine* : vésicules | *kinectine* : vésicules (RE)"
+      - say: "Le moteur, qui consomme de l'ATP : la dynéine d'un côté, la kinésine de l'autre."
+        show: "Moteur (+ ATP) | *dynéine* | *kinésine*"
+      - say: "Et le sens : la dynéine va vers l'extrémité moins, la kinésine vers l'extrémité plus."
+        show: "Orientation | vers l'extrémité *–* | vers l'extrémité *+*"
+
+  - kind: mnemo
+    title: "Dynéine moins, kinésine plus"
+    ref: "S1-1 p.60"
+    phrase: "*D*ynéine = *D*escend (–) · *K*inésine = *K*ontinue (+)"
+    trap: "Dynéine → extrémité – ; kinésine → extrémité +."
+    beats:
+      - say: "La dynéine descend vers le moins ; la kinésine continue vers le plus."
+        show: "*Dynéine* → *–* · *Kinésine* → *+*"
+
+  - kind: figure
+    title: "Reptation, cils et flagelles"
+    ref: "S1-1 p.60"
+    fig: "S1-1:60b"
+    trap: "Reptation = microfilaments ; cils/flagelles = 9 paires + 2 microtubules."
+    beats:
+      - say: "Les déplacements cellulaires. La *reptation* implique surtout les microfilaments : allongement par polymérisation d'actine à l'avant, et contraction à l'arrière. Exemples : la cicatrisation, les métastases de tumeurs cancéreuses."
+        mark: ["Reptation", "cicatrisation"]
+        show: "*Reptation* : microfilaments · actine polymérise à l'avant, contraction à l'arrière · cicatrisation, métastases"
+      - say: "Les *flagelles*, longs, et les *cils*, plus courts, sont des extensions du cytoplasme délimitées par la membrane plasmique. Ils contiennent des microtubules : *neuf paires* en périphérie, plus *deux* au centre."
+        mark: ["Flagelles et cils", "9 paires"]
+        show: "*Flagelles* (longs) · *cils* (courts) : *9 paires + 2* microtubules"
+      - say: "Exemples : les spermatozoïdes, avec leurs flagelles, et les cellules de la surface interne de la trachée, avec leurs cils."
+        mark: ["spermatozoïdes", "trachée"]
+        show: "Ex. *spermatozoïdes* (flagelle) · *trachée* (cils)"
+
+  - kind: figure
+    title: "La matrice extracellulaire"
+    ref: "S1-2 p.1"
+    fig: "S1-2:1b"
+    trap: "Fibronectine (MEC) → intégrines (membrane) → microfilaments : la matrice influence la cellule."
+    beats:
+      - say: "Septième point du chapitre trois : les structures extracellulaires. Un ensemble de glycoprotéines sécrétées par la cellule forme la *matrice extracellulaire*."
+        mark: "glycoprotéines sécrétées"
+        show: "*MEC* = glycoprotéines *sécrétées* par la cellule"
+      - say: "Elles se présentent sous forme de fibres solides, comme le collagène, l'élastine, la fibronectine, ou en solution gélatineuse, les protéoglycans."
+        mark: ["fibres solides", "protéoglycans"]
+        show: "Fibres solides : *collagène*, *élastine*, *fibronectine* · gel : *protéoglycans*"
+      - say: "Elles se fixent à la membrane plasmique via les fibronectines, elles-mêmes liées aux *intégrines*, des protéines de la membrane. Les intégrines sont connectées aux microfilaments : la matrice peut donc influencer le comportement de la cellule."
+        mark: ["intégrines", "influencer"]
+        show: "Fibronectine → *intégrines* (membrane) → *microfilaments* ⇒ la MEC *influence* la cellule"
+
+  - kind: figure
+    title: "Fonctions de la MEC et syndrome d'Ehlers-Danlos"
+    ref: "S1-2 p.2"
+    fig: "S1-2:2h"
+    trap: "4 fonctions ; moins d'élastine avec l'âge → rides."
+    beats:
+      - say: "Quatre fonctions : la cohésion des cellules dans le tissu ; le soutien, élastique comme dans la peau, ou rigide comme dans le cartilage, les tendons, les ligaments, les os."
+        mark: ["cohésion", "soutien"]
+        show: "*Cohésion* · *soutien* élastique (peau) ou rigide (cartilage, tendons, ligaments, os)"
+      - say: "Le guidage des mouvements cellulaires, pendant le développement embryonnaire, la cicatrisation, ou pour les cellules immunitaires ; et le contrôle de l'hydratation et de la composition du milieu extracellulaire."
+        mark: ["guidage", "hydratation"]
+        show: "*Guidage* des mouvements · contrôle de l'*hydratation* et de la composition"
+      - say: "Et un détail du quotidien : la diminution de la synthèse d'élastine avec l'âge contribue à l'apparition des rides."
+        mark: "rides"
+        show: "↓ élastine avec l'âge → *rides*"
+
+  - kind: figure
+    title: "Le syndrome d'Ehlers-Danlos"
+    ref: "S1-2 p.2"
+    fig: "S1-2:2b"
+    trap: "Défaut de synthèse de COLLAGÈNE ; prévalence 1/15 000 ; pas de traitement curatif."
+    beats:
+      - say: "Une maladie de la matrice : le syndrome d'Ehlers-Danlos. Prévalence : un sur quinze mille. Cause : un défaut de synthèse de *collagène*."
+        mark: ["15 000", "collagène"]
+        show: "Ehlers-Danlos : *1/15 000* · défaut de synthèse de *collagène*"
+      - say: "Peau élastique et fragile, cicatrisation anormale, hyperlaxité des articulations, et dans certaines formes, fragilité des vaisseaux et de l'intestin. Sévérité variable : subluxations articulaires, douleurs chroniques, hémorragies, fatigue. Pas de traitement curatif."
+        mark: ["peau élastique", "curatif"]
+        show: "Peau élastique et fragile · hyperlaxité · vaisseaux, intestin · *pas de traitement curatif*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.60 · S1-2 p.1-2"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "La kinésine se déplace vers l'extrémité – du microtubule."
+      - "Les intégrines sont des protéines de la matrice extracellulaire."
+      - "Les cils contiennent 9 paires de microtubules en périphérie + 2 au centre."
+      - "Le syndrome d'Ehlers-Danlos est un défaut de synthèse d'élastine."
+    answer: [2]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse C. La kinésine va vers le plus, les intégrines sont des protéines de la membrane plasmique, et Ehlers-Danlos touche le collagène."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 15 : les jonctions cellulaires"
+    ref: "S1-2 p.3"
+    big: "3 jonctions"
+    beats:
+      - say: "Prochain épisode : comment les cellules s'attachent entre elles, avec trois types de jonctions, et pourquoi l'utérus se synchronise avant l'accouchement."
+        show: "Étanche · adhérente · *communicante*"
+
+recap:
+  - "Mouvements intracellulaires orchestrés par les microfilaments et les microtubules : répartition des chromosomes (microtubules) ; séparation des cellules filles (microfilaments) ; contraction musculaire (microfilaments, myosine) ; positionnement d'enzymes (microfilaments) ; mouvement de vésicules (microtubules)."
+  - "Moteurs moléculaires : couple dynactine-dynéine (dynactine : fixation des vésicules ; dynéine : moteur + ATP ; microtubule = rail ; vers l'extrémité –) ; couple kinectine-kinésine (kinectine : fixation des vésicules du RE ; kinésine : moteur + ATP ; vers l'extrémité +)."
+  - "Reptation : principalement les microfilaments ; allongement (polymérisation d'actine) à l'avant, contraction à l'arrière ; ex. cicatrisation, métastases. Flagelles (longs) et cils (courts) : extensions du cytoplasme délimitées par la membrane plasmique ; microtubules 9 paires en périphérie + 2 au centre ; ex. spermatozoïdes (flagelles), surface interne de la trachée (cils)."
+  - "Matrice extracellulaire : glycoprotéines sécrétées par la cellule ; fibres solides (collagène, élastine, fibronectine) ou solution gélatineuse (protéoglycans) ; fixation à la membrane via les fibronectines, liées aux intégrines (protéines de la membrane), connectées aux microfilaments ⇒ la matrice peut influencer le comportement de la cellule."
+  - "Fonctions de la MEC : cohésion des cellules dans le tissu ; soutien élastique (peau) ou rigide (cartilage, tendons, ligaments, os) ; guidage des mouvements cellulaires (développement embryonnaire, cicatrisation, cellules immunitaires) ; contrôle de l'hydratation et de la composition du milieu extracellulaire. La diminution de la synthèse d'élastine avec l'âge contribue aux rides."
+  - "Syndrome d'Ehlers-Danlos : prévalence 1/15 000 ; défaut de synthèse de collagène ; peau élastique et fragile, cicatrisation anormale, hyperlaxité des articulations, fragilité des vaisseaux et de l'intestin (certaines formes) ; sévérité variable (subluxations, douleurs chroniques, hémorragies, fatigue) ; pas de traitement curatif."
+
+traps:
+  - ["Vésicules transportées par les microfilaments", "Mouvement de vésicules = microtubules", "p.60h"]
+  - ["Dynéine → +", "Dynéine → – ; kinésine → +", "p.60b"]
+  - ["Reptation = microtubules", "Reptation = principalement microfilaments", "p.60b"]
+  - ["Intégrines = protéines de la MEC", "Intégrines = protéines de la membrane plasmique ; fibronectine = MEC", "S1-2 p.1b"]
+  - ["Ehlers-Danlos = élastine", "Défaut de synthèse de collagène ; l'élastine est liée aux rides", "S1-2 p.2"]
+
+mnemonics:
+  - ["Sens des moteurs", "Dynéine = Descend (–) ; Kinésine = Kontinue (+)", "Dynéine → – · kinésine → +"]
+  - ["Chaîne MEC → cellule", "« Fibro-Inté-Micro » : la matrice tire la corde jusqu'au cytosquelette", "Fibronectine → intégrines → microfilaments"]
+
+quiz:
+  - q: "À propos des mouvements et des moteurs :"
+    props:
+      - ["La répartition des chromosomes lors de la division fait intervenir les microtubules.", true, "p.60h."]
+      - ["La contraction musculaire fait intervenir les microfilaments et la myosine.", true, "p.60h."]
+      - ["La dynéine se déplace vers l'extrémité + du microtubule.", false, "Vers l'extrémité –."]
+      - ["La kinectine fixe des vésicules du RE.", true, "p.60b."]
+      - ["Les moteurs moléculaires fonctionnent sans ATP.", false, "Moteur + ATP (énergie)."]
+  - q: "Reptation, cils et flagelles :"
+    props:
+      - ["La reptation implique principalement les microfilaments.", true, "p.60b."]
+      - ["Les métastases de tumeurs cancéreuses sont un exemple de reptation.", true, "Avec la cicatrisation."]
+      - ["Les cils et flagelles contiennent 9 triplets de microtubules.", false, "9 paires + 2 au centre (9 triplets = centrioles)."]
+      - ["Les cellules de la surface interne de la trachée portent des cils.", true, "p.60b."]
+      - ["Les flagelles sont plus courts que les cils.", false, "Flagelles longs, cils plus courts."]
+  - q: "Matrice extracellulaire :"
+    props:
+      - ["Le collagène, l'élastine et la fibronectine forment des fibres solides.", true, "S1-2 p.1b."]
+      - ["Les protéoglycans sont en solution gélatineuse.", true, "S1-2 p.1b."]
+      - ["La matrice peut influencer le comportement de la cellule.", true, "Via intégrines et microfilaments."]
+      - ["La diminution d'élastine avec l'âge contribue aux rides.", true, "S1-2 p.2h."]
+      - ["Le syndrome d'Ehlers-Danlos a une prévalence de 1/1 500.", false, "1/15 000."]
+
+coverage:
+  - ["S1-1", "60h", "Mouvements intracellulaires (5 exemples)", 2]
+  - ["S1-1", "60b", "Moteurs moléculaires ; reptation ; cils et flagelles", 3]
+  - ["S1-2", "1h", "Sommaire du chapitre III (7. structures extra-cellulaires)", 6]
+  - ["S1-2", "1b", "Matrice extracellulaire : composants, fibronectine, intégrines", 6]
+  - ["S1-2", "2h", "Fonctions de la MEC, élastine et rides", 7]
+  - ["S1-2", "2b", "Syndrome d'Ehlers-Danlos", 8]

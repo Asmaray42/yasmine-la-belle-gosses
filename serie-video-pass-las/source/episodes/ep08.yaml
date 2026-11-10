@@ -1,0 +1,244 @@
+title: "Les protéines (2) : repliement et dénaturation"
+subtitle: "4 niveaux de structure · domaines · chaperons · Ebola · dénaturation"
+source: "S1-1 p.36b à 41"
+chapter: "Partie I — Chapitre II. Les composés du vivant — 4. Les macromolécules — 6. Les protéines (suite)"
+objectives:
+  - "Définir les 4 niveaux de structure des protéines."
+  - "Citer les 5 interactions de la structure tertiaire."
+  - "Expliquer les domaines fonctionnels et le rôle des protéines chaperons (exemple d'Ebola)."
+  - "Citer les 3 causes de dénaturation et leurs applications à la conservation des aliments."
+
+scenes:
+  - kind: hook
+    title: "Pourquoi un œuf cuit ne redevient jamais cru ?"
+    ref: "S1-1 p.41"
+    big: "DÉPLIÉE"
+    beats:
+      - say: "Un œuf cuit ne redevient jamais cru. Ses protéines se sont dépliées, et le cours le dit : la renaturation est souvent impossible."
+      - say: "Au programme : les quatre niveaux de structure, les domaines, les protéines chaperons, et la dénaturation."
+        show: "*4* niveaux · domaines · chaperons · *dénaturation*"
+
+  - kind: figure
+    title: "Quatre niveaux de structure"
+    ref: "S1-1 p.36"
+    fig: "S1-1:36b"
+    trap: "Quaternaire = seulement si la protéine est composée de PLUSIEURS polypeptides."
+    beats:
+      - say: "Structure *primaire* : la séquence des acides aminés dans le polypeptide."
+        mark: "structure primaire"
+        show: "*Primaire* = séquence des acides aminés"
+      - say: "Structure *secondaire* : le premier niveau de repliements, l'hélice alpha et le feuillet plissé bêta."
+        mark: "structure secondaire"
+        show: "*Secondaire* = 1er repliement : hélice *α*, feuillet plissé *β*"
+      - say: "Structure *tertiaire* : le deuxième niveau de repliements, qui donne la forme finale du polypeptide."
+        mark: "structure tertiaire"
+        show: "*Tertiaire* = 2e repliement → forme *finale* du polypeptide"
+      - say: "Structure *quaternaire* : l'association de plusieurs polypeptides, quand la protéine en contient plusieurs."
+        mark: "structure quaternaire"
+        show: "*Quaternaire* = association de *plusieurs* polypeptides"
+
+  - kind: figure
+    title: "Primaire et secondaire"
+    ref: "S1-1 p.37"
+    fig: "S1-1:37b"
+    trap: "Secondaire = ponts H entre N–H et C=O de la CHAÎNE PRINCIPALE (pas des groupes R)."
+    beats:
+      - say: "La structure primaire, c'est la séquence ; et la nature des acides aminés présents détermine tous les autres niveaux de structure."
+        show: "La nature des acides aminés *détermine* les autres niveaux"
+      - say: "La structure secondaire se forme via des *ponts hydrogène* entre les N H et les C double liaison O des *chaînes principales*."
+        mark: "ponts hydrogène"
+        show: "Secondaire : ponts H entre N–H et C=O des *chaînes principales*"
+      - say: "Le feuillet plissé bêta, ce sont deux segments du polypeptide alignés côte à côte. L'hélice alpha, un segment en spirale. Et un polypeptide peut contenir plusieurs de chacune."
+        mark: ["feuillets plissés", "hélice"]
+        show: "Feuillet *β* : 2 segments côte à côte · hélice *α* : spirale · plusieurs de chaque possibles"
+
+  - kind: figure
+    title: "La structure tertiaire et ses 5 interactions"
+    ref: "S1-1 p.38"
+    fig: "S1-1:38b"
+    trap: "Tertiaire = interactions entre GROUPES R ; ponts disulfure entre 2 cystéines."
+    beats:
+      - say: "La structure tertiaire ajoute des repliements pour donner la structure finale. Elle découle des interactions entre les *groupes R*. Il y en a cinq."
+        mark: "groupes R"
+        show: "Tertiaire : interactions entre *groupes R*"
+      - say: "Un, l'*exclusion hydrophobe* : les acides aminés hydrophobes au centre. Deux, des *liaisons hydrogène* entre groupes R polaires."
+        mark: ["exclusion hydrophobe", "liaisons hydrogène"]
+        show: "1. *Exclusion hydrophobe* (aa hydrophobes au centre) · 2. *Liaisons H* entre R polaires"
+      - say: "Trois, des *ponts disulfure* entre deux cystéines. Quatre, des *liaisons ioniques* entre groupes R de charge opposée. Cinq, des *attractions de van der Waals* entre groupes R apolaires."
+        mark: ["ponts disulfure", "liaisons ioniques", "van der Waals"]
+        show: "3. *Ponts disulfure* (2 cystéines) · 4. *Ioniques* (charges opposées) · 5. *Van der Waals* (R apolaires)"
+
+  - kind: mnemo
+    title: "Les 5 liens de la tertiaire"
+    ref: "S1-1 p.38"
+    phrase: "*E*lle *H*abille *D*eux *I*nvités *V*IP"
+    trap: "Exclusion hydrophobe · liaisons Hydrogène · ponts Disulfure · liaisons Ioniques · Van der Waals."
+    beats:
+      - say: "“Elle Habille Deux Invités VIP.”"
+      - say: "Exclusion hydrophobe, liaisons hydrogène, ponts disulfure, liaisons ioniques, van der Waals."
+        show: "*E*xclusion hydrophobe · *H*ydrogène · *D*isulfure · *I*oniques · *V*an der Waals"
+
+  - kind: figure
+    title: "La structure quaternaire, facultative"
+    ref: "S1-1 p.39"
+    fig: "S1-1:39h"
+    trap: "Sous-unités = polypeptides IDENTIQUES OU DIFFÉRENTS."
+    beats:
+      - say: "La structure quaternaire est *facultative* : c'est l'association de plusieurs polypeptides, les sous-unités, pour former la protéine fonctionnelle. Ces sous-unités peuvent être identiques ou différentes."
+        mark: ["facultative", "identiques ou différents"]
+        show: "*Facultative* · sous-unités *identiques ou différentes*"
+
+  - kind: figure
+    title: "Les domaines fonctionnels"
+    ref: "S1-1 p.39"
+    fig: "S1-1:39b"
+    trap: "Domaines issus de la structure TERTIAIRE ; relation structure ↔ fonction."
+    beats:
+      - say: "La structure tertiaire mène à la formation de *domaines fonctionnels* : des acides aminés rapprochés dans une structure 3D compatible avec une fonction."
+        mark: "domaines fonctionnels"
+        show: "Tertiaire → *domaines fonctionnels* (structure 3D compatible avec la fonction)"
+      - say: "Une protéine en a souvent plusieurs : un domaine enzymatique, un domaine de reconnaissance du substrat, un domaine d'interaction avec une autre protéine. C'est la relation entre structure et fonction."
+        mark: ["domaine enzymatique", "relation entre la structure"]
+        show: "Ex. enzymatique · reconnaissance du substrat · interaction protéine ⇒ *structure ↔ fonction*"
+
+  - kind: figure
+    title: "Repliement et protéines chaperons"
+    ref: "S1-1 p.40"
+    fig: "S1-1:40h"
+    trap: "La PLUPART se replient seules ; d'autres nécessitent un chaperon."
+    beats:
+      - say: "La plupart des protéines néo-synthétisées sont capables de se replier d'elles-mêmes. D'autres nécessitent la présence d'une *protéine chaperon* pour adopter la bonne conformation."
+        mark: ["La plupart", "chaperone"]
+        show: "La *plupart* se replient seules · d'autres ont besoin d'un *chaperon*"
+
+  - kind: figure
+    title: "Chaperon et virus Ebola"
+    ref: "S1-1 p.40"
+    fig: "S1-1:40b"
+    trap: "HSPA5 = chaperon fourni par la CELLULE INFECTÉE ; épidémie 2013-2016 > 10 000 décès."
+    beats:
+      - say: "Exemple : le virus Ebola, responsable d'une fièvre hémorragique souvent mortelle, transmise via les fluides corporels. La dernière épidémie, en Afrique de l'Ouest, de 2013 à 2016, a fait plus de dix mille décès."
+        mark: ["Fièvre hémorragique", "2013-2016"]
+        show: "Ebola : fièvre hémorragique · fluides corporels · 2013-2016 : > *10 000* décès"
+      - say: "Certaines protéines du virus ont besoin d'un chaperon fourni par la *cellule infectée*, HSPA5, pour bien se replier. L'inhiber par un agent pharmacologique semble diminuer la virulence."
+        mark: ["HSPA5", "virulence"]
+        show: "Chaperon *HSPA5* de la cellule infectée · son inhibition semble ↓ la *virulence*"
+
+  - kind: figure
+    title: "La dénaturation inactive les protéines"
+    ref: "S1-1 p.41"
+    fig: "S1-1:41h"
+    trap: "Renaturation possible pour CERTAINES protéines, mais SOUVENT impossible."
+    beats:
+      - say: "Certaines conditions font se déplier les protéines : c'est la *dénaturation*. Trois causes : un changement de pH, un changement de concentration ionique, une augmentation de la température."
+        mark: ["dénaturation", "changement de pH", "température"]
+        show: "*Dénaturation* : ∆ pH · ∆ concentration *ionique* · ↑ *température*"
+      - say: "La renaturation, reprendre sa forme après dénaturation, est possible pour certaines protéines, mais souvent impossible."
+        mark: "renaturation"
+        show: "*Renaturation* : possible pour certaines, *souvent impossible*"
+
+  - kind: table
+    title: "Dénaturer pour conserver les aliments"
+    ref: "S1-1 p.41"
+    header: ["Méthode", "Paramètre"]
+    beats:
+      - say: "La conservation des aliments repose sur la dénaturation des protéines, y compris celles des micro-organismes."
+      - say: "Le vinaigre agit sur le pH."
+        show: "Vinaigre | *pH*"
+      - say: "La salaison, sur la concentration ionique."
+        show: "Salaison | *concentration ionique*"
+      - say: "La cuisson, sur la température."
+        show: "Cuisson | *température*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.37-41"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "La structure secondaire dépend des interactions entre groupes R."
+      - "Les ponts disulfure se forment entre deux cystéines."
+      - "La structure quaternaire existe dans toutes les protéines."
+      - "La renaturation est toujours possible."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. La secondaire dépend des ponts H de la chaîne principale ; la quaternaire est facultative ; la renaturation est souvent impossible."
+        reveal: true
+
+  - kind: recap
+    title: "Récap de l'épisode"
+    ref: "S1-1 p.36-41"
+    beats:
+      - say: "On récapitule."
+      - say: "Primaire, la séquence ; secondaire, hélice alpha et feuillet bêta par ponts H de la chaîne principale ; tertiaire, forme finale par interactions entre groupes R ; quaternaire, facultative."
+        show: "Primaire · secondaire (α, β) · tertiaire (groupes R) · quaternaire (facultative)"
+      - say: "Domaines fonctionnels, chaperons comme HSPA5 pour Ebola."
+        show: "Domaines fonctionnels · chaperon *HSPA5* (Ebola)"
+      - say: "Dénaturation par le pH, la concentration ionique et la température : vinaigre, salaison, cuisson."
+        show: "Dénaturation : pH (vinaigre) · ions (salaison) · T° (cuisson)"
+
+  - kind: outro
+    title: "Épisode 9 : ADN et ARN"
+    ref: "S1-1 p.42"
+    big: "5' → 3'"
+    beats:
+      - say: "Prochain épisode : les acides nucléiques, ADN et ARN, et le sens 5 prime vers 3 prime que tu retrouveras partout."
+        show: "ADN · ARN · sens *5' → 3'*"
+
+recap:
+  - "Niveaux de structure : primaire = séquence des acides aminés ; secondaire = premier niveau de repliements (hélice α, feuillet plissé β) ; tertiaire = deuxième niveau, forme finale du polypeptide ; quaternaire = association de plusieurs polypeptides (quand la protéine est composée de plusieurs polypeptides)."
+  - "La nature des acides aminés détermine les autres niveaux de structure. Secondaire : ponts hydrogène entre N–H et C=O des chaînes principales ; feuillet β (deux segments côte à côte), hélice α (segment en spirale) ; plusieurs de chacune possibles."
+  - "Tertiaire : repliements supplémentaires découlant des interactions entre groupes R : exclusion hydrophobe (aa hydrophobes au centre), liaisons hydrogène entre R polaires, ponts disulfure entre deux cystéines, liaisons ioniques entre R de charge opposée, attractions de van der Waals entre R apolaires."
+  - "Quaternaire (facultative) : association de plusieurs polypeptides (sous-unités identiques ou différentes) pour former la protéine fonctionnelle."
+  - "Domaines fonctionnels issus de la structure tertiaire (rapprochement des aa, structure 3D compatible avec la fonction) ; souvent plusieurs : domaine enzymatique, de reconnaissance du substrat, d'interaction avec une autre protéine ⇒ relation structure-fonction."
+  - "Repliement : la plupart des protéines néo-synthétisées se replient d'elles-mêmes ; d'autres nécessitent une protéine chaperon. Virus Ebola : fièvre hémorragique (souvent mortelle), transmission via fluides corporels, épidémie d'Afrique de l'Ouest 2013-2016 (> 10 000 décès) ; certaines protéines virales nécessitent le chaperon HSPA5 de la cellule infectée ; son inhibition pharmacologique semble diminuer la virulence."
+  - "Dénaturation (déplier les protéines) : changement de pH, de concentration ionique, augmentation de la température ; renaturation possible pour certaines protéines mais souvent impossible. Conservation des aliments : vinaigre (pH), salaison ([ionique]), cuisson (température), y compris pour les protéines des micro-organismes."
+
+traps:
+  - ["Secondaire = groupes R", "Secondaire = ponts H de la chaîne principale ; tertiaire = groupes R", "p.37b-38"]
+  - ["Ponts disulfure entre 2 méthionines", "Entre deux cystéines", "p.38b"]
+  - ["Quaternaire obligatoire", "Facultative ; sous-unités identiques ou différentes", "p.39h"]
+  - ["Toutes les protéines ont besoin d'un chaperon", "La plupart se replient seules", "p.40h"]
+  - ["HSPA5 = protéine du virus", "Chaperon fourni par la cellule infectée", "p.40b"]
+  - ["Renaturation toujours possible", "Possible pour certaines, souvent impossible", "p.41h"]
+
+mnemonics:
+  - ["Les 5 interactions de la tertiaire", "« Elle Habille Deux Invités VIP »", "Exclusion hydrophobe · Hydrogène · Disulfure · Ioniques · Van der Waals"]
+  - ["Conservation des aliments", "Vinaigre-pH, Sel-ions, Cuisson-chaleur", "pH · concentration ionique · température"]
+
+quiz:
+  - q: "À propos des niveaux de structure :"
+    props:
+      - ["La structure primaire correspond à la séquence des acides aminés.", true, "p.36b."]
+      - ["L'hélice α et le feuillet plissé β sont des structures tertiaires.", false, "Ce sont des structures secondaires."]
+      - ["La structure tertiaire découle d'interactions entre groupes R.", true, "p.38h."]
+      - ["Un polypeptide peut contenir plusieurs hélices α.", true, "p.37b."]
+      - ["Les sous-unités d'une protéine quaternaire sont toujours identiques.", false, "Identiques ou différentes."]
+  - q: "Interactions de la structure tertiaire :"
+    props:
+      - ["Les acides aminés hydrophobes se placent au centre (exclusion hydrophobe).", true, "p.38b."]
+      - ["Les ponts disulfure se forment entre deux cystéines.", true, "p.38b."]
+      - ["Les liaisons ioniques se forment entre groupes R de même charge.", false, "De charge opposée."]
+      - ["Les attractions de van der Waals concernent les groupes R apolaires.", true, "p.38b."]
+      - ["Des liaisons hydrogène se forment entre groupes R polaires.", true, "p.38b."]
+  - q: "Chaperons et dénaturation :"
+    props:
+      - ["Certaines protéines du virus Ebola nécessitent le chaperon HSPA5.", true, "Fourni par la cellule infectée."]
+      - ["L'inhibition d'HSPA5 semble augmenter la virulence d'Ebola.", false, "Elle semble la diminuer."]
+      - ["L'augmentation de la température peut dénaturer une protéine.", true, "p.41h."]
+      - ["La salaison agit sur la concentration ionique.", true, "p.41b."]
+      - ["La renaturation est toujours impossible.", false, "Possible pour certaines protéines, souvent impossible."]
+
+coverage:
+  - ["S1-1", "36b", "Les 4 niveaux de structure", 2]
+  - ["S1-1", "37h", "Structure primaire ; la nature des aa détermine les autres niveaux", 3]
+  - ["S1-1", "37b", "Structure secondaire : ponts H, feuillet β, hélice α", 3]
+  - ["S1-1", "38h", "Structure tertiaire : interactions entre groupes R", 4]
+  - ["S1-1", "38b", "5 interactions de la structure tertiaire", 4]
+  - ["S1-1", "39h", "Structure quaternaire facultative, sous-unités", 6]
+  - ["S1-1", "39b", "Domaines fonctionnels, relation structure-fonction", 7]
+  - ["S1-1", "40h", "Repliement, protéines chaperons", 8]
+  - ["S1-1", "40b", "Chaperon HSPA5 et virus Ebola", 9]
+  - ["S1-1", "41h", "Dénaturation (pH, ions, température), renaturation", 10]
+  - ["S1-1", "41b", "Conservation des aliments (vinaigre, salaison, cuisson)", 11]

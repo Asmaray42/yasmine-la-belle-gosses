@@ -1,0 +1,181 @@
+title: "La membrane plasmique : architecture et protéines"
+subtitle: "4 composants · bicouche · fluidité · 6 fonctions · transmembranaires vs extrinsèques"
+source: "S1-2 p.7 à 10h"
+chapter: "Partie I — Chapitre IV. La membrane plasmique et ses fonctions — 1. Structure générale · 2. Bicouche · 3. Protéines membranaires"
+objectives:
+  - "Citer les 6 points du chapitre IV."
+  - "Décrire les 4 composants de la membrane plasmique."
+  - "Expliquer les propriétés de la bicouche (barrière, fluidité)."
+  - "Citer les 6 fonctions des protéines membranaires et leurs 2 types structuraux."
+
+scenes:
+  - kind: hook
+    title: "Une frontière vivante"
+    ref: "S1-2 p.7"
+    big: "4"
+    beats:
+      - say: "La membrane plasmique n'est pas un simple sac : c'est une frontière fluide, avec des portes, des antennes et des badges d'identité."
+      - say: "Au programme : ses quatre composants, la bicouche, et les protéines membranaires."
+        show: "*4* composants · bicouche · *protéines membranaires*"
+
+  - kind: list
+    title: "Chapitre IV : la membrane plasmique"
+    ref: "S1-2 p.7"
+    trap: "6 points ; cet épisode : points 1 à 3."
+    beats:
+      - say: "Chapitre quatre : la membrane plasmique et ses fonctions, en six points."
+      - say: "Structure générale ; propriétés de la bicouche lipidique ; protéines membranaires."
+        show: "1. Structure générale · 2. Propriétés de la bicouche · 3. Protéines membranaires"
+      - say: "Transport passif ; transport actif ; endocytose et exocytose."
+        show: "4. Transport passif · 5. Transport actif · 6. Endocytose et exocytose"
+
+  - kind: figure
+    title: "Les 4 composants de la membrane plasmique"
+    ref: "S1-2 p.7"
+    fig: "S1-2:7b"
+    trap: "Glycocalyx = chaînes glucidiques des glycoprotéines ET des glycolipides ; cholestérol chez les cellules animales."
+    beats:
+      - say: "Un : une *bicouche de phospholipides*, qui forme une barrière imperméable, avec du cholestérol dans les cellules animales."
+        mark: ["bicouche de phospholipides", "cholestérol"]
+        show: "1. *Bicouche de phospholipides* (barrière) + *cholestérol* (cellules animales)"
+      - say: "Deux : des *protéines transmembranaires*, aux fonctions diverses, transport, communication."
+        mark: "protéines transmembranaires"
+        show: "2. *Protéines transmembranaires* (transport, communication…)"
+      - say: "Trois : un réseau de protéines intracellulaires, dites périphériques, liées au cytosquelette, qui assurent le soutien."
+        mark: "réseau de protéines"
+        show: "3. Réseau de protéines *périphériques* intracellulaires liées au cytosquelette (soutien)"
+      - say: "Quatre : des marqueurs de surface, des chaînes glucidiques liées à des protéines, les glycoprotéines, ou à des lipides, les glycolipides. Ils donnent l'identité des cellules, et forment ensemble le *glycocalyx*."
+        mark: ["marqueurs de surface", "glycocalyx"]
+        show: "4. Marqueurs de surface (glycoprotéines, glycolipides) = *identité* → *glycocalyx*"
+
+  - kind: figure
+    title: "La bicouche lipidique et sa fluidité"
+    ref: "S1-2 p.8"
+    fig: "S1-2:8h"
+    trap: "La zone INTERNE APOLAIRE empêche le passage des substances hydrophiles."
+    beats:
+      - say: "Le constituant principal : les phospholipides, avec une tête polaire et deux queues apolaires. Ils forment spontanément une bicouche, têtes vers le fluide extracellulaire et vers le cytosol."
+        mark: ["forment spontanément", "têtes polaires"]
+        show: "Phospholipides → bicouche *spontanée* (têtes vers l'extérieur et le cytosol)"
+      - say: "La zone interne apolaire empêche le passage des substances hydrophiles."
+        mark: "zone interne apolaire"
+        show: "Zone interne *apolaire* → bloque les substances *hydrophiles*"
+      - say: "Et la membrane est *fluide* : les phospholipides se déplacent les uns par rapport aux autres, ce qui entraîne des mouvements dans la membrane et le déplacement des protéines membranaires, comme le montre l'expérience du schéma."
+        mark: ["Fluidité", "expérience"]
+        show: "*Fluidité* : phospholipides mobiles → déplacement des *protéines* membranaires"
+
+  - kind: cards
+    title: "Les 6 fonctions des protéines membranaires"
+    ref: "S1-2 p.8-9"
+    trap: "Transporteurs = 2 types : canaux OU transporteurs ; marqueurs = le plus souvent des glycoprotéines."
+    beats:
+      - say: "Six fonctions."
+      - say: "Les transporteurs : transfert sélectif de substances, entrée ou sortie, de deux types, les canaux ou les transporteurs."
+        show: "*Transporteurs* : transfert *sélectif* · 2 types : canaux ou transporteurs"
+      - say: "Les enzymes : de nombreuses réactions ont lieu à la face interne de la membrane."
+        show: "*Enzymes* : réactions à la face *interne*"
+      - say: "Les récepteurs de surface : ils reconnaissent des molécules à l'extérieur et transmettent un signal chimique à l'intérieur."
+        show: "*Récepteurs* : reconnaissent dehors → signal dedans"
+      - say: "Les marqueurs de surface : le plus souvent des glycoprotéines, qui donnent une identité spécifique."
+        show: "*Marqueurs* : surtout *glycoprotéines*, identité"
+      - say: "Les protéines d'adhérence : elles font adhérer les cellules entre elles, de façon momentanée ou permanente."
+        show: "*Adhérence* : momentanée ou permanente"
+      - say: "Et les protéines de fixation au cytosquelette : souvent des protéines d'adhérence, fixées via des protéines de liaison, dites adaptatrices."
+        show: "*Fixation au cytosquelette* : via protéines *adaptatrices*"
+
+  - kind: mnemo
+    title: "Les 6 fonctions : « TERMAF »"
+    ref: "S1-2 p.8-9"
+    phrase: "*T*u *E*s *R*eçu *M*ais *A*ttention *F*ragile"
+    trap: "Transporteurs · Enzymes · Récepteurs · Marqueurs · Adhérence · Fixation au cytosquelette."
+    beats:
+      - say: "“Tu Es Reçu, Mais Attention, Fragile.” Transporteurs, enzymes, récepteurs, marqueurs, adhérence, fixation au cytosquelette."
+        show: "*T*ransporteurs · *E*nzymes · *R*écepteurs · *M*arqueurs · *A*dhérence · *F*ixation"
+
+  - kind: figure
+    title: "Transmembranaires vs extrinsèques"
+    ref: "S1-2 p.10"
+    fig: "S1-2:10h"
+    trap: "Domaine transmembranaire = acides aminés APOLAIRES ; extrinsèques = molécules d'ancrage (lipides modifiés)."
+    beats:
+      - say: "Les *protéines transmembranaires* traversent la membrane de part en part. Elles ont un ou plusieurs domaines transmembranaires, faits d'acides aminés *apolaires*, hydrophobes, retenus dans la bicouche. Leurs extrémités polaires font saillie de part et d'autre."
+        mark: ["traversent la membrane", "apolaires"]
+        show: "*Transmembranaires* : domaines d'acides aminés *apolaires* · extrémités polaires de chaque côté"
+      - say: "Les *protéines extrinsèques* sont attachées à la membrane par des molécules d'ancrage, qui s'associent aux phospholipides. Ce sont des lipides modifiés, attachés d'un côté à la protéine, d'où le nom de lipoprotéine, et insérés de l'autre dans la membrane."
+        mark: ["extrinsèques", "lipides modifiés"]
+        show: "*Extrinsèques* : *molécules d'ancrage* = lipides modifiés (lipoprotéine)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.7-10"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Le glycocalyx est formé uniquement de glycolipides."
+      - "Le domaine transmembranaire est formé d'acides aminés apolaires."
+      - "Les protéines extrinsèques traversent la membrane de part en part."
+      - "La bicouche laisse passer facilement les substances hydrophiles."
+    answer: [1]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse B. Le glycocalyx réunit glycoprotéines et glycolipides, les extrinsèques sont ancrées, et la zone apolaire bloque les hydrophiles."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 17 : diffusion et osmose"
+    ref: "S1-2 p.10"
+    big: "0,9 %"
+    beats:
+      - say: "Prochain épisode : comment les molécules traversent la membrane sans énergie, la diffusion, l'osmose, et le secret du 0,9 % de sel des perfusions."
+        show: "Diffusion · osmose · *0,9 % NaCl*"
+
+recap:
+  - "Chapitre IV : 1. Structure générale ; 2. Propriétés de la bicouche lipidique ; 3. Les protéines membranaires ; 4. Transport passif ; 5. Transport actif ; 6. Endocytose et exocytose."
+  - "Membrane plasmique, quatre types de composants : bicouche de phospholipides (barrière imperméable) + cholestérol (cellules animales) ; protéines transmembranaires (transport, communication…) ; réseau de protéines intracellulaires périphériques liées au cytosquelette (soutien) ; marqueurs de surface (chaînes glucidiques liées à des protéines = glycoprotéines, ou à des lipides = glycolipides) qui donnent l'identité des cellules et forment le glycocalyx."
+  - "Bicouche : phospholipides (tête polaire, deux queues apolaires) forment spontanément une bicouche ; la zone interne apolaire empêche le passage de substances hydrophiles. Fluidité : les phospholipides se déplacent les uns par rapport aux autres ⇒ mouvements dans la membrane et déplacement des protéines membranaires (expérience)."
+  - "Fonctions des protéines membranaires : transporteurs (transfert sélectif, entrée ou sortie ; canaux ou transporteurs) ; enzymes (réactions à la face interne) ; récepteurs de surface (reconnaissent des molécules à l'extérieur, transmettent un signal à l'intérieur) ; marqueurs de surface (le plus souvent des glycoprotéines, identité spécifique) ; protéines d'adhérence (interactions momentanées ou permanentes) ; protéines de fixation au cytosquelette (souvent des protéines d'adhérence, via des protéines de liaison adaptatrices)."
+  - "Structure : protéines transmembranaires (traversent la membrane ; un ou plusieurs domaines transmembranaires d'acides aminés apolaires retenus dans la bicouche ; extrémités polaires de part et d'autre) ; protéines extrinsèques (attachées par des molécules d'ancrage = lipides modifiés attachés à la protéine, lipoprotéine, et insérés dans la membrane)."
+
+traps:
+  - ["Cholestérol dans toutes les membranes", "Cholestérol dans les cellules animales", "p.7b"]
+  - ["Glycocalyx = glycolipides seuls", "Glycoprotéines + glycolipides", "p.7b"]
+  - ["Bicouche perméable aux hydrophiles", "La zone interne apolaire empêche leur passage", "p.8h"]
+  - ["Membrane rigide", "Fluide : phospholipides et protéines se déplacent", "p.8h"]
+  - ["Enzymes à la face externe", "Face interne de la membrane", "p.8b"]
+  - ["Domaine transmembranaire polaire", "Acides aminés apolaires (hydrophobes)", "p.10h"]
+
+mnemonics:
+  - ["6 fonctions des protéines membranaires", "« Tu Es Reçu, Mais Attention, Fragile »", "Transporteurs · Enzymes · Récepteurs · Marqueurs · Adhérence · Fixation au cytosquelette"]
+  - ["4 composants", "« Le mur, les portes, l'échafaudage, le badge »", "Bicouche · protéines transmembranaires · réseau périphérique · marqueurs (glycocalyx)"]
+
+quiz:
+  - q: "Composants de la membrane plasmique :"
+    props:
+      - ["La bicouche de phospholipides forme une barrière imperméable.", true, "p.7b."]
+      - ["Le cholestérol est présent dans la membrane des cellules animales.", true, "p.7b."]
+      - ["Les marqueurs de surface forment ensemble le glycocalyx.", true, "p.7b."]
+      - ["Le réseau de protéines périphériques est extracellulaire.", false, "Il est intracellulaire, lié au cytosquelette."]
+      - ["Les marqueurs de surface donnent l'identité des cellules.", true, "p.7b."]
+  - q: "Bicouche et fluidité :"
+    props:
+      - ["Les phospholipides forment spontanément une bicouche.", true, "p.8h."]
+      - ["La zone interne apolaire empêche le passage des substances hydrophiles.", true, "p.8h."]
+      - ["Les protéines membranaires sont immobiles.", false, "Elles se déplacent grâce à la fluidité."]
+      - ["Les phospholipides peuvent se déplacer les uns par rapport aux autres.", true, "Fluidité."]
+      - ["Les têtes polaires sont tournées vers le centre de la bicouche.", false, "Vers le fluide extracellulaire et le cytosol."]
+  - q: "Protéines membranaires :"
+    props:
+      - ["Les transporteurs sont de deux types : canaux ou transporteurs.", true, "p.8b."]
+      - ["Les marqueurs de surface sont le plus souvent des glycoprotéines.", true, "p.9h."]
+      - ["Les protéines d'adhérence assurent des interactions momentanées ou permanentes.", true, "p.9b."]
+      - ["Les protéines extrinsèques possèdent un domaine transmembranaire.", false, "Elles sont fixées par des molécules d'ancrage."]
+      - ["Les molécules d'ancrage sont des lipides modifiés.", true, "p.10h."]
+
+coverage:
+  - ["S1-2", "7h", "Sommaire du chapitre IV (6 points)", 2]
+  - ["S1-2", "7b", "Quatre composants de la membrane plasmique, glycocalyx", 3]
+  - ["S1-2", "8h", "Bicouche : phospholipides, barrière, fluidité", 4]
+  - ["S1-2", "8b", "Fonctions : transporteurs, enzymes", 5]
+  - ["S1-2", "9h", "Fonctions : récepteurs, marqueurs", 5]
+  - ["S1-2", "9b", "Fonctions : adhérence, fixation au cytosquelette", 5]
+  - ["S1-2", "10h", "Structure : transmembranaires, extrinsèques, molécules d'ancrage", 7]

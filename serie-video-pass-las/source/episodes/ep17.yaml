@@ -1,0 +1,220 @@
+title: "Traverser sans énergie : diffusion et osmose"
+subtitle: "Diffusion simple · diffusion facilitée · canaux · perméases · osmose · aquaporines"
+source: "S1-2 p.10b à 15"
+chapter: "Partie I — Chapitre IV. La membrane plasmique et ses fonctions — 4. Transport passif"
+objectives:
+  - "Citer les 3 modes de passage de molécules à travers la membrane."
+  - "Distinguer diffusion simple et diffusion facilitée (canaux, transporteurs)."
+  - "Expliquer l'osmose, la pression osmotique et les solutions hyper-, hypo-, isotoniques."
+  - "Décrire les aquaporines et le diabète insipide lié à AQP2."
+
+scenes:
+  - kind: hook
+    title: "Pourquoi les perfusions contiennent 0,9 % de sel ?"
+    ref: "S1-2 p.15"
+    big: "0,9 %"
+    beats:
+      - say: "Les solutions injectées aux patients doivent être isotoniques par rapport au sang : c'est le liquide physiologique, à 0,9 % de NaCl. Sinon, l'eau entre ou sort des cellules."
+      - say: "Au programme : le passage des substances, la diffusion simple et facilitée, puis l'osmose."
+        show: "Diffusion *simple* · diffusion *facilitée* · *osmose*"
+
+  - kind: figure
+    title: "Passage de substances à travers la membrane"
+    ref: "S1-2 p.10"
+    fig: "S1-2:10b"
+    trap: "La bicouche laisse passer les APOLAIRES et est imperméable aux POLAIRES ; 3 modes de passage."
+    beats:
+      - say: "Il y a un flux continuel de molécules entre la cellule et l'extérieur : capture de nutriments, ajustement du pH et des concentrations ioniques, sécrétion de substances."
+        mark: ["flux continuel", "nutriments"]
+        show: "Flux *continuel* : nutriments · pH et ions · sécrétion"
+      - say: "La bicouche, hydrophobe, laisse passer les molécules apolaires, mais elle est imperméable aux molécules polaires."
+        mark: ["apolaires", "imperméable"]
+        show: "Bicouche : laisse passer les *apolaires* · imperméable aux *polaires*"
+      - say: "D'où trois modes de passage : la diffusion simple à travers la bicouche, pour les molécules apolaires ; le transport par des protéines transmembranaires, pour les molécules polaires et chargées ; et l'endocytose et l'exocytose, par repliement de la membrane, pour les grandes molécules. Tout cela permet de réguler le passage."
+        mark: ["diffusion simple", "endocytose"]
+        show: "1. Diffusion simple (apolaires) · 2. Protéines (polaires, chargées) · 3. Endo/exocytose (grosses)"
+
+  - kind: figure
+    title: "Entrée et sortie de substances"
+    ref: "S1-2 p.11"
+    fig: "S1-2:11h"
+    trap: "O2, CO2 par la bicouche ; eau, ions, glucose par des protéines ; grosses molécules par vésicules."
+    beats:
+      - say: "Le schéma résume : O2 et CO2 passent directement ; l'eau, les ions, le glucose passent par des protéines ; les grandes molécules et particules, comme des nutriments, entrent par des vésicules. Et c'est le même principe pour la sortie."
+        focus: "all"
+        show: "O₂, CO₂ : bicouche · eau, ions, glucose : protéines · grosses molécules : vésicules"
+
+  - kind: figure
+    title: "La diffusion simple"
+    ref: "S1-2 p.12"
+    fig: "S1-2:12b"
+    trap: "Diffusion = du plus concentré vers le moins concentré, jusqu'à l'égalisation ; dans les deux sens."
+    beats:
+      - say: "Principe de la diffusion : les molécules et ions en solution sont en mouvement constant, d'où un mouvement net des régions plus concentrées vers les moins concentrées, jusqu'à l'égalisation des concentrations."
+        show: "Mouvement net : *+ concentré → – concentré*, jusqu'à *égalisation*"
+      - say: "La *diffusion simple* concerne les molécules apolaires, non chargées, capables de passer la bicouche : O2, CO2, hormones stéroïdes. Elle suit le gradient de concentration, dans les deux sens possibles."
+        mark: ["Diffusion simple", "hormones stéroïdes"]
+        show: "*Diffusion simple* : apolaires non chargées (O₂, CO₂, *hormones stéroïdes*) · selon le gradient · 2 sens"
+
+  - kind: figure
+    title: "La diffusion facilitée"
+    ref: "S1-2 p.13"
+    fig: "S1-2:13h"
+    trap: "Diffusion facilitée = transport PASSIF : selon le gradient, SANS énergie."
+    beats:
+      - say: "La *diffusion facilitée*, que le cours appelle aussi transport passif, suit également le gradient de concentration."
+        mark: ["Diffusion facilitée", "transport passif"]
+        show: "*Diffusion facilitée* (= transport passif) : selon le gradient"
+      - say: "Elle concerne les molécules polaires ou chargées qui ne passent pas la bicouche : ions, glucose, acides aminés. Elle passe par des protéines transmembranaires de deux types, les canaux et les transporteurs. Et elle ne requiert *pas* d'énergie."
+        mark: ["polaires", "canaux", "ne requiert pas"]
+        show: "Polaires/chargées (ions, glucose, aa) · *canaux* ou *transporteurs* · *pas d'énergie*"
+
+  - kind: compare
+    title: "Canaux ioniques vs transporteurs (perméases)"
+    ref: "S1-2 p.13-14"
+    header: ["", "Canaux ioniques", "Transporteurs (perméases)"]
+    beats:
+      - say: "Les deux types de protéines de la diffusion facilitée."
+      - say: "Tous deux sont des protéines transmembranaires. Les canaux laissent circuler librement les ions selon leur gradient ; les transporteurs, appelés perméases, doivent d'abord fixer la molécule."
+        show: "Fonctionnement | circulation *libre* selon le gradient | étape de *fixation* de la molécule"
+      - say: "Conséquence : les transporteurs peuvent être saturés, leur vitesse est limitée, comme un tourniquet à l'entrée d'un stade."
+        show: "Vitesse | — | *saturation* possible, vitesse limitée (tourniquet)"
+      - say: "Spécificité : les canaux sont souvent spécifiques d'un ion, calcium, sodium, potassium, chlorure ; les transporteurs ont une grande spécificité : ions, glucose, acides aminés."
+        show: "Spécificité | souvent 1 ion (Ca²⁺, Na⁺, K⁺, Cl⁻) | *grande* (ions, glucose, aa)"
+      - say: "Et certains canaux sont régulables, ouverts ou fermés ; les transporteurs peuvent fonctionner dans les deux sens."
+        show: "Particularité | certains *régulables* (ouvert/fermé) | fonctionnent dans les *2 sens*"
+
+  - kind: figure
+    title: "L'osmose"
+    ref: "S1-2 p.14"
+    fig: "S1-2:14b"
+    trap: "L'EAU migre vers la solution la PLUS concentrée (hypertonique)."
+    beats:
+      - say: "Dans une solution, les solutés comme les molécules d'eau sont en mouvement."
+        show: "Solutés et eau en mouvement"
+      - say: "Si deux solutions de concentrations différentes sont séparées par une membrane *semi-perméable*, perméable à l'eau mais pas aux solutés, l'eau migre vers la solution la *plus concentrée* : c'est l'*osmose*."
+        mark: ["semi", "plus concentrée"]
+        show: "Membrane *semi-perméable* → l'*eau* va vers la solution *la plus concentrée* = *osmose*"
+      - say: "La *pression osmotique*, c'est la pression à appliquer pour arrêter ce flux d'eau. La concentration osmotique dépend de l'ensemble des solutés."
+        mark: ["pression osmotique", "ensemble des solutés"]
+        show: "*Pression osmotique* = pression pour arrêter le flux · dépend de *tous* les solutés"
+      - say: "La solution la plus concentrée est *hypertonique*, la moins concentrée *hypotonique*, et deux solutions de même concentration osmotique sont *isotoniques*."
+        mark: ["hypertonique", "isotoniques"]
+        show: "*Hypertonique* (+ concentrée) · *hypotonique* (– concentrée) · *isotoniques* (égales)"
+
+  - kind: figure
+    title: "Pression osmotique et aquaporines"
+    ref: "S1-2 p.15"
+    fig: "S1-2:15h"
+    trap: "Perfusions isotoniques au sang : liquide physiologique 0,9 % NaCl."
+    beats:
+      - say: "Les solutions injectées aux patients, par exemple les perfusions, doivent être isotoniques par rapport au sang : c'est le liquide physiologique, *0,9 %* de NaCl."
+        mark: ["isotoniques", "0,9%"]
+        show: "# Perfusions *isotoniques* au sang : liquide physiologique *0,9 % NaCl*"
+
+  - kind: figure
+    title: "Les aquaporines"
+    ref: "S1-2 p.15"
+    fig: "S1-2:15b"
+    trap: "Aquaporines = diffusion FACILITÉE de l'eau ; AQP2 défectueuse → diabète insipide (jusqu'à 10 L/jour)."
+    beats:
+      - say: "L'eau diffuse mal à travers la bicouche. Les *aquaporines* sont des canaux protéiques qui facilitent son passage : c'est une diffusion facilitée. Elles assurent d'importants flux d'eau dans certains organes, comme le rein."
+        mark: ["aquaporines", "rein"]
+        show: "*Aquaporines* : canaux à eau (diffusion *facilitée*) · flux importants (ex. *rein*)"
+      - say: "Un dysfonctionnement de l'aquaporine *AQP2* est à l'origine d'une forme de *diabète insipide* : une production abondante d'urine diluée, jusqu'à dix litres par jour, par manque de réabsorption d'eau dans les reins."
+        mark: ["AQP2", "10 litres"]
+        show: "*AQP2* défectueuse → *diabète insipide* : urine diluée jusqu'à *10 L/jour*"
+
+  - kind: trap
+    title: "Les pièges du transport passif"
+    ref: "S1-2 p.12-15"
+    trap: "Sens de l'osmose ; pas d'énergie ; saturation des transporteurs."
+    beats:
+      - say: "Trois pièges."
+      - say: "“En osmose, l'eau va vers la solution la moins concentrée” : faux, vers la plus concentrée, l'hypertonique."
+        show: "✗ vers la moins concentrée  →  ✓ eau → solution *hypertonique*"
+      - say: "“La diffusion facilitée consomme de l'ATP” : faux, elle ne requiert pas d'énergie."
+        show: "✓ Diffusion facilitée = *pas d'énergie*"
+      - say: "“Les canaux peuvent être saturés comme les transporteurs” : non, c'est la fixation propre aux transporteurs qui explique la saturation."
+        show: "✓ *Saturation* = transporteurs (étape de fixation)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.12-15"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Les hormones stéroïdes passent par diffusion simple."
+      - "Le glucose passe par diffusion simple à travers la bicouche."
+      - "Le liquide physiologique contient 9 % de NaCl."
+      - "Les aquaporines réalisent un transport actif de l'eau."
+    answer: [0]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse A. Le glucose, polaire, passe par diffusion facilitée ; le liquide physiologique est à 0,9 % ; et les aquaporines font une diffusion facilitée."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 18 : le transport actif"
+    ref: "S1-2 p.16"
+    big: "3 Na⁺ / 2 K⁺"
+    beats:
+      - say: "Prochain épisode : remonter le courant. La pompe sodium potassium et le co-transporteur sodium-glucose."
+        show: "Pompe *Na⁺/K⁺* · *SGLT*"
+
+recap:
+  - "Flux continuel (entrée et sortie) : capture de nutriments, ajustement du pH et des concentrations ioniques, sécrétion. La bicouche, hydrophobe, laisse passer les molécules apolaires mais est imperméable aux molécules polaires. Trois modes : diffusion simple (apolaires), transport par protéines transmembranaires (polaires, chargées), endocytose/exocytose (grandes molécules) ⇒ possibilités de régulation."
+  - "Entrée/sortie : O2, CO2 (bicouche) ; eau, ions, glucose (protéines) ; grandes molécules et particules, nutriments (vésicules)."
+  - "Diffusion : molécules et ions en mouvement constant ⇒ mouvement net des régions plus concentrées vers les moins concentrées jusqu'à égalisation. Diffusion simple : molécules apolaires non chargées traversant la bicouche (O2, CO2, hormones stéroïdes), selon le gradient, dans les deux sens."
+  - "Diffusion facilitée (= transport passif) : selon le gradient ; molécules polaires et/ou chargées (ions, glucose, acides aminés) ; canaux et transporteurs ; ne requiert pas d'énergie. Canaux ioniques : protéines transmembranaires ; circulation libre des ions selon leur gradient ; souvent spécifiques (Ca++, Na+, K+, Cl–) ; certains régulables (ouvert/fermé). Transporteurs (« perméases ») : fixation de la molécule ⇒ saturation possible, vitesse limitée (tourniquet) ; grande spécificité (ions, glucose, acides aminés) ; deux sens possibles."
+  - "Osmose : membrane semi-perméable (perméable à l'eau, pas aux solutés) ⇒ l'eau migre vers la solution la plus concentrée ; pression osmotique = pression à appliquer pour arrêter le flux d'eau ; concentration osmotique = ensemble des solutés ; hypertonique (+ concentrée), hypotonique (– concentrée), isotoniques (même concentration osmotique)."
+  - "Les solutions injectées (perfusions) doivent être isotoniques au sang : liquide physiologique 0,9 % NaCl. Aquaporines : canaux protéiques facilitant le passage de l'eau (diffusion facilitée), flux importants dans certains organes (rein) ; dysfonctionnement d'AQP2 → forme de diabète insipide (urine diluée abondante, jusqu'à 10 L/jour, manque de réabsorption d'eau dans les reins)."
+
+traps:
+  - ["Bicouche perméable aux polaires", "Perméable aux apolaires, imperméable aux polaires", "p.10b"]
+  - ["Hormones stéroïdes = diffusion facilitée", "Diffusion simple (apolaires)", "p.12b"]
+  - ["Diffusion facilitée avec énergie", "Ne requiert pas d'énergie", "p.13h"]
+  - ["Canaux saturables", "Saturation = transporteurs (perméases)", "p.14h"]
+  - ["Eau → solution moins concentrée", "Eau → solution la plus concentrée (hypertonique)", "p.14b"]
+  - ["Liquide physiologique à 9 %", "0,9 % NaCl", "p.15h"]
+  - ["Aquaporines = transport actif", "Diffusion facilitée", "p.15b"]
+
+mnemonics:
+  - ["Sens de l'osmose", "« L'eau court vers le sel » : elle dilue le plus concentré", "Eau → solution hypertonique"]
+  - ["Perméase = tourniquet", "Un tourniquet de stade : une personne à la fois → saturation", "Fixation → saturation, vitesse limitée"]
+
+quiz:
+  - q: "Diffusion :"
+    props:
+      - ["La diffusion simple concerne les molécules apolaires non chargées.", true, "p.12b."]
+      - ["Le CO2 traverse la bicouche par diffusion simple.", true, "p.12b."]
+      - ["La diffusion facilitée se fait contre le gradient de concentration.", false, "Selon le gradient."]
+      - ["La diffusion facilitée utilise des canaux ou des transporteurs.", true, "p.13h."]
+      - ["Certains canaux ioniques sont régulables.", true, "Ouverts ou fermés."]
+  - q: "Transporteurs et osmose :"
+    props:
+      - ["Les transporteurs sont aussi appelés perméases.", true, "p.14h."]
+      - ["Les transporteurs fonctionnent dans un seul sens.", false, "Ils peuvent fonctionner dans les deux sens."]
+      - ["En osmose, l'eau migre vers la solution la plus concentrée.", true, "p.14b."]
+      - ["Deux solutions de même concentration osmotique sont isotoniques.", true, "p.14b."]
+      - ["La pression osmotique est la pression à appliquer pour arrêter le flux d'eau.", true, "p.14b."]
+  - q: "Applications :"
+    props:
+      - ["Les perfusions doivent être isotoniques par rapport au sang.", true, "p.15h."]
+      - ["Le liquide physiologique contient 0,9 % de NaCl.", true, "p.15h."]
+      - ["L'eau diffuse très facilement à travers la bicouche.", false, "Sa capacité de diffusion est faible."]
+      - ["Un dysfonctionnement d'AQP2 provoque une forme de diabète insipide.", true, "p.15b."]
+      - ["Le diabète insipide lié à AQP2 se traduit par une urine concentrée et rare.", false, "Urine diluée abondante (jusqu'à 10 L/jour)."]
+
+coverage:
+  - ["S1-2", "10b", "Passage de substances : flux, perméabilité, 3 modes, régulation", 2]
+  - ["S1-2", "11h", "Schéma d'entrée de substances", 3]
+  - ["S1-2", "11b", "Schéma de sortie de substances", 3]
+  - ["S1-2", "12h", "Principe de la diffusion", 4]
+  - ["S1-2", "12b", "Diffusion simple", 4]
+  - ["S1-2", "13h", "Diffusion facilitée (= transport passif)", 5]
+  - ["S1-2", "13b", "Canaux ioniques", 6]
+  - ["S1-2", "14h", "Transporteurs (perméases)", 6]
+  - ["S1-2", "14b", "Principes de l'osmose, pression osmotique, tonicité", 7]
+  - ["S1-2", "15h", "Pression osmotique dans les cellules, perfusions, 0,9 % NaCl", 8]
+  - ["S1-2", "15b", "Aquaporines, AQP2, diabète insipide", 9]

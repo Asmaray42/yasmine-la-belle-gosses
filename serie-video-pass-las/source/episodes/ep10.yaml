@@ -1,0 +1,193 @@
+title: "Entrer dans la cellule : taille, microscopes, procaryotes vs eucaryotes"
+subtitle: "Hooke 1665 · théorie cellulaire · 10-100 µm · 200 nm vs 0,2 nm"
+source: "S1-1 p.46b à 50"
+chapter: "Partie I — Chapitre III. Structure de la cellule eucaryote — 1. Introduction · 2. Eucaryotes vs procaryotes"
+objectives:
+  - "Citer les 8 points du chapitre III."
+  - "Connaître l'origine du mot cellule et les 3 énoncés de la théorie cellulaire."
+  - "Donner la taille des cellules et la résolution des microscopes photonique et électronique."
+  - "Comparer cellules procaryotes et eucaryotes (cellule animale)."
+
+scenes:
+  - kind: hook
+    title: "Des petites chambres dans un bouchon"
+    ref: "S1-1 p.47"
+    big: "1665"
+    beats:
+      - say: "En 1665, Robert Hooke regarde un fragment de liège au microscope, et voit des petites chambres. Il les appelle “cellulae”."
+      - say: "Au programme : la théorie cellulaire, la taille des cellules, les microscopes, et le duel procaryotes contre eucaryotes."
+        show: "Théorie cellulaire · taille · microscopes · *procaryotes vs eucaryotes*"
+
+  - kind: list
+    title: "Chapitre III : structure de la cellule eucaryote"
+    ref: "S1-1 p.46"
+    trap: "8 points dans le chapitre III."
+    beats:
+      - say: "Chapitre trois : structure de la cellule eucaryote, en huit points."
+      - say: "Introduction ; eucaryotes versus procaryotes ; le noyau ; le système membranaire interne."
+        show: "1. Introduction · 2. Eucaryotes vs procaryotes · 3. Le noyau · 4. Le système membranaire interne"
+      - say: "Les mitochondries ; le cytosquelette ; les structures extra-cellulaires ; et les interactions cellulaires."
+        show: "5. Mitochondries · 6. Cytosquelette · 7. Structures extra-cellulaires · 8. Interactions cellulaires"
+
+  - kind: figure
+    title: "Robert Hooke et la théorie cellulaire"
+    ref: "S1-1 p.47"
+    fig: "S1-1:47b"
+    trap: "Ici, 3 énoncés : 1 ou plusieurs cellules · unités vivantes de base · dérivent toujours d'une cellule préexistante."
+    beats:
+      - say: "En 1665, Robert Hooke décrit des cellulae, des petites chambres, en observant un fragment de liège au microscope."
+        show: "*1665* : Robert Hooke, « cellulae » (petites chambres), *liège*"
+      - say: "La théorie cellulaire, ici en trois énoncés. Un : tous les organismes sont constitués d'une ou plusieurs cellules."
+        mark: "tous les organismes"
+        show: "1. Tous les organismes sont constitués d'*une ou plusieurs* cellules"
+      - say: "Deux : les cellules sont les *unités vivantes de base*."
+        mark: "unités vivantes de base"
+        show: "2. Les cellules sont les *unités vivantes de base*"
+      - say: "Trois : les cellules dérivent toujours d'une cellule préexistante, par divisions cellulaires."
+        mark: "préexistante"
+        show: "3. Les cellules dérivent *toujours* d'une cellule *préexistante* (divisions)"
+
+  - kind: figure
+    title: "La taille des cellules"
+    ref: "S1-1 p.48"
+    fig: "S1-1:48h"
+    trap: "10 à 100 µm ; rapport surface/volume ÉLEVÉ."
+    beats:
+      - say: "Une cellule mesure typiquement de *10 à 100 micromètres* de diamètre."
+        mark: "10 - 100"
+        show: "# Typiquement *10 – 100 µm* de diamètre"
+      - say: "Cette petite taille donne un *rapport surface sur volume élevé*, qui facilite la diffusion de substances entre l'extérieur et l'intérieur."
+        mark: ["rapport surface", "diffusions"]
+        show: "Rapport surface/volume *élevé* → facilite la *diffusion* extérieur ↔ intérieur"
+
+  - kind: compare
+    title: "Microscope photonique vs électronique"
+    ref: "S1-1 p.48-49"
+    header: ["", "Photonique", "Électronique"]
+    beats:
+      - say: "Deux types de microscopes."
+      - say: "Le photonique utilise la lumière ; l'électronique, un faisceau d'électrons."
+        show: "Source | *lumière* | faisceau d'*électrons*"
+      - say: "Résolution : 200 nanomètres pour le photonique ; 0,2 nanomètre pour l'électronique, mille fois mieux."
+        show: "Résolution | *200 nm* | *0,2 nm*"
+      - say: "En photonique, on utilise des colorants et des marqueurs spécifiques fluorescents. En électronique, il existe le microscope à transmission et le microscope à balayage."
+        show: "Variantes | colorants, marqueurs *fluorescents* | à *transmission*, à *balayage*"
+
+  - kind: figure
+    title: "La cellule eucaryote"
+    ref: "S1-1 p.49"
+    fig: "S1-1:49b"
+    trap: "Noyau entouré d'une enveloppe nucléaire ; organites dans le cytoplasme."
+    beats:
+      - say: "Le schéma de la cellule eucaryote : une membrane plasmique qui délimite le cytoplasme, des organites, et un noyau entouré de l'enveloppe nucléaire."
+        mark: ["cytoplasme", "organites", "noyau"]
+        show: "Membrane plasmique · cytoplasme · *organites* · *noyau* + enveloppe nucléaire"
+
+  - kind: compare
+    title: "Procaryotes vs cellule animale"
+    ref: "S1-1 p.50"
+    header: ["", "Procaryotes", "Cellule animale (eucaryote)"]
+    beats:
+      - say: "Le grand duel."
+      - say: "Les procaryotes comprennent les bactéries et les archées."
+        show: "Qui ? | bactéries et *archées* | cellule animale"
+      - say: "Taille : un à huit micromètres pour les procaryotes."
+        show: "Taille | *1 à 8 µm* | 10 – 100 µm"
+      - say: "Les procaryotes n'ont pas de compartiments internes et pas de noyau. La cellule animale a de nombreux compartiments, un réseau de membranes intracellulaires."
+        show: "Compartiments | *aucun*, pas de noyau | *nombreux* (réseau de membranes)"
+      - say: "Les procaryotes peuvent avoir une paroi rigide, en option. La cellule animale exécute simultanément des processus biochimiques variés et indépendants."
+        show: "Particularité | paroi rigide (*en option*) | processus *simultanés* et indépendants"
+      - say: "Et la cellule animale possède un réseau de protéines internes, le cytosquelette, qui assure la structure, le tout baignant dans le cytosol, un liquide gélatineux."
+        show: "Intérieur | — | *cytosquelette* · *cytosol* (liquide gélatineux)"
+
+  - kind: trap
+    title: "Les chiffres à ne pas inverser"
+    ref: "S1-1 p.48-50"
+    trap: "200 nm (photonique) vs 0,2 nm (électronique) ; 1-8 µm (procaryotes) vs 10-100 µm."
+    beats:
+      - say: "Les pièges de chiffres."
+      - say: "“Le microscope photonique a une résolution de 0,2 nanomètre” : faux, c'est l'électronique. Photonique : 200 nanomètres."
+        show: "✓ Photonique *200 nm* · électronique *0,2 nm*"
+      - say: "“Les procaryotes mesurent 10 à 100 micromètres” : faux. Un à huit micromètres ; 10 à 100, ce sont les cellules typiques."
+        show: "✓ Procaryotes *1 – 8 µm* · cellules typiques *10 – 100 µm*"
+      - say: "Et les archées sont bien des procaryotes, sans noyau."
+        show: "✓ Archées = procaryotes (pas de noyau)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.47-50"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Les procaryotes possèdent un noyau."
+      - "La paroi rigide est obligatoire chez les procaryotes."
+      - "Les cellules sont les unités vivantes de base."
+      - "Le microscope électronique utilise la lumière."
+    answer: [2]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse C, c'est un énoncé de la théorie cellulaire. Les procaryotes n'ont pas de noyau, leur paroi est en option, et l'électronique utilise un faisceau d'électrons."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 11 : le noyau et les ribosomes"
+    ref: "S1-1 p.51"
+    big: "2 membranes"
+    beats:
+      - say: "Prochain épisode : le noyau, son enveloppe à deux membranes, ses pores, le nucléole, et les ribosomes."
+        show: "Noyau · pores · nucléole · *ribosomes*"
+
+recap:
+  - "Chapitre III, structure de la cellule eucaryote : 1. Introduction ; 2. Eucaryotes vs procaryotes ; 3. Le noyau ; 4. Le système membranaire interne ; 5. Mitochondries ; 6. Le cytosquelette ; 7. Structures extra-cellulaires ; 8. Interactions cellulaires."
+  - "1665 : Robert Hooke décrit des « cellulae » (petites chambres) en observant un fragment de liège au microscope."
+  - "Théorie cellulaire : tous les organismes sont constitués d'une ou plusieurs cellules ; les cellules sont les unités vivantes de base ; les cellules dérivent toujours d'une cellule préexistante (divisions cellulaires)."
+  - "Dimension des cellules : typiquement 10 – 100 µm de diamètre ; facilite la diffusion de substances extérieur ↔ intérieur ; rapport surface/volume élevé."
+  - "Microscopes : photonique (lumière ; résolution 200 nm ; colorants, marqueurs spécifiques fluorescents) ; électronique (faisceau d'électrons ; résolution 0,2 nm ; à transmission, à balayage)."
+  - "Cellule eucaryote : cytoplasme, membrane plasmique, organites, noyau, enveloppe nucléaire."
+  - "Procaryotes : bactéries et archées ; 1 à 8 µm ; pas de compartiments internes ; pas de noyau ; paroi rigide (en option). Cellule animale : nombreux compartiments (réseau de membranes intracellulaires) ; exécution simultanée de processus biochimiques variés (indépendants) ; réseau de protéines internes (cytosquelette) → structure ; le tout baignant dans le cytosol (liquide gélatineux)."
+
+traps:
+  - ["Théorie cellulaire à 2 énoncés ici", "Version du ch. III : 3 énoncés (dont « unités vivantes de base »)", "p.47b"]
+  - ["Taille typique 1-8 µm", "10-100 µm ; 1-8 µm = procaryotes", "p.48h, p.50h"]
+  - ["Rapport surface/volume faible", "Élevé, ce qui facilite la diffusion", "p.48h"]
+  - ["Résolutions inversées", "Photonique 200 nm ; électronique 0,2 nm", "p.48b"]
+  - ["Procaryotes avec noyau", "Pas de noyau, pas de compartiments internes", "p.50h"]
+  - ["Paroi obligatoire", "Paroi rigide en option", "p.50h"]
+
+mnemonics:
+  - ["Résolution des microscopes", "L'électron voit 1000 × plus fin : 200 nm ÷ 1000 = 0,2 nm", "Photonique 200 nm · électronique 0,2 nm"]
+  - ["Taille", "Procaryote « petit » (1-8 µm) ; cellule typique « 10 à 100 »", "1-8 µm vs 10-100 µm"]
+
+quiz:
+  - q: "À propos de l'introduction à la cellule :"
+    props:
+      - ["Robert Hooke a décrit des « cellulae » en 1665 en observant du liège.", true, "p.47h."]
+      - ["Selon la théorie cellulaire, les cellules sont les unités vivantes de base.", true, "p.47b."]
+      - ["Les cellules mesurent typiquement de 10 à 100 µm.", true, "p.48h."]
+      - ["Le rapport surface/volume des cellules est faible.", false, "Il est élevé."]
+      - ["Le microscope photonique a une résolution de 0,2 nm.", false, "200 nm ; 0,2 nm pour l'électronique."]
+  - q: "À propos des procaryotes :"
+    props:
+      - ["Ils comprennent les bactéries et les archées.", true, "p.50h."]
+      - ["Leur taille est de 1 à 8 µm.", true, "p.50h."]
+      - ["Ils possèdent de nombreux compartiments internes.", false, "Pas de compartiments internes."]
+      - ["Ils n'ont pas de noyau.", true, "p.50h."]
+      - ["Leur paroi rigide est optionnelle.", true, "« paroi rigide (en option) »."]
+  - q: "À propos de la cellule animale :"
+    props:
+      - ["Elle possède un réseau de membranes intracellulaires.", true, "Nombreux compartiments."]
+      - ["Ses processus biochimiques se déroulent un par un, jamais simultanément.", false, "Exécution simultanée de processus variés et indépendants."]
+      - ["Le cytosquelette est un réseau de protéines internes qui assure la structure.", true, "p.50b."]
+      - ["Le cytosol est un liquide gélatineux.", true, "p.50b."]
+      - ["Le microscope électronique à balayage utilise la lumière.", false, "Il utilise un faisceau d'électrons."]
+
+coverage:
+  - ["S1-1", "46b", "Sommaire du chapitre III (8 points)", 2]
+  - ["S1-1", "47h", "Robert Hooke 1665, cellulae, liège", 3]
+  - ["S1-1", "47b", "Théorie cellulaire (3 énoncés)", 3]
+  - ["S1-1", "48h", "Dimension des cellules 10-100 µm, rapport surface/volume", 4]
+  - ["S1-1", "48b", "Microscopes : photonique 200 nm, électronique 0,2 nm", 5]
+  - ["S1-1", "49h", "Microscopes : colorants, fluorescents, transmission, balayage", 5]
+  - ["S1-1", "49b", "Schéma de la cellule eucaryote", 6]
+  - ["S1-1", "50h", "Cellules procaryotes", 7]
+  - ["S1-1", "50b", "La cellule animale", 7]

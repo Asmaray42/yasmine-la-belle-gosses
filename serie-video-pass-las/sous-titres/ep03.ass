@@ -1,0 +1,243 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le sang a un pH d'environ 7,4.
+Dialogue: 0,0:00:03.13,0:00:04.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S'il descend sous 7,1,
+Dialogue: 0,0:00:04.94,0:00:06.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le risque d'arythmie cardiaque
+Dialogue: 0,0:00:06.53,0:00:07.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}devient élevé.
+Dialogue: 0,0:00:07.67,0:00:08.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour comprendre pourquoi,
+Dialogue: 0,0:00:08.96,0:00:10.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il faut comprendre l'eau :
+Dialogue: 0,0:00:10.29,0:00:11.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sa polarité, ses liaisons
+Dialogue: 0,0:00:11.58,0:00:12.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrogène, ses ions,
+Dialogue: 0,0:00:12.60,0:00:13.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les tampons.
+Dialogue: 0,0:00:13.94,0:00:15.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deuxième point du chapitre deux : l'eau.
+Dialogue: 0,0:00:15.76,0:00:16.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours lui donne trois
+Dialogue: 0,0:00:16.92,0:00:17.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caractéristiques.
+Dialogue: 0,0:00:18.14,0:00:19.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle est {\c&H66D1FF&}essentielle{\c&HFFFFFF&} à la vie.
+Dialogue: 0,0:00:19.54,0:00:20.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La vie a {\c&H66D1FF&}d'abord{\c&HFFFFFF&} {\c&H66D1FF&}évolué{\c&HFFFFFF&} {\c&H66D1FF&}dans{\c&HFFFFFF&}
+Dialogue: 0,0:00:20.79,0:00:21.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}l'eau{\c&HFFFFFF&} .
+Dialogue: 0,0:00:21.24,0:00:22.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et elle constitue environ {\c&H66D1FF&}deux{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.73,0:00:24.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}tiers{\c&HFFFFFF&} de la masse des organismes.
+Dialogue: 0,0:00:24.92,0:00:26.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'eau, c'est deux atomes
+Dialogue: 0,0:00:26.11,0:00:27.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'hydrogène liés à un atome
+Dialogue: 0,0:00:27.45,0:00:28.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'oxygène : H2O.
+Dialogue: 0,0:00:28.89,0:00:30.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'atome d'oxygène a une plus
+Dialogue: 0,0:00:30.45,0:00:31.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}forte {\c&H66D1FF&}électronégativité{\c&HFFFFFF&} :
+Dialogue: 0,0:00:31.85,0:00:33.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il attire les électrons vers lui.
+Dialogue: 0,0:00:34.09,0:00:35.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : une répartition
+Dialogue: 0,0:00:35.51,0:00:36.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déséquilibrée des charges
+Dialogue: 0,0:00:36.88,0:00:38.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}partielles positives et
+Dialogue: 0,0:00:38.13,0:00:38.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}négatives.
+Dialogue: 0,0:00:38.82,0:00:39.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la {\c&H66D1FF&}polarité{\c&HFFFFFF&} .
+Dialogue: 0,0:00:39.98,0:00:41.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur le schéma : delta moins du
+Dialogue: 0,0:00:41.65,0:00:42.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}côté de l'oxygène,
+Dialogue: 0,0:00:42.65,0:00:44.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}delta plus sur les hydrogènes.
+Dialogue: 0,0:00:44.88,0:00:46.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette polarité permet la
+Dialogue: 0,0:00:46.17,0:00:47.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}formation de liaisons hydrogène.
+Dialogue: 0,0:00:48.29,0:00:49.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'extrémité oxygène,
+Dialogue: 0,0:00:49.43,0:00:51.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}delta moins, d'une molécule est
+Dialogue: 0,0:00:51.21,0:00:52.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}attirée vers l'extrémité
+Dialogue: 0,0:00:52.58,0:00:53.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrogène, delta plus,
+Dialogue: 0,0:00:53.85,0:00:55.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une autre molécule d'eau :
+Dialogue: 0,0:00:55.45,0:00:57.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est une {\c&H66D1FF&}liaison{\c&HFFFFFF&} {\c&H66D1FF&}hydrogène{\c&HFFFFFF&} .
+Dialogue: 0,0:00:57.51,0:00:58.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont des liaisons {\c&H66D1FF&}faibles{\c&HFFFFFF&} et
+Dialogue: 0,0:00:58.79,0:01:00.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}éphémères{\c&HFFFFFF&} , mais {\c&H66D1FF&}très{\c&HFFFFFF&} {\c&H66D1FF&}nombreuses{\c&HFFFFFF&}
+Dialogue: 0,0:01:00.10,0:01:00.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'eau.
+Dialogue: 0,0:01:01.11,0:01:02.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Première propriété :
+Dialogue: 0,0:01:02.05,0:01:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau est un {\c&H66D1FF&}solvant{\c&HFFFFFF&} {\c&H66D1FF&}polaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:03.59,0:01:05.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ses molécules s'agglutinent
+Dialogue: 0,0:01:05.00,0:01:06.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}autour des ions et des molécules
+Dialogue: 0,0:01:06.67,0:01:07.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires.
+Dialogue: 0,0:01:07.54,0:01:09.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur le schéma : un cristal de
+Dialogue: 0,0:01:09.10,0:01:10.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sel, dont les ions Na plus et
+Dialogue: 0,0:01:10.65,0:01:12.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chlorure sont entourés de
+Dialogue: 0,0:01:12.00,0:01:13.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}coquilles d'hydratation.
+Dialogue: 0,0:01:13.68,0:01:15.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Conséquences : la solubilisation
+Dialogue: 0,0:01:15.34,0:01:16.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des sels et des substances
+Dialogue: 0,0:01:16.69,0:01:18.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires, dites {\c&H66D1FF&}hydrophiles{\c&HFFFFFF&} ;
+Dialogue: 0,0:01:18.19,0:01:19.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et l'exclusion, ou
+Dialogue: 0,0:01:19.12,0:01:20.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organisation, des substances
+Dialogue: 0,0:01:20.67,0:01:22.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apolaires, dites {\c&H66D1FF&}hydrophobes{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:22.23,0:01:23.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme une goutte d'huile.
+Dialogue: 0,0:01:23.92,0:01:24.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux définitions :
+Dialogue: 0,0:01:24.91,0:01:26.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}eau plus substance solubilisée,
+Dialogue: 0,0:01:26.62,0:01:27.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est une {\c&H66D1FF&}solution{\c&HFFFFFF&} ;
+Dialogue: 0,0:01:27.72,0:01:29.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la substance solubilisée,
+Dialogue: 0,0:01:29.10,0:01:30.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le {\c&H66D1FF&}soluté{\c&HFFFFFF&} .
+Dialogue: 0,0:01:30.60,0:01:31.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux pièges de vocabulaire.
+Dialogue: 0,0:01:32.35,0:01:33.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les substances apolaires sont
+Dialogue: 0,0:01:33.61,0:01:34.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophiles” : faux.
+Dialogue: 0,0:01:34.59,0:01:35.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Apolaire égale hydrophobe,
+Dialogue: 0,0:01:35.88,0:01:37.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaire égale hydrophile.
+Dialogue: 0,0:01:37.53,0:01:38.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le soluté, c'est l'eau” : faux.
+Dialogue: 0,0:01:38.91,0:01:40.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le soluté est la substance
+Dialogue: 0,0:01:40.31,0:01:41.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}solubilisée ; l'eau plus le
+Dialogue: 0,0:01:41.76,0:01:43.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}soluté forment la solution.
+Dialogue: 0,0:01:43.77,0:01:44.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deuxième propriété :
+Dialogue: 0,0:01:44.80,0:01:45.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau forme des ions.
+Dialogue: 0,0:01:46.03,0:01:48.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'eau pure, H2O se dissocie
+Dialogue: 0,0:01:48.03,0:01:49.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en OH moins plus H plus.
+Dialogue: 0,0:01:49.74,0:01:50.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ou, écrit autrement :
+Dialogue: 0,0:01:50.90,0:01:52.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux H2O donnent OH moins plus
+Dialogue: 0,0:01:52.85,0:01:53.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H3O plus.
+Dialogue: 0,0:01:53.48,0:01:54.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le schéma montre un H qui passe
+Dialogue: 0,0:01:54.94,0:01:56.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une molécule d'eau à l'autre.
+Dialogue: 0,0:01:56.80,0:01:58.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'eau pure, la concentration
+Dialogue: 0,0:01:58.69,0:02:00.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en OH moins est égale à celle en
+Dialogue: 0,0:02:00.52,0:02:02.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H3O plus : {\c&H66D1FF&}10{\c&HFFFFFF&} {\c&H66D1FF&}puissance{\c&HFFFFFF&} {\c&H66D1FF&}moins{\c&HFFFFFF&} {\c&H66D1FF&}7{\c&HFFFFFF&}
+Dialogue: 0,0:02:02.52,0:02:03.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moles par litre.
+Dialogue: 0,0:02:03.58,0:02:04.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et le pH vaut {\c&H66D1FF&}7{\c&HFFFFFF&} .
+Dialogue: 0,0:02:05.32,0:02:07.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le pH de l'eau peut être modifié
+Dialogue: 0,0:02:07.21,0:02:08.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par des solutés.
+Dialogue: 0,0:02:08.41,0:02:10.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un {\c&H66D1FF&}acide{\c&HFFFFFF&} , c'est tout soluté qui
+Dialogue: 0,0:02:10.07,0:02:11.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}augmente{\c&HFFFFFF&} la concentration en H plus.
+Dialogue: 0,0:02:12.09,0:02:14.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : HCl, qui donne H plus
+Dialogue: 0,0:02:14.05,0:02:14.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et chlorure.
+Dialogue: 0,0:02:15.16,0:02:16.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une {\c&H66D1FF&}base{\c&HFFFFFF&} , c'est tout soluté qui
+Dialogue: 0,0:02:16.84,0:02:18.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}diminue{\c&HFFFFFF&} la concentration en H plus.
+Dialogue: 0,0:02:18.81,0:02:21.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : NaOH, qui donne Na plus
+Dialogue: 0,0:02:21.02,0:02:21.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et OH moins.
+Dialogue: 0,0:02:22.15,0:02:24.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'échelle du cours va de pH zéro,
+Dialogue: 0,0:02:24.38,0:02:26.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}très acide, à pH quatorze,
+Dialogue: 0,0:02:26.21,0:02:27.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}très basique, avec des
+Dialogue: 0,0:02:27.47,0:02:29.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentrations en H plus de 10
+Dialogue: 0,0:02:29.24,0:02:30.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puissance zéro à 10 puissance
+Dialogue: 0,0:02:30.95,0:02:31.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moins 14.
+Dialogue: 0,0:02:31.95,0:02:33.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Côté acide : l'acide
+Dialogue: 0,0:02:33.06,0:02:34.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chlorhydrique, le suc gastrique,
+Dialogue: 0,0:02:34.84,0:02:36.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le jus de citron, le vinaigre,
+Dialogue: 0,0:02:36.51,0:02:36.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cola.
+Dialogue: 0,0:02:37.09,0:02:38.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au milieu, l'eau pure,
+Dialogue: 0,0:02:38.11,0:02:38.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à 7.
+Dialogue: 0,0:02:38.57,0:02:40.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Côté basique : l'eau de mer,
+Dialogue: 0,0:02:40.17,0:02:41.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le bicarbonate de soude,
+Dialogue: 0,0:02:41.54,0:02:42.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ammoniaque ménager,
+Dialogue: 0,0:02:42.74,0:02:44.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'eau de Javel, l'hydroxyde de sodium.
+Dialogue: 0,0:02:45.48,0:02:46.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Troisième propriété :
+Dialogue: 0,0:02:46.58,0:02:48.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}tampons{\c&HFFFFFF&} stabilisent le pH.
+Dialogue: 0,0:02:48.87,0:02:50.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un tampon {\c&H66D1FF&}libère{\c&HFFFFFF&} des H plus si on
+Dialogue: 0,0:02:50.80,0:02:52.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ajoute une base, et {\c&H66D1FF&}absorbe{\c&HFFFFFF&} des H
+Dialogue: 0,0:02:52.74,0:02:54.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus si on ajoute un acide.
+Dialogue: 0,0:02:54.72,0:02:56.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple dans le sang :
+Dialogue: 0,0:02:56.07,0:02:57.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acide carbonique,
+Dialogue: 0,0:02:57.25,0:02:59.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H2CO3, en équilibre avec l'ion
+Dialogue: 0,0:02:59.77,0:03:01.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicarbonate, HCO3 moins,
+Dialogue: 0,0:03:01.25,0:03:01.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus H plus.
+Dialogue: 0,0:03:02.39,0:03:03.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On ajoute une base,
+Dialogue: 0,0:03:03.45,0:03:04.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les H plus diminuent :
+Dialogue: 0,0:03:04.68,0:03:06.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acide carbonique en libère.
+Dialogue: 0,0:03:06.44,0:03:07.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On ajoute un acide,
+Dialogue: 0,0:03:07.57,0:03:08.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les H plus augmentent :
+Dialogue: 0,0:03:08.95,0:03:10.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le bicarbonate les absorbe et
+Dialogue: 0,0:03:10.68,0:03:12.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}redonne de l'acide carbonique.
+Dialogue: 0,0:03:13.03,0:03:14.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résumons le tampon en étapes.
+Dialogue: 0,0:03:15.01,0:03:16.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Équilibre de départ :
+Dialogue: 0,0:03:16.23,0:03:17.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acide carbonique d'un côté,
+Dialogue: 0,0:03:17.80,0:03:19.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bicarbonate plus H plus de
+Dialogue: 0,0:03:19.31,0:03:19.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'autre.
+Dialogue: 0,0:03:20.18,0:03:21.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si on ajoute une base,
+Dialogue: 0,0:03:21.42,0:03:22.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les H plus baissent :
+Dialogue: 0,0:03:22.60,0:03:24.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'équilibre se déplace vers la
+Dialogue: 0,0:03:24.30,0:03:26.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}droite, l'acide carbonique libère
+Dialogue: 0,0:03:26.16,0:03:26.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des H plus.
+Dialogue: 0,0:03:27.18,0:03:28.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Si on ajoute un acide,
+Dialogue: 0,0:03:28.48,0:03:29.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les H plus montent :
+Dialogue: 0,0:03:29.67,0:03:31.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'équilibre se déplace vers la
+Dialogue: 0,0:03:31.45,0:03:33.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gauche, le bicarbonate absorbe
+Dialogue: 0,0:03:33.23,0:03:33.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ces H plus.
+Dialogue: 0,0:03:34.28,0:03:35.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans les deux cas,
+Dialogue: 0,0:03:35.17,0:03:36.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le pH reste stable.
+Dialogue: 0,0:03:36.98,0:03:38.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le pH normal du sang :
+Dialogue: 0,0:03:38.50,0:03:40.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ {\c&H66D1FF&}7,4{\c&HFFFFFF&} .
+Dialogue: 0,0:03:40.47,0:03:42.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}acidose{\c&HFFFFFF&} , c'est une {\c&H66D1FF&}diminution{\c&HFFFFFF&}
+Dialogue: 0,0:03:42.22,0:03:44.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du pH sanguin, c'est-à-dire une
+Dialogue: 0,0:03:44.19,0:03:45.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}augmentation{\c&HFFFFFF&} de la concentration
+Dialogue: 0,0:03:45.89,0:03:46.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en H plus.
+Dialogue: 0,0:03:46.82,0:03:48.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle peut apparaître suite à une
+Dialogue: 0,0:03:48.54,0:03:49.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}insuffisance respiratoire,
+Dialogue: 0,0:03:49.93,0:03:51.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un dysfonctionnement des reins,
+Dialogue: 0,0:03:51.60,0:03:52.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou une intoxication.
+Dialogue: 0,0:03:53.07,0:03:55.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À un pH inférieur à {\c&H66D1FF&}7,1{\c&HFFFFFF&} :
+Dialogue: 0,0:03:55.29,0:03:56.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}risque élevé d' {\c&H66D1FF&}arythmie{\c&HFFFFFF&}
+Dialogue: 0,0:03:56.52,0:03:57.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cardiaque{\c&HFFFFFF&} .
+Dialogue: 0,0:03:57.23,0:03:58.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le traitement d'urgence :
+Dialogue: 0,0:03:58.55,0:04:00.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'injection d'une solution de
+Dialogue: 0,0:04:00.08,0:04:00.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}bicarbonate{\c&HFFFFFF&} .
+Dialogue: 0,0:04:01.16,0:04:02.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pourquoi le bicarbonate ?
+Dialogue: 0,0:04:02.62,0:04:04.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur le schéma, il fixe les H plus
+Dialogue: 0,0:04:04.44,0:04:06.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en excès et refait de l'acide
+Dialogue: 0,0:04:06.05,0:04:07.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}carbonique : la concentration en
+Dialogue: 0,0:04:07.81,0:04:08.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}H plus redescend.
+Dialogue: 0,0:04:09.31,0:04:11.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le piège le plus fréquent sur le pH.
+Dialogue: 0,0:04:11.79,0:04:13.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'acidose est une augmentation
+Dialogue: 0,0:04:13.24,0:04:14.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du pH” : faux.
+Dialogue: 0,0:04:14.55,0:04:16.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'acidose est une {\c&H66D1FF&}diminution{\c&HFFFFFF&} du
+Dialogue: 0,0:04:16.38,0:04:18.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pH, donc une {\c&H66D1FF&}augmentation{\c&HFFFFFF&} des H
+Dialogue: 0,0:04:18.56,0:04:20.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus. pH et concentration en H
+Dialogue: 0,0:04:20.69,0:04:22.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus varient en sens inverse.
+Dialogue: 0,0:04:22.80,0:04:24.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et une base {\c&H66D1FF&}diminue{\c&HFFFFFF&} la
+Dialogue: 0,0:04:24.01,0:04:25.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}concentration en H plus ;
+Dialogue: 0,0:04:25.39,0:04:26.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un acide l' {\c&H66D1FF&}augmente{\c&HFFFFFF&} .
+Dialogue: 0,0:04:27.17,0:04:28.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois chiffres à aligner,
+Dialogue: 0,0:04:28.27,0:04:29.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme trois paliers.
+Dialogue: 0,0:04:29.56,0:04:30.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept : l'eau pure,
+Dialogue: 0,0:04:30.54,0:04:32.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec dix puissance moins sept
+Dialogue: 0,0:04:32.13,0:04:33.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moles par litre d'OH moins et
+Dialogue: 0,0:04:33.71,0:04:34.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'H3O plus.
+Dialogue: 0,0:04:34.72,0:04:35.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept virgule quatre :
+Dialogue: 0,0:04:35.80,0:04:37.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le sang normal, légèrement
+Dialogue: 0,0:04:37.14,0:04:37.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au-dessus.
+Dialogue: 0,0:04:38.06,0:04:39.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept virgule un : l'alarme,
+Dialogue: 0,0:04:39.62,0:04:41.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}risque élevé d'arythmie,
+Dialogue: 0,0:04:41.00,0:04:42.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on injecte du bicarbonate.
+Dialogue: 0,0:04:43.06,0:04:44.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : dans l'eau pure,
+Dialogue: 0,0:04:44.19,0:04:45.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quelle proposition est exacte ?
+Dialogue: 0,0:04:50.11,0:04:51.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse A : autant d'OH moins que
+Dialogue: 0,0:04:51.95,0:04:53.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'H3O plus, dix puissance moins
+Dialogue: 0,0:04:53.68,0:04:54.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept moles par litre,
+Dialogue: 0,0:04:54.85,0:04:56.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et un pH de sept.
+Dialogue: 0,0:04:56.28,0:04:57.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept virgule quatre,
+Dialogue: 0,0:04:57.24,0:04:57.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le sang.
+Dialogue: 0,0:04:58.47,0:04:59.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et l'acidose, c'est quoi ?
+Dialogue: 0,0:05:03.94,0:05:06.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B : une diminution du pH,
+Dialogue: 0,0:05:06.20,0:05:07.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc plus d'H plus.
+Dialogue: 0,0:05:07.45,0:05:08.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Traitement d'urgence :
+Dialogue: 0,0:05:08.66,0:05:09.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le bicarbonate.
+Dialogue: 0,0:05:10.04,0:05:11.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On récapitule.
+Dialogue: 0,0:05:11.45,0:05:12.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'eau : essentielle,
+Dialogue: 0,0:05:12.57,0:05:13.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}berceau de la vie,
+Dialogue: 0,0:05:13.57,0:05:15.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ deux tiers de la masse
+Dialogue: 0,0:05:15.25,0:05:16.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des organismes ; structure
+Dialogue: 0,0:05:16.70,0:05:18.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaire, car l'oxygène est plus
+Dialogue: 0,0:05:18.43,0:05:19.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}électronégatif.
+Dialogue: 0,0:05:19.66,0:05:21.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des liaisons hydrogène faibles et
+Dialogue: 0,0:05:21.40,0:05:23.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}éphémères, mais très nombreuses ;
+Dialogue: 0,0:05:23.13,0:05:24.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un solvant polaire,
+Dialogue: 0,0:05:24.13,0:05:25.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui solubilise les substances
+Dialogue: 0,0:05:25.66,0:05:26.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophiles et exclut les
+Dialogue: 0,0:05:26.97,0:05:27.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hydrophobes.
+Dialogue: 0,0:05:28.00,0:05:29.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Eau pure : dix puissance moins
+Dialogue: 0,0:05:29.44,0:05:30.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sept moles par litre,
+Dialogue: 0,0:05:30.45,0:05:31.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pH sept.
+Dialogue: 0,0:05:31.26,0:05:32.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Acide : augmente les H plus ;
+Dialogue: 0,0:05:32.79,0:05:33.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}base : les diminue ;
+Dialogue: 0,0:05:33.85,0:05:35.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tampon : stabilise le pH.
+Dialogue: 0,0:05:35.88,0:05:39.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sang : pH 7,4 ; acidose sous 7,1,
+Dialogue: 0,0:05:39.42,0:05:40.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}risque d'arythmie,
+Dialogue: 0,0:05:40.37,0:05:41.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}traitement par bicarbonate.
+Dialogue: 0,0:05:42.36,0:05:43.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:05:43.37,0:05:45.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le carbone, la charpente de la
+Dialogue: 0,0:05:45.05,0:05:46.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}majorité des molécules
+Dialogue: 0,0:05:46.29,0:05:47.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}biologiques, ses groupes
+Dialogue: 0,0:05:47.63,0:05:49.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctionnels et le grand tableau
+Dialogue: 0,0:05:49.43,0:05:50.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des macromolécules.

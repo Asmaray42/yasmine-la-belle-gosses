@@ -1,0 +1,158 @@
+title: "Le noyau et les ribosomes"
+subtitle: "Enveloppe à 2 membranes · lamina · pores · chromatine · nucléole · ribosomes"
+source: "S1-1 p.51 à 52"
+chapter: "Partie I — Chapitre III. Structure de la cellule eucaryote — 3. Le noyau"
+objectives:
+  - "Décrire l'enveloppe nucléaire, la lamina et les pores nucléaires."
+  - "Définir la chromatine et le nucléole."
+  - "Décrire les ribosomes et leurs localisations."
+
+scenes:
+  - kind: hook
+    title: "Un coffre-fort avec des portes filtrantes"
+    ref: "S1-1 p.51"
+    big: "2 membranes"
+    beats:
+      - say: "Le noyau, c'est un coffre-fort à double paroi, avec des portes qui laissent passer librement les petits et contrôlent les gros."
+      - say: "Au programme : l'enveloppe nucléaire, la lamina, les pores, la chromatine, le nucléole et les ribosomes."
+        show: "Enveloppe · lamina · *pores* · chromatine · nucléole · *ribosomes*"
+
+  - kind: figure
+    title: "Le noyau dans la cellule animale"
+    ref: "S1-1 p.51"
+    fig: "S1-1:51h"
+    trap: "Le réticulum endoplasmique est en continuité avec l'enveloppe nucléaire."
+    beats:
+      - say: "Sur cette image de cellule animale, on repère le noyau et, autour, le réticulum endoplasmique."
+        focus: "all"
+        mark: ["noyau", "Réticulum"]
+        show: "Noyau entouré du *réticulum endoplasmique*"
+
+  - kind: figure
+    title: "Enveloppe, lamina et pores"
+    ref: "S1-1 p.51"
+    fig: "S1-1:51b"
+    trap: "Petites molécules = circulation LIBRE ; macromolécules (ARN, protéines) = passage CONTRÔLÉ."
+    beats:
+      - say: "L'*enveloppe nucléaire* : deux membranes, donc deux bicouches lipidiques, en continuité avec le réticulum endoplasmique."
+        mark: ["deux membranes", "continuité"]
+        show: "Enveloppe nucléaire : *2 membranes* (2 bicouches) · continuité avec le *RE*"
+      - say: "La *lame nucléaire*, ou lamina : un réseau fibreux de filaments intermédiaires, qui donne sa forme au noyau."
+        mark: ["lame nucléaire", "forme au noyau"]
+        show: "*Lamina* : réseau de *filaments intermédiaires* · donne la forme au noyau"
+      - say: "Les *pores nucléaires* : ils traversent les deux membranes et sont constitués de protéines disposées en cercle."
+        mark: ["pores nucléaires", "en cercle"]
+        show: "*Pores* : traversent les 2 membranes · protéines disposées en *cercle*"
+      - say: "Ils laissent circuler *librement* les petites molécules, nucléotides et ions, et assurent un passage *contrôlé* des macromolécules, ARN et protéines."
+        mark: ["circulation libre", "passage contrôlé"]
+        show: "Passage *libre* : nucléotides, ions · passage *contrôlé* : ARN, protéines"
+
+  - kind: figure
+    title: "Chromatine et nucléole"
+    ref: "S1-1 p.52"
+    fig: "S1-1:52h"
+    trap: "Nucléole = site d'assemblage des sous-unités RIBOSOMALES ; parfois plusieurs par noyau."
+    beats:
+      - say: "La *chromatine* porte l'information génétique : c'est l'ADN associé à des protéines, en longs filaments emmêlés, et en plusieurs morceaux, les chromosomes."
+        mark: ["chromatine", "ADN associé"]
+        show: "*Chromatine* : ADN + protéines · filaments emmêlés · plusieurs morceaux = *chromosomes*"
+      - say: "Le *nucléole* : une tache sombre dans le noyau, parfois plusieurs par noyau. C'est le site d'assemblage des sous-unités ribosomales, des complexes ARN-protéines."
+        mark: ["nucléole", "sous-unités ribosomales"]
+        show: "*Nucléole* : tache sombre (parfois plusieurs) · assemblage des *sous-unités ribosomales*"
+
+  - kind: figure
+    title: "Les ribosomes"
+    ref: "S1-1 p.52"
+    fig: "S1-1:52b"
+    trap: "Ribosomes libres OU fixés sur le RE et la surface EXTERNE du noyau."
+    beats:
+      - say: "Les *ribosomes* sont des complexes protéines-ARN à deux sous-unités, très nombreux dans la cellule. Ils effectuent la synthèse des polypeptides, sur base des ARN messagers."
+        mark: ["deux sous-unités", "synthèse des polypeptides"]
+        show: "*Ribosomes* : protéines + ARN, *2 sous-unités* · synthèse des polypeptides (ARNm)"
+      - say: "Dans le cytoplasme, on les trouve à l'état libre dans le cytosol, ou sur des membranes internes : le réticulum endoplasmique et la surface externe du noyau."
+        mark: ["à l’état libre", "surface externe"]
+        show: "*Libres* dans le cytosol · ou sur le *RE* et la *surface externe du noyau*"
+
+  - kind: trap
+    title: "Les pièges du noyau"
+    ref: "S1-1 p.51-52"
+    trap: "2 membranes ; lamina = filaments intermédiaires ; nucléole ≠ ribosome."
+    beats:
+      - say: "Trois pièges."
+      - say: "“L'enveloppe nucléaire est une simple membrane” : faux, deux membranes, deux bicouches."
+        show: "✓ Enveloppe = *2 membranes* (2 bicouches lipidiques)"
+      - say: "“Les protéines traversent librement les pores” : faux, leur passage est contrôlé. Ce sont les petites molécules qui circulent librement."
+        show: "✗ protéines libres  →  ✓ macromolécules = passage *contrôlé*"
+      - say: "“La lamina est faite de microtubules” : faux, de filaments intermédiaires."
+        show: "✓ Lamina = *filaments intermédiaires*"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.51-52"
+    question: "Où se fait l'assemblage des sous-unités ribosomales ?"
+    options:
+      - "Dans la lamina"
+      - "Dans le nucléole"
+      - "Dans les pores nucléaires"
+      - "Dans le cytosol uniquement"
+    answer: [1]
+    beats:
+      - say: "Quiz : où se fait l'assemblage des sous-unités ribosomales ?"
+        countdown: 4
+      - say: "Dans le nucléole, la tache sombre du noyau."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 12 : RE, Golgi, lysosomes"
+    ref: "S1-1 p.53"
+    big: "cis / trans"
+    beats:
+      - say: "Prochain épisode : le système membranaire interne, le réticulum, le Golgi avec sa face cis et sa face trans, et les lysosomes, découverts à l'UCL."
+        show: "RER · REL · *Golgi* · lysosomes"
+
+recap:
+  - "Enveloppe nucléaire : deux membranes (2 bicouches lipidiques), en continuité avec le réticulum endoplasmique."
+  - "Lame nucléaire (lamina) : réseau fibreux (filaments intermédiaires), donne la forme au noyau."
+  - "Pores nucléaires : traversent les 2 membranes ; constitués de protéines disposées en cercle ; circulation libre des petites molécules (nucléotides, ions) ; passage contrôlé de macromolécules (ARN, protéines)."
+  - "Chromatine : porte l'information génétique ; ADN associé à des protéines ; longs filaments emmêlés ; en plusieurs morceaux (chromosomes). Nucléole : tache sombre dans le noyau, parfois plusieurs par noyau ; site d'assemblage des sous-unités ribosomales (complexes ARN-protéines)."
+  - "Ribosomes : complexes protéines-ARN (deux sous-unités) ; très nombreux ; effectuent la synthèse des polypeptides (sur base des ARN messagers) ; à l'état libre dans le cytosol, ou sur des membranes internes (réticulum endoplasmique et surface externe du noyau)."
+
+traps:
+  - ["Enveloppe à une membrane", "Deux membranes, deux bicouches lipidiques", "p.51b"]
+  - ["Lamina = microtubules", "Lamina = filaments intermédiaires", "p.51b"]
+  - ["Protéines et ARN circulent librement", "Passage contrôlé ; libre pour nucléotides et ions", "p.51b"]
+  - ["Nucléole = un seul par noyau", "Parfois plusieurs", "p.52h"]
+  - ["Ribosomes seulement dans le cytosol", "Aussi sur le RE et la surface externe du noyau", "p.52b"]
+
+mnemonics:
+  - ["Pores nucléaires", "Videur de boîte de nuit : les petits passent, les gros sont contrôlés", "Libre : nucléotides, ions · contrôlé : ARN, protéines"]
+  - ["Nucléole", "L'usine à ribosomes du noyau", "Assemblage des sous-unités ribosomales"]
+
+quiz:
+  - q: "À propos du noyau :"
+    props:
+      - ["L'enveloppe nucléaire est formée de deux membranes.", true, "p.51b."]
+      - ["L'enveloppe nucléaire est en continuité avec le réticulum endoplasmique.", true, "p.51b."]
+      - ["La lamina est formée de microfilaments d'actine.", false, "Filaments intermédiaires."]
+      - ["Les ions circulent librement à travers les pores nucléaires.", true, "Petites molécules : libre."]
+      - ["Les protéines passent librement les pores nucléaires.", false, "Passage contrôlé."]
+  - q: "Chromatine et nucléole :"
+    props:
+      - ["La chromatine est de l'ADN associé à des protéines.", true, "p.52h."]
+      - ["La chromatine forme de longs filaments emmêlés.", true, "p.52h."]
+      - ["Un noyau ne contient jamais plus d'un nucléole.", false, "Parfois plusieurs."]
+      - ["Le nucléole est le site d'assemblage des sous-unités ribosomales.", true, "p.52h."]
+      - ["Le nucléole est une tache claire.", false, "Tache sombre."]
+  - q: "À propos des ribosomes :"
+    props:
+      - ["Ce sont des complexes protéines-ARN à deux sous-unités.", true, "p.52b."]
+      - ["Ils synthétisent les polypeptides sur base des ARN messagers.", true, "p.52b."]
+      - ["Ils peuvent être fixés sur la surface externe du noyau.", true, "p.52b."]
+      - ["Ils sont peu nombreux dans la cellule.", false, "Très nombreux."]
+      - ["On les trouve à l'état libre dans le cytosol.", true, "p.52b."]
+
+coverage:
+  - ["S1-1", "51h", "Cellule animale : noyau et réticulum endoplasmique", 2]
+  - ["S1-1", "51b", "Enveloppe nucléaire, lamina, pores", 3]
+  - ["S1-1", "52h", "Chromatine et nucléole", 4]
+  - ["S1-1", "52b", "Ribosomes", 5]

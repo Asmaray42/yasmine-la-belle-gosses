@@ -1,0 +1,221 @@
+title: "Le système membranaire interne : RE, Golgi, lysosomes"
+subtitle: "RER · REL · Golgi cis/trans · transport des protéines · lysosomes · Tay-Sachs"
+source: "S1-1 p.53 à 56"
+chapter: "Partie I — Chapitre III. Structure de la cellule eucaryote — 4. Le système membranaire interne"
+objectives:
+  - "Définir le système membranaire interne et citer ses organites."
+  - "Comparer RER et REL (structure, fonctions, proportion selon le type cellulaire)."
+  - "Décrire l'appareil de Golgi (faces cis/trans, glycosylation) et le transport des protéines en 3 étapes."
+  - "Décrire les lysosomes et la maladie de Tay-Sachs."
+
+scenes:
+  - kind: hook
+    title: "La poste de la cellule"
+    ref: "S1-1 p.54"
+    big: "cis → trans"
+    beats:
+      - say: "Une protéine fabriquée dans la cellule doit parfois sortir, parfois aller dans un lysosome. Qui trie le courrier ? Le Golgi, avec une face pour recevoir et une face pour expédier."
+      - say: "Au programme : réticulum rugueux et lisse, Golgi, transport des protéines, lysosomes."
+        show: "RER · REL · *Golgi* · transport · *lysosomes*"
+
+  - kind: figure
+    title: "Le système membranaire interne"
+    ref: "S1-1 p.53"
+    fig: "S1-1:53h"
+    trap: "4 organites cités : RE (rugueux et lisse), Golgi, lysosomes, peroxysomes."
+    beats:
+      - say: "Le système membranaire interne assure une compartimentalisation par rapport au cytosol, le liquide gélatineux du cytoplasme."
+        mark: "compartimentalisation"
+        show: "*Compartimentalisation* par rapport au cytosol"
+      - say: "Il rassemble plusieurs organites limités par une membrane : le réticulum endoplasmique, rugueux et lisse, l'appareil de Golgi, les lysosomes, et les peroxysomes."
+        mark: ["rugueux et lisse", "peroxysomes"]
+        show: "RE (*rugueux* et *lisse*) · appareil de *Golgi* · *lysosomes* · *peroxysomes*"
+      - say: "Ces organites exécutent des réactions biochimiques spécifiques, et canalisent le déplacement de molécules dans la cellule."
+        mark: ["réactions biochimiques", "canalisent"]
+        show: "Réactions *spécifiques* · *canalisent* le déplacement des molécules"
+
+  - kind: figure
+    title: "Le réticulum endoplasmique rugueux"
+    ref: "S1-1 p.53"
+    fig: "S1-1:53b"
+    trap: "Protéines du RER : exportées, envoyées aux lysosomes, ou intégrées à la membrane plasmique."
+    beats:
+      - say: "Le RER a la forme de sacs aplatis. Sa membrane est rugueuse à cause des nombreux ribosomes."
+        mark: ["sacs aplatis", "rugueuse"]
+        show: "*RER* : sacs aplatis · membrane rugueuse = nombreux *ribosomes*"
+      - say: "Les protéines synthétisées au niveau du RER seront exportées hors de la cellule, expédiées vers les lysosomes, ou intégrées à la membrane plasmique : c'est le trafic des protéines."
+        mark: ["exportées", "lysosomes", "membrane plasmique"]
+        show: "Protéines : *exportées* · vers les *lysosomes* · intégrées à la *membrane plasmique*"
+
+  - kind: figure
+    title: "Le réticulum endoplasmique lisse"
+    ref: "S1-1 p.54"
+    fig: "S1-1:54h"
+    trap: "REL : lipides (stéroïdes dont cholestérol, phospholipides) · stockage du Ca2+ · détoxication."
+    beats:
+      - say: "Le REL est un réseau de tubules, en continuité avec le RER. Sa membrane est lisse, faute de ribosomes."
+        mark: ["réseau de tubules", "absence de ribosomes"]
+        show: "*REL* : tubules · continuité avec le RER · lisse (*pas de ribosomes*)"
+      - say: "Trois rôles : la synthèse de lipides, stéroïdes comme le cholestérol et phospholipides ; le stockage du calcium, impliqué dans des voies de signalisation ; et la détoxication, la modification de substances étrangères, par exemple dans des cellules du foie."
+        mark: ["synthèse de lipides", "stockage du Ca", "détoxication"]
+        show: "*Lipides* (stéroïdes, phospholipides) · stockage du *Ca²⁺* · *détoxication* (foie)"
+      - say: "La proportion RER et REL varie selon le type cellulaire : beaucoup de RER dans les cellules qui sécrètent beaucoup de protéines, beaucoup de REL dans celles qui produisent beaucoup de lipides."
+        mark: "proportion RER vs REL"
+        show: "RER +++ : sécrétion de *protéines* · REL +++ : production de *lipides*"
+
+  - kind: figure
+    title: "L'appareil de Golgi"
+    ref: "S1-1 p.54"
+    fig: "S1-1:54b"
+    trap: "Face CIS = réception ; face TRANS = expédition ; glycosylation → glycoprotéines et glycolipides."
+    beats:
+      - say: "L'appareil de Golgi : un ou plusieurs dizaines par cellule, formé d'un empilement de saccules, ou citernes."
+        mark: "empilement de saccules"
+        show: "1 à plusieurs dizaines/cellule · empilement de *saccules* (citernes)"
+      - say: "C'est un *centre de tri* : il collecte, modifie et redistribue les molécules synthétisées dans le RER, les protéines, ou dans le REL, les lipides."
+        mark: "centre de tri"
+        show: "*Centre de tri* : collecte, modifie, redistribue (protéines du RER, lipides du REL)"
+      - say: "La face *cis* reçoit, par fusion de vésicules venant du RER et du REL. La face *trans* expédie, par bourgeonnement de vésicules vers différentes destinations."
+        mark: ["face cis", "face trans"]
+        show: "Face *cis* = *réception* (fusion) · face *trans* = *expédition* (bourgeonnement)"
+      - say: "Au passage, il ajoute de courtes chaînes glucidiques, c'est la *glycosylation*, qui donne des glycoprotéines et des glycolipides."
+        mark: "glycosylation"
+        show: "*Glycosylation* → glycoprotéines, glycolipides"
+
+  - kind: flow
+    title: "Le transport des protéines en 3 étapes"
+    ref: "S1-1 p.55"
+    trap: "Ordre : RER → face cis → glycosylation → face trans → membrane plasmique."
+    beats:
+      - say: "Le trajet d'une protéine de sécrétion."
+      - say: "Une vésicule de transport chargée de protéines bourgeonne à partir du RER, migre, et fusionne sur la face cis du Golgi, grâce à l'interaction de protéines membranaires."
+        show: "Vésicule du *RER* → fusion sur la face *cis* du Golgi"
+      - say: "Les protéines libérées dans le Golgi sont modifiées par glycosylation, puis empaquetées dans des vésicules qui bourgeonnent sur la face trans."
+        show: "*Glycosylation* → vésicules bourgeonnant sur la face *trans*"
+      - say: "Certaines vésicules sortantes, dites de sécrétion, fusionnent avec la membrane plasmique et relarguent leur contenu dans le milieu extra-cellulaire. D'autres vont vers d'autres compartiments."
+        show: "Vésicules de *sécrétion* → membrane plasmique → milieu extracellulaire"
+
+  - kind: figure
+    title: "Les lysosomes"
+    ref: "S1-1 p.55"
+    fig: "S1-1:55b"
+    trap: "pH 4,5 ; enzymes inactives hors du lysosome ; Christian de Duve, UCL, Nobel 1974."
+    beats:
+      - say: "Les lysosomes sont des vésicules émanant du Golgi. Ils contiennent des enzymes digestives, dites lysosomiales, qui décomposent protéines, lipides, glucides et acides nucléiques."
+        mark: ["vésicules émanant", "enzymes digestives"]
+        show: "Vésicules du *Golgi* · enzymes *digestives* (protéines, lipides, glucides, acides nucléiques)"
+      - say: "Leur intérieur est acide, pH *4,5*, ce qui est nécessaire à l'activité des enzymes lysosomiales : elles ne sont pas actives en dehors du lysosome."
+        mark: "pH 4.5"
+        show: "# Intérieur acide : *pH 4,5* · enzymes *inactives* hors du lysosome"
+      - say: "Trois rôles : recycler les organites âgés, digérer des composés ingérés depuis le milieu extra-cellulaire, et détruire les bactéries captées par phagocytose."
+        mark: ["recyclage", "phagocytose"]
+        show: "Recyclage des organites âgés · digestion · destruction des bactéries (*phagocytose*)"
+      - say: "Ils ont été découverts à l'UCL par Christian de Duve, prix Nobel de médecine en 1974."
+        mark: "Christian de Duve"
+        show: "Découverts à l'*UCL* par *Christian de Duve* (Nobel 1974)"
+
+  - kind: figure
+    title: "La maladie de Tay-Sachs"
+    ref: "S1-1 p.56"
+    fig: "S1-1:56h"
+    trap: "Accumulation d'un GLYCOLIPIDE dans les cellules nerveuses ; 1/320 000 ; décès entre 2 et 5 ans."
+    beats:
+      - say: "Une maladie lysosomiale : la maladie de Tay-Sachs. Maladie infantile, un cas sur 320 000 naissances, due à un défaut de fonction d'une enzyme lysosomiale."
+        mark: ["320 000", "enzyme lysosomiale"]
+        show: "Tay-Sachs : infantile, *1/320 000* · défaut d'une *enzyme lysosomiale*"
+      - say: "Un glycolipide s'accumule dans les cellules nerveuses, d'où une détérioration progressive du tissu nerveux dans le cerveau."
+        mark: "glycolipide"
+        show: "Accumulation d'un *glycolipide* dans les cellules nerveuses"
+      - say: "Les symptômes : aucun pendant les premiers mois, puis affaiblissement musculaire progressif, perte de la capacité de déglutition, dégradation de la vue, convulsions et crises d'épilepsie, et décès de l'enfant entre 2 et 5 ans. Pas de traitement curatif."
+        mark: ["aucun durant", "2 et 5 ans", "curatif"]
+        show: "Rien au début → faiblesse, déglutition, vue, convulsions · décès *2-5 ans* · pas de traitement curatif"
+
+  - kind: trap
+    title: "Cis, trans, rugueux, lisse"
+    ref: "S1-1 p.53-55"
+    trap: "Ne pas inverser cis/trans ni RER/REL."
+    beats:
+      - say: "Les pièges de ce chapitre."
+      - say: "“La face trans reçoit les vésicules du RE” : faux. Cis reçoit, trans expédie."
+        show: "✓ *Cis* = réception · *trans* = expédition"
+      - say: "“Le RER synthétise le cholestérol” : faux, c'est le REL. Le RER porte des ribosomes et produit des protéines."
+        show: "✓ REL = lipides (cholestérol) · RER = protéines (ribosomes)"
+      - say: "“Les enzymes lysosomiales sont actives dans le cytosol” : faux, uniquement dans le lysosome, à pH 4,5."
+        show: "✓ Enzymes actives *dans* le lysosome seulement (pH 4,5)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-1 p.54-56"
+    question: "Quelle proposition est exacte ?"
+    options:
+      - "Le REL stocke le calcium."
+      - "Les lysosomes ont un pH intérieur de 7,4."
+      - "La maladie de Tay-Sachs est due à l'accumulation de glycogène."
+      - "La glycosylation a lieu dans le noyau."
+    answer: [0]
+    beats:
+      - say: "Quiz : laquelle est exacte ?"
+        countdown: 4
+      - say: "Réponse A. Le lysosome est à pH 4,5, Tay-Sachs accumule un glycolipide, et la glycosylation se fait dans le Golgi."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 13 : mitochondries et cytosquelette"
+    ref: "S1-1 p.57"
+    big: "7 · 10 · 25 nm"
+    beats:
+      - say: "Prochain épisode : les mitochondries, leur ADN propre, l'endosymbiose, et les trois fibres du cytosquelette avec leurs diamètres."
+        show: "Mitochondries · endosymbiose · *cytosquelette*"
+
+recap:
+  - "Système membranaire interne : compartimentalisation par rapport au cytosol ; organites limités par une membrane : réticulum endoplasmique (rugueux et lisse), appareil de Golgi, lysosomes, peroxysomes ; réactions biochimiques spécifiques ; canalisent le déplacement de molécules."
+  - "RER : sacs aplatis ; membrane rugueuse (nombreux ribosomes) ; protéines exportées hors de la cellule, expédiées vers les lysosomes ou intégrées à la membrane plasmique."
+  - "REL : réseau de tubules en continuité avec le RER, lisse (absence de ribosomes) ; synthèse de lipides (stéroïdes, ex. cholestérol, et phospholipides) ; stockage du Ca2+ (voies de signalisation) ; détoxication (ex. cellules du foie). Proportion RER/REL selon le type cellulaire : RER +++ si sécrétion de protéines, REL +++ si production de lipides."
+  - "Golgi : un à plusieurs dizaines par cellule ; empilement de saccules (citernes) ; centre de tri (collecte, modifie, redistribue les molécules du RER et du REL) ; face cis = réception (fusion de vésicules) ; face trans = expédition (bourgeonnement) ; glycosylation → glycoprotéines et glycolipides."
+  - "Transport des protéines : 1. vésicule du RER → fusion sur la face cis (interaction de protéines membranaires) ; 2. glycosylation, empaquetage dans des vésicules bourgeonnant sur la face trans ; 3. vésicules de sécrétion → fusion avec la membrane plasmique → milieu extracellulaire (d'autres vers d'autres compartiments)."
+  - "Lysosomes : vésicules issues du Golgi ; enzymes digestives (lysosomiales) qui décomposent protéines, lipides, glucides et acides nucléiques ; intérieur acide (pH 4,5) nécessaire à leur activité (inactives hors du lysosome) ; rôles : recyclage des organites âgés, digestion des composés ingérés, destruction des bactéries captées par phagocytose ; découverts à l'UCL par Christian de Duve (Nobel de médecine 1974)."
+  - "Maladie de Tay-Sachs : maladie infantile (1/320 000 naissances) ; défaut d'une enzyme lysosomiale ; accumulation d'un glycolipide dans les cellules nerveuses ; détérioration progressive du tissu nerveux ; symptômes : aucun les premiers mois, affaiblissement musculaire, perte de déglutition, dégradation de la vue, convulsions/épilepsie, décès entre 2 et 5 ans ; pas de traitement curatif."
+
+traps:
+  - ["Face trans = réception", "Cis = réception ; trans = expédition", "p.54b"]
+  - ["RER = cholestérol", "REL = lipides, Ca2+, détoxication ; RER = protéines", "p.53b-54h"]
+  - ["Lysosomes à pH neutre", "pH 4,5 ; enzymes inactives hors du lysosome", "p.55b"]
+  - ["Tay-Sachs = glycogène", "Accumulation d'un glycolipide dans les cellules nerveuses", "p.56h"]
+  - ["Glycosylation dans le RER selon ce chapitre", "Au passage dans le Golgi", "p.54b"]
+
+mnemonics:
+  - ["Cis / trans", "Cis = « Ça Inbox » (réception) ; Trans = Transport vers l'extérieur", "Cis réception · trans expédition"]
+  - ["Rôles du REL", "« Lipides, Calcium, Détox » = le foie gras (lipides, foie)", "Synthèse de lipides · stockage du Ca2+ · détoxication"]
+
+quiz:
+  - q: "À propos du réticulum endoplasmique :"
+    props:
+      - ["Le RER doit son aspect rugueux aux ribosomes.", true, "p.53b."]
+      - ["Le REL est en continuité avec le RER.", true, "p.54h."]
+      - ["Le REL intervient dans la détoxication, par exemple dans le foie.", true, "p.54h."]
+      - ["Les cellules qui sécrètent beaucoup de protéines sont riches en REL.", false, "Riches en RER."]
+      - ["Le REL synthétise des phospholipides.", true, "Et des stéroïdes."]
+  - q: "À propos du Golgi et du transport :"
+    props:
+      - ["La face cis reçoit les vésicules du RER et du REL.", true, "p.54b."]
+      - ["La face trans expédie les vésicules par bourgeonnement.", true, "p.54b."]
+      - ["La glycosylation produit des glycoprotéines et des glycolipides.", true, "p.54b."]
+      - ["Les vésicules de sécrétion fusionnent avec l'enveloppe nucléaire.", false, "Avec la membrane plasmique."]
+      - ["Le Golgi est un centre de tri.", true, "Collecte, modifie, redistribue."]
+  - q: "Lysosomes et Tay-Sachs :"
+    props:
+      - ["Les lysosomes sont des vésicules émanant du Golgi.", true, "p.55b."]
+      - ["Leur pH intérieur est de 4,5.", true, "p.55b."]
+      - ["Ils ont été découverts par Christian de Duve à l'UCL.", true, "Nobel 1974."]
+      - ["La maladie de Tay-Sachs touche 1 naissance sur 3 200.", false, "1 sur 320 000."]
+      - ["La maladie de Tay-Sachs dispose d'un traitement curatif.", false, "Pas de traitement curatif."]
+
+coverage:
+  - ["S1-1", "53h", "Système membranaire interne : définition, organites, rôles", 2]
+  - ["S1-1", "53b", "RER : structure, destinations des protéines", 3]
+  - ["S1-1", "54h", "REL : structure, fonctions, proportion RER/REL", 4]
+  - ["S1-1", "54b", "Appareil de Golgi : saccules, tri, cis/trans, glycosylation", 5]
+  - ["S1-1", "55h", "Transport des protéines en 3 étapes", 6]
+  - ["S1-1", "55b", "Lysosomes, pH 4,5, rôles, Christian de Duve", 7]
+  - ["S1-1", "56h", "Maladie de Tay-Sachs", 8]
+  - ["S1-1", "56b", "La cellule animale (diapo répétée, cf. ép. 10)", 2]

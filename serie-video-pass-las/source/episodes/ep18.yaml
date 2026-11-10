@@ -1,0 +1,176 @@
+title: "Le transport actif : pompe Na⁺/K⁺ et SGLT"
+subtitle: "Uniport · symport · antiport · 6 étapes de la pompe · co-transport · organites"
+source: "S1-2 p.16 à 17"
+chapter: "Partie I — Chapitre IV. La membrane plasmique et ses fonctions — 5. Transport actif"
+objectives:
+  - "Définir le transport actif et les transporteurs uniport, symport, antiport."
+  - "Décrire la pompe Na+/K+ en 6 étapes."
+  - "Expliquer le fonctionnement du co-transporteur Na+/glucose (SGLT)."
+  - "Citer les exemples de canaux et transporteurs des organites."
+
+scenes:
+  - kind: hook
+    title: "Trois dehors, deux dedans"
+    ref: "S1-2 p.16"
+    big: "3 Na⁺ / 2 K⁺"
+    beats:
+      - say: "Chaque pompe sodium potassium peut transporter au moins trois cents Na plus par seconde, contre leur gradient. À chaque cycle : trois Na plus sortent, deux K plus entrent."
+      - say: "Au programme : le transport actif, la pompe en six étapes, et le co-transporteur sodium-glucose."
+        show: "Transport *actif* · pompe Na⁺/K⁺ · *SGLT*"
+
+  - kind: figure
+    title: "Le transport actif"
+    ref: "S1-2 p.16"
+    fig: "S1-2:16h"
+    trap: "Transport actif = CONTRE le gradient ; énergie souvent sous forme d'ATP."
+    beats:
+      - say: "Le transport actif fait passer des substances *à l'encontre* du gradient de concentration, en entrée ou en sortie. Il permet de créer des différences de concentration entre le cytoplasme et le milieu extracellulaire."
+        mark: ["à l’encontre", "différences de concentration"]
+        show: "*Contre* le gradient → crée des *différences* de concentration"
+      - say: "Molécules concernées : ions, sucres, acides aminés, nucléotides. Il est assuré par des transporteurs protéiques de spécificité variable."
+        mark: "molécules concernées"
+        show: "Ions · sucres · acides aminés · nucléotides"
+      - say: "*Uniport* : une seule substance. *Symport* : deux substances dans la même direction. *Antiport* : deux substances en directions opposées. Ces transporteurs requièrent de l'énergie, souvent sous forme d'ATP."
+        mark: ["uniport", "symport", "antiports", "ATP"]
+        show: "*Uniport* : 1 · *symport* : 2, même sens · *antiport* : 2, sens opposés · énergie (souvent *ATP*)"
+
+  - kind: mnemo
+    title: "Uni, sym, anti"
+    ref: "S1-2 p.16"
+    phrase: "*Uni* = un · *Sym* = ensemble · *Anti* = contre"
+    trap: "Symport = même direction ; antiport = directions opposées."
+    beats:
+      - say: "Uni, comme unique : une substance. Sym, comme sympathique, on voyage ensemble dans le même sens. Anti, comme antagoniste : chacun dans un sens opposé."
+        show: "*Uni* = 1 · *Sym* = même sens · *Anti* = sens opposés"
+
+  - kind: flow
+    title: "La pompe Na⁺/K⁺ en 6 étapes"
+    ref: "S1-2 p.16"
+    trap: "Antiport ; ATP ; 3 Na+ sortent, 2 K+ entrent ; ≥ 300 Na+ par seconde."
+    beats:
+      - say: "Dans la plupart des cellules, il y a moins de Na plus dans le cytosol qu'à l'extérieur, et plus de K plus dans le cytosol qu'à l'extérieur. La pompe sodium potassium, un antiport qui consomme de l'ATP, fait sortir le Na plus et entrer le K plus."
+      - say: "Un : trois Na plus se lient à la pompe, côté cytosol."
+        show: "*3 Na⁺* se lient côté *cytosol*"
+      - say: "Deux : changement de conformation, et liaison d'un ATP qui cède un phosphate à la pompe."
+        show: "Changement de conformation · l'*ATP* cède un *phosphate*"
+      - say: "Trois : cette phosphorylation induit un autre changement de conformation, et les Na plus sont libérés à l'extérieur."
+        show: "Phosphorylation → Na⁺ libérés à l'*extérieur*"
+      - say: "Quatre : dans cette conformation, la pompe a une forte affinité pour le K plus, et en fixe deux, côté extérieur."
+        show: "Forte affinité pour le K⁺ → *2 K⁺* fixés côté *extérieur*"
+      - say: "Cinq : nouveau changement de conformation, et perte du phosphate."
+        show: "Changement de conformation · *perte du phosphate*"
+      - say: "Six : retour à la conformation initiale, perte d'affinité pour le K plus, libéré dans la cellule, et de nouveaux Na plus prennent place. Chaque pompe transporterait au moins trois cents Na plus par seconde."
+        show: "Retour initial · K⁺ libérés dedans · nouveaux Na⁺ · ≥ *300 Na⁺/s*"
+
+  - kind: figure
+    title: "Le co-transporteur Na⁺/glucose (SGLT)"
+    ref: "S1-2 p.17"
+    fig: "S1-2:17h"
+    trap: "SGLT = SYMPORT ; transport PASSIF du Na+ qui fournit l'énergie au transport ACTIF du glucose ; pas d'ATP."
+    beats:
+      - say: "Le co-transporteur sodium-glucose, SGLT, se trouve dans les cellules de l'épithélium intestinal. C'est un *symport*."
+        mark: ["épithélium intestinal", "symport"]
+        show: "*SGLT* : épithélium *intestinal* · *symport*"
+      - say: "Le Na plus entre par transport *passif* : ce flux fournit l'énergie pour le transport *actif* du glucose. Il ne requiert donc pas d'ATP."
+        mark: ["transport passif de Na", "ne requiert"]
+        show: "Na⁺ *passif* → énergie pour le glucose *actif* · *pas d'ATP*"
+      - say: "Quatre étapes : deux Na plus se lient au transporteur côté extracellulaire, attirés par des charges négatives de la protéine. Changement de conformation et liaison d'un glucose. Le flux d'ions permet le passage du glucose, avec un nouveau changement de conformation. Enfin, le glucose et les Na plus sont libérés dans le cytosol."
+        mark: ["Deux Na", "libérés"]
+        show: "2 Na⁺ (côté extérieur) → liaison du glucose → passage → libération dans le *cytosol*"
+
+  - kind: figure
+    title: "Canaux et transporteurs des organites"
+    ref: "S1-2 p.17"
+    fig: "S1-2:17b"
+    trap: "Canaux calcium du REL = PASSIF ; pompe à protons des lysosomes = ACTIF."
+    beats:
+      - say: "On trouve aussi des canaux et des transporteurs, passifs ou actifs, dans la membrane des organites : ils contrôlent la répartition des solutés dans les différents compartiments."
+        mark: "répartition de solutés"
+        show: "Organites : canaux et transporteurs → répartition des solutés"
+      - say: "Deux exemples : les canaux calcium de la membrane du REL, passifs ; et la pompe à protons de la membrane des lysosomes, active."
+        mark: ["Canaux calcium", "Pompe à protons"]
+        show: "Canaux *Ca²⁺* du *REL* : passif · *pompe à protons* des *lysosomes* : actif"
+
+  - kind: trap
+    title: "Les pièges du transport actif"
+    ref: "S1-2 p.16-17"
+    trap: "Pompe = antiport ; SGLT = symport ; nombres 3 et 2."
+    beats:
+      - say: "Trois pièges."
+      - say: "“La pompe sodium potassium est un symport” : faux, c'est un antiport."
+        show: "✓ Pompe Na⁺/K⁺ = *antiport* · SGLT = *symport*"
+      - say: "“La pompe fait entrer trois Na plus” : faux, elle fait sortir trois Na plus et entrer deux K plus."
+        show: "✗ 3 Na⁺ entrent  →  ✓ *3 Na⁺ sortent*, *2 K⁺ entrent*"
+      - say: "“SGLT consomme directement de l'ATP” : faux, c'est le flux passif de Na plus qui fournit l'énergie."
+        show: "✓ SGLT : énergie = flux *passif* de Na⁺ (pas d'ATP)"
+
+  - kind: quiz
+    title: "Quiz express"
+    ref: "S1-2 p.16-17"
+    question: "Combien d'ions K⁺ la pompe Na⁺/K⁺ fixe-t-elle côté extérieur à chaque cycle ?"
+    options:
+      - "1"
+      - "2"
+      - "3"
+      - "300"
+    answer: [1]
+    beats:
+      - say: "Quiz : combien d'ions K plus la pompe fixe-t-elle côté extérieur à chaque cycle ?"
+        countdown: 4
+      - say: "Deux. Trois, ce sont les Na plus ; et trois cents, le nombre de Na plus par seconde."
+        reveal: true
+
+  - kind: outro
+    title: "Épisode 19 : endocytose et exocytose"
+    ref: "S1-2 p.18"
+    big: "LDL"
+    beats:
+      - say: "Prochain épisode : le transport en vrac, endocytose et exocytose, et l'exemple complet de la cellule intestinale."
+        show: "Phagocytose · pinocytose · *récepteur* · exocytose"
+
+recap:
+  - "Transport actif : à l'encontre du gradient de concentration (entrée ou sortie) ; crée des différences de concentration entre cytoplasme et milieu extracellulaire ; ions, sucres, acides aminés, nucléotides ; transporteurs de spécificité variable : uniport (une substance), symport (deux substances, même direction), antiport (deux substances, directions opposées) ; requièrent de l'énergie (souvent ATP)."
+  - "Pompe Na+/K+ : [Na+] cytosol < extérieur et [K+] cytosol > extérieur ; pompage actif de Na+ hors de la cellule et de K+ dans la cellule ; antiport ; énergie de l'ATP. Étapes : 1. trois Na+ se lient côté cytosol ; 2. changement de conformation et liaison d'un ATP qui cède un phosphate ; 3. la phosphorylation induit un changement de conformation, Na+ libérés à l'extérieur ; 4. forte affinité pour le K+, deux fixés côté extérieur ; 5. changement de conformation, perte du P ; 6. retour à la conformation initiale, perte d'affinité pour K+ (libérés), nouveaux Na+. Chaque pompe : au moins 300 Na+ par seconde."
+  - "Co-transporteur Na+/glucose (SGLT) : cellules de l'épithélium intestinal ; symport ; transport passif de Na+ ⇒ flux qui fournit l'énergie pour le transport actif du glucose (pas d'ATP). Étapes : deux Na+ se lient côté extracellulaire (charges – de la protéine) ; changement de conformation et liaison d'un glucose ; le flux d'ions permet le passage du glucose ; glucose et Na+ libérés dans le cytosol."
+  - "Organites : canaux et transporteurs passifs ou actifs dans leur membrane (contrôle de la répartition des solutés) ; ex. canaux calcium (passif) de la membrane du REL, pompe à protons (actif) de la membrane des lysosomes."
+
+traps:
+  - ["Transport actif selon le gradient", "À l'encontre du gradient", "p.16h"]
+  - ["Symport = directions opposées", "Symport = même direction ; antiport = opposées", "p.16h"]
+  - ["Pompe = symport", "Pompe Na+/K+ = antiport", "p.16b"]
+  - ["3 Na+ entrent, 2 K+ sortent", "3 Na+ sortent, 2 K+ entrent", "p.16b"]
+  - ["SGLT utilise l'ATP", "Énergie fournie par le flux passif de Na+", "p.17h"]
+  - ["Canaux Ca du REL actifs", "Canaux Ca du REL passifs ; pompe à protons des lysosomes active", "p.17b"]
+
+mnemonics:
+  - ["Uniport / symport / antiport", "Uni = unique ; Sym = sympa, ensemble ; Anti = antagoniste", "1 substance · 2 même sens · 2 sens opposés"]
+  - ["Pompe Na+/K+", "« 3 sodas dehors, 2 cafés dedans » (Na = 3 dehors, K = 2 dedans)", "3 Na+ sortent · 2 K+ entrent · ATP · antiport"]
+
+quiz:
+  - q: "Transport actif :"
+    props:
+      - ["Il se fait à l'encontre du gradient de concentration.", true, "p.16h."]
+      - ["Un antiport transporte deux substances dans la même direction.", false, "En directions opposées."]
+      - ["Les nucléotides peuvent être transportés activement.", true, "p.16h."]
+      - ["Les transporteurs actifs requièrent de l'énergie, souvent sous forme d'ATP.", true, "p.16h."]
+      - ["Le transport actif empêche la création de différences de concentration.", false, "Il permet de les créer."]
+  - q: "Pompe Na+/K+ :"
+    props:
+      - ["Elle fait sortir le Na+ et entrer le K+.", true, "p.16b."]
+      - ["Trois Na+ se lient à la pompe côté cytosol.", true, "Étape 1."]
+      - ["L'ATP cède un phosphate à la pompe.", true, "Étape 2."]
+      - ["Deux K+ sont fixés côté cytosol.", false, "Côté extérieur."]
+      - ["Chaque pompe transporterait au moins 300 Na+ par seconde.", true, "p.16b."]
+  - q: "SGLT et organites :"
+    props:
+      - ["SGLT est un symport de l'épithélium intestinal.", true, "p.17h."]
+      - ["Le transport du glucose par SGLT est actif.", true, "L'énergie vient du flux passif de Na+."]
+      - ["Deux Na+ se lient à SGLT côté extracellulaire.", true, "p.17h."]
+      - ["Les lysosomes possèdent une pompe à protons active.", true, "p.17b."]
+      - ["SGLT requiert directement de l'ATP.", false, "Ne requiert pas d'ATP."]
+
+coverage:
+  - ["S1-2", "16h", "Transport actif : définition, molécules, uniport/symport/antiport, énergie", 2]
+  - ["S1-2", "16b", "Pompe Na+/K+ : 6 étapes, ≥ 300 Na+/s", 4]
+  - ["S1-2", "17h", "Co-transporteur Na+/glucose (SGLT)", 5]
+  - ["S1-2", "17b", "Canaux et transporteurs des organites (REL, lysosomes)", 6]
