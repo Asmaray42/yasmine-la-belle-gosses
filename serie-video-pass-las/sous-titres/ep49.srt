@@ -1,0 +1,455 @@
+1
+00:00:00,300 --> 00:00:01,470
+Deux couches de cellules au
+
+2
+00:00:01,470 --> 00:00:02,555
+départ, trois feuillets à
+
+3
+00:00:02,555 --> 00:00:02,988
+l'arrivée.
+
+4
+00:00:03,128 --> 00:00:04,437
+Tout ton corps sort de ces trois
+
+5
+00:00:04,437 --> 00:00:04,846
+feuillets.
+
+6
+00:00:05,246 --> 00:00:06,564
+Au programme : la ligne
+
+7
+00:00:06,564 --> 00:00:08,169
+primitive, l'endoderme et le
+
+8
+00:00:08,169 --> 00:00:09,373
+mésoderme définitifs,
+
+9
+00:00:09,373 --> 00:00:11,035
+les territoires du mésoderme,
+
+10
+00:00:11,035 --> 00:00:11,895
+et les somites.
+
+11
+00:00:12,455 --> 00:00:14,078
+Chapitre trois : gastrulation,
+
+12
+00:00:14,078 --> 00:00:15,593
+somitogenèse et neurulation.
+
+13
+00:00:15,733 --> 00:00:17,570
+Quatre points : la gastrulation,
+
+14
+00:00:17,570 --> 00:00:19,350
+la somitogenèse, la neurulation
+
+15
+00:00:19,350 --> 00:00:21,131
+et la formation du tube neural,
+
+16
+00:00:21,131 --> 00:00:22,107
+et la notochorde.
+
+17
+00:00:22,667 --> 00:00:23,803
+Au départ : le disque
+
+18
+00:00:23,803 --> 00:00:25,156
+embryonnaire didermique ,
+
+19
+00:00:25,156 --> 00:00:26,455
+épiblaste et hypoblaste.
+
+20
+00:00:26,595 --> 00:00:27,906
+Des mouvements cellulaires de
+
+21
+00:00:27,906 --> 00:00:29,171
+l'épiblaste forment la ligne
+
+22
+00:00:29,171 --> 00:00:29,669
+primitive .
+
+23
+00:00:30,069 --> 00:00:31,915
+Se forment alors trois feuillets,
+
+24
+00:00:31,915 --> 00:00:33,090
+ectoderme, mésoderme,
+
+25
+00:00:33,090 --> 00:00:34,656
+endoderme, et la notochorde.
+
+26
+00:00:34,796 --> 00:00:36,350
+La ligne et le nœud primitifs
+
+27
+00:00:36,350 --> 00:00:37,957
+sont un centre d'induction qui
+
+28
+00:00:37,957 --> 00:00:39,350
+définit les axes du corps.
+
+29
+00:00:39,750 --> 00:00:41,549
+Le mésoderme donne le paraxial,
+
+30
+00:00:41,549 --> 00:00:43,465
+avec les somites, l'intermédiaire
+
+31
+00:00:43,465 --> 00:00:44,278
+et le latéral.
+
+32
+00:00:44,418 --> 00:00:46,300
+L'ectoderme donne le tube neural,
+
+33
+00:00:46,300 --> 00:00:48,069
+la crête neurale et l'ectoderme
+
+34
+00:00:48,069 --> 00:00:48,697
+de surface.
+
+35
+00:00:49,257 --> 00:00:50,707
+Des mouvements cellulaires dans
+
+36
+00:00:50,707 --> 00:00:52,017
+l'épiblaste forment la ligne
+
+37
+00:00:52,017 --> 00:00:52,485
+primitive.
+
+38
+00:00:53,045 --> 00:00:54,858
+Et la ligne primitive définit les
+
+39
+00:00:54,858 --> 00:00:56,067
+grands axes du corps :
+
+40
+00:00:56,067 --> 00:00:57,660
+crânio-caudal, dorso-ventral,
+
+41
+00:00:57,660 --> 00:00:58,594
+et gauche-droite.
+
+42
+00:00:59,154 --> 00:01:00,371
+Jours quatorze à seize :
+
+43
+00:01:00,371 --> 00:01:01,741
+des cellules de l'épiblaste
+
+44
+00:01:01,741 --> 00:01:03,414
+passent par la ligne primitive et
+
+45
+00:01:03,414 --> 00:01:04,783
+envahissent l' hypoblaste :
+
+46
+00:01:04,783 --> 00:01:06,304
+c'est l' endoderme définitif .
+
+47
+00:01:06,704 --> 00:01:07,647
+Pour ce mouvement,
+
+48
+00:01:07,647 --> 00:01:09,062
+les cellules de l'épiblaste
+
+49
+00:01:09,062 --> 00:01:10,319
+subissent une transition
+
+50
+00:01:10,319 --> 00:01:11,733
+épithélio-mésenchymateuse .
+
+51
+00:01:12,293 --> 00:01:13,926
+Mêmes jours, quatorze à seize :
+
+52
+00:01:13,926 --> 00:01:15,612
+d'autres cellules de l'épiblaste
+
+53
+00:01:15,612 --> 00:01:17,351
+passent par la ligne primitive et
+
+54
+00:01:17,351 --> 00:01:18,773
+envahissent l' espace entre
+
+55
+00:01:18,773 --> 00:01:20,301
+l'épiblaste et l'hypoblaste :
+
+56
+00:01:20,301 --> 00:01:21,882
+c'est le mésoderme définitif .
+
+57
+00:01:22,282 --> 00:01:23,448
+Ici aussi, transition
+
+58
+00:01:23,448 --> 00:01:25,058
+épithélio-mésenchymateuse des
+
+59
+00:01:25,058 --> 00:01:26,391
+cellules de l'épiblaste.
+
+60
+00:01:26,951 --> 00:01:28,690
+Le mésoderme migre et forme,
+
+61
+00:01:28,690 --> 00:01:30,180
+sur l'axe médio-latéral,
+
+62
+00:01:30,180 --> 00:01:31,609
+le mésoderme paraxial ,
+
+63
+00:01:31,609 --> 00:01:33,410
+intermédiaire , et de la lame
+
+64
+00:01:33,410 --> 00:01:34,031
+latérale .
+
+65
+00:01:34,431 --> 00:01:35,986
+Et à l'extrémité crâniale ,
+
+66
+00:01:35,986 --> 00:01:37,598
+le mésoderme cardiogénique .
+
+67
+00:01:37,998 --> 00:01:39,582
+Sur la figure : la membrane
+
+68
+00:01:39,582 --> 00:01:41,166
+oro-pharyngée côté crânial,
+
+69
+00:01:41,166 --> 00:01:43,102
+la membrane cloacale côté caudal,
+
+70
+00:01:43,102 --> 00:01:44,803
+et les côtés droit et gauche.
+
+71
+00:01:45,363 --> 00:01:46,969
+La segmentation du mésoderme
+
+72
+00:01:46,969 --> 00:01:48,576
+paraxial forme les somites :
+
+73
+00:01:48,576 --> 00:01:49,895
+c'est la somitogenèse .
+
+74
+00:01:50,455 --> 00:01:51,758
+Au total, quarante-deux à
+
+75
+00:01:51,758 --> 00:01:53,113
+quarante-quatre somites se
+
+76
+00:01:53,113 --> 00:01:54,833
+forment, mais il n'en restera que
+
+77
+00:01:54,833 --> 00:01:56,136
+trente-sept : les somites
+
+78
+00:01:56,136 --> 00:01:57,334
+caudales disparaissent.
+
+79
+00:01:57,734 --> 00:01:59,057
+Les somites préfigurent les
+
+80
+00:01:59,057 --> 00:02:00,625
+structures métamérisées du tronc
+
+81
+00:02:00,625 --> 00:02:02,095
+: le squelette et les muscles.
+
+82
+00:02:02,655 --> 00:02:03,492
+Trois pièges.
+
+83
+00:02:03,892 --> 00:02:05,561
+“L'endoderme définitif se forme
+
+84
+00:02:05,561 --> 00:02:06,673
+entre l'épiblaste et
+
+85
+00:02:06,673 --> 00:02:07,786
+l'hypoblaste” : faux.
+
+86
+00:02:07,926 --> 00:02:09,188
+Il envahit l'hypoblaste.
+
+87
+00:02:09,328 --> 00:02:10,698
+C'est le mésoderme qui occupe
+
+88
+00:02:10,698 --> 00:02:11,832
+l'espace entre les deux.
+
+89
+00:02:12,232 --> 00:02:13,861
+“Le mésoderme cardiogénique est
+
+90
+00:02:13,861 --> 00:02:15,109
+caudal” : faux, il est à
+
+91
+00:02:15,109 --> 00:02:16,249
+l'extrémité crâniale.
+
+92
+00:02:16,649 --> 00:02:18,240
+“Il se forme trente-sept somites”
+
+93
+00:02:18,240 --> 00:02:19,678
+: attention, quarante-deux à
+
+94
+00:02:19,678 --> 00:02:21,063
+quarante-quatre se forment,
+
+95
+00:02:21,063 --> 00:02:22,090
+trente-sept restent.
+
+96
+00:02:22,650 --> 00:02:24,108
+Les trois territoires du
+
+97
+00:02:24,108 --> 00:02:25,565
+mésoderme, de l'axe vers
+
+98
+00:02:25,565 --> 00:02:26,780
+l'extérieur : “P I L”,
+
+99
+00:02:26,780 --> 00:02:28,238
+Paraxial, Intermédiaire,
+
+100
+00:02:28,238 --> 00:02:29,089
+Lame latérale.
+
+101
+00:02:29,228 --> 00:02:30,560
+Le cœur, lui, est en tête.
+
+102
+00:02:30,960 --> 00:02:32,318
+Les somites : quarante-quatre
+
+103
+00:02:32,318 --> 00:02:33,443
+moins sept, trente-sept.
+
+104
+00:02:34,003 --> 00:02:35,226
+Quiz : comment se forme
+
+105
+00:02:35,226 --> 00:02:36,449
+l'endoderme définitif ?
+
+106
+00:02:40,849 --> 00:02:42,400
+Par des cellules de l'épiblaste
+
+107
+00:02:42,400 --> 00:02:43,600
+qui passent par la ligne
+
+108
+00:02:43,600 --> 00:02:44,800
+primitive et envahissent
+
+109
+00:02:44,800 --> 00:02:46,401
+l'hypoblaste, aux jours quatorze
+
+110
+00:02:46,401 --> 00:02:46,801
+à seize.
+
+111
+00:02:47,361 --> 00:02:48,399
+Prochain épisode :
+
+112
+00:02:48,399 --> 00:02:50,013
+l'ectoderme, la neurulation,
+
+113
+00:02:50,013 --> 00:02:51,282
+la crête neurale et la
+
+114
+00:02:51,282 --> 00:02:51,916
+notochorde.

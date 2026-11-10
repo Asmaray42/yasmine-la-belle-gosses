@@ -1,0 +1,151 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour s'implanter, l'embryon
+Dialogue: 0,0:00:01.71,0:00:03.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}envahit la paroi de l'utérus,
+Dialogue: 0,0:00:03.22,0:00:04.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ronge les capillaires maternels
+Dialogue: 0,0:00:04.83,0:00:06.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et fait couler le sang dans ses
+Dialogue: 0,0:00:06.44,0:00:07.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}propres lacunes.
+Dialogue: 0,0:00:07.68,0:00:09.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : l'invasion de
+Dialogue: 0,0:00:09.12,0:00:10.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'endomètre, les cavités de
+Dialogue: 0,0:00:10.51,0:00:11.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon et les villosités.
+Dialogue: 0,0:00:12.51,0:00:14.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le trophoblaste se différencie,
+Dialogue: 0,0:00:14.16,0:00:15.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'abord du côté de l'adhésion,
+Dialogue: 0,0:00:15.76,0:00:16.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis tout autour.
+Dialogue: 0,0:00:17.06,0:00:18.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}cytotrophoblaste{\c&HFFFFFF&} :
+Dialogue: 0,0:00:18.23,0:00:19.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}couche interne, qui prolifère.
+Dialogue: 0,0:00:20.04,0:00:21.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}syncytiotrophoblaste{\c&HFFFFFF&} :
+Dialogue: 0,0:00:21.58,0:00:23.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}couche externe, un syncytium,
+Dialogue: 0,0:00:23.37,0:00:25.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui sécrète la h C G et est
+Dialogue: 0,0:00:25.03,0:00:26.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}invasif{\c&HFFFFFF&} , grâce à des protéases
+Dialogue: 0,0:00:26.94,0:00:28.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et des facteurs apoptotiques.
+Dialogue: 0,0:00:29.13,0:00:30.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il envahit le stroma endométrial
+Dialogue: 0,0:00:30.89,0:00:32.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: c'est la {\c&H66D1FF&}réaction{\c&HFFFFFF&} {\c&H66D1FF&}déciduale{\c&HFFFFFF&} .
+Dialogue: 0,0:00:32.74,0:00:34.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le stroma sécrète des facteurs
+Dialogue: 0,0:00:34.42,0:00:35.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui favorisent l'embryon et
+Dialogue: 0,0:00:35.94,0:00:37.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contrôlent l'invasion ;
+Dialogue: 0,0:00:37.23,0:00:38.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il s'hypervascularise ;
+Dialogue: 0,0:00:38.52,0:00:40.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'endomètre devient la {\c&H66D1FF&}déciduale{\c&HFFFFFF&} .
+Dialogue: 0,0:00:40.82,0:00:42.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La circulation utéroplacentaire
+Dialogue: 0,0:00:42.61,0:00:44.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitive se met en place :
+Dialogue: 0,0:00:44.17,0:00:45.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}lacunes{\c&HFFFFFF&} se forment dans le
+Dialogue: 0,0:00:45.91,0:00:47.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}syncytiotrophoblaste,
+Dialogue: 0,0:00:47.12,0:00:48.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les capillaires maternels sont
+Dialogue: 0,0:00:48.85,0:00:50.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}érodés, et le sang s'écoule dans
+Dialogue: 0,0:00:50.70,0:00:51.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les lacunes.
+Dialogue: 0,0:00:51.54,0:00:53.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après l'enfouissement complet,
+Dialogue: 0,0:00:53.00,0:00:54.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le trou de pénétration est bouché
+Dialogue: 0,0:00:54.62,0:00:55.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par un {\c&H66D1FF&}caillot{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}fibrine{\c&HFFFFFF&} .
+Dialogue: 0,0:00:56.50,0:00:57.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Du liquide s'accumule entre
+Dialogue: 0,0:00:57.95,0:00:59.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épiblaste et le trophoblaste :
+Dialogue: 0,0:00:59.67,0:01:01.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}cavité{\c&HFFFFFF&} {\c&H66D1FF&}amniotique{\c&HFFFFFF&} .
+Dialogue: 0,0:01:01.58,0:01:02.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une couche issue de l'épiblaste
+Dialogue: 0,0:01:02.97,0:01:04.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la tapisse : l' {\c&H66D1FF&}amnios{\c&HFFFFFF&} .
+Dialogue: 0,0:01:04.20,0:01:05.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle grandira tellement qu'elle
+Dialogue: 0,0:01:05.61,0:01:07.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entourera entièrement l'embryon.
+Dialogue: 0,0:01:07.62,0:01:09.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules de l'hypoblaste
+Dialogue: 0,0:01:09.16,0:01:10.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prolifèrent et migrent pour
+Dialogue: 0,0:01:10.64,0:01:11.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tapisser l'intérieur du
+Dialogue: 0,0:01:11.91,0:01:13.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}blastocèle : c'est la {\c&H66D1FF&}cavité{\c&HFFFFFF&}
+Dialogue: 0,0:01:13.44,0:01:15.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}exocœlomique{\c&HFFFFFF&} , ou {\c&H66D1FF&}lécithocèle{\c&HFFFFFF&}
+Dialogue: 0,0:01:15.04,0:01:16.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}primaire{\c&HFFFFFF&} , entourée de la
+Dialogue: 0,0:01:16.41,0:01:17.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}membrane{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}Heuser{\c&HFFFFFF&} .
+Dialogue: 0,0:01:17.91,0:01:19.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une nouvelle couche apparaît
+Dialogue: 0,0:01:19.43,0:01:20.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre le cytotrophoblaste et
+Dialogue: 0,0:01:20.95,0:01:22.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon proprement dit :
+Dialogue: 0,0:01:22.35,0:01:24.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}mésoderme{\c&HFFFFFF&} {\c&H66D1FF&}extraembryonnaire{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:24.09,0:01:25.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fait de cellules lâches.
+Dialogue: 0,0:01:25.79,0:01:27.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des cavités s'y forment et
+Dialogue: 0,0:01:27.10,0:01:28.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}confluent : c'est la {\c&H66D1FF&}cavité{\c&HFFFFFF&}
+Dialogue: 0,0:01:28.46,0:01:29.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}chorionique{\c&HFFFFFF&} .
+Dialogue: 0,0:01:29.67,0:01:31.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une nouvelle migration depuis
+Dialogue: 0,0:01:31.34,0:01:33.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hypoblaste repousse la cavité
+Dialogue: 0,0:01:33.12,0:01:35.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exocœlomique : la nouvelle cavité
+Dialogue: 0,0:01:35.02,0:01:36.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}est la {\c&H66D1FF&}vésicule{\c&HFFFFFF&} {\c&H66D1FF&}ombilicale{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:36.63,0:01:38.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou {\c&H66D1FF&}lécithocèle{\c&HFFFFFF&} {\c&H66D1FF&}secondaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:38.58,0:01:40.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cavité exocœlomique se
+Dialogue: 0,0:01:40.12,0:01:42.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fragmente en un amas de petites
+Dialogue: 0,0:01:42.03,0:01:43.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vésicules, dans la cavité
+Dialogue: 0,0:01:43.57,0:01:44.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chorionique, du côté
+Dialogue: 0,0:01:44.81,0:01:45.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}abembryonnaire.
+Dialogue: 0,0:01:46.29,0:01:48.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cavité chorionique s'agrandit
+Dialogue: 0,0:01:48.01,0:01:49.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: l'embryon est pendu au {\c&H66D1FF&}pédicule{\c&HFFFFFF&}
+Dialogue: 0,0:01:49.79,0:01:50.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}suspenseur{\c&HFFFFFF&} .
+Dialogue: 0,0:01:50.84,0:01:52.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'embryon est alors formé de la
+Dialogue: 0,0:01:52.61,0:01:53.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cavité amniotique,
+Dialogue: 0,0:01:53.64,0:01:55.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la vésicule ombilicale,
+Dialogue: 0,0:01:55.12,0:01:56.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et du {\c&H66D1FF&}disque{\c&HFFFFFF&} {\c&H66D1FF&}embryonnaire{\c&HFFFFFF&}
+Dialogue: 0,0:01:56.55,0:01:57.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}didermique{\c&HFFFFFF&} .
+Dialogue: 0,0:01:57.79,0:01:59.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Villosités souches chorioniques
+Dialogue: 0,0:01:59.51,0:02:01.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}primaires{\c&HFFFFFF&} : des extensions du
+Dialogue: 0,0:02:01.12,0:02:02.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytotrophoblaste au sein du
+Dialogue: 0,0:02:02.62,0:02:03.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}syncytiotrophoblaste.
+Dialogue: 0,0:02:04.18,0:02:05.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Secondaires{\c&HFFFFFF&} : envahies par le
+Dialogue: 0,0:02:05.78,0:02:07.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme extraembryonnaire,
+Dialogue: 0,0:02:07.32,0:02:08.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui entoure la cavité
+Dialogue: 0,0:02:08.47,0:02:09.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chorionique.
+Dialogue: 0,0:02:09.53,0:02:10.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Tertiaires{\c&HFFFFFF&} : des vaisseaux,
+Dialogue: 0,0:02:10.91,0:02:11.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}issus du mésoderme
+Dialogue: 0,0:02:11.82,0:02:12.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extraembryonnaire,
+Dialogue: 0,0:02:12.73,0:02:13.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}y pénètrent.
+Dialogue: 0,0:02:13.48,0:02:14.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est la circulation
+Dialogue: 0,0:02:14.55,0:02:15.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utéroplacentaire.
+Dialogue: 0,0:02:15.59,0:02:17.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cœur commence à battre au {\c&H66D1FF&}jour{\c&HFFFFFF&}
+Dialogue: 0,0:02:17.12,0:02:17.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}vingt-deux{\c&HFFFFFF&} .
+Dialogue: 0,0:02:18.23,0:02:19.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans les villosités tertiaires,
+Dialogue: 0,0:02:19.95,0:02:21.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les échanges sont filtrés par
+Dialogue: 0,0:02:21.55,0:02:23.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}quatre{\c&HFFFFFF&} {\c&H66D1FF&}couches{\c&HFFFFFF&} : l'endothélium
+Dialogue: 0,0:02:23.21,0:02:24.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des vaisseaux, le mésoderme
+Dialogue: 0,0:02:24.71,0:02:25.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extraembryonnaire,
+Dialogue: 0,0:02:25.71,0:02:26.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytotrophoblaste,
+Dialogue: 0,0:02:26.81,0:02:28.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le syncytiotrophoblaste.
+Dialogue: 0,0:02:28.87,0:02:30.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre cavités à ne pas
+Dialogue: 0,0:02:30.06,0:02:30.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}confondre.
+Dialogue: 0,0:02:30.98,0:02:32.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cavité amniotique :
+Dialogue: 0,0:02:32.20,0:02:33.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre épiblaste et trophoblaste,
+Dialogue: 0,0:02:33.97,0:02:35.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tapissée par l'amnios.
+Dialogue: 0,0:02:35.59,0:02:37.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cavité exocœlomique :
+Dialogue: 0,0:02:37.02,0:02:38.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lécithocèle primaire,
+Dialogue: 0,0:02:38.27,0:02:39.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane de Heuser.
+Dialogue: 0,0:02:39.81,0:02:41.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La cavité chorionique :
+Dialogue: 0,0:02:41.09,0:02:42.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le mésoderme
+Dialogue: 0,0:02:42.05,0:02:43.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extraembryonnaire.
+Dialogue: 0,0:02:43.46,0:02:44.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La vésicule ombilicale :
+Dialogue: 0,0:02:44.91,0:02:46.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lécithocèle secondaire.
+Dialogue: 0,0:02:46.86,0:02:47.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:48.10,0:02:49.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le cytotrophoblaste sécrète la h
+Dialogue: 0,0:02:49.89,0:02:51.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C G et envahit l'endomètre” : faux.
+Dialogue: 0,0:02:51.94,0:02:53.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le syncytiotrophoblaste.
+Dialogue: 0,0:02:54.00,0:02:55.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La vésicule ombilicale est le
+Dialogue: 0,0:02:55.57,0:02:57.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lécithocèle primaire” : faux.
+Dialogue: 0,0:02:57.23,0:02:59.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Primaire, cavité exocœlomique ;
+Dialogue: 0,0:02:59.05,0:03:00.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}secondaire, vésicule ombilicale.
+Dialogue: 0,0:03:01.34,0:03:02.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les villosités secondaires
+Dialogue: 0,0:03:02.50,0:03:03.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contiennent des vaisseaux” :
+Dialogue: 0,0:03:03.71,0:03:05.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, ce sont les tertiaires.
+Dialogue: 0,0:03:05.56,0:03:06.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, deux, trois : un,
+Dialogue: 0,0:03:06.59,0:03:07.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cyto entre ; deux,
+Dialogue: 0,0:03:07.62,0:03:08.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le mésoderme suit ;
+Dialogue: 0,0:03:08.55,0:03:10.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois, les vaisseaux arrivent.
+Dialogue: 0,0:03:10.41,0:03:11.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et syncytio, comme “sinueux et
+Dialogue: 0,0:03:11.99,0:03:13.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}invasif” : c'est lui qui creuse
+Dialogue: 0,0:03:13.63,0:03:14.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et qui sécrète la h C G.
+Dialogue: 0,0:03:15.49,0:03:16.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : combien de couches de
+Dialogue: 0,0:03:16.85,0:03:17.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}filtration ?
+Dialogue: 0,0:03:21.83,0:03:23.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre : endothélium,
+Dialogue: 0,0:03:23.12,0:03:24.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme extraembryonnaire,
+Dialogue: 0,0:03:24.83,0:03:25.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cytotrophoblaste,
+Dialogue: 0,0:03:25.88,0:03:27.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}syncytiotrophoblaste.
+Dialogue: 0,0:03:27.72,0:03:28.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:28.63,0:03:30.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la gastrulation, et la naissance
+Dialogue: 0,0:03:30.24,0:03:31.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des trois feuillets.

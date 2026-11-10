@@ -1,0 +1,197 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Environ deux cents millions de
+Dialogue: 0,0:00:01.85,0:00:03.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes au départ.
+Dialogue: 0,0:00:03.28,0:00:04.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quelques centaines seulement
+Dialogue: 0,0:00:04.48,0:00:05.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}atteignent l'ampoule de la trompe.
+Dialogue: 0,0:00:06.08,0:00:07.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un seul féconde.
+Dialogue: 0,0:00:07.55,0:00:09.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : capacitation,
+Dialogue: 0,0:00:09.22,0:00:10.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réaction acrosomiale,
+Dialogue: 0,0:00:10.48,0:00:12.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}arrimage, fusion, et formation du zygote.
+Dialogue: 0,0:00:13.49,0:00:15.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre deux : fécondation,
+Dialogue: 0,0:00:15.11,0:00:16.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}segmentation, implantation.
+Dialogue: 0,0:00:16.80,0:00:18.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept points : activation et
+Dialogue: 0,0:00:18.38,0:00:19.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fusion du spermatozoïde,
+Dialogue: 0,0:00:19.79,0:00:21.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}achèvement de la méiose deux,
+Dialogue: 0,0:00:21.49,0:00:23.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}zygote et première division,
+Dialogue: 0,0:00:23.13,0:00:24.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}segmentation, implantation,
+Dialogue: 0,0:00:24.71,0:00:25.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cavités de l'embryon,
+Dialogue: 0,0:00:25.94,0:00:27.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et circulation utéroplacentaire.
+Dialogue: 0,0:00:28.38,0:00:29.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À l'éjaculation, les
+Dialogue: 0,0:00:29.60,0:00:31.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes sont accompagnés
+Dialogue: 0,0:00:31.50,0:00:32.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du {\c&H66D1FF&}liquide{\c&HFFFFFF&} {\c&H66D1FF&}séminal{\c&HFFFFFF&} :
+Dialogue: 0,0:00:32.72,0:00:34.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fluidification, protection,
+Dialogue: 0,0:00:34.37,0:00:35.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nutrition, motilité.
+Dialogue: 0,0:00:35.99,0:00:37.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Long parcours jusqu'à l' {\c&H66D1FF&}ampoule{\c&HFFFFFF&}
+Dialogue: 0,0:00:37.55,0:00:39.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}trompe{\c&HFFFFFF&} : quelques centaines
+Dialogue: 0,0:00:39.16,0:00:40.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur environ {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}cents{\c&HFFFFFF&} {\c&H66D1FF&}millions{\c&HFFFFFF&} y
+Dialogue: 0,0:00:40.77,0:00:41.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}parviendront.
+Dialogue: 0,0:00:41.54,0:00:42.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des groupes s'arrêtent et
+Dialogue: 0,0:00:42.73,0:00:43.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}attendent en chemin :
+Dialogue: 0,0:00:43.73,0:00:45.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la fécondation est possible
+Dialogue: 0,0:00:45.02,0:00:46.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jusqu'à {\c&H66D1FF&}quatre{\c&HFFFFFF&} {\c&H66D1FF&}jours{\c&HFFFFFF&} .
+Dialogue: 0,0:00:46.46,0:00:48.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En chemin, la {\c&H66D1FF&}capacitation{\c&HFFFFFF&} :
+Dialogue: 0,0:00:48.06,0:00:49.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimulée par les sécrétions du
+Dialogue: 0,0:00:49.77,0:00:51.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tractus génital de la femme,
+Dialogue: 0,0:00:51.37,0:00:53.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle détache des glycoprotéines
+Dialogue: 0,0:00:53.13,0:00:54.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranaires au niveau de
+Dialogue: 0,0:00:54.56,0:00:56.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acrosome, et augmente la
+Dialogue: 0,0:00:56.04,0:00:57.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}motilité : hyperactivité.
+Dialogue: 0,0:00:58.03,0:00:58.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les légendes.
+Dialogue: 0,0:00:59.05,0:00:59.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un, le vagin.
+Dialogue: 0,0:01:00.04,0:01:02.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux, la portion vaginale du col utérin.
+Dialogue: 0,0:01:02.29,0:01:03.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois, le canal du col.
+Dialogue: 0,0:01:03.67,0:01:04.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre, l'angle tubaire.
+Dialogue: 0,0:01:04.93,0:01:06.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq, l'ampoule de la trompe
+Dialogue: 0,0:01:06.38,0:01:06.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}utérine.
+Dialogue: 0,0:01:07.19,0:01:08.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Six, l'ovaire et les franges de
+Dialogue: 0,0:01:08.65,0:01:09.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la trompe.
+Dialogue: 0,0:01:09.26,0:01:10.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sept, l'endomètre.
+Dialogue: 0,0:01:10.43,0:01:11.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Huit, le myomètre.
+Dialogue: 0,0:01:11.61,0:01:13.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Neuf, la cavité utérine.
+Dialogue: 0,0:01:13.21,0:01:14.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et dix, la rencontre des
+Dialogue: 0,0:01:14.51,0:01:16.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes et de l'ovule.
+Dialogue: 0,0:01:16.63,0:01:18.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le spermatozoïde se lie à la zone
+Dialogue: 0,0:01:18.72,0:01:20.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pellucide : interaction entre la
+Dialogue: 0,0:01:20.74,0:01:22.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glycoprotéine {\c&H66D1FF&}ZP3{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:22.32,0:01:23.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la zone pellucide,
+Dialogue: 0,0:01:23.65,0:01:25.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la protéine {\c&H66D1FF&}SED1{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:25.23,0:01:26.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du spermatozoïde.
+Dialogue: 0,0:01:26.71,0:01:28.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette liaison déclenche la
+Dialogue: 0,0:01:28.14,0:01:29.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}réaction{\c&HFFFFFF&} {\c&H66D1FF&}acrosomiale{\c&HFFFFFF&} :
+Dialogue: 0,0:01:29.36,0:01:31.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la membrane plasmique fusionne
+Dialogue: 0,0:01:31.01,0:01:32.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec la membrane externe de
+Dialogue: 0,0:01:32.51,0:01:34.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acrosome, ce qui forme des pores.
+Dialogue: 0,0:01:34.84,0:01:36.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les enzymes acrosomiales sont
+Dialogue: 0,0:01:36.32,0:01:37.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}déversées : {\c&H66D1FF&}hyaluronidase{\c&HFFFFFF&} et
+Dialogue: 0,0:01:37.75,0:01:38.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}acrosine{\c&HFFFFFF&} .
+Dialogue: 0,0:01:38.40,0:01:40.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La zone pellucide est détruite
+Dialogue: 0,0:01:40.09,0:01:42.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}localement et le spermatozoïde passe.
+Dialogue: 0,0:01:42.31,0:01:44.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa tête est maintenant recouverte
+Dialogue: 0,0:01:44.02,0:01:45.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par la membrane {\c&H66D1FF&}interne{\c&HFFFFFF&} de
+Dialogue: 0,0:01:45.37,0:01:45.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'acrosome.
+Dialogue: 0,0:01:46.50,0:01:48.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le spermatozoïde qui a traversé
+Dialogue: 0,0:01:48.33,0:01:49.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la zone pellucide entre en
+Dialogue: 0,0:01:49.86,0:01:51.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contact avec la surface de
+Dialogue: 0,0:01:51.39,0:01:53.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovocyte et ses microvillosités.
+Dialogue: 0,0:01:53.74,0:01:55.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Attachement par l'interaction {\c&H66D1FF&}CD9{\c&HFFFFFF&}
+Dialogue: 0,0:01:55.93,0:01:57.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, de l'ovocyte, et {\c&H66D1FF&}IZUMO{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:57.48,0:01:58.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du spermatozoïde.
+Dialogue: 0,0:01:58.60,0:02:00.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur la diapo, CD9 est annotée
+Dialogue: 0,0:02:00.40,0:02:01.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un signe moins du côté des
+Dialogue: 0,0:02:01.88,0:02:02.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes.
+Dialogue: 0,0:02:02.92,0:02:04.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La membrane de l'ovocyte se
+Dialogue: 0,0:02:04.49,0:02:06.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dépolarise, le {\c&H66D1FF&}calcium{\c&HFFFFFF&} entre,
+Dialogue: 0,0:02:06.17,0:02:08.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les {\c&H66D1FF&}vésicules{\c&HFFFFFF&} {\c&H66D1FF&}corticales{\c&HFFFFFF&} sont
+Dialogue: 0,0:02:08.04,0:02:08.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}libérées.
+Dialogue: 0,0:02:08.96,0:02:09.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles contiennent :
+Dialogue: 0,0:02:09.99,0:02:11.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}protéases{\c&HFFFFFF&} , qui détruisent la
+Dialogue: 0,0:02:11.77,0:02:13.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine de liaison des
+Dialogue: 0,0:02:13.02,0:02:14.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes, ZP3 ;
+Dialogue: 0,0:02:14.48,0:02:16.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}peroxydases{\c&HFFFFFF&} , qui durcissent
+Dialogue: 0,0:02:16.21,0:02:17.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la zone pellucide ;
+Dialogue: 0,0:02:17.24,0:02:18.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et des {\c&H66D1FF&}glycosaminoglycanes{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:18.75,0:02:20.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui attirent l'eau et augmentent
+Dialogue: 0,0:02:20.48,0:02:21.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'espace périvitellin.
+Dialogue: 0,0:02:22.23,0:02:23.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Suite à l'arrimage,
+Dialogue: 0,0:02:23.36,0:02:25.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les membranes du spermatozoïde et
+Dialogue: 0,0:02:25.33,0:02:26.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'ovocyte fusionnent,
+Dialogue: 0,0:02:26.76,0:02:28.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}via des vésicules C D 9 positives
+Dialogue: 0,0:02:28.91,0:02:30.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui recouvrent le spermatozoïde,
+Dialogue: 0,0:02:30.82,0:02:31.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}IZUMO positif.
+Dialogue: 0,0:02:32.11,0:02:33.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La figure récapitule les étapes
+Dialogue: 0,0:02:33.97,0:02:35.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la fertilisation de l'ovocyte
+Dialogue: 0,0:02:35.89,0:02:37.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par le spermatozoïde.
+Dialogue: 0,0:02:37.71,0:02:39.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après la fusion, le spermatozoïde
+Dialogue: 0,0:02:39.60,0:02:41.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transfère : son {\c&H66D1FF&}noyau{\c&HFFFFFF&} {\c&H66D1FF&}condensé{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:41.43,0:02:42.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}haploïde ; le {\c&H66D1FF&}centrosome{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:42.91,0:02:43.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}base de l'axonème,
+Dialogue: 0,0:02:43.94,0:02:45.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui servira pour les futures
+Dialogue: 0,0:02:45.54,0:02:47.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitoses ; et l'axonème et les
+Dialogue: 0,0:02:47.20,0:02:48.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitochondries, {\c&H66D1FF&}rapidement{\c&HFFFFFF&}
+Dialogue: 0,0:02:48.62,0:02:49.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}détruits{\c&HFFFFFF&} .
+Dialogue: 0,0:02:49.59,0:02:51.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La méiose deux de l'ovocyte
+Dialogue: 0,0:02:51.08,0:02:52.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}s'achève, aussi pour le premier
+Dialogue: 0,0:02:52.80,0:02:54.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}globule polaire, {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}heures{\c&HFFFFFF&}
+Dialogue: 0,0:02:54.34,0:02:55.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}après la fusion : anaphase,
+Dialogue: 0,0:02:55.83,0:02:57.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis cytocinèse : l' {\c&H66D1FF&}ovule{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:57.38,0:02:59.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n, et le {\c&H66D1FF&}deuxième{\c&HFFFFFF&} {\c&H66D1FF&}globule{\c&HFFFFFF&} {\c&H66D1FF&}polaire{\c&HFFFFFF&} .
+Dialogue: 0,0:02:59.45,0:03:00.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'appareil microtubulaire de
+Dialogue: 0,0:03:00.89,0:03:01.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ovule est dégradé.
+Dialogue: 0,0:03:02.47,0:03:04.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN paternel se décondense,
+Dialogue: 0,0:03:04.30,0:03:06.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protamines étant remplacées
+Dialogue: 0,0:03:06.06,0:03:07.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par des histones, et s'entoure
+Dialogue: 0,0:03:07.77,0:03:09.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une enveloppe : c'est le
+Dialogue: 0,0:03:09.25,0:03:10.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}pronucleus{\c&HFFFFFF&} {\c&H66D1FF&}paternel{\c&HFFFFFF&} ,
+Dialogue: 0,0:03:10.45,0:03:12.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du côté du point d'entrée du
+Dialogue: 0,0:03:12.05,0:03:12.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïde.
+Dialogue: 0,0:03:13.24,0:03:15.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN maternel s'entoure d'une
+Dialogue: 0,0:03:15.10,0:03:16.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}enveloppe : le {\c&H66D1FF&}pronucleus{\c&HFFFFFF&}
+Dialogue: 0,0:03:16.51,0:03:18.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}maternel{\c&HFFFFFF&} , du côté des globules
+Dialogue: 0,0:03:18.26,0:03:18.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polaires.
+Dialogue: 0,0:03:19.16,0:03:20.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les pronuclei se rapprochent,
+Dialogue: 0,0:03:20.83,0:03:22.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grâce au réseau issu du
+Dialogue: 0,0:03:22.15,0:03:23.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}centrosome paternel.
+Dialogue: 0,0:03:23.43,0:03:24.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réplication de l'ADN,
+Dialogue: 0,0:03:24.77,0:03:26.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dissociation des enveloppes,
+Dialogue: 0,0:03:26.33,0:03:28.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nouveau réseau de microtubules :
+Dialogue: 0,0:03:28.12,0:03:29.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chromosomes paternels et
+Dialogue: 0,0:03:29.46,0:03:31.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternels sur le même fuseau.
+Dialogue: 0,0:03:31.21,0:03:32.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le {\c&H66D1FF&}zygote{\c&HFFFFFF&} .
+Dialogue: 0,0:03:32.28,0:03:33.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Anaphase, cytocinèse :
+Dialogue: 0,0:03:33.43,0:03:34.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les deux premières cellules de
+Dialogue: 0,0:03:34.99,0:03:35.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'embryon.
+Dialogue: 0,0:03:36.07,0:03:37.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résumons en six temps.
+Dialogue: 0,0:03:37.59,0:03:39.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Capacitation, dans les voies
+Dialogue: 0,0:03:39.00,0:03:40.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génitales de la femme.
+Dialogue: 0,0:03:40.52,0:03:42.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Liaison ZP3–SED1 et réaction
+Dialogue: 0,0:03:42.80,0:03:43.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}acrosomiale.
+Dialogue: 0,0:03:43.92,0:03:46.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Arrimage CD9–IZUMO et réaction
+Dialogue: 0,0:03:46.06,0:03:46.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}corticale.
+Dialogue: 0,0:03:47.05,0:03:48.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fusion des membranes.
+Dialogue: 0,0:03:48.52,0:03:49.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Fin de la méiose deux,
+Dialogue: 0,0:03:49.58,0:03:50.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux heures après.
+Dialogue: 0,0:03:50.85,0:03:52.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pronuclei, même fuseau,
+Dialogue: 0,0:03:52.02,0:03:52.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}première division.
+Dialogue: 0,0:03:53.49,0:03:54.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:54.73,0:03:56.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“CD9 est sur le spermatozoïde” : faux.
+Dialogue: 0,0:03:57.03,0:03:58.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}CD9, ovocyte ; IZUMO,
+Dialogue: 0,0:03:58.72,0:03:59.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïde.
+Dialogue: 0,0:03:59.74,0:04:01.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et ZP3, zone pellucide ;
+Dialogue: 0,0:04:01.63,0:04:03.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}SED1, spermatozoïde.
+Dialogue: 0,0:04:03.54,0:04:04.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les mitochondries paternelles
+Dialogue: 0,0:04:04.99,0:04:06.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont transmises à l'embryon” :
+Dialogue: 0,0:04:06.44,0:04:07.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, elles sont rapidement
+Dialogue: 0,0:04:07.79,0:04:08.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}détruites.
+Dialogue: 0,0:04:08.43,0:04:09.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Seul le centrosome sert aux
+Dialogue: 0,0:04:09.85,0:04:10.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitoses.
+Dialogue: 0,0:04:10.67,0:04:12.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les peroxydases détruisent ZP3”
+Dialogue: 0,0:04:12.67,0:04:13.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: faux.
+Dialogue: 0,0:04:13.20,0:04:14.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont les protéases ;
+Dialogue: 0,0:04:14.43,0:04:15.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les peroxydases durcissent la
+Dialogue: 0,0:04:15.98,0:04:16.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}zone pellucide.
+Dialogue: 0,0:04:17.34,0:04:19.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les couples, de l'extérieur vers
+Dialogue: 0,0:04:19.28,0:04:21.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intérieur : d'abord la Zone,
+Dialogue: 0,0:04:21.09,0:04:23.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ZP3 avec SED1 ; ensuite la
+Dialogue: 0,0:04:23.26,0:04:25.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane, CD9 avec IZUMO.
+Dialogue: 0,0:04:25.27,0:04:27.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Z avant C, comme dans l'ordre du trajet.
+Dialogue: 0,0:04:28.01,0:04:29.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quel élément du
+Dialogue: 0,0:04:29.11,0:04:30.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïde sert aux futures
+Dialogue: 0,0:04:30.60,0:04:31.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mitoses ?
+Dialogue: 0,0:04:35.45,0:04:36.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le centrosome.
+Dialogue: 0,0:04:36.61,0:04:38.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Axonème et mitochondries sont
+Dialogue: 0,0:04:38.13,0:04:39.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rapidement détruits.
+Dialogue: 0,0:04:39.75,0:04:40.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:04:40.81,0:04:42.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la segmentation, la morula,
+Dialogue: 0,0:04:42.40,0:04:44.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le blastocyste et l'implantation.

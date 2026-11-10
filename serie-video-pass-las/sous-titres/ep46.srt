@@ -1,0 +1,735 @@
+1
+00:00:00,300 --> 00:00:01,848
+Environ deux cents millions de
+
+2
+00:00:01,848 --> 00:00:03,139
+spermatozoïdes au départ.
+
+3
+00:00:03,279 --> 00:00:04,483
+Quelques centaines seulement
+
+4
+00:00:04,483 --> 00:00:05,944
+atteignent l'ampoule de la trompe.
+
+5
+00:00:06,084 --> 00:00:07,148
+Un seul féconde.
+
+6
+00:00:07,548 --> 00:00:09,224
+Au programme : capacitation,
+
+7
+00:00:09,224 --> 00:00:10,481
+réaction acrosomiale,
+
+8
+00:00:10,481 --> 00:00:12,934
+arrimage, fusion, et formation du zygote.
+
+9
+00:00:13,494 --> 00:00:15,106
+Chapitre deux : fécondation,
+
+10
+00:00:15,106 --> 00:00:16,659
+segmentation, implantation.
+
+11
+00:00:16,799 --> 00:00:18,382
+Sept points : activation et
+
+12
+00:00:18,382 --> 00:00:19,789
+fusion du spermatozoïde,
+
+13
+00:00:19,789 --> 00:00:21,488
+achèvement de la méiose deux,
+
+14
+00:00:21,488 --> 00:00:23,130
+zygote et première division,
+
+15
+00:00:23,130 --> 00:00:24,712
+segmentation, implantation,
+
+16
+00:00:24,712 --> 00:00:25,943
+cavités de l'embryon,
+
+17
+00:00:25,943 --> 00:00:27,819
+et circulation utéroplacentaire.
+
+18
+00:00:28,379 --> 00:00:29,601
+À l'éjaculation, les
+
+19
+00:00:29,601 --> 00:00:31,495
+spermatozoïdes sont accompagnés
+
+20
+00:00:31,495 --> 00:00:32,718
+du liquide séminal :
+
+21
+00:00:32,718 --> 00:00:34,368
+fluidification, protection,
+
+22
+00:00:34,368 --> 00:00:35,590
+nutrition, motilité.
+
+23
+00:00:35,990 --> 00:00:37,550
+Long parcours jusqu'à l' ampoule
+
+24
+00:00:37,550 --> 00:00:39,158
+de la trompe : quelques centaines
+
+25
+00:00:39,158 --> 00:00:40,766
+sur environ deux cents millions y
+
+26
+00:00:40,766 --> 00:00:41,400
+parviendront.
+
+27
+00:00:41,540 --> 00:00:42,730
+Des groupes s'arrêtent et
+
+28
+00:00:42,730 --> 00:00:43,731
+attendent en chemin :
+
+29
+00:00:43,731 --> 00:00:45,017
+la fécondation est possible
+
+30
+00:00:45,017 --> 00:00:46,064
+jusqu'à quatre jours .
+
+31
+00:00:46,464 --> 00:00:48,060
+En chemin, la capacitation :
+
+32
+00:00:48,060 --> 00:00:49,770
+stimulée par les sécrétions du
+
+33
+00:00:49,770 --> 00:00:51,366
+tractus génital de la femme,
+
+34
+00:00:51,366 --> 00:00:53,133
+elle détache des glycoprotéines
+
+35
+00:00:53,133 --> 00:00:54,558
+membranaires au niveau de
+
+36
+00:00:54,558 --> 00:00:56,040
+l'acrosome, et augmente la
+
+37
+00:00:56,040 --> 00:00:57,465
+motilité : hyperactivité.
+
+38
+00:00:58,025 --> 00:00:58,911
+Les légendes.
+
+39
+00:00:59,051 --> 00:00:59,895
+Un, le vagin.
+
+40
+00:01:00,035 --> 00:01:02,147
+Deux, la portion vaginale du col utérin.
+
+41
+00:01:02,287 --> 00:01:03,525
+Trois, le canal du col.
+
+42
+00:01:03,665 --> 00:01:04,794
+Quatre, l'angle tubaire.
+
+43
+00:01:04,934 --> 00:01:06,375
+Cinq, l'ampoule de la trompe
+
+44
+00:01:06,375 --> 00:01:06,786
+utérine.
+
+45
+00:01:07,186 --> 00:01:08,647
+Six, l'ovaire et les franges de
+
+46
+00:01:08,647 --> 00:01:09,118
+la trompe.
+
+47
+00:01:09,258 --> 00:01:10,289
+Sept, l'endomètre.
+
+48
+00:01:10,429 --> 00:01:11,466
+Huit, le myomètre.
+
+49
+00:01:11,606 --> 00:01:13,072
+Neuf, la cavité utérine.
+
+50
+00:01:13,212 --> 00:01:14,505
+Et dix, la rencontre des
+
+51
+00:01:14,505 --> 00:01:16,068
+spermatozoïdes et de l'ovule.
+
+52
+00:01:16,628 --> 00:01:18,715
+Le spermatozoïde se lie à la zone
+
+53
+00:01:18,715 --> 00:01:20,739
+pellucide : interaction entre la
+
+54
+00:01:20,739 --> 00:01:22,321
+glycoprotéine ZP3 ,
+
+55
+00:01:22,321 --> 00:01:23,649
+de la zone pellucide,
+
+56
+00:01:23,649 --> 00:01:25,231
+et la protéine SED1 ,
+
+57
+00:01:25,231 --> 00:01:26,306
+du spermatozoïde.
+
+58
+00:01:26,706 --> 00:01:28,142
+Cette liaison déclenche la
+
+59
+00:01:28,142 --> 00:01:29,357
+réaction acrosomiale :
+
+60
+00:01:29,357 --> 00:01:31,014
+la membrane plasmique fusionne
+
+61
+00:01:31,014 --> 00:01:32,505
+avec la membrane externe de
+
+62
+00:01:32,505 --> 00:01:34,438
+l'acrosome, ce qui forme des pores.
+
+63
+00:01:34,838 --> 00:01:36,321
+Les enzymes acrosomiales sont
+
+64
+00:01:36,321 --> 00:01:37,753
+déversées : hyaluronidase et
+
+65
+00:01:37,753 --> 00:01:38,264
+acrosine .
+
+66
+00:01:38,404 --> 00:01:40,089
+La zone pellucide est détruite
+
+67
+00:01:40,089 --> 00:01:42,168
+localement et le spermatozoïde passe.
+
+68
+00:01:42,308 --> 00:01:44,020
+Sa tête est maintenant recouverte
+
+69
+00:01:44,020 --> 00:01:45,369
+par la membrane interne de
+
+70
+00:01:45,369 --> 00:01:45,939
+l'acrosome.
+
+71
+00:01:46,499 --> 00:01:48,327
+Le spermatozoïde qui a traversé
+
+72
+00:01:48,327 --> 00:01:49,860
+la zone pellucide entre en
+
+73
+00:01:49,860 --> 00:01:51,393
+contact avec la surface de
+
+74
+00:01:51,393 --> 00:01:53,338
+l'ovocyte et ses microvillosités.
+
+75
+00:01:53,738 --> 00:01:55,928
+Attachement par l'interaction CD9
+
+76
+00:01:55,928 --> 00:01:57,484
+, de l'ovocyte, et IZUMO ,
+
+77
+00:01:57,484 --> 00:01:58,464
+du spermatozoïde.
+
+78
+00:01:58,604 --> 00:02:00,401
+Sur la diapo, CD9 est annotée
+
+79
+00:02:00,401 --> 00:02:01,881
+d'un signe moins du côté des
+
+80
+00:02:01,881 --> 00:02:02,515
+chromosomes.
+
+81
+00:02:02,915 --> 00:02:04,487
+La membrane de l'ovocyte se
+
+82
+00:02:04,487 --> 00:02:06,174
+dépolarise, le calcium entre,
+
+83
+00:02:06,174 --> 00:02:08,037
+et les vésicules corticales sont
+
+84
+00:02:08,037 --> 00:02:08,561
+libérées.
+
+85
+00:02:08,961 --> 00:02:09,989
+Elles contiennent :
+
+86
+00:02:09,989 --> 00:02:11,773
+des protéases , qui détruisent la
+
+87
+00:02:11,773 --> 00:02:13,017
+protéine de liaison des
+
+88
+00:02:13,017 --> 00:02:14,478
+spermatozoïdes, ZP3 ;
+
+89
+00:02:14,478 --> 00:02:16,208
+des peroxydases , qui durcissent
+
+90
+00:02:16,208 --> 00:02:17,236
+la zone pellucide ;
+
+91
+00:02:17,236 --> 00:02:18,750
+et des glycosaminoglycanes ,
+
+92
+00:02:18,750 --> 00:02:20,481
+qui attirent l'eau et augmentent
+
+93
+00:02:20,481 --> 00:02:21,671
+l'espace périvitellin.
+
+94
+00:02:22,231 --> 00:02:23,363
+Suite à l'arrimage,
+
+95
+00:02:23,363 --> 00:02:25,331
+les membranes du spermatozoïde et
+
+96
+00:02:25,331 --> 00:02:26,761
+de l'ovocyte fusionnent,
+
+97
+00:02:26,761 --> 00:02:28,907
+via des vésicules C D 9 positives
+
+98
+00:02:28,907 --> 00:02:30,815
+qui recouvrent le spermatozoïde,
+
+99
+00:02:30,815 --> 00:02:31,709
+IZUMO positif.
+
+100
+00:02:32,109 --> 00:02:33,970
+La figure récapitule les étapes
+
+101
+00:02:33,970 --> 00:02:35,891
+de la fertilisation de l'ovocyte
+
+102
+00:02:35,891 --> 00:02:37,152
+par le spermatozoïde.
+
+103
+00:02:37,712 --> 00:02:39,597
+Après la fusion, le spermatozoïde
+
+104
+00:02:39,597 --> 00:02:41,425
+transfère : son noyau condensé ,
+
+105
+00:02:41,425 --> 00:02:42,910
+haploïde ; le centrosome ,
+
+106
+00:02:42,910 --> 00:02:43,939
+base de l'axonème,
+
+107
+00:02:43,939 --> 00:02:45,538
+qui servira pour les futures
+
+108
+00:02:45,538 --> 00:02:47,195
+mitoses ; et l'axonème et les
+
+109
+00:02:47,195 --> 00:02:48,623
+mitochondries, rapidement
+
+110
+00:02:48,623 --> 00:02:49,194
+détruits .
+
+111
+00:02:49,594 --> 00:02:51,084
+La méiose deux de l'ovocyte
+
+112
+00:02:51,084 --> 00:02:52,795
+s'achève, aussi pour le premier
+
+113
+00:02:52,795 --> 00:02:54,340
+globule polaire, deux heures
+
+114
+00:02:54,340 --> 00:02:55,831
+après la fusion : anaphase,
+
+115
+00:02:55,831 --> 00:02:57,376
+puis cytocinèse : l' ovule ,
+
+116
+00:02:57,376 --> 00:02:59,308
+n, et le deuxième globule polaire .
+
+117
+00:02:59,448 --> 00:03:00,885
+L'appareil microtubulaire de
+
+118
+00:03:00,885 --> 00:03:01,911
+l'ovule est dégradé.
+
+119
+00:03:02,471 --> 00:03:04,295
+L'ADN paternel se décondense,
+
+120
+00:03:04,295 --> 00:03:06,062
+les protamines étant remplacées
+
+121
+00:03:06,062 --> 00:03:07,771
+par des histones, et s'entoure
+
+122
+00:03:07,771 --> 00:03:09,253
+d'une enveloppe : c'est le
+
+123
+00:03:09,253 --> 00:03:10,450
+pronucleus paternel ,
+
+124
+00:03:10,450 --> 00:03:12,045
+du côté du point d'entrée du
+
+125
+00:03:12,045 --> 00:03:12,843
+spermatozoïde.
+
+126
+00:03:13,243 --> 00:03:15,102
+L'ADN maternel s'entoure d'une
+
+127
+00:03:15,102 --> 00:03:16,511
+enveloppe : le pronucleus
+
+128
+00:03:16,511 --> 00:03:18,257
+maternel , du côté des globules
+
+129
+00:03:18,257 --> 00:03:18,764
+polaires.
+
+130
+00:03:19,164 --> 00:03:20,826
+Les pronuclei se rapprochent,
+
+131
+00:03:20,826 --> 00:03:22,145
+grâce au réseau issu du
+
+132
+00:03:22,145 --> 00:03:23,291
+centrosome paternel.
+
+133
+00:03:23,431 --> 00:03:24,770
+Réplication de l'ADN,
+
+134
+00:03:24,770 --> 00:03:26,332
+dissociation des enveloppes,
+
+135
+00:03:26,332 --> 00:03:28,116
+nouveau réseau de microtubules :
+
+136
+00:03:28,116 --> 00:03:29,455
+chromosomes paternels et
+
+137
+00:03:29,455 --> 00:03:31,072
+maternels sur le même fuseau.
+
+138
+00:03:31,212 --> 00:03:32,142
+C'est le zygote .
+
+139
+00:03:32,282 --> 00:03:33,426
+Anaphase, cytocinèse :
+
+140
+00:03:33,426 --> 00:03:34,986
+les deux premières cellules de
+
+141
+00:03:34,986 --> 00:03:35,506
+l'embryon.
+
+142
+00:03:36,066 --> 00:03:37,186
+Résumons en six temps.
+
+143
+00:03:37,586 --> 00:03:39,004
+Capacitation, dans les voies
+
+144
+00:03:39,004 --> 00:03:40,119
+génitales de la femme.
+
+145
+00:03:40,519 --> 00:03:42,797
+Liaison ZP3–SED1 et réaction
+
+146
+00:03:42,797 --> 00:03:43,516
+acrosomiale.
+
+147
+00:03:43,916 --> 00:03:46,059
+Arrimage CD9–IZUMO et réaction
+
+148
+00:03:46,059 --> 00:03:46,654
+corticale.
+
+149
+00:03:47,054 --> 00:03:48,121
+Fusion des membranes.
+
+150
+00:03:48,521 --> 00:03:49,583
+Fin de la méiose deux,
+
+151
+00:03:49,583 --> 00:03:50,451
+deux heures après.
+
+152
+00:03:50,851 --> 00:03:52,017
+Pronuclei, même fuseau,
+
+153
+00:03:52,017 --> 00:03:52,930
+première division.
+
+154
+00:03:53,490 --> 00:03:54,326
+Trois pièges.
+
+155
+00:03:54,726 --> 00:03:56,891
+“CD9 est sur le spermatozoïde” : faux.
+
+156
+00:03:57,031 --> 00:03:58,724
+CD9, ovocyte ; IZUMO,
+
+157
+00:03:58,724 --> 00:03:59,602
+spermatozoïde.
+
+158
+00:03:59,742 --> 00:04:01,632
+Et ZP3, zone pellucide ;
+
+159
+00:04:01,632 --> 00:04:03,144
+SED1, spermatozoïde.
+
+160
+00:04:03,544 --> 00:04:04,992
+“Les mitochondries paternelles
+
+161
+00:04:04,992 --> 00:04:06,440
+sont transmises à l'embryon” :
+
+162
+00:04:06,440 --> 00:04:07,788
+faux, elles sont rapidement
+
+163
+00:04:07,788 --> 00:04:08,287
+détruites.
+
+164
+00:04:08,427 --> 00:04:09,850
+Seul le centrosome sert aux
+
+165
+00:04:09,850 --> 00:04:10,271
+mitoses.
+
+166
+00:04:10,671 --> 00:04:12,673
+“Les peroxydases détruisent ZP3”
+
+167
+00:04:12,673 --> 00:04:13,062
+: faux.
+
+168
+00:04:13,202 --> 00:04:14,432
+Ce sont les protéases ;
+
+169
+00:04:14,432 --> 00:04:15,982
+les peroxydases durcissent la
+
+170
+00:04:15,982 --> 00:04:16,784
+zone pellucide.
+
+171
+00:04:17,344 --> 00:04:19,277
+Les couples, de l'extérieur vers
+
+172
+00:04:19,277 --> 00:04:21,088
+l'intérieur : d'abord la Zone,
+
+173
+00:04:21,088 --> 00:04:23,262
+ZP3 avec SED1 ; ensuite la
+
+174
+00:04:23,262 --> 00:04:25,134
+membrane, CD9 avec IZUMO.
+
+175
+00:04:25,274 --> 00:04:27,452
+Z avant C, comme dans l'ordre du trajet.
+
+176
+00:04:28,012 --> 00:04:29,108
+Quiz : quel élément du
+
+177
+00:04:29,108 --> 00:04:30,603
+spermatozoïde sert aux futures
+
+178
+00:04:30,603 --> 00:04:31,052
+mitoses ?
+
+179
+00:04:35,452 --> 00:04:36,465
+Le centrosome.
+
+180
+00:04:36,605 --> 00:04:38,132
+Axonème et mitochondries sont
+
+181
+00:04:38,132 --> 00:04:39,186
+rapidement détruits.
+
+182
+00:04:39,746 --> 00:04:40,809
+Prochain épisode :
+
+183
+00:04:40,809 --> 00:04:42,403
+la segmentation, la morula,
+
+184
+00:04:42,403 --> 00:04:44,352
+le blastocyste et l'implantation.

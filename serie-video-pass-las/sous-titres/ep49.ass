@@ -1,0 +1,127 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux couches de cellules au
+Dialogue: 0,0:00:01.47,0:00:02.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}départ, trois feuillets à
+Dialogue: 0,0:00:02.56,0:00:02.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'arrivée.
+Dialogue: 0,0:00:03.13,0:00:04.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tout ton corps sort de ces trois
+Dialogue: 0,0:00:04.44,0:00:04.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}feuillets.
+Dialogue: 0,0:00:05.25,0:00:06.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : la ligne
+Dialogue: 0,0:00:06.56,0:00:08.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitive, l'endoderme et le
+Dialogue: 0,0:00:08.17,0:00:09.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme définitifs,
+Dialogue: 0,0:00:09.37,0:00:11.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les territoires du mésoderme,
+Dialogue: 0,0:00:11.04,0:00:11.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les somites.
+Dialogue: 0,0:00:12.46,0:00:14.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre trois : gastrulation,
+Dialogue: 0,0:00:14.08,0:00:15.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}somitogenèse et neurulation.
+Dialogue: 0,0:00:15.73,0:00:17.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre points : la gastrulation,
+Dialogue: 0,0:00:17.57,0:00:19.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la somitogenèse, la neurulation
+Dialogue: 0,0:00:19.35,0:00:21.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la formation du tube neural,
+Dialogue: 0,0:00:21.13,0:00:22.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la notochorde.
+Dialogue: 0,0:00:22.67,0:00:23.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au départ : le disque
+Dialogue: 0,0:00:23.80,0:00:25.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryonnaire {\c&H66D1FF&}didermique{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:25.16,0:00:26.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épiblaste et hypoblaste.
+Dialogue: 0,0:00:26.60,0:00:27.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des mouvements cellulaires de
+Dialogue: 0,0:00:27.91,0:00:29.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épiblaste forment la {\c&H66D1FF&}ligne{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.17,0:00:29.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}primitive{\c&HFFFFFF&} .
+Dialogue: 0,0:00:30.07,0:00:31.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Se forment alors trois feuillets,
+Dialogue: 0,0:00:31.92,0:00:33.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ectoderme, mésoderme,
+Dialogue: 0,0:00:33.09,0:00:34.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endoderme, et la notochorde.
+Dialogue: 0,0:00:34.80,0:00:36.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La ligne et le nœud primitifs
+Dialogue: 0,0:00:36.35,0:00:37.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont un {\c&H66D1FF&}centre{\c&HFFFFFF&} {\c&H66D1FF&}d'induction{\c&HFFFFFF&} qui
+Dialogue: 0,0:00:37.96,0:00:39.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}définit les axes du corps.
+Dialogue: 0,0:00:39.75,0:00:41.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le mésoderme donne le paraxial,
+Dialogue: 0,0:00:41.55,0:00:43.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec les somites, l'intermédiaire
+Dialogue: 0,0:00:43.47,0:00:44.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le latéral.
+Dialogue: 0,0:00:44.42,0:00:46.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ectoderme donne le tube neural,
+Dialogue: 0,0:00:46.30,0:00:48.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la crête neurale et l'ectoderme
+Dialogue: 0,0:00:48.07,0:00:48.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de surface.
+Dialogue: 0,0:00:49.26,0:00:50.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des mouvements cellulaires dans
+Dialogue: 0,0:00:50.71,0:00:52.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'épiblaste forment la ligne
+Dialogue: 0,0:00:52.02,0:00:52.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitive.
+Dialogue: 0,0:00:53.05,0:00:54.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la ligne primitive définit les
+Dialogue: 0,0:00:54.86,0:00:56.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}grands axes du corps :
+Dialogue: 0,0:00:56.07,0:00:57.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}crânio-caudal, dorso-ventral,
+Dialogue: 0,0:00:57.66,0:00:58.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et gauche-droite.
+Dialogue: 0,0:00:59.15,0:01:00.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Jours quatorze à seize :
+Dialogue: 0,0:01:00.37,0:01:01.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des cellules de l'épiblaste
+Dialogue: 0,0:01:01.74,0:01:03.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passent par la ligne primitive et
+Dialogue: 0,0:01:03.41,0:01:04.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}envahissent l' {\c&H66D1FF&}hypoblaste{\c&HFFFFFF&} :
+Dialogue: 0,0:01:04.78,0:01:06.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l' {\c&H66D1FF&}endoderme{\c&HFFFFFF&} {\c&H66D1FF&}définitif{\c&HFFFFFF&} .
+Dialogue: 0,0:01:06.70,0:01:07.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour ce mouvement,
+Dialogue: 0,0:01:07.65,0:01:09.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules de l'épiblaste
+Dialogue: 0,0:01:09.06,0:01:10.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}subissent une {\c&H66D1FF&}transition{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.32,0:01:11.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}épithélio-mésenchymateuse{\c&HFFFFFF&} .
+Dialogue: 0,0:01:12.29,0:01:13.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mêmes jours, quatorze à seize :
+Dialogue: 0,0:01:13.93,0:01:15.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'autres cellules de l'épiblaste
+Dialogue: 0,0:01:15.61,0:01:17.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passent par la ligne primitive et
+Dialogue: 0,0:01:17.35,0:01:18.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}envahissent l' {\c&H66D1FF&}espace{\c&HFFFFFF&} {\c&H66D1FF&}entre{\c&HFFFFFF&}
+Dialogue: 0,0:01:18.77,0:01:20.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}l'épiblaste{\c&HFFFFFF&} {\c&H66D1FF&}et{\c&HFFFFFF&} {\c&H66D1FF&}l'hypoblaste{\c&HFFFFFF&} :
+Dialogue: 0,0:01:20.30,0:01:21.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le {\c&H66D1FF&}mésoderme{\c&HFFFFFF&} {\c&H66D1FF&}définitif{\c&HFFFFFF&} .
+Dialogue: 0,0:01:22.28,0:01:23.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ici aussi, transition
+Dialogue: 0,0:01:23.45,0:01:25.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}épithélio-mésenchymateuse des
+Dialogue: 0,0:01:25.06,0:01:26.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules de l'épiblaste.
+Dialogue: 0,0:01:26.95,0:01:28.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le mésoderme migre et forme,
+Dialogue: 0,0:01:28.69,0:01:30.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur l'axe médio-latéral,
+Dialogue: 0,0:01:30.18,0:01:31.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le mésoderme {\c&H66D1FF&}paraxial{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:31.61,0:01:33.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}intermédiaire{\c&HFFFFFF&} , et de la {\c&H66D1FF&}lame{\c&HFFFFFF&}
+Dialogue: 0,0:01:33.41,0:01:34.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}latérale{\c&HFFFFFF&} .
+Dialogue: 0,0:01:34.43,0:01:35.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et à l'extrémité {\c&H66D1FF&}crâniale{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:35.99,0:01:37.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le mésoderme {\c&H66D1FF&}cardiogénique{\c&HFFFFFF&} .
+Dialogue: 0,0:01:38.00,0:01:39.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sur la figure : la membrane
+Dialogue: 0,0:01:39.58,0:01:41.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}oro-pharyngée côté crânial,
+Dialogue: 0,0:01:41.17,0:01:43.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la membrane cloacale côté caudal,
+Dialogue: 0,0:01:43.10,0:01:44.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les côtés droit et gauche.
+Dialogue: 0,0:01:45.36,0:01:46.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La segmentation du mésoderme
+Dialogue: 0,0:01:46.97,0:01:48.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paraxial forme les {\c&H66D1FF&}somites{\c&HFFFFFF&} :
+Dialogue: 0,0:01:48.58,0:01:49.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est la {\c&H66D1FF&}somitogenèse{\c&HFFFFFF&} .
+Dialogue: 0,0:01:50.46,0:01:51.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au total, {\c&H66D1FF&}quarante-deux{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&}
+Dialogue: 0,0:01:51.76,0:01:53.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}quarante-quatre{\c&HFFFFFF&} somites se
+Dialogue: 0,0:01:53.11,0:01:54.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}forment, mais il n'en restera que
+Dialogue: 0,0:01:54.83,0:01:56.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}trente-sept{\c&HFFFFFF&} : les somites
+Dialogue: 0,0:01:56.14,0:01:57.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caudales disparaissent.
+Dialogue: 0,0:01:57.73,0:01:59.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les somites préfigurent les
+Dialogue: 0,0:01:59.06,0:02:00.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structures métamérisées du tronc
+Dialogue: 0,0:02:00.63,0:02:02.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: le squelette et les muscles.
+Dialogue: 0,0:02:02.66,0:02:03.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:03.89,0:02:05.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'endoderme définitif se forme
+Dialogue: 0,0:02:05.56,0:02:06.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entre l'épiblaste et
+Dialogue: 0,0:02:06.67,0:02:07.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hypoblaste” : faux.
+Dialogue: 0,0:02:07.93,0:02:09.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il envahit l'hypoblaste.
+Dialogue: 0,0:02:09.33,0:02:10.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le mésoderme qui occupe
+Dialogue: 0,0:02:10.70,0:02:11.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'espace entre les deux.
+Dialogue: 0,0:02:12.23,0:02:13.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le mésoderme cardiogénique est
+Dialogue: 0,0:02:13.86,0:02:15.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}caudal” : faux, il est à
+Dialogue: 0,0:02:15.11,0:02:16.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extrémité crâniale.
+Dialogue: 0,0:02:16.65,0:02:18.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Il se forme trente-sept somites”
+Dialogue: 0,0:02:18.24,0:02:19.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: attention, quarante-deux à
+Dialogue: 0,0:02:19.68,0:02:21.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quarante-quatre se forment,
+Dialogue: 0,0:02:21.06,0:02:22.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-sept restent.
+Dialogue: 0,0:02:22.65,0:02:24.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les trois territoires du
+Dialogue: 0,0:02:24.11,0:02:25.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme, de l'axe vers
+Dialogue: 0,0:02:25.57,0:02:26.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'extérieur : “P I L”,
+Dialogue: 0,0:02:26.78,0:02:28.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Paraxial, Intermédiaire,
+Dialogue: 0,0:02:28.24,0:02:29.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lame latérale.
+Dialogue: 0,0:02:29.23,0:02:30.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cœur, lui, est en tête.
+Dialogue: 0,0:02:30.96,0:02:32.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les somites : quarante-quatre
+Dialogue: 0,0:02:32.32,0:02:33.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}moins sept, trente-sept.
+Dialogue: 0,0:02:34.00,0:02:35.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : comment se forme
+Dialogue: 0,0:02:35.23,0:02:36.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'endoderme définitif ?
+Dialogue: 0,0:02:40.85,0:02:42.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par des cellules de l'épiblaste
+Dialogue: 0,0:02:42.40,0:02:43.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui passent par la ligne
+Dialogue: 0,0:02:43.60,0:02:44.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitive et envahissent
+Dialogue: 0,0:02:44.80,0:02:46.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'hypoblaste, aux jours quatorze
+Dialogue: 0,0:02:46.40,0:02:46.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à seize.
+Dialogue: 0,0:02:47.36,0:02:48.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:48.40,0:02:50.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ectoderme, la neurulation,
+Dialogue: 0,0:02:50.01,0:02:51.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la crête neurale et la
+Dialogue: 0,0:02:51.28,0:02:51.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}notochorde.

@@ -1,0 +1,635 @@
+1
+00:00:00,300 --> 00:00:01,552
+Au vingt-deuxième jour,
+
+2
+00:00:01,552 --> 00:00:03,023
+une gouttière commence à se
+
+3
+00:00:03,023 --> 00:00:04,657
+refermer au milieu de ton dos,
+
+4
+00:00:04,657 --> 00:00:06,128
+comme une fermeture éclair,
+
+5
+00:00:06,128 --> 00:00:07,162
+dans les deux sens.
+
+6
+00:00:07,562 --> 00:00:09,104
+Au programme : l'ectoderme,
+
+7
+00:00:09,104 --> 00:00:10,988
+le tube neural, la crête neurale,
+
+8
+00:00:10,988 --> 00:00:12,415
+les défauts de fermeture,
+
+9
+00:00:12,415 --> 00:00:13,385
+et la notochorde.
+
+10
+00:00:13,945 --> 00:00:15,402
+Ce qui reste de l'épiblaste
+
+11
+00:00:15,402 --> 00:00:16,589
+devient l' ectoderme .
+
+12
+00:00:16,989 --> 00:00:18,779
+Deux membranes, où l'ectoderme
+
+13
+00:00:18,779 --> 00:00:20,210
+s'accole à l'endoderme :
+
+14
+00:00:20,210 --> 00:00:22,000
+l'oro-pharyngée, côté crânial,
+
+15
+00:00:22,000 --> 00:00:23,253
+future cavité orale ;
+
+16
+00:00:23,253 --> 00:00:24,923
+et la cloacale, côté caudal,
+
+17
+00:00:24,923 --> 00:00:26,295
+future ouverture anale,
+
+18
+00:00:26,295 --> 00:00:27,548
+urinaire et génitale.
+
+19
+00:00:27,948 --> 00:00:29,629
+L'ectoderme se différencie en
+
+20
+00:00:29,629 --> 00:00:31,136
+ectoderme de surface et en
+
+21
+00:00:31,136 --> 00:00:32,818
+neuroectoderme , qui forme la
+
+22
+00:00:32,818 --> 00:00:34,557
+plaque neurale et la gouttière
+
+23
+00:00:34,557 --> 00:00:35,021
+neurale.
+
+24
+00:00:35,161 --> 00:00:36,248
+C'est la neurulation,
+
+25
+00:00:36,248 --> 00:00:37,751
+induite par le nœud primitif.
+
+26
+00:00:38,311 --> 00:00:39,890
+La plaque neurale se replie :
+
+27
+00:00:39,890 --> 00:00:41,306
+ce sont les plis neuraux ,
+
+28
+00:00:41,306 --> 00:00:42,995
+un mélange de neuroectoderme et
+
+29
+00:00:42,995 --> 00:00:44,248
+d'ectoderme de surface.
+
+30
+00:00:44,648 --> 00:00:46,121
+Les plis se ferment par-dessus la
+
+31
+00:00:46,121 --> 00:00:46,568
+gouttière.
+
+32
+00:00:46,708 --> 00:00:48,074
+On obtient trois choses :
+
+33
+00:00:48,074 --> 00:00:49,823
+le tube neural ; les cellules de
+
+34
+00:00:49,823 --> 00:00:50,806
+la crête neurale ,
+
+35
+00:00:50,806 --> 00:00:51,571
+par transition
+
+36
+00:00:51,571 --> 00:00:53,102
+épithélio-mésenchymateuse au
+
+37
+00:00:53,102 --> 00:00:54,850
+niveau des plis ; et l'ectoderme
+
+38
+00:00:54,850 --> 00:00:56,490
+de surface, séparé par-dessus.
+
+39
+00:00:56,890 --> 00:00:58,081
+Durant l'organogenèse :
+
+40
+00:00:58,081 --> 00:00:59,685
+le tube neural donne le cerveau
+
+41
+00:00:59,685 --> 00:01:00,824
+et la moelle épinière.
+
+42
+00:01:00,964 --> 00:01:02,459
+La crête neurale donne les
+
+43
+00:01:02,459 --> 00:01:04,240
+mélanocytes, le système nerveux
+
+44
+00:01:04,240 --> 00:01:06,137
+entérique, le cartilage et les os
+
+45
+00:01:06,137 --> 00:01:08,034
+de la face, et les odontoblastes.
+
+46
+00:01:08,174 --> 00:01:09,633
+L'ectoderme de surface donne
+
+47
+00:01:09,633 --> 00:01:10,206
+l'épiderme.
+
+48
+00:01:10,766 --> 00:01:12,247
+Chez l'homme, la fermeture du
+
+49
+00:01:12,247 --> 00:01:13,575
+tube neural débute au jour
+
+50
+00:01:13,575 --> 00:01:14,954
+vingt-deux , dans la partie
+
+51
+00:01:14,954 --> 00:01:16,027
+médiane de l'embryon.
+
+52
+00:01:16,427 --> 00:01:17,943
+Elle progresse dans les deux
+
+53
+00:01:17,943 --> 00:01:19,026
+directions, laissant
+
+54
+00:01:19,026 --> 00:01:20,759
+transitoirement deux ouvertures,
+
+55
+00:01:20,759 --> 00:01:22,492
+les neuropores , côté crânial et
+
+56
+00:01:22,492 --> 00:01:23,142
+côté caudal.
+
+57
+00:01:23,542 --> 00:01:25,024
+Ils finiront par se fermer :
+
+58
+00:01:25,024 --> 00:01:26,611
+le neuropore crânial aux jours
+
+59
+00:01:26,611 --> 00:01:28,040
+vingt-quatre à vingt-cinq ,
+
+60
+00:01:28,040 --> 00:01:29,469
+le neuropore caudal au jour
+
+61
+00:01:29,469 --> 00:01:30,051
+vingt-six .
+
+62
+00:01:30,611 --> 00:01:31,809
+Le tableau des devenirs.
+
+63
+00:01:31,949 --> 00:01:33,856
+Ectoderme de surface : épiderme.
+
+64
+00:01:33,996 --> 00:01:35,705
+Cellules de la crête neurale :
+
+65
+00:01:35,705 --> 00:01:37,300
+mélanocytes, système nerveux
+
+66
+00:01:37,300 --> 00:01:38,838
+entérique, face, dents, os.
+
+67
+00:01:39,238 --> 00:01:40,698
+Neuroectoderme, par le tube
+
+68
+00:01:40,698 --> 00:01:41,724
+neural : encéphale,
+
+69
+00:01:41,724 --> 00:01:43,400
+moelle épinière, nerfs spinaux.
+
+70
+00:01:43,540 --> 00:01:45,246
+Attention, liste non exhaustive.
+
+71
+00:01:45,806 --> 00:01:47,435
+Les défauts de fermeture du tube
+
+72
+00:01:47,435 --> 00:01:49,115
+neural causent des malformations,
+
+73
+00:01:49,115 --> 00:01:50,948
+dont certaines ne sont pas si rares.
+
+74
+00:01:51,348 --> 00:01:52,990
+L' anencéphalie , une naissance
+
+75
+00:01:52,990 --> 00:01:54,366
+sur cinq mille : défaut de
+
+76
+00:01:54,366 --> 00:01:56,061
+fermeture du neuropore crânial ;
+
+77
+00:01:56,061 --> 00:01:57,649
+absence totale ou partielle du
+
+78
+00:01:57,649 --> 00:01:58,761
+cerveau et du crâne ;
+
+79
+00:01:58,761 --> 00:02:00,297
+décès à la naissance ou après
+
+80
+00:02:00,297 --> 00:02:01,091
+quelques jours.
+
+81
+00:02:01,491 --> 00:02:03,068
+Le spina bifida , une naissance
+
+82
+00:02:03,068 --> 00:02:03,881
+sur deux mille :
+
+83
+00:02:04,021 --> 00:02:05,503
+absence de fermeture dans la
+
+84
+00:02:05,503 --> 00:02:07,090
+portion médiane du neurotube ;
+
+85
+00:02:07,230 --> 00:02:08,514
+défaut d'une ou plusieurs
+
+86
+00:02:08,514 --> 00:02:10,003
+vertèbres, protrusion plus ou
+
+87
+00:02:10,003 --> 00:02:11,544
+moins importante de la moelle,
+
+88
+00:02:11,544 --> 00:02:12,520
+ouverte ou fermée ;
+
+89
+00:02:12,660 --> 00:02:14,383
+paralysie de gravité variable,
+
+90
+00:02:14,383 --> 00:02:16,278
+troubles sensitifs, incontinence.
+
+91
+00:02:16,678 --> 00:02:17,913
+La figure cite aussi :
+
+92
+00:02:17,913 --> 00:02:19,428
+craniorachischisis et spina
+
+93
+00:02:19,428 --> 00:02:21,167
+bifida ouverte, moins d'une sur
+
+94
+00:02:21,167 --> 00:02:22,626
+dix mille ; iniencéphalie,
+
+95
+00:02:22,626 --> 00:02:23,692
+une sur dix mille ;
+
+96
+00:02:23,692 --> 00:02:25,544
+encéphalocèle, une sur cinq mille
+
+97
+00:02:25,544 --> 00:02:26,779
+; spina bifida fermée,
+
+98
+00:02:26,779 --> 00:02:27,845
+une sur deux mille.
+
+99
+00:02:28,405 --> 00:02:30,008
+La notochorde : une structure
+
+100
+00:02:30,008 --> 00:02:31,058
+rigide et flexible,
+
+101
+00:02:31,058 --> 00:02:32,218
+commune aux chordés .
+
+102
+00:02:32,618 --> 00:02:34,198
+Chez l'homme, elle disparaît dans
+
+103
+00:02:34,198 --> 00:02:35,539
+l'enfance, intégrée dans les
+
+104
+00:02:35,539 --> 00:02:36,736
+disques intervertébraux .
+
+105
+00:02:36,876 --> 00:02:38,074
+Pendant l'embryogenèse,
+
+106
+00:02:38,074 --> 00:02:39,793
+c'est un centre inducteur du tube
+
+107
+00:02:39,793 --> 00:02:41,408
+neural et des corps vertébraux.
+
+108
+00:02:41,808 --> 00:02:43,844
+Sur la coupe, de dorsal à ventral
+
+109
+00:02:43,844 --> 00:02:45,264
+: ectoderme de surface,
+
+110
+00:02:45,264 --> 00:02:46,683
+tube neural, mésoderme,
+
+111
+00:02:46,683 --> 00:02:48,041
+notochorde, endoderme.
+
+112
+00:02:48,601 --> 00:02:50,206
+Des cellules de l'épiblaste sont
+
+113
+00:02:50,206 --> 00:02:51,611
+mobilisées à travers le nœud
+
+114
+00:02:51,611 --> 00:02:53,267
+primitif : c'est une involution .
+
+115
+00:02:53,407 --> 00:02:54,961
+Un tube creux s'allonge en
+
+116
+00:02:54,961 --> 00:02:56,275
+position médiane, sous
+
+117
+00:02:56,275 --> 00:02:57,769
+l'ectoderme, en direction
+
+118
+00:02:57,769 --> 00:02:59,143
+crâniale : le processus
+
+119
+00:02:59,143 --> 00:02:59,920
+notochordal .
+
+120
+00:03:00,480 --> 00:03:02,348
+Le processus notochordal fusionne
+
+121
+00:03:02,348 --> 00:03:03,367
+avec l'endoderme :
+
+122
+00:03:03,367 --> 00:03:05,065
+c'est la plaque notochordale .
+
+123
+00:03:05,205 --> 00:03:07,059
+Apparaît alors, transitoirement,
+
+124
+00:03:07,059 --> 00:03:08,450
+le canal neurentérique ,
+
+125
+00:03:08,450 --> 00:03:10,362
+qui relie la cavité amniotique et
+
+126
+00:03:10,362 --> 00:03:11,695
+la vésicule ombilicale.
+
+127
+00:03:12,095 --> 00:03:13,827
+Enfin, la plaque notochordale se
+
+128
+00:03:13,827 --> 00:03:15,126
+détache de l'endoderme :
+
+129
+00:03:15,126 --> 00:03:16,263
+c'est la notochorde ,
+
+130
+00:03:16,263 --> 00:03:17,129
+une tige pleine.
+
+131
+00:03:17,689 --> 00:03:18,525
+Trois pièges.
+
+132
+00:03:18,925 --> 00:03:20,393
+“Le neuropore caudal se ferme en
+
+133
+00:03:20,393 --> 00:03:21,103
+premier” : faux.
+
+134
+00:03:21,243 --> 00:03:22,823
+Crânial aux jours vingt-quatre,
+
+135
+00:03:22,823 --> 00:03:24,199
+vingt-cinq ; caudal au jour
+
+136
+00:03:24,199 --> 00:03:24,709
+vingt-six.
+
+137
+00:03:25,109 --> 00:03:26,729
+“L'anencéphalie est un défaut du
+
+138
+00:03:26,729 --> 00:03:27,669
+neuropore caudal” :
+
+139
+00:03:27,669 --> 00:03:29,080
+faux, du neuropore crânial.
+
+140
+00:03:29,480 --> 00:03:30,908
+“Les mélanocytes dérivent de
+
+141
+00:03:30,908 --> 00:03:32,177
+l'ectoderme de surface” :
+
+142
+00:03:32,177 --> 00:03:33,553
+faux, de la crête neurale.
+
+143
+00:03:34,113 --> 00:03:35,803
+La crête neurale, c'est “MEFO” :
+
+144
+00:03:35,803 --> 00:03:37,381
+Mélanocytes, système nerveux
+
+145
+00:03:37,381 --> 00:03:39,128
+Entérique, Face, Odontoblastes.
+
+146
+00:03:39,528 --> 00:03:40,911
+Les neuropores : vingt-deux,
+
+147
+00:03:40,911 --> 00:03:41,404
+on ferme ;
+
+148
+00:03:41,404 --> 00:03:42,589
+vingt-quatre-vingt-cinq,
+
+149
+00:03:42,589 --> 00:03:43,577
+la tête ; vingt-six,
+
+150
+00:03:43,577 --> 00:03:44,021
+la queue.
+
+151
+00:03:44,581 --> 00:03:46,018
+Quiz : que devient la notochorde
+
+152
+00:03:46,018 --> 00:03:46,646
+chez l'homme ?
+
+153
+00:03:51,046 --> 00:03:52,522
+Elle disparaît dans l'enfance,
+
+154
+00:03:52,522 --> 00:03:53,751
+intégrée dans les disques
+
+155
+00:03:53,751 --> 00:03:54,537
+intervertébraux.
+
+156
+00:03:55,097 --> 00:03:56,067
+Prochain épisode :
+
+157
+00:03:56,067 --> 00:03:57,521
+différenciation cellulaire,
+
+158
+00:03:57,521 --> 00:03:59,028
+totipotence, pluripotence et
+
+159
+00:03:59,028 --> 00:04:00,698
+cellules souches embryonnaires.
