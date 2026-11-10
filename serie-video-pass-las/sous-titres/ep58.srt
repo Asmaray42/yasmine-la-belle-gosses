@@ -1,0 +1,559 @@
+1
+00:00:00,300 --> 00:00:01,655
+Une femme a découvert qu'elle
+
+2
+00:00:01,655 --> 00:00:02,918
+n'était pas, génétiquement,
+
+3
+00:00:02,918 --> 00:00:03,993
+la mère de ses enfants.
+
+4
+00:00:04,133 --> 00:00:05,104
+C'était sa jumelle,
+
+5
+00:00:05,104 --> 00:00:06,638
+absorbée dans son propre corps
+
+6
+00:00:06,638 --> 00:00:07,609
+avant sa naissance.
+
+7
+00:00:08,009 --> 00:00:09,594
+Au programme : de l'embryon au
+
+8
+00:00:09,594 --> 00:00:11,021
+fœtus, l'amnios, le liquide
+
+9
+00:00:11,021 --> 00:00:12,553
+amniotique, les jumeaux et le
+
+10
+00:00:12,553 --> 00:00:13,135
+chimérisme.
+
+11
+00:00:13,695 --> 00:00:15,732
+Chapitre sept : de l'embryon au fœtus.
+
+12
+00:00:15,872 --> 00:00:17,472
+Cinq points : les stades de
+
+13
+00:00:17,472 --> 00:00:19,308
+Carnegie, la cavité amniotique,
+
+14
+00:00:19,308 --> 00:00:20,730
+le placenta, la barrière
+
+15
+00:00:20,730 --> 00:00:22,625
+placentaire, et la tératogenèse.
+
+16
+00:00:23,185 --> 00:00:24,754
+Dans ce chapitre, la période
+
+17
+00:00:24,754 --> 00:00:26,604
+embryonnaire va des semaines zéro
+
+18
+00:00:26,604 --> 00:00:27,949
+à huit : morphogenèse et
+
+19
+00:00:27,949 --> 00:00:28,677
+organogenèse.
+
+20
+00:00:29,077 --> 00:00:30,688
+Elle est subdivisée en stades de
+
+21
+00:00:30,688 --> 00:00:32,097
+Carnegie , numérotés de un à
+
+22
+00:00:32,097 --> 00:00:32,751
+vingt-trois .
+
+23
+00:00:33,311 --> 00:00:34,718
+La période fœtale va de la
+
+24
+00:00:34,718 --> 00:00:36,504
+semaine neuf jusqu'à la naissance
+
+25
+00:00:36,504 --> 00:00:37,912
+: accroissement de taille,
+
+26
+00:00:37,912 --> 00:00:39,319
+et maturation des systèmes
+
+27
+00:00:39,319 --> 00:00:39,860
+d'organes.
+
+28
+00:00:40,420 --> 00:00:42,112
+Lors du soulèvement de l'embryon,
+
+29
+00:00:42,112 --> 00:00:43,444
+l'amnios passe en ventral,
+
+30
+00:00:43,444 --> 00:00:44,726
+et entoure le pédicule de
+
+31
+00:00:44,726 --> 00:00:46,417
+connexion et le conduit vitellin.
+
+32
+00:00:46,817 --> 00:00:47,920
+Son volume augmente :
+
+33
+00:00:47,920 --> 00:00:49,496
+l'amnios s'accole au chorion ,
+
+34
+00:00:49,496 --> 00:00:50,756
+et la cavité chorionique
+
+35
+00:00:50,756 --> 00:00:51,334
+disparaît .
+
+36
+00:00:51,474 --> 00:00:52,858
+L'embryon flotte librement.
+
+37
+00:00:53,258 --> 00:00:54,827
+Une gaine tubulaire entoure le
+
+38
+00:00:54,827 --> 00:00:56,343
+pédicule, avec ses vaisseaux,
+
+39
+00:00:56,343 --> 00:00:57,598
+et le conduit vitellin :
+
+40
+00:00:57,598 --> 00:00:59,010
+c'est le cordon ombilical .
+
+41
+00:00:59,150 --> 00:01:00,627
+La vésicule ombilicale est
+
+42
+00:01:00,627 --> 00:01:02,501
+repoussée, et disparaît en fin de
+
+43
+00:01:02,501 --> 00:01:03,068
+gestation.
+
+44
+00:01:03,628 --> 00:01:05,209
+Ses rôles : un espace libre ;
+
+45
+00:01:05,209 --> 00:01:06,353
+un volant thermique ;
+
+46
+00:01:06,353 --> 00:01:07,824
+il absorbe les vibrations ;
+
+47
+00:01:07,824 --> 00:01:09,296
+il empêche les adhérences ;
+
+48
+00:01:09,296 --> 00:01:10,549
+et il pénètre les voies
+
+49
+00:01:10,549 --> 00:01:11,748
+gastro-intestinales et
+
+50
+00:01:11,748 --> 00:01:13,546
+respiratoires, ce qui contribue à
+
+51
+00:01:13,546 --> 00:01:14,581
+leur développement.
+
+52
+00:01:14,981 --> 00:01:16,640
+Sa composition : de l'eau et des
+
+53
+00:01:16,640 --> 00:01:18,351
+solutés, et des cellules libérées
+
+54
+00:01:18,351 --> 00:01:19,077
+par l'embryon.
+
+55
+00:01:19,477 --> 00:01:20,633
+Son renouvellement :
+
+56
+00:01:20,633 --> 00:01:22,541
+volume maximum, mille millilitres
+
+57
+00:01:22,541 --> 00:01:24,334
+, à partir du plasma maternel .
+
+58
+00:01:24,474 --> 00:01:26,319
+Au début, à travers les membranes
+
+59
+00:01:26,319 --> 00:01:28,164
+extra-embryonnaires et l'amnios ;
+
+60
+00:01:28,164 --> 00:01:29,841
+ensuite, par le cordon vers le
+
+61
+00:01:29,841 --> 00:01:31,463
+fœtus, sa peau et son système
+
+62
+00:01:31,463 --> 00:01:31,966
+urinaire.
+
+63
+00:01:32,366 --> 00:01:33,860
+Il est avalé par le fœtus,
+
+64
+00:01:33,860 --> 00:01:35,469
+passe dans l'intestin fœtal,
+
+65
+00:01:35,469 --> 00:01:37,309
+puis le cordon, et retourne à la
+
+66
+00:01:37,309 --> 00:01:38,630
+circulation maternelle.
+
+67
+00:01:39,190 --> 00:01:40,257
+L' oligohydramnios ,
+
+68
+00:01:40,257 --> 00:01:41,483
+ou séquence de Potter :
+
+69
+00:01:41,483 --> 00:01:43,136
+un volume de liquide amniotique
+
+70
+00:01:43,136 --> 00:01:44,523
+insuffisant, causé par une
+
+71
+00:01:44,523 --> 00:01:45,429
+agénésie rénale .
+
+72
+00:01:45,829 --> 00:01:47,474
+Conséquences : malformations des
+
+73
+00:01:47,474 --> 00:01:48,553
+membres et du faciès,
+
+74
+00:01:48,553 --> 00:01:49,890
+et hypoplasie pulmonaire .
+
+75
+00:01:50,030 --> 00:01:51,491
+C'est une condition létale .
+
+76
+00:01:52,051 --> 00:01:53,653
+Un premier bébé atteint a été
+
+77
+00:01:53,653 --> 00:01:55,145
+sauvé par l'injection d'une
+
+78
+00:01:55,145 --> 00:01:56,802
+solution saline dans la cavité
+
+79
+00:01:56,802 --> 00:01:58,571
+amniotique pendant la grossesse.
+
+80
+00:01:59,131 --> 00:02:00,714
+La gémellité concerne deux pour
+
+81
+00:02:00,714 --> 00:02:01,736
+cent des grossesses,
+
+82
+00:02:01,736 --> 00:02:03,422
+dont quatre-vingt-douze pour cent
+
+83
+00:02:03,422 --> 00:02:05,108
+de dizygotes et huit pour cent de
+
+84
+00:02:05,108 --> 00:02:05,721
+monozygotes.
+
+85
+00:02:06,121 --> 00:02:07,943
+Les jumeaux dizygotes viennent de
+
+86
+00:02:07,943 --> 00:02:09,102
+deux ovocytes et deux
+
+87
+00:02:09,102 --> 00:02:10,537
+spermatozoïdes : amnios et
+
+88
+00:02:10,537 --> 00:02:11,531
+placentas séparés.
+
+89
+00:02:11,931 --> 00:02:12,915
+Chez les monozygotes,
+
+90
+00:02:12,915 --> 00:02:14,179
+tout dépend du moment de la
+
+91
+00:02:14,179 --> 00:02:14,601
+scission.
+
+92
+00:02:14,741 --> 00:02:15,995
+Au stade deux cellules :
+
+93
+00:02:15,995 --> 00:02:17,458
+amnios et placentas séparés.
+
+94
+00:02:17,598 --> 00:02:19,209
+Scission de la masse cellulaire
+
+95
+00:02:19,209 --> 00:02:20,507
+interne : amnios séparés,
+
+96
+00:02:20,507 --> 00:02:21,339
+placenta commun.
+
+97
+00:02:21,479 --> 00:02:23,165
+Scission du disque embryonnaire :
+
+98
+00:02:23,165 --> 00:02:24,545
+amnios et placenta communs.
+
+99
+00:02:25,105 --> 00:02:26,595
+Le chimérisme : deux zygotes
+
+100
+00:02:26,595 --> 00:02:28,032
+fusionnent ou échangent des
+
+101
+00:02:28,032 --> 00:02:29,522
+cellules, et donnent un seul
+
+102
+00:02:29,522 --> 00:02:30,693
+individu, une chimère,
+
+103
+00:02:30,693 --> 00:02:31,971
+fait de cellules de deux
+
+104
+00:02:31,971 --> 00:02:32,450
+origines.
+
+105
+00:02:32,850 --> 00:02:34,323
+L'article cité : une grossesse
+
+106
+00:02:34,323 --> 00:02:35,453
+n'est pas une preuve de
+
+107
+00:02:35,453 --> 00:02:35,945
+maternité.
+
+108
+00:02:36,085 --> 00:02:37,344
+Une femme était sa propre
+
+109
+00:02:37,344 --> 00:02:38,856
+jumelle, et c'était la jumelle
+
+110
+00:02:38,856 --> 00:02:40,418
+qui était génétiquement la mère
+
+111
+00:02:40,418 --> 00:02:41,174
+de ses enfants.
+
+112
+00:02:41,734 --> 00:02:42,570
+Trois pièges.
+
+113
+00:02:42,970 --> 00:02:44,694
+“Le liquide amniotique provient
+
+114
+00:02:44,694 --> 00:02:46,475
+du fœtus seul” : selon le cours,
+
+115
+00:02:46,475 --> 00:02:48,084
+il est renouvelé à partir du
+
+116
+00:02:48,084 --> 00:02:49,003
+plasma maternel.
+
+117
+00:02:49,403 --> 00:02:50,903
+“L'oligohydramnios est causé par
+
+118
+00:02:50,903 --> 00:02:52,402
+une agénésie pulmonaire” : faux.
+
+119
+00:02:52,542 --> 00:02:54,174
+Agénésie rénale ; l'hypoplasie
+
+120
+00:02:54,174 --> 00:02:55,860
+pulmonaire est une conséquence.
+
+121
+00:02:56,260 --> 00:02:57,426
+“Une scission du disque
+
+122
+00:02:57,426 --> 00:02:59,120
+embryonnaire donne des placentas
+
+123
+00:02:59,120 --> 00:03:00,444
+séparés” : faux, amnios et
+
+124
+00:03:00,444 --> 00:03:01,345
+placenta communs.
+
+125
+00:03:01,905 --> 00:03:03,229
+Plus la scission est tardive,
+
+126
+00:03:03,229 --> 00:03:04,461
+plus les jumeaux partagent.
+
+127
+00:03:04,601 --> 00:03:05,639
+Tôt, rien en commun ;
+
+128
+00:03:05,639 --> 00:03:06,825
+au milieu, le placenta ;
+
+129
+00:03:06,825 --> 00:03:07,369
+tard, tout.
+
+130
+00:03:07,769 --> 00:03:08,714
+Et les chiffres : deux,
+
+131
+00:03:08,714 --> 00:03:09,742
+quatre-vingt-douze, huit.
+
+132
+00:03:09,882 --> 00:03:11,039
+Deux pour cent de jumeaux,
+
+133
+00:03:11,039 --> 00:03:12,152
+et presque tous des faux.
+
+134
+00:03:12,712 --> 00:03:13,942
+Quiz : scission de la masse
+
+135
+00:03:13,942 --> 00:03:14,853
+cellulaire interne ?
+
+136
+00:03:19,253 --> 00:03:21,027
+Amnios séparés, placenta commun.
+
+137
+00:03:21,587 --> 00:03:22,642
+Prochain épisode :
+
+138
+00:03:22,642 --> 00:03:24,166
+le placenta, ses caduques,
+
+139
+00:03:24,166 --> 00:03:25,807
+ses pathologies, la barrière
+
+140
+00:03:25,807 --> 00:03:28,151
+placentaire et l'incompatibilité rhésus.

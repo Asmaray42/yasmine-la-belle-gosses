@@ -1,0 +1,153 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une femme a découvert qu'elle
+Dialogue: 0,0:00:01.66,0:00:02.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n'était pas, génétiquement,
+Dialogue: 0,0:00:02.92,0:00:03.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la mère de ses enfants.
+Dialogue: 0,0:00:04.13,0:00:05.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'était sa jumelle,
+Dialogue: 0,0:00:05.10,0:00:06.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}absorbée dans son propre corps
+Dialogue: 0,0:00:06.64,0:00:07.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avant sa naissance.
+Dialogue: 0,0:00:08.01,0:00:09.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : de l'embryon au
+Dialogue: 0,0:00:09.59,0:00:11.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fœtus, l'amnios, le liquide
+Dialogue: 0,0:00:11.02,0:00:12.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}amniotique, les jumeaux et le
+Dialogue: 0,0:00:12.55,0:00:13.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimérisme.
+Dialogue: 0,0:00:13.70,0:00:15.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre sept : de l'embryon au fœtus.
+Dialogue: 0,0:00:15.87,0:00:17.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cinq points : les stades de
+Dialogue: 0,0:00:17.47,0:00:19.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Carnegie, la cavité amniotique,
+Dialogue: 0,0:00:19.31,0:00:20.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le placenta, la barrière
+Dialogue: 0,0:00:20.73,0:00:22.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placentaire, et la tératogenèse.
+Dialogue: 0,0:00:23.19,0:00:24.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans ce chapitre, la {\c&H66D1FF&}période{\c&HFFFFFF&}
+Dialogue: 0,0:00:24.75,0:00:26.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}embryonnaire{\c&HFFFFFF&} va des {\c&H66D1FF&}semaines{\c&HFFFFFF&} {\c&H66D1FF&}zéro{\c&HFFFFFF&}
+Dialogue: 0,0:00:26.60,0:00:27.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}huit{\c&HFFFFFF&} : morphogenèse et
+Dialogue: 0,0:00:27.95,0:00:28.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organogenèse.
+Dialogue: 0,0:00:29.08,0:00:30.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle est subdivisée en {\c&H66D1FF&}stades{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:00:30.69,0:00:32.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}Carnegie{\c&HFFFFFF&} , numérotés de {\c&H66D1FF&}un{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&}
+Dialogue: 0,0:00:32.10,0:00:32.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}vingt-trois{\c&HFFFFFF&} .
+Dialogue: 0,0:00:33.31,0:00:34.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}période{\c&HFFFFFF&} {\c&H66D1FF&}fœtale{\c&HFFFFFF&} va de la
+Dialogue: 0,0:00:34.72,0:00:36.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}semaine{\c&HFFFFFF&} {\c&H66D1FF&}neuf{\c&HFFFFFF&} jusqu'à la naissance
+Dialogue: 0,0:00:36.50,0:00:37.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: accroissement de taille,
+Dialogue: 0,0:00:37.91,0:00:39.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et maturation des systèmes
+Dialogue: 0,0:00:39.32,0:00:39.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'organes.
+Dialogue: 0,0:00:40.42,0:00:42.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lors du soulèvement de l'embryon,
+Dialogue: 0,0:00:42.11,0:00:43.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'amnios passe en ventral,
+Dialogue: 0,0:00:43.44,0:00:44.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et entoure le pédicule de
+Dialogue: 0,0:00:44.73,0:00:46.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}connexion et le conduit vitellin.
+Dialogue: 0,0:00:46.82,0:00:47.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Son volume augmente :
+Dialogue: 0,0:00:47.92,0:00:49.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'amnios s'accole au {\c&H66D1FF&}chorion{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:49.50,0:00:50.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la {\c&H66D1FF&}cavité{\c&HFFFFFF&} {\c&H66D1FF&}chorionique{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.76,0:00:51.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}disparaît{\c&HFFFFFF&} .
+Dialogue: 0,0:00:51.47,0:00:52.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'embryon flotte librement.
+Dialogue: 0,0:00:53.26,0:00:54.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une gaine tubulaire entoure le
+Dialogue: 0,0:00:54.83,0:00:56.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pédicule, avec ses vaisseaux,
+Dialogue: 0,0:00:56.34,0:00:57.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et le conduit vitellin :
+Dialogue: 0,0:00:57.60,0:00:59.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est le {\c&H66D1FF&}cordon{\c&HFFFFFF&} {\c&H66D1FF&}ombilical{\c&HFFFFFF&} .
+Dialogue: 0,0:00:59.15,0:01:00.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La vésicule ombilicale est
+Dialogue: 0,0:01:00.63,0:01:02.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}repoussée, et disparaît en fin de
+Dialogue: 0,0:01:02.50,0:01:03.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gestation.
+Dialogue: 0,0:01:03.63,0:01:05.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ses {\c&H66D1FF&}rôles{\c&HFFFFFF&} : un espace libre ;
+Dialogue: 0,0:01:05.21,0:01:06.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un volant thermique ;
+Dialogue: 0,0:01:06.35,0:01:07.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il absorbe les vibrations ;
+Dialogue: 0,0:01:07.82,0:01:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il empêche les adhérences ;
+Dialogue: 0,0:01:09.30,0:01:10.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et il pénètre les voies
+Dialogue: 0,0:01:10.55,0:01:11.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gastro-intestinales et
+Dialogue: 0,0:01:11.75,0:01:13.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiratoires, ce qui contribue à
+Dialogue: 0,0:01:13.55,0:01:14.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur développement.
+Dialogue: 0,0:01:14.98,0:01:16.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa {\c&H66D1FF&}composition{\c&HFFFFFF&} : de l'eau et des
+Dialogue: 0,0:01:16.64,0:01:18.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}solutés, et des cellules libérées
+Dialogue: 0,0:01:18.35,0:01:19.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par l'embryon.
+Dialogue: 0,0:01:19.48,0:01:20.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Son {\c&H66D1FF&}renouvellement{\c&HFFFFFF&} :
+Dialogue: 0,0:01:20.63,0:01:22.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}volume maximum, {\c&H66D1FF&}mille{\c&HFFFFFF&} {\c&H66D1FF&}millilitres{\c&HFFFFFF&}
+Dialogue: 0,0:01:22.54,0:01:24.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, à partir du {\c&H66D1FF&}plasma{\c&HFFFFFF&} {\c&H66D1FF&}maternel{\c&HFFFFFF&} .
+Dialogue: 0,0:01:24.47,0:01:26.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au début, à travers les membranes
+Dialogue: 0,0:01:26.32,0:01:28.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extra-embryonnaires et l'amnios ;
+Dialogue: 0,0:01:28.16,0:01:29.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ensuite, par le cordon vers le
+Dialogue: 0,0:01:29.84,0:01:31.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fœtus, sa peau et son système
+Dialogue: 0,0:01:31.46,0:01:31.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}urinaire.
+Dialogue: 0,0:01:32.37,0:01:33.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il est avalé par le fœtus,
+Dialogue: 0,0:01:33.86,0:01:35.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}passe dans l'intestin fœtal,
+Dialogue: 0,0:01:35.47,0:01:37.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis le cordon, et retourne à la
+Dialogue: 0,0:01:37.31,0:01:38.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}circulation maternelle.
+Dialogue: 0,0:01:39.19,0:01:40.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}oligohydramnios{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:40.26,0:01:41.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou {\c&H66D1FF&}séquence{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}Potter{\c&HFFFFFF&} :
+Dialogue: 0,0:01:41.48,0:01:43.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un volume de liquide amniotique
+Dialogue: 0,0:01:43.14,0:01:44.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}insuffisant, causé par une
+Dialogue: 0,0:01:44.52,0:01:45.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}agénésie{\c&HFFFFFF&} {\c&H66D1FF&}rénale{\c&HFFFFFF&} .
+Dialogue: 0,0:01:45.83,0:01:47.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Conséquences : malformations des
+Dialogue: 0,0:01:47.47,0:01:48.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membres et du faciès,
+Dialogue: 0,0:01:48.55,0:01:49.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et {\c&H66D1FF&}hypoplasie{\c&HFFFFFF&} {\c&H66D1FF&}pulmonaire{\c&HFFFFFF&} .
+Dialogue: 0,0:01:50.03,0:01:51.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est une condition {\c&H66D1FF&}létale{\c&HFFFFFF&} .
+Dialogue: 0,0:01:52.05,0:01:53.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un premier bébé atteint a été
+Dialogue: 0,0:01:53.65,0:01:55.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sauvé par l'injection d'une
+Dialogue: 0,0:01:55.15,0:01:56.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}solution{\c&HFFFFFF&} {\c&H66D1FF&}saline{\c&HFFFFFF&} dans la cavité
+Dialogue: 0,0:01:56.80,0:01:58.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}amniotique pendant la grossesse.
+Dialogue: 0,0:01:59.13,0:02:00.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La gémellité concerne {\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&}
+Dialogue: 0,0:02:00.71,0:02:01.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cent{\c&HFFFFFF&} des grossesses,
+Dialogue: 0,0:02:01.74,0:02:03.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dont {\c&H66D1FF&}quatre-vingt-douze{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&} {\c&H66D1FF&}cent{\c&HFFFFFF&}
+Dialogue: 0,0:02:03.42,0:02:05.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de dizygotes et {\c&H66D1FF&}huit{\c&HFFFFFF&} {\c&H66D1FF&}pour{\c&HFFFFFF&} {\c&H66D1FF&}cent{\c&HFFFFFF&} de
+Dialogue: 0,0:02:05.11,0:02:05.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}monozygotes.
+Dialogue: 0,0:02:06.12,0:02:07.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les jumeaux dizygotes viennent de
+Dialogue: 0,0:02:07.94,0:02:09.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux ovocytes et deux
+Dialogue: 0,0:02:09.10,0:02:10.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spermatozoïdes : amnios et
+Dialogue: 0,0:02:10.54,0:02:11.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placentas séparés.
+Dialogue: 0,0:02:11.93,0:02:12.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez les monozygotes,
+Dialogue: 0,0:02:12.92,0:02:14.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tout dépend du moment de la
+Dialogue: 0,0:02:14.18,0:02:14.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}scission.
+Dialogue: 0,0:02:14.74,0:02:16.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au stade deux cellules :
+Dialogue: 0,0:02:16.00,0:02:17.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}amnios et placentas séparés.
+Dialogue: 0,0:02:17.60,0:02:19.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Scission de la masse cellulaire
+Dialogue: 0,0:02:19.21,0:02:20.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interne : amnios séparés,
+Dialogue: 0,0:02:20.51,0:02:21.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta commun.
+Dialogue: 0,0:02:21.48,0:02:23.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Scission du disque embryonnaire :
+Dialogue: 0,0:02:23.17,0:02:24.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}amnios et placenta communs.
+Dialogue: 0,0:02:25.11,0:02:26.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le {\c&H66D1FF&}chimérisme{\c&HFFFFFF&} : deux zygotes
+Dialogue: 0,0:02:26.60,0:02:28.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fusionnent ou échangent des
+Dialogue: 0,0:02:28.03,0:02:29.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules, et donnent un seul
+Dialogue: 0,0:02:29.52,0:02:30.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}individu, une chimère,
+Dialogue: 0,0:02:30.69,0:02:31.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fait de cellules de deux
+Dialogue: 0,0:02:31.97,0:02:32.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}origines.
+Dialogue: 0,0:02:32.85,0:02:34.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'article cité : une grossesse
+Dialogue: 0,0:02:34.32,0:02:35.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}n'est pas une preuve de
+Dialogue: 0,0:02:35.45,0:02:35.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}maternité.
+Dialogue: 0,0:02:36.09,0:02:37.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une femme était sa propre
+Dialogue: 0,0:02:37.34,0:02:38.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}jumelle, et c'était la jumelle
+Dialogue: 0,0:02:38.86,0:02:40.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui était génétiquement la mère
+Dialogue: 0,0:02:40.42,0:02:41.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de ses enfants.
+Dialogue: 0,0:02:41.73,0:02:42.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:42.97,0:02:44.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le liquide amniotique provient
+Dialogue: 0,0:02:44.69,0:02:46.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du fœtus seul” : selon le cours,
+Dialogue: 0,0:02:46.48,0:02:48.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il est renouvelé à partir du
+Dialogue: 0,0:02:48.08,0:02:49.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plasma maternel.
+Dialogue: 0,0:02:49.40,0:02:50.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'oligohydramnios est causé par
+Dialogue: 0,0:02:50.90,0:02:52.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une agénésie pulmonaire” : faux.
+Dialogue: 0,0:02:52.54,0:02:54.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Agénésie rénale ; l'hypoplasie
+Dialogue: 0,0:02:54.17,0:02:55.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pulmonaire est une conséquence.
+Dialogue: 0,0:02:56.26,0:02:57.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Une scission du disque
+Dialogue: 0,0:02:57.43,0:02:59.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}embryonnaire donne des placentas
+Dialogue: 0,0:02:59.12,0:03:00.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}séparés” : faux, amnios et
+Dialogue: 0,0:03:00.44,0:03:01.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placenta communs.
+Dialogue: 0,0:03:01.91,0:03:03.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plus la scission est tardive,
+Dialogue: 0,0:03:03.23,0:03:04.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus les jumeaux partagent.
+Dialogue: 0,0:03:04.60,0:03:05.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tôt, rien en commun ;
+Dialogue: 0,0:03:05.64,0:03:06.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}au milieu, le placenta ;
+Dialogue: 0,0:03:06.83,0:03:07.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tard, tout.
+Dialogue: 0,0:03:07.77,0:03:08.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et les chiffres : deux,
+Dialogue: 0,0:03:08.71,0:03:09.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quatre-vingt-douze, huit.
+Dialogue: 0,0:03:09.88,0:03:11.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux pour cent de jumeaux,
+Dialogue: 0,0:03:11.04,0:03:12.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et presque tous des faux.
+Dialogue: 0,0:03:12.71,0:03:13.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : scission de la masse
+Dialogue: 0,0:03:13.94,0:03:14.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire interne ?
+Dialogue: 0,0:03:19.25,0:03:21.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Amnios séparés, placenta commun.
+Dialogue: 0,0:03:21.59,0:03:22.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:22.64,0:03:24.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le placenta, ses caduques,
+Dialogue: 0,0:03:24.17,0:03:25.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ses pathologies, la barrière
+Dialogue: 0,0:03:25.81,0:03:28.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}placentaire et l'incompatibilité rhésus.
