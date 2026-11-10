@@ -80,10 +80,12 @@ scenes:
         show: "O | *aucun* | reçoit O · *donneur universel*"
 
   - kind: flow
-    title: "Le cas de Maria et Théo"
+    title: "Croisements polyhybrides : Maria et Théo"
     ref: "S1-4 p.9"
     trap: "Probabilités indépendantes → on MULTIPLIE : 1/4 × 1/2 × 1/2 = 1/16."
     beats:
+      - say: "Les *croisements polyhybrides* : on suit plusieurs caractères à la fois. Le cours en donne un cas de conseil génétique. Inquiets de leurs antécédents familiaux, Maria et Théo consultent un médecin généticien pour connaître la probabilité d'avoir un enfant qui réunisse les pires conditions : atteint des deux affections, et d'un groupe sanguin incompatible avec le leur, puisqu'ils souhaitent être donneurs."
+        show: "*Croisements polyhybrides* · conseil génétique : *pires conditions* ?"
       - say: "Maria et Théo, tous deux sains mais porteurs de la bêta-thalassémie, maladie du sang récessive : génotype H normal, h muté. Maria a aussi une brachydactylie, des doigts courts, à transmission dominante : d normal, D muté. Ils sont tous deux de groupe AB, et voudraient pouvoir donner leur sang à leur enfant s'il est malade. Quelle probabilité d'un enfant qui cumule le pire ?"
         show: "Maria : Hh, dD, AB · Théo : Hh, dd, AB"
       - say: "Bêta-thalassémie : H h croisé avec H h donne un quart de h h, malade."
