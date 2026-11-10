@@ -116,10 +116,8 @@ scenes:
         mark: ["2% des grossesses", "92 %"]
         show: "*2 %* des grossesses · *92 %* dizygotes · *8 %* monozygotes"
       - say: "Les jumeaux dizygotes viennent de deux ovocytes et deux spermatozoïdes : amnios et placentas séparés."
-        mark: "jumeaux dizygotes"
         show: "*Dizygotes* : 2 zygotes → amnios et placentas *séparés*"
       - say: "Chez les monozygotes, tout dépend du moment de la scission. Au stade deux cellules : amnios et placentas séparés. Scission de la masse cellulaire interne : amnios séparés, placenta commun. Scission du disque embryonnaire : amnios et placenta communs."
-        mark: ["scission stade 2-cellules", "scission de la masse", "scission du disque"]
         show: "2 cellules → *tout séparé* · masse interne → *placenta commun* · disque → *tout commun*"
 
   - kind: figure
@@ -129,7 +127,6 @@ scenes:
     blur: [[0.63, 0.64, 0.94, 0.98]]
     beats:
       - say: "Le *chimérisme* : deux zygotes fusionnent ou échangent des cellules, et donnent un seul individu, une chimère, fait de cellules de deux origines."
-        mark: ["Two zygotes", "Chimera"]
         show: "*2 zygotes* → fusion / échange de cellules → *chimère*"
       - say: "L'article cité : une grossesse n'est pas une preuve de maternité. Une femme était sa propre jumelle, et c'était la jumelle qui était génétiquement la mère de ses enfants."
         show: "« Pregnancy No Proof of Motherhood »"

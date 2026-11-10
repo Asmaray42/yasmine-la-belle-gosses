@@ -119,11 +119,18 @@ scenes:
       - say: "Des cellules de l'épiblaste sont mobilisées à travers le *nœud primitif* : c'est une *involution*. Un tube creux s'allonge en position médiane, sous l'ectoderme, en direction crâniale : le *processus notochordal*."
         mark: ["involution", "processus notochordal"]
         show: "Nœud primitif (*involution*) → tube creux crânial = *processus notochordal*"
+
+  - kind: figure
+    title: "Plaque notochordale et notochorde"
+    ref: "S2-2 p.9h"
+    fig: "S2-2:9h"
+    trap: "Canal neurentérique TRANSITOIRE ; notochorde = tige pleine."
+    beats:
       - say: "Le processus notochordal fusionne avec l'endoderme : c'est la *plaque notochordale*. Apparaît alors, transitoirement, le *canal neurentérique*, qui relie la cavité amniotique et la vésicule ombilicale."
         mark: ["plaque notochordale", "canal neurentérique"]
         show: "Fusion avec l'endoderme → *plaque notochordale* · *canal neurentérique* (transitoire)"
       - say: "Enfin, la plaque notochordale se détache de l'endoderme : c'est la *notochorde*, une tige pleine."
-        mark: "tige pleine"
+        mark: "notochorde (tige pleine)"
         show: "Détachement → *notochorde* (*tige pleine*)"
 
   - kind: trap

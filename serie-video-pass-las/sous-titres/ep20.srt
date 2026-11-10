@@ -1,0 +1,615 @@
+1
+00:00:00,300 --> 00:00:01,903
+Une seule molécule d'hormone se
+
+2
+00:00:01,903 --> 00:00:02,989
+fixe sur une cellule,
+
+3
+00:00:02,989 --> 00:00:04,438
+et des milliers de réactions
+
+4
+00:00:04,438 --> 00:00:04,852
+suivent.
+
+5
+00:00:04,992 --> 00:00:06,397
+Le secret : une cascade de
+
+6
+00:00:06,397 --> 00:00:08,559
+phosphorylations qui amplifie le signal.
+
+7
+00:00:08,959 --> 00:00:10,421
+Au programme : les types de
+
+8
+00:00:10,421 --> 00:00:12,046
+communication, les récepteurs,
+
+9
+00:00:12,046 --> 00:00:13,724
+la transduction, et l'insuline.
+
+10
+00:00:14,284 --> 00:00:16,167
+Chapitre cinq, les communications
+
+11
+00:00:16,167 --> 00:00:17,936
+cellulaires, en quatre points :
+
+12
+00:00:17,936 --> 00:00:19,305
+aperçu général, types de
+
+13
+00:00:19,305 --> 00:00:20,846
+communications, récepteurs,
+
+14
+00:00:20,846 --> 00:00:22,158
+transduction du signal.
+
+15
+00:00:22,298 --> 00:00:23,237
+Les communications
+
+16
+00:00:23,237 --> 00:00:24,908
+inter-cellulaires permettent aux
+
+17
+00:00:24,908 --> 00:00:26,161
+cellules de s'influencer
+
+18
+00:00:26,161 --> 00:00:26,839
+mutuellement.
+
+19
+00:00:27,239 --> 00:00:28,525
+Il faut une molécule de
+
+20
+00:00:28,525 --> 00:00:29,979
+signalisation, le ligand ,
+
+21
+00:00:29,979 --> 00:00:31,823
+et une protéine qui le reconnaît,
+
+22
+00:00:31,823 --> 00:00:32,606
+le récepteur .
+
+23
+00:00:32,746 --> 00:00:34,124
+Les ligands sont variés :
+
+24
+00:00:34,124 --> 00:00:35,226
+peptides, protéines,
+
+25
+00:00:35,226 --> 00:00:36,494
+nucléotides, stéroïdes,
+
+26
+00:00:36,494 --> 00:00:37,486
+petites molécules.
+
+27
+00:00:37,886 --> 00:00:39,514
+Par une voie de transduction
+
+28
+00:00:39,514 --> 00:00:41,432
+intracellulaire, la signalisation
+
+29
+00:00:41,432 --> 00:00:42,769
+aboutit à une réponse :
+
+30
+00:00:42,769 --> 00:00:43,932
+division, migration,
+
+31
+00:00:43,932 --> 00:00:45,269
+transformation, ou mort
+
+32
+00:00:45,269 --> 00:00:45,908
+cellulaire.
+
+33
+00:00:46,468 --> 00:00:47,715
+Trois grandes catégories.
+
+34
+00:00:48,115 --> 00:00:49,105
+Le contact direct :
+
+35
+00:00:49,105 --> 00:00:50,770
+par des jonctions communicantes,
+
+36
+00:00:50,770 --> 00:00:52,332
+où les molécules passent d'une
+
+37
+00:00:52,332 --> 00:00:53,269
+cellule à l'autre,
+
+38
+00:00:53,269 --> 00:00:54,987
+ou par l'association de protéines
+
+39
+00:00:54,987 --> 00:00:55,664
+membranaires.
+
+40
+00:00:56,064 --> 00:00:57,839
+La communication locale paracrine
+
+41
+00:00:57,839 --> 00:00:59,452
+: les molécules sécrétées sont
+
+42
+00:00:59,452 --> 00:01:01,120
+rapidement éliminées du milieu,
+
+43
+00:01:01,120 --> 00:01:02,357
+détruites ou absorbées,
+
+44
+00:01:02,357 --> 00:01:03,971
+et n'agissent donc que sur les
+
+45
+00:01:03,971 --> 00:01:04,939
+cellules voisines.
+
+46
+00:01:05,339 --> 00:01:06,603
+La communication locale
+
+47
+00:01:06,603 --> 00:01:08,143
+synaptique, utilisée par les
+
+48
+00:01:08,143 --> 00:01:09,242
+cellules nerveuses :
+
+49
+00:01:09,242 --> 00:01:11,057
+le neurotransmetteur n'agit qu'au
+
+50
+00:01:11,057 --> 00:01:12,871
+niveau de la fente synaptique qui
+
+51
+00:01:12,871 --> 00:01:15,015
+sépare la cellule nerveuse de sa cible.
+
+52
+00:01:15,415 --> 00:01:16,949
+La communication à distance,
+
+53
+00:01:16,949 --> 00:01:18,263
+endocrine : des cellules
+
+54
+00:01:18,263 --> 00:01:19,688
+spécialisées sécrètent des
+
+55
+00:01:19,688 --> 00:01:21,167
+molécules qui atteignent le
+
+56
+00:01:21,167 --> 00:01:22,317
+système circulatoire.
+
+57
+00:01:22,457 --> 00:01:23,741
+Elles ont une durée de vie
+
+58
+00:01:23,741 --> 00:01:24,778
+relativement longue :
+
+59
+00:01:24,778 --> 00:01:25,865
+ce sont les hormones ,
+
+60
+00:01:25,865 --> 00:01:27,198
+qui agissent sur des cibles
+
+61
+00:01:27,198 --> 00:01:27,692
+distantes.
+
+62
+00:01:28,252 --> 00:01:29,627
+Deux familles de récepteurs.
+
+63
+00:01:30,027 --> 00:01:31,773
+Les molécules qui traversent la
+
+64
+00:01:31,773 --> 00:01:33,293
+membrane, de petite taille,
+
+65
+00:01:33,293 --> 00:01:34,757
+les lipides, se lient à un
+
+66
+00:01:34,757 --> 00:01:36,221
+récepteur intracellulaire.
+
+67
+00:01:36,361 --> 00:01:37,951
+Celles qui ne la traversent pas
+
+68
+00:01:37,951 --> 00:01:39,285
+se lient à un récepteur de
+
+69
+00:01:39,285 --> 00:01:39,696
+surface.
+
+70
+00:01:40,096 --> 00:01:41,159
+Exemple de récepteur
+
+71
+00:01:41,159 --> 00:01:42,753
+intracellulaire : les hormones
+
+72
+00:01:42,753 --> 00:01:44,347
+stéroïdes et leurs récepteurs.
+
+73
+00:01:44,487 --> 00:01:46,241
+Le récepteur de surface est fait
+
+74
+00:01:46,241 --> 00:01:47,885
+d'un ou plusieurs polypeptides
+
+75
+00:01:47,885 --> 00:01:48,597
+membranaires.
+
+76
+00:01:48,997 --> 00:01:50,757
+Et pour le récepteur de surface,
+
+77
+00:01:50,757 --> 00:01:52,407
+la liaison du ligand l'active,
+
+78
+00:01:52,407 --> 00:01:53,838
+et il transmet le signal à
+
+79
+00:01:53,838 --> 00:01:55,268
+l'intérieur de la cellule.
+
+80
+00:01:55,828 --> 00:01:57,293
+La transduction du signal :
+
+81
+00:01:57,293 --> 00:01:58,812
+tous les événements entre la
+
+82
+00:01:58,812 --> 00:02:00,602
+liaison du ligand à son récepteur
+
+83
+00:02:00,602 --> 00:02:01,959
+et la réponse cellulaire.
+
+84
+00:02:02,099 --> 00:02:03,857
+Il en existe une grande variété,
+
+85
+00:02:03,857 --> 00:02:05,615
+selon le ligand, le récepteur et
+
+86
+00:02:05,615 --> 00:02:06,659
+le type cellulaire.
+
+87
+00:02:07,059 --> 00:02:08,842
+Le plus souvent : activation du
+
+88
+00:02:08,842 --> 00:02:10,279
+récepteur par son ligand,
+
+89
+00:02:10,279 --> 00:02:11,947
+puis activation en cascade de
+
+90
+00:02:11,947 --> 00:02:13,154
+protéines de réponse,
+
+91
+00:02:13,154 --> 00:02:15,512
+ce qui assure l' amplification du signal.
+
+92
+00:02:15,652 --> 00:02:17,326
+Les protéines sont activées par
+
+93
+00:02:17,326 --> 00:02:18,297
+des modifications,
+
+94
+00:02:18,297 --> 00:02:19,593
+par exemple l'ajout d'un
+
+95
+00:02:19,593 --> 00:02:21,267
+phosphate : la phosphorylation.
+
+96
+00:02:21,827 --> 00:02:23,120
+L'activité de nombreuses
+
+97
+00:02:23,120 --> 00:02:24,844
+protéines dépend de leur état de
+
+98
+00:02:24,844 --> 00:02:25,706
+phosphorylation.
+
+99
+00:02:25,846 --> 00:02:27,491
+Les protéines kinases catalysent
+
+100
+00:02:27,491 --> 00:02:29,034
+l'ajout d'un phosphate sur des
+
+101
+00:02:29,034 --> 00:02:30,165
+protéines spécifiques.
+
+102
+00:02:30,305 --> 00:02:31,204
+Deux groupes : les
+
+103
+00:02:31,204 --> 00:02:32,752
+sérine-thréonine kinases et les
+
+104
+00:02:32,752 --> 00:02:33,602
+tyrosine kinases.
+
+105
+00:02:34,002 --> 00:02:35,382
+À l'inverse, les phosphatases
+
+106
+00:02:35,382 --> 00:02:36,858
+retirent les groupes phosphate.
+
+107
+00:02:36,998 --> 00:02:38,645
+L'état de phosphorylation d'une
+
+108
+00:02:38,645 --> 00:02:40,822
+protéine peut ainsi être finement régulé.
+
+109
+00:02:41,382 --> 00:02:43,187
+Exemple : la voie de l'insuline,
+
+110
+00:02:43,187 --> 00:02:44,090
+étape par étape.
+
+111
+00:02:44,490 --> 00:02:45,839
+L'insuline est une hormone
+
+112
+00:02:45,839 --> 00:02:47,188
+protéique, sécrétée par le
+
+113
+00:02:47,188 --> 00:02:47,655
+pancréas.
+
+114
+00:02:47,795 --> 00:02:49,393
+Sa production augmente quand le
+
+115
+00:02:49,393 --> 00:02:50,681
+glucose sanguin augmente.
+
+116
+00:02:51,081 --> 00:02:52,666
+Ses cellules cibles sont dans le
+
+117
+00:02:52,666 --> 00:02:54,102
+foie, les muscles et le tissu
+
+118
+00:02:54,102 --> 00:02:54,498
+adipeux.
+
+119
+00:02:54,898 --> 00:02:56,575
+Après liaison à son récepteur,
+
+120
+00:02:56,575 --> 00:02:58,028
+une voie de signalisation,
+
+121
+00:02:58,028 --> 00:02:59,257
+faite d'une cascade de
+
+122
+00:02:59,257 --> 00:03:00,934
+phosphorylations, est activée.
+
+123
+00:03:01,334 --> 00:03:03,175
+Résultat : plus de transporteurs
+
+124
+00:03:03,175 --> 00:03:04,671
+GLUT4 à la membrane,
+
+125
+00:03:04,671 --> 00:03:06,110
+donc une entrée accrue de
+
+126
+00:03:06,110 --> 00:03:08,009
+glucose, et une stimulation de sa
+
+127
+00:03:08,009 --> 00:03:09,390
+conversion en glycogène,
+
+128
+00:03:09,390 --> 00:03:10,886
+via la glycogène synthase.
+
+129
+00:03:11,446 --> 00:03:12,252
+Les pièges.
+
+130
+00:03:12,652 --> 00:03:14,275
+“Une hormone agit uniquement sur
+
+131
+00:03:14,275 --> 00:03:15,480
+les cellules voisines” :
+
+132
+00:03:15,480 --> 00:03:16,946
+faux, c'est la communication
+
+133
+00:03:16,946 --> 00:03:17,470
+paracrine.
+
+134
+00:03:17,610 --> 00:03:19,373
+L'hormone est endocrine et agit à
+
+135
+00:03:19,373 --> 00:03:19,853
+distance.
+
+136
+00:03:20,253 --> 00:03:21,975
+“Les hormones stéroïdes se lient
+
+137
+00:03:21,975 --> 00:03:23,475
+à un récepteur de surface” :
+
+138
+00:03:23,475 --> 00:03:24,586
+faux, à un récepteur
+
+139
+00:03:24,586 --> 00:03:25,475
+intracellulaire.
+
+140
+00:03:25,875 --> 00:03:27,596
+Et ne confonds pas GLUT4,
+
+141
+00:03:27,596 --> 00:03:28,873
+stimulé par l'insuline,
+
+142
+00:03:28,873 --> 00:03:30,484
+avec GLUT2, de la cellule
+
+143
+00:03:30,484 --> 00:03:31,150
+intestinale.
+
+144
+00:03:31,710 --> 00:03:33,090
+Quiz : laquelle est exacte ?
+
+145
+00:03:37,490 --> 00:03:38,305
+Réponse B.
+
+146
+00:03:38,445 --> 00:03:40,015
+Les phosphatases retirent les
+
+147
+00:03:40,015 --> 00:03:41,639
+phosphates, l'insuline est une
+
+148
+00:03:41,639 --> 00:03:42,613
+hormone protéique,
+
+149
+00:03:42,613 --> 00:03:44,400
+et la cascade amplifie le signal.
+
+150
+00:03:44,960 --> 00:03:46,022
+Prochain épisode :
+
+151
+00:03:46,022 --> 00:03:47,378
+la division cellulaire,
+
+152
+00:03:47,378 --> 00:03:48,793
+ses rôles, ses chiffres,
+
+153
+00:03:48,793 --> 00:03:49,796
+et la réplication
+
+154
+00:03:49,796 --> 00:03:51,565
+semi-conservative de l'ADN.

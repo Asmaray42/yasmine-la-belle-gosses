@@ -105,11 +105,18 @@ scenes:
       - say: "La segmentation du mésoderme paraxial forme les *somites* : c'est la *somitogenèse*."
         mark: "somitogenèse"
         show: "Mésoderme paraxial segmenté → *somites* (*somitogenèse*)"
+
+  - kind: figure
+    title: "42 à 44 somites, 37 restants"
+    ref: "S2-2 p.5h"
+    fig: "S2-2:5h"
+    trap: "42 à 44 formés, 37 restent (disparition des somites CAUDALES)."
+    beats:
       - say: "Au total, *quarante-deux à quarante-quatre* somites se forment, mais il n'en restera que *trente-sept* : les somites caudales disparaissent."
-        mark: ["42 à 44", "37"]
+        mark: ["42 à 44 somites", "disparition de somites caudales"]
         show: "# *42 à 44* formés → *37* restent"
       - say: "Les somites préfigurent les structures métamérisées du tronc : le squelette et les muscles."
-        mark: "métamérisées"
+        mark: "structures métamérisées"
         show: "Structures *métamérisées* du tronc : squelette, muscles"
 
   - kind: trap

@@ -18,6 +18,7 @@
 | `sous-titres/epNN.srt` et `.ass` | Sous-titres séparés (SRT pour l'import, ASS pour le rendu stylé) |
 | `voix-off/epNN.m4a` | La voix off seule (révision en marchant, en voiture…) |
 | `source/episodes/epNN.yaml` | La **source** de l'épisode : tout le contenu, scène par scène |
+| [`PRONONCIATION.md`](PRONONCIATION.md) | Comment la voix lit le cours : sigles épelés, formules, exposants, transcriptions phonétiques imposées |
 | `outils/` | La chaîne de fabrication (voix, lexique de prononciation, découpe des diapos, moteur d'animation, montage, audit) |
 
 ## Comment réviser avec

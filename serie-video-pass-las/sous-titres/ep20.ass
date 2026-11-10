@@ -1,0 +1,167 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une seule molécule d'hormone se
+Dialogue: 0,0:00:01.90,0:00:02.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fixe sur une cellule,
+Dialogue: 0,0:00:02.99,0:00:04.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et des milliers de réactions
+Dialogue: 0,0:00:04.44,0:00:04.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}suivent.
+Dialogue: 0,0:00:04.99,0:00:06.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le secret : une cascade de
+Dialogue: 0,0:00:06.40,0:00:08.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphorylations qui amplifie le signal.
+Dialogue: 0,0:00:08.96,0:00:10.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les types de
+Dialogue: 0,0:00:10.42,0:00:12.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}communication, les récepteurs,
+Dialogue: 0,0:00:12.05,0:00:13.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la transduction, et l'insuline.
+Dialogue: 0,0:00:14.28,0:00:16.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre cinq, les communications
+Dialogue: 0,0:00:16.17,0:00:17.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaires, en quatre points :
+Dialogue: 0,0:00:17.94,0:00:19.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aperçu général, types de
+Dialogue: 0,0:00:19.31,0:00:20.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}communications, récepteurs,
+Dialogue: 0,0:00:20.85,0:00:22.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transduction du signal.
+Dialogue: 0,0:00:22.30,0:00:23.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les communications
+Dialogue: 0,0:00:23.24,0:00:24.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inter-cellulaires permettent aux
+Dialogue: 0,0:00:24.91,0:00:26.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules de s'influencer
+Dialogue: 0,0:00:26.16,0:00:26.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mutuellement.
+Dialogue: 0,0:00:27.24,0:00:28.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il faut une molécule de
+Dialogue: 0,0:00:28.53,0:00:29.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}signalisation, le {\c&H66D1FF&}ligand{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:29.98,0:00:31.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une protéine qui le reconnaît,
+Dialogue: 0,0:00:31.82,0:00:32.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le {\c&H66D1FF&}récepteur{\c&HFFFFFF&} .
+Dialogue: 0,0:00:32.75,0:00:34.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les ligands sont variés :
+Dialogue: 0,0:00:34.12,0:00:35.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}peptides, protéines,
+Dialogue: 0,0:00:35.23,0:00:36.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléotides, stéroïdes,
+Dialogue: 0,0:00:36.49,0:00:37.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}petites molécules.
+Dialogue: 0,0:00:37.89,0:00:39.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Par une voie de transduction
+Dialogue: 0,0:00:39.51,0:00:41.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaire, la signalisation
+Dialogue: 0,0:00:41.43,0:00:42.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}aboutit à une réponse :
+Dialogue: 0,0:00:42.77,0:00:43.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}division, migration,
+Dialogue: 0,0:00:43.93,0:00:45.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transformation, ou mort
+Dialogue: 0,0:00:45.27,0:00:45.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire.
+Dialogue: 0,0:00:46.47,0:00:47.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois grandes catégories.
+Dialogue: 0,0:00:48.12,0:00:49.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le contact direct :
+Dialogue: 0,0:00:49.11,0:00:50.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par des jonctions communicantes,
+Dialogue: 0,0:00:50.77,0:00:52.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}où les molécules passent d'une
+Dialogue: 0,0:00:52.33,0:00:53.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule à l'autre,
+Dialogue: 0,0:00:53.27,0:00:54.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ou par l'association de protéines
+Dialogue: 0,0:00:54.99,0:00:55.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranaires.
+Dialogue: 0,0:00:56.06,0:00:57.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La communication locale paracrine
+Dialogue: 0,0:00:57.84,0:00:59.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les molécules sécrétées sont
+Dialogue: 0,0:00:59.45,0:01:01.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rapidement éliminées du milieu,
+Dialogue: 0,0:01:01.12,0:01:02.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}détruites ou absorbées,
+Dialogue: 0,0:01:02.36,0:01:03.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et n'agissent donc que sur les
+Dialogue: 0,0:01:03.97,0:01:04.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules voisines.
+Dialogue: 0,0:01:05.34,0:01:06.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La communication locale
+Dialogue: 0,0:01:06.60,0:01:08.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}synaptique, utilisée par les
+Dialogue: 0,0:01:08.14,0:01:09.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules nerveuses :
+Dialogue: 0,0:01:09.24,0:01:11.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le neurotransmetteur n'agit qu'au
+Dialogue: 0,0:01:11.06,0:01:12.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}niveau de la fente synaptique qui
+Dialogue: 0,0:01:12.87,0:01:15.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sépare la cellule nerveuse de sa cible.
+Dialogue: 0,0:01:15.42,0:01:16.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La communication à distance,
+Dialogue: 0,0:01:16.95,0:01:18.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}endocrine : des cellules
+Dialogue: 0,0:01:18.26,0:01:19.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécialisées sécrètent des
+Dialogue: 0,0:01:19.69,0:01:21.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules qui atteignent le
+Dialogue: 0,0:01:21.17,0:01:22.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}système circulatoire.
+Dialogue: 0,0:01:22.46,0:01:23.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elles ont une durée de vie
+Dialogue: 0,0:01:23.74,0:01:24.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}relativement longue :
+Dialogue: 0,0:01:24.78,0:01:25.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont les {\c&H66D1FF&}hormones{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:25.87,0:01:27.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui agissent sur des cibles
+Dialogue: 0,0:01:27.20,0:01:27.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}distantes.
+Dialogue: 0,0:01:28.25,0:01:29.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux familles de récepteurs.
+Dialogue: 0,0:01:30.03,0:01:31.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les molécules qui traversent la
+Dialogue: 0,0:01:31.77,0:01:33.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane, de petite taille,
+Dialogue: 0,0:01:33.29,0:01:34.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les lipides, se lient à un
+Dialogue: 0,0:01:34.76,0:01:36.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récepteur intracellulaire.
+Dialogue: 0,0:01:36.36,0:01:37.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Celles qui ne la traversent pas
+Dialogue: 0,0:01:37.95,0:01:39.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se lient à un récepteur de
+Dialogue: 0,0:01:39.29,0:01:39.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}surface.
+Dialogue: 0,0:01:40.10,0:01:41.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple de récepteur
+Dialogue: 0,0:01:41.16,0:01:42.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaire : les hormones
+Dialogue: 0,0:01:42.75,0:01:44.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stéroïdes et leurs récepteurs.
+Dialogue: 0,0:01:44.49,0:01:46.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le récepteur de surface est fait
+Dialogue: 0,0:01:46.24,0:01:47.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un ou plusieurs polypeptides
+Dialogue: 0,0:01:47.89,0:01:48.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membranaires.
+Dialogue: 0,0:01:49.00,0:01:50.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et pour le récepteur de surface,
+Dialogue: 0,0:01:50.76,0:01:52.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la liaison du ligand l'active,
+Dialogue: 0,0:01:52.41,0:01:53.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et il transmet le signal à
+Dialogue: 0,0:01:53.84,0:01:55.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'intérieur de la cellule.
+Dialogue: 0,0:01:55.83,0:01:57.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}transduction{\c&HFFFFFF&} {\c&H66D1FF&}du{\c&HFFFFFF&} {\c&H66D1FF&}signal{\c&HFFFFFF&} :
+Dialogue: 0,0:01:57.29,0:01:58.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tous les événements entre la
+Dialogue: 0,0:01:58.81,0:02:00.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}liaison du ligand à son récepteur
+Dialogue: 0,0:02:00.60,0:02:01.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la réponse cellulaire.
+Dialogue: 0,0:02:02.10,0:02:03.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il en existe une grande variété,
+Dialogue: 0,0:02:03.86,0:02:05.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}selon le ligand, le récepteur et
+Dialogue: 0,0:02:05.62,0:02:06.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le type cellulaire.
+Dialogue: 0,0:02:07.06,0:02:08.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le plus souvent : activation du
+Dialogue: 0,0:02:08.84,0:02:10.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}récepteur par son ligand,
+Dialogue: 0,0:02:10.28,0:02:11.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis activation {\c&H66D1FF&}en{\c&HFFFFFF&} {\c&H66D1FF&}cascade{\c&HFFFFFF&} de
+Dialogue: 0,0:02:11.95,0:02:13.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines de réponse,
+Dialogue: 0,0:02:13.15,0:02:15.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce qui assure l' {\c&H66D1FF&}amplification{\c&HFFFFFF&} du signal.
+Dialogue: 0,0:02:15.65,0:02:17.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines sont activées par
+Dialogue: 0,0:02:17.33,0:02:18.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des modifications,
+Dialogue: 0,0:02:18.30,0:02:19.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par exemple l'ajout d'un
+Dialogue: 0,0:02:19.59,0:02:21.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphate : la phosphorylation.
+Dialogue: 0,0:02:21.83,0:02:23.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'activité de nombreuses
+Dialogue: 0,0:02:23.12,0:02:24.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines dépend de leur état de
+Dialogue: 0,0:02:24.84,0:02:25.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphorylation.
+Dialogue: 0,0:02:25.85,0:02:27.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les {\c&H66D1FF&}protéines{\c&HFFFFFF&} {\c&H66D1FF&}kinases{\c&HFFFFFF&} catalysent
+Dialogue: 0,0:02:27.49,0:02:29.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ajout d'un phosphate sur des
+Dialogue: 0,0:02:29.03,0:02:30.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines spécifiques.
+Dialogue: 0,0:02:30.31,0:02:31.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux groupes : les
+Dialogue: 0,0:02:31.20,0:02:32.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sérine-thréonine kinases et les
+Dialogue: 0,0:02:32.75,0:02:33.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tyrosine kinases.
+Dialogue: 0,0:02:34.00,0:02:35.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À l'inverse, les {\c&H66D1FF&}phosphatases{\c&HFFFFFF&}
+Dialogue: 0,0:02:35.38,0:02:36.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}retirent les groupes phosphate.
+Dialogue: 0,0:02:37.00,0:02:38.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'état de phosphorylation d'une
+Dialogue: 0,0:02:38.65,0:02:40.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine peut ainsi être finement régulé.
+Dialogue: 0,0:02:41.38,0:02:43.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la voie de l'insuline,
+Dialogue: 0,0:02:43.19,0:02:44.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}étape par étape.
+Dialogue: 0,0:02:44.49,0:02:45.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'insuline est une hormone
+Dialogue: 0,0:02:45.84,0:02:47.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéique, sécrétée par le
+Dialogue: 0,0:02:47.19,0:02:47.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pancréas.
+Dialogue: 0,0:02:47.80,0:02:49.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa production augmente quand le
+Dialogue: 0,0:02:49.39,0:02:50.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose sanguin augmente.
+Dialogue: 0,0:02:51.08,0:02:52.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ses cellules cibles sont dans le
+Dialogue: 0,0:02:52.67,0:02:54.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}foie, les muscles et le tissu
+Dialogue: 0,0:02:54.10,0:02:54.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}adipeux.
+Dialogue: 0,0:02:54.90,0:02:56.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Après liaison à son récepteur,
+Dialogue: 0,0:02:56.58,0:02:58.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une voie de signalisation,
+Dialogue: 0,0:02:58.03,0:02:59.26,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faite d'une cascade de
+Dialogue: 0,0:02:59.26,0:03:00.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphorylations, est activée.
+Dialogue: 0,0:03:01.33,0:03:03.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : plus de transporteurs
+Dialogue: 0,0:03:03.18,0:03:04.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}GLUT4 à la membrane,
+Dialogue: 0,0:03:04.67,0:03:06.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc une entrée accrue de
+Dialogue: 0,0:03:06.11,0:03:08.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}glucose, et une stimulation de sa
+Dialogue: 0,0:03:08.01,0:03:09.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}conversion en glycogène,
+Dialogue: 0,0:03:09.39,0:03:10.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}via la glycogène synthase.
+Dialogue: 0,0:03:11.45,0:03:12.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les pièges.
+Dialogue: 0,0:03:12.65,0:03:14.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Une hormone agit uniquement sur
+Dialogue: 0,0:03:14.28,0:03:15.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules voisines” :
+Dialogue: 0,0:03:15.48,0:03:16.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, c'est la communication
+Dialogue: 0,0:03:16.95,0:03:17.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paracrine.
+Dialogue: 0,0:03:17.61,0:03:19.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'hormone est endocrine et agit à
+Dialogue: 0,0:03:19.37,0:03:19.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}distance.
+Dialogue: 0,0:03:20.25,0:03:21.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les hormones stéroïdes se lient
+Dialogue: 0,0:03:21.98,0:03:23.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à un récepteur de surface” :
+Dialogue: 0,0:03:23.48,0:03:24.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, à un récepteur
+Dialogue: 0,0:03:24.59,0:03:25.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intracellulaire.
+Dialogue: 0,0:03:25.88,0:03:27.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et ne confonds pas GLUT4,
+Dialogue: 0,0:03:27.60,0:03:28.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimulé par l'insuline,
+Dialogue: 0,0:03:28.87,0:03:30.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec GLUT2, de la cellule
+Dialogue: 0,0:03:30.48,0:03:31.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}intestinale.
+Dialogue: 0,0:03:31.71,0:03:33.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:37.49,0:03:38.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:38.45,0:03:40.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les phosphatases retirent les
+Dialogue: 0,0:03:40.02,0:03:41.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphates, l'insuline est une
+Dialogue: 0,0:03:41.64,0:03:42.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}hormone protéique,
+Dialogue: 0,0:03:42.61,0:03:44.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la cascade amplifie le signal.
+Dialogue: 0,0:03:44.96,0:03:46.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:46.02,0:03:47.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la division cellulaire,
+Dialogue: 0,0:03:47.38,0:03:48.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ses rôles, ses chiffres,
+Dialogue: 0,0:03:48.79,0:03:49.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et la réplication
+Dialogue: 0,0:03:49.80,0:03:51.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}semi-conservative de l'ADN.
