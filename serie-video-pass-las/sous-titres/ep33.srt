@@ -1,0 +1,539 @@
+1
+00:00:00,300 --> 00:00:02,156
+Ta cellule de foie et ton neurone
+
+2
+00:00:02,156 --> 00:00:03,169
+ont le même ADN.
+
+3
+00:00:03,309 --> 00:00:04,695
+Pourtant, ils n'utilisent pas les
+
+4
+00:00:04,695 --> 00:00:05,199
+mêmes gènes.
+
+5
+00:00:05,339 --> 00:00:06,430
+Le chef d'orchestre :
+
+6
+00:00:06,430 --> 00:00:07,989
+environ deux mille facteurs de
+
+7
+00:00:07,989 --> 00:00:08,716
+transcription.
+
+8
+00:00:09,116 --> 00:00:10,847
+Au programme : le contrôle de la
+
+9
+00:00:10,847 --> 00:00:12,632
+transcription, puis la régulation
+
+10
+00:00:12,632 --> 00:00:13,876
+après la transcription.
+
+11
+00:00:14,436 --> 00:00:15,837
+Sixième point du chapitre :
+
+12
+00:00:15,837 --> 00:00:17,810
+le contrôle de l'expression des gènes.
+
+13
+00:00:17,950 --> 00:00:19,476
+Seule une partie des gènes est
+
+14
+00:00:19,476 --> 00:00:20,849
+transcrite dans une cellule
+
+15
+00:00:20,849 --> 00:00:22,273
+donnée : c'est son programme
+
+16
+00:00:22,273 --> 00:00:23,392
+d'expression génique .
+
+17
+00:00:23,792 --> 00:00:25,331
+Ce programme varie d'un type
+
+18
+00:00:25,331 --> 00:00:26,485
+cellulaire à l'autre,
+
+19
+00:00:26,485 --> 00:00:28,133
+et peut être influencé par des
+
+20
+00:00:28,133 --> 00:00:29,177
+stimuli extérieurs.
+
+21
+00:00:29,317 --> 00:00:30,768
+Des mécanismes de régulation
+
+22
+00:00:30,768 --> 00:00:31,960
+permettent d'activer ou
+
+23
+00:00:31,960 --> 00:00:33,101
+d'inactiver les gènes.
+
+24
+00:00:33,661 --> 00:00:35,354
+La transcription est régulée par
+
+25
+00:00:35,354 --> 00:00:36,994
+des facteurs de transcription ,
+
+26
+00:00:36,994 --> 00:00:38,634
+des protéines qui se fixent sur
+
+27
+00:00:38,634 --> 00:00:40,486
+des séquences d'ADN spécifiques,
+
+28
+00:00:40,486 --> 00:00:41,492
+les séquences cis ,
+
+29
+00:00:41,492 --> 00:00:43,026
+situées le plus souvent juste
+
+30
+00:00:43,026 --> 00:00:44,243
+devant le premier exon.
+
+31
+00:00:44,643 --> 00:00:46,250
+Cette région du gène s'appelle le
+
+32
+00:00:46,250 --> 00:00:46,786
+promoteur .
+
+33
+00:00:46,926 --> 00:00:48,525
+Les facteurs de transcription
+
+34
+00:00:48,525 --> 00:00:50,454
+positionnent l'ARN polymérase et
+
+35
+00:00:50,454 --> 00:00:51,722
+stimulent son activité.
+
+36
+00:00:52,282 --> 00:00:53,930
+Chez l'homme, environ deux mille
+
+37
+00:00:53,930 --> 00:00:55,217
+facteurs de transcription
+
+38
+00:00:55,217 --> 00:00:56,762
+différents, chacun dirigé vers
+
+39
+00:00:56,762 --> 00:00:58,307
+ses séquences cis spécifiques.
+
+40
+00:00:58,707 --> 00:00:59,948
+Ils ont deux domaines :
+
+41
+00:00:59,948 --> 00:01:01,783
+un domaine de liaison à l'ADN ,
+
+42
+00:01:01,783 --> 00:01:03,509
+qui fixe l'ADN, et un domaine
+
+43
+00:01:03,509 --> 00:01:04,481
+trans-activateur ,
+
+44
+00:01:04,481 --> 00:01:06,046
+qui stimule la transcription.
+
+45
+00:01:06,446 --> 00:01:08,722
+Le cours donne des exemples avec
+
+46
+00:01:08,722 --> 00:01:10,074
+leur séquence cis :
+
+47
+00:01:10,074 --> 00:01:11,995
+AP1, TGAGTCA ; ETS1,
+
+48
+00:01:11,995 --> 00:01:14,414
+CCATGGC ; OCT4, ATTTGCAT ;
+
+49
+00:01:14,414 --> 00:01:16,620
+EGR1, CGCCCCCGC ; E2F1,
+
+50
+00:01:16,620 --> 00:01:18,470
+TTTCC/GCGC ; HES1,
+
+51
+00:01:18,470 --> 00:01:19,679
+CACNAG ; et CREB.
+
+52
+00:01:20,239 --> 00:01:21,985
+Chaque type cellulaire possède un
+
+53
+00:01:21,985 --> 00:01:23,732
+contenu spécifique en facteurs de
+
+54
+00:01:23,732 --> 00:01:25,425
+transcription, qui détermine les
+
+55
+00:01:25,425 --> 00:01:26,324
+gènes transcrits.
+
+56
+00:01:26,464 --> 00:01:27,786
+Trois modes de régulation.
+
+57
+00:01:28,186 --> 00:01:29,712
+L' expression : le facteur est
+
+58
+00:01:29,712 --> 00:01:31,339
+présent, exprimé, ou non dans la
+
+59
+00:01:31,339 --> 00:01:31,746
+cellule.
+
+60
+00:01:32,146 --> 00:01:33,794
+L' activation : le facteur est
+
+61
+00:01:33,794 --> 00:01:35,223
+toujours présent, mais une
+
+62
+00:01:35,223 --> 00:01:36,487
+modification, comme une
+
+63
+00:01:36,487 --> 00:01:38,135
+phosphorylation, ou un ligand,
+
+64
+00:01:38,135 --> 00:01:39,509
+détermine s'il est actif.
+
+65
+00:01:39,909 --> 00:01:41,656
+La localisation : le facteur est
+
+66
+00:01:41,656 --> 00:01:43,075
+toujours présent, mais une
+
+67
+00:01:43,075 --> 00:01:44,658
+modification ou un ligand est
+
+68
+00:01:44,658 --> 00:01:46,078
+nécessaire pour qu'il soit
+
+69
+00:01:46,078 --> 00:01:47,443
+transporté dans le noyau.
+
+70
+00:01:48,003 --> 00:01:49,444
+L'activité des facteurs de
+
+71
+00:01:49,444 --> 00:01:51,219
+transcription peut être modifiée
+
+72
+00:01:51,219 --> 00:01:52,716
+par des signaux extérieurs.
+
+73
+00:01:52,856 --> 00:01:54,751
+Exemple : la progression du cycle
+
+74
+00:01:54,751 --> 00:01:56,359
+cellulaire implique à chaque
+
+75
+00:01:56,359 --> 00:01:58,082
+étape l'activation de facteurs
+
+76
+00:01:58,082 --> 00:02:00,149
+spécifiques, notamment E2F pour
+
+77
+00:02:00,149 --> 00:02:01,355
+la transition G1/S.
+
+78
+00:02:01,915 --> 00:02:03,527
+Même si l'ARN d'un gène est
+
+79
+00:02:03,527 --> 00:02:05,140
+transcrit, la production de la
+
+80
+00:02:05,140 --> 00:02:06,645
+protéine peut être régulée à
+
+81
+00:02:06,645 --> 00:02:07,397
+trois niveaux.
+
+82
+00:02:07,797 --> 00:02:09,548
+L'épissage : son taux peut être
+
+83
+00:02:09,548 --> 00:02:11,016
+régulé, ce qui contrôle la
+
+84
+00:02:11,016 --> 00:02:12,540
+quantité d'ARN messager.
+
+85
+00:02:12,680 --> 00:02:13,932
+La synthèse protéique :
+
+86
+00:02:13,932 --> 00:02:15,564
+des protéines ou des micro-ARN
+
+87
+00:02:15,564 --> 00:02:17,252
+régulateurs se lient à l'ARN
+
+88
+00:02:17,252 --> 00:02:19,048
+messager et contrôlent le taux de
+
+89
+00:02:19,048 --> 00:02:19,646
+traduction.
+
+90
+00:02:19,786 --> 00:02:20,786
+Et la dégradation :
+
+91
+00:02:20,786 --> 00:02:21,786
+une fois produites,
+
+92
+00:02:21,786 --> 00:02:23,155
+les protéines peuvent être
+
+93
+00:02:23,155 --> 00:02:24,681
+marquées pour être détruites.
+
+94
+00:02:25,241 --> 00:02:26,914
+Deux rôles : contrôler le niveau
+
+95
+00:02:26,914 --> 00:02:28,117
+de certaines protéines,
+
+96
+00:02:28,117 --> 00:02:29,738
+comme les régulatrices du cycle
+
+97
+00:02:29,738 --> 00:02:31,203
+cellulaire ; et éliminer les
+
+98
+00:02:31,203 --> 00:02:32,719
+protéines mal repliées ou non
+
+99
+00:02:32,719 --> 00:02:33,504
+fonctionnelles.
+
+100
+00:02:33,904 --> 00:02:35,433
+Le mécanisme : la protéine à
+
+101
+00:02:35,433 --> 00:02:36,963
+dégrader est marquée par des
+
+102
+00:02:36,963 --> 00:02:38,329
+molécules d' ubiquitine ,
+
+103
+00:02:38,329 --> 00:02:40,787
+une protéine de 76 acides aminés.
+
+104
+00:02:40,927 --> 00:02:42,660
+Elle entre dans le protéasome ,
+
+105
+00:02:42,660 --> 00:02:44,449
+un complexe tubulaire à activité
+
+106
+00:02:44,449 --> 00:02:46,182
+protéolytique, et en ressort en
+
+107
+00:02:46,182 --> 00:02:47,411
+fragments peptidiques,
+
+108
+00:02:47,411 --> 00:02:49,480
+ensuite dégradables en acides aminés.
+
+109
+00:02:49,880 --> 00:02:51,170
+Les protéasomes sont très
+
+110
+00:02:51,170 --> 00:02:52,823
+abondants, dans le noyau et dans
+
+111
+00:02:52,823 --> 00:02:53,391
+le cytosol.
+
+112
+00:02:53,951 --> 00:02:54,787
+Trois pièges.
+
+113
+00:02:55,187 --> 00:02:56,406
+“Les séquences cis sont des
+
+114
+00:02:56,406 --> 00:02:57,203
+protéines” : faux,
+
+115
+00:02:57,203 --> 00:02:58,656
+ce sont des séquences d'ADN.
+
+116
+00:02:58,796 --> 00:03:00,202
+Les facteurs de transcription
+
+117
+00:03:00,202 --> 00:03:01,124
+sont les protéines.
+
+118
+00:03:01,524 --> 00:03:02,704
+“L'ubiquitine détruit les
+
+119
+00:03:02,704 --> 00:03:04,328
+protéines” : non, elle les marque.
+
+120
+00:03:04,468 --> 00:03:05,834
+C'est le protéasome qui les
+
+121
+00:03:05,834 --> 00:03:06,238
+dégrade.
+
+122
+00:03:06,638 --> 00:03:08,197
+“Les protéasomes sont uniquement
+
+123
+00:03:08,197 --> 00:03:09,052
+dans le cytosol” :
+
+124
+00:03:09,052 --> 00:03:10,359
+faux, aussi dans le noyau.
+
+125
+00:03:10,919 --> 00:03:12,299
+Quiz : laquelle est exacte ?
+
+126
+00:03:16,699 --> 00:03:17,513
+Réponse B.
+
+127
+00:03:17,653 --> 00:03:19,146
+Il y a environ deux mille
+
+128
+00:03:19,146 --> 00:03:20,876
+facteurs, le promoteur est le
+
+129
+00:03:20,876 --> 00:03:22,548
+plus souvent juste devant le
+
+130
+00:03:22,548 --> 00:03:24,816
+premier exon, et E2F intervient à
+
+131
+00:03:24,816 --> 00:03:26,069
+la transition G1/S.
+
+132
+00:03:26,629 --> 00:03:27,659
+Prochain épisode :
+
+133
+00:03:27,659 --> 00:03:29,204
+les procaryotes, les virus,
+
+134
+00:03:29,204 --> 00:03:32,236
+et une surprise : seulement 1,5 %
+
+135
+00:03:32,236 --> 00:03:34,124
+de ton génome code des protéines.

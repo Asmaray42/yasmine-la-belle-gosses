@@ -1,0 +1,367 @@
+1
+00:00:00,300 --> 00:00:01,921
+Aujourd'hui, on lit un vrai gène
+
+2
+00:00:01,921 --> 00:00:03,339
+humain, celui de l'insuline,
+
+3
+00:00:03,339 --> 00:00:04,251
+lettre par lettre.
+
+4
+00:00:04,391 --> 00:00:06,454
+Les six premières lettres de la
+
+5
+00:00:06,454 --> 00:00:07,718
+protéine : M, A, L,
+
+6
+00:00:07,718 --> 00:00:08,251
+W, M, R.
+
+7
+00:00:08,651 --> 00:00:10,451
+Au programme : la base de données
+
+8
+00:00:10,451 --> 00:00:12,089
+Ensembl, la structure du gène,
+
+9
+00:00:12,089 --> 00:00:13,125
+puis la traduction.
+
+10
+00:00:13,685 --> 00:00:15,473
+Ensembl est un site internet qui
+
+11
+00:00:15,473 --> 00:00:17,373
+contient la séquence ADN de tous
+
+12
+00:00:17,373 --> 00:00:18,378
+les gènes humains,
+
+13
+00:00:18,378 --> 00:00:20,166
+leur localisation chromosomique,
+
+14
+00:00:20,166 --> 00:00:21,618
+et une description de leur
+
+15
+00:00:21,618 --> 00:00:23,182
+structure, exons et introns.
+
+16
+00:00:23,742 --> 00:00:25,795
+Voici la séquence ADN du gène de
+
+17
+00:00:25,795 --> 00:00:26,459
+l'insuline.
+
+18
+00:00:26,599 --> 00:00:28,064
+Les encadrés sont les exons :
+
+19
+00:00:28,064 --> 00:00:28,873
+il y en a trois.
+
+20
+00:00:29,013 --> 00:00:30,560
+En bleu, la région codante ;
+
+21
+00:00:30,560 --> 00:00:32,549
+en orange, les régions 5 prime et
+
+22
+00:00:32,549 --> 00:00:33,930
+3 prime non codantes.
+
+23
+00:00:34,330 --> 00:00:35,360
+En gris, les introns :
+
+24
+00:00:35,360 --> 00:00:36,063
+il y en a deux.
+
+25
+00:00:36,203 --> 00:00:37,865
+En vert, les séquences d'ADN qui
+
+26
+00:00:37,865 --> 00:00:39,242
+précèdent et suivent le gène.
+
+27
+00:00:39,642 --> 00:00:41,220
+Les repères : la transcription
+
+28
+00:00:41,220 --> 00:00:42,903
+commence au début de l'exon un ;
+
+29
+00:00:42,903 --> 00:00:44,638
+la traduction commence plus loin,
+
+30
+00:00:44,638 --> 00:00:46,058
+dans l'exon deux, à l'ATG ;
+
+31
+00:00:46,058 --> 00:00:47,741
+elle s'arrête au codon STOP dans
+
+32
+00:00:47,741 --> 00:00:48,793
+l'exon trois ; et la
+
+33
+00:00:48,793 --> 00:00:50,424
+transcription s'arrête à la fin
+
+34
+00:00:50,424 --> 00:00:51,265
+de l'exon trois.
+
+35
+00:00:51,825 --> 00:00:53,593
+Rappel : le brin plus de l'ADN
+
+36
+00:00:53,593 --> 00:00:55,521
+correspond à la séquence de l'ARN
+
+37
+00:00:55,521 --> 00:00:57,342
+transcrit, avec T à la place de U.
+
+38
+00:00:57,482 --> 00:00:58,831
+Et c'est la séquence du brin plus
+
+39
+00:00:58,831 --> 00:00:59,893
+que donnent les banques de
+
+40
+00:00:59,893 --> 00:01:00,220
+données.
+
+41
+00:01:00,360 --> 00:01:01,672
+On peut donc en déduire
+
+42
+00:01:01,672 --> 00:01:03,155
+directement la séquence du
+
+43
+00:01:03,155 --> 00:01:03,840
+polypeptide.
+
+44
+00:01:04,240 --> 00:01:05,510
+Dans l'exon deux :
+
+45
+00:01:05,510 --> 00:01:06,850
+A T G, méthionine ;
+
+46
+00:01:06,850 --> 00:01:08,472
+G C C, alanine ; C T G,
+
+47
+00:01:08,472 --> 00:01:10,589
+leucine ; T G G, tryptophane ;
+
+48
+00:01:10,589 --> 00:01:11,929
+A T G, méthionine ;
+
+49
+00:01:11,929 --> 00:01:13,058
+C G C, arginine.
+
+50
+00:01:13,198 --> 00:01:15,006
+Et ainsi de suite :
+
+51
+00:01:15,006 --> 00:01:18,146
+M A L W M R L L P L L A L L A L W
+
+52
+00:01:18,146 --> 00:01:21,287
+G P D P A A A F V N Q H L C G S H
+
+53
+00:01:21,287 --> 00:01:24,428
+L V E A L Y L V C G E R G F F Y T
+
+54
+00:01:24,428 --> 00:01:24,999
+P K T.
+
+55
+00:01:25,559 --> 00:01:27,527
+La fin de l'exon deux donne R R E
+
+56
+00:01:27,527 --> 00:01:29,196
+A E D L Q, puis un V dont le
+
+57
+00:01:29,196 --> 00:01:30,389
+codon est à cheval :
+
+58
+00:01:30,389 --> 00:01:32,178
+il commence à la fin de l'exon
+
+59
+00:01:32,178 --> 00:01:34,027
+deux, et se termine au début de
+
+60
+00:01:34,027 --> 00:01:34,802
+l'exon trois.
+
+61
+00:01:34,942 --> 00:01:36,555
+C'est l'épissage qui recolle ce
+
+62
+00:01:36,555 --> 00:01:38,064
+codon et restaure le cadre de
+
+63
+00:01:38,064 --> 00:01:38,481
+lecture.
+
+64
+00:01:38,881 --> 00:01:40,422
+Puis l'exon trois :
+
+65
+00:01:40,422 --> 00:01:43,098
+G Q V E L G G G P G A G S L Q P L
+
+66
+00:01:43,098 --> 00:01:45,775
+A L E G S L Q K R G I V E Q C C T
+
+67
+00:01:45,775 --> 00:01:47,884
+S I C S L Y Q L E N Y C N,
+
+68
+00:01:47,884 --> 00:01:49,749
+et enfin le codon STOP,
+
+69
+00:01:49,749 --> 00:01:50,236
+T A G.
+
+70
+00:01:50,376 --> 00:01:51,975
+La suite de l'exon trois est la
+
+71
+00:01:51,975 --> 00:01:53,626
+région 3 prime non traduite.
+
+72
+00:01:54,186 --> 00:01:55,023
+Trois pièges.
+
+73
+00:01:55,423 --> 00:01:56,957
+“La traduction commence au début
+
+74
+00:01:56,957 --> 00:01:57,947
+de l'exon un” : faux.
+
+75
+00:01:58,087 --> 00:01:59,614
+L'exon un est entièrement non
+
+76
+00:01:59,614 --> 00:02:01,351
+codant ; la traduction commence à
+
+77
+00:02:01,351 --> 00:02:02,457
+l'ATG de l'exon deux.
+
+78
+00:02:02,857 --> 00:02:04,273
+“Tous les exons sont entièrement
+
+79
+00:02:04,273 --> 00:02:04,959
+codants” : faux.
+
+80
+00:02:05,099 --> 00:02:06,793
+Ils contiennent aussi les régions
+
+81
+00:02:06,793 --> 00:02:08,846
+5 prime et 3 prime non traduites.
+
+82
+00:02:09,246 --> 00:02:10,364
+“Les banques donnent le brin
+
+83
+00:02:10,364 --> 00:02:11,689
+matrice” : faux, elles donnent le
+
+84
+00:02:11,689 --> 00:02:12,103
+brin plus.
+
+85
+00:02:12,663 --> 00:02:14,102
+Quiz : combien d'introns dans le
+
+86
+00:02:14,102 --> 00:02:15,001
+gène de l'insuline ?
+
+87
+00:02:19,401 --> 00:02:20,925
+Deux introns, pour trois exons.
+
+88
+00:02:21,485 --> 00:02:22,428
+Prochain épisode :
+
+89
+00:02:22,428 --> 00:02:24,156
+comment une protéine sait si elle
+
+90
+00:02:24,156 --> 00:02:25,465
+doit aller dans le RER,
+
+91
+00:02:25,465 --> 00:02:27,037
+le noyau ou les mitochondries.
+
+92
+00:02:27,177 --> 00:02:29,223
+Le peptide signal et la SRP.

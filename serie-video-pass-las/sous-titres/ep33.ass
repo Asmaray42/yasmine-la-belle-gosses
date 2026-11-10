@@ -1,0 +1,148 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ta cellule de foie et ton neurone
+Dialogue: 0,0:00:02.16,0:00:03.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ont le même ADN.
+Dialogue: 0,0:00:03.31,0:00:04.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pourtant, ils n'utilisent pas les
+Dialogue: 0,0:00:04.70,0:00:05.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mêmes gènes.
+Dialogue: 0,0:00:05.34,0:00:06.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le chef d'orchestre :
+Dialogue: 0,0:00:06.43,0:00:07.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}environ deux mille facteurs de
+Dialogue: 0,0:00:07.99,0:00:08.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription.
+Dialogue: 0,0:00:09.12,0:00:10.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le contrôle de la
+Dialogue: 0,0:00:10.85,0:00:12.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription, puis la régulation
+Dialogue: 0,0:00:12.63,0:00:13.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}après la transcription.
+Dialogue: 0,0:00:14.44,0:00:15.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sixième point du chapitre :
+Dialogue: 0,0:00:15.84,0:00:17.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le contrôle de l'expression des gènes.
+Dialogue: 0,0:00:17.95,0:00:19.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Seule une partie des gènes est
+Dialogue: 0,0:00:19.48,0:00:20.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcrite dans une cellule
+Dialogue: 0,0:00:20.85,0:00:22.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donnée : c'est son {\c&H66D1FF&}programme{\c&HFFFFFF&}
+Dialogue: 0,0:00:22.27,0:00:23.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}d'expression{\c&HFFFFFF&} {\c&H66D1FF&}génique{\c&HFFFFFF&} .
+Dialogue: 0,0:00:23.79,0:00:25.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce programme varie d'un type
+Dialogue: 0,0:00:25.33,0:00:26.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire à l'autre,
+Dialogue: 0,0:00:26.49,0:00:28.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et peut être influencé par des
+Dialogue: 0,0:00:28.13,0:00:29.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimuli extérieurs.
+Dialogue: 0,0:00:29.32,0:00:30.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des mécanismes de régulation
+Dialogue: 0,0:00:30.77,0:00:31.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}permettent d'activer ou
+Dialogue: 0,0:00:31.96,0:00:33.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'inactiver les gènes.
+Dialogue: 0,0:00:33.66,0:00:35.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La transcription est régulée par
+Dialogue: 0,0:00:35.35,0:00:36.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des {\c&H66D1FF&}facteurs{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}transcription{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:36.99,0:00:38.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines qui se fixent sur
+Dialogue: 0,0:00:38.63,0:00:40.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des séquences d'ADN spécifiques,
+Dialogue: 0,0:00:40.49,0:00:41.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}séquences{\c&HFFFFFF&} {\c&H66D1FF&}cis{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:41.49,0:00:43.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}situées le plus souvent juste
+Dialogue: 0,0:00:43.03,0:00:44.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}devant le premier exon.
+Dialogue: 0,0:00:44.64,0:00:46.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette région du gène s'appelle le
+Dialogue: 0,0:00:46.25,0:00:46.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}promoteur{\c&HFFFFFF&} .
+Dialogue: 0,0:00:46.93,0:00:48.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les facteurs de transcription
+Dialogue: 0,0:00:48.53,0:00:50.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}positionnent l'ARN polymérase et
+Dialogue: 0,0:00:50.45,0:00:51.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimulent son activité.
+Dialogue: 0,0:00:52.28,0:00:53.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chez l'homme, environ deux mille
+Dialogue: 0,0:00:53.93,0:00:55.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteurs de transcription
+Dialogue: 0,0:00:55.22,0:00:56.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents, chacun dirigé vers
+Dialogue: 0,0:00:56.76,0:00:58.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ses séquences cis spécifiques.
+Dialogue: 0,0:00:58.71,0:00:59.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils ont deux domaines :
+Dialogue: 0,0:00:59.95,0:01:01.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un domaine de {\c&H66D1FF&}liaison{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}l'ADN{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:01.78,0:01:03.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui fixe l'ADN, et un domaine
+Dialogue: 0,0:01:03.51,0:01:04.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}trans-activateur{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:04.48,0:01:06.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui stimule la transcription.
+Dialogue: 0,0:01:06.45,0:01:08.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le cours donne des exemples avec
+Dialogue: 0,0:01:08.72,0:01:10.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur séquence cis :
+Dialogue: 0,0:01:10.07,0:01:12.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}AP1, TGAGTCA ; ETS1,
+Dialogue: 0,0:01:12.00,0:01:14.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}CCATGGC ; OCT4, ATTTGCAT ;
+Dialogue: 0,0:01:14.41,0:01:16.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}EGR1, CGCCCCCGC ; E2F1,
+Dialogue: 0,0:01:16.62,0:01:18.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}TTTCC/GCGC ; HES1,
+Dialogue: 0,0:01:18.47,0:01:19.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}CACNAG ; et CREB.
+Dialogue: 0,0:01:20.24,0:01:21.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chaque type cellulaire possède un
+Dialogue: 0,0:01:21.99,0:01:23.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contenu spécifique en facteurs de
+Dialogue: 0,0:01:23.73,0:01:25.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription, qui détermine les
+Dialogue: 0,0:01:25.43,0:01:26.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gènes transcrits.
+Dialogue: 0,0:01:26.46,0:01:27.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois modes de régulation.
+Dialogue: 0,0:01:28.19,0:01:29.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}expression{\c&HFFFFFF&} : le facteur est
+Dialogue: 0,0:01:29.71,0:01:31.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}présent, exprimé, ou non dans la
+Dialogue: 0,0:01:31.34,0:01:31.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellule.
+Dialogue: 0,0:01:32.15,0:01:33.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L' {\c&H66D1FF&}activation{\c&HFFFFFF&} : le facteur est
+Dialogue: 0,0:01:33.79,0:01:35.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toujours présent, mais une
+Dialogue: 0,0:01:35.22,0:01:36.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modification, comme une
+Dialogue: 0,0:01:36.49,0:01:38.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}phosphorylation, ou un ligand,
+Dialogue: 0,0:01:38.14,0:01:39.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}détermine s'il est actif.
+Dialogue: 0,0:01:39.91,0:01:41.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La {\c&H66D1FF&}localisation{\c&HFFFFFF&} : le facteur est
+Dialogue: 0,0:01:41.66,0:01:43.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toujours présent, mais une
+Dialogue: 0,0:01:43.08,0:01:44.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}modification ou un ligand est
+Dialogue: 0,0:01:44.66,0:01:46.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nécessaire pour qu'il soit
+Dialogue: 0,0:01:46.08,0:01:47.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transporté dans le noyau.
+Dialogue: 0,0:01:48.00,0:01:49.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'activité des facteurs de
+Dialogue: 0,0:01:49.44,0:01:51.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription peut être modifiée
+Dialogue: 0,0:01:51.22,0:01:52.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par des signaux extérieurs.
+Dialogue: 0,0:01:52.86,0:01:54.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : la progression du cycle
+Dialogue: 0,0:01:54.75,0:01:56.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire implique à chaque
+Dialogue: 0,0:01:56.36,0:01:58.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}étape l'activation de facteurs
+Dialogue: 0,0:01:58.08,0:02:00.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spécifiques, notamment E2F pour
+Dialogue: 0,0:02:00.15,0:02:01.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la transition G1/S.
+Dialogue: 0,0:02:01.92,0:02:03.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Même si l'ARN d'un gène est
+Dialogue: 0,0:02:03.53,0:02:05.14,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcrit, la production de la
+Dialogue: 0,0:02:05.14,0:02:06.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine peut être régulée à
+Dialogue: 0,0:02:06.65,0:02:07.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trois niveaux.
+Dialogue: 0,0:02:07.80,0:02:09.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'épissage : son taux peut être
+Dialogue: 0,0:02:09.55,0:02:11.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}régulé, ce qui contrôle la
+Dialogue: 0,0:02:11.02,0:02:12.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}quantité d'ARN messager.
+Dialogue: 0,0:02:12.68,0:02:13.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La synthèse protéique :
+Dialogue: 0,0:02:13.93,0:02:15.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des protéines ou des micro-ARN
+Dialogue: 0,0:02:15.56,0:02:17.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}régulateurs se lient à l'ARN
+Dialogue: 0,0:02:17.25,0:02:19.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager et contrôlent le taux de
+Dialogue: 0,0:02:19.05,0:02:19.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}traduction.
+Dialogue: 0,0:02:19.79,0:02:20.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la dégradation :
+Dialogue: 0,0:02:20.79,0:02:21.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une fois produites,
+Dialogue: 0,0:02:21.79,0:02:23.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les protéines peuvent être
+Dialogue: 0,0:02:23.16,0:02:24.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}marquées pour être détruites.
+Dialogue: 0,0:02:25.24,0:02:26.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux rôles : contrôler le niveau
+Dialogue: 0,0:02:26.91,0:02:28.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de certaines protéines,
+Dialogue: 0,0:02:28.12,0:02:29.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les régulatrices du cycle
+Dialogue: 0,0:02:29.74,0:02:31.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire ; et éliminer les
+Dialogue: 0,0:02:31.20,0:02:32.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines mal repliées ou non
+Dialogue: 0,0:02:32.72,0:02:33.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fonctionnelles.
+Dialogue: 0,0:02:33.90,0:02:35.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le mécanisme : la protéine à
+Dialogue: 0,0:02:35.43,0:02:36.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dégrader est marquée par des
+Dialogue: 0,0:02:36.96,0:02:38.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}molécules d' {\c&H66D1FF&}ubiquitine{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:38.33,0:02:40.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une protéine de 76 acides aminés.
+Dialogue: 0,0:02:40.93,0:02:42.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle entre dans le {\c&H66D1FF&}protéasome{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:42.66,0:02:44.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un complexe tubulaire à activité
+Dialogue: 0,0:02:44.45,0:02:46.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéolytique, et en ressort en
+Dialogue: 0,0:02:46.18,0:02:47.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fragments peptidiques,
+Dialogue: 0,0:02:47.41,0:02:49.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ensuite dégradables en acides aminés.
+Dialogue: 0,0:02:49.88,0:02:51.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéasomes sont très
+Dialogue: 0,0:02:51.17,0:02:52.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}abondants, dans le noyau et dans
+Dialogue: 0,0:02:52.82,0:02:53.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le cytosol.
+Dialogue: 0,0:02:53.95,0:02:54.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:55.19,0:02:56.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les séquences cis sont des
+Dialogue: 0,0:02:56.41,0:02:57.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines” : faux,
+Dialogue: 0,0:02:57.20,0:02:58.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce sont des séquences d'ADN.
+Dialogue: 0,0:02:58.80,0:03:00.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les facteurs de transcription
+Dialogue: 0,0:03:00.20,0:03:01.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont les protéines.
+Dialogue: 0,0:03:01.52,0:03:02.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“L'ubiquitine détruit les
+Dialogue: 0,0:03:02.70,0:03:04.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéines” : non, elle les marque.
+Dialogue: 0,0:03:04.47,0:03:05.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est le protéasome qui les
+Dialogue: 0,0:03:05.83,0:03:06.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dégrade.
+Dialogue: 0,0:03:06.64,0:03:08.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les protéasomes sont uniquement
+Dialogue: 0,0:03:08.20,0:03:09.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans le cytosol” :
+Dialogue: 0,0:03:09.05,0:03:10.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, aussi dans le noyau.
+Dialogue: 0,0:03:10.92,0:03:12.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : laquelle est exacte ?
+Dialogue: 0,0:03:16.70,0:03:17.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Réponse B.
+Dialogue: 0,0:03:17.65,0:03:19.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il y a environ deux mille
+Dialogue: 0,0:03:19.15,0:03:20.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteurs, le promoteur est le
+Dialogue: 0,0:03:20.88,0:03:22.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus souvent juste devant le
+Dialogue: 0,0:03:22.55,0:03:24.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}premier exon, et E2F intervient à
+Dialogue: 0,0:03:24.82,0:03:26.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la transition G1/S.
+Dialogue: 0,0:03:26.63,0:03:27.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:27.66,0:03:29.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les procaryotes, les virus,
+Dialogue: 0,0:03:29.20,0:03:32.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une surprise : seulement 1,5 %
+Dialogue: 0,0:03:32.24,0:03:34.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de ton génome code des protéines.

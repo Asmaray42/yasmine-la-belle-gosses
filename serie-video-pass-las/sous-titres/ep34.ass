@@ -1,0 +1,161 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Seulement 1,5 % de ton génome est
+Dialogue: 0,0:00:02.99,0:00:04.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcrit et code des protéines.
+Dialogue: 0,0:00:04.75,0:00:06.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et une plante japonaise a un
+Dialogue: 0,0:00:06.17,0:00:07.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génome presque cinquante fois
+Dialogue: 0,0:00:07.65,0:00:08.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus grand que le tien.
+Dialogue: 0,0:00:09.22,0:00:10.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les procaryotes,
+Dialogue: 0,0:00:10.79,0:00:12.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les virus, et le génome.
+Dialogue: 0,0:00:12.56,0:00:14.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le code génétique est le même :
+Dialogue: 0,0:00:14.20,0:00:15.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il est universel.
+Dialogue: 0,0:00:15.24,0:00:16.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les mécanismes de transcription
+Dialogue: 0,0:00:16.89,0:00:18.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et de traduction sont presque
+Dialogue: 0,0:00:18.43,0:00:20.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}identiques, sauf sur quatre points.
+Dialogue: 0,0:00:20.70,0:00:22.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pas de maturation de l'ARN
+Dialogue: 0,0:00:22.21,0:00:23.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}messager chez les procaryotes,
+Dialogue: 0,0:00:23.77,0:00:24.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}car pas d'intron.
+Dialogue: 0,0:00:25.06,0:00:26.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Transcription et traduction dans
+Dialogue: 0,0:00:26.83,0:00:27.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le même compartiment,
+Dialogue: 0,0:00:27.99,0:00:29.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sans noyau, et quasi simultanées
+Dialogue: 0,0:00:29.76,0:00:31.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: les ribosomes se fixent sur
+Dialogue: 0,0:00:31.37,0:00:32.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ARN messager en cours de
+Dialogue: 0,0:00:32.97,0:00:33.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription.
+Dialogue: 0,0:00:34.15,0:00:35.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des ARN messagers
+Dialogue: 0,0:00:35.23,0:00:36.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}polycistroniques{\c&HFFFFFF&} :
+Dialogue: 0,0:00:36.25,0:00:38.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils codent plusieurs protéines,
+Dialogue: 0,0:00:38.01,0:00:39.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec plusieurs cadres de lecture
+Dialogue: 0,0:00:39.83,0:00:40.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à la suite.
+Dialogue: 0,0:00:40.86,0:00:42.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et des acteurs semblables mais
+Dialogue: 0,0:00:42.32,0:00:43.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pas identiques : les ribosomes
+Dialogue: 0,0:00:43.79,0:00:44.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sont plus petits.
+Dialogue: 0,0:00:44.76,0:00:46.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ces différences sont à la base de
+Dialogue: 0,0:00:46.49,0:00:47.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}certains antibiotiques qui
+Dialogue: 0,0:00:47.85,0:00:49.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}inhibent les ribosomes
+Dialogue: 0,0:00:49.00,0:00:50.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bactériens, comme les
+Dialogue: 0,0:00:50.10,0:00:50.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}tétracyclines.
+Dialogue: 0,0:00:51.40,0:00:52.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les virus sont de très petite
+Dialogue: 0,0:00:52.94,0:00:55.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}taille, moins de 0,25 micromètre.
+Dialogue: 0,0:00:55.86,0:00:57.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce ne sont {\c&H66D1FF&}pas{\c&HFFFFFF&} des organismes
+Dialogue: 0,0:00:57.39,0:00:59.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vivants : ils sont incapables de
+Dialogue: 0,0:00:59.09,0:01:00.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se reproduire de façon autonome.
+Dialogue: 0,0:01:01.18,0:01:02.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont des parasites cellulaires
+Dialogue: 0,0:01:02.95,0:01:04.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}: ils infectent des cellules
+Dialogue: 0,0:01:04.44,0:01:05.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cibles spécifiques,
+Dialogue: 0,0:01:05.46,0:01:06.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}animales, végétales ou
+Dialogue: 0,0:01:06.63,0:01:08.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bactériennes, et utilisent les
+Dialogue: 0,0:01:08.24,0:01:09.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}machineries de réplication,
+Dialogue: 0,0:01:09.68,0:01:11.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de transcription et de traduction
+Dialogue: 0,0:01:11.45,0:01:12.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de la cellule infectée.
+Dialogue: 0,0:01:13.24,0:01:14.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les virus contiennent un petit
+Dialogue: 0,0:01:14.92,0:01:15.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}matériel génétique,
+Dialogue: 0,0:01:15.99,0:01:17.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous forme d'ADN ou d'ARN,
+Dialogue: 0,0:01:17.79,0:01:19.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui code des protéines de la
+Dialogue: 0,0:01:19.37,0:01:21.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}capside{\c&HFFFFFF&} , la capsule qui protège
+Dialogue: 0,0:01:21.17,0:01:23.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ce matériel, et des protéines qui
+Dialogue: 0,0:01:23.03,0:01:24.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}interfèrent avec les fonctions de
+Dialogue: 0,0:01:24.88,0:01:26.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la cellule infectée.
+Dialogue: 0,0:01:26.41,0:01:27.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Certains sont enveloppés d'une
+Dialogue: 0,0:01:27.93,0:01:28.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membrane lipidique,
+Dialogue: 0,0:01:28.89,0:01:30.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}volée à la cellule dans laquelle
+Dialogue: 0,0:01:30.51,0:01:31.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils se sont reproduits.
+Dialogue: 0,0:01:32.23,0:01:33.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour se reproduire,
+Dialogue: 0,0:01:33.32,0:01:35.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le virus utilise les machineries
+Dialogue: 0,0:01:35.15,0:01:36.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de réplication, de transcription
+Dialogue: 0,0:01:36.98,0:01:38.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et de traduction de la cellule
+Dialogue: 0,0:01:38.70,0:01:39.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}infectée.
+Dialogue: 0,0:01:39.35,0:01:40.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les nouvelles particules virales
+Dialogue: 0,0:01:40.97,0:01:42.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vont infecter d'autres cellules :
+Dialogue: 0,0:01:42.65,0:01:43.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}c'est l'amplification de
+Dialogue: 0,0:01:43.87,0:01:44.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'infection.
+Dialogue: 0,0:01:45.03,0:01:46.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le génome, c'est l'ensemble du
+Dialogue: 0,0:01:46.75,0:01:48.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}matériel génétique d'un
+Dialogue: 0,0:01:48.06,0:01:48.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organisme.
+Dialogue: 0,0:01:48.77,0:01:50.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pour l'homme : environ 3,2
+Dialogue: 0,0:01:50.77,0:01:52.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}milliards de paires de bases,
+Dialogue: 0,0:01:52.19,0:01:54.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réparties sur 23 chromosomes.
+Dialogue: 0,0:01:54.44,0:01:55.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois catégories.
+Dialogue: 0,0:01:55.53,0:01:57.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN transcrit et codant,
+Dialogue: 0,0:01:57.10,0:01:58.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les exons, parties traduites :
+Dialogue: 0,0:01:58.73,0:02:01.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}seulement {\c&H66D1FF&}1,5{\c&HFFFFFF&} {\c&H66D1FF&}%{\c&HFFFFFF&} du génome.
+Dialogue: 0,0:02:01.62,0:02:03.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN transcrit non codant,
+Dialogue: 0,0:02:03.34,0:02:06.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}20{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}25{\c&HFFFFFF&} {\c&H66D1FF&}%{\c&HFFFFFF&} : les régions 5 prime
+Dialogue: 0,0:02:06.38,0:02:08.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et 3 prime non traduites des
+Dialogue: 0,0:02:08.21,0:02:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}exons, les introns,
+Dialogue: 0,0:02:09.30,0:02:10.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les longs ARN non codants,
+Dialogue: 0,0:02:10.90,0:02:14.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les micro-ARN, les ARNt et ARNr.
+Dialogue: 0,0:02:14.56,0:02:15.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'ADN non transcrit,
+Dialogue: 0,0:02:15.83,0:02:19.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}70{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}75{\c&HFFFFFF&} {\c&H66D1FF&}%{\c&HFFFFFF&} : l'ADN de structure,
+Dialogue: 0,0:02:19.41,0:02:20.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comme les centromères,
+Dialogue: 0,0:02:20.62,0:02:22.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les régions intergéniques,
+Dialogue: 0,0:02:22.05,0:02:23.81,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les promoteurs, les pseudogènes,
+Dialogue: 0,0:02:23.81,0:02:25.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et les séquences répétées
+Dialogue: 0,0:02:25.19,0:02:26.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“parasites”, héritage
+Dialogue: 0,0:02:26.23,0:02:27.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'intégrations virales.
+Dialogue: 0,0:02:28.06,0:02:29.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les génomes eucaryotes sont
+Dialogue: 0,0:02:29.43,0:02:30.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}généralement plus grands,
+Dialogue: 0,0:02:30.70,0:02:31.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec plus de gènes,
+Dialogue: 0,0:02:31.67,0:02:32.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}que ceux des procaryotes.
+Dialogue: 0,0:02:33.08,0:02:34.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mais la taille du génome et le
+Dialogue: 0,0:02:34.62,0:02:36.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nombre de gènes ne sont pas
+Dialogue: 0,0:02:36.00,0:02:37.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}toujours liés à la complexité :
+Dialogue: 0,0:02:37.59,0:02:39.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'homme a moins de gènes que la
+Dialogue: 0,0:02:39.18,0:02:39.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plante de riz.
+Dialogue: 0,0:02:40.29,0:02:41.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Comparez : Homo sapiens,
+Dialogue: 0,0:02:41.60,0:02:45.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}3,2 gigabases, avec 99 %
+Dialogue: 0,0:02:45.18,0:02:46.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'identité avec le génome du
+Dialogue: 0,0:02:46.70,0:02:47.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chimpanzé.
+Dialogue: 0,0:02:47.38,0:02:48.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Protopterus aethiopicus,
+Dialogue: 0,0:02:48.69,0:02:50.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un poisson, 130 gigabases.
+Dialogue: 0,0:02:50.67,0:02:51.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et Paris japonica,
+Dialogue: 0,0:02:51.65,0:02:53.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}une plante, 150 gigabases.
+Dialogue: 0,0:02:54.21,0:02:55.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le camembert du cours répartit
+Dialogue: 0,0:02:55.69,0:02:57.21,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les gènes humains par fonction.
+Dialogue: 0,0:02:57.35,0:02:59.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les non classés : 23,6 %.
+Dialogue: 0,0:02:59.98,0:03:01.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les facteurs de transcription,
+Dialogue: 0,0:03:01.50,0:03:03.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encadrés : 2067 gènes,
+Dialogue: 0,0:03:03.64,0:03:04.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}12 %.
+Dialogue: 0,0:03:04.60,0:03:05.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les transporteurs,
+Dialogue: 0,0:03:05.53,0:03:07.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encadrés : 6,4 %.
+Dialogue: 0,0:03:07.74,0:03:09.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les protéines du cytosquelette,
+Dialogue: 0,0:03:09.30,0:03:11.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}encadrées : 2,6 %.
+Dialogue: 0,0:03:11.41,0:03:12.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et aussi les transférases,
+Dialogue: 0,0:03:12.78,0:03:15.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}8,8 %, la liaison aux acides
+Dialogue: 0,0:03:15.43,0:03:17.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}nucléiques, 8,5 %,
+Dialogue: 0,0:03:17.54,0:03:19.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les récepteurs, 6,3 %.
+Dialogue: 0,0:03:20.43,0:03:21.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:03:21.67,0:03:23.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les virus sont des organismes
+Dialogue: 0,0:03:23.20,0:03:24.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}vivants” : faux selon le cours,
+Dialogue: 0,0:03:24.79,0:03:26.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ils ne se reproduisent pas de
+Dialogue: 0,0:03:26.32,0:03:27.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}façon autonome.
+Dialogue: 0,0:03:27.51,0:03:29.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les régions 5 prime et 3 prime
+Dialogue: 0,0:03:29.37,0:03:31.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}non traduites sont de l'ADN non
+Dialogue: 0,0:03:31.08,0:03:31.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcrit” : faux,
+Dialogue: 0,0:03:31.93,0:03:33.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elles sont transcrites,
+Dialogue: 0,0:03:33.09,0:03:33.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mais non codantes.
+Dialogue: 0,0:03:34.39,0:03:35.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Plus de gènes, plus d'organisme
+Dialogue: 0,0:03:35.95,0:03:37.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}complexe” : faux, le riz a plus
+Dialogue: 0,0:03:37.46,0:03:38.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de gènes que l'homme.
+Dialogue: 0,0:03:39.07,0:03:40.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quelle part du génome
+Dialogue: 0,0:03:40.41,0:03:42.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}humain est transcrite et codante ?
+Dialogue: 0,0:03:46.44,0:03:47.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}1,5 %.
+Dialogue: 0,0:03:47.89,0:03:50.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}20 à 25 %, c'est le transcrit non
+Dialogue: 0,0:03:50.53,0:03:53.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codant ; 70 à 75 %,
+Dialogue: 0,0:03:53.07,0:03:53.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le non transcrit.
+Dialogue: 0,0:03:54.49,0:03:55.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:55.38,0:03:56.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pourquoi nous sommes tous
+Dialogue: 0,0:03:56.61,0:03:58.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différents avec le même génome.
+Dialogue: 0,0:03:58.27,0:04:00.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un nucléotide sur 1250,
+Dialogue: 0,0:04:00.61,0:04:02.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les mutations, et la thérapie
+Dialogue: 0,0:04:02.15,0:04:02.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}génique.

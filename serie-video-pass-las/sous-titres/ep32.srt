@@ -1,0 +1,371 @@
+1
+00:00:00,300 --> 00:00:01,864
+Qu'elle soit destinée à être
+
+2
+00:00:01,864 --> 00:00:03,261
+sécrétée, au noyau ou aux
+
+3
+00:00:03,261 --> 00:00:04,658
+lysosomes, toute protéine
+
+4
+00:00:04,658 --> 00:00:06,334
+commence sa traduction au même
+
+5
+00:00:06,334 --> 00:00:07,508
+endroit : le cytosol.
+
+6
+00:00:07,648 --> 00:00:09,219
+Puis un petit signal change tout.
+
+7
+00:00:09,619 --> 00:00:11,541
+Au programme : le peptide signal,
+
+8
+00:00:11,541 --> 00:00:13,522
+la SRP, et le tri des protéines.
+
+9
+00:00:14,082 --> 00:00:16,062
+Le parcours d'une protéine du RER.
+
+10
+00:00:16,462 --> 00:00:18,356
+La traduction de l'ARN messager
+
+11
+00:00:18,356 --> 00:00:19,971
+venu du noyau débute toujours
+
+12
+00:00:19,971 --> 00:00:20,862
+dans le cytosol.
+
+13
+00:00:21,262 --> 00:00:23,120
+Si le polypeptide naissant a un
+
+14
+00:00:23,120 --> 00:00:24,917
+peptide signal , environ vingt
+
+15
+00:00:24,917 --> 00:00:26,534
+acides aminés hydrophobes à
+
+16
+00:00:26,534 --> 00:00:27,972
+l'extrémité N-terminale,
+
+17
+00:00:27,972 --> 00:00:29,590
+celui-ci est reconnu par la
+
+18
+00:00:29,590 --> 00:00:31,387
+particule de reconnaissance du
+
+19
+00:00:31,387 --> 00:00:32,465
+signal , la SRP.
+
+20
+00:00:32,865 --> 00:00:34,886
+La liaison de la SRP interrompt
+
+21
+00:00:34,886 --> 00:00:36,906
+l'élongation, et fixe le ribosome
+
+22
+00:00:36,906 --> 00:00:38,436
+sur la membrane du RER.
+
+23
+00:00:38,576 --> 00:00:40,577
+La SRP dirige l'ensemble vers un
+
+24
+00:00:40,577 --> 00:00:42,166
+complexe de protéines de la
+
+25
+00:00:42,166 --> 00:00:44,109
+membrane, qui comprend un canal à
+
+26
+00:00:44,109 --> 00:00:44,697
+protéines.
+
+27
+00:00:45,097 --> 00:00:46,329
+La SRP se détache,
+
+28
+00:00:46,329 --> 00:00:48,177
+et la synthèse reprend vers la
+
+29
+00:00:48,177 --> 00:00:49,225
+lumière du RER.
+
+30
+00:00:49,365 --> 00:00:51,275
+Le peptide signal reste attaché à
+
+31
+00:00:51,275 --> 00:00:52,896
+la membrane, puis une enzyme
+
+32
+00:00:52,896 --> 00:00:54,343
+coupe la séquence signal.
+
+33
+00:00:54,743 --> 00:00:56,610
+Le polypeptide achevé se détache
+
+34
+00:00:56,610 --> 00:00:58,009
+du ribosome et adopte sa
+
+35
+00:00:58,009 --> 00:00:59,176
+structure tertiaire.
+
+36
+00:00:59,316 --> 00:01:00,869
+Les polypeptides sans peptide
+
+37
+00:01:00,869 --> 00:01:02,423
+signal, eux, poursuivent leur
+
+38
+00:01:02,423 --> 00:01:03,762
+synthèse dans le cytosol.
+
+39
+00:01:04,322 --> 00:01:05,985
+Les protéines doivent être là où
+
+40
+00:01:05,985 --> 00:01:07,232
+elles sont nécessaires :
+
+41
+00:01:07,232 --> 00:01:09,051
+d'où un système complexe de trafic.
+
+42
+00:01:09,191 --> 00:01:10,378
+Le lieu de synthèse,
+
+43
+00:01:10,378 --> 00:01:12,277
+cytosol ou RER, est un premier
+
+44
+00:01:12,277 --> 00:01:12,929
+aiguillage.
+
+45
+00:01:13,069 --> 00:01:14,379
+Des séquences d'adressage
+
+46
+00:01:14,379 --> 00:01:15,952
+dirigent ensuite les protéines
+
+47
+00:01:15,952 --> 00:01:17,105
+vers leur destination.
+
+48
+00:01:17,245 --> 00:01:19,031
+À partir du RER, c'est dans le
+
+49
+00:01:19,031 --> 00:01:20,427
+Golgi que se fait le tri.
+
+50
+00:01:20,827 --> 00:01:21,847
+Quelques protéines
+
+51
+00:01:21,847 --> 00:01:23,717
+mitochondriales sont synthétisées
+
+52
+00:01:23,717 --> 00:01:25,474
+sur place, mais la plupart sont
+
+53
+00:01:25,474 --> 00:01:27,061
+importées depuis le cytosol.
+
+54
+00:01:27,621 --> 00:01:28,657
+Le tableau du cours.
+
+55
+00:01:29,057 --> 00:01:30,609
+Synthèse dans les mitochondries :
+
+56
+00:01:30,609 --> 00:01:32,067
+destination, les mitochondries.
+
+57
+00:01:32,467 --> 00:01:33,969
+Synthèse dans le cytosol :
+
+58
+00:01:33,969 --> 00:01:35,817
+destinations, les mitochondries,
+
+59
+00:01:35,817 --> 00:01:37,203
+le cytosol, et le noyau,
+
+60
+00:01:37,203 --> 00:01:38,301
+sauf son enveloppe.
+
+61
+00:01:38,701 --> 00:01:39,802
+Si peptide signal,
+
+62
+00:01:39,802 --> 00:01:41,210
+synthèse dans le RER,
+
+63
+00:01:41,210 --> 00:01:42,373
+tri dans le Golgi :
+
+64
+00:01:42,373 --> 00:01:44,025
+destinations, les protéines
+
+65
+00:01:44,025 --> 00:01:45,739
+membranaires, les lysosomes,
+
+66
+00:01:45,739 --> 00:01:47,207
+les protéines sécrétées,
+
+67
+00:01:47,207 --> 00:01:47,942
+et le REL.
+
+68
+00:01:48,502 --> 00:01:49,338
+Trois pièges.
+
+69
+00:01:49,738 --> 00:01:51,060
+“Les protéines sécrétées
+
+70
+00:01:51,060 --> 00:01:52,842
+commencent leur traduction dans
+
+71
+00:01:52,842 --> 00:01:54,740
+le RER” : faux, toujours dans le
+
+72
+00:01:54,740 --> 00:01:56,407
+cytosol, puis le ribosome est
+
+73
+00:01:56,407 --> 00:01:57,269
+amené au RER.
+
+74
+00:01:57,669 --> 00:01:58,865
+“Le peptide signal est
+
+75
+00:01:58,865 --> 00:01:59,889
+C-terminal” : faux,
+
+76
+00:01:59,889 --> 00:02:00,914
+il est N-terminal.
+
+77
+00:02:01,314 --> 00:02:02,858
+“Les protéines du noyau passent
+
+78
+00:02:02,858 --> 00:02:03,888
+par le Golgi” : faux,
+
+79
+00:02:03,888 --> 00:02:05,483
+elles sont synthétisées dans le
+
+80
+00:02:05,483 --> 00:02:06,667
+cytosol, sauf celles de
+
+81
+00:02:06,667 --> 00:02:07,285
+l'enveloppe.
+
+82
+00:02:07,845 --> 00:02:09,690
+Quiz : quel est le rôle de la SRP ?
+
+83
+00:02:14,090 --> 00:02:16,069
+Elle reconnaît le peptide signal,
+
+84
+00:02:16,069 --> 00:02:17,928
+stoppe l'élongation et amène le
+
+85
+00:02:17,928 --> 00:02:19,007
+ribosome au RER.
+
+86
+00:02:19,147 --> 00:02:20,486
+C'est une enzyme qui coupe
+
+87
+00:02:20,486 --> 00:02:21,875
+ensuite la séquence signal.
+
+88
+00:02:22,435 --> 00:02:23,430
+Prochain épisode :
+
+89
+00:02:23,430 --> 00:02:25,088
+comment allumer ou éteindre un
+
+90
+00:02:25,088 --> 00:02:26,690
+gène, avec environ deux mille
+
+91
+00:02:26,690 --> 00:02:28,127
+facteurs de transcription,
+
+92
+00:02:28,127 --> 00:02:29,895
+et comment détruire une protéine
+
+93
+00:02:29,895 --> 00:02:30,890
+avec l'ubiquitine.

@@ -1,0 +1,591 @@
+1
+00:00:00,300 --> 00:00:02,988
+Seulement 1,5 % de ton génome est
+
+2
+00:00:02,988 --> 00:00:04,612
+transcrit et code des protéines.
+
+3
+00:00:04,752 --> 00:00:06,174
+Et une plante japonaise a un
+
+4
+00:00:06,174 --> 00:00:07,648
+génome presque cinquante fois
+
+5
+00:00:07,648 --> 00:00:08,817
+plus grand que le tien.
+
+6
+00:00:09,217 --> 00:00:10,787
+Au programme : les procaryotes,
+
+7
+00:00:10,787 --> 00:00:12,002
+les virus, et le génome.
+
+8
+00:00:12,562 --> 00:00:14,202
+Le code génétique est le même :
+
+9
+00:00:14,202 --> 00:00:15,102
+il est universel.
+
+10
+00:00:15,242 --> 00:00:16,891
+Les mécanismes de transcription
+
+11
+00:00:16,891 --> 00:00:18,434
+et de traduction sont presque
+
+12
+00:00:18,434 --> 00:00:20,295
+identiques, sauf sur quatre points.
+
+13
+00:00:20,696 --> 00:00:22,207
+Pas de maturation de l'ARN
+
+14
+00:00:22,207 --> 00:00:23,770
+messager chez les procaryotes,
+
+15
+00:00:23,770 --> 00:00:24,655
+car pas d'intron.
+
+16
+00:00:25,055 --> 00:00:26,827
+Transcription et traduction dans
+
+17
+00:00:26,827 --> 00:00:27,990
+le même compartiment,
+
+18
+00:00:27,990 --> 00:00:29,762
+sans noyau, et quasi simultanées
+
+19
+00:00:29,762 --> 00:00:31,368
+: les ribosomes se fixent sur
+
+20
+00:00:31,368 --> 00:00:32,973
+l'ARN messager en cours de
+
+21
+00:00:32,973 --> 00:00:33,749
+transcription.
+
+22
+00:00:34,149 --> 00:00:35,228
+Des ARN messagers
+
+23
+00:00:35,228 --> 00:00:36,251
+polycistroniques :
+
+24
+00:00:36,251 --> 00:00:38,012
+ils codent plusieurs protéines,
+
+25
+00:00:38,012 --> 00:00:39,830
+avec plusieurs cadres de lecture
+
+26
+00:00:39,830 --> 00:00:40,455
+à la suite.
+
+27
+00:00:40,855 --> 00:00:42,321
+Et des acteurs semblables mais
+
+28
+00:00:42,321 --> 00:00:43,788
+pas identiques : les ribosomes
+
+29
+00:00:43,788 --> 00:00:44,618
+sont plus petits.
+
+30
+00:00:44,759 --> 00:00:46,487
+Ces différences sont à la base de
+
+31
+00:00:46,487 --> 00:00:47,850
+certains antibiotiques qui
+
+32
+00:00:47,850 --> 00:00:49,002
+inhibent les ribosomes
+
+33
+00:00:49,002 --> 00:00:50,103
+bactériens, comme les
+
+34
+00:00:50,103 --> 00:00:50,836
+tétracyclines.
+
+35
+00:00:51,396 --> 00:00:52,943
+Les virus sont de très petite
+
+36
+00:00:52,943 --> 00:00:55,718
+taille, moins de 0,25 micromètre.
+
+37
+00:00:55,858 --> 00:00:57,393
+Ce ne sont pas des organismes
+
+38
+00:00:57,393 --> 00:00:59,087
+vivants : ils sont incapables de
+
+39
+00:00:59,087 --> 00:01:00,782
+se reproduire de façon autonome.
+
+40
+00:01:01,182 --> 00:01:02,946
+Ce sont des parasites cellulaires
+
+41
+00:01:02,946 --> 00:01:04,442
+: ils infectent des cellules
+
+42
+00:01:04,442 --> 00:01:05,458
+cibles spécifiques,
+
+43
+00:01:05,458 --> 00:01:06,634
+animales, végétales ou
+
+44
+00:01:06,634 --> 00:01:08,238
+bactériennes, et utilisent les
+
+45
+00:01:08,238 --> 00:01:09,681
+machineries de réplication,
+
+46
+00:01:09,681 --> 00:01:11,445
+de transcription et de traduction
+
+47
+00:01:11,445 --> 00:01:12,675
+de la cellule infectée.
+
+48
+00:01:13,235 --> 00:01:14,923
+Les virus contiennent un petit
+
+49
+00:01:14,923 --> 00:01:15,992
+matériel génétique,
+
+50
+00:01:15,992 --> 00:01:17,793
+sous forme d'ADN ou d'ARN,
+
+51
+00:01:17,793 --> 00:01:19,369
+qui code des protéines de la
+
+52
+00:01:19,369 --> 00:01:21,170
+capside , la capsule qui protège
+
+53
+00:01:21,170 --> 00:01:23,027
+ce matériel, et des protéines qui
+
+54
+00:01:23,027 --> 00:01:24,884
+interfèrent avec les fonctions de
+
+55
+00:01:24,884 --> 00:01:26,010
+la cellule infectée.
+
+56
+00:01:26,410 --> 00:01:27,927
+Certains sont enveloppés d'une
+
+57
+00:01:27,927 --> 00:01:28,888
+membrane lipidique,
+
+58
+00:01:28,888 --> 00:01:30,507
+volée à la cellule dans laquelle
+
+59
+00:01:30,507 --> 00:01:31,670
+ils se sont reproduits.
+
+60
+00:01:32,230 --> 00:01:33,317
+Pour se reproduire,
+
+61
+00:01:33,317 --> 00:01:35,148
+le virus utilise les machineries
+
+62
+00:01:35,148 --> 00:01:36,979
+de réplication, de transcription
+
+63
+00:01:36,979 --> 00:01:38,696
+et de traduction de la cellule
+
+64
+00:01:38,696 --> 00:01:39,211
+infectée.
+
+65
+00:01:39,351 --> 00:01:40,974
+Les nouvelles particules virales
+
+66
+00:01:40,974 --> 00:01:42,648
+vont infecter d'autres cellules :
+
+67
+00:01:42,648 --> 00:01:43,866
+c'est l'amplification de
+
+68
+00:01:43,866 --> 00:01:44,474
+l'infection.
+
+69
+00:01:45,034 --> 00:01:46,748
+Le génome, c'est l'ensemble du
+
+70
+00:01:46,748 --> 00:01:48,062
+matériel génétique d'un
+
+71
+00:01:48,062 --> 00:01:48,634
+organisme.
+
+72
+00:01:48,774 --> 00:01:50,774
+Pour l'homme : environ 3,2
+
+73
+00:01:50,774 --> 00:01:52,189
+milliards de paires de bases,
+
+74
+00:01:52,189 --> 00:01:54,043
+réparties sur 23 chromosomes.
+
+75
+00:01:54,443 --> 00:01:55,385
+Trois catégories.
+
+76
+00:01:55,525 --> 00:01:57,099
+L'ADN transcrit et codant,
+
+77
+00:01:57,099 --> 00:01:58,726
+les exons, parties traduites :
+
+78
+00:01:58,726 --> 00:02:01,222
+seulement 1,5 % du génome.
+
+79
+00:02:01,622 --> 00:02:03,340
+L'ADN transcrit non codant,
+
+80
+00:02:03,340 --> 00:02:06,376
+20 à 25 % : les régions 5 prime
+
+81
+00:02:06,376 --> 00:02:08,208
+et 3 prime non traduites des
+
+82
+00:02:08,208 --> 00:02:09,296
+exons, les introns,
+
+83
+00:02:09,296 --> 00:02:10,900
+les longs ARN non codants,
+
+84
+00:02:10,900 --> 00:02:14,164
+les micro-ARN, les ARNt et ARNr.
+
+85
+00:02:14,564 --> 00:02:15,830
+L'ADN non transcrit,
+
+86
+00:02:15,830 --> 00:02:19,408
+70 à 75 % : l'ADN de structure,
+
+87
+00:02:19,408 --> 00:02:20,619
+comme les centromères,
+
+88
+00:02:20,619 --> 00:02:22,050
+les régions intergéniques,
+
+89
+00:02:22,050 --> 00:02:23,812
+les promoteurs, les pseudogènes,
+
+90
+00:02:23,812 --> 00:02:25,188
+et les séquences répétées
+
+91
+00:02:25,188 --> 00:02:26,234
+“parasites”, héritage
+
+92
+00:02:26,234 --> 00:02:27,500
+d'intégrations virales.
+
+93
+00:02:28,060 --> 00:02:29,432
+Les génomes eucaryotes sont
+
+94
+00:02:29,432 --> 00:02:30,703
+généralement plus grands,
+
+95
+00:02:30,703 --> 00:02:31,669
+avec plus de gènes,
+
+96
+00:02:31,669 --> 00:02:32,939
+que ceux des procaryotes.
+
+97
+00:02:33,079 --> 00:02:34,616
+Mais la taille du génome et le
+
+98
+00:02:34,616 --> 00:02:35,999
+nombre de gènes ne sont pas
+
+99
+00:02:35,999 --> 00:02:37,587
+toujours liés à la complexité :
+
+100
+00:02:37,587 --> 00:02:39,175
+l'homme a moins de gènes que la
+
+101
+00:02:39,175 --> 00:02:39,892
+plante de riz.
+
+102
+00:02:40,292 --> 00:02:41,596
+Comparez : Homo sapiens,
+
+103
+00:02:41,596 --> 00:02:45,179
+3,2 gigabases, avec 99 %
+
+104
+00:02:45,179 --> 00:02:46,700
+d'identité avec le génome du
+
+105
+00:02:46,700 --> 00:02:47,243
+chimpanzé.
+
+106
+00:02:47,383 --> 00:02:48,685
+Protopterus aethiopicus,
+
+107
+00:02:48,685 --> 00:02:50,530
+un poisson, 130 gigabases.
+
+108
+00:02:50,670 --> 00:02:51,647
+Et Paris japonica,
+
+109
+00:02:51,647 --> 00:02:53,654
+une plante, 150 gigabases.
+
+110
+00:02:54,214 --> 00:02:55,685
+Le camembert du cours répartit
+
+111
+00:02:55,685 --> 00:02:57,205
+les gènes humains par fonction.
+
+112
+00:02:57,345 --> 00:02:59,836
+Les non classés : 23,6 %.
+
+113
+00:02:59,976 --> 00:03:01,504
+Les facteurs de transcription,
+
+114
+00:03:01,504 --> 00:03:03,642
+encadrés : 2067 gènes,
+
+115
+00:03:03,642 --> 00:03:04,457
+12 %.
+
+116
+00:03:04,597 --> 00:03:05,530
+Les transporteurs,
+
+117
+00:03:05,530 --> 00:03:07,603
+encadrés : 6,4 %.
+
+118
+00:03:07,743 --> 00:03:09,303
+Les protéines du cytosquelette,
+
+119
+00:03:09,303 --> 00:03:11,266
+encadrées : 2,6 %.
+
+120
+00:03:11,406 --> 00:03:12,782
+Et aussi les transférases,
+
+121
+00:03:12,782 --> 00:03:15,427
+8,8 %, la liaison aux acides
+
+122
+00:03:15,427 --> 00:03:17,543
+nucléiques, 8,5 %,
+
+123
+00:03:17,543 --> 00:03:19,871
+les récepteurs, 6,3 %.
+
+124
+00:03:20,431 --> 00:03:21,267
+Trois pièges.
+
+125
+00:03:21,667 --> 00:03:23,200
+“Les virus sont des organismes
+
+126
+00:03:23,200 --> 00:03:24,786
+vivants” : faux selon le cours,
+
+127
+00:03:24,786 --> 00:03:26,319
+ils ne se reproduisent pas de
+
+128
+00:03:26,319 --> 00:03:27,112
+façon autonome.
+
+129
+00:03:27,512 --> 00:03:29,370
+“Les régions 5 prime et 3 prime
+
+130
+00:03:29,370 --> 00:03:31,078
+non traduites sont de l'ADN non
+
+131
+00:03:31,078 --> 00:03:31,932
+transcrit” : faux,
+
+132
+00:03:31,932 --> 00:03:33,087
+elles sont transcrites,
+
+133
+00:03:33,087 --> 00:03:33,992
+mais non codantes.
+
+134
+00:03:34,392 --> 00:03:35,950
+“Plus de gènes, plus d'organisme
+
+135
+00:03:35,950 --> 00:03:37,458
+complexe” : faux, le riz a plus
+
+136
+00:03:37,458 --> 00:03:38,514
+de gènes que l'homme.
+
+137
+00:03:39,074 --> 00:03:40,414
+Quiz : quelle part du génome
+
+138
+00:03:40,414 --> 00:03:42,041
+humain est transcrite et codante ?
+
+139
+00:03:46,441 --> 00:03:47,754
+1,5 %.
+
+140
+00:03:47,894 --> 00:03:50,533
+20 à 25 %, c'est le transcrit non
+
+141
+00:03:50,533 --> 00:03:53,071
+codant ; 70 à 75 %,
+
+142
+00:03:53,071 --> 00:03:53,934
+le non transcrit.
+
+143
+00:03:54,494 --> 00:03:55,377
+Prochain épisode :
+
+144
+00:03:55,377 --> 00:03:56,605
+pourquoi nous sommes tous
+
+145
+00:03:56,605 --> 00:03:58,127
+différents avec le même génome.
+
+146
+00:03:58,267 --> 00:04:00,606
+Un nucléotide sur 1250,
+
+147
+00:04:00,606 --> 00:04:02,147
+les mutations, et la thérapie
+
+148
+00:04:02,147 --> 00:04:02,572
+génique.

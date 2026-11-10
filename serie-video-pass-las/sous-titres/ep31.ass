@@ -1,0 +1,105 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Aujourd'hui, on lit un vrai gène
+Dialogue: 0,0:00:01.92,0:00:03.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}humain, celui de l'insuline,
+Dialogue: 0,0:00:03.34,0:00:04.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lettre par lettre.
+Dialogue: 0,0:00:04.39,0:00:06.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les six premières lettres de la
+Dialogue: 0,0:00:06.45,0:00:07.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protéine : M, A, L,
+Dialogue: 0,0:00:07.72,0:00:08.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}W, M, R.
+Dialogue: 0,0:00:08.65,0:00:10.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : la base de données
+Dialogue: 0,0:00:10.45,0:00:12.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ensembl, la structure du gène,
+Dialogue: 0,0:00:12.09,0:00:13.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis la traduction.
+Dialogue: 0,0:00:13.69,0:00:15.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ensembl est un site internet qui
+Dialogue: 0,0:00:15.47,0:00:17.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}contient la séquence ADN de tous
+Dialogue: 0,0:00:17.37,0:00:18.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les gènes humains,
+Dialogue: 0,0:00:18.38,0:00:20.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leur localisation chromosomique,
+Dialogue: 0,0:00:20.17,0:00:21.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et une description de leur
+Dialogue: 0,0:00:21.62,0:00:23.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}structure, exons et introns.
+Dialogue: 0,0:00:23.74,0:00:25.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Voici la séquence ADN du gène de
+Dialogue: 0,0:00:25.80,0:00:26.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'insuline.
+Dialogue: 0,0:00:26.60,0:00:28.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les encadrés sont les exons :
+Dialogue: 0,0:00:28.06,0:00:28.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y en a trois.
+Dialogue: 0,0:00:29.01,0:00:30.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En bleu, la région codante ;
+Dialogue: 0,0:00:30.56,0:00:32.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en orange, les régions 5 prime et
+Dialogue: 0,0:00:32.55,0:00:33.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}3 prime non codantes.
+Dialogue: 0,0:00:34.33,0:00:35.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En gris, les introns :
+Dialogue: 0,0:00:35.36,0:00:36.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il y en a deux.
+Dialogue: 0,0:00:36.20,0:00:37.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}En vert, les séquences d'ADN qui
+Dialogue: 0,0:00:37.87,0:00:39.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}précèdent et suivent le gène.
+Dialogue: 0,0:00:39.64,0:00:41.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les repères : la transcription
+Dialogue: 0,0:00:41.22,0:00:42.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}commence au début de l'exon un ;
+Dialogue: 0,0:00:42.90,0:00:44.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la traduction commence plus loin,
+Dialogue: 0,0:00:44.64,0:00:46.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans l'exon deux, à l'ATG ;
+Dialogue: 0,0:00:46.06,0:00:47.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}elle s'arrête au codon STOP dans
+Dialogue: 0,0:00:47.74,0:00:48.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'exon trois ; et la
+Dialogue: 0,0:00:48.79,0:00:50.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcription s'arrête à la fin
+Dialogue: 0,0:00:50.42,0:00:51.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'exon trois.
+Dialogue: 0,0:00:51.83,0:00:53.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Rappel : le brin plus de l'ADN
+Dialogue: 0,0:00:53.59,0:00:55.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}correspond à la séquence de l'ARN
+Dialogue: 0,0:00:55.52,0:00:57.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}transcrit, avec T à la place de U.
+Dialogue: 0,0:00:57.48,0:00:58.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et c'est la séquence du brin plus
+Dialogue: 0,0:00:58.83,0:00:59.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}que donnent les banques de
+Dialogue: 0,0:00:59.89,0:01:00.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}données.
+Dialogue: 0,0:01:00.36,0:01:01.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On peut donc en déduire
+Dialogue: 0,0:01:01.67,0:01:03.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}directement la séquence du
+Dialogue: 0,0:01:03.16,0:01:03.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}polypeptide.
+Dialogue: 0,0:01:04.24,0:01:05.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans l'exon deux :
+Dialogue: 0,0:01:05.51,0:01:06.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A T G, méthionine ;
+Dialogue: 0,0:01:06.85,0:01:08.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G C C, alanine ; C T G,
+Dialogue: 0,0:01:08.47,0:01:10.59,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}leucine ; T G G, tryptophane ;
+Dialogue: 0,0:01:10.59,0:01:11.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A T G, méthionine ;
+Dialogue: 0,0:01:11.93,0:01:13.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C G C, arginine.
+Dialogue: 0,0:01:13.20,0:01:15.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et ainsi de suite :
+Dialogue: 0,0:01:15.01,0:01:18.15,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}M A L W M R L L P L L A L L A L W
+Dialogue: 0,0:01:18.15,0:01:21.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G P D P A A A F V N Q H L C G S H
+Dialogue: 0,0:01:21.29,0:01:24.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L V E A L Y L V C G E R G F F Y T
+Dialogue: 0,0:01:24.43,0:01:25.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}P K T.
+Dialogue: 0,0:01:25.56,0:01:27.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La fin de l'exon deux donne R R E
+Dialogue: 0,0:01:27.53,0:01:29.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A E D L Q, puis un V dont le
+Dialogue: 0,0:01:29.20,0:01:30.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codon est à cheval :
+Dialogue: 0,0:01:30.39,0:01:32.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}il commence à la fin de l'exon
+Dialogue: 0,0:01:32.18,0:01:34.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux, et se termine au début de
+Dialogue: 0,0:01:34.03,0:01:34.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'exon trois.
+Dialogue: 0,0:01:34.94,0:01:36.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est l'épissage qui recolle ce
+Dialogue: 0,0:01:36.56,0:01:38.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codon et restaure le cadre de
+Dialogue: 0,0:01:38.06,0:01:38.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}lecture.
+Dialogue: 0,0:01:38.88,0:01:40.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Puis l'exon trois :
+Dialogue: 0,0:01:40.42,0:01:43.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G Q V E L G G G P G A G S L Q P L
+Dialogue: 0,0:01:43.10,0:01:45.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}A L E G S L Q K R G I V E Q C C T
+Dialogue: 0,0:01:45.78,0:01:47.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}S I C S L Y Q L E N Y C N,
+Dialogue: 0,0:01:47.88,0:01:49.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et enfin le codon STOP,
+Dialogue: 0,0:01:49.75,0:01:50.24,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}T A G.
+Dialogue: 0,0:01:50.38,0:01:51.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La suite de l'exon trois est la
+Dialogue: 0,0:01:51.98,0:01:53.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}région 3 prime non traduite.
+Dialogue: 0,0:01:54.19,0:01:55.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:01:55.42,0:01:56.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La traduction commence au début
+Dialogue: 0,0:01:56.96,0:01:57.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de l'exon un” : faux.
+Dialogue: 0,0:01:58.09,0:01:59.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'exon un est entièrement non
+Dialogue: 0,0:01:59.61,0:02:01.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codant ; la traduction commence à
+Dialogue: 0,0:02:01.35,0:02:02.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ATG de l'exon deux.
+Dialogue: 0,0:02:02.86,0:02:04.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Tous les exons sont entièrement
+Dialogue: 0,0:02:04.27,0:02:04.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}codants” : faux.
+Dialogue: 0,0:02:05.10,0:02:06.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils contiennent aussi les régions
+Dialogue: 0,0:02:06.79,0:02:08.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}5 prime et 3 prime non traduites.
+Dialogue: 0,0:02:09.25,0:02:10.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les banques donnent le brin
+Dialogue: 0,0:02:10.36,0:02:11.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}matrice” : faux, elles donnent le
+Dialogue: 0,0:02:11.69,0:02:12.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}brin plus.
+Dialogue: 0,0:02:12.66,0:02:14.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : combien d'introns dans le
+Dialogue: 0,0:02:14.10,0:02:15.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}gène de l'insuline ?
+Dialogue: 0,0:02:19.40,0:02:20.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux introns, pour trois exons.
+Dialogue: 0,0:02:21.49,0:02:22.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:02:22.43,0:02:24.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}comment une protéine sait si elle
+Dialogue: 0,0:02:24.16,0:02:25.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}doit aller dans le RER,
+Dialogue: 0,0:02:25.47,0:02:27.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le noyau ou les mitochondries.
+Dialogue: 0,0:02:27.18,0:02:29.22,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le peptide signal et la SRP.
