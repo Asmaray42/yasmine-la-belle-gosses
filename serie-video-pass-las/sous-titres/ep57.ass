@@ -1,0 +1,157 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}On pose une petite mèche imbibée
+Dialogue: 0,0:00:01.96,0:00:03.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'une seule protéine sur le flanc
+Dialogue: 0,0:00:03.67,0:00:04.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un embryon de poulet.
+Dialogue: 0,0:00:05.00,0:00:06.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quarante-huit heures plus tard,
+Dialogue: 0,0:00:06.48,0:00:08.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un membre supplémentaire commence
+Dialogue: 0,0:00:08.06,0:00:08.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}à pousser.
+Dialogue: 0,0:00:08.94,0:00:10.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : le développement
+Dialogue: 0,0:00:10.76,0:00:12.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des membres, le F G F 8,
+Dialogue: 0,0:00:12.35,0:00:14.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la crête ectodermique apicale,
+Dialogue: 0,0:00:14.11,0:00:16.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les gènes HOXD, et le syndrome de
+Dialogue: 0,0:00:16.11,0:00:16.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pfeiffer.
+Dialogue: 0,0:00:17.20,0:00:18.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les membres supérieurs se
+Dialogue: 0,0:00:18.49,0:00:20.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développent entre la {\c&H66D1FF&}quatrième{\c&HFFFFFF&} et
+Dialogue: 0,0:00:20.19,0:00:21.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la {\c&H66D1FF&}huitième{\c&HFFFFFF&} {\c&H66D1FF&}semaine{\c&HFFFFFF&} .
+Dialogue: 0,0:00:21.41,0:00:22.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les membres inférieurs débutent
+Dialogue: 0,0:00:22.97,0:00:23.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un peu plus tard.
+Dialogue: 0,0:00:24.22,0:00:25.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des bourgeons apparaissent sur la
+Dialogue: 0,0:00:25.82,0:00:26.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}paroi latérale du corps.
+Dialogue: 0,0:00:27.12,0:00:28.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ils s'allongent, et à leur
+Dialogue: 0,0:00:28.38,0:00:29.94,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}extrémité apparaît la {\c&H66D1FF&}palette{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.94,0:00:30.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}la{\c&HFFFFFF&} {\c&H66D1FF&}main{\c&HFFFFFF&} .
+Dialogue: 0,0:00:30.52,0:00:32.16,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un repliement au niveau du futur
+Dialogue: 0,0:00:32.16,0:00:33.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}coude délimite l'avant-bras,
+Dialogue: 0,0:00:33.61,0:00:34.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le bras et l'épaule.
+Dialogue: 0,0:00:35.04,0:00:36.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans la palette, des sillons se
+Dialogue: 0,0:00:36.61,0:00:37.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}creusent, zones de mort
+Dialogue: 0,0:00:37.78,0:00:38.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellulaire programmée,
+Dialogue: 0,0:00:38.89,0:00:40.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l' {\c&H66D1FF&}apoptose{\c&HFFFFFF&} , laissant apparaître
+Dialogue: 0,0:00:40.57,0:00:41.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les {\c&H66D1FF&}rayons{\c&HFFFFFF&} {\c&H66D1FF&}digitaux{\c&HFFFFFF&} ,
+Dialogue: 0,0:00:41.64,0:00:42.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les futurs doigts.
+Dialogue: 0,0:00:42.69,0:00:43.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Des jours vingt-quatre à
+Dialogue: 0,0:00:43.86,0:00:44.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cinquante-six.
+Dialogue: 0,0:00:45.11,0:00:46.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le bourgeon correspond à une
+Dialogue: 0,0:00:46.64,0:00:48.07,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prolifération des cellules
+Dialogue: 0,0:00:48.07,0:00:49.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésodermiques sous-jacentes,
+Dialogue: 0,0:00:49.60,0:00:51.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dérivées du mésoderme de la {\c&H66D1FF&}lame{\c&HFFFFFF&}
+Dialogue: 0,0:00:51.36,0:00:51.91,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}latérale{\c&HFFFFFF&} .
+Dialogue: 0,0:00:52.31,0:00:54.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Cette prolifération est due au {\c&H66D1FF&}F{\c&HFFFFFF&}
+Dialogue: 0,0:00:54.08,0:00:56.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}G{\c&HFFFFFF&} {\c&H66D1FF&}F{\c&HFFFFFF&} {\c&H66D1FF&}8{\c&HFFFFFF&} , produit localement par un
+Dialogue: 0,0:00:56.08,0:00:57.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe de cellules {\c&H66D1FF&}ectodermiques{\c&HFFFFFF&} .
+Dialogue: 0,0:00:58.10,0:00:59.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sa synthèse apparaît dans
+Dialogue: 0,0:00:59.40,0:01:00.97,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'ectoderme avant le bourgeon,
+Dialogue: 0,0:01:00.97,0:01:02.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}puis se maintient sur le front
+Dialogue: 0,0:01:02.53,0:01:04.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}distal pendant sa croissance.
+Dialogue: 0,0:01:04.44,0:01:05.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'expérience : une mèche
+Dialogue: 0,0:01:05.74,0:01:07.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}imprégnée de F G F 8 sur le flanc
+Dialogue: 0,0:01:07.67,0:01:09.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'un embryon de poulet fait
+Dialogue: 0,0:01:09.12,0:01:10.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apparaître un {\c&H66D1FF&}membre{\c&HFFFFFF&} {\c&H66D1FF&}surnuméraire{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.90,0:01:12.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, quarante-huit heures après.
+Dialogue: 0,0:01:13.02,0:01:14.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules ectodermiques qui
+Dialogue: 0,0:01:14.74,0:01:16.40,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produisent le F G F 8 sont
+Dialogue: 0,0:01:16.40,0:01:18.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rassemblées à l'extrémité du
+Dialogue: 0,0:01:18.01,0:01:19.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon, sur la {\c&H66D1FF&}crête{\c&HFFFFFF&}
+Dialogue: 0,0:01:19.27,0:01:20.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}ectodermique{\c&HFFFFFF&} {\c&H66D1FF&}apicale{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:20.53,0:01:21.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la C E A.
+Dialogue: 0,0:01:21.45,0:01:23.00,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Juste en dessous, la {\c&H66D1FF&}zone{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:01:23.00,0:01:24.23,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}progression{\c&HFFFFFF&} , la Z P :
+Dialogue: 0,0:01:24.23,0:01:25.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des cellules mésodermiques qui
+Dialogue: 0,0:01:25.89,0:01:27.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prolifèrent activement et restent
+Dialogue: 0,0:01:27.73,0:01:28.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}non différenciées.
+Dialogue: 0,0:01:29.13,0:01:30.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plus loin, vers la base,
+Dialogue: 0,0:01:30.44,0:01:31.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}en {\c&H66D1FF&}proximal{\c&HFFFFFF&} , les cellules
+Dialogue: 0,0:01:31.86,0:01:33.50,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésodermiques qui ne sont plus
+Dialogue: 0,0:01:33.50,0:01:35.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous l'influence de la C E A
+Dialogue: 0,0:01:35.03,0:01:36.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}commencent à se différencier en
+Dialogue: 0,0:01:36.72,0:01:37.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}cartilage{\c&HFFFFFF&} .
+Dialogue: 0,0:01:37.46,0:01:39.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La formation du cartilage débute
+Dialogue: 0,0:01:39.39,0:01:41.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc dans la partie proximale.
+Dialogue: 0,0:01:41.76,0:01:42.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Pendant l'allongement,
+Dialogue: 0,0:01:42.90,0:01:44.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des zones distinctes se
+Dialogue: 0,0:01:44.08,0:01:45.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différencient sur l'axe
+Dialogue: 0,0:01:45.27,0:01:46.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}proximo-distal : bras,
+Dialogue: 0,0:01:46.41,0:01:47.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avant-bras, main.
+Dialogue: 0,0:01:47.68,0:01:49.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un modèle : le temps passé par
+Dialogue: 0,0:01:49.37,0:01:50.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cellules dans la Z P,
+Dialogue: 0,0:01:50.78,0:01:52.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}donc exposées aux signaux de la C
+Dialogue: 0,0:01:52.64,0:01:54.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}E A, varie selon leur position.
+Dialogue: 0,0:01:54.52,0:01:56.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les cellules les plus distales,
+Dialogue: 0,0:01:56.02,0:01:57.62,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la future main, y auront séjourné
+Dialogue: 0,0:01:57.62,0:01:58.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}plus{\c&HFFFFFF&} {\c&H66D1FF&}longtemps{\c&HFFFFFF&} .
+Dialogue: 0,0:01:58.95,0:02:00.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}La régionalisation implique un
+Dialogue: 0,0:02:00.61,0:02:03.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}groupe de gènes, {\c&H66D1FF&}HOXD9{\c&HFFFFFF&} {\c&H66D1FF&}à{\c&HFFFFFF&} {\c&H66D1FF&}HOXD13{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:03.05,0:02:04.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}rassemblés dans un locus commun
+Dialogue: 0,0:02:04.76,0:02:06.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sur le {\c&H66D1FF&}chromosome{\c&HFFFFFF&} {\c&H66D1FF&}2{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:06.09,0:02:07.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et qui codent des {\c&H66D1FF&}facteurs{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&}
+Dialogue: 0,0:02:07.70,0:02:08.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}transcription{\c&HFFFFFF&} .
+Dialogue: 0,0:02:08.93,0:02:11.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Leur activation séquentielle crée
+Dialogue: 0,0:02:11.01,0:02:13.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un profil d'expression ordonné :
+Dialogue: 0,0:02:13.03,0:02:15.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}par exemple, HOXD9 et D10 dans le
+Dialogue: 0,0:02:15.43,0:02:16.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bras ; HOXD9, D10,
+Dialogue: 0,0:02:16.88,0:02:18.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D11, D12 et D13 dans les doigts.
+Dialogue: 0,0:02:19.30,0:02:21.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C'est ce contenu différentiel en
+Dialogue: 0,0:02:21.11,0:02:22.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}facteurs HOXD qui détermine le
+Dialogue: 0,0:02:22.87,0:02:24.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}devenir de chaque segment.
+Dialogue: 0,0:02:24.90,0:02:26.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Le membre est colonisé par des
+Dialogue: 0,0:02:26.53,0:02:27.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}populations de différentes
+Dialogue: 0,0:02:27.95,0:02:28.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}origines.
+Dialogue: 0,0:02:28.58,0:02:29.84,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ectoderme : épiderme.
+Dialogue: 0,0:02:29.98,0:02:31.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Lame latérale : derme,
+Dialogue: 0,0:02:31.10,0:02:32.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}os, ligaments, tendons,
+Dialogue: 0,0:02:32.27,0:02:33.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et vaisseaux sanguins.
+Dialogue: 0,0:02:33.79,0:02:34.83,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Mésoderme paraxial,
+Dialogue: 0,0:02:34.83,0:02:36.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les somites : les {\c&H66D1FF&}muscles{\c&HFFFFFF&} .
+Dialogue: 0,0:02:36.44,0:02:37.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Tube neural, par les nerfs
+Dialogue: 0,0:02:37.64,0:02:38.56,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}spinaux : les nerfs.
+Dialogue: 0,0:02:38.70,0:02:40.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Crête neurale : les cellules de
+Dialogue: 0,0:02:40.10,0:02:41.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Schwann et les mélanocytes.
+Dialogue: 0,0:02:41.87,0:02:43.58,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les défauts de signalisation F G
+Dialogue: 0,0:02:43.58,0:02:45.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F touchent essentiellement le
+Dialogue: 0,0:02:45.13,0:02:46.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}système squelettique et les
+Dialogue: 0,0:02:46.57,0:02:46.99,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}membres.
+Dialogue: 0,0:02:47.39,0:02:49.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Exemple : le {\c&H66D1FF&}syndrome{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}Pfeiffer{\c&HFFFFFF&}
+Dialogue: 0,0:02:49.53,0:02:51.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}, craniosynostose et anomalies
+Dialogue: 0,0:02:51.47,0:02:53.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des membres, dû à des mutations
+Dialogue: 0,0:02:53.48,0:02:55.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de {\c&H66D1FF&}Fgfr1{\c&HFFFFFF&} et {\c&H66D1FF&}Fgfr2{\c&HFFFFFF&} ,
+Dialogue: 0,0:02:55.48,0:02:57.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des récepteurs du F G F.
+Dialogue: 0,0:02:57.60,0:02:58.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:58.83,0:03:00.11,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“La zone de progression est
+Dialogue: 0,0:03:00.11,0:03:01.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ectodermique” : faux.
+Dialogue: 0,0:03:01.24,0:03:02.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}C E A, ectoderme ;
+Dialogue: 0,0:03:02.49,0:03:03.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Z P, mésoderme.
+Dialogue: 0,0:03:03.93,0:03:05.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le cartilage apparaît d'abord
+Dialogue: 0,0:03:05.47,0:03:06.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dans la main” : faux,
+Dialogue: 0,0:03:06.54,0:03:07.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}d'abord en proximal.
+Dialogue: 0,0:03:08.00,0:03:09.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les doigts expriment seulement
+Dialogue: 0,0:03:09.72,0:03:11.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}HOXD13” : faux, HOXD9 à D13.
+Dialogue: 0,0:03:12.46,0:03:13.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Plus loin du corps,
+Dialogue: 0,0:03:13.60,0:03:15.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}plus de HOX : le bras en a deux,
+Dialogue: 0,0:03:15.52,0:03:16.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D9 et D10 ; les doigts,
+Dialogue: 0,0:03:16.90,0:03:18.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les cinq, de neuf à treize.
+Dialogue: 0,0:03:18.93,0:03:20.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et la C E A, “Crête En haut,
+Dialogue: 0,0:03:20.42,0:03:21.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ectoderme” : elle coiffe le
+Dialogue: 0,0:03:21.85,0:03:22.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon ; la Z P,
+Dialogue: 0,0:03:22.85,0:03:24.67,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}juste dessous, c'est du mésoderme
+Dialogue: 0,0:03:24.67,0:03:25.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui Prolifère.
+Dialogue: 0,0:03:26.00,0:03:27.74,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : où débute la formation du
+Dialogue: 0,0:03:27.74,0:03:28.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cartilage ?
+Dialogue: 0,0:03:32.74,0:03:34.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Dans la partie proximale,
+Dialogue: 0,0:03:34.04,0:03:35.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}là où les cellules ne sont plus
+Dialogue: 0,0:03:35.66,0:03:37.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}sous l'influence de la C E A.
+Dialogue: 0,0:03:37.73,0:03:38.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:38.75,0:03:40.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}on entre dans le dernier
+Dialogue: 0,0:03:40.10,0:03:41.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}chapitre, avec les anomalies du
+Dialogue: 0,0:03:41.85,0:03:43.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}développement et la tératogenèse.

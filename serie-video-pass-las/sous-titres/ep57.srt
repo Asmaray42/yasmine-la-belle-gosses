@@ -1,0 +1,575 @@
+1
+00:00:00,300 --> 00:00:01,959
+On pose une petite mèche imbibée
+
+2
+00:00:01,959 --> 00:00:03,670
+d'une seule protéine sur le flanc
+
+3
+00:00:03,670 --> 00:00:04,862
+d'un embryon de poulet.
+
+4
+00:00:05,002 --> 00:00:06,482
+Quarante-huit heures plus tard,
+
+5
+00:00:06,482 --> 00:00:08,058
+un membre supplémentaire commence
+
+6
+00:00:08,058 --> 00:00:08,535
+à pousser.
+
+7
+00:00:08,935 --> 00:00:10,760
+Au programme : le développement
+
+8
+00:00:10,760 --> 00:00:12,348
+des membres, le F G F 8,
+
+9
+00:00:12,348 --> 00:00:14,114
+la crête ectodermique apicale,
+
+10
+00:00:14,114 --> 00:00:16,114
+les gènes HOXD, et le syndrome de
+
+11
+00:00:16,114 --> 00:00:16,644
+Pfeiffer.
+
+12
+00:00:17,204 --> 00:00:18,492
+Les membres supérieurs se
+
+13
+00:00:18,492 --> 00:00:20,192
+développent entre la quatrième et
+
+14
+00:00:20,192 --> 00:00:21,274
+la huitième semaine .
+
+15
+00:00:21,414 --> 00:00:22,965
+Les membres inférieurs débutent
+
+16
+00:00:22,965 --> 00:00:23,815
+un peu plus tard.
+
+17
+00:00:24,215 --> 00:00:25,815
+Des bourgeons apparaissent sur la
+
+18
+00:00:25,815 --> 00:00:26,978
+paroi latérale du corps.
+
+19
+00:00:27,118 --> 00:00:28,382
+Ils s'allongent, et à leur
+
+20
+00:00:28,382 --> 00:00:29,938
+extrémité apparaît la palette de
+
+21
+00:00:29,938 --> 00:00:30,375
+la main .
+
+22
+00:00:30,515 --> 00:00:32,164
+Un repliement au niveau du futur
+
+23
+00:00:32,164 --> 00:00:33,606
+coude délimite l'avant-bras,
+
+24
+00:00:33,606 --> 00:00:34,636
+le bras et l'épaule.
+
+25
+00:00:35,036 --> 00:00:36,610
+Dans la palette, des sillons se
+
+26
+00:00:36,610 --> 00:00:37,777
+creusent, zones de mort
+
+27
+00:00:37,777 --> 00:00:38,894
+cellulaire programmée,
+
+28
+00:00:38,894 --> 00:00:40,569
+l' apoptose , laissant apparaître
+
+29
+00:00:40,569 --> 00:00:41,635
+les rayons digitaux ,
+
+30
+00:00:41,635 --> 00:00:42,549
+les futurs doigts.
+
+31
+00:00:42,689 --> 00:00:43,862
+Des jours vingt-quatre à
+
+32
+00:00:43,862 --> 00:00:44,547
+cinquante-six.
+
+33
+00:00:45,107 --> 00:00:46,643
+Le bourgeon correspond à une
+
+34
+00:00:46,643 --> 00:00:48,069
+prolifération des cellules
+
+35
+00:00:48,069 --> 00:00:49,604
+mésodermiques sous-jacentes,
+
+36
+00:00:49,604 --> 00:00:51,360
+dérivées du mésoderme de la lame
+
+37
+00:00:51,360 --> 00:00:51,908
+latérale .
+
+38
+00:00:52,308 --> 00:00:54,081
+Cette prolifération est due au F
+
+39
+00:00:54,081 --> 00:00:56,075
+G F 8 , produit localement par un
+
+40
+00:00:56,075 --> 00:00:57,959
+groupe de cellules ectodermiques .
+
+41
+00:00:58,099 --> 00:00:59,403
+Sa synthèse apparaît dans
+
+42
+00:00:59,403 --> 00:01:00,967
+l'ectoderme avant le bourgeon,
+
+43
+00:01:00,967 --> 00:01:02,531
+puis se maintient sur le front
+
+44
+00:01:02,531 --> 00:01:04,044
+distal pendant sa croissance.
+
+45
+00:01:04,444 --> 00:01:05,735
+L'expérience : une mèche
+
+46
+00:01:05,735 --> 00:01:07,671
+imprégnée de F G F 8 sur le flanc
+
+47
+00:01:07,671 --> 00:01:09,123
+d'un embryon de poulet fait
+
+48
+00:01:09,123 --> 00:01:10,898
+apparaître un membre surnuméraire
+
+49
+00:01:10,898 --> 00:01:12,458
+, quarante-huit heures après.
+
+50
+00:01:13,018 --> 00:01:14,738
+Les cellules ectodermiques qui
+
+51
+00:01:14,738 --> 00:01:16,401
+produisent le F G F 8 sont
+
+52
+00:01:16,401 --> 00:01:18,007
+rassemblées à l'extrémité du
+
+53
+00:01:18,007 --> 00:01:19,268
+bourgeon, sur la crête
+
+54
+00:01:19,268 --> 00:01:20,530
+ectodermique apicale ,
+
+55
+00:01:20,530 --> 00:01:21,046
+la C E A.
+
+56
+00:01:21,446 --> 00:01:23,003
+Juste en dessous, la zone de
+
+57
+00:01:23,003 --> 00:01:24,226
+progression , la Z P :
+
+58
+00:01:24,226 --> 00:01:25,894
+des cellules mésodermiques qui
+
+59
+00:01:25,894 --> 00:01:27,728
+prolifèrent activement et restent
+
+60
+00:01:27,728 --> 00:01:28,729
+non différenciées.
+
+61
+00:01:29,129 --> 00:01:30,440
+Plus loin, vers la base,
+
+62
+00:01:30,440 --> 00:01:31,860
+en proximal , les cellules
+
+63
+00:01:31,860 --> 00:01:33,498
+mésodermiques qui ne sont plus
+
+64
+00:01:33,498 --> 00:01:35,027
+sous l'influence de la C E A
+
+65
+00:01:35,027 --> 00:01:36,720
+commencent à se différencier en
+
+66
+00:01:36,720 --> 00:01:37,321
+cartilage .
+
+67
+00:01:37,461 --> 00:01:39,391
+La formation du cartilage débute
+
+68
+00:01:39,391 --> 00:01:41,200
+donc dans la partie proximale.
+
+69
+00:01:41,760 --> 00:01:42,895
+Pendant l'allongement,
+
+70
+00:01:42,895 --> 00:01:44,082
+des zones distinctes se
+
+71
+00:01:44,082 --> 00:01:45,270
+différencient sur l'axe
+
+72
+00:01:45,270 --> 00:01:46,405
+proximo-distal : bras,
+
+73
+00:01:46,405 --> 00:01:47,283
+avant-bras, main.
+
+74
+00:01:47,683 --> 00:01:49,371
+Un modèle : le temps passé par
+
+75
+00:01:49,371 --> 00:01:50,779
+les cellules dans la Z P,
+
+76
+00:01:50,779 --> 00:01:52,636
+donc exposées aux signaux de la C
+
+77
+00:01:52,636 --> 00:01:54,382
+E A, varie selon leur position.
+
+78
+00:01:54,522 --> 00:01:56,022
+Les cellules les plus distales,
+
+79
+00:01:56,022 --> 00:01:57,618
+la future main, y auront séjourné
+
+80
+00:01:57,618 --> 00:01:58,392
+plus longtemps .
+
+81
+00:01:58,952 --> 00:02:00,613
+La régionalisation implique un
+
+82
+00:02:00,613 --> 00:02:03,048
+groupe de gènes, HOXD9 à HOXD13 ,
+
+83
+00:02:03,048 --> 00:02:04,764
+rassemblés dans un locus commun
+
+84
+00:02:04,764 --> 00:02:06,093
+sur le chromosome 2 ,
+
+85
+00:02:06,093 --> 00:02:07,698
+et qui codent des facteurs de
+
+86
+00:02:07,698 --> 00:02:08,529
+transcription .
+
+87
+00:02:08,929 --> 00:02:11,012
+Leur activation séquentielle crée
+
+88
+00:02:11,012 --> 00:02:13,032
+un profil d'expression ordonné :
+
+89
+00:02:13,032 --> 00:02:15,431
+par exemple, HOXD9 et D10 dans le
+
+90
+00:02:15,431 --> 00:02:16,883
+bras ; HOXD9, D10,
+
+91
+00:02:16,883 --> 00:02:18,903
+D11, D12 et D13 dans les doigts.
+
+92
+00:02:19,303 --> 00:02:21,114
+C'est ce contenu différentiel en
+
+93
+00:02:21,114 --> 00:02:22,868
+facteurs HOXD qui détermine le
+
+94
+00:02:22,868 --> 00:02:24,340
+devenir de chaque segment.
+
+95
+00:02:24,900 --> 00:02:26,533
+Le membre est colonisé par des
+
+96
+00:02:26,533 --> 00:02:27,949
+populations de différentes
+
+97
+00:02:27,949 --> 00:02:28,439
+origines.
+
+98
+00:02:28,579 --> 00:02:29,842
+Ectoderme : épiderme.
+
+99
+00:02:29,982 --> 00:02:31,102
+Lame latérale : derme,
+
+100
+00:02:31,102 --> 00:02:32,273
+os, ligaments, tendons,
+
+101
+00:02:32,273 --> 00:02:33,394
+et vaisseaux sanguins.
+
+102
+00:02:33,794 --> 00:02:34,829
+Mésoderme paraxial,
+
+103
+00:02:34,829 --> 00:02:36,299
+les somites : les muscles .
+
+104
+00:02:36,439 --> 00:02:37,638
+Tube neural, par les nerfs
+
+105
+00:02:37,638 --> 00:02:38,560
+spinaux : les nerfs.
+
+106
+00:02:38,700 --> 00:02:40,097
+Crête neurale : les cellules de
+
+107
+00:02:40,097 --> 00:02:41,314
+Schwann et les mélanocytes.
+
+108
+00:02:41,874 --> 00:02:43,581
+Les défauts de signalisation F G
+
+109
+00:02:43,581 --> 00:02:45,127
+F touchent essentiellement le
+
+110
+00:02:45,127 --> 00:02:46,567
+système squelettique et les
+
+111
+00:02:46,567 --> 00:02:46,994
+membres.
+
+112
+00:02:47,394 --> 00:02:49,529
+Exemple : le syndrome de Pfeiffer
+
+113
+00:02:49,529 --> 00:02:51,471
+, craniosynostose et anomalies
+
+114
+00:02:51,471 --> 00:02:53,477
+des membres, dû à des mutations
+
+115
+00:02:53,477 --> 00:02:55,484
+de Fgfr1 et Fgfr2 ,
+
+116
+00:02:55,484 --> 00:02:57,037
+des récepteurs du F G F.
+
+117
+00:02:57,597 --> 00:02:58,433
+Trois pièges.
+
+118
+00:02:58,833 --> 00:03:00,114
+“La zone de progression est
+
+119
+00:03:00,114 --> 00:03:01,099
+ectodermique” : faux.
+
+120
+00:03:01,239 --> 00:03:02,486
+C E A, ectoderme ;
+
+121
+00:03:02,486 --> 00:03:03,525
+Z P, mésoderme.
+
+122
+00:03:03,925 --> 00:03:05,470
+“Le cartilage apparaît d'abord
+
+123
+00:03:05,470 --> 00:03:06,535
+dans la main” : faux,
+
+124
+00:03:06,535 --> 00:03:07,600
+d'abord en proximal.
+
+125
+00:03:08,000 --> 00:03:09,720
+“Les doigts expriment seulement
+
+126
+00:03:09,720 --> 00:03:11,898
+HOXD13” : faux, HOXD9 à D13.
+
+127
+00:03:12,458 --> 00:03:13,599
+Plus loin du corps,
+
+128
+00:03:13,599 --> 00:03:15,521
+plus de HOX : le bras en a deux,
+
+129
+00:03:15,521 --> 00:03:16,903
+D9 et D10 ; les doigts,
+
+130
+00:03:16,903 --> 00:03:18,525
+les cinq, de neuf à treize.
+
+131
+00:03:18,925 --> 00:03:20,415
+Et la C E A, “Crête En haut,
+
+132
+00:03:20,415 --> 00:03:21,851
+Ectoderme” : elle coiffe le
+
+133
+00:03:21,851 --> 00:03:22,845
+bourgeon ; la Z P,
+
+134
+00:03:22,845 --> 00:03:24,667
+juste dessous, c'est du mésoderme
+
+135
+00:03:24,667 --> 00:03:25,440
+qui Prolifère.
+
+136
+00:03:26,000 --> 00:03:27,739
+Quiz : où débute la formation du
+
+137
+00:03:27,739 --> 00:03:28,336
+cartilage ?
+
+138
+00:03:32,736 --> 00:03:34,041
+Dans la partie proximale,
+
+139
+00:03:34,041 --> 00:03:35,659
+là où les cellules ne sont plus
+
+140
+00:03:35,659 --> 00:03:37,172
+sous l'influence de la C E A.
+
+141
+00:03:37,732 --> 00:03:38,746
+Prochain épisode :
+
+142
+00:03:38,746 --> 00:03:40,099
+on entre dans le dernier
+
+143
+00:03:40,099 --> 00:03:41,846
+chapitre, avec les anomalies du
+
+144
+00:03:41,846 --> 00:03:43,706
+développement et la tératogenèse.

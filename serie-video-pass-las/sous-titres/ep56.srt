@@ -1,0 +1,495 @@
+1
+00:00:00,300 --> 00:00:01,553
+Ton arbre bronchique s'est
+
+2
+00:00:01,553 --> 00:00:02,904
+construit avec trois signaux
+
+3
+00:00:02,904 --> 00:00:04,447
+seulement : un qui fait pousser,
+
+4
+00:00:04,447 --> 00:00:05,701
+un qui coupe le carburant,
+
+5
+00:00:05,701 --> 00:00:06,376
+un qui freine.
+
+6
+00:00:06,516 --> 00:00:08,122
+Et ça se répète, branche après
+
+7
+00:00:08,122 --> 00:00:08,550
+branche.
+
+8
+00:00:08,950 --> 00:00:10,645
+Au programme : les principes de
+
+9
+00:00:10,645 --> 00:00:12,394
+l'organogenèse, le développement
+
+10
+00:00:12,394 --> 00:00:14,088
+des poumons, et le mécanisme de
+
+11
+00:00:14,088 --> 00:00:14,799
+ramification.
+
+12
+00:00:15,359 --> 00:00:17,063
+Chapitre six : l'organogenèse.
+
+13
+00:00:17,203 --> 00:00:18,894
+Quatre points : les principes,
+
+14
+00:00:18,894 --> 00:00:20,246
+les bronches et alvéoles
+
+15
+00:00:20,246 --> 00:00:21,598
+pulmonaires, les membres
+
+16
+00:00:21,598 --> 00:00:23,007
+supérieurs, et la voie de
+
+17
+00:00:23,007 --> 00:00:24,134
+signalisation F G F.
+
+18
+00:00:24,694 --> 00:00:26,568
+L'organogenèse : la formation des
+
+19
+00:00:26,568 --> 00:00:27,817
+différentes structures
+
+20
+00:00:27,817 --> 00:00:29,521
+anatomiques à partir des trois
+
+21
+00:00:29,521 --> 00:00:30,770
+feuillets , ectoderme,
+
+22
+00:00:30,770 --> 00:00:31,963
+mésoderme, endoderme.
+
+23
+00:00:32,363 --> 00:00:34,087
+Elle débute après la gastrulation
+
+24
+00:00:34,087 --> 00:00:35,393
+et se poursuit jusqu'à la
+
+25
+00:00:35,393 --> 00:00:36,856
+naissance, parfois au-delà :
+
+26
+00:00:36,856 --> 00:00:38,058
+poumons, cœur, cerveau,
+
+27
+00:00:38,058 --> 00:00:38,946
+organes génitaux.
+
+28
+00:00:39,346 --> 00:00:40,779
+Elle implique des étapes de
+
+29
+00:00:40,779 --> 00:00:42,478
+différenciation, de mouvement et
+
+30
+00:00:42,478 --> 00:00:43,487
+de mort cellulaire,
+
+31
+00:00:43,487 --> 00:00:44,177
+l' apoptose .
+
+32
+00:00:44,317 --> 00:00:45,484
+Et elle est contrôlée par des
+
+33
+00:00:45,484 --> 00:00:46,530
+gradients de morphogènes .
+
+34
+00:00:47,090 --> 00:00:48,790
+Un diverticule respiratoire
+
+35
+00:00:48,790 --> 00:00:50,553
+initial apparaît sur le tube
+
+36
+00:00:50,553 --> 00:00:51,435
+endodermique .
+
+37
+00:00:51,834 --> 00:00:53,181
+Il subit une succession de
+
+38
+00:00:53,181 --> 00:00:54,734
+ramifications, qui génèrent un
+
+39
+00:00:54,734 --> 00:00:55,976
+réseau de bronches et de
+
+40
+00:00:55,976 --> 00:00:57,167
+bronchioles : bourgeons
+
+41
+00:00:57,167 --> 00:00:58,306
+bronchiques primaires,
+
+42
+00:00:58,306 --> 00:00:59,549
+secondaires, tertiaires,
+
+43
+00:00:59,549 --> 00:01:00,688
+des jours vingt-cinq à
+
+44
+00:01:00,688 --> 00:01:01,309
+trente-huit.
+
+45
+00:01:01,709 --> 00:01:03,007
+Une couche de mésoderme,
+
+46
+00:01:03,007 --> 00:01:04,682
+dérivée de la splanchnopleure ,
+
+47
+00:01:04,682 --> 00:01:06,412
+entoure le diverticule et évolue
+
+48
+00:01:06,412 --> 00:01:07,439
+avec lui pendant le
+
+49
+00:01:07,439 --> 00:01:08,250
+bourgeonnement.
+
+50
+00:01:08,810 --> 00:01:10,309
+À partir de la vingt-huitième
+
+51
+00:01:10,309 --> 00:01:12,015
+semaine , des alvéoles primitives
+
+52
+00:01:12,015 --> 00:01:13,566
+se forment sur les bronchioles
+
+53
+00:01:13,566 --> 00:01:14,134
+terminales.
+
+54
+00:01:14,534 --> 00:01:16,090
+À partir de la trente-sixième
+
+55
+00:01:16,090 --> 00:01:17,271
+semaine , le réseau de
+
+56
+00:01:17,271 --> 00:01:18,934
+capillaires se densifie dans le
+
+57
+00:01:18,934 --> 00:01:20,705
+mésoderme et des alvéoles matures
+
+58
+00:01:20,705 --> 00:01:22,422
+se forment : les échanges gazeux
+
+59
+00:01:22,422 --> 00:01:23,549
+deviennent possibles.
+
+60
+00:01:23,949 --> 00:01:25,035
+D'où les difficultés
+
+61
+00:01:25,035 --> 00:01:26,284
+respiratoires des bébés
+
+62
+00:01:26,284 --> 00:01:28,076
+prématurés , nés avant la semaine
+
+63
+00:01:28,076 --> 00:01:28,728
+trente-sept.
+
+64
+00:01:28,868 --> 00:01:30,090
+Et des alvéoles matures
+
+65
+00:01:30,090 --> 00:01:31,684
+continuent à se former jusqu'à
+
+66
+00:01:31,684 --> 00:01:33,172
+deux ans après la naissance.
+
+67
+00:01:33,732 --> 00:01:35,296
+Un : un gradient de F G F ,
+
+68
+00:01:35,296 --> 00:01:36,745
+fibroblast growth factor,
+
+69
+00:01:36,745 --> 00:01:38,426
+un morphogène produit par les
+
+70
+00:01:38,426 --> 00:01:39,759
+cellules mésodermiques,
+
+71
+00:01:39,759 --> 00:01:41,324
+stimule la prolifération du
+
+72
+00:01:41,324 --> 00:01:42,483
+bourgeon bronchique,
+
+73
+00:01:42,483 --> 00:01:43,294
+qui s'allonge.
+
+74
+00:01:43,694 --> 00:01:45,572
+Deux : quand il atteint une zone
+
+75
+00:01:45,572 --> 00:01:47,450
+de plus forte concentration en F
+
+76
+00:01:47,450 --> 00:01:49,093
+G F, l'extrémité du bourgeon
+
+77
+00:01:49,093 --> 00:01:50,853
+produit deux autres facteurs :
+
+78
+00:01:50,853 --> 00:01:52,203
+SHH , Sonic hedgehog,
+
+79
+00:01:52,203 --> 00:01:53,904
+et BMP , bone morphogenetic
+
+80
+00:01:53,904 --> 00:01:54,374
+protein.
+
+81
+00:01:54,774 --> 00:01:56,889
+Trois : SHH inhibe localement la
+
+82
+00:01:56,889 --> 00:01:58,507
+production de F G F par le
+
+83
+00:01:58,507 --> 00:02:00,187
+mésoderme ; BMP inhibe la
+
+84
+00:02:00,187 --> 00:02:02,054
+prolifération à l'extrémité du
+
+85
+00:02:02,054 --> 00:02:02,614
+bourgeon.
+
+86
+00:02:02,754 --> 00:02:04,355
+Ce sont des actions paracrines.
+
+87
+00:02:04,755 --> 00:02:06,413
+Sous l'influence du F G F encore
+
+88
+00:02:06,413 --> 00:02:07,915
+produit de part et d'autre du
+
+89
+00:02:07,915 --> 00:02:09,625
+bourgeon, deux nouveaux fronts de
+
+90
+00:02:09,625 --> 00:02:11,179
+prolifération se développent :
+
+91
+00:02:11,179 --> 00:02:12,681
+la branche se divise en deux.
+
+92
+00:02:13,241 --> 00:02:14,077
+Trois pièges.
+
+93
+00:02:14,477 --> 00:02:16,327
+“SHH inhibe la prolifération du
+
+94
+00:02:16,327 --> 00:02:17,252
+bourgeon” : faux.
+
+95
+00:02:17,392 --> 00:02:19,724
+SHH inhibe la production de F G F
+
+96
+00:02:19,724 --> 00:02:21,522
+; c'est BMP qui inhibe la
+
+97
+00:02:21,522 --> 00:02:22,455
+prolifération.
+
+98
+00:02:22,855 --> 00:02:24,361
+“Le F G F est produit par le
+
+99
+00:02:24,361 --> 00:02:25,644
+bourgeon endodermique” :
+
+100
+00:02:25,644 --> 00:02:26,871
+faux, par les cellules
+
+101
+00:02:26,871 --> 00:02:27,651
+mésodermiques.
+
+102
+00:02:28,051 --> 00:02:29,614
+“Les alvéoles matures sont toutes
+
+103
+00:02:29,614 --> 00:02:30,787
+formées à la naissance” :
+
+104
+00:02:30,787 --> 00:02:32,252
+faux, elles continuent jusqu'à
+
+105
+00:02:32,252 --> 00:02:32,692
+deux ans.
+
+106
+00:02:33,252 --> 00:02:34,804
+F G F, l'accélérateur ;
+
+107
+00:02:34,804 --> 00:02:36,896
+SHH, “chut”, il coupe l'arrivée
+
+108
+00:02:36,896 --> 00:02:38,717
+du F G F ; BMP, le frein.
+
+109
+00:02:38,857 --> 00:02:40,467
+Résultat : la pointe s'arrête,
+
+110
+00:02:40,467 --> 00:02:41,539
+les côtés repartent,
+
+111
+00:02:41,539 --> 00:02:42,344
+et ça bifurque.
+
+112
+00:02:42,744 --> 00:02:44,100
+Les alvéoles : vingt-huit,
+
+113
+00:02:44,100 --> 00:02:45,351
+primitives ; trente-six,
+
+114
+00:02:45,351 --> 00:02:46,603
+matures ; deux ans, fin.
+
+115
+00:02:47,163 --> 00:02:48,726
+Quiz : quel facteur inhibe la
+
+116
+00:02:48,726 --> 00:02:50,343
+prolifération à l'extrémité du
+
+117
+00:02:50,343 --> 00:02:50,882
+bourgeon ?
+
+118
+00:02:55,282 --> 00:02:56,046
+BMP.
+
+119
+00:02:56,186 --> 00:02:58,614
+SHH, lui, inhibe la production de
+
+120
+00:02:58,614 --> 00:02:59,030
+F G F.
+
+121
+00:02:59,590 --> 00:03:00,660
+Prochain épisode :
+
+122
+00:03:00,660 --> 00:03:02,384
+le développement des membres,
+
+123
+00:03:02,384 --> 00:03:04,524
+le F G F 8, la crête ectodermique
+
+124
+00:03:04,524 --> 00:03:06,128
+apicale et les gènes HOXD.

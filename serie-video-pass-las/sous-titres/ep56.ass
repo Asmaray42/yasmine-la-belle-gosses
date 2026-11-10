@@ -1,0 +1,137 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Inter Display,62,&H00FFFFFF,&H00FFFFFF,&H00100A08,&H90000000,-1,0,0,0,100,100,0,0,1,6,2,2,80,150,350,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:01.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ton arbre bronchique s'est
+Dialogue: 0,0:00:01.55,0:00:02.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}construit avec trois signaux
+Dialogue: 0,0:00:02.90,0:00:04.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}seulement : un qui fait pousser,
+Dialogue: 0,0:00:04.45,0:00:05.70,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un qui coupe le carburant,
+Dialogue: 0,0:00:05.70,0:00:06.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un qui freine.
+Dialogue: 0,0:00:06.52,0:00:08.12,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et ça se répète, branche après
+Dialogue: 0,0:00:08.12,0:00:08.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}branche.
+Dialogue: 0,0:00:08.95,0:00:10.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Au programme : les principes de
+Dialogue: 0,0:00:10.65,0:00:12.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l'organogenèse, le développement
+Dialogue: 0,0:00:12.39,0:00:14.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des poumons, et le mécanisme de
+Dialogue: 0,0:00:14.09,0:00:14.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ramification.
+Dialogue: 0,0:00:15.36,0:00:17.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Chapitre six : l'organogenèse.
+Dialogue: 0,0:00:17.20,0:00:18.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quatre points : les principes,
+Dialogue: 0,0:00:18.89,0:00:20.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les bronches et alvéoles
+Dialogue: 0,0:00:20.25,0:00:21.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}pulmonaires, les membres
+Dialogue: 0,0:00:21.60,0:00:23.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}supérieurs, et la voie de
+Dialogue: 0,0:00:23.01,0:00:24.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}signalisation F G F.
+Dialogue: 0,0:00:24.69,0:00:26.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}L'organogenèse : la formation des
+Dialogue: 0,0:00:26.57,0:00:27.82,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différentes structures
+Dialogue: 0,0:00:27.82,0:00:29.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}anatomiques à partir des {\c&H66D1FF&}trois{\c&HFFFFFF&}
+Dialogue: 0,0:00:29.52,0:00:30.77,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}feuillets{\c&HFFFFFF&} , ectoderme,
+Dialogue: 0,0:00:30.77,0:00:31.96,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme, endoderme.
+Dialogue: 0,0:00:32.36,0:00:34.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle débute après la gastrulation
+Dialogue: 0,0:00:34.09,0:00:35.39,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et se poursuit jusqu'à la
+Dialogue: 0,0:00:35.39,0:00:36.86,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}naissance, {\c&H66D1FF&}parfois{\c&HFFFFFF&} {\c&H66D1FF&}au-delà{\c&HFFFFFF&} :
+Dialogue: 0,0:00:36.86,0:00:38.06,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}poumons, cœur, cerveau,
+Dialogue: 0,0:00:38.06,0:00:38.95,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}organes génitaux.
+Dialogue: 0,0:00:39.35,0:00:40.78,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Elle implique des étapes de
+Dialogue: 0,0:00:40.78,0:00:42.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}différenciation, de mouvement et
+Dialogue: 0,0:00:42.48,0:00:43.49,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de mort cellulaire,
+Dialogue: 0,0:00:43.49,0:00:44.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}l' {\c&H66D1FF&}apoptose{\c&HFFFFFF&} .
+Dialogue: 0,0:00:44.32,0:00:45.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et elle est contrôlée par des
+Dialogue: 0,0:00:45.48,0:00:46.53,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}gradients{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}morphogènes{\c&HFFFFFF&} .
+Dialogue: 0,0:00:47.09,0:00:48.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un {\c&H66D1FF&}diverticule{\c&HFFFFFF&} {\c&H66D1FF&}respiratoire{\c&HFFFFFF&}
+Dialogue: 0,0:00:48.79,0:00:50.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}initial apparaît sur le {\c&H66D1FF&}tube{\c&HFFFFFF&}
+Dialogue: 0,0:00:50.55,0:00:51.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}endodermique{\c&HFFFFFF&} .
+Dialogue: 0,0:00:51.83,0:00:53.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Il subit une succession de
+Dialogue: 0,0:00:53.18,0:00:54.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}ramifications, qui génèrent un
+Dialogue: 0,0:00:54.73,0:00:55.98,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}réseau de bronches et de
+Dialogue: 0,0:00:55.98,0:00:57.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bronchioles : bourgeons
+Dialogue: 0,0:00:57.17,0:00:58.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bronchiques primaires,
+Dialogue: 0,0:00:58.31,0:00:59.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}secondaires, tertiaires,
+Dialogue: 0,0:00:59.55,0:01:00.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}des jours vingt-cinq à
+Dialogue: 0,0:01:00.69,0:01:01.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-huit.
+Dialogue: 0,0:01:01.71,0:01:03.01,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Une couche de mésoderme,
+Dialogue: 0,0:01:03.01,0:01:04.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}dérivée de la {\c&H66D1FF&}splanchnopleure{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:04.68,0:01:06.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}entoure le diverticule et évolue
+Dialogue: 0,0:01:06.41,0:01:07.44,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}avec lui pendant le
+Dialogue: 0,0:01:07.44,0:01:08.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeonnement.
+Dialogue: 0,0:01:08.81,0:01:10.31,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À partir de la {\c&H66D1FF&}vingt-huitième{\c&HFFFFFF&}
+Dialogue: 0,0:01:10.31,0:01:12.02,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}semaine{\c&HFFFFFF&} , des {\c&H66D1FF&}alvéoles{\c&HFFFFFF&} {\c&H66D1FF&}primitives{\c&HFFFFFF&}
+Dialogue: 0,0:01:12.02,0:01:13.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se forment sur les bronchioles
+Dialogue: 0,0:01:13.57,0:01:14.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}terminales.
+Dialogue: 0,0:01:14.53,0:01:16.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}À partir de la {\c&H66D1FF&}trente-sixième{\c&HFFFFFF&}
+Dialogue: 0,0:01:16.09,0:01:17.27,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}semaine{\c&HFFFFFF&} , le réseau de
+Dialogue: 0,0:01:17.27,0:01:18.93,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}capillaires se densifie dans le
+Dialogue: 0,0:01:18.93,0:01:20.71,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme et des {\c&H66D1FF&}alvéoles{\c&HFFFFFF&} {\c&H66D1FF&}matures{\c&HFFFFFF&}
+Dialogue: 0,0:01:20.71,0:01:22.42,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}se forment : les échanges gazeux
+Dialogue: 0,0:01:22.42,0:01:23.55,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deviennent possibles.
+Dialogue: 0,0:01:23.95,0:01:25.04,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}D'où les difficultés
+Dialogue: 0,0:01:25.04,0:01:26.28,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}respiratoires des bébés
+Dialogue: 0,0:01:26.28,0:01:28.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}prématurés{\c&HFFFFFF&} , nés avant la semaine
+Dialogue: 0,0:01:28.08,0:01:28.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}trente-sept.
+Dialogue: 0,0:01:28.87,0:01:30.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Et des alvéoles matures
+Dialogue: 0,0:01:30.09,0:01:31.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}continuent à se former jusqu'à
+Dialogue: 0,0:01:31.68,0:01:33.17,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}deux{\c&HFFFFFF&} {\c&H66D1FF&}ans{\c&HFFFFFF&} après la naissance.
+Dialogue: 0,0:01:33.73,0:01:35.30,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Un : un gradient de {\c&H66D1FF&}F{\c&HFFFFFF&} {\c&H66D1FF&}G{\c&HFFFFFF&} {\c&H66D1FF&}F{\c&HFFFFFF&} ,
+Dialogue: 0,0:01:35.30,0:01:36.75,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}fibroblast growth factor,
+Dialogue: 0,0:01:36.75,0:01:38.43,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}un morphogène produit par les
+Dialogue: 0,0:01:38.43,0:01:39.76,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}cellules mésodermiques,
+Dialogue: 0,0:01:39.76,0:01:41.32,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}stimule la prolifération du
+Dialogue: 0,0:01:41.32,0:01:42.48,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon bronchique,
+Dialogue: 0,0:01:42.48,0:01:43.29,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}qui s'allonge.
+Dialogue: 0,0:01:43.69,0:01:45.57,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Deux : quand il atteint une zone
+Dialogue: 0,0:01:45.57,0:01:47.45,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}de plus forte concentration en F
+Dialogue: 0,0:01:47.45,0:01:49.09,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}G F, l'extrémité du bourgeon
+Dialogue: 0,0:01:49.09,0:01:50.85,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produit deux autres facteurs :
+Dialogue: 0,0:01:50.85,0:01:52.20,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}SHH{\c&HFFFFFF&} , Sonic hedgehog,
+Dialogue: 0,0:01:52.20,0:01:53.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et {\c&H66D1FF&}BMP{\c&HFFFFFF&} , bone morphogenetic
+Dialogue: 0,0:01:53.90,0:01:54.37,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}protein.
+Dialogue: 0,0:01:54.77,0:01:56.89,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois : SHH inhibe localement la
+Dialogue: 0,0:01:56.89,0:01:58.51,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}production{\c&HFFFFFF&} {\c&H66D1FF&}de{\c&HFFFFFF&} {\c&H66D1FF&}F{\c&HFFFFFF&} {\c&H66D1FF&}G{\c&HFFFFFF&} {\c&H66D1FF&}F{\c&HFFFFFF&} par le
+Dialogue: 0,0:01:58.51,0:02:00.19,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésoderme ; BMP inhibe la
+Dialogue: 0,0:02:00.19,0:02:02.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}{\c&H66D1FF&}prolifération{\c&HFFFFFF&} à l'extrémité du
+Dialogue: 0,0:02:02.05,0:02:02.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon.
+Dialogue: 0,0:02:02.75,0:02:04.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Ce sont des actions paracrines.
+Dialogue: 0,0:02:04.76,0:02:06.41,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Sous l'influence du F G F encore
+Dialogue: 0,0:02:06.41,0:02:07.92,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}produit de part et d'autre du
+Dialogue: 0,0:02:07.92,0:02:09.63,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon, deux nouveaux fronts de
+Dialogue: 0,0:02:09.63,0:02:11.18,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prolifération se développent :
+Dialogue: 0,0:02:11.18,0:02:12.68,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}la branche se divise en deux.
+Dialogue: 0,0:02:13.24,0:02:14.08,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Trois pièges.
+Dialogue: 0,0:02:14.48,0:02:16.33,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“SHH inhibe la prolifération du
+Dialogue: 0,0:02:16.33,0:02:17.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon” : faux.
+Dialogue: 0,0:02:17.39,0:02:19.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}SHH inhibe la production de F G F
+Dialogue: 0,0:02:19.72,0:02:21.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}; c'est BMP qui inhibe la
+Dialogue: 0,0:02:21.52,0:02:22.46,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prolifération.
+Dialogue: 0,0:02:22.86,0:02:24.36,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Le F G F est produit par le
+Dialogue: 0,0:02:24.36,0:02:25.64,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon endodermique” :
+Dialogue: 0,0:02:25.64,0:02:26.87,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, par les cellules
+Dialogue: 0,0:02:26.87,0:02:27.65,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}mésodermiques.
+Dialogue: 0,0:02:28.05,0:02:29.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}“Les alvéoles matures sont toutes
+Dialogue: 0,0:02:29.61,0:02:30.79,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}formées à la naissance” :
+Dialogue: 0,0:02:30.79,0:02:32.25,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}faux, elles continuent jusqu'à
+Dialogue: 0,0:02:32.25,0:02:32.69,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}deux ans.
+Dialogue: 0,0:02:33.25,0:02:34.80,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F G F, l'accélérateur ;
+Dialogue: 0,0:02:34.80,0:02:36.90,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}SHH, “chut”, il coupe l'arrivée
+Dialogue: 0,0:02:36.90,0:02:38.72,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}du F G F ; BMP, le frein.
+Dialogue: 0,0:02:38.86,0:02:40.47,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Résultat : la pointe s'arrête,
+Dialogue: 0,0:02:40.47,0:02:41.54,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}les côtés repartent,
+Dialogue: 0,0:02:41.54,0:02:42.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}et ça bifurque.
+Dialogue: 0,0:02:42.74,0:02:44.10,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Les alvéoles : vingt-huit,
+Dialogue: 0,0:02:44.10,0:02:45.35,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}primitives ; trente-six,
+Dialogue: 0,0:02:45.35,0:02:46.60,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}matures ; deux ans, fin.
+Dialogue: 0,0:02:47.16,0:02:48.73,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Quiz : quel facteur inhibe la
+Dialogue: 0,0:02:48.73,0:02:50.34,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}prolifération à l'extrémité du
+Dialogue: 0,0:02:50.34,0:02:50.88,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}bourgeon ?
+Dialogue: 0,0:02:55.28,0:02:56.05,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}BMP.
+Dialogue: 0,0:02:56.19,0:02:58.61,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}SHH, lui, inhibe la production de
+Dialogue: 0,0:02:58.61,0:02:59.03,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}F G F.
+Dialogue: 0,0:02:59.59,0:03:00.66,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}Prochain épisode :
+Dialogue: 0,0:03:00.66,0:03:02.38,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le développement des membres,
+Dialogue: 0,0:03:02.38,0:03:04.52,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}le F G F 8, la crête ectodermique
+Dialogue: 0,0:03:04.52,0:03:06.13,Sub,,0,0,0,,{\fscx94\fscy94\t(0,90,\fscx100\fscy100)}apicale et les gènes HOXD.
