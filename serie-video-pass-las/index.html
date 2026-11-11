@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="fr"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#070A16">
+<title>Biologie &amp; Embryologie — 61 épisodes</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#070A16;color:#E9EDF7;
+ padding-bottom:env(safe-area-inset-bottom)}
+header{position:sticky;top:0;z-index:20;background:rgba(7,10,22,.92);backdrop-filter:blur(12px);
+ border-bottom:1px solid rgba(255,255,255,.08)}
+#player{width:100%;background:#000;display:block;aspect-ratio:9/16;max-height:62vh;object-fit:contain}
+#player.audio{aspect-ratio:auto;height:64px}
+.bar{padding:10px 14px;display:flex;gap:10px;align-items:center}
+.bar .now{flex:1;min-width:0}
+.bar .now b{display:block;font-size:14px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar .now i{font-style:normal;font-size:12px;color:#8FA2C2}
+.btn{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.06);color:#CFE2FF;
+ border-radius:10px;padding:8px 11px;font-size:13px;font-weight:600;cursor:pointer}
+.btn.on{background:#4DA3FF;color:#06101F;border-color:#4DA3FF}
+.wrap{padding:14px 14px 40px;max-width:760px;margin:0 auto}
+h1{font-size:21px;font-weight:800;letter-spacing:-.02em;margin-bottom:4px}
+h1 span{color:#4DA3FF}
+.sub{font-size:13px;color:#8FA2C2;margin-bottom:12px}
+#q{width:100%;padding:12px 14px;border-radius:12px;border:1px solid rgba(255,255,255,.12);
+ background:rgba(255,255,255,.05);color:#E9EDF7;font-size:16px;margin-bottom:14px}
+.part{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#CFE2FF;font-weight:700;
+ margin:18px 0 8px;padding:8px 12px;border-radius:9px;
+ background:linear-gradient(90deg,rgba(77,163,255,.22),rgba(77,163,255,0))}
+.ep{display:flex;gap:12px;align-items:center;padding:11px 12px;border-radius:13px;cursor:pointer;
+ border:1px solid rgba(255,255,255,.07);background:rgba(255,255,255,.035);margin-bottom:8px}
+.ep:active{background:rgba(77,163,255,.16)}
+.ep.cur{border-color:#4DA3FF;background:rgba(77,163,255,.14)}
+.ep .n{font-weight:800;font-size:13px;color:#06101F;background:#4DA3FF;border-radius:8px;
+ padding:5px 8px;min-width:38px;text-align:center}
+.ep.seen .n{background:#2C3A55;color:#9FB0CE}
+.ep .m{flex:1;min-width:0}
+.ep .m b{display:block;font-size:14.5px;font-weight:600;line-height:1.25}
+.ep .m i{font-style:normal;font-size:12px;color:#8FA2C2}
+.ep .d{font-size:12.5px;color:#FFD166;font-weight:700;white-space:nowrap}
+.prog{height:3px;border-radius:2px;background:rgba(255,255,255,.1);margin-top:5px;overflow:hidden}
+.prog>i{display:block;height:100%;background:#4DA3FF}
+footer{color:#6F80A0;font-size:12px;text-align:center;padding:26px 14px}
+</style></head><body>
+<header>
+ <video id="player" controls playsinline preload="metadata"></video>
+ <div class="bar">
+   <div class="now"><b id="nowT">Choisis un épisode</b><i id="nowS">61 épisodes · tout le syllabus</i></div>
+   <button class="btn" id="audio" title="Voix off seule">🎧</button>
+   <button class="btn" id="next">Suivant ›</button>
+ </div>
+</header>
+<div class="wrap">
+ <h1>Biologie &amp; Embryologie générale<br><span>la série en 61 épisodes</span></h1>
+ <p class="sub">WMEDE1152 · UCLouvain · BA1 — reprend automatiquement où tu t'es arrêté.</p>
+ <input id="q" placeholder="Chercher (méiose, placenta, ATP…)" autocomplete="off">
+ <div id="list"></div>
+</div>
+<footer>Les vidéos sont lues depuis ce dépôt · 🎧 = voix off seule (léger en data)</footer>
+<script>
+const EPS = [{"n": 1, "t": "Vivant ou pas vivant ?", "s": "S1-1 p.1 à 8", "c": "Partie I", "d": 696, "k": "7 caractéristiques 9 niveaux 5 thèmes unificateurs"}, {"n": 2, "t": "Les atomes du vivant et leurs liaisons", "s": "S1-1 p.9 à 12h", "c": "Partie I", "d": 315, "k": "96,3 % 3 liaisons 2 réactions 3 facteurs de vitesse"}, {"n": 3, "t": "L'eau, la molécule qui rend tout possible", "s": "S1-1 p.12b à 17", "c": "Partie I", "d": 352, "k": "Polarité liaisons H solvant pH tampons acidose"}, {"n": 4, "t": "Le carbone, architecte des molécules du vivant", "s": "S1-1 p.17b à 22h", "c": "Partie I", "d": 362, "k": "Tétravalence hydrocarbures 6 groupes fonctionnels polymères 4 familles"}, {"n": 5, "t": "Les glucides : sucres, réserves et structures", "s": "S1-1 p.22b à 26", "c": "Partie I", "d": 270, "k": "Mono-, di-, polysaccharides sucrase et lactase α vs β"}, {"n": 6, "t": "Les lipides : graisses, membranes et messagers", "s": "S1-1 p.27 à 32", "c": "Partie I", "d": 244, "k": "Triglycérides phospholipides bicouche terpènes, stéroïdes, prostaglandines, glycolipides"}, {"n": 7, "t": "Les protéines (1) : fonctions et acides aminés", "s": "S1-1 p.33 à 36h", "c": "Partie I", "d": 212, "k": "7 fonctions 20 acides aminés 9 essentiels liaison peptidique"}, {"n": 8, "t": "Les protéines (2) : repliement et dénaturation", "s": "S1-1 p.36b à 41", "c": "Partie I", "d": 231, "k": "4 niveaux de structure domaines chaperons Ebola dénaturation"}, {"n": 9, "t": "Acides nucléiques : ADN, ARN et nucléotides", "s": "S1-1 p.42 à 46h", "c": "Partie I", "d": 220, "k": "Nucléotide 5 bases liaison phosphodiester double hélice ADN humain ATP"}, {"n": 10, "t": "Entrer dans la cellule : taille, microscopes, procaryotes vs eucaryotes", "s": "S1-1 p.46b à 50", "c": "Partie I", "d": 167, "k": "Hooke 1665 théorie cellulaire 10-100 µm 200 nm vs 0,2 nm"}, {"n": 11, "t": "Le noyau et les ribosomes", "s": "S1-1 p.51 à 52", "c": "Partie I", "d": 119, "k": "Enveloppe à 2 membranes lamina pores chromatine nucléole ribosomes"}, {"n": 12, "t": "Le système membranaire interne : RE, Golgi, lysosomes", "s": "S1-1 p.53 à 56", "c": "Partie I", "d": 258, "k": "RER REL Golgi cis/trans transport des protéines lysosomes Tay-Sachs"}, {"n": 13, "t": "Mitochondries, endosymbiose et cytosquelette", "s": "S1-1 p.57 à 59", "c": "Partie I", "d": 216, "k": "2 membranes ADN propre endosymbiose 3 fibres centrioles"}, {"n": 14, "t": "Le cytosquelette en action et la matrice extracellulaire", "s": "S1-1 p.60 et S1-2 p.1 à 2", "c": "Partie I", "d": 194, "k": "Moteurs moléculaires reptation cils et flagelles MEC Ehlers-Danlos"}, {"n": 15, "t": "Les jonctions cellulaires", "s": "S1-2 p.3 à 6", "c": "Partie I", "d": 170, "k": "Étanche adhérente desmosome communicante utérus"}, {"n": 16, "t": "La membrane plasmique : architecture et protéines", "s": "S1-2 p.7 à 10h", "c": "Partie I", "d": 179, "k": "4 composants bicouche fluidité 6 fonctions transmembranaires vs extrinsèques"}, {"n": 17, "t": "Traverser sans énergie : diffusion et osmose", "s": "S1-2 p.10b à 15", "c": "Partie I", "d": 247, "k": "Diffusion simple diffusion facilitée canaux perméases osmose aquaporines"}, {"n": 18, "t": "Le transport actif : pompe Na⁺/K⁺ et SGLT", "s": "S1-2 p.16 à 17", "c": "Partie I", "d": 192, "k": "Uniport symport antiport 6 étapes de la pompe co-transport organites"}, {"n": 19, "t": "Transport en vrac : endocytose, exocytose et cellule intestinale", "s": "S1-2 p.18 à 20h", "c": "Partie I", "d": 204, "k": "Phagocytose pinocytose endocytose via récepteur LDL exocytose SGLT1/GLUT2"}, {"n": 20, "t": "Les cellules se parlent : signaux, récepteurs, transduction", "s": "S1-2 p.20b à 25h", "c": "Partie I", "d": 233, "k": "Contact direct paracrine synaptique endocrine kinases insuline"}, {"n": 21, "t": "Diviser pour durer : division cellulaire et réplication de l'ADN", "s": "S1-2 p.25b à 29", "c": "Partie I", "d": 161, "k": "Rôles chiffres check-list réplication semi-conservative bactéries"}, {"n": 22, "t": "Les chromosomes eucaryotes : condensation, cohésines, caryotype", "s": "S1-2 p.30 à 33", "c": "Partie I", "d": 185, "k": "46 chromosomes nucléosomes chromatides sœurs centromère homologues kinétochores"}, {"n": 23, "t": "Le cycle cellulaire et les 5 phases de la mitose", "s": "S1-2 p.34 à 38", "c": "Partie I", "d": 194, "k": "G1 S G2 mitose cytocinèse « promettante »"}, {"n": 24, "t": "Contrôle du cycle, cancers et vincristine", "s": "S1-2 p.39 à 40h", "c": "Partie I", "d": 120, "k": "3 points de contrôle cancers aneuploïdie vincristine"}, {"n": 25, "t": "Reproduction sexuée : mitose vs méiose", "s": "S1-2 p.40b à 44", "c": "Partie I", "d": 183, "k": "Asexuée vs sexuée cycle 2n / n méiose 1 et 2 étapes"}, {"n": 26, "t": "Prophase 1 : 5 stades et crossing-over", "s": "S1-2 p.45 à 49h", "c": "Partie I", "d": 190, "k": "Leptotène zygotène pachytène diplotène diacinèse chiasmas méiose 2"}, {"n": 27, "t": "Gamètes, diversité génétique et erreurs de méiose", "s": "S1-2 p.49b à 51", "c": "Partie I", "d": 192, "k": "Spermatogenèse ovogenèse diversité non-disjonction trisomie 21 Klinefelter Turner"}, {"n": 28, "t": "Le gène et le code génétique", "s": "S1-3 p.1 à 5h", "c": "Partie I", "d": 197, "k": "Définition du gène locus transcription, maturation, traduction triplets et codons START / STOP"}, {"n": 29, "t": "Transcription et maturation de l'ARN", "s": "S1-3 p.5b à 6", "c": "Partie I", "d": 134, "k": "ARN polymérase brin – et brin + épissage coiffe poly-A cadre de lecture"}, {"n": 30, "t": "La traduction : ARNt, ribosomes et chaîne naissante", "s": "S1-3 p.7 à 12", "c": "Partie I", "d": 186, "k": "48 ARNt aminoacyl-ARNt synthétases 40S + 60S élongation STOP polyribosomes"}, {"n": 31, "t": "Atelier : décoder le gène de l'insuline", "s": "S1-3 p.13 à 16", "c": "Partie I", "d": 150, "k": "Ensembl 3 exons, 2 introns brin + de l'ATG au STOP"}, {"n": 32, "t": "Adressage : SRP, RER et trafic des protéines", "s": "S1-3 p.17 à 18", "c": "Partie I", "d": 152, "k": "Peptide signal particule de reconnaissance du signal séquences d'adressage tableau de tri"}, {"n": 33, "t": "Allumer ou éteindre un gène : la régulation", "s": "S1-3 p.19 à 22", "c": "Partie I", "d": 215, "k": "Programme d'expression facteurs de transcription séquences cis post-transcriptionnel ubiquitine"}, {"n": 34, "t": "Procaryotes, virus et génome", "s": "S1-3 p.23 à 27", "c": "Partie I", "d": 244, "k": "Code universel ARNm polycistroniques virus 1,5 % codant taille ≠ complexité"}, {"n": 35, "t": "Mutations, polymorphisme et thérapie génique", "s": "S1-3 p.28 à 32", "c": "Partie I", "d": 258, "k": "1 nucléotide sur 1250 allèles substitution, délétion, insertion germinal vs somatique SCID"}, {"n": 36, "t": "Mendel et le monohybridisme", "s": "S1-4 p.1 à 4", "c": "Partie I", "d": 185, "k": "Génotype phénotype dominant/récessif F1, F2 1:2:1 et 3:1 croisement Vv × vv"}, {"n": 37, "t": "Maladies monogéniques et dihybridisme", "s": "S1-4 p.5 à 7h", "c": "Partie I", "d": 177, "k": "Mucoviscidose (récessive) glaucome juvénile (dominant) RRYY × rryy 9:3:3:1"}, {"n": 38, "t": "Au-delà de Mendel : groupes ABO et probabilités", "s": "S1-4 p.7b à 9", "c": "Partie I", "d": 222, "k": "Polygénique pléiotropique multiallélisme dominance incomplète codominance transfusions Maria et Théo"}, {"n": 39, "t": "Gènes liés, hérédité liée au sexe et inactivation de l'X", "s": "S1-4 p.10 à 13h", "c": "Partie I", "d": 173, "k": "Recombinaison centimorgan hémizygote hémophilie corpuscule de Barr mosaïque"}, {"n": 40, "t": "Métabolisme, énergie et enzymes", "s": "S1-4 p.13b à 19", "c": "Partie I", "d": 291, "k": "Catabolisme anabolisme ΔG ATP énergie d'activation site actif régulation"}, {"n": 41, "t": "Respiration cellulaire (1) : glycolyse, pyruvate, Krebs", "s": "S1-4 p.20 à 23h", "c": "Partie I", "d": 287, "k": "ΔG –686 kcal/mole NAD+ 5 étapes glycolyse acétyl-CoA cycle du citrate"}, {"n": 42, "t": "Respiration cellulaire (2) : chaîne, chimiosmose, bilan", "s": "S1-4 p.23b à 26", "c": "Partie I", "d": 293, "k": "Pompes à H+ ATP synthase 36 ATP théoriques fermentation photosynthèse"}, {"n": 43, "t": "Le calendrier du développement & la spermatogenèse", "s": "S2-1 p.1 à 6", "c": "Partie II", "d": 255, "k": "Frise CGPs tubules séminifères spermiogenèse 64 jours FSH/LH"}, {"n": 44, "t": "Ovogenèse et folliculogenèse", "s": "S2-1 p.7 à 10", "c": "Partie II", "d": 226, "k": "Ovogonies dictyotène primordial → primaire → secondaire → tertiaire → Graaf"}, {"n": 45, "t": "L'ovulation et son contrôle hormonal", "s": "S2-1 p.11 à 14h", "c": "Partie II", "d": 218, "k": "Pic de LH ovocyte II corona radiata 38 h corps jaune hCG contraception"}, {"n": 46, "t": "La fécondation, étape par étape", "s": "S2-1 p.14b à 18", "c": "Partie II", "d": 285, "k": "Capacitation ZP3–SED1 réaction acrosomiale CD9–IZUMO fusion pronuclei"}, {"n": 47, "t": "Segmentation, blastocyste et implantation", "s": "S2-1 p.19 à 22h", "c": "Partie II", "d": 223, "k": "Morula trophoblaste blastocèle épiblaste/hypoblaste éclosion fenêtre d'implantation"}, {"n": 48, "t": "Invasion de l'endomètre et cavités de l'embryon", "s": "S2-1 p.22b à 25", "c": "Partie II", "d": 212, "k": "Cyto/syncytiotrophoblaste réaction déciduale amnios lécithocèles villosités 4 couches"}, {"n": 49, "t": "Gastrulation : ligne primitive, trois feuillets, somites", "s": "S2-2 p.1 à 5h", "c": "Partie II", "d": 173, "k": "Ligne primitive axes endoderme et mésoderme définitifs territoires du mésoderme 42-44 somites"}, {"n": 50, "t": "Neurulation, crête neurale et notochorde", "s": "S2-2 p.5b à 9h", "c": "Partie II", "d": 242, "k": "Plaque, plis, tube neural crête neurale neuropores J24-25 / J26 défauts notochorde"}, {"n": 51, "t": "Totipotence, pluripotence et programmes d'expression", "s": "S2-2 p.9b à 13", "c": "Partie II", "d": 216, "k": "Toti vs pluri diagnostic pré-implantatoire jumeaux monozygotes cellules ES OPC1 morphogènes"}, {"n": 52, "t": "Morphogènes, engagement et reprogrammation", "s": "S2-2 p.14 à 18h", "c": "Partie II", "d": 250, "k": "Spemann-Mangold gradients Bicoid/Buttonhead mémoire nucléaire transfert nucléaire iPS multipotence"}, {"n": 53, "t": "Les mouvements cellulaires et la transition épithélio-mésenchymateuse", "s": "S2-2 p.18b à 22", "c": "Partie II", "d": 199, "k": "Invagination involution épibolie/intercalation extension convergente ingression TEM"}, {"n": 54, "t": "Le soulèvement de l'embryon et le devenir des feuillets", "s": "S2-2 p.23 à 28h", "c": "Partie II", "d": 240, "k": "4e semaine repli latéral et crânio-caudal cœlome conduit vitellin septum transversum allantoïde devenirs"}, {"n": 55, "t": "Asymétrie gauche-droite : flux nodal & cordon ombilical", "s": "S2-2 p.28b à 32h", "c": "Partie II", "d": 183, "k": "Shh → Nodal → Lefty2 → Pitx2 Lrd situs inversus Kartagener monocils cordon 5 mm"}, {"n": 56, "t": "Organogenèse : principes et poumons", "s": "S2-2 p.32b à 34", "c": "Partie II", "d": 187, "k": "3 feuillets apoptose morphogènes diverticule respiratoire alvéoles sem. 28/36 FGF/SHH/BMP"}, {"n": 57, "t": "Organogenèse : les membres", "s": "S2-2 p.35 à 38", "c": "Partie II", "d": 225, "k": "Bourgeons sem. 4-8 apoptose FGF8 CEA et ZP proximo-distal HOXD9-13 origines tissulaires Pfeiffer"}, {"n": 58, "t": "De l'embryon au fœtus : amnios, liquide amniotique, jumeaux, chimères", "s": "S2-3 p.1 à 9", "c": "Partie II", "d": 209, "k": "Semaines 0-8 / 9 → naissance Carnegie liquide amniotique Potter gémellité chimérisme"}, {"n": 59, "t": "Le placenta : caduques, pathologies, barrière, rhésus", "s": "S2-3 p.10 à 18", "c": "Partie II", "d": 270, "k": "Caduques basale, réfléchie, pariétale praevia 1/200 accreta 1/700 échanges barrière IgG rhésus"}, {"n": 60, "t": "Tératogenèse : les trois principes et trois médicaments", "s": "S2-3 p.19 à 30", "c": "Partie II", "d": 296, "k": "Tests de tératogénicité période critique dose critique composante génétique vismodégib mycophénolate mofétil warfarine"}, {"n": 61, "t": "La FIVETE de A à Z", "s": "S2-3 p.31 à 42", "c": "Partie II", "d": 299, "k": "Indications stimulation ponction Percoll ICSI 2 pronuclei transfert taux de succès"}];
+const L=localStorage, list=document.getElementById('list'), v=document.getElementById('player');
+let cur=null, audio=false;
+const mmss=s=>s?Math.floor(s/60)+" min "+String(Math.round(s%60)).padStart(2,"0"):"";
+const pad=n=>String(n).padStart(2,"0");
+function render(f=""){
+ list.innerHTML=""; let part="";
+ const q=f.toLowerCase();
+ for(const e of EPS){
+  const hay=(e.n+" "+e.t+" "+e.k+" "+e.s).toLowerCase();
+  if(q && !hay.includes(q)) continue;
+  const p = e.n<=42 ? "Partie I — des molécules aux cellules" : "Partie II — des cellules à l'organisme";
+  if(p!==part && !q){part=p;const h=document.createElement('div');h.className='part';h.textContent=p;list.appendChild(h);}
+  const t=+(L.getItem('t'+e.n)||0), pc=e.d?Math.min(100,t/e.d*100):0;
+  const d=document.createElement('div');
+  d.className='ep'+(cur===e.n?' cur':'')+(pc>90?' seen':'');
+  d.innerHTML=`<div class="n">${e.n}</div><div class="m"><b>${e.t}</b><i>${e.s}</i>
+   ${pc>1?`<div class="prog"><i style="width:${pc}%"></i></div>`:''}</div><div class="d">${mmss(e.d)}</div>`;
+  d.onclick=()=>play(e.n);
+  list.appendChild(d);
+ }
+}
+function play(n,seek=true){
+ const e=EPS.find(x=>x.n===n); if(!e) return;
+ cur=n; L.setItem('last',n);
+ v.src=(audio?'voix-off/ep'+pad(n)+'.m4a':'videos/ep'+pad(n)+'.mp4');
+ v.classList.toggle('audio',audio);
+ const t=+(L.getItem('t'+n)||0);
+ v.onloadedmetadata=()=>{ if(seek && t>5 && t<v.duration-15) v.currentTime=t; v.play().catch(()=>{}); };
+ document.getElementById('nowT').textContent='Ép. '+n+' · '+e.t;
+ document.getElementById('nowS').textContent=e.s;
+ render(document.getElementById('q').value);
+ window.scrollTo({top:0,behavior:'smooth'});
+}
+v.ontimeupdate=()=>{ if(cur&&v.currentTime>3) L.setItem('t'+cur,Math.floor(v.currentTime)); };
+v.onended=()=>{ if(cur<61) play(cur+1); };
+document.getElementById('next').onclick=()=>play((cur||0)+1<=61?(cur||0)+1:1);
+document.getElementById('audio').onclick=e=>{
+ audio=!audio; e.target.classList.toggle('on',audio);
+ if(cur){const t=v.currentTime;play(cur,false);v.onloadedmetadata=()=>{v.currentTime=t;v.play().catch(()=>{});};}
+};
+document.getElementById('q').oninput=e=>render(e.target.value);
+render();
+const last=+(L.getItem('last')||0);
+if(last){cur=last;const e=EPS.find(x=>x.n===last);
+ document.getElementById('nowT').textContent='Reprendre : ép. '+last+' · '+e.t;
+ document.getElementById('nowS').textContent=e.s+' · appuie pour lancer';
+ v.src='videos/ep'+pad(last)+'.mp4';
+ v.onloadedmetadata=()=>{const t=+(L.getItem('t'+last)||0); if(t>5&&t<v.duration-15) v.currentTime=t;};
+ render();}
+</script></body></html>

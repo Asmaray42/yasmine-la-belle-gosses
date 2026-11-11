@@ -21,6 +21,7 @@
 | `voix-off/epNN.m4a` | La voix off seule (révision en marchant, en voiture…) |
 | `source/episodes/epNN.yaml` | La **source** de l'épisode : tout le contenu, scène par scène |
 | [`PRONONCIATION.md`](PRONONCIATION.md) | Comment la voix lit le cours : sigles épelés, formules, exposants, transcriptions phonétiques imposées |
+| [`index.html`](index.html) | **Lecteur mobile** : les 61 épisodes dans une page (playlist, reprise automatique, recherche, voix off seule) |
 | `outils/` | La chaîne de fabrication (voix, lexique de prononciation, découpe des diapos, moteur d'animation, montage, audit) |
 
 ## Comment réviser avec
@@ -42,3 +43,11 @@ python3 outils/audit.py                      # grille de couverture + audit
 ```
 
 Voix : **Kokoro v1.0 ONNX**, voix française `ff_siwis`, identique sur toute la série ; la prononciation des sigles, formules et termes scientifiques est pilotée par `outils/lexique.py`.
+
+## Regarder sur téléphone
+
+`index.html` est un lecteur autonome : playlist des 61 épisodes, reprise là où tu t'es arrêté, recherche par mot-clé, bouton 🎧 pour n'écouter que la voix off.
+
+- **En ligne** : si GitHub Pages sert la branche depuis la racine, la page est à `https://<utilisateur>.github.io/<dépôt>/serie-video-pass-las/` — rien à télécharger, tout se lit en streaming.
+- **Hors ligne** : récupérer le dossier une fois (`git clone` ou ZIP), puis ouvrir `index.html` ; les vidéos sont lues en local, sans réseau.
+- Régénérer la page après un nouveau rendu : `python3 outils/make_index.py`.
